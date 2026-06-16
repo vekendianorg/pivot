@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/pivot-logo.png" alt="Pivot Logo" width="420"/>
+  <img src="./assets/pivot-logo.jpg" alt="Pivot Logo" width="420"/>
 </p>
 
 # ⚙️ Pivot
