@@ -1,2 +1,13 @@
-# 🔍 ME / Memory Editor
-> Modified GameGuardian with additional features, LuaJava support and etc.
+<p align="center">
+  <img src="./assets/pivot-logo.png" alt="Pivot Logo" width="420"/>
+</p>
+
+# ⚙️ Pivot
+A modified memory editor built on top of GameGuardian with extended features, LuaJava support, and system-level tooling enhancements.
+
+---
+
+## 🧠 Overview
+- Extended scripting capabilities (Lua / LuaJava)
+- Improved memory manipulation tooling
+- Compatibility aligned with Void ecosystem updates
