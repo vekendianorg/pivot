@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lang_code">~~~tr~~~</string>
+    <string name="front_text">__app_name__ veya uygulamanın kullanımı ile ilgili herhangi bir sorularınız varsa, lütfen forumumuzu ziyaret edin __forum__</string>
+    <string name="set_path">Geçici yol</string>
+    <string name="number">Sayı:</string>
+    <string name="type">Tip:</string>
+    <string name="name">Adı:</string>
+    <string name="reset">İşlem seç</string>
+    <string name="set_range">Bellek aralıklarını seç</string>
+    <string name="search">Ara</string>
+    <string name="save">Kaydet</string>
+    <string name="goto1">Git</string>
+    <string name="address">Adres:</string>
+    <string name="edit_all">Tümünü düzenle</string>
+    <string name="filter">Filtre</string>
+    <string name="clear">Temizle</string>
+    <string name="max_show_rec">Göster:</string>
+    <string name="equal">Değişmedi</string>
+    <string name="inequal">Değişdi</string>
+    <string name="larger">Arttı</string>
+    <string name="smaller">Azaldı</string>
+    <string name="compare_current_last">Değer nasıl değişti?</string>
+    <string name="write_region_log">Bölge günlüğüne yaz</string>
+    <string name="old_version">Eski sürüm</string>
+    <string name="found_old_version">"__app_name__'ın eski bir sürümü bulundu. Eski sürüm kaldırılsın mı?"</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="ok">Tamam</string>
+    <string name="failed_find_package_name">Uygulama paketi adı bulunamadı!</string>
+    <string name="path_for_temp_files">"Geçici dosyalar için bir yol ayarlayın, ör. '__sdcard__'. Birkaç yüz MB boş yer gerekebilir. Geçerli arama sonuçları kaybolacaktır."</string>
+    <string name="confirm">Onayla</string>
+    <string name="cancel">İptal</string>
+    <string name="found_new_version">Yeni sürüm bulundu __s__</string>
+    <string name="daemon_failed">Daemon başarısız</string>
+    <string name="failed_run_daemon">Daemon çalıştıramadı. Root var mı?</string>
+    <string name="daemon_unexpected_closed">Daemon beklenmedik bir şekilde kapandı. Bilgi:</string>
+    <string name="daemon_exited">Daemon çıkıldı</string>
+    <string name="failed_load_daemon">Daemon yüklenemedi</string>
+    <string name="is_device_rooted">Root erişimi alınamıyor.</string>
+    <string name="collect_data_to_region_log">Bölge günlüğüne yazmak için verilerin toplanması başladı...</string>
+    <string name="log_saved">Günlük __s__ konumuna kaydedildi</string>
+    <string name="failed_save">__s__ konumuna kaydedilemedi</string>
+    <string name="region_log">Bölge günlüğü</string>
+    <string name="apply">Uygula</string>
+    <string name="error">Hata</string>
+    <string name="load">Yükle</string>
+    <string name="delete_prompt">Bu öğeyi kaldırmak istiyor musunuz?</string>
+    <string name="reset_search">HATA algılandı. Arama listesini sıfırlayın.</string>
+    <string name="unknown_error">Bilinmeyen hata</string>
+    <string name="out_of_memory">Yetersiz bellek</string>
+    <string name="bug_detected">Hata algılandı</string>
+    <string name="disk_full">Disk dolu</string>
+    <string name="io_error">GÇ hatası</string>
+    <string name="game_dead">Oyun kapandı</string>
+    <string name="exit">Çıkış</string>
+    <string name="skip">Yoksay</string>
+    <string name="unhandled_exception">İşlenmeyen istisna. Aşağıdaki bilgi geliştirici ekibine gönderilsin mi?</string>
+    <string name="last_run_failed">Son çalıştırma başarısız</string>
+    <string name="thank_you">Teşekkürler!</string>
+    <string name="no_application">Hiçbir uygulama seçilmedi.</string>
+    <string name="increments">Artış:</string>
+    <string name="add_not_replace">Değere ekle, değiştirme</string>
+    <string name="eperm_error">(PTRACE_ATTACH) işlemi eklenemedi: İşleme izin verilmedi</string>
+    <string name="load_list">Listeyi yükle</string>
+    <string name="load_warning">Oyunun başka bir örneğinden kaydedilen bir liste yüklediniz. Büyük ihtimalle, bellekteki tüm adresler değişti ve daha önce kaydedilen verilere karşılık gelmeyen veriler yüklendi. Bunları kontrol etmenizi öneririz.</string>
+    <string name="from">__d__/__d__ aşama tamamlandı</string>
+    <string name="count_fuzzy_equal_run">"Kaç kere çalıştıracağını seçin '__fuzzy_equal__':"</string>
+    <string name="slow">yavaş</string>
+    <string name="miui_restart">__app_name__ güvenlik izinlerini uygulaması için yeniden başlatılması gerekiyor.</string>
+    <string name="out_of_memory_error">Yetersiz bellek hatası. Geçerli sonuç listesi temizlendi. Sonuç sayısını göstermek için lütfen daha küçük bir değer ayarlayın.</string>
+    <string name="loading">Yükleniyor...</string>
+    <string name="found_count">Bulundu: __d__</string>
+    <string name="fuzzy_equal">Değer değişmedi</string>
+    <string name="fuzzy_inequal">Değer değişti</string>
+    <string name="fuzzy_larger">Değer arttı</string>
+    <string name="fuzzy_smaller">Değer azaldı</string>
+    <string name="type_edit_limit">Giriş değeri __s__ - __s__</string>
+    <string name="number_name">sayı</string>
+    <string name="step_name">arttır</string>
+    <string name="number_less">"Bu tip için '__s__' sayısı en küçük değerden (__d__) daha küçük."</string>
+    <string name="number_greater">"Bu tip için '__s__' sayısı en büyük değerden (__d__) daha büyük."</string>
+    <string name="about">Hakkında</string>
+    <string name="owner">sahibi</string>
+    <string name="design">baş tasarımcı</string>
+    <string name="pm">proje yönetimi</string>
+    <string name="code">baş kodlayıcı</string>
+    <string name="tech">teknik danışman</string>
+    <string name="creator">yaratıcı (emekli)</string>
+    <string name="for_translators">Yardım etmek veya uygulamanın çevirisini yapmak istiyorsanız, çevirinin uygulamanın resmî sürümünüde yer alması için forumdan bize ulaşabilirsiniz. http://gameguardian.net/forum</string>
+    <string name="version">Sürüm:</string>
+    <string name="developers">Geliştiriciler:</string>
+    <string name="select_language">Dil seç</string>
+    <string name="exit_confirm">"Değişiklikleri uygulamak için __app_name__'ın yeniden başlatılması gerekiyor."</string>
+    <string name="special_thanks">Özel teşekkürler:</string>
+    <string name="nothing_found">Hiçbir şey bulunamadı. Tekrar arama yapmayı deneyin.</string>
+    <string name="try_more_ranges">Ayarlar sekmesinde daha fazla aralıkları seçmeyi de deneyebilirsiniz.</string>
+    <string name="try_fuzzy_search">Bilinmeyen bir değeri aramayı da deneyebilirsiniz.</string>
+    <string name="search_hint">"Bilinen bir değer aramak için \"__search_known_value__\"ya basın.
+Değeri bilinmeyen veya şifrelenmiş ise - aramak için \"__search_unknown_value__\"ya basın.
+Float değerlerini integer sayılarla aramak için '__type_auto__' arama tipini seçerek gerçekleştirilebilirsiniz.
+Ayrıca bir grup aramasını '__semicolon__' ayırıcısı ile kullanabilirsiniz."</string>
+    <string name="freeze">Dondur:</string>
+    <string name="freeze_normal">normal</string>
+    <string name="freeze_may_increase">artabilir</string>
+    <string name="freeze_may_decrease">azalabilir</string>
+    <string name="freeze_in_range">aralığında</string>
+    <string name="range_end_fail">"Aralık sonu ('__s__') __s__ 'den büyük olmalıdır."</string>
+    <string name="failed_add_window">Pencere eklenemedi</string>
+    <string name="failed_remove_window">Pencere kaldırılamadı</string>
+    <string name="system_service_stopped">Sistem hizmeti durdurulduğundan, uygulama normal şekilde çalışamıyor. Uygulamayı yeniden başlatmayı deneyin veya cihazı yeniden başlatın.</string>
+    <string name="value_request">Aramak için bir değer girin</string>
+    <string name="type_request">Aranacak verinin tipini seçin</string>
+    <string name="type_change_request">Değiştirmek için veri tipini seçin</string>
+    <string name="value">Değer</string>
+    <string name="save_as">Farklı kaydet:</string>
+    <string name="restart">Yeniden Başlat</string>
+    <string name="start">Başlat</string>
+    <string name="wait_daemon">Daemon çalışmıyorsa bu özellik kullanılamaz. Daemon başlayana kadar bekleyin. (Root erişimi vermeyi unuttun mu? Veya root yok mu?)</string>
+    <string name="daemon_fail">Daemon çalışmıyor</string>
+    <string name="config_icon_text">Simge: şeffaflık = __d__ %%, gizle - __s__</string>
+    <string name="icon_hide_after">__d__ saniye sonra</string>
+    <string name="icon_hide_never">asla</string>
+    <string name="keyboard">Klavye:</string>
+    <string name="internal">Dahili</string>
+    <string name="external">Harici</string>
+    <string name="failed_copy_text">Metin panoya kopyalanamadı:</string>
+    <string name="copied">Kopyalandı</string>
+    <string name="copy_value">Değeri kopyala:</string>
+    <string name="copy_address">Adresi kopyala:</string>
+    <string name="goto_address">Adrese git:</string>
+    <string name="search_unknown_value">Bilinmeyen (belirsiz) arama</string>
+    <string name="search_known_value">Bilinen (tam) arama</string>
+    <string name="speedhack_hint">"Oyunun hızını değiştirmek için, __app_name__'ın yüzen simgesine uzun basın."</string>
+    <string name="bad_firmware">Firmware yazılımınızda, bu özelliğin kullanılmasını engelleyen hatalar var.</string>
+    <string name="language">Dil</string>
+    <string name="acceleration">Arayüz hızlandırma:</string>
+    <string name="hardware">Donanım</string>
+    <string name="software">Yazılım</string>
+    <string name="speedhack">Hız hilesi</string>
+    <string name="data_in_ram">"RAM'deki veriler:"</string>
+    <string name="first_mb">İlk __d__ MB</string>
+    <string name="donate">Bağış yap</string>
+    <string name="speeds">hızlar</string>
+    <string name="floating_window_fail">Yüzen pencere gösterilemiyor</string>
+    <string name="check">Doğrulama</string>
+    <string name="check_success">Doğrulama başarılı oldu</string>
+    <string name="enable_draw_perm">Lütfen bir sonraki ekranda izinleri etkinleştirin.</string>
+    <string name="speedhack_fail">Bu işlem için hız hilesi desteklenmemektedir</string>
+    <string name="dangerous">tehlikeli</string>
+    <string name="difference">Fark</string>
+    <string name="old_value">Eski değer</string>
+    <string name="new_value">Yeni değer</string>
+    <string name="mode_hacking">Değer şifrelendi</string>
+    <string name="union">Grup arama</string>
+    <string name="speedhack_open">"__app_name__'ın yüzen simgesine uzun basarak hız hilesini açabilirsiniz."</string>
+    <string name="history">Geçmiş</string>
+    <string name="history_empty">Geçmiş boş</string>
+    <string name="allow_suggestions">Klavyeden önerilere izin ver:</string>
+    <string name="invalid_area">Grup boyutu __d__ ve __d__ arasında olmalıdır:</string>
+    <string name="union_need_two_numbers">Grup araması için en az iki sayı olmalıdır</string>
+    <string name="too_many_union_numbers">Çok fazla sayı, bundan daha fazla:</string>
+    <string name="invalid_number">Geçersiz sayı:</string>
+    <string name="input_number">Sayı girin</string>
+    <string name="number_out_of_range">"'__s__' sayısı olası aralığın dışında:"</string>
+    <string name="help_floating_icon">"*  Yüzen simge:
+    *    Arayüzü açmak için dokunun.
+    *    Hız hilesi panelini açıp kapatmak için basılı tutun.
+    *    Simgeyi sürükleyip bırakarak herhangi bir yere taşıyabilirsiniz.
+    *    Şeffaflığı ve gizleme zamanlayıcısını, uygulama ayarlarından özelleştirebilirsiniz.
+"</string>
+    <string name="help_exact_search">"*  Tam arama:
+     1.  Bir oyundan __app_name__'ı açın.
+     2.  \"__search__\" sekmesindeki \"__search_known_value__\"ya dokunun.
+     3.  Oyunda görünen sayıyı girin.
+     4.  Uygun veri tipini veya (emin değilseniz) \"__type_auto__\" tipini seçin ve (gerekirse) diğer seçenekleri seçip \"__search__\"ya dokunun.
+     5.  Arama bittiğinde, arama sonuçları listede görüntülenecektir.
+     6.  Oyuna geri dönün. Değeri değiştirdikten sonra tekrar __app_name__'ı açın.
+     7.  Değiştirilen değeri arayın.
+     8.  Çok fazla sonuç varsa 6. adıma dönün.
+     9.  Sadece birkaç sonuç kalırsa, değeri değiştirmeye, depolamaya veya dondurmaya çalışabilirsiniz.
+"</string>
+    <string name="help_speedhack">"*  Hız hilesi:
+     *    Hız hilesi panelini açmak için yüzen simgeye basılı tutun.
+     *    Oyun hızını değiştirmek için yüzen simgenin herhangi bir yanındaki oklara dokunun.
+     *    Oyun hızını sıfırlamak için geçerli hız sayısına basılı tutun.
+     *    Hız hilesi panelini gizlemek için yüzen simgeye basılı tutun.
+     *    Kullanılan hızların ve zamanlayıcıların listesini uygulama ayarlarından özelleştirilebilirsiniz.
+     *    Oyun yanıt vermiyor veya hız hilesi çalışmıyorsa, __app_name__ ayarlarından diğer yeşil zamanlayıcıları kullanmayı deneyin.
+     *    Zamanda ileri atlamak için \"__time_jump__\"yı kullanabilirsiniz. Arama sekmesinde bulunan menüden \"__time_jump__\"yı seçin. Kaç saniye atlayacağınızı belirtmeniz gerekecek. Atlama miktarı kesirli olabilir.
+"</string>
+    <string name="help_fuzzy_search">"*  Bilinmeyen arama:
+     1.  Bir oyundan __app_name__'ı açın.
+     2.  \"__search__\" sekmesindeki \"__search_unknown_value__\"ya dokunun.
+     3.  Uygun veri tipini veya (emin değilseniz) \"__type_auto__\" tipini seçip \"__search__\"ya dokunun.
+     4.  Arama bittiğinde, arama sonuçları listede görüntülenecektir.
+     5.  Oyuna geri dönün. Değeri değiştirdikten sonra (veya değiştirmeden), __app_name__'ı tekrar açın.
+     6.  \"__search_unknown_value__\" düğmesine dokunun ve değerin nasıl değiştiğini seçin.
+     7.  Çok fazla sonuç varsa 5. adıma dönün.
+     8.  Sadece birkaç sonuç kalırsa, değeri değiştirmeye, depolamaya veya dondurmaya çalışabilirsiniz.
+     
+     \"__more__\" düğmesine dokunarak değerin tam değişikliğini belirtebilirsiniz.
+\u0009 Doğru bir değer değişikliği olarak bir aralık girebilirsiniz:
+     \u0009190__tilde__210
+\u0009 Değer aralığının dışında bir değişiklik belirtmek için de bir aralık girebilirsiniz:
+\u0009 \u000910__tilde____tilde__4000
+"</string>
+    <string name="help_group_search">"*  Grup arama:
+     1.  Bir oyundan __app_name__'ı açın.
+     2.  \"__search__\" sekmesindeki \"__search_known_value__\"ya dokunun.
+     3.  Grup arama için arama isteği girin.
+     \u0009Biçim: değer 1 __semicolon__ değer 2 __semicolon__ ... __semicolon__ değer N __colon__ grup boyutu
+     \u0009Aynı anda 2 ila __max_group__ değer aranabilir. Varsayılan grup boyutu 512'dir. Grup boyutu 2 ile 65536 arasında olmalıdır.
+     \u0009Örneğin, 195 ve 6543'ü aramak isterseniz, şunu girmeniz gerekir:
+     \u0009\u0009195 __semicolon__ 6543
+     \u0009Tabii ki grup boyutunu (300) belirtebilirsiniz:
+     \u0009\u0009195 __semicolon__ 6543 __colon__ 300
+     \u0009Ayrıca, bir veya daha fazla veri tipini belirtebilirsiniz:
+     \u0009\u0009195__type_dword_short__ __semicolon__ 6543
+     \u0009Bu, 195 olan bir __type_dword__ değerini ve 6543 olan bir __type_auto__ değerini aramak istediğiniz anlamına gelir.
+     \u0009Olası veri tipleri aramada oldukları gibidir:
+     \u0009\u0009__type_byte_short__ - __type_byte__
+     \u0009\u0009__type_word_short__ - __type_word__
+     \u0009\u0009__type_dword_short__ - __type_dword__
+     \u0009\u0009__type_xor_short__ - __type_xor__
+     \u0009\u0009__type_qword_short__ - __type_qword__
+     \u0009\u0009__type_float_short__ - __type_float__
+     \u0009\u0009__type_double_short__ - __type_double__
+     \u0009\u0009__type_auto_short__ - __type_auto__
+     \u0009Ayrıca, sayıyı hex (little-endian) gösterimiyle de yazabilirsiniz:
+     \u0009\u0009__hex_example____hex__ __semicolon__ 6543
+     \u0009veya ters hex ((big-endian) gösterimiyle:
+     \u0009\u0009__hex_example____rhex__ __semicolon__ 6543
+     \u0009Ek semboller girmek için dahili klavyeden \"__btn_hex__\" düğmesini kullanın.
+     4.  Uygun veri tipini seçin veya varsayılan olarak kullanmak için (emin değilseniz) \"__type_auto__\" tipini seçin. Bu tür aramalar için diğer seçenekler önemli değildir. \"__search__\"ya dokunun.
+     5.  Arama bittiğinde, arama sonuçları listede görüntülenecektir.
+     6.  Oyuna geri dönün. Değeri değiştirdikten sonra tekrar __app_name__'ı açın.
+     7.  Grup aramasını uygun değişikliklerle tekrarlayın.
+     8.  Çok fazla sonuç varsa 6. ve 7. adımları tekrarlayın.
+     9.  Sadece birkaç sonuç kalırsa, değeri değiştirmeye, depolamaya veya dondurmaya çalışabilirsiniz.
+     
+     Değerlerin sırasını korumak isterseniz iki defa __colon__ kullanın.
+     Grup boyutu olmadan:
+     \u0009195 __semicolon__ 6543 __colon____colon__
+     Grup boyutu ile:
+     \u0009195 __semicolon__ 6543 __colon____colon__ 300
+     
+     Değer aralığında arama yapabilirsiniz:
+     \u0009190__tilde__210 __semicolon__ 6543
+\u0009 Ayrıca, değer aralığının dışında da arama yapabilirsiniz:
+\u0009 \u000910__tilde____tilde__4000 __semicolon__ 6543
+"</string>
+    <string name="help_others">"*  Diğerleri:
+     *   Yeni aramalar için, menü düğmesinin altındaki menüden \"__clear__\"yi seçerek önceki arama sonuçlarını temizlemeniz gerekir.
+     *   Sol üst köşedeki oyun simgesine dokunarak başka bir oyunu seçebilirsiniz.
+     *   Bir oyunu duraklatmak/devam ettirmek için - sol üst köşedeki simgenin altındaki düğmeye dokunun.
+     *   Duraklatma etkinken bir oyunu açarsanız, __app_name__ oyunu bir sonraki açışınızda o oyunu otomatik olarak duraklatacaktır.
+     *   Dondurulan tüm değerler otomatik olarak kaydedilenler listesine eklenir. Dondurulan değerleri uygun sekmenin altından yönetebilirsiniz.
+     *   Girilen tüm veriler \"__history__\" listesine kaydedilir. Geçmiş düğmesine basarak o verileri kullanabilirsiniz.
+"</string>
+    <string name="help_typical_usage">"*  Tipik kullanım algoritmaları:
+
+1) Değer şifrelenmemiş ve bilinmiyor.
+   Tipik bir örnek, para, yıldızlar, kaynaklar vb. olabilir.
+
+   Tam aramayı kullanın. 
+
+2) Değer bilinmiyor ve/veya şifrelenmiş.
+   Bilinmeyen bir değere örnek - herhangi bir ölçek/çubuk. Örneğin sağlık, mana, nitro vb. olabilir. Değişiklikler görülür, ancak sayısal değerler görünmez.
+   Şifrelenmiş bir değere örnek para, yıldızlar vb. olabilir ancak 1 algoritma ile arama yaparken hiç bir şey bulamazsa veya bulunan değerleri değiştirirseniz oyundaki sayılar değişmezse.
+
+   Bilinmeyen aramayı kullanın.
+
+
+3) Değer şifrelenmiş (__mode_hacking__).
+   Şifrelenmiş bir değere örnek para, yıldızlar vb. olabilir ancak 1 algoritma ile arama yaparken hiç bir şey bulamazsa veya bulunan değerleri değiştirirseniz oyundaki sayılar değişmezse.
+
+   Tam aramayı kullanın, ancak her zaman \"__mode_hacking__\" onay kutusunu işaretleyin. 
+   Bulunan sonuçlar, şifreleme nedeniyle garip değerler olabilir.
+
+Algoritma 3, 2'den çok daha hızlıdır, ancak tüm oyunlarda çalışmayabilir.
+
+4) Değer şifrelenmemiş, bilinmiyor ve bilinen diğer değerlerin yakınına yerleştirilmiştir.
+   Tipik bir örnek mağazadaki fiyatlar, kahraman istatistikleri vb. olabilir.
+
+   Tüm sayıları tek seferde aramak için grup aramasını kullanın.
+"</string>
+    <string name="help_hints">"* İpuçları:
+
+\u0009* Tüm oyunlar __app_name__ tarafından değiştirilemez. Örneğin:
+\u0009\u0009* bir sunucuda depolanan veriler (sunucu taraflı oyunlar)
+\u0009\u0009* kalıcı internet bağlantısına ihtiyaç duyan oyunlar
+\u0009\u0009* diğer oyuncularla ağda oynan oyunlar
+\u0009\u0009* başlangıçta oyuna bağlanmak için bir sunucu seçmeniz gereken oyunlar
+\u0009\u0009* internet olmadan bazı şeyleri kullanamadığınız oyunlar
+\u0009\u0009* bir şeyleri değiştirdiğinizde, oyun sunucusundan verileri yeniden yükleyen oyunşar
+\u0009* Görülen değerler, depolandıkları değerlerle her zaman aynı değildir. Farklı olabilirler. Örneğin ekranda 34 değerini görürüz, ancak bellekteki değeri 34000 olabilir.
+\u0009* Bir değeri değiştiremiyorsanız - bu değeri etkileyen değerleri değiştirmeyi deneyin. Örneğin, altın miktarını değiştirmek yerine, herhangi bir şeyin fiyatını değiştirebilir ve satabilirsiniz. Ya da negatif bir fiyatla satın alabilirsiniz.
+"</string>
+    <string name="help">Yardım</string>
+    <string name="help_floating_icon_title">Yüzen simge</string>
+    <string name="help_exact_search_title">Tam arama</string>
+    <string name="help_speedhack_title">Hız hilesi</string>
+    <string name="help_group_search_title">Grup arama</string>
+    <string name="help_others_title">Diğerleri</string>
+    <string name="help_typical_usage_title">Tipik kullanım algoritmaları</string>
+    <string name="help_hints_title">İpuçları</string>
+    <string name="value_format">Değer biçimi</string>
+    <string name="format_hex">Hex (little-endian) gösterimi</string>
+    <string name="format_rhex">Hex (big-endian) gösterimini tersine çevir</string>
+    <string name="clear_selection">Seçimi temizle</string>
+    <string name="invert_selection">Seçimi ters çevir</string>
+    <string name="select_all">Tümünü seç</string>
+    <string name="edit_selected">Seçilenleri düzenle</string>
+    <string name="delete_selected">Seçilenleri kaldır</string>
+    <string name="save_selected">Seçilenleri kaydet</string>
+    <string name="nothing_selected">Hiçbir şey seçilmedi</string>
+    <string name="items_added">Seçilen (__d__) öğe kaydedilenler listesine eklendi</string>
+    <string name="no_items_for_editing">Düzenlenecek öğe yok.</string>
+    <string name="edit_info">__s__ olarak __s__ düzenle</string>
+    <string name="edit_all_info">__d__ adresi __s__ olarak düzenle</string>
+    <string name="autopause">Oyunu otomatik duraklat:</string>
+    <string name="empty_list">"Kaydedilenler listesi boş.
+Buna arama sonucu listesinden veya bellek düzenleyicisinden öğeler ekleyebilirsiniz.
+İstediğiniz öğeleri seçip menüden \"__save_selected__\"i seçin.
+Başka bir yöntem ise - bir değeri düzenlemeye başlayın ve \"__save_as__\" onay kutusunu işaretleyin.
+Ayrıca, dondurulan değerler otomatik olarak buraya eklenir."</string>
+    <string name="empty_save">Kaydedilenler listesi boş. Kaydedecek hiçbir şey yok.</string>
+    <string name="revert_selected">Seçilenleri geri al</string>
+    <string name="nothing_to_revert">Hiçbir şey geri alınmadı</string>
+    <string name="revert_prompt">Seçilen (__d__) öğe geri alınsın mı?</string>
+    <string name="download">Bu uygulama şu adresten indirilebilir:</string>
+    <string name="format_string">Dize gösterimi</string>
+    <string name="forgot_h">"Sonunda '__hex__' unuttun mu?"</string>
+    <string name="time_jump">Zaman atlama</string>
+    <string name="time_jump_hint">Atlanacak saniye sayısını girin:</string>
+    <string name="hide_from_game">"Oyundan __app_name__'ı gizle:"</string>
+    <string name="last_stats">Son arama istatistikleriniz</string>
+    <string name="memory_access">Belleğe erişim:</string>
+    <string name="normal">Normal</string>
+    <string name="extended">Genişletilmiş</string>
+    <string name="experimental">Deneysel</string>
+    <string name="installing">__app_name__ oyunlardan kendini gizlemek için rastgele bir isimle kendini yeniden yükler. Bekleyin.</string>
+    <string name="failed_install">Uygulama yüklenemedi. Yeniden denensin mi?</string>
+    <string name="failed_uninstall">Uygulama yüklenemedi. Yeniden denensin mi?</string>
+    <string name="download_it">İndir</string>
+    <string name="more">Daha fazla</string>
+    <string name="less">Daha az</string>
+    <string name="no_space">Cihazınızda yer kalmadı</string>
+    <string name="install_cancel_prompt">__app_name__ yüklü değilken tespit edilebilir. Gerçekten iptal etmek istiyor musunuz?</string>
+    <string name="intercept">durdur</string>
+    <string name="need_restart">Değişikliklerin uygulaması için hedef uygulama yeniden başlatılması gerekiyor.</string>
+    <string name="must_be_root">"Bu programın çalışması için cihazınızın rootlu olması gerekiyor.
+\u0009    
+__app_name__ sınırlı modda root olmadan, sanal ortamda çalışabilir. Örneğin, __vspace_list__ ve daha birçoğu aracılığıyla.
+Daha fazla ayrıntı için yardımı okuyun.
+
+Herhangi bir cihazı nasıl rootlarım?: http://www.xda-developers.com/root/"</string>
+    <string name="skip_">Atla</string>
+    <string name="indent_for_the_status_bar">Ekranın üst kısmından girinti kullanıcı arayüzü:</string>
+    <string name="start_collecting_data">Veri toplama başlıyor</string>
+    <string name="data_collecting_in_progress">Veri toplama devam ediyor</string>
+    <string name="copy">Kopyala</string>
+    <string name="show_logcat">"Logcat'i göster"</string>
+    <string name="path_must_be">"Yol, en az 2 karakter uzunluğunda olmalı ve '/' ile başlamalıdır."</string>
+    <string name="fix_it">Düzelt</string>
+    <string name="change_log">Değişiklik günlüğü</string>
+    <string name="used_only_first">Sadece ilk __d__ öğe kullanıldı.</string>
+    <string name="need_select_more">__d__ veya daha fazla öğe seçmeniz gerekiyor.</string>
+    <string name="offset">Ofset:</string>
+    <string name="result">Sonuç:</string>
+    <string name="copy_hex_value">Hex değerini kopyala:</string>
+    <string name="goto_pointer">İşaretçiye git:</string>
+    <string name="offset_calculator">Ofset hesaplayıcı</string>
+    <string name="fill_toolbar">Araç çubuğunu doldur:</string>
+    <string name="from_left">Soldan</string>
+    <string name="from_center">Ortadan</string>
+    <string name="from_right">Sağdan</string>
+    <string name="unit_years_short">y</string>
+    <string name="unit_days_short">g</string>
+    <string name="unit_hours_short">sa</string>
+    <string name="unit_minutes_short">dk</string>
+    <string name="unit_seconds_short">sn</string>
+    <string name="speed_info">Gerçek zamanda __s__ = oyun zamanında __s__</string>
+    <string name="search_helper">Arama yardımcısı:</string>
+    <string name="off">Kapalı</string>
+    <string name="go_to_game">Çok fazla değer bulunursa oyuna geri dönün</string>
+    <string name="go_to_game_and_restore">Çok fazla değer bulunursa oyuna geri dönün ve bir sonraki başlatmada arama modunu geri yükleyin</string>
+    <string name="nothing">Hiçbir şey</string>
+    <string name="sort">Sırala</string>
+    <string name="sort_and_remove_duplicates">Çiftleri sırala veya kaldır</string>
+    <string name="help_basics_title">Temel bilgi</string>
+    <string name="help_basics">"Uygulamayı başlattıktan sonra, \"__start__\"a dokunursanız ekranda yüzen bir simge görünecektir. Yüzen simge herhangi bir yere sürüklenebilir.
+Simgeye dokunduğunuzda ana uygulama arayüzü açılacaktır, simgeye basılı tuttuğunuzda - oyunun hızını değiştirmek için bir panel açılacaktır.
+
+Ana ekranda şunları görebilirsiniz:
+    * Sol üst köşede - oyunun simgesi. Oyunun simgesine dokunduğunuzda başka bir oyunu seçebilirsiniz.
+    * Ortada gezinme sekmeleri bulunur. İstediğiniz düğmeye dokunduğunuzda ilgili bölüm açılacaktır.
+    
+Toplamda 4 sekme vardır: ayarlar, arama, kaydedilenler listesi ve bellek düzenleyicisi.
+    * Arayüzün sağ üst köşesinde kapatma düğmesi bulunur. Kapatma düğmesine bastığınızda arayüz gizlenir ve ekranda yüzen bir simge görünecektir.
+    * Ekranın alt kısmında bir durum çubuğu ve göz simgesi bulunur. Göz simgesine basılı tutarsanız, parmağınızı bırakmadığınız sürece arayüz şeffaf olur.
+    * Ekrandaki içeriğin geri kalanı, açık olan sekmeye bağlıdır.
+
+Ayarlar sekmesi haricindeki her sekmede, çeşitli eylemler içeren bir menü düğmesi bulunur. Menüde bu sekmenin ana işlemlerini bulabilirsiniz.
+
+Ayarlar sekmesi, uygulama, çıkış düğmesi ile ilgili çeşitli ayarlar, yardım ve bilgiler içerir.
+
+Arama sekmesinde şunlar bulunur:
+    * Duraklatma düğmesi, seçilen oyunun adı, bulunan sonuçların sayısı ve yenileme düğmesi.
+    * Aşağıda hızlı erişim simgelerine sahip bir panel ve bir menü düğmesi bulunur. Tüm simgeler menüden kopyalanır, bu nedenle simgenin anlamını bilmiyorsanız, menü düğmesine (en sağdaki) dokunarak her zaman görüntüleyebilirsiniz.
+    * Bu simgelerin altında arama sonuçlarının listesi olacaktır.
+
+Kaydedilenler listesi sekmesinde şunlar bulunur:
+    * Duraklatma düğmesi, seçilen uygulamanın adı, menü düğmesi ve yenileme düğmesi.
+    * Bu simgelerin altında kaydedilen değerlerin listesi olacaktır.
+
+Bellek düzenleyicisi sekmesi, önceki sekmeye benzemektedir, ancak burada kaydedilen değerlerin bir listesi yerine bellek içeriği bulunur.
+
+Her üç listede de (arama sonuçları, kaydedilen değerler ve bellek düzenleyicisi) bağlam menüsünü göstermek için öğelere uzun basabilirsiniz."</string>
+    <string name="daemon_killed">"Daemon şey tarafından öldürüldü.
+
+Genellikle bu olabilir:
+\u00091. Bir bellek kesiciler veya optimize. Herhangi katilleri durdurun veya ayarlarında __app_name__ beyaz liste eklemelisiniz.
+\u00092. __daemon_killed_oom__
+\u0009__app_name__ üzerinde geçici dosyalar saklanan iken 3. Bellek kartı monte edilmemiş oldu. Bunu engellemek için, geçici dosyaları için farklı bir yol belirtin. Örneğin, dahili bellekte."</string>
+    <string name="bad_settings">Kötü ayarlar</string>
+    <string name="freeze_lags">Dondurulan değerleri __hide_from_game__ ayarıyla birlikte kullanmak oyunda gecikmeye yol açabilir.</string>
+    <string name="improve_translation">Bu çeviri, otomatik çevirmen tarafından oluşturuldu. Toplu çeviri servisimizi kullanarak bu çevirileri geliştirebilirsiniz.</string>
+    <string name="freeze_interval">Dondurma aralığı:</string>
+    <string name="saved_list_update_interval">Kaydedilenler listesi güncelleme aralığı:</string>
+    <string name="milliseconds_short">ms</string>
+    <string name="disable_floating_windows">Yüzen pencereleri devre dışı bırak ve uygulamayı yeniden başlat</string>
+    <string name="enable_floating_windows">Yüzen pencereleri etkinleştir ve uygulamayı yeniden başlat</string>
+    <string name="too_many">Çok fazla</string>
+    <string name="help_range_search_title">Aralık arama</string>
+    <string name="help_range_search">"* Aralık arama:
+     1.  Bir oyundan __app_name__'ı açın
+     2.  \"__search__\" sekmesindeki \"__search_known_value__\"ya dokunun.
+     3.  \"__tilde__\"  ile ayrılmış bir sınır arama aralığı girin. Örneğin, 100'den 150'ye kadar değerleri aramak için şunu girin:
+\u0009\u0009100__tilde__150
+\u0009\u0009Aralık dışında arama yapmak için iki defa \"__tilde__\" karakterini kullanın:
+\u0009\u0009100__tilde____tilde__150
+\u0009\u0009Alternatif olarak, \"__not_equal__\" işaretini seçebilir ve \"__tilde__\" karakterini bir kez kullanabilirsiniz.
+     \u0009Ek semboller girmek için dahili klavyeden \"__btn_hex__\" düğmesini kullanın.
+     4.  Uygun veri tipini veya (emin değilseniz) \"__type_auto__\" tipini seçin ve (gerekirse) diğer seçenekleri seçip \"__search__\"ya dokunun.
+     5.  Arama bittiğinde, arama sonuçları listede görüntülenecektir.
+     6.  Oyuna geri dönün. Değeri değiştirdikten sonra tekrar __app_name__'ı açın.
+     7.  Uygun değişiklikleri kullanarak aralık aramayı tekrarlayın.
+     8.  Çok fazla sonuç varsa 6. ve 7. adımları tekrarlayın.
+     9.  Sadece birkaç sonuç kalırsa, değeri değiştirmeye, depolamaya veya dondurmaya çalışabilirsiniz.
+
+\u0009Arama sonuçlarında aralık sınırları dahildir. Aralığa ait olmayan tüm değerleri bulmak için arama tipini \"__not_equal__\" seçebilirsiniz.
+\u0009Bu aramada, tüm değerler imzalanmış sayılır.
+"</string>
+    <string name="does_not_support">\"__s__\", \"__s__\" desteklemiyor.</string>
+    <string name="range_bounds_diff_types">Aralık sınırları aynı tipte olmalıdır.</string>
+    <string name="examples">Örnekler</string>
+    <string name="rtfm">Daha fazla ayrıntı için yardım bölümünü okuyun.</string>
+    <string name="icons_size">Simge boyutu:</string>
+    <string name="revert_and_remove">Geri al ve kaldır</string>
+    <string name="remove">Kaldır</string>
+    <string name="ordered_group_search">Sıralı grup arama</string>
+    <string name="load_items">Öğeler</string>
+    <string name="load_values">Değerler</string>
+    <string name="load_freeze">Dondur</string>
+    <string name="video_tutorials">Nasıl hile yapılır rehberleri</string>
+    <string name="make_copy">Bir kopya oluştur</string>
+    <string name="video">Videolar</string>
+    <string name="ordered">Sıralı</string>
+    <string name="toolbars">Araç çubukları</string>
+    <string name="saved_list">Kaydedilenler listesi</string>
+    <string name="memory_editor">Bellek düzenleyici</string>
+    <string name="restart_game">Oyunu yeniden başlat</string>
+    <string name="refine">Ara</string>
+    <string name="internal_storage">Dahili depolama</string>
+    <string name="external_storage">Harici depolama</string>
+    <string name="new_search">Yeni arama</string>
+    <string name="load_saved_list">Dosyadan kaydedilenler listesini yükle</string>
+    <string name="save_saved_list">Kaydedilenler listesini dosyaya kaydet</string>
+    <string name="append">Ekle</string>
+    <string name="xor_key">XOR anahtarı:</string>
+    <string name="only_memory">Sadece şu bellek aralığında:</string>
+    <string name="dump_memory">Bellek dökümü</string>
+    <string name="path">Yol:</string>
+    <string name="dump_ended">Bellek dökümü bitti</string>
+    <string name="dump_failed">Bellek dökümü başarısız</string>
+    <string name="eperm_error_defend">(PTRACE_ATTACH) işlemi eklenemedi: Oyun korumalı</string>
+    <string name="reset_on_exit">Çıkışta sıfırla:</string>
+    <string name="kill_game">Oyunu sonlandır</string>
+    <string name="kill_game_info">Bir işlemi zorla kapatmak, işlemin düzgün bir şekilde kapatılmasına fırsat vermez ve veri kaybına veya sistem kararsızlığına neden olabilir.</string>
+    <string name="continue_ask">Devam edilsin mi?</string>
+    <string name="copy_memory">Belleği kopyala</string>
+    <string name="copy_from">Şundan kopyala:</string>
+    <string name="paste_to">Şuna yapıştır:</string>
+    <string name="count_bytes">Bayt sayısı:</string>
+    <string name="copy_ended">Bellek kopyalaması bitti</string>
+    <string name="copy_failed">Bellek kopyalaması başarısız</string>
+    <string name="help_encrypted_search_title">Şifreli değerleri arama</string>
+    <string name="help_encrypted_search">"* Şifreli değerleri arama:
+     1.  Bir oyundan __app_name__'ı açın..
+     2.  \"__search__\" sekmesindeki \"__search_known_value__\"ya dokunun.
+     3.  Oyunda görünen sayıyı girin.
+     4.  Uygun veri tipini veya (emin değilseniz) \"__type_auto__\" tipini seçin ve (gerekirse) diğer seçenekleri seçin ve \"__mode_hacking__\"yi işaretleyip \"__search__\"ya dokunun.
+     5.  Arama bittiğinde, arama sonuçları listede görüntülenecektir.
+     6.  Oyuna geri dönün. Değeri değiştirdikten sonra tekrar __app_name__'ı açın.
+     7.  Değiştirilen değeri arayın. \"__mode_hacking__\" onay kutusu işaretlenmelidir.
+     8.  Çok fazla sonuç varsa 6. adıma dönün.
+     9.  Sadece birkaç sonuç kalırsa, değeri değiştirmeye, depolamaya veya dondurmaya çalışabilirsiniz.
+"</string>
+    <string name="help_faq_title">Sıkça sorulan sorular</string>
+    <string name="help_faq_1_q">"Neden 99 veya 60,000'den büyük bir değer giremiyorum?"</string>
+    <string name="help_faq_1_a">__type_byte__ veya __type_word__ tipinde bir değer bulmuşsunuz. Daha büyük değer girmek için __type_dword__ tipinde arama yapın.</string>
+    <string name="help_faq_2_q">Kesirli (__type_float__) değerleri, değerin kesirli kısmı olmadan nasıl arayabilirim?</string>
+    <string name="help_faq_2_a">\"__type_auto__\" veri tipini veya aralık aramasını kullanın. Örneğin, 11.345 için \"10__tilde__12\" aramasını yapabilirsiniz.</string>
+    <string name="help_faq_3_q">Bir değeri buldum ve değiştirdim, ancak oyunda hiçbir şey değişmedi. Bu değeri kullanmaya çalışıyorum ancak her şey eski haline geri dönüyor. Neyi yanlış yapıyorum?</string>
+    <string name="help_faq_3_a">"Bazı oyunlarda, değerler korumalı veya şifrelenmiştir. Değeri görüntülemeden önce, değer başka bir değişkende şifresi çözülüyor olabilir.
+Bu değer sadece görüntüleme için kullanıldığından oyun mekaniğini etkilemez. Görüntülenen değer yerine gerçek değeri bulmak için değer şifrelendi seçeneğini veya bilinmeyen aramayı kullanın.
+Bazen değer sunucuda saklanır ve her seferinde senkronize edilir. Bu durumda, hile yapamazsınız. Oyun internet olmadan çalışmazsa ve önceki yöntemler işe yaramadıysa - büyük ihtimalle durum böyledir."</string>
+    <string name="help_faq_4_q">Uygulama, X oyunundaki bir değeri bulamıyor. Veya o değeri buluyor, ancak oyunda hiçbir şey değişmiyor. Veya o değeri buluyor, ancak değer değiştirildiğinde oyun kapanıyor. Sorunun oyundaki korumayla mı yoksa __app_name__ ile mi ilgili olduğunu nasıl bilebilirim?</string>
+    <string name="help_faq_4_a">"Bunu korunması olmayan basit bir oyunda denemelisiniz. Ben \"Hill Climb Racing\"i kullanmayı tercih ederim. Bu oyun basit ve herhangi bir korumaya sahip değildir. Parayı değiştirmek için oradaki sayıyı doğrudan arayarak veya  bilinmeyen arama ile hile yapabilirsiniz.
+Bu basit oyunda hile çalışıyorsa, o zaman sorun hile yapmaya çalıştığınız X oyunundadır. Çalışmazsa, sorun __app_name__'dadır.
+Daha kolay bir seçenek bile var: \"Tap Counter\". Bu oyunu yükleyin. Çalıştırın. Ekranda görüntülenen dokunma sayısını değiştirmeye çalışın. Bunu değiştirmek çok kolay olmalıdır. Aksi takdirde sorun __app_name__'da veya ayarlarındadır.
+__app_name__'ın başka sürümünü deneyin, alınan hatanın açıklamasını forumdaki ilgili konuda veya internette bulmaya çalışın. Son çare olarak forumda bunun hakkında sorular sorabilirsiniz."</string>
+    <string name="help_faq_5_q">Zamanı nasıl ararım?</string>
+    <string name="help_faq_5_a">"- Gün, saat, dakika veya saniye cinsinden arama yapmayı deneyin. Veri tipi, __type_byte__, __type_word__, __type_dword__ veya __type_qword__ olabilir. Ayrıca, __type_auto__ tipini de kullanabilirsiniz.
+- Bir sayıyı milisaniye veya nanosaniye cinsinden arama yapmayı deneyin. Veri tipi, __type_dword__ veya __type_qword__ olabilir.
+- Bitiş tarihini unix zaman damgası (unix timestamp) cinsinden arama yapmayı deneyin. Veri tipi - __type_dword__. Bu tarih, geçerli unix zaman damgasıyla kaydedilmiş olan unix zaman damgası arasındaki fark olarak kabul edilir. Aralık aramasını kullanarak arama yapın.
+Örneğin, oyunda 30 gün yazıyorsa, o zaman şu anki unix zaman damgasından sonraki 30 +/- 1 günü aramanız gerekmektedir. Geçerli unix zaman damgasını internette kolayca bulabilirsiniz."</string>
+    <string name="help_faq_6_q">Çevrimiçi (online) oyunlarda hile yapmak mümkün mü?</string>
+    <string name="help_faq_6_a">Cihazda saklanan verileri değiştirmek mümkündür. Sunucudaki herhangi bir şeyi değiştirmezsiniz. Farklı oyunlarda farklı yollar olabilir. Tek oyunculu oyunlarda bile, bazı veriler sunucuda olabilir ve bazıları olmayabilir.</string>
+    <string name="help_faq_7_q">Hız hilesi nerede çalışır?</string>
+    <string name="help_faq_7_a">"Hız hilesi x86 kütüphanelerine sahip olmayan oyunlar x86 cihazlarda / emülatörlerde çalışmayabilir.
+Ayrıca bir ART ortamı için, hız hilesi Java zamanlayıcılarıyla çalışmaz. Eğer oyun onları kullanıyorsa ve bir ART ortamınız varsa (genellikle Android 5 ve daha yüksek sürümlerde), o zaman hız hilesi çalışmayacaktır."</string>
+    <string name="help_faq_8_q">__app_name__ çoğu oyunda iyi çalışıyor, ancak bazı oyunlarda PTRACE_ATTACH hatası alıyorum. Ne yapmalıyım?</string>
+    <string name="help_faq_8_a">Bu oyun hata ayıklamayı önlemek için SecNeo korumasını kullanmaktadır. __app_name__ bu korumayı aşamaz. Bu yüzden bu oyuna hile yapamazsınız.</string>
+    <string name="help_faq_9_q">Uygulamanın neden böyle garip bir paket adı var? Uygulama neden güncellenmiyor, ancak her defasında ayrı ayrı yükleniyor? Her sürümün neden farklı bir paket adı var?</string>
+    <string name="help_faq_9_a">Anti-hile yazılımlarının paket adına göre uygulamayı algılamalarını önlemek için.</string>
+    <string name="help_faq_10_q">Bazı oyunlarda, hızı değiştirdiğimde (hız hilesi), tıklamalara yanıt vermiyorlar. Bu oyun koruması mı yoksa bu uygulamanın hatası mı?</string>
+    <string name="help_faq_10_a">Bu araçlar sizin speedhack giriş kuyruğu zamanlayıcılar değecek ve onu ölür. Olmaz ki (__app_name__ ayarlarında) zamanlayıcılar listesinde yeşil onay işaretleri seçmek gereklidir.</string>
+    <string name="help_faq_11_q">Neden hataların bir virgülle ayrılmış listesi sorunu mu?</string>
+    <string name="help_faq_11_a">sayıların ayırıcı bir noktalı virgül ( \"__semicolon__\") olduğu için.</string>
+    <string name="help_faq_12_q">Birden fazla aramayı aynı anda nasıl yaparım?</string>
+    <string name="help_faq_12_a">Şu anda, uygulama buna izin vermemektedir, ancak uygulamayı birkaç kez yükleyebilirsiniz ve yeterli bellek ve depolama alanınız varsa uygulamayla aynı anda kopyaları da çalıştırabilirsiniz.</string>
+    <string name="help_faq_13_q">Değişikliklerde önemli bir şey yoksa uygulamayı güncellemem gerekir mi?</string>
+    <string name="help_faq_13_a">Güncellemeniz önerilmektedir. Destek sadece son sürüm içindir.</string>
+    <string name="help_faq_14_q">İşlemci adından önceki \"!\" ve \"#\" sembolleri nelerdir?</string>
+    <string name="help_faq_14_a">"Bu izlenen işlemleri işaretler.
+İşlemden önceki \"#\" işareti - başka bir işlem tarafından izlendiği anlamına gelir.
+İşlemden önceki \"!\" işareti - bu işlem başka bir işlemi izlendiği anlamına gelir.
+İzleme, hata ayıklama veya hile yapmak için tipiktir. Bazı korumalarda da kullanılır. Normalde, \"#\" işaretli bir işlem korumalı bir işlemdir."</string>
+    <string name="help_faq_15_q">Standart yüklemeden sonra uygulama neden kendi yüklemesini gerçekleştiriyor ve root erişimi istiyor?</string>
+    <string name="help_faq_15_a">__app_name__, anti-hile yazılımları tarafından algılanmasını önlemek için kendisini rastgele verilerle yeniden yükler. Root erişimi \"sessiz\" olarak yüklemek ve kaldırmak için gereklidir. Root erişimi vermemeniz durumunda, uygulamaları yüklemek için sistemin tüm isteklerine manuel olarak yanıt vermeniz gerekecektir.</string>
+    <string name="help_faq_16_q">__pkg__ nedir? Bu bir truva atı mı yoksa virüs mü? Bu uygulama root erişimini vermek güvenli midir?</string>
+    <string name="help_faq_16_a">Bu, __app_name__ paketinin temel adıdır. __app_name__ güvenilir kaynaklardan indirilirse, root erişimi vermek güvenlidir.</string>
+    <string name="help_faq_17_q">Neden rastgele bir karakter kümesi olarak adlandırılan yüklü uygulamalar listesinde __app_name__ mı? Neden bu karakter isteği root erişimi belirler? Neden kök __app_name__ tarafından sağlanan olmadığını __app_name__ yazma başlatılması, ancak abracadabra bir çeşit zaman?</string>
+    <string name="help_faq_17_a">__app_name__ bunu kullandığı için, anti-hileleri tarafından tespit edilmemesi kendisini gizlemek için kullanılır.</string>
+    <string name="help_faq_18_q">Neden son sürümlerinden __app_name__ bazen anticheats tarafından algılanır ve bazen değil?</string>
+    <string name="help_faq_18_a">__app_name__ farklı şeyler kullandığından karşıtı hileler tarafından tespit kendisini gizlemek için. Bu rastgele bir paket adı ve uygulama içerir. Her kurulum onlar farklıdır. yeniden oluşturmak için __app_name__ yeniden yüklemeyi deneyin. Belki de bu anti-hile sonra __app_name__ bkz sona erecek.</string>
+    <string name="help_faq_19_q">Oyunum neden uygulama listesinde yok?</string>
+    <string name="help_faq_19_a">Bu çalışan uygulamaların bir listesi ve başvurunuzun çalışmadığı çünkü. Bunu çalıştırın ve ardından __app_name__ onu seçin.</string>
+    <string name="help_faq_20_q">Neden Java uygulamaları, Android 5 ve üzerinde SpeedHack yanıt veremezler?</string>
+    <string name="help_faq_20_a">Çünkü speedhack yerli kitaplıkları ile oyunlar için tasarlanmıştır. Başvurunuz değil. Ve Android 5 beri kesişme Java zamanlayıcılar imkansız kılan yerine Dalvík, ART ortamı kullanılır. Hiçbir şey yapma. durum gelecekte değişmeyecektir.</string>
+    <string name="help_faq_21_q">Ben Android 4 farklı speedhack / hack aracı kullanılan ve her şey çalıştı. Şimdi, Android 5 ve üzerinde __app_name__ koymak, ancak bu yöntemler işe yaramazsa. Neden?</string>
+    <string name="help_faq_21_a">"çok şey değişti ve yarar sadece böyle işe yaramaz çünkü. o zaman, bu yarar olmadığını bu __app_name__ ah o kadar kötü, ama bu senin yanılsamalar yaratmak etmeyin! Böyle bir şey yok.
+Bunu test etmek için, Android 4 __app_name__ yükleyin ve Bu kullanımda tamamen aynı eylemleri tekrarlayın. Sonuç olarak, başarılı olacaktır. Ama bu bu aynı yöntemler, Android 5 ve üzerinde çalışacak anlamına gelmez.
+Bu gerçek art arda deneysel teyit edilir."</string>
+    <string name="help_faq_22_q">Bir video örnek / ekran görüntüleri izliyorum ve hafıza editörü diğer veriler vardır. Neden?</string>
+    <string name="help_faq_22_a">video / ekran görüntüsü farklı bir çıkış biçimi vardır çünkü. \"__value_format__\" seçin ve olması gerektiği gibi çıktı yapılandırmak - Hafıza düzenleyicisinde, menü tuşuna basın.</string>
+    <string name="help_faq_23_q">Bir değer dondurulduğunda, oyun donmaya veya takılmaya başlıyor. Neden?</string>
+    <string name="help_faq_23_a">Çünkü __app_name__ ayarlarındaki \"__hide_from_game__\" seçeneği etkindir. Bu seçeneği kapatın.</string>
+    <string name="help_faq_24_q">Uygulamayı başlattığımda yeni sürümleri denetlemeyi nasıl devre dışı bırakabilirim?</string>
+    <string name="help_faq_24_a">Bırakamazsınız.</string>
+    <string name="help_faq_25_q">Uygulamada zamanı nasıl geri alabilirim? İleriye doğru değil de, geriye doğru bir atlama yapmak mümkün mü?</string>
+    <string name="help_faq_25_a">Hiçbir şekilde bunu yapamazsınız. Zaman her zaman artar, aksi takdirde oyun çökebilir. Ancak, en son sürümlerde, negatif (eksi) bir zamana atlama olasılığı ekledik. Sonuç olarak bu, oyunun donmasına veya veri kaybına neden olabilir. Dikkatli olun.</string>
+    <string name="help_faq_26_q">Ben simgeyi koymak ve onu ortadan kayboldu. Bunu nasıl geri alabilirim?</string>
+    <string name="help_faq_26_a">simge şeffaf hale gelir, ancak hala üzerinde tıklayabilirsiniz. nerede olduğunu, daha sonra arayüzü üzerinden ayarını değiştirmek tıklayın.</string>
+    <string name="help_faq_27_q">o oyun ile yuvarlama görüntülenen olup olmadığını nasıl bir değere arayabilirim? Örneğin, 1,85.</string>
+    <string name="help_faq_27_a">Arama aralığı arayın. aralık sınırları yuvarlama kurallara bağlıdır. Örneğin, standart yuvarlama için \"1845000__tilde__1854999\".</string>
+    <string name="help_faq_28_q">Yüzdelik değerleri nasıl arayabilirim? Örneğin, __percent__123.</string>
+    <string name="help_faq_28_a">Bu uygulamaya bağlıdır. Her oyun için tüm farklı olabilir. Örneğin 123__percent__. için herhangi bir değere sahip __type_float__ veya __type_double__ olabilir. 1.23 veya 123.0 gibi. __type_byte__, çıkış günü __type_word__, __type_dword__. Örneğin 123 için ya da 12300. bazı dizi ayrılabilir: Ya da türlerinden tam sayı olabilir. 100 veya 345 veya başka bir şey. Her oyun için farklı olabilir. Sen en belirgin vakaları deneyebilirsiniz. Eğer şanslıysanız __type_auto__. ne gerek olabilir - 123__percent__ için bu 1.23 veya 123 tipi olabilir.</string>
+    <string name="help_faq_29_q">"Oyun __app_name__'ı algılarsa ne olur?"</string>
+    <string name="help_faq_29_a">"Aşağıdaki seçenekleri (tek başına veya kombinasyon halinde) deneyin:
+\u0009- \"__hide_from_game__\" seçeneklerini etkinleştirin. Genellikle yeterli 2, 3 ve 4 seçenek.
+\u0009- Do rastgele adla yeniden yükleme __app_name__ iptal. Bu __app_name__ sanal uzayın dışında ilk çalıştırıldığında yapılır.
+\u0009- Kullanım XPrivacy veya benzeri yarar. Bunun nasıl için internette arayın.
+- Eğer uygulama gizli yüklemesiyle sanal uzaydan kök haklarını, kullanım kökü varsa. \"__vspace_root__\" ayarı için bağlam yardımı daha okuyun."</string>
+    <string name="work_without_selinux">__selinux__ olmadan çalışmaya geçip uygulamayı yeniden başlat</string>
+    <string name="work_with_selinux">__selinux__ ile çalışmaya geçip uygulamayı yeniden başlat</string>
+    <string name="file">Dosya:</string>
+    <string name="file_not_found">Dosya bulunamadı:</string>
+    <string name="export_selected">Seçilenleri dışa aktar</string>
+    <string name="failed_list_dir">Dosya listesi okunamadı</string>
+    <string name="change_float_type">Yüzen pencerelerin türünü seç</string>
+    <string name="reset_float_type">Yüzen pencerelerin türünü sıfırla</string>
+    <string name="mask">Maske:</string>
+    <string name="mask_request">Aramak için bir adres girin</string>
+    <string name="help_mask_search_title">Adres (maske) arama</string>
+    <string name="help_mask_search">"* Adres (maske) arama:
+\u0009Arama yapabilir veya maske ile adrese göre filtreleyebilirsiniz.
+
+\u0009Tipik bir örnek, adreslerini ararken bilinen bir değer ile ucunun. Örneğin, \"12E\" konulu.
+
+\u0009arama parametreleri adres ve maskeler.
+\u0009konuşmasında joker kullanılabilir ( \"__question__\"). o \"F\" den \"0\" dan herhangi bir karakter olabilir Bu sembol demektir.
+\u0009baştaki sıfırlar önemlidir bu yüzden ek bir maske, adresinden oluşur. Böylece, \"0120\" için arama ve \"120\" için arama aynı şey değildir.
+\u0009İlk durumda bulunacaktır: \"00010120\", \"00020120\", \"00030120\" vb. \"00001120\", \"00002120\", \"00003120\" ve benzeri: Saniyede iken.
+
+\u0009Sen eşitlik ve maske ile belirtilen eşitsizlik hem arama yapabilirsiniz. İkinci seçenek gereksiz değerlerini ortadan kaldırmak için yararlı olabilir.
+
+\u0009adres ve maske onaltılık sistemde ve sonunda harfi \"__hex__\" olmadan girilir.
+\u0009sizin tarafınızdan girilen maske ile adres kesişen elde maskesi. Bu çıkan arama maskedir.
+
+\u0009Ortaya çıkan maske aynı olduğundan Aşağıdaki örnekler, eşdeğerdir - \"FF0\"
+__mask_example__
+"</string>
+    <string name="use_sound_effects">Ses efektlerini kullan:</string>
+    <string name="from_range">Şundan:</string>
+    <string name="to_range">Şuna:</string>
+    <string name="resultant_mask">Sonuç maskesi:</string>
+    <string name="show_time_jump_panel">Zaman atlama panelini göster:</string>
+    <string name="use_notification">Bildirim kullan:</string>
+    <string name="show_gg">"__app_name__'ı göster"</string>
+    <string name="hide_gg">"__app_name__'ı gizle"</string>
+    <string name="time_remaining">Kalan süre:</string>
+    <string name="help_fill_title">Dolgu (artırma) değerleri,</string>
+    <string name="help_fill">"* Dolgu (artırma) değerleri:
+\u0009Genellikle çok fazla değer bulunduğunda bu gerçekleşirse, ancak oyundan değiştirilemez.
+\u0009Bu durumda, dolgu kurtarmaya gelir.
+
+\u0009Kullanım tipik bir örneği negatif biri tarafından bir sonraki değişikliği içeren bir ürünün fiyatına arayışı vardır.
+
+\u0009İstenilen öğeleri seçin 1..
+\u0009\"__edit_selected__\" seçin 2..
+\u0009bu alan mevcut değilse 3. düğmesine basın \"__more__\", \"__increments__\" alanını gösterecek şekilde.
+\u00094. In \"__increments__\" field, enter the increment value. Usually this is 1. And click \"__yes__\".
+\u00095. Seçilen öğeler yeni değerler alacaktır.
+\u00096. maçına git ve oyun ekranlar arasında hareket eden, istenilen değer nasıl değiştiğini görüyoruz.
+\u0009değeri değişmedi, seçilen arasında 7. o zaman elemanı istenilen. __app_name__ ve \"__delete_selected__\" seçeneğini kullanarak dön -> \"__revert_and_remove__\", onlara önceki değerini dönen seçili öğeleri kaldırmak. eğer varsa Şimdi, diğer öğelerle baştan her şeyi deneyebilirsiniz.
+\u0009değeri değişti 8. Eğer, daha sonra arzu edilen elemanın seçilen elementlerden biridir. yeni değeri unutmayın ve __app_name__ dönün.
+\u0009Seçilen öğelerin listesi 9. istenen değere arayın. Seçilmemiş. Onlara önceki değerini dönen,> \"__revert_and_remove__\" - \"__delete_selected__\" seçeneğini kullanarak, tüm diğer değerleri silin.
+\u000910. Değiştirme ihtiyaç olarak arzu edilen öğe değeri.
+
+\u0009Tipik hatalar, geri almadan olmadan kaldırma vardır. Bundan sonra oyun çökmesine sebep olabilir.
+
+\u0009Eğer değerler bir sürü bulursanız, önlemek çöker küçük porsiyonlar halinde dolgu yapmaya çalışacağım.
+"</string>
+    <string name="help_hint_1">* Her zaman aynı bölgede istenen değerleri bulursanız (harfler sonuçları listesinde öğelerin sonunda), daha hızlı arama için sadece bu bölgeleri seçebilirsiniz.</string>
+    <string name="help_faq_30_q">"Çok yavaş değerler için ve PC'de Android emülatör uzun süre __app_name__ arar."</string>
+    <string name="help_faq_30_a">"Muhtemelen bilgisayarınızın BIOS'unda sanallaştırma devre dışı bırakılmış. Onu açın.
+__app_name__ emülatörün içinde çalışır, dolayısıyla çalışmanın hızı emülatörün hızına bağlıdır.
+Sanallaştırma etkinse, ancak hız hala düşükse, emülatör ayarlarını kontrol edin veya başka bir emülatör kullanın.
+Başka bir aracı da kullanabilirsiniz - Cheat Engine - bu program daha hızlı arama yapar ve __app_name__'da asla olmayacak birçok özellik sunar."</string>
+    <string name="help_speed_up_title">Aramayı nasıl hızlandırırım</string>
+    <string name="help_speed_up">"* Aramayı hızlandırmak için:
+\u00090. Eğer (VT Teknolojisi, Vanderpool Teknolojisi, Sanallaştırma Teknolojisi o sanallaştırma kontrol (BlueStacks, Droid4X, Andy NOx, Memu, AMIDuOS, Windroy AVD, Genymotion, Koplayer, Leapdroid vs.) bir PC üzerinde bir Android emülatörü kullanmak ise , vtx, VT-d, VMX, Sanal Teknoloji, Intel VT, AMD-V, SVM, IOMMU) PC BIOS etkindir.
+\u0009Eğer RAM çok varsa 1., o zaman orada veri saklayabilir. Bu büyük ölçüde aramayı hızlandırır. \"__yes__\" ayarı \"__data_in_ram__\" olarak ayarlayın. PC'de bir Android emülatörü, bu aramayı yavaşlatabilir.
+\u0009Eğer küçük RAM 2., veri bellek kartında saklanır. yüksek yazma ve okuma hızına sahip bellek kartı kullanın.
+\u00093. Ayrıca, cihazın dahili bellek veri depolama belirtebilirsiniz hızlı bellek kartı daha eğer o. İstenilen yoluna ayarı \"__set_path__\" ayarlayın.
+\u0009aramada 4. yalnızca istenen bölgeleri seçin. Yavaş ( \"__slow__\") ve tehlikeli ( \"__dangerous__\") bölgeleri kaçının.
+\u0009Bunları biliyorsanız 5. Ayrıca, arama için, hafıza alanının sınırlarını belirleyebilirsiniz. Arama iletişim renkli \"__more__\" ı tıklayın ve sınırlarını girin.
+\u0009verilerin sadece istenen türleri için arama 6.. veri tipi \"__type_auto__\" yavaş.
+\u00097. Devre Dışı tüm olası \"__hide_from_game__\" seçenekleri.
+\u0009\"__experimental__\" veya \"__memory_access__\" in \"__extended__\" kullanmayı deneyin 8.. Bu seçenekler kararsız çalışmasına neden olabilir.
+"</string>
+    <string name="help_faq_31_q">Bir süre sonra, __app_name__ simgesi kayboluyor.</string>
+    <string name="help_faq_31_a">"ikon olmaktı yerde tıklamayı deneyin. Bu açık __app_name__ arayüzünde, o zaman simge ayarlarında gizli veya firmware ekranla hata simgesi vardır.
+arayüz açılmazsa, bu __app_name__ bellekten kaldırılır anlamına gelir.
+Olası nedenler:
+
+\u00091. cihazda yeterli RAM yok - __app_name__ sistem tarafından öldürüldü. kullanacağım az RAM deneyin. __app_name__ ayarlarında, RAM veri depolama belirtmeyen, gösterilen sonuç çok sayıda RAM dan boşaltma \"ekstra\" uygulamaları, kullanım \"hafif\" kaldırılamıyor uygulamaların benzerlerini (örneğin, başlatıcısı ayarlamayın ). Özellikle kötü durumlarda, oyun ile çalışma __app_name__ önce cihazınızı yeniden başlatın. Hemen hemen tüm donanım yazılımının her zaman sızıntı RAM bulunuyor. yeniden sonra daha fazla zaman - daha az kullanılabilir RAM.
+
+\u00092. __app_name__ öldüren bir süreç katilleri var.
+
+Katilleri devre dışı bırakma veya istisnalara __app_name__ ekleyin.
+Katiller de \"optimize\" ve RAM \"yükselticiler\" her türlü bulunmaktadır.
+Genel olarak, biliyorum yoksa katil olduğunu veya olmadığını, yazılım için açıklamaya bakın.
+
+FlyMe İçin: yüksüz çalışma birkaç dakika sonra nedense __app_name__ - Eğer __app_name__ ve kök yöneticisi (genellikle SuperSu) için arka planda çalışmasını sağlamak gerekir.
+
+Ayrıca __app_name__ ayarlarında \"__use_notification__\" etkinleştirmek için deneyebilirsiniz. Bazen bu __app_name__ öldürmek engeller."</string>
+    <string name="quick_start_title">Hızlı Başlangıç</string>
+    <string name="prevent_unload">Önle boşaltma:</string>
+    <string name="hot_key">Kısayol:</string>
+    <string name="hide">Gizle</string>
+    <string name="execute_script">Komut dosyasını çalıştır</string>
+    <string name="execute">Çalıştır</string>
+    <string name="another_script">Başka bir komut dosyası çalışıyor. Bu durdurulsun mu?</string>
+    <string name="interrupt">Durdur</string>
+    <string name="script">Komut dosyası:</string>
+    <string name="script_ended">Komut dosyası bitti:</string>
+    <string name="paused">Oyun duraklatıldı:</string>
+    <string name="by_pause_button">duraklat düğmesiyle</string>
+    <string name="by_option">"'__s__' seçeneğiyle"</string>
+    <string name="new_search_short">Yeni</string>
+    <string name="speedhack_loading">Hız hilesi yükleniyor...</string>
+    <string name="speedhack_loaded">Hız hilesi yüklendi.</string>
+    <string name="busy_dialog_fail">İlerleme çubuğu görüntülenemedi.</string>
+    <string name="site">Site</string>
+    <string name="help_xor_search_title">XOR arama</string>
+    <string name="help_xor_search">"* XOR araması:
+\u0009\u0009İhtiyacınız değer değerinden aynı mesafede daima bir XOR anahtarla şifrelenir biliyoruz, o zaman deşifre değerine göre aramak için bu modu kullanabilirsiniz.
+\u0009Bir oyundan __app_name__ 1. geçin.
+\u00092. dokunun \"__search__\" sekmesinde \"__search_known_value__\" düğmesine basın.
+\u0009\"__mode_xor__\" ile ayrılan bir arama numarası ve XOR anahtar mesafe girin 3.. Örneğin, mesafe 8 bir anahtarla değeri 100 aramak için şunları girin:
+\u0009\u0009\u0009100__mode_xor__8
+\u0009\u0009giriş ek semboller için, iç klavyede \"__btn_hex__\" düğmesini kullanın.
+\u0009Uygun veri türünü seçin veya \"__type_auto__\" seçin (emin değilseniz) ve diğer seçenekler (gerekiyorsa) ve \"__search__\" tıklayın 4..
+\u00095. Ne zaman bitmiş arama, arama sonuçları listesinde görüntülenir.
+\u0009Oyuna 6. Geri. değeri değişti sonra tekrar __app_name__ geçin.
+\u0009Uygun değişikliklerle 7. tekrarlayın XOR arama.
+\u0009Çok fazla sonuç varsa 8. tekrarlayın 6. ve 7. adımları.
+\u0009Birkaç sonuçlar bırakılır 9. varsa, değiştirmek, mağaza veya değeri dondurmak için deneyebilirsiniz.
+
+\u0009Sen kullanmak XOR aralık arama ile arama yapabilirsiniz. \"100__tilde__150__mode_xor__8\" Örneğin.
+\u0009Genellikle XOR arama zamanki sayı aramasından yavaştır.
+\u0009Bu mod grup aramada veya şifreli arama desteklenmez.
+\u0009Mesafe 1'den 4096 Anin olmalıdır.
+\u0009\"100__tilde__150__mode_xor__10h\": sonunda __hex__ sembolle altıgen şeklinde girişi yapabilirsiniz mesafe.
+\u0009Mesafe değerleri hizalama saygı gerekir. Örneğin, DWORD 4 bayt sınır hizalanmalıdır. 7 4'e bölmek edemez, çünkü bu ortalama arama \"40__mode_xor__7\" dword için işe yaramaz.
+\u0009Kötü firmware sorunlara yol açabilir diğeriyle bu modu birleştirin. Örneğin, her zamanki arama yaparsanız ve XOR modunda o rafine sonra bu askıda neden olabilir ya da cihazınızı yeniden başlatabilirsiniz. ilk arama bu modda olacaktır, bu durum olmamalıdır.
+\u0009Bu modun Yaklaşık arama desteklenmez. Bunu ancak her zamanki gibi bulanık işi birleştirebilir ve mesafe ile XOR anahtarını saygı göstermiyorlar.
+\u0009değerleri için İşaret saygı duyulur. O değil, daha fazla, daha küçük ve benzeri eşit size değer arama yapabilirsiniz ortalamasıdır.
+\u0009Bu aramada, tüm değerler imzalanmış sayılır.
+"</string>
+    <string name="help_faq_32_q">HW/SW sürümlerinin arasındaki fark nedir? Ve hangisini kullanmalıyım?</string>
+    <string name="try_latest">"Belki bu komut dosyasının __app_name__'ın en son sürümüne ihtiyacı vardır. En son sürüme güncellemeyi deneyin."</string>
+    <string name="help_string_search_title">Metin (HEX, AoB) araması</string>
+    <string name="download_scripts">Komut dosyalarını indir</string>
+    <string name="hide_icons">Başlatıcı simgelerini gizle</string>
+    <string name="select_mode">Modu seçin</string>
+    <string name="mode_string">Metin</string>
+    <string name="mode_mixed">Karışık</string>
+    <string name="string_search_prompt">Aramak için en fazla __d__ bayt uzunluğunda bir metin girin. Örneğin</string>
+    <string name="string_empty">Bir metin girmelisiniz.</string>
+    <string name="string_not_found">\"__s__\" metni bulunamadı.</string>
+    <string name="string_found">Found __d__ matches for the text \"__s__\".</string>
+    <string name="string_replace">Metinleri değiştirmek istiyor musunuz?</string>
+    <string name="string_replace_prompt">\"__s__\" ile değiştirilecek metni girin. Girilen metin __d__ bayttan uzun olmamalıdır.</string>
+    <string name="string_replaced">Replaced \"__s__\" to \"__s__\" in __d__ places.</string>
+    <string name="need_allow_background">"Bu firmware'de, sistem ayarlarından __app_name__'ın arka planda çalışmasına izin vermelisiniz."</string>
+    <string name="calculate_offset_xor">ofset, XOR hesapla</string>
+    <string name="select_copy_item">Kopyalanacak bir öğe seçin:</string>
+    <string name="landscape">Yatay</string>
+    <string name="portrait">Dikey</string>
+    <string name="toolbar_buttons">Araç çubuğu düğmeleri</string>
+    <string name="need_update_to">"Bu komut dosyasını çalıştırmak için __app_name__'ın daha yeni bir sürümüne ihtiyacınız var. Uygulama sürümü en az __s__ olmalıdır. Mevcut sürüm __s__."</string>
+    <string name="default_mark">varsayılan</string>
+    <string name="default_">Varsayılan:</string>
+    <string name="reset_button">Sıfırla</string>
+    <string name="help_hex_colors_title">Bellek düzenleyicisindeki renkler</string>
+    <string name="help_hex_colors">"* __help_hex_colors_title__:
+altıgen gösterimi beyaz değil, ama renk, bu değer daha sonra büyük olasılıkla gösterici ise. rengi bu işaretçi ifade eder bellek türü gösterir.
+Bu nadir durumlarda __executable__ hafıza, __writable__ veya __read_only__. olabilir, bu __writable_and_executable__ bellek olabilir."</string>
+    <string name="executable">çalıştırılabilir</string>
+    <string name="writable">yazılabilir</string>
+    <string name="read_only">salt okunur</string>
+    <string name="writable_and_executable">yazılabilir ve çalıştırılabilir</string>
+    <string name="help_extract">Yardım belgelerini çıkart</string>
+    <string name="help_extract_done">Yardım belgeleri __s__ konumuna çıkartıldı</string>
+    <string name="help_extract_fail">Yardım belgeleri çıkartılırken bir hata oluştu:</string>
+    <string name="try_arm_version">Daha eski ARM işlemcilerini destekleyen __app_name__ sürümünü kullanmayı deneyin:</string>
+    <string name="back">Geri</string>
+    <string name="forward">İleri</string>
+    <string name="no_previous">Önceki girdi yok</string>
+    <string name="no_next">Sonraki girdi yok</string>
+    <string name="from_item">Öğeden:</string>
+    <string name="from_context">Bağlam menüsünden:</string>
+    <string name="from_boundary">sınır itibaren</string>
+    <string name="from_goto">Çağrı git</string>
+    <string name="from_calc">Ofset hesap makinesi Gönderen:</string>
+    <string name="help_add_to_value_title">\"__add_not_replace__\" seçeneği</string>
+    <string name="help_add_to_value">"* __help_add_to_value_title__:
+Bu seçenek işaretlenirse, girilen değer mevcut değere eklenir ve değiştirmemek edilecektir. Örneğin, eleman 5 değeri vardır ve değer alanına, 7 girdi. Bu seçenek işaretlenirse, eleman, 5 + 7 yeni bir değer elde sonra işaretli değilse 12'ye, 7'ye eşit olacaktır.
+Pozitif ve negatif değerler hem girebilirsiniz.
+Bu seçenek değeri dondurulması ile uyumsuz."</string>
+    <string name="check_libs">Oyun kütüphanelerinin mimarisini kontrol et:</string>
+    <string name="arm_libs">"Apk dosyasında x86 kütüphaneleri olmasına rağmen oyun ARM kütüphaneleriyle yüklenir.
+Hız hilesi ve onunla bağlantılı her şey çalışmayacaktır.
+\"__skip__\" bu işaretleri devre dışı bırakır. Bunu ayarlardan tekrar açabilirsiniz."</string>
+    <string name="manual_install">.apk dosyasını manuel olarak kurabilirsiniz. Uygulama konumu:</string>
+    <string name="as_text">Metin olarak (yüklenemez)</string>
+    <string name="as_text_help">Listeyi okumaya uygun olan metin biçiminde kaydeder. Bu biçimin yüklenmesi desteklenmemektedir.</string>
+    <string name="help_pointer_search_title">İşaretçi araması</string>
+    <string name="help_pointer_search">İstenilen adrese işaretçileri olabilir değerler arar. Sen offset olası bir maksimum sınırı belirtebilirsiniz.</string>
+    <string name="all_memory">Tüm bellekte</string>
+    <string name="offset_help">Olası bir ofset için maksimum sınır.</string>
+    <string name="typical_values">Tipik değerler</string>
+    <string name="su_command">Superuser komutu</string>
+    <string name="starts">İle başlar</string>
+    <string name="ends">İle biter</string>
+    <string name="no_filter">Filtre yok.</string>
+    <string name="help_memory_filter_title">Bellek düzenleyicisinde filtreleme</string>
+    <string name="help_memory_filter">"* __help_memory_filter_title__:
+Hafıza editörü bir filtre belirtebilirsiniz. Sadece filtreyle eşleşen bu sonuçların görüntülenecektir.
+Filtre joker destekler:
+\u0009__caret__ - Verilerin başlangıç,
+\u0009__dollar__ - veri sonu,
+\u0009__asterisk__ - Herhangi karakterlerden herhangi sayıda
+\u0009__question__ - Bir herhangi bir karakter.
+Örneğin, sayı 42 bulmak için, size __caret__42__dollar__ girmeniz gerekir."</string>
+    <string name="use_sh">Komut kabuğunu kullan</string>
+    <string name="backgrounds">Siyah arka plan</string>
+    <string name="actions">Eylemler:</string>
+    <string name="game_settings">Oyun için ayarlar:</string>
+    <string name="global_settings">Genel ayarlar:</string>
+    <string name="ui_settings">Arayüz ayarları:</string>
+    <string name="others">Diğerleri:</string>
+    <string name="skip_memory">Bellek alanlarını atla:</string>
+    <string name="empty_memory">Boş</string>
+    <string name="without_protection">koruma olmadan</string>
+    <string name="help_games_protection_title">Oyunlarda korumayı nasıl geçerim?</string>
+    <string name="help_games_protection">"\u0009Bazı oyunlar hafıza editörler karşı koruma ile donatılmıştır. Aşağıdaki deneyebilirsiniz:
+\u0009\"__kill_game__\" 1. ve ardından \"__restart_game_without_protection__\".
+\u00092. \"__disable_protection__\" ve sonra çalıştırın (veya yeniden başlatın) oyun.
+\u00093. \"__hide_from_game__\" öğelerin tamamını veya bir kısmını. Hepsi aramayı yavaşlatır.
+\u0009Oyun minimize edildiğinde Arama 4..
+\u0009Oyun ara verildiğinde ara 5..
+\u0009Oyun birkaç sürece sahip ise 6. öldür, oyunun koruyucu süreçlerin bazı duraklatmak veya.
+\u00097. XPrivacy veya baypas korumasına benzer araçları.
+\u0009korumasız oyunun modifikasyonunu kullanımı 8..
+"</string>
+    <string name="disable_protection">Tüm uygulamalar için korumayı devre dışı bırak (yeniden başlatılana kadar)</string>
+    <string name="must_restart_if">Korumayı devre dışı bırakmadan önce oyunu çalıştırırsanız, oyunu yeniden başlatmanız gerekir.</string>
+    <string name="patch_loading">Yama yükleniyor...</string>
+    <string name="patch_loaded">Yama yüklendi.</string>
+    <string name="patch_failed">Yama yüklenemedi.</string>
+    <string name="history_limit">Geçmiş sınırı:</string>
+    <string name="copy_as_search">Grup araması olarak kopyala</string>
+    <string name="add_types">Tip ekle</string>
+    <string name="add_size">Grup boyutu ekle</string>
+    <string name="copy_rhex_value">Ters hex değerini kopyala:</string>
+    <string name="mips_arch">Bu uygulama MIPS mimarisi desteklemez.</string>
+    <string name="unrandomizer">Unrandomizer</string>
+    <string name="functions">fonksiyonlar</string>
+    <string name="help_unrandomizer">"
+unrandomizer yaygın rastgele değerler üretmek için oyunlarda kullanılan belirli işlevleri değiştirmek için tasarlanmış bir özelliktir. Daha sonra çok basit bir düzeyde, bir örnek için, oyuncunun ödül belirlemek için rasgeleleştirici işlevini kullanan bir oyun olabilir. unrandomizer etkinleştirme sonra __app_name__ (belirli bir ödül almak için, örneğin) sonucu değiştirmek için belirtilen değer ile bu rastgele değeri değiştirmek için çalışmasına neden olur.
+
+unrandomizer her durumda işe yaramaz. Sadece bu konuda bildiği fonksiyonlarını idare edecek. daha gelişmiş bir / deneysel özelliğin var, çoğu durumda ve çoğu kullanıcı için bu, kullanılmayacaktır.
+
+Bazı işlevler __type_qword__ dönmek bazı - __type_double__ (nadiren kullanılır).
+
+__type_double__ değerleri __app_name__ otomatik olarak tüm yanlış varyantları düzeltecektir, çünkü orada herhangi bir değer belirtebilirsiniz Ancak, 0 ve 1 aralığında olmalıdır.
+
+Ayrıca, bir artım adımı belirtebilirsiniz. Bu durumda, sonraki her sonuç bu değer ile artacaktır. Örneğin, artım 1 ve başlangıç ​​değeri 0, yerine rastgele değeri 0, 1, 2, 3, ... döndürülür.
+Bu seçenek, tüm olası rasgele sonuçların tam arama için yararlı olabilir.
+
+Sen __app_name__ ayarlarında değişiklik yapmak için hangi işlevleri belirtebilirsiniz.
+"</string>
+    <string name="count_replace">Kaç İlk sonuçlar yerine?</string>
+    <string name="unrandomizer_loading">Unrandomizer yükleniyor...</string>
+    <string name="unrandomizer_loaded">Unrandomizer yüklendi.</string>
+    <string name="warn_restart_off_prot">"Bu seçenek koruma olmadan oyuna yeniden dener.
+Ancak, birçok üretici yazılımı yeniden başlatma cihazı yol açabilecek hatalar içerir.
+Bu durumda, bu cihazı tekrar çalışmaya başlayabilir, tekrar oyuna başlamak çalışmayın.
+Sadece __app_name__ çalıştırmak - Kötü ayarlar silinecektir.
+Ayrıca düzenli bir şekilde cihaz yeniden deneyebilirsiniz, bu da sorunu çözmek gerekir.
+
+reboot olmuşsa - Bu fonksiyonu kullanmak yok, bu firmware üzerinde çalışmaz."</string>
+    <string name="warn_patch_off_prot">"Bu seçenek tüm uygulamalar koruması olmadan çalışmasını böylece (geçici olarak) sistemini yama çalışacaktır.
+değişiklikler sadece yeni uygulamalar başlar uygulanacaktır. Bu nedenle, hedef uygulama, başarılı bir yama sonra, yeniden başlatılması gerekir.
+yama iptal etmek için sadece cihazı yeniden başlatın.
+Belki de bu yama sonra sistemdeki çeşitli böcek, olacaktır.
+
+yama başarılı olursa, o cihazı yeniden başlatmadan önce, yine bu fonksiyonu çalıştırmak için tavsiye edilmez.
+
+Eğer bir sorun varsa, bu işlevi kullanmayın."</string>
+    <string name="clear_history">Girdi geçmişini temizle</string>
+    <string name="clear_history_warn">Sabitlenmiş girdiler dahil tüm girdiler silinecek.</string>
+    <string name="click_edit">Düzenlemek için buraya dokunun</string>
+    <string name="ignore_unknown_chars">Bilinmeyen karakterleri yoksay:</string>
+    <string name="need_root_mode">Bu özellik için root erişimi gerekiyor. Şu anda __app_name__ root erişimi olmayan bir sanal ortam modunda çalışıyor.</string>
+    <string name="work_without_root_title">Root olmadan çalıştır</string>
+    <string name="work_without_root">"__app_name__ sanal ortamda root olmadan çalışabilir. Örneğin, __vspace_list__ ve daha birçoğu aracılığıyla.
+__app_name__ sanal bir ortamda yüklü olmalıdır. Oyun da orada yüklü olmalıdır.
+Uygulamanın tüm özellikleri desteklenmez, ancak çoğu özellik çalışmalıdır.
+
+Sanal ortamda yüklü olmayan oyunlarda hile yapamazsınız.
+
+Rastgele bir paket adıyla yeniden yüklenen __app_name__'ın ilk açılışı sanal bir ortamda gerçekleştirilmemelidir.
+Daha sonra sanal ortama __app_name__ ekleyebilir ve kullanabilirsiniz."</string>
+    <string name="help_game_not_listed_title">Oyunum neden işlem listesinde yok?</string>
+    <string name="fractional_hint">"Gerçek sayının kesirli kısmı \"x\" o Buradaki sayı tamsayı kısmının ötesinde fazlalığıdır.
+Bir dizi, fraksiyonel kısmı dolayısıyla kök bölümden sonra bulunan basamak gelir.
+
+Örneğin:"</string>
+    <string name="pointer">İşaretçi:</string>
+    <string name="help_search_filter_title">Aramadaki filtreler</string>
+    <string name="help_search_filter">"Sen arama sonuçlarını filtreleyebilirsiniz.
+Sen belirtebilirsiniz:
+\u0009- adresi için sınırları,
+\u0009- değeri sınırları,
+\u0009- Gerekli veri tipleri,
+\u0009- sayısı istenen kesirli kısmı,
+\u0009- işaretçi istenilen türü.
+Birbirinizi sahip filtreleri birleştirebilirsiniz.
+Ayrıca devre dışı birini veya herhangi bir zamanda filtrelerden herhangi can.
+
+veri büyük miktarda bulunursa Ancak, filtreler sonuçları yavaşlatabilir.
+
+bir dizi kesirli kısmı üzerinde bir filtre eşitlik veya eşitsizlikle olabilir.
+tam sayı tipleri için, kesirli kısmı, sıfırdır. Eğer türleri tamsayı gerekmiyorsa, bir tür filtre kullanarak dışlıyor.
+
+işaretçi türüne göre filtre bellek istenilen türü için bir işaret cihazı olabilir çıkış yalnızca değerler bırakmasını sağlar.
+Olası bellek türleri hafıza editörü renklere karşılık gelir:
+Bu nadir durumlarda __executable__ hafıza, __writable__ veya __read_only__. olabilir, bu __writable_and_executable__ bellek olabilir.
+
+sözde tipi işaretçiler olamaz tüm veri tiplerine \"işaretçi\" karşılık, ve aynı zamanda işaretçiler, bu değerler bu ayrılmamış belleğe noktası."</string>
+    <string name="unmount_kill">"__app_name__ üzerinde geçici dosyalar saklanan iken hafıza kartı monte edilmemiş oldu. Bu cini zorla kapanmasına yol açtı.
+
+Bunu engellemek için, geçici dosyaları için farklı bir yol belirtin. Örneğin, dahili bellekte.
+yeterli boş alan olmalıdır."</string>
+    <string name="calls">Sistem çağrıları modu:</string>
+    <string name="alternative">Alternatif</string>
+    <string name="help_calls">"Lenovo gibi bazı cihazlarda alternatif mod daha hızlı çalışabilir.
+
+Normalde, bu seçeneği değiştirmeniz gerekmez."</string>
+    <string name="help_context_title">Bağlamsal yardım</string>
+    <string name="help_context">"arayüzde bazı unsurlar daire içinde sembolü __i__ ile, sağ üstte, özel bir simgeyle işaretlenir.
+Bu öğenin üzerine basılması veya uzun bu eleman üzerinde, basma, gösteriler yardımcı olur."</string>
+    <string name="waitpid_mode">__waitpid__ modu:</string>
+    <string name="help_waitpid">"beklendiği gibi bazı firmware günü, __waitpid__ sistem çağrısı çalışmaz. Bu genellikle yanlış SELinux'u ayarlarına kaynaklanmaktadır.
+Bu __app_name__ içinde sonsuz bir arama yol açar.
+Sen alternatif modunu kullanarak deneyebilirsiniz. Belki bu işe yarar."</string>
+    <string name="microseconds_short">μsn</string>
+    <string name="small_is_bad">Çok küçük değerler oyunda işlemci ve gecikme üzerinde fazla yük neden olabilir.</string>
+    <string name="freeze_interval_help">aralık geçtiği __app_name__ oyun belleğindeki değerlerin üzerine yazılır.</string>
+    <string name="saved_list_update_interval_help">aralık geçtiği __app_name__ kaydedilmiş listedeki değerleri günceller.</string>
+    <string name="icons_size_help">"__app_name__ arayüzünde simgelerin boyutu.
+Yüzen bir simgeye için geçerli değildir."</string>
+    <string name="ignore_unknown_chars_help">özel karakterler numaraları ile birlikte kopyalanır ise, farklı yerlerden numaralarını kopyalarken sorunları çözmeye yardımcı olabilir.</string>
+    <string name="use_notification_help">"Android'in sistem bildirim alanında bildirimlerin kullanın.
+Bazı firmware üzerinde bu uygulama ve kapatmasını önler bunun önceliğini arttırır.
+Ayrıca, üzerine tıklayarak __app_name__ veya maçına gitmek için bildirime kullanabilirsiniz.
+Eğer yüzen simgesine tıklayın edemez, bu yararlı olabilir."</string>
+    <string name="use_sound_effects_help">"düğmeleri ve öğeleri bastığınızda sistem geliyor.
+Bazı firmware günü, sesler __app_name__ çökmesine neden olur."</string>
+    <string name="keyboard_help">İç klavye daha hızlı az bellek, yükleri alır ve rakam girişi için optimize edilmiştir.</string>
+    <string name="allow_suggestions_help">"Harici bir klavyeden İpuçları.
+Bazı firmware günü, ipuçları __app_name__ çökmesine neden olur."</string>
+    <string name="autopause_help">__app_name__ arayüzünü açarken otomatik duraklama Oyunu koyar.</string>
+    <string name="killed_by">__app_name__ zorla uygulamaya \"__s__\" tarafından kapatıldı. Bunu önlemek için, bu uygulamayı silmek veya __app_name__ sonlandırmak kalmaması yapılandırın.</string>
+    <string name="killers_found">"Sen uygulamalar yüklemiş olduğu can zorla yakın __app_name__:
+__s__
+Bunu önlemek için, bunları silmek, ya da __app_name__ sonlandırmak kalmamak için yapılandırın.
+
+Eğer __app_name__ beklenmedik kapanış ile sorunları yaşamaya yoksa, herhangi bir işlem gereklidir ve bu mesajı göz ardı edebilirsiniz."</string>
+    <string name="record_logcat">Tutanak __logcat__</string>
+    <string name="record_logcat_info">"__app_name__ dosyaya __logcat__ kayıt ile yeniden başlatılır:
+\"__s__\".
+
+__app_name__ dan kayıt, çıkış bitirmek için.
+Bundan sonra, bunu gereken yere kadar günlük dosyasını gönderebilirsiniz."</string>
+    <string name="need_uninstall">Yükleyiciyi kaldırmanız gerekiyor, aksi takdirde 2 yerine 4 simgeniz olacaktır. Ayrıca oyunlar bunu algılayacaktır.</string>
+    <string name="need_random_name">"__app_name__ standart paket adını kullanıyor. Oyunlar bunu algılayabilir.
+
+Bunu düzeltmek için - __app_name__'ı sanal alanın dışında normal bir uygulama olarak çalıştırın.
+Yükleme tamamlandıktan sonra, __app_name__'ın rastgele bir adla oluşan kopyasını sanal alana ekleyin."</string>
+    <string name="work_mode">Çalışma modu</string>
+    <string name="root">rootlu</string>
+    <string name="no_root">rootsuz</string>
+    <string name="how_no_root">"Sanal alan uygulamasını yüklemeniz gerekiyor. Örneğin: __vspace_list__.
+
+Optimize edilmiş sürümleri resmî __app_name__ sitesinden yüklemeniz önerilir.
+
+Daha sonra __app_name__'ı ve oyununuzu bu sanal alana eklemelisiniz.
+
+Ardından sanal alanda oyunu ve __app_name__'ı çalıştırmanız gerekir."</string>
+    <string name="eperm_error_descr_0">Olası nedenler:</string>
+    <string name="eperm_error_descr_1">Oyunda Koruması.</string>
+    <string name="eperm_error_descr_2">Başka ayıklayıcı veya kraker oyuna bağlanır.</string>
+    <string name="eperm_error_descr_3">Yetersiz yetkiler. Genellikle nedeniyle yanlış __selinux__. Devre Dışı veya yapılandırmak __selinux__ konfigüre etmek.</string>
+    <string name="eperm_error_descr_4">Kötü çekirdek veya firmware. Başka bir firmware veya başka bir cihaz deneyin.</string>
+    <string name="eperm_error_descr_5">senin firmware günü, \"hayır kök\" modunda çalışmaz. Başka bir firmware veya başka bir cihaz deneyin veya kök olsun.</string>
+    <string name="ptrace_bypass_mode">ptrace koruması için Bypass modu:</string>
+    <string name="mode_restore">geri yükle</string>
+    <string name="mode_nothing">hiçbir şey değil</string>
+    <string name="mode_freeze">dondur</string>
+    <string name="ptrace_bypass_mode_help">"koruma bağlantısını devre dışı bırakıldıktan sonra ne yapacağını belirtir:
+\u0009__mode_restore__ - bağlantıyı tekrar
+\u0009__mode_nothing__ - hiçbir şey (genellikle koruma kendisi bağlantıyı geri yükler)
+\u0009__mode_freeze__ - (önceki sürümlerinde olduğu gibi) iplik dondurmak
+
+Eğer koruma geri yüklemek veya koruma kendiniz yapmak izin verirseniz, __app_name__ değerlerin donma koruması devre dışı bırakılması / nedeniyle sürekli bağlantıyla lag neden olabilir."</string>
+    <string name="slow_emulator">"Sen \"__s__\" emülatör kullanıyor. Bu yavaş ve hatalar içeriyor. Bu nedenle, arama çok yavaş olabilir.
+
+Biz diğer emülatörlerine kullanılması önerilir:"</string>
+    <string name="text">Metin</string>
+    <string name="show_debug_info">Hata ayıklama bilgisini göster</string>
+    <string name="mnt_expand">"__app_name__, \"Dahili depolama\" olarak kullanılan bir hafıza kartında yüklüdür.
+Bu, sanal alanlarda çalışmasına engel olabilir.
+Böyle bir durumda, __app_name__'ı cihazın dahili belleğine yükleyin.
+Bellek kartını \"Taşınabilir depolama\" olarak yeniden biçimlendirmeniz gerekebilir."</string>
+    <string name="help_game_not_listed_root">"Oyun seçmek için çalışıyor olması gerekir.
+
+Oyun çalışıyor, ama yine de listede yoksa, o zaman belki root veya firmware ile sorunları var.
+Başka bir kök veya diğer firmware deneyin."</string>
+    <string name="help_game_not_listed_noroot">"Oyunun seçilebilmesi için sanal alanda başlatılması gerekir.
+
+Sanal alanda çalışmayan bir oyunu seçemezsiniz.
+
+Oyun sanal alanda çalışıyorsa, ancak yine de listede değilse, başka bir sanal alan uygulamasında, başka bir firmware'de, başka bir cihazda deneyin veya cihazınıza root atın."</string>
+    <string name="daemon_killed_oom">"Daemon nedeniyle belleğin yetersizliği nedeniyle sistem tarafından öldürüldü.
+
+\"__no__\" ile \"__data_in_ram__\" olarak ayarlayın.
+Mümkünse, arayüzün donanım ivmesini kullanın.
+büyük uygulamaların kullanmayın.
+Diğer tüm Kullanılmayan uygulamaları devre dışı bırakın.
+Cihazınızı yeniden başlattıktan sonra __app_name__ kullanmaya çalışın."</string>
+    <string name="selected_as_search_result">arama sonucu olarak Seçilmiş</string>
+    <string name="clear_results_prompt">Bu mevcut arama sonuçlarını yerini alacaktır. Devam et?</string>
+    <string name="position_in_memory_editor">Hafıza editörü pozisyonu</string>
+    <string name="script_prompt_internet">"komut Internet'e erişmek istiyor. Erişime izin verirseniz, komut dosyası oturumların çalmak mümkün olacak, şifreler, kaydeder ve oyundan başka veri. Ayrıca cihazınıza diğer komut veya indirme virüsleri çalmak mümkün olacak.
+
+İnternete Komut dosyası erişimine izin?"</string>
+    <string name="level">Seviye</string>
+    <string name="float_prompt">"düzgün firmware __app_name__ çalıştırmak için, __s__ için sistem ayarlarında kullanım açılır pencerelerine izin vermek gerekir.
+
+Popup varsayılan olarak Huawei telefonlarında göstermez. Sen popup göstermek için __s__ izin vermesi gerekir. Phone Manager, ardından dropzone Yönetimi'ni açmak Lütfen ve __s__ için açık olduğundan emin olun.
+
+Popup ayrıca bazı Xiaomi telefonlarında göstermez. Sen Ayarlar kafasına gerekir -> Yüklü uygulamalar -> __s__ -> Diğer izinler -> Ekran açılır pencere.
+
+Ayrıca, diğer telefonlar uygulamalar Popup pencereleri göstermesine izin farklı prosedürlere sahip olabilir. Tüm bu uygulamalar genellikle örneğin Tap ile Google Çevirmen uygulama işlevselliğini Çevir için, bu şekilde etkilenir. Bu nedenle, sadece çözüm bulmak amacıyla \"çevirmek için YOUR_PHONE musluğunu\" google edebilirsiniz. örneğin aşağıdaki gibi, Xiaomi redmi cihazlar için çözüm:"</string>
+    <string name="virtual_space">Sanal Alan Uygulaması</string>
+    <string name="prevent_unload_help">"Önleme bellek (kuvvet yakın) gelen boşaltma __app_name__.
+
+Sonraki her düzeyde bir öncekinden daha güçlüdür ve kendi içinde bunu içerir.
+
+Üçüncü seviye problemleri bazı firmware ve öykünücülerinde (tost, yeniden başlatma veya çökme askıda) neden olabilir.
+
+root olmadan sadece üçüncü düzey çalışır."</string>
+    <string name="integer_type">Bu veri tipi tamsayı değerleri için sadece ve fraksiyonel değeri desteklemez. Fraksiyonel değerler için __type_float__ veya __type_double__ kullanın.</string>
+    <string name="without_float">Ayrıca pencereler kayan olmadan __app_name__ kullanabilirsiniz:</string>
+    <string name="any_value">herhangi bir değer</string>
+    <string name="help_group_search_any_value">İstenen pozisyonda bu tür herhangi bir değeri belirtmek için asgari büyüklüğü ile birlikte sıralı bir grup arama __any__ kullanabilirsiniz.</string>
+    <string name="help_scripts_title">Komut dosyaları</string>
+    <string name="help_scripts">"* __help_scripts_title__:
+__app_name__ destekler Lua yazılmış komut yürütme.
+
+Arama sekmesinde, menüye tıklayın ve \"__execute_script__\" i seçin.
+Burada, yürütülmesi için komut dosyasını seçin varolan __app_name__ API yöntemleri görmek veya API hakkında yardım okumak veya hazır komut dosyalarını indirmek için resmi sitesine gidebilirsiniz.
+Ayrıca, internet olmadan okumak için hafıza kartında API yardım çıkarabilir.
+
+Kendi senaryo yazmak istiyorsanız, o zaman harici bir metin dosyası editörü gerekir.
+__app_name__ sadece onları çalıştırır, komut dosyalarını düzenleme izin vermez.
+
+Daha fazla ayrıntı için API yardımı okuyun."</string>
+    <string name="help_floating_icon_absent">Eğer bir yüzer simgesi görmüyorsanız \"__start__\" butonuna tıkladıktan sonra ise:</string>
+    <string name="remove_all2">Tümünü kaldır</string>
+    <string name="debug_load">Tüm kod yükleri dökümü</string>
+    <string name="debug_log">En senaryo çağrılarını Log</string>
+    <string name="vspace64">"__app_name__'ı 64 bit işlemleri destekleyen sanal bir alanda çalıştırdınız.
+
+__app_name__ bu alanda çalışan 32 bit işlemleri görmeyecektir.
+
+Eğer 32 bit işlemler için __app_name__'ı çalıştırmak istiyorsanız uygulamanın ikinci kopyasını \"__for32__\" modunda yükleyin."</string>
+    <string name="folder_new">Yeni klasör</string>
+    <string name="folder_exists">Bu klasör zaten var</string>
+    <string name="folder_file">Bu ada sahip bir dosya var</string>
+    <string name="folder_failed">Klasör oluşturulamadı</string>
+    <string name="force_close">"Önceki uygulama beklenmedik bir şekilde kapandı.
+
+Gelecekte bunu önlemek için \"__prevent_unload__\" yapılandırma seviyesini yükseltebilirsiniz."</string>
+    <string name="help_force_close_title">Beklenmedik kapanma</string>
+    <string name="install_mode">Yükleme modu</string>
+    <string name="for32">64 bit sanal alanda 32 bit oyunlara hile yapmak için</string>
+    <string name="for64">64 bit sanal alanda 64 bit oyunlara hile yapmak için</string>
+    <string name="reset_ignore">tüm ekranların görmezden Tümünü sıfırla</string>
+    <string name="allocate_fail">Bellek sayfasını ayrılamadı. Hata</string>
+    <string name="allocated">Ayrılan bellek sayfası:</string>
+    <string name="allocate_page">Hafıza sayfasını ayır</string>
+    <string name="prot_read">Okunabilir</string>
+    <string name="prot_write">Yazılabilir</string>
+    <string name="prot_exec">Çalıştırılabilir</string>
+    <string name="install_finished">"Yükleme başarılı oldu.
+Verilerinizi taşıyabilmesi için yüklenen kopyayı elle çalıştırın. 
+Bundan sonra, yükleyici kaldırılabilir."</string>
+    <string name="odd_vspace">__app_name__ sanal alanda mı başlatıldı?</string>
+    <string name="record_script">Tutanak komut</string>
+    <string name="record">Kaydet</string>
+    <string name="another_record">Başka bir kayıt çalışıyor. Bu durdurulsun mu?</string>
+    <string name="record_ended">Kayıt tamamlandı:</string>
+    <string name="stop">Durdur</string>
+    <string name="could_not_use">Kullanılamadı:</string>
+    <string name="not_optimized2">"Sen sanal alan bir optimize edilmemiş sürümü ( \"__s__\") kullanıyor.
+Bu hatayı düzeltmek için, \"__s__\" olmayan optimize sürümü kaldırın ve resmi sitede __app_name__ optimize sanal alanlarda birini yükleyin.
+Click \"__fix_it__\" optimize sanal alanların Seçime gitmek için."</string>
+    <string name="fix_path">Boş alan veya \"__fix_it__\" tıklayarak geçici dosyalar için farklı bir yol belirtin.</string>
+    <string name="deep_read">Derin okuma:</string>
+    <string name="help_deep_read">"o okunamadı eğer, mevcut tüm yöntemlerle bellek okuma.
+Bellek okumaları yavaşlatabilir."</string>
+    <string name="ptrace_fail">ptrace yoluyla hafızayı değiştirilemedi.</string>
+    <string name="ptrace_fail_partially">Bazı özellikler, speedhack ve bununla ilgili her şey, işe yaramaz. (Kod dahil), salt okunur belleğe yazma mümkün değildir.</string>
+    <string name="ptrace_fail_full">özelliklerin salt çoğunluk çalışmayacaktır.</string>
+    <string name="ptrace_fail_solve">"Tipik nedeni firmware bir kırık çekirdek olduğunu.
+firmware değiştirmeyi deneyin. Yakın zamanda bunu güncellenen ise - bir önceki sürümünü yükleyin.
+
+Bu işe yaramazsa, aygıtı değiştirin."</string>
+    <string name="feature_hide_4">Dördüncü öğe \"__hide_from_game__\" seçilmişse bu özellik çalışamaz.</string>
+    <string name="feature_firmware">Bu özellik, bu firmware üzerinde çalışmaya değil, hangi ptrace olmadan çalışamaz.</string>
+    <string name="feature_protection">Bu özellik oyundaki ptrace koruması nedeniyle çalışamaz.</string>
+    <string name="not_file">Yol bir dosya değil:</string>
+    <string name="not_execute">Çalıştıramayız:</string>
+    <string name="check_install">__app_name__ doğru takıldığından emin olun.</string>
+    <string name="sdcard_install">__app_name__ harici depolama (SD kart) yüklüyse, dahili bellek iade</string>
+    <string name="change_address_type">Değişim adresi / türü</string>
+    <string name="bad_offset">ofset __d__ katları değildir.</string>
+    <string name="bad_result_address">Elde adresi __d__ katları değildir.</string>
+    <string name="correct_types">__d__ elemanları imkansız hizalama düzeltmek için tipini değişecektir.</string>
+    <string name="reinstall_fail">"rasgele adla __app_name__ yeniden edilemiyor.
+
+__app_name__ kolayca oyunlara tarafından tespit edilebilir.
+
+Yükleme sırasında __logcat__ kaydetmek ve yardım için resmi forum başvurabilirsiniz.
+
+Reddetme nedeni:"</string>
+    <string name="empty_field">Boş giriş alanı: dönüştürmek için hiçbir numara</string>
+    <string name="need_integer">Dönüştürmek bir tamsayı seçmelisiniz.</string>
+    <string name="maps_failed">\"__maps__\" dosyası açılamadı.</string>
+    <string name="game_protected">Oyun korumalı.</string>
+    <string name="need_root">Bu oyuna hile yapmak için root gerekiyor.</string>
+    <string name="vspace_error">"sanal alan veya firmware veya cihazın sorunu.
+
+Deneyin:
+\u0009- Başka bir sanal alanı kullanın
+\u0009- Başka bir firmware kullanmak
+\u0009- olsun kökü
+\u0009- Başka bir cihaz kullanmak"</string>
+    <string name="root_error">"firmware veya kök veya cihazın sorunu.
+
+Deneyin:
+\u0009- Başka bir firmware kullanmak
+\u0009- Başka bir kök kullanmak
+\u0009- Başka bir cihaz kullanmak"</string>
+    <string name="vspace_root">sanal uzaya kök kullanın:</string>
+    <string name="help_vspace_root">"sanal uzaydan kök kullanarak Gizle cihazda bir __app_name__ olduğu gerçeğini yardımcı olabilir.
+
+Tüm firmware ve tüm sanal alanlarda çalışmaz.
+
+Sanal uzay, yazılım ve kök sanal uzaydan kökü ile çalışan izin vermelidir.
+Sanal uzay sisteme içine yüklemeden içe uygulamaları yüklemek için izin vermelidir.
+
+Tüm sanal alanlarda bu sağlayabilir.
+
+tüm firmware bu modu çalışacaktır değil. Ve hepsi değil köküyle.
+
+Kök hakları tüm sanal alan verilir olacağından, bunun içinde başka bir şey yüklemek olmamalıdır. Aksi halde, sanal uzaydan herhangi bir uygulama öngörülemeyen sonuçları ile kök haklarını kullanabilirler.
+
+Oyun sanal uzayda dışına monte edilmelidir.
+
+__app_name__ sisteme kurmadan, sadece sanal alanı içinde monte edilmelidir.
+Bunu yapmak için nasıl - Belirli sanal alan yardımına bakın.
+
+Örneğin, __vexp__ için, sen __vexp__ içinde sistemden __app_name__ klon ve daha sonra sistemden __app_name__ silin."</string>
+    <string name="help_games_protection_9">sisteme yüklemeden kendin içine uygulamaları yüklemek için izin sanal mekanlarda 9. Kullanım kökü.</string>
+    <string name="locale_ui">yerdeki</string>
+    <string name="locale_script">Komut hep İngiliz yerel kullanmak</string>
+    <string name="locale_desc">"'__s__' - ondalık ayırıcı
+'__s__' - binlerce ayırıcı
+'__semicolon__' - grup arama numarası ayırıcı"</string>
+    <string name="help_unaligned_title">Hizalanmamış arama / big-endian arama</string>
+    <string name="help_unaligned">"(Örneğin, konsol taklitleri olarak, örneğin), bazı uygulamalarda, hafızada değer hizalama saygı olabilir veya büyük-endian bayt için sunulabilir.
+
+Böyle bir değer, normal bir arama yoluyla bulunamaz.
+
+Onları bulmak için - Resmi __app_name__ web sitesinden özel komut dosyası kullan:"</string>
+    <string name="help_formula_calculator_title">Formül hesaplayıcı</string>
+    <string name="help_formula_calculator">"Neredeyse numaralarını girmek için her bir alana, bir matematiksel formül girebilir eşit işaretinden sonra, örneğin, arama alanına '= 2 + 2 * 3' girin ve program formülün sonucuna arayacaktır, bu '8' vardır.
+Formül Lua ifadesidir. İçinde Lua mevcut tüm gücünü kullanabilir.
+
+Tüm aritmetik operatörler Lua 5.3 kabul edilebilir olan - bir ek (+), çıkartma (-), ve böylece çarpma (*), bölme (/), bölme Geriye kalan (%), üs (^), tamsayı bölme (//).
+Ayrıca mevcut bit operatörleri - AND (&amp;), OR (|), YA (ikili ~), DEĞİL (birli ~), sağa Shift (>>), sola Shift (&lt;&lt;). eylem sırası ayraçla verilebilir.
+Mevcut operasyonların tam listesi için Lua kılavuzunu okuyun.
+
+Eğer değer oyununda kodlanmıştır biliyorum eğer yararlıdır. Örneğin, bir oyunda 29 mermi '= ~ 444.444 29' olarak bulunabilir. Bu video örneğinde 29 XOR 444444. eşdeğerdir, fiyat '= 444444 ~ 3888' olarak, 444444 ile XOR aracılığıyla 3888 bulunmuştur. Bundan sonra, yedek '1' fiyat ayarlamak getiren '= 444444 ~ 1' yapıldı. Başka oyunda, 125 altın '= 125 * 10' gibidir.
+
+Tüm komut işlevleri formül hesap makinesi mevcuttur. Bazı işlevler kullanılamaz. Eğer bunlardan yeterli yoksa - yerine bir formül hesap makinesi kullanmak yerine, sizin senaryo yazmaya, sadece basit hesaplamalar için tasarlanmıştır. Uygun: temel işlevleri parçası 'bit32', 'tablo', 'dizesi', 'utf8', 'matematik', 'os' paketinin bir parçasıdır. Paketler 'ayıklama', 'paket', 'gg', 'io' kullanılamaz.
+
+Eğer yazarken '= 2 + 2 * 3', 'return' formülüne önce eklenecektir: 'return 2 + 2 * 3'. Eğer karmaşık bir formül gerekiyorsa Ancak, bir formülde bu kelimeyi kendiniz belirleyebilirsiniz.
+Örneğin, '= a = 5; b = 7; iade edilen bir * 4 + b * 8' olarak yürütülür 'a = 5; b = 7; a * 4 + b * 8' dönüş
+
+Formül hesap sonucu bir metin dizesidir. dize Bu girdi alanı için herhangi bir geçerli dize olabilir.
+Örneğin, bir grup araması veya bir aralık arama için bir dize olabilir. '= A = 5; b = 7; Bir return .. \";\" .. b .. \":: 100\" 5 'eşdeğerdir'; 7 :: 100' .
+
+Formül hesap komut çalışmaz, doğrudan Lua orada kullanabilirsiniz.
+Bir komut dosyası yazarken, formül hesaplamanın sonucu dosyası değil formülü kendisine yazılır.
+
+Formül yanlışsa form gönderdiğinde, bir hata mesajı alırsınız.
+
+hesaplarken, dikkate hesaplamalar ilk işlenen belirttiği o tip yürütülen gerçeğini almalıdır. o bir tamsayı ise, sonuç bir tamsayı olacaktır.
+Örneğin, '= 3/2' olduğu '1' ve '= 3.0 / 2' '1.5' dir.
+
+Ne olursa olsun seçilen yereli, formüller İngiliz yerel ayarda çalışır. ondalık ayırıcı daima nokta ( '') olduğunu bu demektir."</string>
+    <string name="help_faq_32_b">"İki başlatma simgeleri. İlk, yazılım ivme ile - \"__app_short_name_sw__\", ikinci, donanım hızıyla - \"__app_short_name_hw__\". Şimdi hep böyle olacak.
+Bazı yazılımlar üzerinde yalnızca bir sürümü normal olanlar hem çalışır.
+O daha az sorunsuz çalışır, kullanım yazılım ivme daha iyidir, ama tükettiğini az bellek.
+
+\"__hide_icons__\": Sen uygulama ayarlarından simgelerden biri gizleyebilirsiniz."</string>
+    <string name="acceleration_help_">"Donanım veya yazılım arayüzü ivme __app_name__.
+oyun ve firmware bağlı olarak, seçeneklerden bazıları sorunlara neden olabilir.
+Her iki eser, kullanım yazılım ivmesi daha az bellek tüketir çünkü edin.
+
+Bu seçenek fırlatma simgeleri ayrıdır ve sadece __app_name__ arayüzünün görünümünü etkiler.
+Lansman simgeleri başlangıç ​​ekranının ivme türüne sorumludur.
+
+Donanım hızlandırma tükettiğini çok daha fazla bellek, ancak daha düzgün çalışır. Eğer küçük RAM varsa, her zaman yazılım ivme kullanın.
+
+donanım hızlandırma hataları neden olursa, __app_name__ yazılım ivme geçebilirsiniz."</string>
+    <string name="small_list_items">Küçük liste öğeleri</string>
+    <string name="small_list_items_help">Verir Eğer madde listelerinde fazla bilgi görüntülemek için, ancak istenen öğeyi tıklayın daha zor olabilir.</string>
+    <string name="format_asm_opcodes">__s__ işlem komutları</string>
+    <string name="no_regions">Eşleşen bölgeler buldular.</string>
+    <string name="cannot_hide_launcher_icon">"Bu simge akımı başlatmak için kullanıldı.
+
+Geçerli başlatmak için kullanılan simge gizleyemezsiniz.
+
+Başka bir simge üzerinden uygulamayı yeniden başlatın bu simgeyi gizlemek edebilmek için."</string>
+    <string name="screenshot">Ekran görüntüsü al</string>
+    <string name="screenshot_prompt">"Bir ekran görüntüsü almak, böylece simge __d__ saniye boyunca gizlenir.
+
+Bundan sonra, simge tekrar görünür olacaktır."</string>
+    <string name="screenshot_action">Ekran görüntüsü</string>
+    <string name="use_visible_type">Bellek düzenleyicisinde görünür veri tipi kullanım:</string>
+    <string name="use_visible_type_help">Sadece bir veri türü görüntülenmesi durumunda hafıza editörü veri türü için sorma.</string>
+    <string name="wrong_float">senin yerelinde, \"__s__\" gibi sayı \"__s__\" görünüyor. Bu değil neye ihtiyacınız olursa - Başlangıç ​​ekranında Farklı bir yerel ayar (veya dil) seçin.</string>
+    <string name="wrong_float2">Ayrıca, __app_name__ ayarlarında, sayıları biçimlendirme için yerel geçersiz kılabilir.</string>
+    <string name="number_locale">numaralarını biçimlendirmek için Yerel Ayar:</string>
+    <string name="fill">Doldur</string>
+    <string name="help_text_search">"
+metni aramak için, her zamanki arama iletişim değiştiriciler belirtmelidir.
+
+En sık kullanılan kodlamalar __utf8__ ve __utf16le__ bulunmaktadır.
+Tipik olarak, __utf16le__ __java__ kullanılır ve __utf8__ __c__ kullanılır.
+
+\u0009__utf16le__ iki baytlık bir kodlamasıdır. o __type_word__ yoluyla temsil edilir böylece her karakter her zaman, iki bayt olarak kodlanır.
+\u0009__utf8__ - karakter başına değişken bit büyüklüğü ile kodlayan. __type_byte__ yoluyla temsil etti.
+\u0009__hex_input__ ve türevleri hep __type_byte__ yoluyla temsil edilir.
+
+Oyun kodlamalardan herhangi birini kullanabilirsiniz.
+Eğer bayt belirli bir grup gerekirse - __hex_input__ modunu kullanın.
+
+Mevcut ön ekleri:
+__text_prefixes__
+
+\"__hex_mixed__\" mod için, __apos__ karakterler ve __quot__ karakter arasında __utf16le__ metin arasında __utf8__ metni belirtebilirsiniz.
+
+Örneğin:
+__text_examples__
+
+önek karakteri arama metninde ilk karakter olmalıdır.
+
+arama sonucu __utf16le__ durumunda bir __type_byte__ sekansı veya bir __type_word__ dizisi olacaktır.
+
+Tümünü seçip \"__edit_selected__\" tıklayın - sonuçlar değiştirilebilir.
+
+değer alanına arama dizesi için aynı biçimde, yeni değeri girin.
+
+Sen dolgu düğmelerini kullanabilirsiniz. onlar görünür değilse \"__more__\" tıklayın.
+
+değeri sürekli aşağıdaki öğelerden her grup için ayarlanacaktır.
+elemanları arasında bir boşluk varsa, yeni bir grup olacaktır.
+
+Eğer gerekenden daha fazla bayt belirtirseniz, bunlardan sonra sadece bir parçası kullanılacaktır.
+Eğer gerekenden daha az belirler, sonra grubun geri kalanı sıfır bayt ile doldurulacaktır.
+
+Metin değiştirirken, önlemek sorunlarına orijinal olarak bayt aynı sayıda metnini belirtmek deneyin.
+"</string>
+    <string name="fast_freeze">Hızlı donma:</string>
+    <string name="help_fast_freeze">"Bu ancak tüm bellek için normal donma çok daha hızlı çalışır.
+
+donma değil çalışır, bu seçeneği devre dışı bırakın."</string>
+    <string name="debug_disassemble">sökün</string>
+    <string name="assembled">Başarıyla dosyaya monte:</string>
+    <string name="warn_patch_off_prot2">"devre dışı it yama uygulamadan önce - Eğer __magisk_hide__ kullanıyorsanız. Başarıyla yamayı uyguladıktan sonra, tekrar açmak olabilir.
+Eğer yoksa, yama başarılı olmayacaktır."</string>
+    <string name="help_games_protection_end">"
+Nasıl sanal uzaya oyundan __app_name__ gizlemek için
+
+\u0009sistemde bunları yüklemeden, uygulamaların gizli yüklenmesine izin verir sanal uzay, Yükle 1.. Örneğin, __vspace_hide__ için.
+\u0009Sanal uzaya __app_name__ yükleyin 2..
+\u0009__app_name__ 3. \"__vspace_root__\" modunu açın.
+\u0009Sanal uzaya 4. Hibe kök hakları saklıdır. Kök hakları vermek mümkün değil ise - başka bir sanal alan, diğer kök haklarını, farklı firmware deneyin veya cihazı değiştirin.
+\u0009sistemden __app_name__ çıkarın 5..
+\u0009sanal uzaydan __app_name__ 6. Iş.
+
+kaçınmak için arama sırasında tespit:
+\u0009Öğeleri seçin 2, 3 ve \"__hide_from_game__\" ayarında 4.
+
+Tipik bir çözeltisi (Eğer başarılı olmaz root olmadan, kök gerektirir):
+\u0009sanal uzaydan 1. Kullanım kökü. ayarında \"__vspace_root__\" için yardım okuyunuz.
+\u00092. ürün 2, \"__hide_from_game__\" ayarında 3 ve 4.
+"</string>
+    <string name="force_close_2">İleride Bunu önlemek için \"__no__\" ile \"__data_in_ram__\" olarak ayarlayabilirsiniz.</string>
+    <string name="script_wrote">komut __s__-__d__ dosyaları yazdı.</string>
+    <string name="script_exit">Çıkış</string>
+    <string name="script_interrupted">senaryo kesildi.</string>
+    <string name="script_error">Komut dosyası hatası</string>
+    <string name="script_oom">Bellek yetersiz</string>
+    <string name="script_possible">Bu bir komut dosyası olarak __s__ yürütmeye çalışıyoruz benziyor.</string>
+    <string name="script_web">Bir web sayfası</string>
+    <string name="script_saved_list">Kaydedilen bir liste</string>
+    <string name="speedhack_no_x86">Ama bu oyunda belki işe yaramaz, hiçbir x86 kütüphaneleri olduğunu.</string>
+    <string name="help_faq_33_q">Kısa mesajlar (tost) ekranda kalır veya __app_name__ çalışırken siyah bir daire ekranın altındaki görülebilir. Nasıl düzeltebilirim?</string>
+    <string name="help_faq_33_a">kısa mesajları (tost) ekranda kalmasını veya karanlık bir daire görünür (boş mesajı) olması nedeniyle bazı firmware kablolarında üçüncü düzeyi \"__prevent_unload__\" kullanma. Böyle bir durumda, üçüncü düzeyini kullanmayın.</string>
+    <string name="invalid_header_1">Geçersiz ikili komut başlığı.</string>
+    <string name="unknown_version">Bilinmeyen sürüm.</string>
+    <string name="unknown_format">Bilinmeyen biçim.</string>
+    <string name="unknown_endianness">Bilinmeyen endian.</string>
+    <string name="unknown_size_s">__s__ Bilinmeyen boyutu.</string>
+    <string name="unknown_size_instr">Bilinmeyen komut boyutu.</string>
+    <string name="unknown_size_num">Lua numarasının Bilinmeyen boyutu.</string>
+    <string name="expected_found">__s__ Beklenen ama __s__ bulundu.</string>
+    <string name="or">veya</string>
+    <string name="invalid_header_2">Komut dosyası yine de çalıştırılsın mı?</string>
+    <string name="invalid_header_3">"__app_name__ gelecekteki sürümlerinde bu komut çalıştırılamaz.
+senaryo yazarına bu yaz."</string>
+    <string name="skip_system_libs">Sistem kütüphanelerini atla</string>
+    <string name="try_reinstall_x86">"x86 kitaplıkları ile oyuna yeniden yüklemeyi deneyin?
+
+Oyun bundan sonra çalışmayabilir. Böyle bir durumda, __data_app__ bulunan apk'de gelen oyun yeniden yükleyin."</string>
+    <string name="reinstall_started">Yeniden yükleme başladı ...</string>
+    <string name="reinstall_failed">Yeniden yükleme başarısız oldu:</string>
+    <string name="reinstall_ended">Yeniden yükleme tamamlandı.</string>
+    <string name="help_lasm_title">Sökün / komut dosyalarını bir araya</string>
+    <string name="help_lasm">"__app_name__ Lua komut dosyaları için dahili bir Çözücü / assembler vardır.
+
+Sen \"__more__\" butonuna tıkladıktan sonra, komut fırlatma penceresinde \"__debug_disassemble__\" seçeneğini kullanabilirsiniz.
+
+Ortaya çıkan __ext_lasm__ dosya düzenlenebilir ve komut fırlatma penceresinde seçilebilir. Sonuç yapılan değişikliklerle birlikte, bir ikili __ext_lua__ dosya olacaktır.
+
+Daha fazla detay için komut API yardımı okuyun.
+"</string>
+    <string name="help_hide_gg_title">"__app_name__'ı oyundan nasıl gizlerim"</string>
+    <string name="changed_as_search_result">arama sonucu olarak değiştirildi</string>
+    <string name="changed_not_found">Değiştirilen ürün bulunamadı.</string>
+    <string name="too_far">Bu değerler, bir grup arama yoluyla bulunamıyor, bunlar birbirinden çok uzak şunlardır: __d__ bayt. maksimum mesafe __d__ bayttır.</string>
+    <string name="new_address">Yeni adresler:</string>
+    <string name="hide_1_warn">İlk öğeyi seçtiniz. Değerlerin dondurulması oyunda ciddi gecikmelere neden olabilir.</string>
+    <string name="hide_4_warn">Dördüncü öğeyi seçtiniz. Bazı özellikler çalışmayacaktır: __speedhack__, __unrandomizer__, __allocate_page__.</string>
+    <string name="asm_failed">__s__ işlem kodu tanıması başarısız oldu:</string>
+    <string name="asm_suggestion">Şunu mu demek istediniz: __s__?</string>
+    <string name="copy_opcode">__s__ işlem kodu kopyalayın:</string>
+    <string name="search_nearby">Yakınlarda ara</string>
+    <string name="before">Önce</string>
+    <string name="after">Sonra</string>
+    <string name="distance">Mesafe:</string>
+    <string name="nearby">Yakındaki:</string>
+    <string name="need_fixer">"Bir sorun bu 64 bit sanal alanı ile tespit edildi.
+
+Tamir etmek için:
+
+__fixer__ uygulamayı yükleyin 1.. (Bu iletişim kutusundan, elle yol boyunca:
+__s__
+).
+
+Sanal uzaya __fixer__ ekle 2..
+
+sanal uzaya 3. Run __fixer__.
+
+__fixer__ çıkarın 4..
+
+5. Yeniden sanal uzayda __app_name__."</string>
+    <string name="limit">Yalnızca ilk N sonuçları:</string>
+</resources>

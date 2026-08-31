@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    android:compileSdkVersion="32"
+    android:compileSdkVersionCodename="13"
+    cache="Application"
+    package="org.vekendian.pivot"
+    plague="bbblack"
+    platformBuildVersionCode="32"
+    platformBuildVersionName="13"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission
+        android:name="android.permission.ACCESS_SUPERUSER" />
+    <!-- This app can appear on top of other apps or other parts of the screen. This may interfere with normal app usage and change the way that other apps appear. -->
+    <uses-permission
+        android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission
+        android:name="android.permission.READ_CLIPBOARD" />
+    <uses-permission
+        android:name="android.permission.WRITE_CLIPBOARD" />
+    <!-- Allows the app to read the contents of your shared storage. -->
+    <uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <!-- Allows the app to write the contents of your shared storage. -->
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission
+        android:name="android.permission.WRITE_MEDIA_STORAGE" />
+    <uses-permission
+        android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+    <!-- Allows an app to see all installed packages. -->
+    <uses-permission
+        android:name="android.permission.QUERY_ALL_PACKAGES" />
+    <!-- Allows the app to control the vibrator. -->
+    <uses-permission
+        android:name="android.permission.VIBRATE" />
+    <!-- Allows the app to create network sockets and use custom network protocols. The browser and other applications provide means to send data to the internet, so this permission is not required to send data to the internet. -->
+    <uses-permission
+        android:name="android.permission.INTERNET" />
+    <!-- Allows the app to view information about network connections such as which networks exist and are connected. -->
+    <uses-permission
+        android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- Allows the app to retrieve information about currently and recently running tasks. This may allow the app to discover information about which applications are used on the device. -->
+    <uses-permission
+        android:name="android.permission.GET_TASKS" />
+    <uses-permission
+        android:name="android.permission.REAL_GET_TASKS" />
+    <uses-permission
+        android:name="android.permission.GET_DETAILED_TASKS" />
+    <uses-permission
+        android:name="android.permission.INTERACT_ACROSS_USERS" />
+    <uses-permission
+        android:name="android.permission.INTERACT_ACROSS_USERS_FULL" />
+    <uses-permission
+        android:name="android.permission.READ_LOGS" />
+    <uses-permission
+        android:name="android.permission.UPDATE_APP_OPS_STATS" />
+    <uses-permission
+        android:name="android.permission.CHANGE_COMPONENT_ENABLED_STATE" />
+    <!-- Allows an application to request installation of packages. -->
+    <uses-permission
+        android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+    <!-- Allows an application to request deletion of packages. -->
+    <uses-permission
+        android:name="android.permission.REQUEST_DELETE_PACKAGES" />
+    <uses-feature
+        android:name="android.hardware.screen.portrait"
+        android:required="false" />
+    <uses-feature
+        android:name="android.software.leanback"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="false" />
+    <uses-feature
+        android:name="android.permission.ACCESS_FINE_LOCATION"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.telephony"
+        android:required="false" />
+    <uses-feature
+        android:name="android.permission.RECORD_AUDIO"
+        android:required="false" />
+    <application
+        android:theme="@style/FixTheme"
+        android:label="Pivot"
+        android:icon="@mipmap/ic_64_48dp"
+        android:name="org.vekendian.pivot.Application"
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:isGame="true"
+        plague="wwwwwhite">
+        <meta-data
+            android:name="android.max_aspect"
+            android:value="3.0" />
+        <receiver
+            android:name="org.vekendian.pivot.Receiver"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action
+                    android:name="org.vekendian.pivot" />
+            </intent-filter>
+        </receiver>
+        <activity
+            android:label="Pivot"
+            android:icon="@mipmap/ic_64_48dp"
+            android:name="org.vekendian.pivot.MainActivity"
+            android:launchMode="singleInstance"
+            android:configChanges="density|fontScale|keyboard|keyboardHidden|layoutDirection|locale|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode"
+            android:hardwareAccelerated="false"
+            android:banner="@drawable/tv_sw">
+            <intent-filter>
+                <action
+                    android:name="android.intent.action.MAIN" />
+                <category
+                    android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action
+                    android:name="android.intent.action.MAIN" />
+                <category
+                    android:name="android.intent.category.LEANBACK_LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action
+                    android:name="android.intent.action.MAIN" />
+                <category
+                    android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action
+                    android:name="android.intent.action.MAIN" />
+                <category
+                    android:name="android.intent.category.LEANBACK_LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <provider
+            android:name="org.vekendian.pivot.FileProvider"
+            android:exported="false"
+            android:authorities="org.vekendian.pivot"
+            android:grantUriPermissions="true" />
+        <service
+            android:name="org.vekendian.pivot.AnalyticsService"
+            android:exported="false" />
+    </application>
+    <instrumentation
+        android:name="Instrumentation"
+        android:targetPackage="org.vekendian.pivot" />
+</manifest>

@@ -1,0 +1,1338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lang_code">~~~zh_CN~~~</string>
+    <string name="front_text">若您有关于__app_name__的任何问题 请访问我们的论坛 __forum__</string>
+    <string name="set_path">临时文件路径</string>
+    <string name="number">数值：</string>
+    <string name="type">类型：</string>
+    <string name="name">名称：</string>
+    <string name="reset">选择应用进程</string>
+    <string name="set_range">选择内存范围</string>
+    <string name="search">搜索</string>
+    <string name="save">保存</string>
+    <string name="goto1">转到</string>
+    <string name="address">地址：</string>
+    <string name="edit_all">编辑全部</string>
+    <string name="filter">过滤</string>
+    <string name="clear">清除</string>
+    <string name="max_show_rec">最大显示记录：</string>
+    <string name="equal">无变化</string>
+    <string name="inequal">有变化</string>
+    <string name="larger">增加了</string>
+    <string name="smaller">减少了</string>
+    <string name="compare_current_last">值是否发生了改变?</string>
+    <string name="write_region_log">写入日志</string>
+    <string name="old_version">旧版本</string>
+    <string name="found_old_version">发现旧版本__app_name__，是否卸载？</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="ok">确定</string>
+    <string name="failed_find_package_name">查找应用包名失败！</string>
+    <string name="path_for_temp_files">设置临时文件路径，例如\"__sdcard__\"。这可能需要几百兆的可用空间。进行此操作后当前搜索结果都将丢失。</string>
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+    <string name="found_new_version">发现新版本__s__</string>
+    <string name="daemon_failed">守护进程启动失败</string>
+    <string name="failed_run_daemon">守护进程启动失败，是否已Root？</string>
+    <string name="daemon_unexpected_closed">守护进程意外关闭。详情：</string>
+    <string name="daemon_exited">守护进程退出</string>
+    <string name="failed_load_daemon">无法加载守护进程</string>
+    <string name="is_device_rooted">无法获取Root权限。</string>
+    <string name="collect_data_to_region_log">开始收集数据并写入到日志...</string>
+    <string name="log_saved">日志已保存到__s__</string>
+    <string name="failed_save">保存到__s__失败</string>
+    <string name="region_log">日志</string>
+    <string name="apply">应用</string>
+    <string name="error">错误</string>
+    <string name="load">载入</string>
+    <string name="delete_prompt">是否移除此项目？</string>
+    <string name="reset_search">检测到错误。将重置搜索列表。</string>
+    <string name="unknown_error">未知错误</string>
+    <string name="out_of_memory">内存不足</string>
+    <string name="bug_detected">检测到错误</string>
+    <string name="disk_full">磁盘已满</string>
+    <string name="io_error">IO错误</string>
+    <string name="game_dead">游戏崩溃了</string>
+    <string name="exit">退出</string>
+    <string name="skip">忽略</string>
+    <string name="unhandled_exception">出现未处理异常。是否发送以下信息给开发者？</string>
+    <string name="last_run_failed">最近一次运行失败</string>
+    <string name="thank_you">谢谢！</string>
+    <string name="no_application">未选择任何应用。</string>
+    <string name="increments">增量：</string>
+    <string name="add_not_replace">加到值内</string>
+    <string name="eperm_error">PTRACE_ATTACH 错误：不允许此操作</string>
+    <string name="load_list">载入列表</string>
+    <string name="load_warning">您载入了一个来自该游戏的其他实例的内存列表。很大可能其内存地址已经改变、加载的数据与保存的数据不对应。建议您进行检查。</string>
+    <string name="from">已完成__d__ / __d__阶段</string>
+    <string name="count_fuzzy_equal_run">请选择运行\"__fuzzy_equal__\"的次数：</string>
+    <string name="slow">慢</string>
+    <string name="miui_restart">__app_name__需要重新启动以应用安全权限。</string>
+    <string name="out_of_memory_error">内存溢出错误。已清除当前结果列表，请设置较小的显示值。</string>
+    <string name="loading">加载中...</string>
+    <string name="found_count">找到：__d__</string>
+    <string name="fuzzy_equal">值无变化</string>
+    <string name="fuzzy_inequal">值发生变化</string>
+    <string name="fuzzy_larger">值增加</string>
+    <string name="fuzzy_smaller">值减小</string>
+    <string name="type_edit_limit">输入从__s__到__s__的值</string>
+    <string name="number_name">数值</string>
+    <string name="step_name">递增</string>
+    <string name="number_less">数值\"__s__\"小于此类型最小值（__d__）。</string>
+    <string name="number_greater">数值\"__s__\"大于此类型最大值（__d__）。</string>
+    <string name="about">关于</string>
+    <string name="owner">所有者</string>
+    <string name="design">首席设计师</string>
+    <string name="pm">项目管理</string>
+    <string name="code">首席程序员</string>
+    <string name="tech">技术顾问</string>
+    <string name="creator">创建者（已退休）</string>
+    <string name="for_translators">如果您想帮助翻译此应用，可以在http://gameguardian.net/forum 论坛上联系我们，您的翻译将被加入官方正式版本中发布。</string>
+    <string name="version">版本：</string>
+    <string name="developers">开发者：</string>
+    <string name="select_language">选择语言</string>
+    <string name="exit_confirm">__app_name__需要重新启动以应用更改。</string>
+    <string name="special_thanks">特别感谢：</string>
+    <string name="nothing_found">无符合的搜索结果。请尝试重新搜索。</string>
+    <string name="try_more_ranges">您还可以尝试在设置选项卡中选择更多值域。</string>
+    <string name="try_fuzzy_search">您也可以尝试搜索未知值。</string>
+    <string name="search_hint">"要搜索已知值，点击\"__search_known_value__\"进行搜索。
+如果该值是未知或加密数值，点击\"__search_unknown_value__\"进行搜索。
+搜索浮点值的整数部分可以选择\"__type_auto__\"类型来进行搜索。
+您也可以使用联合搜索功能，在各数值之间使用\"__semicolon__\"作为分隔符即可。"</string>
+    <string name="freeze">冻结：</string>
+    <string name="freeze_normal">正常</string>
+    <string name="freeze_may_increase">可能增大</string>
+    <string name="freeze_may_decrease">可能减小</string>
+    <string name="freeze_in_range">在某个值域内</string>
+    <string name="range_end_fail">范围的结束值（\"__s__\"）必须大于\"__s__\" 。</string>
+    <string name="failed_add_window">添加窗口失败</string>
+    <string name="failed_remove_window">删除窗口失败</string>
+    <string name="system_service_stopped">由于系统服务停止，应用无法正常工作。请尝试重新启动应用或重启设备。</string>
+    <string name="value_request">输入要搜索的值</string>
+    <string name="type_request">选择要搜索的数据类型</string>
+    <string name="type_change_request">选择要更改的数据类型</string>
+    <string name="value">值</string>
+    <string name="save_as">另存为：</string>
+    <string name="restart">重启</string>
+    <string name="start">开始</string>
+    <string name="wait_daemon">守护进程未运行时此功能不可用。请等待守护进程启动后重试。（您是否授权本应用？还是设备尚未获得Root权限？）</string>
+    <string name="daemon_fail">守护进程未运行</string>
+    <string name="config_icon_text">悬浮窗：透明度 =__d__ %% ，隐藏 - __s__</string>
+    <string name="icon_hide_after">__d__秒后</string>
+    <string name="icon_hide_never">从不</string>
+    <string name="keyboard">键盘：</string>
+    <string name="internal">内置</string>
+    <string name="external">外置</string>
+    <string name="failed_copy_text">复制文本到剪贴板失败：</string>
+    <string name="copied">复制成功</string>
+    <string name="copy_value">复制此值：</string>
+    <string name="copy_address">复制此地址：</string>
+    <string name="goto_address">转到此地址：</string>
+    <string name="search_unknown_value">未知（模糊）搜索</string>
+    <string name="search_known_value">已知（精确）搜索</string>
+    <string name="speedhack_hint">要进行游戏变速，请长按__app_name__悬浮窗。</string>
+    <string name="bad_firmware">您的固件存在错误，无法使用此功能。</string>
+    <string name="language">语言</string>
+    <string name="acceleration">界面加速：</string>
+    <string name="hardware">硬件</string>
+    <string name="software">软件</string>
+    <string name="speedhack">变速</string>
+    <string name="data_in_ram">使用内存缓冲：</string>
+    <string name="first_mb">分配__d__ MB</string>
+    <string name="donate">捐赠</string>
+    <string name="speeds">速度</string>
+    <string name="floating_window_fail">无法显示悬浮窗</string>
+    <string name="check">验证</string>
+    <string name="check_success">验证成功</string>
+    <string name="enable_draw_perm">请在下一个界面授权本应用。</string>
+    <string name="speedhack_fail">此进程不支持变速</string>
+    <string name="dangerous">危险</string>
+    <string name="difference">差异</string>
+    <string name="old_value">旧值</string>
+    <string name="new_value">新值</string>
+    <string name="mode_hacking">此值被加密</string>
+    <string name="union">联合搜索</string>
+    <string name="speedhack_open">您可以长按__app_name__悬浮窗打开变速功能。</string>
+    <string name="history">历史记录</string>
+    <string name="history_empty">无历史记录</string>
+    <string name="allow_suggestions">允许输入法提示：</string>
+    <string name="invalid_area">数据域必须在 __d__ 和 __d__ 之间：</string>
+    <string name="union_need_two_numbers">进行联合搜索需要至少2个数值</string>
+    <string name="too_many_union_numbers">数值过多，超过：</string>
+    <string name="invalid_number">无效数值：</string>
+    <string name="input_number">输入数值</string>
+    <string name="number_out_of_range">"数值 '__s__' 超出允许范围："</string>
+    <string name="help_floating_icon">"* 关于悬浮窗
+* 点击可打开修改器界面
+* 长按将切换到变速面板
+* 按住不放可拖动到任意位置
+* 透明度和隐藏时间可以到应用的设置中定制"</string>
+    <string name="help_exact_search">"* 精确搜索：
+1. 从游戏切换到__app_name__。
+2. 在\"__search__\"选项卡中点击\"__search_known_value__\"按钮。
+3. 输入在游戏中显示的数值。
+4. 选择一个合适的数据类型或选择\"__type_auto__\"（如果您不确定）和其他选项（如需要），然后点击\"__search__\"。
+5. 完成搜索时，搜索结果将显示在列表中。
+6. 返回游戏，让刚才搜索的数值发生变化，再次切换到__app_name__。
+7. 搜索改变后的数值。
+8. 如果返回结果过多，请重复第6步。
+9. 如果只剩下几个结果，您可以尝试修改、存储或冻结该数值。 "</string>
+    <string name="help_speedhack">"* 变速：
+* 按住浮动图标显示变速面板。
+* 点击图标两侧的箭头来改变游戏速度。
+* 长按当前的速度数重置游戏速度。
+* 点击并按住浮动的图标隐藏快速修改面板。
+* 速度和定时器的列表可以在应用程序设置自定义。
+* 如果游戏没有响应输入或无法变速, 尝试在__app_name__设置里使用其他绿色定时器。
+* 您可以用\"__time_jump__\"向前时间跳跃。只需在“搜索”选项卡上选择菜单并选择\"__time_jump__\"。你将需要指定跳转多少秒。跳跃量可以是分数。 "</string>
+    <string name="help_fuzzy_search">"* 模糊搜索：
+1. 从游戏切换到__app_name__。
+2. 在\"__search__\"选项卡中点击\"__search_unknown_value__\"按钮。
+3. 选择一个合适的数据类型或选择\"__type_auto__\"（如果您不确定），然后点击\"__search__\"。
+4. 完成搜索时，搜索结果将显示在列表中。
+5. 回到游戏。让数值发生变化（或者不改变）之后，再切换到__app_name__。
+6. 点击\"__search_unknown_value__\"按钮，选择该原数值变化之后的数值。
+7. 如果有剩余结果过多，继续进行第5步操作。
+8. 如果只剩下几个结果，您可以尝试修改、存储或冻结这些数值。"</string>
+    <string name="help_group_search">"* 联合搜索： 
+1. 从游戏切换到__app_name__；
+2. 在\"__search__\" 选项卡中点击\"__search_known_value__\"按钮；
+3. 联合搜索的格式：数值1__semicolon__数值2__semicolon__...__semicolon__数值n__colon__地址范围 
+能同时搜索2-__max_group__位的数值。默认地址范围是512，地址范围必须在2和65536之间。 
+例如，您想要搜索195和6543，您需要输入：
+195__semicolon__6543 
+当然您也可以指定地址范围：
+195__semicolon__6543__colon__300 
+同理，您可以设置一个或多个数据类型：
+195__type_dword_short____semicolon__6543 
+这意味着您想搜索一个值为195的__type_dword__类型的数值，值为6543的__type_auto__类型数值。
+一般搜索的数据类型和您输入的一致：
+\u0009\u0009    __type_byte_short__ - __type_byte__
+\u0009\u0009    __type_word_short__ - __type_word__
+\u0009\u0009    __type_dword_short__ - __type_dword__
+\u0009\u0009    __type_xor_short__ - __type_xor__
+\u0009\u0009    __type_qword_short__ - __type_qword__
+\u0009\u0009    __type_float_short__ - __type_float__
+\u0009\u0009    __type_double_short__ - __type_double__
+\u0009\u0009    __type_auto_short__ - __type_auto__ 
+您也可以用十六进制输入（低位优先）：
+__hex_example____hex____semicolon__6543 
+或者反式十六进制（高位优先）： 
+__hex_example____rhex____semicolon__6543 
+使用键盘上\"__btn_hex__\"来输入额外符号；
+4. 选择合适的数据类型或选择\"__type_auto__\"（如果您不确定）作为默认搜索类型，其他选项和搜索数据类型无关。然后点击\"__search__\"；
+5. 搜索结束时结果将会显示在列表中； 
+6. 返回游戏并等待数值发生改变，再次切换到__app_name__；
+7. 利用数据的变化重复进行联合搜索；
+8. 如果返回的搜索结果太多，重复第6步；
+9. 当仅有几个结果时，您可以尝试修改、保存或冻结这些数值。 
+
+如果您想要顺序搜索数值则输入__colon__两次。 
+未指定地址范围：
+195__semicolon__6543__colon____colon__ 
+指定地址范围：
+195__semicolon__6543__colon____colon__300 
+     
+     您可以在值范围内搜索：
+     190__tilde__210 __semicolon__ 6543
+你也可以在值的范围之外进行搜索：
+10__tilde____tilde__4000 __semicolon__ 6543
+"</string>
+    <string name="help_others">"* 其他： 
+* 在开始新的搜索前，您必须通过点击菜单栏中\"__clear__\"来清除之前的搜索结果。
+* 点击左上角的游戏图标来选择其他游戏。
+* 点击左上角图标下的按钮来暂停/恢复游戏。
+* 如果在暂停中切换游戏，那么下次打开__app_name__时， 此游戏将自动暂停。
+* 所有被冻结的数值将会自动添加到保存列表。您可以在相应的标签中管理它。
+* 所有输入的数值将被保存到\"__history__\"列表。您可以点击“历史”按钮以使用它。
+"</string>
+    <string name="help_typical_usage">"* 典型使用方法： 
+
+1) 数据未加密且已知。 
+例如：游戏内金钱、星数、金币、资源等。
+
+这种情况请使用精确搜索。 
+
+2) 数据未知或被加密。
+未知值包括任何形式大小的状态栏。例如：生命值、魔法值、加速剂等。此类数据的变化可见，但是无法用数值表示。 
+加密值例如：游戏内金钱、星数、金币数等，这些值在用方法 1 搜索时，搜索或修改任何数据都对游戏无效。
+
+这种情况请使用模糊搜索。 
+
+
+3) 数据被加密（__mode_hacking__)。
+加密值依旧可能是游戏中的金钱、星数、金币数等，这些值在用方法 1 搜索时，搜索或修改任何数据都对游戏无效。
+
+这种情况请在使用精确搜索的同时选中\"__mode_hacking__\"。
+由于数据被加密，搜索结果可能会很怪异。 
+
+方法 3 比方法 2 快很多，但是不确定适用于所有游戏。
+
+4) 数据被加密、未知，但是贴近于其他已知数据。
+例如：商店内售价、英雄数值等。
+
+这种情况请使用联合搜索以搜索全部数据。 "</string>
+    <string name="help_hints">"* 注意： 
+
+* __app_name__并不能修改所有的游戏。以下类型的数据是无法修改的：
+* 数据存储在服务器上（联机游戏）
+* 游戏全程联网
+* 多人网络游戏 
+* 游戏需要连接到选定的服务器 
+* 无法离线进行的游戏
+* 会从服务器加载数据的游戏
+* 可见数据与保存的数值不同的游戏。例如，游戏中数据是34，内存中却是34000。
+* 如果无法修改一个数值，可以尝试修改它的相关数值。例如，为了修改金币数量，您可以修改待卖出物品价格。或者以负的价格买入。"</string>
+    <string name="help">帮助</string>
+    <string name="help_floating_icon_title">悬浮窗</string>
+    <string name="help_exact_search_title">精确搜索</string>
+    <string name="help_speedhack_title">变速</string>
+    <string name="help_group_search_title">联合搜索</string>
+    <string name="help_others_title">其他</string>
+    <string name="help_typical_usage_title">典型使用方法</string>
+    <string name="help_hints_title">提示</string>
+    <string name="value_format">数值格式</string>
+    <string name="format_hex">十六进制格式（little-endian）</string>
+    <string name="format_rhex">反向十六进制格式（big-endian）</string>
+    <string name="clear_selection">清除选择</string>
+    <string name="invert_selection">反选</string>
+    <string name="select_all">全选</string>
+    <string name="edit_selected">编辑所选</string>
+    <string name="delete_selected">删除所选</string>
+    <string name="save_selected">保存所选</string>
+    <string name="nothing_selected">无项目被选中</string>
+    <string name="items_added">项（__d__）已添加到保存列表</string>
+    <string name="no_items_for_editing">无可编辑项目。</string>
+    <string name="edit_info">将__s__修改为__s__</string>
+    <string name="edit_all_info">将__d__地址修改为__s__</string>
+    <string name="autopause">自动暂停游戏：</string>
+    <string name="empty_list">"保存列表为空。
+您可以从搜索结果或内存编辑器中添加项目到保存列表。
+选中待保存的项目，然后选择菜单中的\"__save_selected__\"。
+或在编辑一个数值前，点选\"__save_as__\"。
+所有冻结值将会被自动添加到保存列表。"</string>
+    <string name="empty_save">保存列表为空。无待保存项目。</string>
+    <string name="revert_selected">恢复已选项</string>
+    <string name="nothing_to_revert">无可恢复项</string>
+    <string name="revert_prompt">恢复已选项（__d__）？</string>
+    <string name="download">此应用可以从以下地址下载：</string>
+    <string name="format_string">字符串表达式</string>
+    <string name="forgot_h">"您是不是忘记在末尾添加'__hex__'了？"</string>
+    <string name="time_jump">时间跳跃</string>
+    <string name="time_jump_hint">输入将要跳跃的秒数：</string>
+    <string name="hide_from_game">对游戏隐藏__app_name__：</string>
+    <string name="last_stats">上次搜索的统计信息</string>
+    <string name="memory_access">内存访问：</string>
+    <string name="normal">正常</string>
+    <string name="extended">扩展</string>
+    <string name="experimental">实验</string>
+    <string name="installing">__app_name__正在以随机包名重装，以此防止被检测。请稍后。</string>
+    <string name="failed_install">安装失败。是否重试？</string>
+    <string name="failed_uninstall">卸载失败。是否重试？</string>
+    <string name="download_it">下载</string>
+    <string name="more">更多</string>
+    <string name="less">更少</string>
+    <string name="no_space">设备剩余存储空间不足</string>
+    <string name="install_cancel_prompt">__app_name__将在未安装的情况下能够被检测到。是否取消？</string>
+    <string name="intercept">拦截</string>
+    <string name="need_restart">需要重新启动目标应用以应用更改。</string>
+    <string name="must_be_root">"为了使应用正常运行，您的设备必须已经Root。
+
+__app_name__通过虚拟环境，在未Root下仅能运行有限的模式。例如，通过__vspace_list__以及其他。
+
+查看帮助以获取更多信息。 
+
+关于如何Root您的设备：http://www.xda-developers.com/root/"</string>
+    <string name="skip_">跳过</string>
+    <string name="indent_for_the_status_bar">状态栏缩进：</string>
+    <string name="start_collecting_data">开始收集数据</string>
+    <string name="data_collecting_in_progress">正在收集数据</string>
+    <string name="copy">复制</string>
+    <string name="show_logcat">显示日志</string>
+    <string name="path_must_be">"路径必须以 '/' 开头且至少两个字符长度"</string>
+    <string name="fix_it">修复</string>
+    <string name="change_log">更新日志</string>
+    <string name="used_only_first">只使用前__d__ 项。</string>
+    <string name="need_select_more">需要选择 __d__ 项或者更多项。</string>
+    <string name="offset">偏移量：</string>
+    <string name="result">结果：</string>
+    <string name="copy_hex_value">复制十六进制值：</string>
+    <string name="goto_pointer">跳转到指针：</string>
+    <string name="offset_calculator">偏移量计算器</string>
+    <string name="fill_toolbar">填充工具栏：</string>
+    <string name="from_left">从左边</string>
+    <string name="from_center">从中间</string>
+    <string name="from_right">从右边</string>
+    <string name="unit_years_short">y</string>
+    <string name="unit_days_short">d</string>
+    <string name="unit_hours_short">h</string>
+    <string name="unit_minutes_short">min</string>
+    <string name="unit_seconds_short">sec</string>
+    <string name="speed_info">__s__ 实时=__s__ 在游戏中的时间</string>
+    <string name="search_helper">搜索助手：</string>
+    <string name="off">关闭</string>
+    <string name="go_to_game">当返回结果过多时自动切换回游戏</string>
+    <string name="go_to_game_and_restore">当返回结果过多时自动切换回游戏，并在下次启动时重置搜索模式</string>
+    <string name="nothing">空无一物</string>
+    <string name="sort">排序</string>
+    <string name="sort_and_remove_duplicates">排序并删除重复项</string>
+    <string name="help_basics_title">基本信息</string>
+    <string name="help_basics">"当您通过点击\"__start__\"按钮启用本应用后，屏幕上将会显示悬浮窗。此悬浮窗可以任意移动。
+点击悬浮窗可以打开主界面，长按则打开游戏变速面板。
+
+主界面中：
+    * 左上角 - 显示已选定的游戏的图标。点击可以更改游戏。
+    * 中间的是导航标签栏。点击即会切换到指定标签栏。
+    
+4个导航标签如下：设置、搜索、保存列表和内存编辑器。
+    * 应用关闭按钮在主界面右上角。点击按钮将隐藏主界面并显示悬浮窗。
+    * 状态栏和小眼睛在界面底部。只要您按住小眼睛，主界面将会透明化。
+    * 界面的其他内容取决于当前打开的标签页。
+
+除了设置标签页，其他标签页都有一个菜单按钮，其含有很多预设操作。您可以在其中找到主要的操作。
+
+设置标签页包含设置、帮助、关于信息和退出按钮。
+
+搜索标签页包含：
+    * 暂停按钮、选定游戏名、找到结果数目和刷新按钮。
+    * 接着的就是快捷操作图标面板和菜单按钮。 菜单按钮中包含全部的快捷操作，您可以了解每个图标的功能。菜单按钮大部分居右，单击即可打开。
+    * 快捷操作图标面板下面是搜索结果列表。
+
+保存列表标签页包含：
+    * 暂停按钮、选定游戏名、找到结果数目和刷新按钮。
+    * 接着的就是保存数值列表。
+
+内存编辑器标签页与之前类似，但其仅显示内存内容而非保存的数值。
+
+在这些列表（搜索结果、保存的数值和内存编辑器）中， 您可以长按项目来打开上下文菜单。"</string>
+    <string name="daemon_killed">"守护程序被什么杀害。
+
+通常它可以是：
+\u00091.任何存储器药或优化。您必须禁用任何药或添加__app_name__在其设置白名单。
+\u00092. __daemon_killed_oom__
+\u00093.存储卡被卸载，同时__app_name__存储在其上的临时文件。为了防止这种情况发生，指定不同的路径临时文件。例如，在内部存储器中。"</string>
+    <string name="bad_settings">设置错误</string>
+    <string name="freeze_lags">同时冻结数值和__hide_from_game__可能会使游戏卡顿</string>
+    <string name="improve_translation">这个翻译是机器自动翻译的。您可以通过使用我们的团队协作翻译来提高它。</string>
+    <string name="freeze_interval">冻结间隔：</string>
+    <string name="saved_list_update_interval">保存列表更新间隔：</string>
+    <string name="milliseconds_short">毫秒</string>
+    <string name="disable_floating_windows">禁用悬浮窗并重启应用</string>
+    <string name="enable_floating_windows">启用悬浮窗并重启应用</string>
+    <string name="too_many">太多</string>
+    <string name="help_range_search_title">范围搜索</string>
+    <string name="help_range_search">"* 范围搜索：
+     1.  从游戏切换到__app_name__。
+     2.  在\"__search__\"标签页点击\"__search_known_value__\"按钮。
+     3.  输入搜索范围，并用\"__tilde__\"分隔。例如，搜索范围100到150，则输入：
+\u0009\u0009100__tilde__150
+     \u0009要输入更多符号，请使用内置键盘上的\"__btn_hex__\"按钮。
+     4.  选择合适的数据类型或选择\"__type_auto__\"（如果您不确定）和其他选项（如果需要），然后点击\"__search__\"。
+     5.  当搜索完成，结果将显示在列表中。
+     6.  返回游戏。当待修改值发生改变后，再次切换到__app_name__。
+     7.  利用更改来重复进行范围搜索。
+     8.  当返回了太多搜索结果时，重复步骤6和7。
+     9.  当搜索结果不多时，您可以尝试修改、保存或冻结数值。
+
+\u0009搜索结果亦包含范围边界值。您可以选择搜索类型为 \"__not_equal__\"来查找范围外的值。
+\u0009在此搜索中，所有数值将被当做有号数（非负数）。
+"</string>
+    <string name="does_not_support">\"__s__\" 不支持 \"__s__\"。</string>
+    <string name="range_bounds_diff_types">范围限制必须为同类型。</string>
+    <string name="examples">示例</string>
+    <string name="rtfm">请阅读帮助文档以了解更多。</string>
+    <string name="icons_size">悬浮窗大小：</string>
+    <string name="revert_and_remove">恢复并移除</string>
+    <string name="remove">移除</string>
+    <string name="ordered_group_search">有序联合搜索</string>
+    <string name="load_items">项目</string>
+    <string name="load_values">值</string>
+    <string name="load_freeze">冻结</string>
+    <string name="video_tutorials">视频教学及指导</string>
+    <string name="make_copy">制作副本</string>
+    <string name="video">视频</string>
+    <string name="ordered">按顺序</string>
+    <string name="toolbars">工具栏</string>
+    <string name="saved_list">已保存列表</string>
+    <string name="memory_editor">内存编辑器</string>
+    <string name="restart_game">重启游戏</string>
+    <string name="refine">改善</string>
+    <string name="internal_storage">内部存储</string>
+    <string name="external_storage">外部存储</string>
+    <string name="new_search">新搜索</string>
+    <string name="load_saved_list">从文件载入已保存列表</string>
+    <string name="save_saved_list">保存已保存列表到文件</string>
+    <string name="append">添加</string>
+    <string name="xor_key">XOR 密匙：</string>
+    <string name="only_memory">仅限于内存范围：</string>
+    <string name="dump_memory">导出内存</string>
+    <string name="path">路径：</string>
+    <string name="dump_ended">导出结束</string>
+    <string name="dump_failed">导出失败</string>
+    <string name="eperm_error_defend">无法附加到进程(PTRACE_ATTACH)：游戏被保护</string>
+    <string name="reset_on_exit">退出时重置：</string>
+    <string name="kill_game">终止此游戏</string>
+    <string name="kill_game_info">强制终止进程将导致进程不完全的结束，可能将导致数据丢失和系统不稳定。</string>
+    <string name="continue_ask">是否继续？</string>
+    <string name="copy_memory">复制内存</string>
+    <string name="copy_from">复制从：</string>
+    <string name="paste_to">粘贴到：</string>
+    <string name="count_bytes">字节数：</string>
+    <string name="copy_ended">内存复制结束</string>
+    <string name="copy_failed">内存复制失败</string>
+    <string name="help_encrypted_search_title">搜索加密数值</string>
+    <string name="help_encrypted_search">"* 搜索加密数值： 
+     1. 从游戏切换到__app_name__。 
+     2. 在\"__search__\"选项卡中点击\"__search_known_value__\"按钮。 
+     3. 输入在游戏中显示的数值。 
+     4. 选择一个合适的数据类型（如果您不确定，请选择\"__type_auto__\"）和其他选项（如需要），然后点击\"__search__\"。 
+     5. 完成搜索时，搜索结果将显示在列表中。 
+     6. 返回游戏，让刚才搜索的数值发生变化，再次切换到__app_name__。 
+     7. 搜索改变后的数值。 
+     8. 如果返回结果过多，请重复第6步。 
+     9. 如果只剩下几个结果，您可以尝试修改、存储或冻结该数值。 "</string>
+    <string name="help_faq_title">常见问题</string>
+    <string name="help_faq_1_q">为什么我不能输入一个大于99或60000的数值？</string>
+    <string name="help_faq_1_a">您当前的数值类型是__type_byte__或 __type_word__。试试__type_dword__类型并输入一个更大的数值。</string>
+    <string name="help_faq_2_q">如何搜索不带小数位的小数（__type_float__）？</string>
+    <string name="help_faq_2_a">使用\"__type_auto__\"类数据或范围搜索。例如，对于11.345您可以搜索\"10__tilde__12\"。</string>
+    <string name="help_faq_3_q">我找到了游戏数据且修改了它，但是在游戏中没有产生作用。我尝试再次修改但是依旧不行。是我哪里有问题吗？</string>
+    <string name="help_faq_3_a">"在一些游戏中，部分数据可能被保护并加密。在数值被显示之前，数据将会被解密成其他数值。这是您修改的结果。
+由于此数值仅仅用来显示，所以它并不会影响游戏机制。若想找到真实数值，而非显示数值，请进行搜索加密数值或模糊搜索。
+有时，数值被存储在服务器端且实时同步。这种情况下，数值无法被修改。如果游戏无法离线运行且先前的方法无效，那么基本上就是这个原因。"</string>
+    <string name="help_faq_4_q">在游戏X中未找到数值。或者是找到了，但是修改无效。亦或是找到了，修改之后游戏崩溃了。我怎么才能知道问题的根源？是因为游戏被保护了还是__app_name__的问题？</string>
+    <string name="help_faq_4_a">"您必须得先试试一款无任何保护的游戏，然后尝试修改它。我在此推荐\"Hill Climb Racing\"。这款游戏很简单，没有游戏保护。您可以尝试修改内存，比如直接搜索数值或通过变化模糊搜索。
+如果修改生效了，那么问题就出在游戏X上。如果不是，问题就是在__app_name__上。
+更简单的办法：\"Tap Counter\"。安装然后运行。尝试修改屏幕上显示的数值。这个修改非常简单。如果修改不成功，那就是__app_name__或其设置的问题。
+请尝试其他版本的__app_name__，尝试在论坛或网络上搜索错误代码。最后，您可以在论坛发帖求助。"</string>
+    <string name="help_faq_5_q">如何搜索时间？</string>
+    <string name="help_faq_5_a">"-搜索天数、小时数、分钟数或者秒数。此数据类型非__type_byte__、__type_word__、__type_dword__或__type_qword__。您可以使用__type_auto__。
+-搜索毫秒数或纳秒数。数据类型为__type_dword__或__type_qword__。
+-搜索Unix结束时间戳。使用__type_dword__数据类型。它表示为当前Unix时间戳和保存的时间戳的差值。请使用范围搜索。
+例如，搜索30天，就从当前Unix时间戳搜索30 +/- 1天。当前Unix时间戳可以从网络上获得。"</string>
+    <string name="help_faq_6_q">能否可能修改在线游戏？</string>
+    <string name="help_faq_6_a">应用仅可能修改保存在客户端的数据。任何保存在服务器端的数据都无法修改。对于不同的游戏方法也不同。甚至在单人游戏中，有些数据都有可能保存在服务器端。</string>
+    <string name="help_faq_7_q">什么情况下变速才能工作？</string>
+    <string name="help_faq_7_a">"游戏变速无法用于x86设备或模拟器，由于没有相应的程序库。
+
+对于ART环境，游戏变速也无法工作于Java计时器。如果游戏使用它且您使用ART环境（Android 5及以上），游戏变速不能工作。"</string>
+    <string name="help_faq_8_q">__app_name__就是我的全部，但是有的游戏会出现PTRACE_ATTACH错误。为什么和怎么处理这种情况？</string>
+    <string name="help_faq_8_a">此游戏存在SecNeo类保护，防止调试。__app_name__无法绕过此保护，意味着您无法修改此游戏。</string>
+    <string name="help_faq_9_q">为什么应用包名如此奇怪？为什么应用不能更新，必须每次单独安装？为什么每个版本有不同的包名？</string>
+    <string name="help_faq_9_a">防止防作弊检测安装包名。</string>
+    <string name="help_faq_10_q">在一些游戏中，当使用游戏变速功能更改游戏速度时，将会导致游戏无响应。是否是因为游戏保护或程序错误？</string>
+    <string name="help_faq_10_a">这意味着游戏变速拦截了输入队列计时器且计时器自动退出。请选择计时器列表中绿色的检查标记（在__app_name__的设置中），这样此问题将不再出现。</string>
+    <string name="help_faq_11_q">为什么逗号分隔列表显示出了一系列错误？</string>
+    <string name="help_faq_11_a">因为数字的分隔符是分号（半角，\"__semicolon__\"）。</string>
+    <string name="help_faq_12_q">如何同时进行多个搜索？</string>
+    <string name="help_faq_12_a">应用当前不允许此情况，如果空间充足，您可以多次安装应用以生成共存版来完成。</string>
+    <string name="help_faq_13_q">如果没有重要改动，需要更新应用么？</string>
+    <string name="help_faq_13_a">建议更新。我们只支持最新版本。</string>
+    <string name="help_faq_14_q">进程名前面的符号\"!\"和\"#\"是什么意思？</string>
+    <string name="help_faq_14_a">"这些符号标识追踪的进程。
+\"#\" - 表示此进程被其他进程追踪。
+\"!\" - 表示此进程被其他进程追踪。
+进程追踪对调试或修改很重要。它也用于程序保护，一般来说，\"#\"表示此进程被保护。"</string>
+    <string name="help_faq_15_q">为什么应用安装完毕后会自安装，且需要root权限？</string>
+    <string name="help_faq_15_a">__app_name__会用随机名称自安装以防止修改保护。静默安装和卸载需要Root权限。如果您不给予Root权限，您必须亲自面对一系列系统安装提示。</string>
+    <string name="help_faq_16_q">__pkg__是什么，病毒或木马？给予Root权限安全吗？</string>
+    <string name="help_faq_16_a">这是__app_name__的基础名称。给予Root权限是安全的，如果应用__app_name__下载来自信任地址。</string>
+    <string name="help_faq_17_q">为什么在应用列表中__app_name__使用随机字符串？为什么使用随机字符串需要Root权限？为什么打开__app_name__时，显示请求Root权限的不是__app_name__，而是一串随机字符串名？</string>
+    <string name="help_faq_17_a">由于__app_name__使用此方法来避免防作弊检测。</string>
+    <string name="help_faq_18_q">为什么最新版的__app_name__有时会被防作弊检测到有时却没有?</string>
+    <string name="help_faq_18_a">由于__app_name__使用不同的方式来防止被防作弊检测到。这包含使用随机的应用包名和应用名。每次安装，应用包名和应用名都是不同的。请重装__app_name__，那么防作弊有可能无法检测到__app_name__。</string>
+    <string name="help_faq_19_q">为什么在应用列表找不到我的游戏？</string>
+    <string name="help_faq_19_a">应用列表显示正在运行的应用，而您的游戏仍未运行。请打开此游戏，然后在__app_name__中选择。</string>
+    <string name="help_faq_20_q">为什么Android 5以上的Java应用无法使用游戏变速？</string>
+    <string name="help_faq_20_a">因为变速功能是为基于本地库的游戏打造的。而您的程序不支持非本地库。自从Android 5使用ART环境替代Dalvik环境后导致程序无法拦截Java计时器。请勿做任何事情。此情况短期内无法解决。</string>
+    <string name="help_faq_21_q">在Android 4上，游戏变速和修改都完美工作。为什么在Android 5及以上，变速和修改不工作了？</string>
+    <string name="help_faq_21_a">"由于运行环境变更，工作无法像之前那样工作。请不要认为__app_name__太渣了，别的工作能工作。那是不可能的！
+
+您可以在Android 4上安装__app_name__并测试同样的操作。结果是，游戏修改成功了。这些修改方法不一定能在Android 5及以上工作。
+
+以上事实已经通过重复实验确认。"</string>
+    <string name="help_faq_22_q">我观看了视频教程和截图，发现内存编辑器中有其他数据。为什么？</string>
+    <string name="help_faq_22_a">由于视频教程和截图会根据输出格式不同而存在差异。在内存编辑器中，点击菜单并选择\"__value_format__\"来配置输出格式。</string>
+    <string name="help_faq_23_q">当冻结数值时，游戏也停住了。这是为什么？</string>
+    <string name="help_faq_23_a">因为您在__app_name__设置中启用了\"__hide_from_game__\"。请关闭此选项。</string>
+    <string name="help_faq_24_q">能否在应用启动时禁用更新检查？</string>
+    <string name="help_faq_24_a">不行。</string>
+    <string name="help_faq_25_q">如何在应用中让时间回退？是否可能让时间向前跳转，而非向后跳转？</string>
+    <string name="help_faq_25_a">不可能。时间永远是增加的否则游戏将崩溃。但是，在最新版本中，我们增加了负时间跳转功能。这将会导致游戏卡死或数据丢失。请小心使用。</string>
+    <string name="help_faq_26_q">我让悬浮窗透明然后它消失了。怎么让它重新显现？</string>
+    <string name="help_faq_26_a">悬浮窗仅仅变成透明了，您可以在原始位置点击，然后在设置中变更选项。</string>
+    <string name="help_faq_27_q">如何搜索显示为标准省略的数值？例如，1.85M。</string>
+    <string name="help_faq_27_a">使用范围搜索。范围限制取决于省略规则。例如，省略规则\"1845000__tilde__1854999\"。</string>
+    <string name="help_faq_28_q">如何搜索百分数？例如，123__percent__。</string>
+    <string name="help_faq_28_a">百分数在不同的游戏应用中是不同的。例如，123__percent__，它可以是无任何值的__type_float__或__type_double__类型，像1.23或123.0。也可以是整数类型__type_byte__、__type_word__、__type_dword__，像123或12300。在输出端，它可以被分割为不同的数值，例如100或345或其他值，对不同的游戏其完全不同。您可以尝试下明显的例子，比如123__percent__可以是1.23或123。设定__type_auto__类型，然后就看您的运气了。</string>
+    <string name="help_faq_29_q">如果游戏检测到__app_name__会怎样？</string>
+    <string name="help_faq_29_a">"试试下面的选项（单独或组合）：
+\u0009 - 启用“__hide_from_game__”的选项。一般足够2，3和4级的选项。
+\u0009 - 不要用随机名称取消重新安装__app_name__。这样做是首次__app_name__运行的虚拟空间之外。
+\u0009 - 使用XPrivacy或类似的实用程序。看互联网如何做到这一点的。
+\u0009 - 如果你有root权限，从应用程序隐藏安装在虚拟空间使用root。详情请阅读为“__vspace_root__”的设置上下文帮助。"</string>
+    <string name="work_without_selinux">切换到工作，而__selinux__，并重新启动应用程序</string>
+    <string name="work_with_selinux">切换到工作，__selinux__，并重新启动应用程序</string>
+    <string name="file">文件：</string>
+    <string name="file_not_found">文件未找到：</string>
+    <string name="export_selected">导出选定项</string>
+    <string name="failed_list_dir">读取文件列表失败。</string>
+    <string name="change_float_type">选择悬浮窗类型</string>
+    <string name="reset_float_type">重置悬浮窗类型</string>
+    <string name="mask">蒙版：</string>
+    <string name="mask_request">输入搜索地址</string>
+    <string name="help_mask_search_title">地址（蒙版）搜索</string>
+    <string name="help_mask_search">"* 地址（蒙版）搜索：
+    您可以搜索或通过地址蒙版筛选结果。
+    
+    比如搜索以已知值结尾的地址。例如：搜索 \"12E\"结尾的地址。
+
+    搜索参数是地址和蒙版。
+    在地址中您可以使用通配符（\"__question__\"）。这个符号代表\"0\"到\"F\"的任意字符。
+    额外蒙版来源于地址，所以首位的0很重要。因此，搜索 \"0120\"和搜索\"120\"完全不同。
+    上例中，第一个会找到：\"00010120\"，\"00020120\"，\"00030120\"等。而第二个会找到：\"00001120\"，\"00002120\"，\"00003120\"等。
+
+    您可以通过等于或不等于蒙版来搜索。第二个选项对于过滤无效数值很有效。
+
+    地址和蒙版均为十六进制格式且不用以\"__hex__\"结尾。
+    地址蒙版和输入的蒙版交互作用于搜索蒙版。
+
+    下列例子完全相同，因为结果蒙版存在相同的\"FF0\"
+__mask_example__
+"</string>
+    <string name="use_sound_effects">启用音效：</string>
+    <string name="from_range">从：</string>
+    <string name="to_range">到：</string>
+    <string name="resultant_mask">合成蒙版：</string>
+    <string name="show_time_jump_panel">显示时间跳跃面板</string>
+    <string name="use_notification">使用通知：</string>
+    <string name="show_gg">显示__app_name__</string>
+    <string name="hide_gg">隐藏__app_name__</string>
+    <string name="time_remaining">剩余时间：</string>
+    <string name="help_fill_title">填充值（增量）</string>
+    <string name="help_fill">"* 填充值（增量）：
+        有时候会出现找到很多数值，但是很多都不是游戏修改的情况。此时，填充值功能就派上用场了。
+
+\u0009例子：搜索某项的价格，并以负值替换。
+
+\u00091. 选择您所想搜的项。
+\u00092. 选择\"__edit_selected__\"。
+\u00093. 按下\"__more__\"按钮以显示被折叠的\"__increments__\"字段。
+\u00094. 在\"__increments__\"字段，输入增量。通常为1。然后点击\"__yes__\"。
+\u00095. 选定项将收到新的数值。
+\u00096. 返回游戏以查看期望项是否变更。
+\u00097. 如果未变更，那么期望项不在选中结果中。返回__app_name__并使用\"__delete_selected__\" -> \"__revert_and_remove__\"以移除选中项并恢复为先前数值。 现在您可以重复尝试以找到有效数值。
+\u00098. 如果变更了，那么期望项就在选中结果中。记住新的数值并返回__app_name__。
+\u00099. 在选中项列表中，搜索期望值。取消选择。 删除全部无效数值，可以使用\"__delete_selected__\" -> \"__revert_and_remove__\"以移除选中项并恢复为先前数值。
+\u000910. 修改期望项数值。
+\u0009
+\u0009若不恢复无效数值有可能会产生崩溃。.
+\u0009
+\u0009如果找到了大量数值，尝试进行小批量填充以免程序崩溃。
+"</string>
+    <string name="help_hint_1">* 如果您总是在相同区域（结果列表项结尾字母）找到想要的数值，您可以仅选择此区域来快速搜索。</string>
+    <string name="help_faq_30_q">__app_name__在Android模拟器上搜索数据非常慢。</string>
+    <string name="help_faq_30_a">"很可能您可能在BIOS上禁用了虚拟化。请启用此项。
+__app_name__运行于模拟器中，所以其运行速度基于模拟器的速度。
+如果启用了虚拟化选项，而速度依旧很慢，请检查您模拟器的设置或尝试另一款模拟器。
+您可以在PC上使用另一款工具 - CheatEngine - 它可以给您带来极速搜索和很多__app_name__没有的特性。"</string>
+    <string name="help_speed_up_title">如何加快搜索速度</string>
+    <string name="help_speed_up">"* 如何加快搜索速度：
+    0. 如果您正使用Android模拟器（BlueStacks, Droid4X, Andy, NOX, Memu, AMIDuOS, Windroy, AVD, Genymotion, Koplayer, Leapdroid等），请在计算机主板设置中启用虚拟化技术。
+    1. 如果设备运行内存足够，您可以存储数据到运行内存中。这将很大程度上加快搜索速度。配置设置中\"__data_in_ram__\"为\"__yes__\"即可。在Android模拟器上，此选项将会减慢搜索过程。
+    2. 如果设备运行内存不足，数据将被存储到记忆卡上。建议使用高速卡。
+    3. 您也可以存储数据到设备内置存储中，这肯定比记忆卡要快。配置设置中\"__set_path__\"为您预设的路径。
+    4. 搜索时，请仅选择需要的区域。请避免选择慢区（\"__slow__\"）和危险区（\"__dangerous__\"）。
+    5. 您也可以指定搜索的内存范围。点击搜索框中\"__more__\" 并选择范围。
+    6. 仅搜索需要的数据类型。搜索数据类型\"__type_auto__\"速度相对较慢。
+    7. 关闭所有可能的\"__hide_from_game__\"选项。
+    8. 在\"__memory_access__\"中尝试打开\"__experimental__\"或\"__extended__\"选项。这些选项可能会导致程序不稳定。"</string>
+    <string name="help_faq_31_q">之后，__app_name__图标将会消失。</string>
+    <string name="help_faq_31_a">"请试着点击应用图标应该出现的位置。如果打开了__app_name__应用界面，那么设置中启用了隐藏图标或者您的固件存在图标显示问题。
+如果未打开应用界面，那么意味着__app_name__从内存中被清除了。
+可能原因如下：
+1. 设备运行内存空间不足 - __app_name__被系统终止。请减少运行内存使用。在__app_name__设置中，不要保存数据到运行内存， 不要设置显示结果数太大，清理运行内存中额外的应用，使用类似轻量应用。终极绝招，重启设备。大部分固件都有运行内存泄露的问题，开机时间越久，泄露越多，可用运行内存越少。
+2. 进程管理器终止了__app_name__。
+请禁用进程管理器或添加__app_name__到例外。
+罪魁祸首也可能是“RAM优化器”和“加速工具”等工具。
+一般而言，您可以查阅应用说明即可以知道是否是进程管理器类工具。
+
+对于FlyMe用户：__app_name__由于某种原因会在几分钟后被自动清理 - 您需要允许__app_name__后台运行且在权限管理应用（通常为SuperSu）中允许。
+
+您也可以试着在__app_name__设置中启用\"__use_notification__\"。一些情况下，这可以避免__app_name__被清理。"</string>
+    <string name="quick_start_title">快速入门</string>
+    <string name="prevent_unload">运行守护：</string>
+    <string name="hot_key">热键：</string>
+    <string name="hide">隐藏</string>
+    <string name="execute_script">执行脚本</string>
+    <string name="execute">执行</string>
+    <string name="another_script">另一个脚本正在运行中，是否中断？</string>
+    <string name="interrupt">中断</string>
+    <string name="script">脚本：</string>
+    <string name="script_ended">脚本已结束：</string>
+    <string name="paused">游戏已暂停：</string>
+    <string name="by_pause_button">通过暂停按钮</string>
+    <string name="by_option">"通过选项'__s__'"</string>
+    <string name="new_search_short">新建搜索</string>
+    <string name="speedhack_loading">正在加载变速...</string>
+    <string name="speedhack_loaded">变速已加载。</string>
+    <string name="busy_dialog_fail">无法显示过程对话框。</string>
+    <string name="site">站点</string>
+    <string name="help_xor_search_title">异或搜索</string>
+    <string name="help_xor_search">"* 异或搜索
+若您已知您所需要的值被总是和值同一距离的异或对加密时，您可以使用此模式来搜索已解密的值。
+1. 从一个游戏切换到 __app_name__。
+2. 点击\"__search__\"选项卡中的\"__search_known_value__\"。
+3. 输入搜索值与异或对距离，使用\"__mode_xor__\"分割。例如：要用8距离的密钥对搜索值100，输入：
+100__mode_xor__8 
+输入额外符号，使用内置键盘上的\"__btn_hex__\"按钮。
+4. 选择合适的数据类型，或选择\"__type_auto__\"（若您不确定的话）和其它选项（若需要）并选择 \"__search__\"。 
+5. 完成搜索时，列表中将会出现结果。
+6. 回到游戏中，在值改变之后，请再次切换回__app_name__。
+7. 进行适当改变重复异或搜索。
+8. 若存在太多结果，请重复步骤6和7.
+9. 若剩下少量结果，您可以尝试修改、存储或冻结值。
+
+您可以配合异或搜索进行范围搜索。例如：\"100__tilde__150__mode_xor__8\"。
+通常情况下，异或搜索比普通的数字搜索慢。
+此模式在联合搜索或加密搜索中不适用。
+距离只能为1到4096。
+您也可以在最后添加__hex__符号使用十六进制输入距离：\"100__tilde__150__mode_xor__10h\"。
+距离必须遵循值的排布。例如：双字节数据必须匹配4字节的界限。这意味着搜索\"40__mode_xor__7\"无效因为7不能被4整除。
+将此模式与其他模式混用将在较差的固件上引发问题。例如：如果您在进行普通搜索后使用异或搜索精确查找结果将导致设备死机或重启。若您第一次就进行异或搜索而非普通搜索的话问题将不会发生。
+此模式中的模糊搜索不可用。您可以将其合并且模糊搜索正常工作但不会遵循您的有距离异或对。
+您可以签名值。这意味着您可以搜索不相等、不大于、不小于等等的值。
+在这种搜索模式中，所有的值均为签名过的。"</string>
+    <string name="help_faq_32_q">HW/SW版本有什么区别？我应该用哪个版本？</string>
+    <string name="try_latest">当前脚本或许仅适用于最新版__app_name__。请更新到最新版。</string>
+    <string name="help_string_search_title">文本（字符串、Hex、AoB）搜索</string>
+    <string name="download_scripts">下载脚本</string>
+    <string name="hide_icons">隐藏启动器图标</string>
+    <string name="select_mode">选择模式</string>
+    <string name="mode_string">字符串模式</string>
+    <string name="mode_mixed">混合模式</string>
+    <string name="string_search_prompt">输入搜索文本，最大长度为__d__字节。例如</string>
+    <string name="string_empty">请输入字符串。</string>
+    <string name="string_not_found">未找到字符串\"__s__\"。</string>
+    <string name="string_found">已找到__d__个位置匹配字符串\"__s__\"。</string>
+    <string name="string_replace">是否替换？</string>
+    <string name="string_replace_prompt">输入替换\"__s__\"的文本。文本长度不能大于__d__个字节。</string>
+    <string name="string_replaced">已替换\"__s__\"为\"__s__\"__d__处。</string>
+    <string name="need_allow_background">在固件中，您必须在系统设置中允许__app_name__后台运行。</string>
+    <string name="calculate_offset_xor">计算偏移，异或</string>
+    <string name="select_copy_item">选择复制项：</string>
+    <string name="landscape">横屏</string>
+    <string name="portrait">竖屏</string>
+    <string name="toolbar_buttons">工具栏按钮</string>
+    <string name="need_update_to">您需要新版本的 __app_name__以运行此脚本。程序版本至少为__s__。您当前版本为__s__。</string>
+    <string name="default_mark">默认</string>
+    <string name="default_">默认：</string>
+    <string name="reset_button">重置</string>
+    <string name="help_hex_colors_title">内存编辑器颜色</string>
+    <string name="help_hex_colors">"* __help_hex_colors_title__: 
+若十六进制使用非白色表示，则很大可能值为指针。颜色指示了此指针所代表的内存类型。
+内存类型可以为__executable__内存、__writable__或__read_only__。在罕见的情况下，内存类型也可能为__writable_and_executable__内存。"</string>
+    <string name="executable">可执行</string>
+    <string name="writable">可写</string>
+    <string name="read_only">只读</string>
+    <string name="writable_and_executable">可写可执行</string>
+    <string name="help_extract">解压帮助</string>
+    <string name="help_extract_done">帮助已解压到__s__</string>
+    <string name="help_extract_fail">导出出错：</string>
+    <string name="try_arm_version">尝试支持ARM处理器的__app_name__版本：</string>
+    <string name="back">后退</string>
+    <string name="forward">前进</string>
+    <string name="no_previous">无更早内容</string>
+    <string name="no_next">无下个内容</string>
+    <string name="from_item">从项目：</string>
+    <string name="from_context">从上下文菜单：</string>
+    <string name="from_boundary">从边界：</string>
+    <string name="from_goto">调用到</string>
+    <string name="from_calc">从偏移计算器：</string>
+    <string name="help_add_to_value_title">选项\"__add_not_replace__\"</string>
+    <string name="help_add_to_value">"* __help_add_to_value_title__: 
+若此选项被选中，被输入的值将会加到已存值中且不对它进行替换。例如：一个元素拥有值5，而您在值域中输入了7。若您选中了此项，元素将会有新值5+7即12；反之则为7.
+您既可以输入正数也可以输入负数。
+此选项不与冻结值同时适用。"</string>
+    <string name="check_libs">检测游戏库架构：</string>
+    <string name="arm_libs">"即使存在x86链接库，此游戏仍使用ARM库进行了安装。
+变速和其他链接到它的功能将不可用。
+\"__skip__\"将会关闭这些检查。您可以稍后在设置中开启。"</string>
+    <string name="manual_install">您可以手动安装。安装文件位于以下路径：</string>
+    <string name="as_text">作为文本（无法加载）</string>
+    <string name="as_text_help">以文本形式保存列表，便于阅读。此种格式无法加载。</string>
+    <string name="help_pointer_search_title">指针搜索</string>
+    <string name="help_pointer_search">搜索可以为预期地址指针的值。您可以特指可能偏移的最大限制。</string>
+    <string name="all_memory">在全部内存中</string>
+    <string name="offset_help">最大偏移限制。</string>
+    <string name="typical_values">典型值</string>
+    <string name="su_command">超级命令</string>
+    <string name="starts">开头</string>
+    <string name="ends">结尾</string>
+    <string name="no_filter">无筛选器</string>
+    <string name="help_memory_filter_title">内存编辑器筛选</string>
+    <string name="help_memory_filter">"* __help_memory_filter_title__：
+您可以在内存修改器中选择过滤器。只有符合过滤器条件的值会被显示。过滤器支持通配符。
+__caret__ - 数据开始；
+__dollar__ - 数据结束；
+__asterisk__ - 任意字母的任意数字；
+__question__ - 任意字母。
+例如，您想找到数字42，输入__caret__42__dollar__。"</string>
+    <string name="use_sh">使用外壳命令</string>
+    <string name="backgrounds">黑色背景</string>
+    <string name="actions">操作：</string>
+    <string name="game_settings">游戏设置</string>
+    <string name="global_settings">通用设置</string>
+    <string name="ui_settings">界面设置：</string>
+    <string name="others">其余选项：</string>
+    <string name="skip_memory">跳过内存区域：</string>
+    <string name="empty_memory">空</string>
+    <string name="without_protection">无保护</string>
+    <string name="help_games_protection_title">如何破解游戏保护</string>
+    <string name="help_games_protection">"部分游戏有防止内存编辑器的保护。您可以尝试：
+1. \"__kill_game__\"然后\"__restart_game_without_protection__\"。
+2. \"__disable_protection__\"如何运行（或重启）游戏。
+3. 使用\"__hide_from_game__\"中的全部或多个选项。其中的每一个都将会减缓搜索速度。
+4. 在游戏被最小化时进行搜索。
+5. 在游戏被暂停时进行搜索。
+6. 若游戏有多个进程的话，请关闭或暂停一些游戏的保护进程。
+7. 使用XPrivacy或类似工具规避保护。
+8. 使用无保护的修改版游戏。"</string>
+    <string name="disable_protection">关闭所有程序的保护（直到重启）</string>
+    <string name="must_restart_if">若您在关闭程序保护之前运行了游戏，您必须重新启动程序。</string>
+    <string name="patch_loading">加载补丁中</string>
+    <string name="patch_loaded">已载入补丁</string>
+    <string name="patch_failed">未加载补丁</string>
+    <string name="history_limit">历史记录条数限制：</string>
+    <string name="copy_as_search">以联合搜索方式复制</string>
+    <string name="add_types">添加类型</string>
+    <string name="add_size">添加组列大小</string>
+    <string name="copy_rhex_value">复制反十六进制值：</string>
+    <string name="mips_arch">此程序不支持MIPS架构。</string>
+    <string name="unrandomizer">反随机数生成器</string>
+    <string name="functions">函数</string>
+    <string name="help_unrandomizer">"反随机数生成器是一项用于替换游戏内生成随机数函数的特性。简单而言，例如有一个游戏使用随机函数来测定玩家的奖励。开启反随机数生成器将会导致__app_name__尝试使用指定数字替换随机数来更改结果（比如拿到特定 的奖励）。
+
+反随机数生成器在某些情况下不可用。它只能处理已知函数。在大多数情况下对于大多数用户而言将不会使用此功能，此功能更像是一个进阶/实验性的特性。
+
+一些函数返回__type_qword__，而一些函数则返回__type_double__（极少使用）。
+
+__type_double__的值的值域必须在0到1内。然而，您可以将其修改为任意值，因为__app_name__将会自动改正所有不正确的值。
+
+您也可以指定增量。在此情况下，每个产生的结果将会加上此值。例如：初始值为0而增量为1，程序将返回0、1、2、3...而非随机值。
+此选项在进行完整搜索所有可能的随机结果时是有用的。
+
+您可以在设置__app_name__中指定使用哪些函数进行修改。"</string>
+    <string name="count_replace">您希望替换多少个最先出现的值？</string>
+    <string name="unrandomizer_loading">加载反随机数生成器中</string>
+    <string name="unrandomizer_loaded">已加载反随机数生成器</string>
+    <string name="warn_restart_off_prot">"此选项将尝试在无保护的情况下重启游戏。
+然而，许多固件包含着会导致设备重启的缺陷。
+若发生重启，请不要尝试再次启动游戏，这将再次重启设备。
+打开__app_name__将会清除先前的错误设置。
+同样，您可以尝试用正常方式重启设备，此方法理论上也能解决问题。
+
+若重启仍发生，请勿使用此函数，它不兼容您的固件。"</string>
+    <string name="warn_patch_off_prot">"此选项将暂时性的给系统打上补丁使应用能在无保护的情况下运行。
+此项修改仅应用于新开启的程序。换言之，在成功打上补丁之后的目标程序需要重启。
+重启设备可以取消先前所打上的补丁。
+打上补丁之后设备可能存在多个问题。
+
+若补丁成功打上，不建议您在重启之前再次运行此功能。
+
+若您遇上问题，请勿使用此功能。"</string>
+    <string name="clear_history">清除输入历史</string>
+    <string name="clear_history_warn">所有包括被固定的条目将被删除。</string>
+    <string name="click_edit">点击此处以修改</string>
+    <string name="ignore_unknown_chars">忽略未知字符：</string>
+    <string name="need_root_mode">此特性需要Root权限。目前__app_name__正运行在无需Root权限的虚拟环境中。</string>
+    <string name="work_without_root_title">无 root 运行 __app_name__</string>
+    <string name="work_without_root">"__app_name__可以在没有Root的情况下通过虚拟环境工作。例如，通过__vspace_list__和其他。
+__app_name__必须安装在虚拟环境中。游戏也必须安装在那里。
+并不是所有的功能都支持，但大部分功能都可以使用。
+
+您将无法修改未安装在虚拟环境中的游戏。
+
+__app_name__ 的第一次启动，使用随机包名执行重新安装，不需要通过虚拟环境执行。
+然后，您可以将__app_name__添加到虚拟环境中并使用。"</string>
+    <string name="help_game_not_listed_title">为什么游戏列表中找不到我的游戏？</string>
+    <string name="fractional_hint">"实数\"x\"的小数部分为多余整数部分的部分，即小数点后的数字。
+
+例如："</string>
+    <string name="pointer">指针：</string>
+    <string name="help_search_filter_title">搜索过滤</string>
+    <string name="help_search_filter">"您可以过滤搜索结果。
+您可以指定：
+- 内存地址限制
+- 值域限制
+- 数据类型
+- 小数部分
+- 指针类型
+您可以组合过滤器进行联合搜索，也可以随时关闭任意过滤器。
+
+然而，若找到大量数据，过滤器可能会减慢搜索结果。
+
+小数部分过滤器可以指定与搜索结果是否相等。
+对于整数类型，其小数部分为零。若您不需要整数类型，请从类型过滤器中排除它们。
+
+指针类型过滤器可以过滤出指向所希望内存类型值的指针。
+对应内存修改器颜色的可能数据类型为：
+__executable__内存、__writable__或__read_only__内存。极少数的情况下，也有可能为__writable_and_executable__内存。
+
+\"无指针\"伪类型对应所有不可能为指针的数据，也对应指向未分配内存指针的值。"</string>
+    <string name="unmount_kill">"当__app_name__正存储临时文件在内存卡上时内存卡被卸载。这导致了守护进程的强制关闭。
+
+为防止再次发生，请特指其他存储临时文件的路径。比如存于内部存储中。
+请注意应剩余足够的空间。"</string>
+    <string name="calls">系统调用模式：</string>
+    <string name="alternative">替代</string>
+    <string name="help_calls">"在某些固件上，例如联想，替代模式可以更快地工作。
+
+通常情况下，你不需要改变这个选项。"</string>
+    <string name="help_context_title">上下文帮助</string>
+    <string name="help_context">"在界面中，一些元素在右上角用特殊图标标记，圆圈中的符号为 __i__。
+按此按钮或长按此元素可显示此元素的帮助。"</string>
+    <string name="waitpid_mode">__waitpid__ 模式：</string>
+    <string name="help_waitpid">"在某些固件上，__waitpid__系统调用不能按预期工作。 这通常是由于SeLinux设置不正确。
+这会导致在 __app_name__ 中进行无休止的搜索。
+您可以尝试使用替代模式。 也许这会起作用。"</string>
+    <string name="microseconds_short">μs</string>
+    <string name="small_is_bad">太小的值会导致处理器的高负载并滞后于游戏。</string>
+    <string name="freeze_interval_help">__app_name__ 覆盖游戏内存中的值的时间间隔。</string>
+    <string name="saved_list_update_interval_help">__app_name__ 更新已保存列表中的值的时间间隔。</string>
+    <string name="icons_size_help">"__app_name__ 界面中图标的大小。
+不适用于浮动图标。"</string>
+    <string name="ignore_unknown_chars_help">如果特殊字符与数字一起复制，可以帮助解决从不同位置复制数字时的问题。</string>
+    <string name="use_notification_help">"在Android的系统通知区域中使用通知。
+在某些固件上，这会增加应用程序的优先级并阻止它关闭。
+您也可以使用通知去点击 __app_name__ 或游戏。
+如果你不能点击浮动图标，这会很有用。"</string>
+    <string name="use_sound_effects_help">"当您按下按钮和项目时系统会发出声音。
+在某些固件上，声音会导致 __app_name__ 崩溃。"</string>
+    <string name="keyboard_help">内置键盘占用更少的内存，加载速度更快，并且针对输入数字进行了优化。</string>
+    <string name="allow_suggestions_help">"来自外部键盘的提示。
+在某些固件上，提示会导致 __app_name__ 崩溃。"</string>
+    <string name="autopause_help">在打开 __app_name__ 界面时自动暂停游戏。</string>
+    <string name="killed_by">__app_name__ 被应用程序“ __s__ ”强制关闭。 为了避免这种情况，请删除此应用程序或对其进行配置，使其不会终止 __app_name__。</string>
+    <string name="killers_found">"您已经安装了可强制关闭 __app_name__ 的应用程序：
+__s__
+为了避免这种情况，请删除它们，或者将它们配置为不会终止 __app_name__。
+
+如果你没有遇到意外关闭 __app_name__ 的问题，则不需要执行任何操作，并且可以忽略此消息。"</string>
+    <string name="record_logcat">记录 __logcat__</string>
+    <string name="record_logcat_info">"__app_name__ 将被重新启动并记录 __logcat__ 到文件中：
+“__s__”。
+
+要结束录制，请退出 __app_name__。
+之后，您可以将日志文件发送到您需要的地方。"</string>
+    <string name="need_uninstall">你需要卸载安装程序，否则你将有4个图标，而不是2个。游戏也会检测到它。</string>
+    <string name="need_random_name">"__app_name__使用标准软件包名称。 游戏可以检测到它。
+
+为了解决这个问题 - 在虚拟空间之外运行 __app_name__ 作为普通应用程序。
+安装完成后，将具有随机名称的 __app_name__ 副本添加到虚拟空间。"</string>
+    <string name="work_mode">工作模式</string>
+    <string name="root">Root</string>
+    <string name="no_root">无Root</string>
+    <string name="how_no_root">"您需要安装虚拟空间应用程序。 如：__vspace_list__。
+
+建议从官方 __app_name__ 网站安装优化版本。
+
+然后你必须添加 __app_name__ 和你的游戏到这个虚拟空间。
+
+之后，您必须在虚拟空间中运行游戏和 __app_name__。"</string>
+    <string name="eperm_error_descr_0">可能的原因：</string>
+    <string name="eperm_error_descr_1">游戏保护中。</string>
+    <string name="eperm_error_descr_2">另一个调试器或破解器连接到游戏。</string>
+    <string name="eperm_error_descr_3">权限不足。 通常由于__selinux__配置错误 。 禁用或配置 __selinux__。</string>
+    <string name="eperm_error_descr_4">坏的内核或固件。 尝试另一个固件或其他设备。</string>
+    <string name="eperm_error_descr_5">在你的固件上，“无Root”模式不起作用。 尝试其他固件或其他设备或获取Root权限。</string>
+    <string name="ptrace_bypass_mode">用于ptrace保护的旁路模式：</string>
+    <string name="mode_restore">恢复</string>
+    <string name="mode_nothing">没有</string>
+    <string name="mode_freeze">冻结</string>
+    <string name="ptrace_bypass_mode_help">"指示禁用保护连接后要执行的操作：
+__mode_restore__ - 恢复连接
+__mode_nothing__ - 什么都不做（通常保护本身会恢复连接）
+__mode_freeze__ - 冻结线程（如以前的版本）
+
+如果您恢复了保护，或者允许保护自己执行，则由于永久性连接/禁用保护，冻结__app_name__ 中的值可能会导致滞后。"</string>
+    <string name="slow_emulator">"您正在使用 “__s__” 模拟器。 它很慢并且包含错误。 因此，搜索可能非常缓慢。
+
+我们建议使用其他模拟器："</string>
+    <string name="text">文本</string>
+    <string name="show_debug_info">显示调试信息</string>
+    <string name="mnt_expand">"__app_name__ 安装在用作“内部存储器”的存储卡上。
+这会干扰虚拟空间的操作。
+如果发生这种情况，请在设备的内部存储器中安装 __app_name__。
+您可能需要将存储卡重新格式化为“便携式存储”。"</string>
+    <string name="help_game_not_listed_root">"游戏必须运行才能选择它。
+
+如果游戏正在运行，但仍然不在列表中，那么您可能遇到根或固件问题。
+尝试另一个根或其他固件。"</string>
+    <string name="help_game_not_listed_noroot">"游戏必须在虚拟空间中启动，以便可以进行选择。
+
+如果游戏未在虚拟空间中运行，则无法选择它。
+
+如果游戏在虚拟空间中运行，但仍然不在列表中，请尝试使用另一个虚拟空间，另一个固件，另一个设备或获取根目录。"</string>
+    <string name="daemon_killed_oom">"守护进程由于内存不足而被系统清除。
+
+请设置\"__data_in_ram__\"为\"__no__\"。
+如果可能，使用界面硬件加速。
+不要使用大型应用。
+禁用其他不使用的应用
+重启后再尝试使用__app_name__。"</string>
+    <string name="selected_as_search_result">选定为搜索结果</string>
+    <string name="clear_results_prompt">这将替换当前搜索结果。是否继续？</string>
+    <string name="position_in_memory_editor">内存编辑器中位置</string>
+    <string name="script_prompt_internet">"此脚本尝试访问网络。如果您允许其访问，此脚本有可能窃取当前游戏中您的登录信息、密码、存档或其他数据。也有可能窃取其他脚本或下载病毒以感染您的设备。
+\u0009    
+是否允许此脚本访问网络？"</string>
+    <string name="level">级别</string>
+    <string name="float_prompt">"您需要在系统设置中允许__s__使用悬浮窗，以在您的固件中正常使用__app_name__。
+
+华为手机默认不显示悬浮窗。您需要允许__s__使用悬浮窗。请打开手机管理器，并在悬浮窗管理中为 __s__打开。
+
+一些小米手机同样不显示悬浮窗。您需要前往设置 -> 已安装应用 -> __s__ -> 其他权限 -> 显示悬浮窗。
+
+同样，其他手机也许需要不同的步骤来允许使用悬浮窗。所有类似使用悬浮窗的应用都受此影响，例如使用点击翻译功能的Google翻译应用。因此，您可以搜索\"手机型号 点击翻译功能\"来找到解决方法。例如，对于红米手机的解决方法如下："</string>
+    <string name="virtual_space">虚拟空间应用</string>
+    <string name="prevent_unload_help">"防止从内存中卸载__app_name__(强制关闭)。
+
+随后的每一级都比前一级更强大，并将其包含在内。
+
+第三级可能导致某些固件和模拟器出现问题(挂起toast、重启或崩溃)。
+
+没有Root，只有第三级起作用。"</string>
+    <string name="integer_type">此数据类型仅用于整数值，不支持小数值。对于小数值，使用__type_float__或__type_double__。</string>
+    <string name="without_float">你也可以使用没有悬浮窗口的__app_name__:</string>
+    <string name="any_value">任何值</string>
+    <string name="help_group_search_any_value">您可以在有最小大小的有序联合搜索中使用__any__和来指定所需位置上该类型的任何值。</string>
+    <string name="help_scripts_title">脚本</string>
+    <string name="help_scripts">"* __help_scripts_title__:
+__app_name__ 支持执行用Lua编写的脚本。
+
+在搜索选项卡上，单击菜单并选择“__execute_script__”。
+在这里，您可以选择要执行的脚本文件，查看现有的__app_name__ API，或者到官网阅读关于API的帮助，或者下载现成的脚本。
+此外，您还可以从存储卡上的API中提取帮助信息，以便在没有Internet的情况下读取它。
+
+如果您想编写自己的脚本，那么您需要一个外部文本文件编辑器。
+__app_name__本身不能编辑脚本，它只执行脚本。
+
+请阅读API帮助了解更多细节。"</string>
+    <string name="help_floating_icon_absent">如果点击“__start__”按钮后，你没有看到一个浮动的图标:</string>
+    <string name="remove_all2">移除全部</string>
+    <string name="debug_load">转储所有代码加载</string>
+    <string name="debug_log">记录大多数脚本调用</string>
+    <string name="vspace64">"您在支持64位进程的虚拟空间中运行__app_name__。
+
+__app_name__将不会探查此空间中32位的进程。
+如果您想要__app_name__探查32位的进程，可以以\"__for32__\"模式安装共存版__app_name__。"</string>
+    <string name="folder_new">新建文件夹</string>
+    <string name="folder_exists">此文件夹已存在</string>
+    <string name="folder_file">存在同名文件</string>
+    <string name="folder_failed">创建文件夹失败</string>
+    <string name="force_close">"先前应用意外关闭。
+
+您可以调高配置中\"__prevent_unload__\"级别以避免这种情况。"</string>
+    <string name="help_force_close_title">意外关闭</string>
+    <string name="install_mode">安装模式</string>
+    <string name="for32">修改64位虚拟空间中32位游戏</string>
+    <string name="for64">修改64位虚拟空间中64位游戏</string>
+    <string name="reset_ignore">重置全部对话忽略选择</string>
+    <string name="allocate_fail">无法分配内存页。错误</string>
+    <string name="allocated">已分配内存页：</string>
+    <string name="allocate_page">分配内存页</string>
+    <string name="prot_read">也许可读</string>
+    <string name="prot_write">也许可写</string>
+    <string name="prot_exec">也许可执行</string>
+    <string name="install_finished">"安装成功！
+手动运行新安装应用以迁移您的数据。
+之后，安装器将会被自动卸载。"</string>
+    <string name="odd_vspace">__app_name__ 在虚拟空间里启动？</string>
+    <string name="record_script">录制脚本</string>
+    <string name="record">录制</string>
+    <string name="another_record">已经在录制了，是否停止？</string>
+    <string name="record_ended">录制完成：</string>
+    <string name="stop">停止</string>
+    <string name="could_not_use">不能使用：</string>
+    <string name="not_optimized2">"你使用的是未优化的虚拟空间：(\"__s__\")。
+要修复该错误，卸载未优化的虚拟空间：(\"__s__\")。并从__app_name__
+官网下载安装优化版本的虚拟空间。
+点击\"__fix_it__\"跳转到优化的虚拟空间专区。"</string>
+    <string name="fix_path">释放空间或指定不同的临时文件存放路径，请点击 \"__fix_it__\"。</string>
+    <string name="deep_read">深度读取：</string>
+    <string name="help_deep_read">"如果不能读取的话，会用所有方法读取内存。
+内存读取速度也许会降低。"</string>
+    <string name="ptrace_fail">通过ptrace更改内存失败。</string>
+    <string name="ptrace_fail_partially">一些功能，如变速和所有与它相关的东西，将无法工作。写入只读存储器(包括代码)是不可能的。</string>
+    <string name="ptrace_fail_full">绝大多数功能都无法工作。</string>
+    <string name="ptrace_fail_solve">"典型的原因是固件中的内核损坏。
+尝试更换固件。如果你最近更新了它-安装以前的版本。
+
+如果不行，更换设备。"</string>
+    <string name="feature_hide_4">如果你在\"__hide_from_game__\"中选择了第四项，这个功能不会工作。</string>
+    <string name="feature_firmware">如果没有ptrace，此功能将无法工作，因为ptrace不能在此固件上工作。</string>
+    <string name="feature_protection">这个功能不能工作，因为在游戏ptrace保护。</string>
+    <string name="not_file">路径不是一个文件:</string>
+    <string name="not_execute">不能执行：</string>
+    <string name="check_install">检查 __app_name__是否安装正确。</string>
+    <string name="sdcard_install">如果 __app_name__ 安装在外部存储（SD Card），那么移动到内部存储。</string>
+    <string name="change_address_type">更改地址/类型</string>
+    <string name="bad_offset">偏移不是 __d__的倍数。</string>
+    <string name="bad_result_address">新地址不是 __d__的倍数。</string>
+    <string name="correct_types">__d__个项目将更改其类型以更正不正确的对齐方式。</string>
+    <string name="reinstall_fail">"无法用随机名重新安装__app_name__。
+
+游戏会很容易检查到__app_name__。
+
+你可以在安装过程中记录__logcat__，并联系官方论坛获得帮助。
+
+失败原因："</string>
+    <string name="empty_field">空输入字段:没有要转换的数字</string>
+    <string name="need_integer">必须选择整数来转换。</string>
+    <string name="maps_failed">不能打开\"__maps__\"文件。</string>
+    <string name="game_protected">游戏被保护。</string>
+    <string name="need_root">需要root修改此游戏。</string>
+    <string name="vspace_error">"虚拟空间，固件或设备的问题。
+
+尝试：
+-使用其他虚拟空间
+-使用其他固件
+-Root
+-使用其他设备"</string>
+    <string name="root_error">"Root，固件或设备的问题。
+
+尝试：
+-使用其他固件
+-更换Root
+-使用其他设备"</string>
+    <string name="vspace_root">在虚拟空间中使用Root：</string>
+    <string name="help_vspace_root">"使用虚拟空间中的root可以帮助隐藏设备上有一个__app_name__的事实。
+
+它不能在所有固件上工作，也不能在所有虚拟空间上工作。
+
+虚拟空间、固件和Root应该允许使用来自虚拟空间的Root。
+虚拟空间应该允许您向内安装应用程序，而无需将它们安装到系统中。
+
+并不是所有的虚拟空间都能提供这种功能。
+
+不是在所有固件和Root上，此模式将工作。
+
+由于Root权限将被授予整个虚拟空间，所以不应该在其中安装任何其他东西。否则，虚拟空间中的任何应用程序都可能使用Root权限，从而导致不可预知的后果。
+
+游戏必须安装在虚拟空间之外。
+
+__app_name__应该只在虚拟空间内安装，而不将其安装到系统中。
+如何做到这一点——请参阅特定虚拟空间的帮助。
+
+例如，对于 __vexp__，您可以在从系统中克隆 __app_name__到__vexp__，然后从系统中卸载 __app_name__。"</string>
+    <string name="help_games_protection_9">9. 在虚拟空间中使用root，这样可以在不安装到系统的情况下将应用程序安装到您自己的系统中。</string>
+    <string name="locale_ui">在你的语言环境中</string>
+    <string name="locale_script">脚本永远使用英语语言环境</string>
+    <string name="locale_desc">"'__s__' - 十进制分隔符
+'__s__' - 千位分隔符
+'__semicolon__' - 联合搜索中的数字分隔符"</string>
+    <string name="help_unaligned_title">未对齐/大端序搜索</string>
+    <string name="help_unaligned">"在一些应用中（例如终端模拟器），内存中的数值也许没有对齐，或者是大端序。
+
+这样的数值不能通过常规搜索找到。
+
+要找到它们，请使用__app_name__ 官网上的特殊脚本：
+"</string>
+    <string name="help_formula_calculator_title">公式计算器</string>
+    <string name="help_formula_calculator">"在大多数数字输入框中，你可以在等号后面输入一个数学公式，例如在搜索的输入框里输入'= 2 + 2 * 3'，那么应用会直接搜索公式的结果，那就是 '8'。
+这些公式是lua表达式。你可以使用lua中所有可用的表达式。
+
+所有算术运算符在Lua5.3中都可以被使用，加号（+），减号（-），乘号（*），除号（/），取余（%），幂（^），整除（//）等等。
+位运算符也是可以的，与（&amp;），或（|），异或（~），非（~）右移（>>），左移（&lt;&lt;）。运算顺序可以用括号表示。
+阅读Lua手册了解所有可用运算符。
+
+如果你知道游戏中的数值是如何加密的，这将非常有用。例如，游戏中的29可以用'= 29 ~ 444444'搜索到。这相当于29异或444444。在视频示例中，价格3888通过异或444444被找到，为'= 444444 ~ 3888'。并用 '= 444444 ~ 1'修改搜索结果把价格改成1。在其他游戏中，125金币是 '= 125 * 10'这样的。
+
+脚本函数在公式计算器中不是所有都是可用的。一些函数不能用。
+可用：一些基本函数，'bit32'， 'table'， 'string'， 'utf8'， 'math'，'os'包的一部分。
+不可用：'debug'， 'package'，'gg'， 'io'包。
+
+当你输入 '= 2 + 2 * 3'时，关键字'return'将在公式之前添加： 'return 2 + 2 * 3'。但是，如果需要复杂公式，你可以在公式中自己指定这个单词。例如： '= a = 5; b = 7; return a * 4 + b * 8'将被执行为 'a = 5; b = 7; return a * 4 + b * 8'。
+
+公式计算器的结果时字符串。这个字符串可以是任何输入框中有效的字符。例如：它可以时用来联合搜索或范围搜索的。'= a = 5; b = 7; return a .. \";\" .. b .. \":: 100\"'，这相当于'5; 7 :: 100'。
+
+公式计算器在脚本中不能用，你可以直接使用Lua。
+编写脚本时，公式结果将写入文件，而不是公式本身。
+
+如果公式不正确，在提交时你会收到错误信息提示。
+
+在计算时，您必须考虑这样一个事实，即计算是按照第一个操作数指定的类型进行的。如果它是整数，结果也会是整数。例如：'= 3/2' 是 '1', ； '= 3.0 / 2' 是 '1.5'。
+
+无论选择哪种语言环境，公式都在英语语言环境中工作。这意味着十进制分隔符始终是一个点('.')。"</string>
+    <string name="help_faq_32_b">"两个启动图标。第一个是软件加速-\"__app_short_name_sw__\"，第二个是硬件加速- \"__app_short_name_hw__\"。现在将永远如此。
+在一些固件上只有一个版本可以使用，在正常的固件上两个都可以。
+
+最好使用软件加速，它的工作不那么流畅，但消耗的内存更少。
+
+你可以在应用设置中隐藏其中一个图标：\"__hide_icons__\"。"</string>
+    <string name="acceleration_help_">"__app_name__硬件或软件界面加速。
+根据游戏和固件的不同，有些选项可能会导致问题。
+如果两者都工作，使用软件加速，因为它消耗更少的内存。
+
+这个选项与启动图标是分开的，并且只影响到__app_name__界面的显示。
+启动图标负责启动屏幕的加速类型。
+
+硬件加速消耗更多的内存，但工作起来更流畅。如果你是小内存，一定要使用软件加速。
+
+如果硬件加速导致错误，那么 __app_name__可以切换到软件加速。"</string>
+    <string name="small_list_items">小列表项目</string>
+    <string name="small_list_items_help">在列表中显示更多信息，但是比较难点击到想要的项目。</string>
+    <string name="format_asm_opcodes">__s__操作码</string>
+    <string name="no_regions">未找到匹配区域。</string>
+    <string name="cannot_hide_launcher_icon">"此图标用于当前启动。
+
+您无法隐藏用于当前启动的图标。
+
+通过另一个图标重新启动应用程序，以便能够隐藏此图标。"</string>
+    <string name="screenshot">截图</string>
+    <string name="screenshot_prompt">"图标将隐藏__d__秒以便截图。
+
+之后，图标将继续可见。"</string>
+    <string name="screenshot_action">截图</string>
+    <string name="use_visible_type">在内存编辑器中使用可见数据类型:</string>
+    <string name="use_visible_type_help">如果仅显示一种数据类型，则不要在内存编辑器中询问该数据类型。</string>
+    <string name="wrong_float">在你的语言环境中，数字 \"__s__\" 看起来像 \"__s__\" 。如果这不是你想要的，在开始页选择其他语言环境（或语言）。</string>
+    <string name="wrong_float2">同样，在__app_name__设置中，您可以覆盖语言环境来格式化数字。</string>
+    <string name="number_locale">格式化数字的区域设置:</string>
+    <string name="fill">填充</string>
+    <string name="help_text_search">"要搜索文本，必须在通常的搜索对话框中指定修饰符。
+
+最常用的编码是__utf8__和__utf16le__。
+通常，在__java__中使用的是__utf16le__，在__c__中使用的是__utf8__。
+
+__utf16le__是一种双字节编码。每个字符都是用两个字节编码的，所以它是通过__type_word__来表示的。
+__utf8__编码，每个字符有可变的字节大小。通过__type_byte__表示。
+__hex_input__和它的变体总是通过__type_byte__来表示。
+
+游戏可以使用任何编码。
+如果您需要一组特定的字节，使用__hex_input__模式。
+
+可用前缀:
+__text_prefixes__
+
+对于“__hex_mixed__”模式，您可以在__apos__字符之间指定__utf8__文本，在__quot__字符之间指定__utf16le__文本。
+
+例如:
+__text_examples__
+
+前缀字符必须是搜索文本中的第一个字符。
+
+搜索的结果将是一个__type_byte__序列，或者在发生__utf16le__的情况下是一个__type_word__序列。
+
+可以更改结果，选择全部并单击“__edit_selected__”。
+
+在值输入框中，以与搜索字符串相同的格式输入新值。
+
+您可以使用填充按钮。如果不可见，点击“__more__”。
+
+将为下列每组连续的项设置值。
+如果元素之间有间隙，则为新组。
+
+如果指定的字节比需要的多，那么只会使用其中的一部分。
+如果指定的比需要的少，则组的其余部分将用零字节填充。
+
+在替换文本时，请尝试使用与原始文本相同的字节数来指定文本，以避免出现问题。
+"</string>
+    <string name="fast_freeze">快速冻结：</string>
+    <string name="help_fast_freeze">"它的工作速度比正常的冻结快得多，但不能用于所有的内存。
+
+如果冻结不工作，禁用此选项。"</string>
+    <string name="debug_disassemble">反编译</string>
+    <string name="assembled">成功反编译到文件：</string>
+    <string name="warn_patch_off_prot2">"如果您使用的是__magisk_hide__-在应用补丁之前禁用它。成功应用补丁后，您可以重新打开它。
+如果不这样做，补丁将不会成功。"</string>
+    <string name="help_games_protection_end">"如何在虚拟空间中对游戏隐藏__app_name__
+
+1. 安允许隐藏安装应用程序的装虚拟空间，而不需要在系统中安装它们。例如：__vspace_hide__。
+2. 将__app_name__安装到虚拟空间中。
+3.在__app_name__中，打开“__vspace_root__”模式。
+4. 授予虚拟空间Root权限。如果无法授予Root权限，请尝试其他虚拟空间、其他Root权限、不同的固件或更换设备。
+5. 从手机中卸载__app_name__。
+6. 使用来自虚拟空间的__app_name__。
+
+为了避免在搜索过程中被检测到:
+在“__hide_from_game__”设置中选择项目2、3和4。
+
+一个典型的解决方案(需要Root，没有Root你不会成功):
+1. 使用虚拟空间中的root。阅读“__vspace_root__”设置的帮助。
+2. 在“__hide_from_game__”设置中选择项目2、3和4。
+"</string>
+    <string name="force_close_2">您可以将“__data_in_ram__”设置为“__no__”，以避免将来发生这种情况。</string>
+    <string name="script_wrote">脚本写入__s__数据到__d__个文件。</string>
+    <string name="script_exit">退出</string>
+    <string name="script_interrupted">脚本中断</string>
+    <string name="script_error">脚本错误</string>
+    <string name="script_oom">内存溢出</string>
+    <string name="script_possible">看起来，你正在尝试以脚本的形式执行 __s__ 。</string>
+    <string name="script_web">网页</string>
+    <string name="script_saved_list">保存列表</string>
+    <string name="speedhack_no_x86">但是这个游戏不是x86库，所以它也许不会工作。</string>
+    <string name="help_faq_33_q">在__app_name__运行时，文本信息（toast）保留在屏幕上，或屏幕底部有黑色的圆圈。如何解决呢？</string>
+    <string name="help_faq_33_a">在一些固件上使用第三级的“__prevent_unload__”导致这样的情况：文本信息（toast）或黑圈（空信息）保留在屏幕上。如果发生这种情况，不要使用第三级的“__prevent_unload__”。</string>
+    <string name="invalid_header_1">无效的脚本文件头。</string>
+    <string name="unknown_version">未知版本。</string>
+    <string name="unknown_format">未知格式。</string>
+    <string name="unknown_endianness">未知端序。</string>
+    <string name="unknown_size_s">未知的__s__大小。</string>
+    <string name="unknown_size_instr">未知的指令大小。</string>
+    <string name="unknown_size_num">未知的Lua数字大小。</string>
+    <string name="expected_found">期盼 __s__ 但是发现__s__。</string>
+    <string name="or">或</string>
+    <string name="invalid_header_2">就是要运行这个脚本？</string>
+    <string name="invalid_header_3">"在__app_name__的未来版本中，这个脚本不能运行。
+请告知脚本作者。"</string>
+    <string name="skip_system_libs">跳过系统库</string>
+    <string name="try_reinstall_x86">"尝试重新安装x86库的游戏？
+
+在这之后游戏也许会停止运行。如果这样，从 __data_app__打开apk文件重新安装游戏。"</string>
+    <string name="reinstall_started">开始重新安装...</string>
+    <string name="reinstall_failed">重新安装失败:</string>
+    <string name="reinstall_ended">重新安装完成。</string>
+    <string name="help_lasm_title">反编译/编译脚本</string>
+    <string name="help_lasm">"__app_name__内置有Lua脚本的反编译/编译工具。
+
+你可以在脚本启动窗口，点击 \"__more__\" 按钮后并勾选 \"__debug_disassemble__\"复选框。
+
+反编译结果 __ext_lasm__ 文件可以被编辑后再次运行或编译，编译结果是新的__ext_lua__文件。
+
+阅读脚本API获取更多细节。
+"</string>
+    <string name="help_hide_gg_title">如何对游戏隐藏 __app_name__</string>
+    <string name="changed_as_search_result">仅保留有变化的结果</string>
+    <string name="changed_not_found">未发现有变化的项目。</string>
+    <string name="too_far">这些值通过联合搜索搜索不到，因为太远了：__d__ 字节。最大距离是 __d__字节。</string>
+    <string name="new_address">新地址:</string>
+    <string name="hide_1_warn">你选择了第一项。冻结数值会导致游戏严重卡顿。</string>
+    <string name="hide_4_warn">你选择了第四项。一些功能不会工作：__speedhack__， __unrandomizer__，__allocate_page__。</string>
+    <string name="asm_failed">没有认识到__s__操作码：</string>
+    <string name="asm_suggestion">你的意思是：__s__？</string>
+    <string name="copy_opcode">复制__s__操作码：</string>
+    <string name="search_nearby">搜索附近</string>
+    <string name="before">之前</string>
+    <string name="after">后</string>
+    <string name="distance">距离：</string>
+    <string name="nearby">附近：</string>
+    <string name="need_fixer">"与此64位虚拟空间中检测到的问题。
+
+要解决这个问题：
+
+1.安装__fixer__应用。 （在该对话框中，无论是沿路径手动：
+__s__
+）。
+
+2.添加__fixer__到虚拟空间。
+
+3.运行__fixer__虚拟空间。
+
+4.拆下__fixer__。
+
+5.重新启动__app_name__虚拟空间。"</string>
+    <string name="limit">只有第N个结果：</string>
+</resources>

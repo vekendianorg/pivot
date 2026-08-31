@@ -1,0 +1,1347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lang_code">~~~ar~~~</string>
+    <string name="front_text">إذا كانت لديك أي أسئلة حول__app_name__أو إستخدامه ، من فضلك قم بزيارة مدونتنا في__forum__</string>
+    <string name="set_path">مسار مؤقت</string>
+    <string name="number">رقم:</string>
+    <string name="type">نوع:</string>
+    <string name="name">اسم:</string>
+    <string name="reset">إختر التطبيق للعمل عليه</string>
+    <string name="set_range">اختر نطاقات الذاكرة</string>
+    <string name="search">بحث</string>
+    <string name="save">حفظ</string>
+    <string name="goto1">اذهب الى</string>
+    <string name="address">عنوان:</string>
+    <string name="edit_all">تعديل الكل</string>
+    <string name="filter">منقي</string>
+    <string name="clear">مسح</string>
+    <string name="max_show_rec">"عرض: "</string>
+    <string name="equal">بدون تغيير</string>
+    <string name="inequal">تغيير</string>
+    <string name="larger">زاد</string>
+    <string name="smaller">قل</string>
+    <string name="compare_current_last">"كيف تغيرت القيمة؟ "</string>
+    <string name="write_region_log">اكتب سجل المنطقة</string>
+    <string name="old_version">نسخة قديمة</string>
+    <string name="found_old_version">تم العثور على نسخة قديمة من __app_name__. هل تريد ازالته؟</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="ok">حسنا</string>
+    <string name="failed_find_package_name">فشل العثور على اسم حزمة التطبيق!</string>
+    <string name="path_for_temp_files">"تعيين مسار لملفات تيمب، على سبيل المثال. '__sdcard__'. قد يتطلب بضع مئات من ميغا بايت من المساحة الحرة. سيتم فقد نتائج البحث الحالية."</string>
+    <string name="confirm">تأكيد</string>
+    <string name="cancel">الغاء</string>
+    <string name="found_new_version">تم العثور على اصدار جديد__s__</string>
+    <string name="daemon_failed">فشل المعالجة</string>
+    <string name="failed_run_daemon">فشل تشغيل ملفات البرنامج،هل تم تثبيت الروت؟</string>
+    <string name="daemon_unexpected_closed">"تم إغلاق ملفات البرنامج بشكل غير متوقع. معلومات: "</string>
+    <string name="daemon_exited">تم الخروج من المعالجة</string>
+    <string name="failed_load_daemon">فشل في تحميل المعالجة</string>
+    <string name="is_device_rooted">"غير قادر على الحصول اذونات الروت. "</string>
+    <string name="collect_data_to_region_log">بدأ جمع البيانات للكتابة إلى سجل المنطقة ...</string>
+    <string name="log_saved">تم حفظ السجل في __s__</string>
+    <string name="failed_save">أخفق الحفظ إلى __s__</string>
+    <string name="region_log">سجل المنطقة</string>
+    <string name="apply">نفذ</string>
+    <string name="error">خطأ</string>
+    <string name="load">حمل</string>
+    <string name="delete_prompt">هل تريد إزالة هذا العنصر؟</string>
+    <string name="reset_search">تم اكتشاف خطأ. إعادة تعيين قائمة البحث.</string>
+    <string name="unknown_error">خطأ غير معروف</string>
+    <string name="out_of_memory">خارج الذاكرة</string>
+    <string name="bug_detected">تم العثور على عطل</string>
+    <string name="disk_full">القرص ممتلئ</string>
+    <string name="io_error">IO خطأ</string>
+    <string name="game_dead">"تم إغلاق اللعبة "</string>
+    <string name="exit">"خروج "</string>
+    <string name="skip">تجاهل</string>
+    <string name="unhandled_exception">استثناء غير معالج. إرسال المعلومات التالية إلى فريق التطوير؟</string>
+    <string name="last_run_failed">أخفق التشغيل الأخير</string>
+    <string name="thank_you">شكرا لك</string>
+    <string name="no_application">"لم يتم تحديد أي تطبيق. "</string>
+    <string name="increments">"زيادة: "</string>
+    <string name="add_not_replace">أضف إلى القيمة، لا تستبدل</string>
+    <string name="eperm_error">لا يمكن إرفاق العملية (PTRACE_ATTACH): العملية غير مسموح بها</string>
+    <string name="load_list">قائمة تحميل</string>
+    <string name="load_warning">"لقد حملت قائمة تم حفظ  مثالها من قبل في هذه اللعبة. على الأرجح، كل العناوين الموجودة في الذاكرة تغيرت وتحميل البيانات التي لا تتوافق مع البيانات التي تم حفظها مسبقا. ونحن ننصح التحقق من ذالك. "</string>
+    <string name="from">اكتمل__d__ من __d__ مراحل</string>
+    <string name="count_fuzzy_equal_run">"عدد مرات تشغيل '__fuzzy_equal__':"</string>
+    <string name="slow">بطيء</string>
+    <string name="miui_restart">__app_name__ يحتاج إلى إعادة تشغيل من أجل تطبيق أذونات الأمان.</string>
+    <string name="out_of_memory_error">خطأ عدم وجود ذاكرة كافية. تم مسح قائمة النتائج الحالية. يرجى تعيين قيمة أصغر لعدد النتائج المراد عرضها.</string>
+    <string name="loading">انتظر</string>
+    <string name="found_count">وجد: __d__</string>
+    <string name="fuzzy_equal">"القيمة لم تتغير "</string>
+    <string name="fuzzy_inequal">القيمة تغيرت</string>
+    <string name="fuzzy_larger">القيمة زادة</string>
+    <string name="fuzzy_smaller">"القيمة نقصت "</string>
+    <string name="type_edit_limit">قيمة الإدخال من __s__ إلى __s__</string>
+    <string name="number_name">رقم</string>
+    <string name="step_name">زيادة</string>
+    <string name="number_less">"الرقم '__s__' هو أقل من الحد الأدنى للقيمة (__d__) لهذا النوع."</string>
+    <string name="number_greater">"الرقم '__s__' أكبر من القيمة القصوى (__d__) لهذا النوع."</string>
+    <string name="about">حول</string>
+    <string name="owner">صاحب</string>
+    <string name="design">المصمم الرئيسي</string>
+    <string name="pm">مدير المشروع</string>
+    <string name="code">المبرمج الرئيسي</string>
+    <string name="tech">المستشار التقني</string>
+    <string name="creator">منشئ (متقاعد)</string>
+    <string name="for_translators">إذا كنت ترغب في مساعدة مع أو القيام ترجمة التطبيق، يمكنك الاتصال بنا على المنتدى http://gameguardian.net/forum، للحصول على ترجمتك المدرجة في الإصدار الرسمي من التطبيق.</string>
+    <string name="version">الإصدار</string>
+    <string name="developers">"المطورون: "</string>
+    <string name="select_language">اختر اللغة</string>
+    <string name="exit_confirm">__app_name__ يحتاج إلى إعادة تشغيل لتطبيق التغييرات.</string>
+    <string name="special_thanks">شكر خاص :</string>
+    <string name="nothing_found">لم يتم العثور على أي شي. حاول البحث مجددا</string>
+    <string name="try_more_ranges">يمكنك أيضا محاولة اختيار نطاقات أكثر في علامة التبويب الإعدادات.</string>
+    <string name="try_fuzzy_search">يمكنك أيضا محاولة البحث عن قيمة غير معروفة.</string>
+    <string name="search_hint">"* للبحث عن قيمة معروفة، اضغط على \"__search_known_value__\".
+* إذا كانت القيمة غير معروفة أو مشفرة - انقر فوق \"__search_unknown_value__\" للبحث.
+* يمكن البحث عن قيم تعويم بواسطة جزءها الصحيح عن طريق تحديد نوع البحث \"__type_auto__\".
+* كما يمكنك استخدام بحث مجموعة مع '__semicolon__' كفاصل."</string>
+    <string name="freeze">تجميد</string>
+    <string name="freeze_normal">عادي</string>
+    <string name="freeze_may_increase">قد يزيد</string>
+    <string name="freeze_may_decrease">قد تنخفض</string>
+    <string name="freeze_in_range">"في النطاق "</string>
+    <string name="range_end_fail">"يجب أن تكون نهاية النطاق ('__s__') أكبر من '__s__'."</string>
+    <string name="failed_add_window">خطأ في إضافة الصفحة</string>
+    <string name="failed_remove_window">خطأ في إزالة الصفحة</string>
+    <string name="system_service_stopped">لا يمكن للتطبيق العمل بشكل طبيعي لأنه تم إيقاف خدمة النظام. حاول إعادة تشغيل التطبيق أو إعادة تشغيل الجهاز.</string>
+    <string name="value_request">أدخل قيمة للبحث عنها</string>
+    <string name="type_request">حدد نوع البيانات للبحث</string>
+    <string name="type_change_request">"حدد نوع البينات المطلوب تغييرها "</string>
+    <string name="value">القيمة</string>
+    <string name="save_as">حفظ في</string>
+    <string name="restart">اعادة التشغيل</string>
+    <string name="start">بدء</string>
+    <string name="wait_daemon">هذه الوظيفة غير متوفرة إذا لم يتم تشغيل البرنامج. انتظر حتى يبدأ . (هل نسيت منح حق الوصول إلى الروت أم أنه لم يتم تثبيت الروت ؟)</string>
+    <string name="daemon_fail">"البرنامج لا يعمل "</string>
+    <string name="config_icon_text">الايقونة: الشفافية = __d__ ٪٪، إخفاء - __s__</string>
+    <string name="icon_hide_after">بعد __d__ ثانية</string>
+    <string name="icon_hide_never">أبدا</string>
+    <string name="keyboard">لوحة المفاتيح</string>
+    <string name="internal">داخلي</string>
+    <string name="external">خارجي</string>
+    <string name="failed_copy_text">أخفق نسخ النص الى الحافظة:</string>
+    <string name="copied">تم النسخ</string>
+    <string name="copy_value">نسخ القيمة:</string>
+    <string name="copy_address">نسخ العنوان:</string>
+    <string name="goto_address">الذهاب الى العنوان:</string>
+    <string name="search_unknown_value">البحث عن قيمة غير معروفة</string>
+    <string name="search_known_value">البحث الدقيق(معروف)</string>
+    <string name="speedhack_hint">* لتغيير سرعة اللعبة، إجراء الضغط لفترة طويلة على ايقونة __app_name__ العائمة.</string>
+    <string name="bad_firmware">يحتوي البرنامج الثابت على أخطاء تمنع استخدام هذه الميزة.</string>
+    <string name="language">اللغة:</string>
+    <string name="acceleration">تسريع واجهة:</string>
+    <string name="hardware">"الادوات "</string>
+    <string name="software">"البرمجيات "</string>
+    <string name="speedhack">تهكير السرعة</string>
+    <string name="data_in_ram">البيانات فيRAM(ذاكرة الوصول العشوائي) :</string>
+    <string name="first_mb">أول__d__MB</string>
+    <string name="donate">"تبرع "</string>
+    <string name="speeds">السرعات</string>
+    <string name="floating_window_fail">تعذر عرض الايقونة عائمة</string>
+    <string name="check">التحقق من وجود تحديث</string>
+    <string name="check_success">تم التحقق بنجاح</string>
+    <string name="enable_draw_perm">الرجاء تمكين الأذونات على الشاشة التالية.</string>
+    <string name="speedhack_fail">لا يتم اعتماد تهكير السرعة لهذه العملية</string>
+    <string name="dangerous">"خطير "</string>
+    <string name="difference">"فرق "</string>
+    <string name="old_value">قيمة قديمة</string>
+    <string name="new_value">قيمة حديثة</string>
+    <string name="mode_hacking">القيمة مشفرة</string>
+    <string name="union">البحث عن مجموعة</string>
+    <string name="speedhack_open">"يمكنك فتح تهكير السرعة  عن طريق الضغط بستمرار على __app_name__ايقونة "</string>
+    <string name="history">التاريخ</string>
+    <string name="history_empty">التاريخ فارغ</string>
+    <string name="allow_suggestions">الإقتراحات دائما من لوحة المفاتيح</string>
+    <string name="invalid_area">حجم المجموعة بين__d__و__d__:</string>
+    <string name="union_need_two_numbers">للبحث عن مجموعة يجب ان يكون هناك رقمين ع الاقل</string>
+    <string name="too_many_union_numbers">عدد كبير للغاية ، أكثر من:</string>
+    <string name="invalid_number">رقم غير صالح:</string>
+    <string name="input_number">أدخل الرقم</string>
+    <string name="number_out_of_range">رقم الممكن ان يكون خارج نطاق `__s__`</string>
+    <string name="help_floating_icon">"* الايقونة العائمة:
+* اضغط لفتح واجهة.
+* اضغط مع الاستمرار للتبديل لوحة تهكير السرعة .
+* ويمكن نقلها إلى أي مكان عن طريق سحب وإسقاط الرمز.
+* الشفافية وإخفاء الموقت يمكن تخصيصها في إعدادات التطبيق."</string>
+    <string name="help_exact_search">"*  البحث الدقيق:
+1. اذهب إلى __app_name__ من لعبة.
+2. اضغط على زر \"__search_known_value__\" في علامة التبويب \"__search__\".
+3. إدخال الرقم الذي يتم عرضه في اللعبة.
+4. حدد نوع البيانات المناسبة، أو اختر \"__type_auto__\" (إذا لم تكن متأكدا) وخيارات أخرى (إذا لزم الأمر) وانقر على \"__search__\".
+5. عند الانتهاء من البحث، سيتم عرض نتائج البحث في القائمة.
+6. العودة إلى اللعبة. قم بتغيير القيمة، انتقل إلى __app_name__ مرة أخرى.
+7. البحث عن القيمة التي تغيرت.
+8. إذا كانت النتائج كثيرة جدا، فاستمر في الخطوة 6.
+9. إذا تركت نتائج قليلة فقط، يمكنك محاولة تعديل أو تخزين أو تجميد القيمة."</string>
+    <string name="help_speedhack">"تهكير السرعة /سبيد هاك/:
+* اضغط مع الاستمرار على رمز العائمة لإظهار لوحة سبيدهاك.
+* اضغط على الأسهم على جانبي الرمز، لتغيير سرعة اللعبة.
+* اضغط مع الاستمرار على عدد السرعة الحالية لإعادة تعيين سرعة اللعبة.
+* اضغط مع الاستمرار على أيقونة العائمة لإخفاء لوحة سبيدهاك.
+* قائمة من السرعات والموقتات المستخدمة يمكن تخصيصها في إعدادات التطبيق.
+* إذا لم يستجب اللعبة لإدخال أو سبيداك لا يعمل، حاول استخدام أجهزة توقيت الأخضر الأخرى في إعدادات __app_name__.
+* يمكنك استخدام \"__time_jump__\" للقفز إلى الأمام في الوقت المناسب. ما عليك سوى اختيار القائمة في علامة التبويب البحث واختيار \"__time_jump__\". سوف تحتاج إلى تحديد عدد الثواني للقفز. المبلغ إلى القفز يمكن أن يكون كسور"</string>
+    <string name="help_fuzzy_search">"*  بحث غامض:
+      1. التبديل إلى __app_name__ من لعبة.
+      2. انقر فوق الزر \"__search_unknown_value__\" في علامة التبويب \"__search__\".
+      3. حدد نوع البيانات المناسب ، أو اختر \"__type_auto__\" (إذا لم تكن متأكدًا) وانقر فوق \"__search__\".
+      4. عند الانتهاء من البحث ، سيتم عرض نتائج البحث في القائمة.
+      5. العودة إلى اللعبة. بعد تغيير القيمة (أو عدم تغييرها) ، قم بالتبديل إلى __app_name__ مرة أخرى.
+      6. انقر فوق الزر \"__search_unknown_value__\" وحدد نوع كيفية تغير القيمة.
+      7. في حالة وجود الكثير من النتائج ، تابع الخطوة إلى 5.
+      8. في حالة ترك بعض النتائج فقط ، يمكنك محاولة تعديل القيمة أو تخزينها أو تجميدها.
+      
+      يمكنك تحديد التغيير الدقيق للقيمة بالنقر فوق الزر \"__more__\".
+   يمكنك إدخال نطاق كتغيير دقيق للقيمة:
+       190__tilde__210
+   لتحديد التغيير خارج نطاق القيم ، يمكنك إدخال:
+    10__tilde____tilde__4000
+"</string>
+    <string name="help_group_search">"* بحث المجموعة:
+     1. التبديل إلى __app_name__ من لعبة.
+     2. انقر فوق الزر \"__search_known_value__\" في علامة التبويب \"__search__\".
+     3. إدخال طلب البحث للبحث المجموعة.
+      التنسيق: القيمة 1 __semicolon__ value 2 __semicolon__ ... __semicolon__ value N __colon__ حجم المجموعة
+      2- يمكن البحث عن قيم __max_group__ في نفس الوقت. حجم المجموعة الافتراضي هو 512. يجب أن يكون حجم المجموعة بين 2 و 65536.
+      على سبيل المثال ، إذا كنت تريد البحث في 195 و 6543 ، فيجب عليك إدخال:
+       195 __semicolon__ 6543
+      بالطبع يمكنك تحديد حجم المجموعة (300):
+       195 __semicolon__ 6543 __colon__ 300
+      أيضًا ، يمكنك تعيين نوع أو أكثر من أنواع البيانات:
+       195__type_dword_short__ __semicolon__ 6543
+      هذا يعني أنك تريد البحث عن قيمة __type_dword__ بقيمة 195 وقيمة __type_auto__ التي تبلغ 6543.
+      أنواع البيانات الممكنة هي نفسها كما هي في البحث:
+       __type_byte_short__ - __type_byte__
+       __type_word_short__ - __type_word__
+       __type_dword_short__ - __type_dword__
+       __type_xor_short__ - __type_xor__
+       __type_qword_short__ - __type_qword__
+       __type_float_short__ - __type_float__
+       __type_double_short__ - __type_double__
+       __type_auto_short__ - __type_auto__
+      كما يمكنك كتابة الرقم في تدوين ست عشري:
+       __hex_example____hex__ __semicolon__ 6543
+      أو بترميز عشري (end-endian):
+       __hex_example____rhex__ __semicolon__ 6543
+      لإدخال رموز إضافية ، استخدم زر \"__btn_hex__\" على لوحة المفاتيح الداخلية.
+     4. حدد نوع البيانات المناسب ، أو اختر \"__type_auto__\" (إذا لم تكن متأكدًا) لاستخدامه كإعداد افتراضي. الخيارات الأخرى لا تهم هذا النوع من البحث. انقر فوق \"__search__\".
+     5. عند الانتهاء من البحث ، سيتم عرض نتيجة البحث في القائمة.
+     6. العودة إلى اللعبة. بعد تغيير القيمة ، قم بالتبديل إلى __app_name__ مرة أخرى.
+     7. كرر البحث الجماعي مع التغييرات المناسبة.
+     8. في حالة وجود الكثير من النتائج ، كرر الخطوتين 6 و 7.
+     9. في حالة ترك بعض النتائج ، يمكنك محاولة تعديل القيمة أو تخزينها أو تجميدها.
+      
+     إذا كنت تريد ترتيب احترام القيم ، فحدد __colon__ مرتين.
+     بدون حجم المجموعة:
+      195 __semicolon__ 6543 __colon____colon__
+     مع حجم المجموعة:
+      195 __semicolon__ 6543 __colon____colon__ 300
+      
+     يمكنك البحث في نطاق القيم:
+      190__tilde__210 __semicolon__ 6543
+  كما يمكنك البحث خارج نطاق القيم:
+   10__tilde____tilde__4000 __semicolon__ 6543
+"</string>
+    <string name="help_others">"* الآخرين:
+* لعمليات البحث الجديدة ، يجب عليك مسح نتائج البحث السابقة عن طريق تحديد \"__clear__\" في القائمة تحت زر القائمة.
+* لتحديد لعبة أخرى اضغط على أيقونة اللعبة في الزاوية اليسرى العليا.
+* لإيقاف / استئناف لعبة - اضغط على الزر الموجود أسفل الرمز في الزاوية اليسرى العليا.
+* إذا قمت بالتبديل إلى لعبة أثناء توقف الإيقاف المؤقت ، في المرة التالية التي تفتح فيها __app_name__ ، سيتم إيقاف هذه اللعبة مؤقتًا تلقائيًا.
+* تضاف جميع القيم المجمدة تلقائيا إلى القائمة المحفوظة. يمكنك إدارتها تحت علامة التبويب المناسبة.
+* جميع بيانات الإدخال يحفظ إلى قائمة \"التاريخ\". يمكنك استخدامها عن طريق الضغط على زر التاريخ."</string>
+    <string name="help_typical_usage">"خوارزميات الاستخدام النموذجية:
+
+1) القيمة غير مشفرة ومعروفة.
+وهناك حالة نموذجية تتمثل في المال والنجوم والقطع النقدية والموارد وما إلى ذلك.
+
+استخدام البحث الدقيق.
+
+2) القيمة غير معروفة و / أو مشفرة.
+حالة نموذجية من قيمة غير معروفة - أي مقياس / شريط. على سبيل المثال الصحة، مانا، نيترو، وما إلى ذلك ينظر إلى التغييرات، ولكن لا القيم العددية مرئية.
+وهناك حالة نموذجية للقيم المشفرة يكون المال والنجوم والقطع النقدية، وما إلى ذلك، ولكن عند البحث مع 1 خوارزمية لا تجد أي شيء، أو تغيير القيم وجدت لا يؤدي إلى تغيير الأرقام في اللعبة.
+
+استخدام البحث غامض.
+
+
+3) يتم تشفير القيمة (__mode_hacking__).
+وهناك حالة نموذجية للقيم المشفرة يكون المال والنجوم والقطع النقدية، وما إلى ذلك، ولكن عند البحث مع 1 خوارزمية لا تجد أي شيء، أو تغيير القيم وجدت لا يؤدي إلى تغيير الأرقام في اللعبة.
+
+استخدم البحث الدقيق، ولكن دائما حدد مربع الاختيار \"__mode_hacking__\".
+قد تكون النتائج التي تم العثور عليها قيم غريبة بسبب التشفير.
+
+خوارزمية 3 أسرع بكثير من 2، ولكنها قد لا تعمل لجميع الألعاب.
+
+4) لا يتم تشفير القيمة والمعروفة ووضعها بالقرب من القيم المعروفة الأخرى.
+الحالة النموذجية هي السعر في المخزن، احصائيات البطل، الخ.
+
+استخدام البحث عن مجموعة لجميع الأرقام في وقت واحد."</string>
+    <string name="help_hints">"تلميحات:
+
+* ليس كل الألعاب يمكن تعديلها من قبل __app_name__. قائمة نموذجية من الأمثلة:
+* البيانات المخزنة على الخادم (ألعاب من جانب الخادم)
+* اللعبة تحتاج اتصال بالإنترنت المستمر
+* تلعب الشبكة مع لاعبين آخرين
+* تحتاج إلى تحديد ملقم للاتصال في بداية اللعبة
+* لا يمكنك استخدام بعض الأشياء دون الإنترنت
+* لعبة يعيد البيانات من الخادم إذا قمت بتغيير شيء
+* القيم التي ينظر إليها ليست دائما نفس الطريقة التي يتم تخزينها. يمكن أن تكون مختلفة. على سبيل المثال على الشاشة نرى 34، ولكن في الذاكرة قيمة 34000.
+* إذا لم تتمكن من تعديل قيمة - حاول تعديل القيم التي تؤثر على هذه القيمة. على سبيل المثال، بدلا من تغيير كمية الذهب، يمكنك تغيير سعر الشيء وبيعه. أو شراء مع سعر سلبي."</string>
+    <string name="help">المساعدة</string>
+    <string name="help_floating_icon_title">الأيقونة العائمة</string>
+    <string name="help_exact_search_title">البحث الدقيق</string>
+    <string name="help_speedhack_title">تهكير السرعة</string>
+    <string name="help_group_search_title">بحث المجموعة</string>
+    <string name="help_others_title">أخرى</string>
+    <string name="help_typical_usage_title">خوارزميات الإستخدام النموذجي</string>
+    <string name="help_hints_title">إشارة</string>
+    <string name="value_format">شكل القيمة</string>
+    <string name="format_hex">(Hex)عرافة (قليلا إنديان) التدوين</string>
+    <string name="format_rhex">عكس (Hex) عرافة (كبير إنديان) تدوين</string>
+    <string name="clear_selection">مسح المختار</string>
+    <string name="invert_selection">إختيار عكسي</string>
+    <string name="select_all">اختيار الكل</string>
+    <string name="edit_selected">"تعديل المختار "</string>
+    <string name="delete_selected">"ازالة المختار "</string>
+    <string name="save_selected">"حفظ المختار "</string>
+    <string name="nothing_selected">تراجع المحدد</string>
+    <string name="items_added">"اضافة العناصر المحددة الى قائمة الحفظ(__d__) "</string>
+    <string name="no_items_for_editing">"لا يوجد عناصر لتعديلها "</string>
+    <string name="edit_info">تعديل__s__as__s__</string>
+    <string name="edit_all_info">تحرير عناوين __d__as__s__</string>
+    <string name="autopause">ايقاف اللعبة اتوماتيك :</string>
+    <string name="empty_list">"القائمة المحفوظة فارغة.
+يمكنك إضافة عناصر إليه من قائمة نتائج البحث أو من محرر الذاكرة.
+ببساطة حدد العناصر المطلوبة واختر \"__save_selected__\" في القائمة.
+طريقة أخرى - بدء تحرير قيمة والتحقق من خانة الاختيار \"__save_as__\".
+كما يتم إضافة جميع القيم المجمدة هنا تلقائيا"</string>
+    <string name="empty_save">القائمة المحفوظة فارغة. لا يوجد شيء لانقاذ.</string>
+    <string name="revert_selected">تراجع المحدد</string>
+    <string name="nothing_to_revert">"لا شئ للعودة اليه "</string>
+    <string name="revert_prompt">هل تريد إعادة العناصر المحددة (__d__)؟</string>
+    <string name="download">"يمكن تحمل هذا التطبيق من: "</string>
+    <string name="format_string">توضيح السلسلة</string>
+    <string name="forgot_h">هل نسيت \"__hex__\" في النهاية؟</string>
+    <string name="time_jump">"قفز الوقت "</string>
+    <string name="time_jump_hint">أدخل عدد الثواني للانتقال إلى الأمام:</string>
+    <string name="hide_from_game">إخفاء __app_name__ من اللعبة:</string>
+    <string name="last_stats">إحصائيات لبحثك الأخير</string>
+    <string name="memory_access">"الوصول الى الذاكرة: "</string>
+    <string name="normal">"عادي "</string>
+    <string name="extended">ممتد</string>
+    <string name="experimental">تجريبي</string>
+    <string name="installing">__app_name__ يقوم بإعادة تثبيت نفسه باسم عشوائي لاستبعاد الاكتشاف بواسطة الألعاب. انتظر.</string>
+    <string name="failed_install">فشل في تثبيت التطبيق, إعادة المحاولة؟</string>
+    <string name="failed_uninstall">فشل إلغاء تثبيت التطبيق, إعادة المحاولة؟</string>
+    <string name="download_it">"تحميل "</string>
+    <string name="more">المزيد</string>
+    <string name="less">أقل</string>
+    <string name="no_space">لاتوجد مساحة متبقيه في جهازك</string>
+    <string name="install_cancel_prompt">يمكن اكتشاف __app_name__ عند عدم تثبيته. هل تريد حقا إلغاء؟</string>
+    <string name="intercept">اعترض</string>
+    <string name="need_restart">يجب إعادة تشغيل التطبيق المستهدف لتطبيق هذه التغييرات.</string>
+    <string name="must_be_root">"لتشغيل هذا البرنامج ، يجب أن يكون جهازك فيه الروت.
+      
+يمكن أن يعمل __app_name__ في وضع محدود بدون روت، من خلال بيئة افتراضية. على سبيل المثال ، من خلال __vspace_list__ والعديد غيرها.
+اقرأ المساعدة لمزيد من التفاصيل.
+
+كيفية عمل روت على أي جهاز: http://www.xda-developers.com/root/"</string>
+    <string name="skip_">تخطي</string>
+    <string name="indent_for_the_status_bar">واجهة المستخدم البادئة من أعلى الشاشة:</string>
+    <string name="start_collecting_data">بدء جمع البيانات</string>
+    <string name="data_collecting_in_progress">جَمْع البيانات قيد التقدم</string>
+    <string name="copy">نسخ</string>
+    <string name="show_logcat">"عرض اللوغات "</string>
+    <string name="path_must_be">"يجب أن يكون طول المسار 2 حرف على الأقل ويبدأ مع '/'."</string>
+    <string name="fix_it">اصلحه</string>
+    <string name="change_log">سجل التغيرات</string>
+    <string name="used_only_first">تستخدم فقط __d__ البنود الأولى.</string>
+    <string name="need_select_more">تحتاج إلى تحديد __d__ أو أكثر من العناصر.</string>
+    <string name="offset">"الاوفيست: "</string>
+    <string name="result">نتيجة</string>
+    <string name="copy_hex_value">نسخ قيمة عرافة (Hex):</string>
+    <string name="goto_pointer">انتقل إلى المؤشر:</string>
+    <string name="offset_calculator">عرض الحاسبة</string>
+    <string name="fill_toolbar">تعبئة شريط الادوات</string>
+    <string name="from_left">من اليسار</string>
+    <string name="from_center">من الوسط</string>
+    <string name="from_right">من اليمين</string>
+    <string name="unit_years_short">سنة</string>
+    <string name="unit_days_short">يوم</string>
+    <string name="unit_hours_short">ساعة</string>
+    <string name="unit_minutes_short">دقيقة</string>
+    <string name="unit_seconds_short">ثانية</string>
+    <string name="speed_info">__s__ الوقت الحقيقي = __s__ وقت اللعبة</string>
+    <string name="search_helper">مساعد البحث:</string>
+    <string name="off">إيقاف</string>
+    <string name="go_to_game">عد للعبة، إذا عثرت على الكثير القيم</string>
+    <string name="go_to_game_and_restore">عد للعبة،اذا عثرت على الكثير من القيم تم استعد البحث في الفتح المقبل</string>
+    <string name="nothing">لا شيئ</string>
+    <string name="sort">فرز</string>
+    <string name="sort_and_remove_duplicates">تصنيف النسخ المكررة وإزالتها</string>
+    <string name="help_basics_title">معلومات اساسية</string>
+    <string name="help_basics">"بعد بدء تشغيل التطبيق، من خلال النقر على زر \"__start__\"، سوف تظهر أيقونة عائمة على الشاشة. ويمكن سحبها سف تكون صغيره في واجهة التطبيق الرئيسية، المسها معا الاسمرار - لعرض لوحة لتغيير سرعة اللعبة.
+
+في الشاشة الرئيسية يمكنك ان ترى:
+* في الزاوية اليسرى العليا - ستظهر لك ايقونة اللعبة. التي تريد العمل عليها  كما أنه يسمح لك بتحديد لعبة أخرى.
+* يقع في المركز هي الإشارات للتنقل من خلال علامات التبويب. التنصت على المرجعية المطلوبة يعرض علامة التبويب المناسبة.
+
+في المجموع هناك 4 علامات التبويب: إعدادات، والبحث، والقائمة المحفوظة ومحرر الذاكرة.
+* في الزاوية اليمنى العليا من واجهة هو زر الإغلاق. اضغط عليه وسوف تكون مخفية واجهة، وسوف تظهر أيقونة عائمة على الشاشة.
+* في الجزء السفلي من الشاشة هناك شريط الحالة ورمز العين. إذا ضغطت على رمز العين واستمر في الضغط عليه، تصبح الواجهة شفافة، طالما أنك لا تحرر إصبعك.
+* بقية المحتويات على الشاشة يعتمد على أي علامة التبويب كنت 'ري على.
+
+في كل علامة تبويب، باستثناء علامة التبويب إعدادات، هناك زر القائمة، الذي يحتوي على مجموعة متنوعة من الإجراءات الممكنة. في ذلك سوف تجد الإجراءات الرئيسية لعلامة التبويب هذه.
+
+تحتوي علامة التبويب إعدادات على مجموعة متنوعة من الإعدادات والمساعدة والمعلومات حول التطبيق، وزر الخروج.
+
+تحتوي علامة التبويب \"بحث\" على:
+* زر وقفة، واسم اللعبة المختارة، وعدد من النتائج التي تم العثور عليها، وزر التحديث.
+* وفيما يلي لوحة مع رموز الوصول السريع وزر القائمة. يتم تكرار جميع الرموز في القائمة، لذلك إذا كنت لا تعرف معنى الرمز، فإنه يمكن دائما أن ينظر إليها عن طريق النقر على زر القائمة (في أقصى اليمين).
+* أسفل تلك الرموز ستكون قائمة نتائج البحث.
+
+تحتوي علامة التبويب \"قائمة المحفوظة\" على:
+* زر وقفة، واسم التطبيق المحدد، على زر القائمة وزر التحديث.
+* أدناه تلك الرموز ستكون قائمة القيم المحفوظة.
+
+علامة التبويب محرر الذاكرة مماثلة للالسابقة، هنا فقط بدلا من قائمة القيم المحفوظة أنه يعرض محتويات الذاكرة.
+
+في جميع القوائم الثلاث (نتائج البحث، والقيم المحفوظة ومحرر الذاكرة)، يمكنك إجراء الصنبور طويلة على العناصر لإظهار قائمة السياق."</string>
+    <string name="daemon_killed">"توقف البرنامج عن العمل.
+
+عادة يمكن أن يكون:
+     1. أي برامج قتلة الذاكرة أو محسن. يجب عليك تعطيل أي قتلة أو إضافة __app_name__ القائمة البيضاء في إعداداتها.
+     2. __daemon_killed_oom__
+     3. لم يتم تركيب بطاقة الذاكرة ، بينما قام __app_name__ بتخزين الملفات المؤقتة عليها. لمنع حدوث ذلك ، حدد مسارًا مختلفًا للملفات المؤقتة. على سبيل المثال ، في الذاكرة الداخلية."</string>
+    <string name="bad_settings">إعدادات سيئة</string>
+    <string name="freeze_lags">استخدام البحث عن قيم مجهوله جنبا إلى جنب مع الإعداد __hide_from_game__ يمكن أن يسبب بتأخر في اللعبة.</string>
+    <string name="improve_translation">تم إنشاء هذه الترجمة من قبل مترجم تلقائي. يمكنك تحسينه باستخدام خدمة الترجمة الجماعية.</string>
+    <string name="freeze_interval">فترة التجميد:</string>
+    <string name="saved_list_update_interval">يتم حفظ القائمة في اثناء فترة التحديث:</string>
+    <string name="milliseconds_short">م ث</string>
+    <string name="disable_floating_windows">تعطيل النوافذ العائمة وإعادة تشغيل التطبيق</string>
+    <string name="enable_floating_windows">تمكين النوافذ العائمة وإعادة تشغيل التطبيق</string>
+    <string name="too_many">"كثير جدا "</string>
+    <string name="help_range_search_title">نطاق البحث</string>
+    <string name="help_range_search">"* نطاق البحث:
+     1. التبديل إلى __app_name__ من لعبة.
+     2. انقر فوق الزر \"__search_known_value__\" في علامة التبويب \"__search__\".
+     3. أدخل نطاق البحث الحد ، مفصولة \"__tilde__\". على سبيل المثال ، للبحث عن القيم من 100 إلى 150 ، أدخل:
+  100__tilde__150
+  للبحث خارج النطاق ، يمكنك تحديد الحرف \"__tilde__\" مرتين:
+  100__tilde____tilde__150
+  بدلاً من ذلك ، يمكنك تحديد علامة \"__not_equal__\" وتحديد الحرف \"__tilde__\" مرة واحدة.
+      لإدخال رموز إضافية ، استخدم زر \"__btn_hex__\" على لوحة المفاتيح الداخلية.
+     4. حدد نوع البيانات المناسب ، أو اختر \"__type_auto__\" (إذا كنت غير متأكد) وخيارات أخرى (إذا لزم الأمر) وانقر على \"__search__\".
+     5. عند الانتهاء من البحث ، سيتم عرض نتائج البحث في القائمة.
+     6. العودة إلى اللعبة. بعد تغيير القيمة ، قم بالتبديل إلى __app_name__ مرة أخرى.
+     7. كرر البحث المدى مع التغييرات المناسبة.
+     8. في حالة وجود الكثير من النتائج ، كرر الخطوتين 6 و 7.
+     9. في حالة ترك بعض النتائج ، يمكنك محاولة تعديل القيمة أو تخزينها أو تجميدها.
+
+ حدود النطاق المضمنة في نتائج البحث. يمكنك تحديد نوع البحث \"__not_equal__\" للعثور على جميع القيم التي لا تنتمي إلى النطاق.
+ في هذا البحث ، تعتبر جميع القيم موقعة.
+"</string>
+    <string name="does_not_support">\"__s__\" لا يدعم \"__s__\".</string>
+    <string name="range_bounds_diff_types">يجب أن تكون حدود النطاق هي نفس النوع.</string>
+    <string name="examples">أمثلة</string>
+    <string name="rtfm">اقرأ المساعدة للحصول على مزيد من التفاصيل.</string>
+    <string name="icons_size">حجم الايقونة</string>
+    <string name="revert_and_remove">التراجع والإزالة</string>
+    <string name="remove">إزالة</string>
+    <string name="ordered_group_search">امر البحث عن مجموعة</string>
+    <string name="load_items">العناصر</string>
+    <string name="load_values">القيم</string>
+    <string name="load_freeze">تجميد</string>
+    <string name="video_tutorials">"دروس فيديو عن كيفية التهكير "</string>
+    <string name="make_copy">قم بالنسخ</string>
+    <string name="video">"اشرطة فيديو "</string>
+    <string name="ordered">امر</string>
+    <string name="toolbars">"شريط الأدوات "</string>
+    <string name="saved_list">حفظ القائمة</string>
+    <string name="memory_editor">تعديل الذاكره</string>
+    <string name="restart_game">أعد تشغيل اللعبة</string>
+    <string name="refine">صقل</string>
+    <string name="internal_storage">التخزين الداخلي</string>
+    <string name="external_storage">تخزين خارجي</string>
+    <string name="new_search">بحث جديد</string>
+    <string name="load_saved_list">تحميل القائمة المحفوظة من الملف</string>
+    <string name="save_saved_list">حفظ القائمة المحفوظة إلى الملف</string>
+    <string name="append">ألحق</string>
+    <string name="xor_key">مفتاحXOR</string>
+    <string name="only_memory">فقط ضمن نطاق الذاكرة:</string>
+    <string name="dump_memory">تفريغ الذاكرة</string>
+    <string name="path">مسار:</string>
+    <string name="dump_ended">انتهى التفريغ</string>
+    <string name="dump_failed">فشل التفريغ</string>
+    <string name="eperm_error_defend">لا يمكن إرفاق العملية (PTRACE_ATTACH): اللعبة محمية</string>
+    <string name="reset_on_exit">إعادة التعيين عند الخروج:</string>
+    <string name="kill_game">أغلاق اللعبة</string>
+    <string name="kill_game_info">إن إنهاء العملية بسرعة لا يعطي العملية فرصة لإغلاق نظيفة ويمكن أن يسبب فقدان البيانات أو عدم استقرار النظام.</string>
+    <string name="continue_ask">استمر؟</string>
+    <string name="copy_memory">نسخ الذاكرة</string>
+    <string name="copy_from">نسخ من:</string>
+    <string name="paste_to">الصق إلى:</string>
+    <string name="count_bytes">عدد وحدات البايت:</string>
+    <string name="copy_ended">انتهت ذاكرة النسخ</string>
+    <string name="copy_failed">فشلت ذاكرة النسخ</string>
+    <string name="help_encrypted_search_title">البحث عن القيم المشفرة</string>
+    <string name="help_encrypted_search">"* البحث عن القيم المشفرة:
+1. التبديل إلى __app_name__ من لعبة.
+2. اضغط على زر \"__search_known_value__\" في علامة التبويب \"__search__\".
+3. إدخال الرقم الذي يتم عرضه في اللعبة.
+4. حدد نوع البيانات المناسبة، أو اختر \"__type_auto__\" (إذا لم تكن متأكدا)، أي خيارات أخرى (إذا لزم الأمر)، تحقق من \"__mode_hacking__\" وانقر على \"__search__\".
+5. عند الانتهاء من البحث، سيتم عرض نتائج البحث في القائمة.
+6. العودة إلى اللعبة. بعد تغيير القيمة، انتقل إلى __app_name__ مرة أخرى.
+7. البحث عن القيمة التي تغيرت. يجب التحقق من مربع الاختيار \"__mode_hacking__\".
+8. إذا كانت النتائج كثيرة جدا، فاستمر في الخطوة 6.
+9. إذا تركت نتائج قليلة فقط، يمكنك محاولة تعديل أو تخزين أو تجميد القيمة."</string>
+    <string name="help_faq_title">الاأسئلة المكررة</string>
+    <string name="help_faq_1_q">لماذا لا يمكنني إدخال قيمة أكبر من 99 أو 60،000؟</string>
+    <string name="help_faq_1_a">لقد وجدت قيمة __type_byte__ أو __type_word__. ابحث عن __type_dword__ لإدخال قيم أكبر.</string>
+    <string name="help_faq_2_q">كيفية البحث عن قيم كسور (__type_float__)، بدون جزء كسري من القيمة؟</string>
+    <string name="help_faq_2_a">استخدم نوع البيانات \"__type_auto__\" أو البحث في النطاق. على سبيل المثال، بالنسبة إلى 11.345 يمكنك البحث عن \"10__tilde__12\".</string>
+    <string name="help_faq_3_q">لقد وجدت القيمة وغيرت ذلك، ولكن في اللعبة هذا التغيير لا تفعل أي شيء. أنا مجرد محاولة لاستخدامه ولكن كل شيء يعود. ما الخطأ الذي افعله؟</string>
+    <string name="help_faq_3_a">"في بعض المباريات(الالعاب )، تكون القيم محمية أو مشفرة. قبل عرض القيمة، يتم فك تشفير القيمة إلى متغير آخر. لقد غيرته.
+منذ يتم استخدام هذه القيمة فقط للعرض، فإنه لا يؤثر على الميكانيكا اللعبة. للعثور على القيمة الحقيقية، بدلا من القيمة المعروضة، استخدم البحث عن القيمة المشفرة، أو البحث الغامض.
+في بعض الأحيان يتم تخزين القيمة على الخادم ومتزامنة في كل مرة. في هذه الحالة، لا يمكن اختراقها. إذا كانت اللعبة لا تعمل دون الإنترنت والطرق السابقة لم تساعد - على الأرجح هذا هو الحال."</string>
+    <string name="help_faq_4_q">لا تجد قيمة في لعبة X. أو يجد ذلك، ولكن عندما تغير شيء يحدث. أو أنه يجد ذلك، ولكن بعد أن تغير اللعبة تعطل. كيف يمكنني معرفة ما هي المشكلة، هل هو الحماية في اللعبة أو مع __app_name__؟</string>
+    <string name="help_faq_4_a">"يجب أن تأخذ برنامج بسيط أن يضمن أن يكون أي حماية ومحاولة ذلك. أنا أفضل أن استخدام \"هيل تسلق سباق\". اللعبة بسيطة، غير معقدة ولا تحتوي على أي دفاعات. يمكنك التحقق من القرصنة من المال والبحث المباشر عن طريق عدد، والبحث غامض للتغيير.
+إذا القرصنة على هذه اللعبة بسيطة يعمل، ثم انها في هذه اللعبة X التي حاولت الإختراق. إن لم يكن، ثم المشكلة في __app_name__.
+هناك حتى خيار أسهل: \"الحنفية عداد\". تثبيته. يركض. محاولة للقضاء على عدد الأشرطة المعروضة على الشاشة. يجب أن يكون من السهل جدا. إذا لم يكن كذلك، فإن المشكلة في __app_name__ أو إعداداته.
+حاول إصدار آخر من __app_name__، حاول البحث عن وصف الخطأ الذي تم تلقيه في المنتدى في الموضوع ذي الصلة أو على الإنترنت. في الحالات القصوى، يمكنك أن تسأل حول في المنتدى."</string>
+    <string name="help_faq_5_q">كيفية البحث عن الوقت؟</string>
+    <string name="help_faq_5_a">"محاولة للبحث عن عدد الأيام أو الساعات أو الدقائق أو الثواني. يمكن أن يكون نوع البيانات إما __type_byte__ أو __type_word__ أو __type_dword__ أو __type_qword__. كما يمكنك استخدام نوع __type_auto__.
+- حاول البحث عن عدد من ميلي أو نانو ثانية. نوع البيانات هو __type_dword__ أو __type_qword__.
+- محاولة للبحث كما يونكس الطابع الزمني تاريخ الانتهاء. النوع - __type_dword__. ويعتبر الفرق بين الطابع الزمني يونيكس الحالي وحفظ واحد. البحث من خلال البحث عن مجموعة.
+على سبيل المثال، إذا تم كتابة 30 يوما، ثم كنت تبحث عن 30 +/- 1 يوم من الطابع الزمني أونيكس الحالي. ويمكن الاطلاع على الطابع الزمني الحالي أونيكس بسهولة على شبكة الإنترنت."</string>
+    <string name="help_faq_6_q">هل من الممكن الإختراق العاب الاون لاين ؟</string>
+    <string name="help_faq_6_a">فمن الممكن الإختراق البيانات التي يتم تخزينها على العميل. لا يمكن اختراق أي شيء على الخادم. في ألعاب مختلفة يمكن أن تكون طرق مختلفة. حتى داخل لعبة لاعب واحد، قد تكون بعض البيانات على الخادم، وبعض قد لا.</string>
+    <string name="help_faq_7_q">أين يعمل تهكير السرعه؟</string>
+    <string name="help_faq_7_a">"قد لا يعمل سبيدهاك على أجهزة x86 / محاكاة للألعاب التي لا تحتوي على مكتبات x86.
+أيضا لبيئة آرت، سبيدهاك لا يعمل مع توقيت جافا. إذا كانت اللعبة تستخدم لهم وكان لديك بيئة آرت (عادة الروبوت 5 وما فوق)، ثم سبيدهاك لن تعمل."</string>
+    <string name="help_faq_8_q">__app_name__ يعمل كله بالنسبة لي، ولكن في بعض المباريات(الالعاب) أنا الحصول على خطأ PTRACE_ATTACH. لماذا وماذا نفعل حيال ذلك؟</string>
+    <string name="help_faq_8_a">وقد تم تجهيز هذه اللعبة مع الحماية ضد التصحيح من قبل نوع من حماية سنيو. __app_name__ لا يمكن تجاوز هذه الحماية. من خلال ذلك، لا يمكنك الإختراق هذه اللعبة.</string>
+    <string name="help_faq_9_q">لماذا التطبيق لديها مثل هذا اسم حزمة غريب؟ لماذا لا يتم تحديث التطبيق، ولكن في كل مرة تثبيت بشكل منفصل؟ لماذا يكون لكل إصدار اسم حزمة مختلف؟</string>
+    <string name="help_faq_9_a">لمنع الكشف عن طريق مكافحة غش من قبل اسم الحزمة.</string>
+    <string name="help_faq_10_q">في بعض المباريات، عند تغيير السرعة (سرعة الإختراق)، فإنها تتوقف عن الاستجابة للنقرات. هل حماية اللعبة أو خطأ في البرنامج؟</string>
+    <string name="help_faq_10_a">وهذا يعني أن سبيدهاكينغ الخاص بك تعترض توقيت طابور المدخلات ويموت. فمن الضروري لتحديد العلامات الخضراء في قائمة أجهزة ضبط الوقت (في إعدادات __app_name__) بحيث لا يحدث هذا.</string>
+    <string name="help_faq_11_q">لماذا تصدر قائمة أخطاء مفصولة بفواصل؟</string>
+    <string name="help_faq_11_a">لأن محدد الأرقام هو فاصلة منقوطة (\"__semicolon__\").</string>
+    <string name="help_faq_12_q">كيف أقوم بإجراء عمليات بحث متعددة في نفس الوقت؟</string>
+    <string name="help_faq_12_a">في الوقت الحالي ، لا يسمح التطبيق بذلك ، لكن يمكنك تثبيت التطبيق عدة مرات وتشغيل النسخ معًا إذا كانت هناك مساحة كافية على الذاكرة والقرص.</string>
+    <string name="help_faq_13_q">هل أحتاج إلى تحديث التطبيق إذا لم يكن هناك شيء مهم في التغييرات؟</string>
+    <string name="help_faq_13_a">يقترح. الدعم هو فقط للحصول على أحدث إصدار.</string>
+    <string name="help_faq_14_q">ما هي الرموز \"!\" و \"#\" ، قبل اسم العملية؟</string>
+    <string name="help_faq_14_a">"هذا يمثل العمليات التي يتم تتبعها.
+\"#\" - قبل أن تعني العملية أنه يتم تتبعها بواسطة عملية أخرى.
+\"!\" - قبل هذه العملية ، يتم تتبع هذه العملية بعض العمليات الأخرى.
+تتبع نموذجي لتصحيح الأخطاء أو القرصنة. كما يتم استخدامه في بعض الحماية. عادةً ما تكون العملية التي تحمل علامة \"#\" عملية محمية."</string>
+    <string name="help_faq_15_q">لماذا يقوم التطبيق بعد التثبيت القياسي أيضًا بإجراء التثبيت الخاص به ، وإصدار طلبات حقوق الروت ؟</string>
+    <string name="help_faq_15_a">__app_name__ يعيد تثبيت نفسه ببيانات عشوائية لمنع اكتشافها عن طريق مكافحة الغش. هناك حاجة إلى حقوق الروت للتثبيت \"الصامت\" وإلغاء التثبيت. لا يمكنك التخلي عنها. في هذه الحالة ، سيكون عليك الرد يدويًا على جميع طلبات النظام لتثبيت التطبيقات.</string>
+    <string name="help_faq_16_q">ما هو __pkg__؟ هل هو حصان طروادة أم فيروس؟ هل هي آمنة لإعطاء هذا الوصول إلى التطبيق الروت؟</string>
+    <string name="help_faq_16_a">هذا هو الاسم الأساسي لحزمة __app_name__. تكون عملية الوصول إلى الروت آمنة إذا تم تنزيل __app_name__ من مصادر موثوقة.</string>
+    <string name="help_faq_17_q">لماذا __app_name__ في قائمة التطبيقات المثبتة سميت كمجموعة حروف عشوائية؟ لماذا تطلب مجموعة الأحرف هذه الوصول إلى الروت ؟ لماذا عند بدء تشغيل __app_name__ يكتب أن الروت لا يتم توفيره بواسطة __app_name__ ، ولكن بنوع من أنواع abracadabra؟</string>
+    <string name="help_faq_17_a">لأن __app_name__ يستخدمه لإخفاء نفسه من الكشف عن طريق مكافحة الغش.</string>
+    <string name="help_faq_18_q">لماذا __app_name__ من أحدث الإصدارات التي يتم اكتشافها في بعض الأحيان عن طريق مكافحة الغش، وأحيانا لا؟</string>
+    <string name="help_faq_18_a">لأن __app_name__ يستخدم أشياء مختلفة لإخفاء نفسه من الكشف عن طريق مكافحة الغش. يتضمن هذا اسم حزمة عشوائي والتطبيق. في كل تثبيت مختلفة. حاول إعادة تثبيت __app_name__ للتجديد. ربما بعد هذا مكافحة الغش سوف تتوقف لرؤية __app_name__.</string>
+    <string name="help_faq_19_q">لماذا لعبتي ليست في قائمة التطبيق؟</string>
+    <string name="help_faq_19_a">لأن هذه قائمة بالتطبيقات قيد التشغيل ، والتطبيق الخاص بك لا يعمل. قم بتشغيله ، ثم حدده في __app_name__.</string>
+    <string name="help_faq_20_q">لماذا لا تستطيع تطبيقات Java الاستجابة لسرعة الاختراق على نظام Android 5 وما فوق؟</string>
+    <string name="help_faq_20_a">لأن سرعة الاختراق مصممة للألعاب مع المكتبات الأصلية. تطبيقك ليس كذلك. وبما أن Android 5 يستخدم بيئة ART ، بدلاً من Dalvik ، مما يجعل من المستحيل اعتراض أجهزة توقيت Java. لا تفعل أي شيء. الوضع لن يتغير في المستقبل.</string>
+    <string name="help_faq_21_q">لقد استخدمت أداة مختلفة للاختراق / الاختراق في السرعة على Android 4 وعمل كل شيء. الآن أضع __app_name__ على نظام Android 5 والإصدارات الأحدث ، ولكن هذه الطرق لا تعمل. لماذا ا؟</string>
+    <string name="help_faq_21_a">"لأن العديد من الأشياء قد تغيرت ولن تعمل الأداة الخاصة بك بنفس الطريقة. لا تصنع أوهامك بأن __app_name__ هذا سيء جدًا ، لكن إذا كان هناك تلك الأداة المساعدة ، فأه! لا يوجد شيء من هذا القبيل.
+لاختبار ذلك ، قم بتثبيت __app_name__ على Android 4 ، وكرر جميع الإجراءات نفسها كما في تلك الأداة. نتيجة لذلك ، سوف تنجح. ولكن هذا لا يعني أن هذه الأساليب نفسها ستعمل على Android 5 وما فوق.
+تم تأكيد هذه الحقيقة تجريبيًا ، مرارًا وتكرارًا."</string>
+    <string name="help_faq_22_q">أشاهد عينة فيديو / لقطات شاشة ، وهناك بيانات أخرى في محرر الذاكرة. لماذا ا؟</string>
+    <string name="help_faq_22_a">لأن الفيديو / لقطة الشاشة له تنسيق إخراج مختلف. في محرر الذاكرة ، اضغط على القائمة - حدد \"__value_format__\" وقم بتكوين الإخراج كما ينبغي.</string>
+    <string name="help_faq_23_q">عندما يتم تجميد القيمة ، تبدأ اللعبة في بتعليق أو التأخر. لماذا ا؟</string>
+    <string name="help_faq_23_a">نظرًا لأنك في إعدادات __app_name__ ، يتم تمكين الخيار \"__hide_from_game__\". أطفئه.</string>
+    <string name="help_faq_24_q">كيف يمكنني تعطيل التحقق من وجود إصدارات جديدة عند بدء تشغيل التطبيق؟</string>
+    <string name="help_faq_24_a">لا يمكنك !</string>
+    <string name="help_faq_25_q">كيفية الترجيع الوقت مرة أخرى في التطبيق؟ هل من الممكن أن تقفز وقتًا ليس للأمام بل للخلف؟</string>
+    <string name="help_faq_25_a">لا يمكن. لا يمكنك. يجب دائمًا زيادة الوقت وإلا فقد تتعطل اللعبة. ومع ذلك ، في أحدث الإصدارات أضفنا إمكانية قفزة زمنية سلبية. قد تكون النتيجة تعليق اللعبة أو فقدان البيانات. كن حذرا !.</string>
+    <string name="help_faq_26_q">أضع الأيقونة واختفت. كيف يمكنني الحصول على إعادتها ؟</string>
+    <string name="help_faq_26_a">يصبح الرمز شفافًا ، لكن لا يزال بإمكانك النقر فوقه. انقر حيث كان ، ثم قم بتغيير الإعداد عبر الواجهة.</string>
+    <string name="help_faq_27_q">كيف يمكنني البحث عن قيمة إذا تم عرضها في التقريب مع اللعبة؟ على سبيل المثال ،1.85م (مليون).</string>
+    <string name="help_faq_27_a">ابحث عن نطاق البحث حدود النطاق تعتمد على قواعد التقريب. على سبيل المثال ، \"1845000__tilde__1854999\" للتقريب القياسي.</string>
+    <string name="help_faq_28_q">كيف يمكنني البحث عن قيمة مئوية؟ على سبيل المثال ، 123__percent__.</string>
+    <string name="help_faq_28_a">ذلك يعتمد على التنفيذ. لكل لعبة يمكن أن تكون مختلفة. على سبيل المثال 123__percent__. يمكن أن يكون __type_float__ أو __type_double__ بأي قيمة. مثل 1.23 أو 123.0. أو يمكن أن يكون أنواعًا صحيحة: __type_byte__ __type_word__ __type_dword__. على سبيل المثال 123 أو 12300. عند الإخراج ، يمكن تقسيمها على بعض الأرقام. 100 أو 345 أو أي شيء آخر. لكل لعبة يمكن أن تكون مختلفة. يمكنك تجربة الحالات الأكثر وضوحا. ل 123__percent__ يمكن أن يكون 1.23 أو 123. النوع- __type_auto__. إذا كنت محظوظًا ، فقد يكون ما تحتاجه.</string>
+    <string name="help_faq_29_q">ماذا لو اكتشفت اللعبة __app_name__؟</string>
+    <string name="help_faq_29_a">"جرّب الخيارات التالية (بشكل جماعي أو في أي مجموعة):
+
+ - تمكين خيارات \"__hide_from_game__\". عادة ما يكفي 2، 3 و 4 خيارات.
+
+ - لا تقم بإلغاء إعادة التثبيت __app_name__ باسم عشوائي. ويتم ذلك في المرة الأولى التي يتم تشغيل __app_name__ خارج الفضاء الافتراضي.
+
+ - استخدام XPrivacy أو المرافق المماثلة. ابحث على الإنترنت عن كيفية القيام بذلك.
+
+ - إذا كان لديك حقوق الروت، استخدم الروت من الفضاء الافتراضي مع التثبيت الخفي للتطبيقات. اقرأ المزيد في تعليمات \"__vspace_root__\"."</string>
+    <string name="work_without_selinux">قم بالتبديل إلى العمل دون __selinux__ وأعد تشغيل التطبيق</string>
+    <string name="work_with_selinux">بدّل للعمل مع __selinux__ وأعد تشغيل التطبيق</string>
+    <string name="file">ملف:</string>
+    <string name="file_not_found">لم يتم العثور على الملف:</string>
+    <string name="export_selected">تصدير المحدد</string>
+    <string name="failed_list_dir">فشل في قرائة قائمة الملفات.</string>
+    <string name="change_float_type">حدد نوع النوافذ العائمة</string>
+    <string name="reset_float_type">إعادة ضبط نوع النوافذ العائمة</string>
+    <string name="mask">قناع:</string>
+    <string name="mask_request">أدخل عنوانًا للبحث عنه</string>
+    <string name="help_mask_search_title">بحث عنوان (قناع)</string>
+    <string name="help_mask_search">"* عنوان (قناع) البحث:
+يمكنك البحث أو التصفية حسب العنوان باستخدام قناع.
+
+مثال نموذجي هو البحث عن عناوين تنتهي بقيمة معروفة. على سبيل المثال ، على \"12E\".
+
+معلمات البحث هي العنوان والقناع.
+في العنوان يمكن استخدام أحرف البدل (\"__question__\"). هذا الرمز يعني أنه يمكن أن يكون أي حرف من \"0\" إلى \"F\".
+يتكون قناع إضافي من العنوان ، وبالتالي فإن الأصفار البادئة مهمة. وبالتالي ، فإن البحث عن \"0120\" والبحث عن \"120\" ليس هو نفس الشيء.
+في الحالة الأولى سيتم العثور على: \"00010120\" ، \"00020120\" ، \"00030120\" وهلم جرا. بينما في الثانية: \"00001120\" ، \"00002120\" ، \"00003120\" وهلم جرا.
+
+يمكنك البحث عن المساواة وعدم المساواة المشار إليها بواسطة القناع. يمكن أن يكون الخيار الثاني مفيدًا لإزالة القيم غير الضرورية.
+
+يتم إدخال العنوان والقناع في النظام السداسي عشر وبدون الحرف \"__hex__\" في النهاية.
+يتقاطع القناع الذي تم الحصول عليه من العنوان مع القناع الذي تم إدخاله بواسطتك. هذا هو قناع البحث الناتج.
+
+الأمثلة التالية متكافئة ، لأن القناع الناتج له نفس - \"FF0\"
+__mask_example__"</string>
+    <string name="use_sound_effects">استخدام المؤثرات الصوتية:</string>
+    <string name="from_range">من عند:</string>
+    <string name="to_range">إلى:</string>
+    <string name="resultant_mask">قناع الناتجة:</string>
+    <string name="show_time_jump_panel">عرض لوحة قفزة الوقت:</string>
+    <string name="use_notification">استخدام الإخطار:</string>
+    <string name="show_gg">عرض __app_name__</string>
+    <string name="hide_gg">إخفاء __app_name__</string>
+    <string name="time_remaining">الوقت المتبقي:</string>
+    <string name="help_fill_title">تعبئة (زيادة) القيم</string>
+    <string name="help_fill">"* تعبئة (زيادة) القيم:
+يحدث غالبًا أن يتم العثور على الكثير من القيم ، لكن لا يمكن تغييرها من اللعبة.
+في هذه الحالة ، تأتي التعبئة إلى الإنقاذ.
+
+مثال نموذجي للاستخدام هو البحث عن سعر عنصر ، مع استبدال لاحق بآخر سالب.
+
+1. حدد العناصر المطلوبة.
+2. حدد \"__edit_selected__\".
+3. اضغط على الزر \"__more__\" لعرض حقل \"__increments__\" ، إذا كان هذا الحقل غير موجود.
+4. في حقل \"__increments__\" ، أدخل قيمة الزيادة. عادة ما يكون هذا هو 1. وانقر فوق \"__yes__\".
+5. سوف تتلقى العناصر المحددة قيم جديدة.
+6. انتقل إلى اللعبة وشاهد كيف تغيرت القيمة المطلوبة ، وتتحرك عبر شاشات اللعبة.
+7. إذا لم تتغير القيمة ، فإن العنصر المطلوب ليس بين العناصر المحددة. ارجع إلى __app_name__ واستخدم \"__delete_selected__\" -> \"__revert_and_remove__\" ، أزل العناصر المحددة ، وأرجعهم القيمة السابقة. يمكنك الآن تجربة كل شيء من البداية باستخدام عناصر أخرى ، إن وجدت.
+8. إذا تغيرت القيمة ، فسيكون العنصر المطلوب أحد العناصر المحددة. تذكر القيمة الجديدة والعودة إلى __app_name__.
+9. في قائمة العناصر المحددة ، ابحث عن القيمة المطلوبة. ألغ تحديده. احذف جميع القيم الأخرى ، باستخدام \"__delete_selected__\" -> \"__revert_and_remove__\" ، وإعادتها إلى القيمة السابقة.
+10. قم بتعديل قيمة العنصر المرغوب حسب حاجتك.
+
+الأخطاء النموذجية هي إزالة دون العودة. بعد ذلك ، يمكن أن تعطل اللعبة.
+
+إذا وجدت الكثير من القيم ، فحاول ملء أجزاء صغيرة لتجنب الأعطال."</string>
+    <string name="help_hint_1">* إذا وجدت دائمًا القيم المرغوبة في نفس المنطقة (أحرف في نهاية العناصر في قائمة النتائج) ، يمكنك تحديد هذه المناطق فقط لإجراء بحث أسرع.</string>
+    <string name="help_faq_30_q">يبحث __app_name__ عن القيم ببطء شديد ولوقت طويل في محاكي Android على جهاز الكمبيوتر.</string>
+    <string name="help_faq_30_a">"على الأرجح لديك تعطيل الافتراضية في BIOS الكمبيوتر. قم بتشغيله.
+__app_name__ يعمل داخل المحاكي ، وبالتالي فإن سرعة عملها تعتمد على سرعة المحاكي.
+إذا تم تمكين المحاكاة الافتراضية ، لكن السرعة لا تزال منخفضة ، تحقق من إعدادات المحاكي ، أو استخدم محاكيًا آخر.
+يمكنك أيضًا استخدام أداة أخرى - Chea tEngine للكمبيوتر الشخصي - ستقوم بالبحث بشكل أسرع وتعطيك العديد من الميزات التي لن تكون أبدًا في __app_name__."</string>
+    <string name="help_speed_up_title">كيفية تسريع البحث</string>
+    <string name="help_speed_up">"* كيفية تسريع البحث:
+0. إذا كنت تستخدم محاكي Android على جهاز كمبيوتر (BlueStacks و Droid4X و Andy و NOX و Memu و AMIDuOS و Windroy و AVD و Genymotion و Koplayer و Leapdroid وما إلى ذلك) ، فتحقق من هذه المحاكاة الافتراضية (تقنية VT و Vanderpool Technology و Virtualization Technology يتم تمكين ، VTx ، VT-d ، VMX ، التكنولوجيا الافتراضية ، إنتل- VT ، AMD-V ، SVM ، IOMMU) في BIOS الكمبيوتر.
+1. إذا كان لديك الكثير من ذاكرة الوصول العشوائي ، فيمكنك تخزين البيانات هناك. هذا يسرع كثيرا البحث. اضبط الإعداد \"__data_in_ram__\" على \"__yes__\". في محاكي Android على جهاز كمبيوتر ، قد يؤدي ذلك إلى إبطاء عملية البحث.
+2. إذا كان لديك ذاكرة وصول عشوائي قليلة ، فسيتم تخزين البيانات على بطاقة الذاكرة. استخدم بطاقة ذاكرة ذات سرعة قراءة وكتابة عالية.
+3. يمكنك أيضًا تحديد تخزين البيانات في الذاكرة الداخلية للجهاز ، إذا كان أسرع من بطاقة الذاكرة. اضبط الإعداد \"__set_path__\" على المسار المطلوب.
+4. في البحث ، حدد فقط المناطق المطلوبة. تجنب المناطق البطيئة (\"__slow__\") والخطرة (\"__dangerous__\").
+5. يمكنك أيضًا تحديد حدود نطاق الذاكرة ، للبحث ، إذا كنت تعرفهم. انقر فوق الزر \"__more__\" في مربع حوار البحث وأدخل الحدود.
+6. ابحث فقط عن الأنواع المطلوبة من البيانات. نوع البيانات \"__type_auto__\" بطيء.
+7. قم بتعطيل كل خيارات \"__hide_from_game__\" الممكنة.
+8. حاول استخدام \"__experimental__\" أو \"__extended__\" في \"__memory_access__\". هذه الخيارات يمكن أن تؤدي إلى عمل غير مستقر."</string>
+    <string name="help_faq_31_q">بعد فترة ، يختفي رمز __app_name__.</string>
+    <string name="help_faq_31_a">"حاول النقر في المكان الذي كان الرمز فيه. إذا كانت هذه الواجهة __app_name__ مفتوحة ، فسيتم إخفاء الرمز في الإعدادات أو أن البرنامج الثابت الخاص بك يحتوي على أخطاء مع عرض الرمز.
+إذا لم يتم فتح الواجهة ، فهذا يعني أنه تم إلغاء تحميل __app_name__ من الذاكرة.
+أسباب محتملة:
+1. لا يوجد ما يكفي من ذاكرة الوصول العشوائي على الجهاز - __app_name__ قتل من قبل النظام. حاول استخدام أقل من ذاكرة الوصول العشوائي. في إعدادات __app_name__ ، لا تحدد تخزين البيانات في ذاكرة الوصول العشوائي ، لا تقم بتعيين عدد كبير من النتائج المعروضة ، وإلغاء تحميل التطبيقات \"الإضافية\" من ذاكرة الوصول العشوائي ، واستخدام نظائرها \"خفيفة الوزن\" للتطبيقات التي لا يمكن إلغاء تحميلها (على سبيل المثال ، المشغل ). في الحالات السيئة بشكل خاص ، أعد تشغيل الجهاز قبل تشغيل __app_name__ مع اللعبة. تقريبا جميع البرامج الثابتة لديها دائما تسرب ذاكرة الوصول العشوائي. مزيد من الوقت بعد إعادة التشغيل - أقل ذاكرة الوصول العشوائي المتاحة.
+2. لديك قتلة العملية التي تقتل __app_name__.
+تعطيل القتلة أو إضافة __app_name__ إلى استثنائاته.
+القتلة هم أيضا جميع أنواع \"محسن\" و \"محسنات\" من ذاكرة الوصول العشوائي.
+بشكل عام ، راجع وصف البرنامج ، إذا كنت لا تعرف أن القاتل أم لا.
+
+بالنسبة إلى FlyMe: __app_name__ لسبب ما بعد بضع دقائق من تفريغ العمل - تحتاج إلى السماح بالعمل في الخلفية لـ __app_name__ ومدير الروت  (عادةً SuperSu).
+
+يمكنك أيضًا محاولة تمكين \"__use_notification__\" في إعدادات __app_name__. في بعض الأحيان يمنع هذا القتل __app_name__."</string>
+    <string name="quick_start_title">بداية سريعة</string>
+    <string name="prevent_unload">منع التفريغ:</string>
+    <string name="hot_key">مفتاح التشغيل السريع:</string>
+    <string name="hide">إخفاء</string>
+    <string name="execute_script">تنفيذ البرنامج النصي</string>
+    <string name="execute">نفذ</string>
+    <string name="another_script">نص آخر قيد التشغيل. قاطعها؟</string>
+    <string name="interrupt">المقاطعة</string>
+    <string name="script">النصي:</string>
+    <string name="script_ended">انتهى البرنامج النصي:</string>
+    <string name="paused">تم إيقاف اللعبة مؤقتًا:</string>
+    <string name="by_pause_button">بواسطة زر التوقف</string>
+    <string name="by_option">بواسطة الخيار \"__s__\"</string>
+    <string name="new_search_short">جديد</string>
+    <string name="speedhack_loading">جار تحميل سرعة الاختراق ...</string>
+    <string name="speedhack_loaded">تم تحميل سرعة الاختراق.</string>
+    <string name="busy_dialog_fail">لا يمكن عرض مربع حوار التقدم.</string>
+    <string name="site">موقع</string>
+    <string name="help_xor_search_title">البحث XOR</string>
+    <string name="help_xor_search">"* بحث XOR:
+إذا كنت تعرف أن القيمة التي تحتاجها مشفرة باستخدام مفتاح XOR الذي يكون دائمًا على نفس المسافة من القيمة ، فيمكنك استخدام هذا الوضع للبحث عن القيمة التي تم فك تشفيرها.
+1. التبديل إلى __app_name__ من لعبة.
+2. انقر فوق الزر \"__search_known_value__\" في علامة التبويب \"__search__\".
+3. أدخل رقم البحث ومسافة مفتاح XOR ، مفصولة بـ \"__mode_xor__\". على سبيل المثال ، للبحث عن القيمة 100 باستخدام مفتاح على مسافة 8 ، أدخل:
+100__mode_xor__8
+لإدخال رموز إضافية ، استخدم زر \"__btn_hex__\" على لوحة المفاتيح الداخلية.
+4. حدد نوع البيانات المناسب ، أو اختر \"__type_auto__\" (إذا كنت غير متأكد) وخيارات أخرى (إذا لزم الأمر) وانقر على \"__search__\".
+5. عند الانتهاء من البحث ، سيتم عرض نتائج البحث في القائمة.
+6. العودة إلى اللعبة. بعد تغيير القيمة ، قم بالتبديل إلى __app_name__ مرة أخرى.
+7. كرر البحث XOR مع التغييرات المناسبة.
+8. في حالة وجود الكثير من النتائج ، كرر الخطوتين 6 و 7.
+9. في حالة ترك بعض النتائج ، يمكنك محاولة تعديل القيمة أو تخزينها أو تجميدها.
+
+يمكنك استخدام بحث XOR باستخدام نطاق البحث. على سبيل المثال \"100__tilde__150__mode_xor__8\".
+عادةً ما يكون البحث XOR أبطأ من البحث عن الأرقام المعتاد.
+هذا الوضع غير مدعوم في بحث المجموعة أو في البحث المشفر.
+يجب أن تكون المسافة من 1 إلى 4096 شاملة.
+يمكنك إدخال مسافة في شكل سداسي عشري برمز __hex__ في النهاية: \"100__tilde__150__mode_xor__10h\".
+المسافة يجب احترام القيم محاذاة. على سبيل المثال ، يجب محاذاة dword إلى حدود 4 بايت. هذا يعني البحث \"40__mode_xor__7\" لا طائل منه عن dword لأن 7 لا يمكن تقسيم إلى 4.
+الجمع بين هذا الوضع مع آخر يمكن أن يسبب مشاكل في البرامج الثابتة سيئة. على سبيل المثال ، إذا قمت بالبحث المعتاد وبعد هذا التنقيح في وضع XOR ، فقد يتسبب ذلك في تعليق جهازك أو إعادة تشغيله. يجب ألا يحدث هذا إذا كان البحث الأول سيكون في هذا الوضع.
+لا يتم دعم البحث الغامض لهذا الوضع. يمكنك الجمع بين ذلك ولكن العمل غامض كالمعتاد ولا تحترم مفتاح XOR الخاص بك مع المسافة.
+التوقيع على القيم محترم. هذا يعني أنه يمكنك البحث عن قيمة غير متساوية ، أكبر ، أصغر وهكذا.
+في هذا البحث ، تعتبر جميع القيم موقعة."</string>
+    <string name="help_faq_32_q">ما الفرق مع إصدارات HW / SW؟ وأي واحد يجب أن استخدم؟</string>
+    <string name="try_latest">ربما يحتاج هذا البرنامج النصي إلى أحدث إصدار من __app_name__. حاول التحديث إلى أحدث إصدار.</string>
+    <string name="help_string_search_title">البحث عن نص (string، HEX ، AoB)</string>
+    <string name="download_scripts">تنزيل البرامج النصية</string>
+    <string name="hide_icons">إخفاء مشغل الرموز</string>
+    <string name="select_mode">حدد الوضع</string>
+    <string name="mode_string">نص</string>
+    <string name="mode_mixed">مختلط</string>
+    <string name="string_search_prompt">أدخل نصًا للبحث عنه ، يصل طوله إلى __d__ بايت. مثلا</string>
+    <string name="string_empty">يجب عليك إدخال النص.</string>
+    <string name="string_not_found">لم يتم العثور على النص \"__s__\".</string>
+    <string name="string_found">تم العثور على __d__ من التطابقات للنص \"__s__\".</string>
+    <string name="string_replace">هل تريد استبدالها؟</string>
+    <string name="string_replace_prompt">أدخل النص لاستبدال \"__s__\". الطول ليس أكثر من __d__ بايت.</string>
+    <string name="string_replaced">استبدل \"__s__\" بـ \"__s__\" في أماكن __d__.</string>
+    <string name="need_allow_background">على هذه البرامج الثابتة ، يجب السماح بالعمل __app_name__ في الخلفية ، في إعدادات النظام.</string>
+    <string name="calculate_offset_xor">حساب إزاحة ، XOR</string>
+    <string name="select_copy_item">حدد عنصراَ لنسخه:</string>
+    <string name="landscape">المناظر الطبيعية</string>
+    <string name="portrait">ايقونات</string>
+    <string name="toolbar_buttons">أزرار شريط الأدوات</string>
+    <string name="need_update_to">تحتاج إلى إصدار أحدث من __app_name__ لتشغيل هذا البرنامج النصي. على الأقل الإصدار __s__. لديك نسخة __s__.</string>
+    <string name="default_mark">الافتراضي</string>
+    <string name="default_">الافتراضي:</string>
+    <string name="reset_button">إعادة تعيين</string>
+    <string name="help_hex_colors_title">الألوان في محرر الذاكرة</string>
+    <string name="help_hex_colors">"* __help_hex_colors_title__:
+إذا كان تمثيل سداسي عشرية ليس أبيضًا ، ولكن لونًا ، فغالبًا ما تكون هذه القيمة هي المؤشر. يشير اللون إلى نوع الذاكرة التي يشير إليها هذا المؤشر.
+يمكن أن تكون هذه ذاكرة قابلة للتنفيذ ، __writable__ أو __read_only__. في حالات نادرة ، يمكن أن تكون ذاكرة __writable_and_executable__."</string>
+    <string name="executable">تنفيذ</string>
+    <string name="writable">للكتابة</string>
+    <string name="read_only">يقرأ فقط</string>
+    <string name="writable_and_executable">للكتابة والتنفيذ</string>
+    <string name="help_extract">استخراج المساعدة</string>
+    <string name="help_extract_done">يتم استخراج المساعدة إلى __s__</string>
+    <string name="help_extract_fail">حدث خطأ أثناء استخراج المساعدة:</string>
+    <string name="try_arm_version">حاول استخدام إصدار __app_name__ مع دعم معالجات ARM الأقدم:</string>
+    <string name="back">إلى الخلف</string>
+    <string name="forward">إلى الأمام</string>
+    <string name="no_previous">لا مداخل سابقة</string>
+    <string name="no_next">لا مداخل تالية</string>
+    <string name="from_item">من البند:</string>
+    <string name="from_context">من قائمة السياق:</string>
+    <string name="from_boundary">من الحدود</string>
+    <string name="from_goto">انتقال الى</string>
+    <string name="from_calc">من آلة حاسبة الإزاحة:</string>
+    <string name="help_add_to_value_title">الخيار \"__add_not_replace__\"</string>
+    <string name="help_add_to_value">"* __help_add_to_value_title__:
+إذا تم تحديد هذا الخيار ، فستتم إضافة القيمة المدخلة إلى القيمة الحالية ، وليس استبدالها. على سبيل المثال ، يحتوي العنصر على قيمة 5 ، وقمت بإدخال 7 ، في حقل القيمة. إذا تم تحديد هذا الخيار ، فسيحصل العنصر على قيمة جديدة بقيمة 5 + 7 ، تساوي 12. إذا لم يتم تحديده ، ثم 7.
+يمكنك إدخال القيم الإيجابية والسلبية.
+هذا الخيار غير متوافق مع تجميد القيمة."</string>
+    <string name="check_libs">تحقق من بنية مكتبات الألعاب:</string>
+    <string name="arm_libs">"تم تثبيت اللعبة مع مكتبات ARM ، على الرغم من وجود ملفات x86 في apk.
+سرعة الاختراق وكل ما يتعلق به ، لن تعمل.
+\"__skip__\" تعطيل هذه الشيكات. يمكنك تشغيله مرة أخرى في الإعدادات."</string>
+    <string name="manual_install">يمكنك تثبيت ملف .apk يدويًا. وهو موجود في المسار التالي:</string>
+    <string name="as_text">كنص (لا يمكن تحميله)</string>
+    <string name="as_text_help">يحفظ القائمة في تنسيق النص ، مريحة للقراءة البشرية. تحميل هذا التنسيق غير معتمد.</string>
+    <string name="help_pointer_search_title">بحث المؤشر</string>
+    <string name="help_pointer_search">يبحث عن القيم التي يمكن أن تكون مؤشرات إلى العنوان المطلوب. يمكنك تحديد حد أقصى للإزاحة المحتملة.</string>
+    <string name="all_memory">في كل الذاكرة</string>
+    <string name="offset_help">الحد الأقصى لتعويض ممكن.</string>
+    <string name="typical_values">القيم النمطية</string>
+    <string name="su_command">قيادة الخارق</string>
+    <string name="starts">ابدا بـ</string>
+    <string name="ends">ينتهي مع</string>
+    <string name="no_filter">لا مرشح.</string>
+    <string name="help_memory_filter_title">تصفية في محرر الذاكرة</string>
+    <string name="help_memory_filter">"* __help_memory_filter_title__:
+يمكنك تحديد مرشح في محرر الذاكرة. سيتم عرض النتائج التي تطابق المرشح فقط.
+عامل التصفية يدعم أحرف البدل:
+__caret__ - بداية البيانات ،
+__dollar__ - نهاية البيانات ،
+__asterisk__ - أي عدد من أي أحرف ،
+__question__ - أي شخصية.
+على سبيل المثال ، للعثور على الرقم 42 ، تحتاج إلى إدخال __caret__42__dollar__."</string>
+    <string name="use_sh">استخدام قذيفة القيادة</string>
+    <string name="backgrounds">خلفية سوداء</string>
+    <string name="actions">أفعل:</string>
+    <string name="game_settings">إعدادات اللعبة:</string>
+    <string name="global_settings">الاعدادات العامة:</string>
+    <string name="ui_settings">إعدادات واجهة المستخدم:</string>
+    <string name="others">الآخرين:</string>
+    <string name="skip_memory">تخطي مناطق الذاكرة:</string>
+    <string name="empty_memory">فارغة</string>
+    <string name="without_protection">بدون حماية</string>
+    <string name="help_games_protection_title">كيفية الالتفاف حول الحماية في الألعاب</string>
+    <string name="help_games_protection">"بعض الألعاب مجهزة بحماية ضد محرري الذاكرة. يمكنك تجربة ما يلي:
+1. \"__kill_game__\" ، ثم \"__restart_game_without_protection__\".
+2. \"__disable_protection__\" ، ثم قم بتشغيل (أو إعادة تشغيل) اللعبة.
+3. استخدم كل العناصر أو جزء منها في \"__hide_from_game__\". كلهم يبطئون البحث.
+4. البحث عندما يتم تصغير اللعبة.
+5. ابحث عند إيقاف اللعبة مؤقتًا.
+6. اقتل أو أوقف بعض العمليات الوقائية للعبة ، إذا كانت اللعبة بها عدة عمليات.
+7. استخدم XPrivacy أو أدوات مشابهة لتجاوز الحماية.
+8. استخدام تعديل اللعبة دون حماية."</string>
+    <string name="disable_protection">تعطيل الحماية لجميع التطبيقات (حتى إعادة التشغيل)</string>
+    <string name="must_restart_if">إذا قمت بتشغيل اللعبة قبل تعطيل الحماية ، يجب عليك إعادة تشغيلها.</string>
+    <string name="patch_loading">جارٍ تحميل التصحيح (patch)...</string>
+    <string name="patch_loaded">يتم تحميل التصحيح (patch).</string>
+    <string name="patch_failed">لم يتم تحميل التصحيح (patch).</string>
+    <string name="history_limit">حد التاريخ:</string>
+    <string name="copy_as_search">نسخ كبحث مجموعة</string>
+    <string name="add_types">إضافة أنواع</string>
+    <string name="add_size">إضافة حجم المجموعة</string>
+    <string name="copy_rhex_value">انسخ القيمة السداسية العكسية (Hex):</string>
+    <string name="mips_arch">لا يدعم هذا التطبيق بنية MIPS.</string>
+    <string name="unrandomizer">غير عشوائي ( Unrandomizer )</string>
+    <string name="functions">المهام</string>
+    <string name="help_unrandomizer">"unrandomizer هي ميزة مصممة لاستبدال وظائف معينة شائعة الاستخدام في الألعاب لإنتاج قيم عشوائية. عند مستوى بسيط جدًا ، على سبيل المثال ، قد تكون هناك لعبة تستخدم دالة عشوائية لتحديد مكافأة اللاعب. عندئذٍ يؤدي تمكين unrandomizer إلى محاولة __app_name__ استبدال هذه القيمة العشوائية بالقيمة المحددة من أجل تغيير النتيجة (على سبيل المثال ، للحصول على مكافأة معينة).
+
+لن تعمل أداة إلغاء العشوائية في جميع الحالات. سوف يتعامل فقط مع الوظائف التي يعرف عنها. في معظم الحالات ، وبالنسبة لمعظم المستخدمين ، لن يتم استخدام هذا ، لأنه أكثر من ميزة متقدمة / تجريبية.
+
+تُرجع بعض الدالات __type_qword__ ، بعضها - __type_double__ (نادراً ما تستخدم).
+
+يجب أن تكون قيم __type_double__ في النطاق من 0 إلى 1. ومع ذلك ، يمكنك تحديد أي قيم هناك ، لأن __app_name__ سوف يصحح جميع المتغيرات غير الصحيحة تلقائيًا.
+
+يمكنك أيضًا تحديد خطوة زيادة. في هذه الحالة ، ستزداد كل نتيجة لاحقة بهذه القيمة. على سبيل المثال ، بالنسبة للزيادة 1 والقيمة الأولية 0 ، بدلاً من قيمة عشوائية ، سيتم إرجاع 0 ، 1 ، 2 ، 3 ، ....
+يمكن أن يكون هذا الخيار مفيدًا للبحث الكامل عن جميع النتائج العشوائية الممكنة.
+
+يمكنك تحديد الوظائف التي يجب تعديلها في إعدادات __app_name__."</string>
+    <string name="count_replace">كم عدد النتائج الأولى ليحل محل؟</string>
+    <string name="unrandomizer_loading">جارٍ التحميل unrandomizer ...</string>
+    <string name="unrandomizer_loaded">يتم تحميل Unrandomizer.</string>
+    <string name="warn_restart_off_prot">"سيحاول هذا الخيار إعادة تشغيل اللعبة دون حماية.
+ومع ذلك ، تحتوي العديد من البرامج الثابتة على أخطاء قد تؤدي إلى إعادة تشغيل الجهاز.
+في حالة حدوث ذلك ، لا تحاول بدء اللعبة مرة أخرى ، حيث سيؤدي ذلك إلى إعادة تشغيل الجهاز مرة أخرى.
+فقط قم بتشغيل __app_name__ - سيؤدي ذلك إلى مسح الإعدادات السيئة.
+كما يمكنك محاولة إعادة تشغيل الجهاز بطريقة منتظمة ، وهذا أيضًا يجب أن يحل المشكلة.
+
+إذا حدث إعادة التشغيل - لا تستخدم هذه الوظيفة ، فلن تعمل على البرامج الثابتة الخاصة بك."</string>
+    <string name="warn_patch_off_prot">"سيحاول هذا الخيار تصحيح النظام (مؤقتًا) بحيث تعمل جميع التطبيقات دون حماية.
+سيتم تطبيق التغييرات فقط على التطبيقات الجديدة. لذلك ، يحتاج التطبيق المستهدف ، بعد تصحيح ناجح ، إلى إعادة التشغيل.
+لإلغاء التصحيح ، فقط أعد تشغيل الجهاز.
+ربما سيكون هناك العديد من الأخطاء في النظام ، بعد هذا التصحيح.
+
+في حالة نجاح التصحيح ، لا يوصى بتشغيل هذه الوظيفة مرة أخرى ، قبل إعادة تشغيل الجهاز.
+
+إذا كان لديك مشاكل ، لا تستخدم هذه الوظيفة."</string>
+    <string name="clear_history">محو سجل المدخلات</string>
+    <string name="clear_history_warn">سيتم حذف جميع الإدخالات ، بما في ذلك التثبيت.</string>
+    <string name="click_edit">انقر هنا للتحرير</string>
+    <string name="ignore_unknown_chars">تجاهل أحرف غير معروفة:</string>
+    <string name="need_root_mode">هذه الميزة تتطلب الوصول إلى الروت. يعمل __app_name__ حاليًا في وضع بيئة افتراضية دون الوصول إلى الروت.</string>
+    <string name="work_without_root_title">العمل دون الروت</string>
+    <string name="work_without_root">"__app_name__ يمكن أن يعمل بدون روت ، من خلال بيئة افتراضية. على سبيل المثال ، من خلال __vspace_list__ والعديد غيرها.
+يجب تثبيت __app_name__ في بيئة افتراضية. يجب أيضًا تثبيت اللعبة هناك.
+لا يتم دعم جميع ميزات البرنامج ، ولكن يجب أن تعمل معظم الوظائف.
+
+لن تتمكن من كسر ألعاب غير مثبتة في بيئة افتراضية.
+
+يجب ألا يتم تنفيذ الإطلاق الأول لـ __app_name__ ، الذي يقوم بعملية إعادة تثبيت باسم حزمة عشوائية ، من خلال بيئة افتراضية.
+ثم يمكنك إضافة __app_name__ إلى البيئة الافتراضية واستخدامها."</string>
+    <string name="help_game_not_listed_title">لماذا لعبتي ليست في قائمة العمليات؟</string>
+    <string name="fractional_hint">"الجزء الكسري من الرقم الحقيقي \" x \" هو الجزء الزائد عن الجزء الصحيح لهذا الرقم. 
+بالنسبة لعدد فإن جزئه الكسري يتفق مع الأرقام التي تظهر بعد نقطة راديكس. 
+
+على سبيل المثال:"</string>
+    <string name="pointer">المؤشر:</string>
+    <string name="help_search_filter_title">مرشحات في البحث</string>
+    <string name="help_search_filter">"يمكنك تصفية نتائج البحث.
+يمكنك تحديد:
+- حدود العنوان ،
+- حدود القيمة ،
+- أنواع البيانات المطلوبة ،
+- الجزء الكسري المطلوب من الرقم ،
+- النوع المطلوب من المؤشر.
+يمكنك الجمع بين أي مرشحات مع بعضها البعض.
+يمكنك أيضًا تعطيل واحد أو أي من المرشحات في أي وقت.
+
+ومع ذلك ، إذا تم العثور على كمية كبيرة من البيانات ، يمكن للمرشحات إبطاء النتائج.
+
+يمكن أن يكون المرشح على الجزء الكسري من رقم إما عن طريق المساواة أو عدم المساواة.
+لأنواع عدد صحيح ، الجزء الكسري هو صفر. إذا كنت لا تحتاج إلى أنواع عدد صحيح ، فاستبعدها باستخدام مرشح كتابة.
+
+يسمح التصفية حسب نوع المؤشر بالخروج فقط في القيم التي يمكن أن تكون مؤشرًا لنوع الذاكرة المطلوب في الإخراج.
+تتوافق أنواع الذاكرة الممكنة مع الألوان الموجودة في محرر الذاكرة:
+يمكن أن تكون هذه ذاكرة قابلة للتنفيذ __executable__ ، أو __writable__ أو __read_only__. في حالات نادرة ، يمكن أن تكون ذاكرة __writable_and_executable__.
+
+يتوافق النوع الزائف \"لا يوجد مؤشر\" مع جميع أنواع البيانات التي لا يمكن أن تكون مؤشرات ، وأيضًا إلى قيم المؤشرات التي تشير إلى ذاكرة غير مخصصة."</string>
+    <string name="unmount_kill">"لم يتم تركيب بطاقة الذاكرة ، بينما قام __app_name__ بتخزين الملفات المؤقتة عليها. هذا أدى إلى الإغلاق القسري للخفي.
+
+لمنع حدوث ذلك ، حدد مسارًا مختلفًا للملفات المؤقتة. على سبيل المثال ، في الذاكرة الداخلية.
+يجب أن يكون هناك مساحة حرة كافية."</string>
+    <string name="calls">وضع ندائات النظام:</string>
+    <string name="alternative">البديل</string>
+    <string name="help_calls">"في بعض البرامج الثابتة ، على سبيل المثال Lenovo ، يمكن أن يعمل الوضع البديل بشكل أسرع.
+
+ عادة ، لا تحتاج إلى تغيير هذا الخيار."</string>
+    <string name="help_context_title">مساعدة السياق</string>
+    <string name="help_context">في الواجهة ، يتم تمييز بعض العناصر برمز خاص ، في أعلى اليمين ، مع الرمز __i__ في الدائرة. الضغط أو الضغط لفترة طويلة ، على هذا العنصر ، يظهر مساعدة في هذا العنصر.</string>
+    <string name="waitpid_mode">وضع __waitpid__:</string>
+    <string name="help_waitpid">"في بعض البرامج الثابتة ، لا يعمل استدعاء النظام __waitpid__ كما هو متوقع. هذا عادة بسبب إعدادات SeLinux غير صحيحة.
+هذا يؤدي إلى بحث لا نهاية له في __app_name__.
+يمكنك محاولة استخدام وضع بديل. ربما هذا سوف ينجح."</string>
+    <string name="microseconds_short">ميكرو ثانية</string>
+    <string name="small_is_bad">يمكن أن تتسبب القيم الصغيرة جدًا في حدوث حمل كبير على المعالج وتأخر في اللعبة.</string>
+    <string name="freeze_interval_help">الفاصل الزمني الذي من خلاله __app_name__ يستبدل القيم الموجودة في ذاكرة اللعبة.</string>
+    <string name="saved_list_update_interval_help">الفاصل الزمني الذي من خلاله __app_name__ يقوم بتحديث القيم في القائمة المحفوظة.</string>
+    <string name="icons_size_help">"حجم الرموز في واجهة __app_name__.
+لا ينطبق على أيقونة عائمة."</string>
+    <string name="ignore_unknown_chars_help">يمكن أن تساعد في حل المشاكل عند نسخ الأرقام من أماكن مختلفة ، إذا تم نسخ أحرف خاصة مع الأرقام.</string>
+    <string name="use_notification_help">"استخدام الإشعارات في منطقة الإعلام بنظام Android.
+في بعض البرامج الثابتة ، يزيد هذا من أولوية التطبيق ويمنعه من الإغلاق.
+كما يمكنك استخدام الإشعار للانتقال إلى __app_name__ أو اللعبة بالنقر فوقها.
+قد يكون ذلك مفيدًا إذا لم تتمكن من النقر على أيقونة عائمة."</string>
+    <string name="use_sound_effects_help">"يبدو النظام عند الضغط على الأزرار والعناصر.
+في بعض البرامج الثابتة ، تتسبب الأصوات في تعطل __app_name__."</string>
+    <string name="keyboard_help">تشغل لوحة المفاتيح الداخلية ذاكرة أقل وتحمل بشكل أسرع ويتم تحسينها لإدخال الأرقام.</string>
+    <string name="allow_suggestions_help">"تلميحات من لوحة مفاتيح خارجية.
+في بعض البرامج الثابتة ، تتسبب التلميحات في تعطل __app_name__."</string>
+    <string name="autopause_help">تلقائيا يضع اللعبة على وقفة عند فتح واجهة __app_name__.</string>
+    <string name="killed_by">تم إغلاق __app_name__ بالقوة \"__s__\" التطبيق. لتجنب هذا الأمر، حذف هذا التطبيق أو تكوينه بحيث لا ينهي __app_name__.</string>
+    <string name="killers_found">"قمت بتثبيت التطبيقات التي يمكن إغلاق __app_name__ بالقوة:
+__s__
+لتجنب ذلك ، احذفها أو قم بتكوينها حتى لا تنهي __app_name__.
+
+إذا لم تواجه أي مشاكل مع الإغلاق غير المتوقع لـ __app_name__ ، فلا يلزم اتخاذ أي إجراء ، ويمكنك تجاهل هذه الرسالة."</string>
+    <string name="record_logcat">__logcat__ سجل</string>
+    <string name="record_logcat_info">"سيتم إعادة تشغيل __app_name__ مع تسجيل __logcat__ في الملف:
+\"__s__\".
+
+لإنهاء التسجيل ، اخرج من __app_name__.
+بعد ذلك ، يمكنك إرسال ملف السجل إلى المكان الذي تحتاج إليه."</string>
+    <string name="need_uninstall">تحتاج إلى إلغاء تثبيت برنامج التثبيت ، وإلا سيكون لديك 4 أيقونات ، وليس 2. وستكتشف الألعاب أيضًا.</string>
+    <string name="need_random_name">"يستخدم __app_name__ اسم الحزمة القياسية. يمكن للألعاب الكشف عنها.
+
+لإصلاح ذلك - قم بتشغيل __app_name__ خارج المساحة الافتراضية كتطبيق عادي.
+بعد اكتمال التثبيت ، أضف نسخة من __app_name__ باسم عشوائي إلى الفضاء الافتراضي."</string>
+    <string name="work_mode">نظام العمل</string>
+    <string name="root">روت</string>
+    <string name="no_root">بدون روت</string>
+    <string name="how_no_root">"تحتاج إلى تثبيت تطبيق الفضاء الافتراضي. مثل: __vspace_list__.
+
+يوصى بتثبيت الإصدارات المحسّنة من موقع __app_name__ الرسمي.
+
+ثم يجب عليك إضافة __app_name__ ولعبتك إلى هذا الفضاء الافتراضي.
+
+بعد ذلك يجب تشغيل اللعبة و __app_name__ في الفضاء الافتراضي."</string>
+    <string name="eperm_error_descr_0">أسباب محتملة:</string>
+    <string name="eperm_error_descr_1">الحماية في اللعبة.</string>
+    <string name="eperm_error_descr_2">يتم توصيل المصحح أو تكسير آخر لعبة.</string>
+    <string name="eperm_error_descr_3">أذونات غير كافية. بسبب عادة إلى تكوينها بشكل غير صحيح __selinux__. تعطيل أو تكوين __selinux__.</string>
+    <string name="eperm_error_descr_4">نواة سيئة أو البرامج الثابتة. محاولة الثابتة آخر أو أي جهاز آخر.</string>
+    <string name="eperm_error_descr_5">على البرامج الثابتة الخاص بك، لا يعمل وضع \"لا روت\". محاولة الثابتة آخر أو أي جهاز آخر أو الحصول على الروت.</string>
+    <string name="ptrace_bypass_mode">وضع الالتفافية لحماية ptrace:</string>
+    <string name="mode_restore">استعادة</string>
+    <string name="mode_nothing">لا شئ</string>
+    <string name="mode_freeze">تجميد</string>
+    <string name="ptrace_bypass_mode_help">"يشير إلى ما يجب فعله بعد تعطيل اتصال الحماية:
+__mode_restore__ - استعادة الاتصال
+__mode_nothing__ - لا تفعل شيئًا (عادةً ما تقوم الحماية نفسها باستعادة الاتصال)
+__mode_freeze__ - تجميد الخيط (كما في الإصدارات السابقة)
+
+إذا قمت باستعادة الحماية ، أو سمحت للحماية بالقيام بذلك بنفسك ، فقد يتسبب تجميد القيم في __app_name__ في حدوث تأخر بسبب الاتصال الدائم / تعطيل الحماية."</string>
+    <string name="slow_emulator">"أنت تستخدم المحاكي \"__s__\". إنه بطيء ويحتوي على أخطاء. لهذا السبب ، يمكن أن يكون البحث بطيئًا جدًا.
+      
+نوصي باستخدام برامج محاكاة أخرى:"</string>
+    <string name="text">نص</string>
+    <string name="show_debug_info">عرض معلومات تصحيح الأخطاء</string>
+    <string name="mnt_expand">"__app_name__ مثبت على بطاقة ذاكرة تُستخدم كـ \"تخزين داخلي\".
+هذا يمكن أن تتداخل مع تشغيل المساحات الافتراضية.
+إذا حدث هذا ، فقم بتثبيت __app_name__ في الذاكرة الداخلية للجهاز.
+قد تحتاج إلى إعادة تهيئة بطاقة الذاكرة باسم \"التخزين المحمول\"."</string>
+    <string name="help_game_not_listed_root">"يجب أن تكون اللعبة قيد التشغيل لتحديدها.
+
+إذا كانت اللعبة قيد التشغيل ، ولكن لا تزال غير مدرجة في القائمة ، فربما تكون لديك مشكلات في الروت أو البرامج الثابتة.
+حاول روت آخر أو البرامج الثابتة الأخرى."</string>
+    <string name="help_game_not_listed_noroot">"يجب إطلاق اللعبة في الفضاء الافتراضي حتى يمكن اختيارها.
+
+لا يمكنك اختيار لعبة إذا لم تكن تعمل في الفضاء الافتراضي.
+
+إذا كانت اللعبة تعمل في مساحة افتراضية ، ولكن لا تزال غير مدرجة في القائمة ، فجرب مساحة افتراضية أخرى أو برنامج ثابت آخر أو جهاز آخر أو احصل على الروت."</string>
+    <string name="daemon_killed_oom">"تم ايقاف البرنامج من قبل النظام بسبب نقص الذاكرة.
+
+اضبط \"__data_in_ram__\" على \"__no__\".
+استخدم تسريع أجهزة الواجهة ، إن أمكن.
+لا تستخدم التطبيقات الكبيرة.
+تعطيل جميع التطبيقات الأخرى غير المستخدمة.
+حاول استخدام __app_name__ بعد إعادة تشغيل جهازك."</string>
+    <string name="selected_as_search_result">اختيار نتيجة البحث</string>
+    <string name="clear_results_prompt">سيؤدي ذلك إلى استبدال نتائج البحث الحالية. استمر؟</string>
+    <string name="position_in_memory_editor">موقف في محرر الذاكرة</string>
+    <string name="script_prompt_internet">"البرنامج النصي يريد الوصول إلى الإنترنت. إذا سمحت بالدخول ، فسيتمكن البرنامج النصي من سرقة معلومات تسجيل الدخول وكلمات المرور والحفظ والبيانات الأخرى من اللعبة. كما سيكون قادرًا على سرقة البرامج النصية الأخرى ، أو تنزيل الفيروسات على جهازك.
+      
+السماح للنص الوصول إلى الإنترنت؟"</string>
+    <string name="level">المستوى</string>
+    <string name="float_prompt">"لتشغيل __app_name__ بشكل صحيح على البرنامج الثابت الخاص بك ، تحتاج إلى السماح باستخدام نوافذ منبثقة في إعدادات النظام لـ __s__.
+
+لا يظهر الإطار المنبثق على هواتف Huawei افتراضيًا. ستحتاج إلى السماح __s__ بعرض النافذة المنبثقة. يرجى فتح مدير الهاتف ، ثم Dropzone Management والرجاء التأكد من تشغيله لـ __s__.
+
+لا يظهر الإطار المنبثق أيضًا على بعض هواتف Xiaomi. تحتاج إلى التوجه إلى الإعدادات -> التطبيقات المثبتة -> __s__ -> أذونات أخرى -> عرض النافذة المنبثقة.
+
+أيضًا ، قد يكون لدى الهواتف الأخرى إجراءات مختلفة للسماح للتطبيقات بعرض النوافذ المنبثقة. تتأثر جميع هذه التطبيقات عادةً بهذه الطريقة ، على سبيل المثال ، تطبيق مترجم Google مع وظيفة النقر للترجمة. لذلك ، يمكنك ببساطة google \"YOUR_PHONE اضغط للترجمة\" للعثور على الحل. على سبيل المثال ، بالنسبة لأجهزة Xiaomi Redmi ، يكون الحل كما يلي:"</string>
+    <string name="virtual_space">تطبيق الفضاء الافتراضي</string>
+    <string name="prevent_unload_help">"منع تفريغ __app_name__ من الذاكرة (إغلاق القوة).
+
+كل مستوى لاحق هو أقوى من المستوى السابق ويشمل ذلك في حد ذاته.
+
+المستوى الثالث يمكن أن يسبب مشاكل (تعليق الخبز المحمص ، إعادة التشغيل أو الأعطال) على بعض البرامج الثابتة ومحاكيات.
+
+بدون الروت فقط يعمل المستوى الثالث."</string>
+    <string name="integer_type">هذا النوع من البيانات هو فقط للقيم الأعداد ولا يدعم القيم كسور. استخدام __type_float__ أو __type_double__ للقيم كسور.</string>
+    <string name="without_float">كما يمكنك استخدام __app_name__ بلا نوافذ العائمة:</string>
+    <string name="any_value">اي قيمة</string>
+    <string name="help_group_search_any_value">يمكنك استخدام __any__ في البحث جماعة أمر جنبا إلى جنب مع الحد الأدنى لحجم لتحديد أي قيمة من هذا النوع في الموضع المطلوب.</string>
+    <string name="help_scripts_title">مخطوطات</string>
+    <string name="help_scripts">"* __help_scripts_title__:
+__app_name__ يدعم تنفيذ البرامج النصية المكتوبة بلغة Lua.
+
+في علامة التبويب \"بحث\" ، انقر فوق القائمة وحدد \"__execute_script__\".
+يمكنك هنا تحديد ملف البرنامج النصي للتنفيذ ، أو الاطلاع على أساليب API __app_name__ الحالية ، أو الانتقال إلى الموقع الرسمي لقراءة التعليمات على واجهة برمجة التطبيقات أو تنزيل البرامج النصية الجاهزة.
+أيضا ، يمكنك استخراج المساعدة من API على بطاقة الذاكرة لقراءتها دون الإنترنت.
+
+إذا كنت ترغب في كتابة البرنامج النصي الخاص بك ، فأنت بحاجة إلى محرر ملف نصي خارجي.
+__app_name__ لا يسمح بتحرير النصوص ، بل ينفذها فقط.
+
+قراءة مساعدة API لمزيد من التفاصيل."</string>
+    <string name="help_floating_icon_absent">إذا بعد النقر على زر \"__start__\" كنت لا ترى رمز العائمة:</string>
+    <string name="remove_all2">حذف الكل</string>
+    <string name="debug_load">تفريغ جميع الأحمال رمز</string>
+    <string name="debug_log">تسجيل معظم الاتصالات النصي</string>
+    <string name="vspace64">"قمت بتشغيل __app_name__ في مساحة افتراضية تدعم عمليات 64 بت.
+
+لن ترى __app_name__ عمليات 32 بت تعمل في هذا الفضاء.
+
+تثبيت النسخة الثانية من __app_name__ في وضع \"__for32__\" إذا كنت ترغب في العمل في __app_name__ مع عمليات 32 بت."</string>
+    <string name="folder_new">مجلد جديد</string>
+    <string name="folder_exists">هذا المجلد موجود مسبقا</string>
+    <string name="folder_file">هناك ملف بهذا الاسم</string>
+    <string name="folder_failed">فشل في إنشاء مجلد</string>
+    <string name="force_close">"كان إغلاق التطبيق السابق غير متوقع.
+
+يمكنك رفع مستوى التكوين \"__prevent_unload__\" لتجنب ذلك في المستقبل."</string>
+    <string name="help_force_close_title">اغلاق غير متوقع</string>
+    <string name="install_mode">وضع التثبيت</string>
+    <string name="for32">لا لإختراق الألعاب 32 بت في الفضاء الافتراضي 64 بت</string>
+    <string name="for64">لا لإختراق الألعاب 64 بت في الفضاء الافتراضي 64 بت</string>
+    <string name="reset_ignore">اعدة ضبط جميع تجاهل لجميع الحوارات</string>
+    <string name="allocate_fail">تعذر تخصيص صفحة الذاكرة. خطأ</string>
+    <string name="allocated">تخصيص صفحة الذاكرة:</string>
+    <string name="allocate_page">تخصيص صفحة الذاكرة</string>
+    <string name="prot_read">يمكن قرائة</string>
+    <string name="prot_write">قد تكون مكتوبة</string>
+    <string name="prot_exec">قد يتم تنفيذها</string>
+    <string name="install_finished">"تم التثبيت بنجاح.
+قم بتشغيل النسخة المثبتة يدويًا حتى تتمكن من ترحيل بياناتك.
+بعد ذلك ، يمكن إزالة المثبت."</string>
+    <string name="odd_vspace">__app_name__ أطلقت في الفضاء الافتراضي(للاستخدام بدون روت)؟</string>
+    <string name="record_script">السجل النصي</string>
+    <string name="record">السجل</string>
+    <string name="another_record">وسجل آخر قيد التشغيل. توقف عن ذلك؟</string>
+    <string name="record_ended">أكتمل التسجيل:</string>
+    <string name="stop">توقف</string>
+    <string name="could_not_use">لا يمكن استخدام:</string>
+    <string name="not_optimized2">"أنت تستخدم إصدارا غير محسن من المساحة الافتراضية (\"__s__\").
+لإصلاح هذا الخطأ ، أزل الإصدار غير الأمثل من \"__s__\" وقم بتثبيت أحد المسافات الافتراضية المحسّنة من الموقع الرسمي __app_name__.
+انقر فوق \"__fix_it__\" للانتقال إلى اختيار المساحات الافتراضية المحسنة."</string>
+    <string name="fix_path">قم بإخلاء مساحة أو تحديد مسار مختلف للملفات المؤقتة بالنقر فوق \"__fix_it__\".</string>
+    <string name="deep_read">قرائة عميقة:</string>
+    <string name="help_deep_read">"قراءة الذاكرة بكل الطرق المتاحة ، إذا تعذر قرائتها.
+قد تبطئ قرائت الذاكرة."</string>
+    <string name="ptrace_fail">فشل في تغيير الذاكرة من خلال تتبع.</string>
+    <string name="ptrace_fail_partially">بعض الميزات ، سرعة الاختراق وكل ما يتعلق به ، لن تعمل. الكتابة إلى ذاكرة للقراءة فقط (بما في ذلك الرمز) غير ممكنة.</string>
+    <string name="ptrace_fail_full">فإن الغالبية المطلقة من الميزات لا تعمل.</string>
+    <string name="ptrace_fail_solve">"السبب النموذجي هو نواة مكسورة في البرامج الثابتة.
+حاول تغيير البرامج الثابتة. إذا قمت بتحديثه مؤخرًا - فقم بتثبيت الإصدار السابق.
+
+إذا لم ينجح ذلك ، فقم بتغيير الجهاز."</string>
+    <string name="feature_hide_4">هذه الميزة لا تعمل إذا تم تحديد العنصر الرابع في \"__hide_from_game__\".</string>
+    <string name="feature_firmware">هذه الميزة لا يمكن أن تعمل بدون تتبع ، الذي لا يعمل على هذا البرنامج الثابت.</string>
+    <string name="feature_protection">لا يمكن لهذه الميزة أن تعمل بسبب الحماية في اللعبة.</string>
+    <string name="not_file">المسار ليس ملف:</string>
+    <string name="not_execute">غير قادر على تنفيذ:</string>
+    <string name="check_install">تأكد من أن يتم تثبيت __app_name__ بشكل صحيح.</string>
+    <string name="sdcard_install">إذا تم تثبيت __app_name__ على تخزين خارجي (بطاقة SD)، والعودة الى الذاكرة الداخلية</string>
+    <string name="change_address_type">تغيير عنوان / نوع</string>
+    <string name="bad_offset">الإزاحة ليس من مضاعفات الرقم __d__.</string>
+    <string name="bad_result_address">عنوان الناتج هو ليس من مضاعفات الرقم __d__.</string>
+    <string name="correct_types">__d__ستغير العناصر نوعها لتصحيح المحاذاة المستحيلة.</string>
+    <string name="reinstall_fail">"غير قادر على إعادة تثبيت __app_name__ باسم عشوائي.
+
+__app_name__ يمكن اكتشافها بسهولة عن طريق الألعاب.
+
+يمكنك تسجيل __logcat__ ، أثناء التثبيت ، والاتصال بالمنتدى الرسمي للحصول على المساعدة.
+
+سبب الرفض:"</string>
+    <string name="empty_field">حقل إدخال فارغة: لا عدد لتحويل</string>
+    <string name="need_integer">يجب تحديد العدد الصحيح لتحويل.</string>
+    <string name="maps_failed">لا يمكن فتح ملف \"__maps__\".</string>
+    <string name="game_protected">اللعبة محمية.</string>
+    <string name="need_root">تحتاج الروت الإختراق هذه اللعبة.</string>
+    <string name="vspace_error">"مشكلة الفضاء الافتراضي أو البرامج الثابتة أو الجهاز.
+
+محاولة:
+- استخدم مساحة افتراضية أخرى
+- استخدم البرامج الثابتة الأخرى
+- الحصول على الروت
+- استخدام جهاز آخر"</string>
+    <string name="root_error">"مشكلة البرامج الثابتة أو الروت أو الجهاز.
+
+محاولة:
+- استخدم البرامج الثابتة الأخرى
+- استخدم روت آخر
+- استخدام جهاز آخر"</string>
+    <string name="vspace_root">استخدام الروت في الفضاء الافتراضي:</string>
+    <string name="help_vspace_root">"يمكن أن يساعد استخدام الروت من مساحة افتراضية في إخفاء حقيقة وجود __app_name__ على الجهاز.
+
+أنها لا تعمل على جميع البرامج الثابتة وليس على جميع المساحات الافتراضية.
+
+يجب أن تسمح المساحة الظاهرية والبرامج الثابتة والروت بالعمل مع الروت من الفضاء الافتراضي.
+يجب أن تسمح لك المساحة الافتراضية بتثبيت التطبيقات إلى الداخل دون تثبيتها في النظام.
+
+ليس كل المساحات الافتراضية يمكن أن توفر هذا.
+
+ليس على جميع البرامج الثابتة سوف يعمل هذا الوضع. وليس مع كل الروت.
+
+نظرًا لأنه سيتم منح حقوق الروت إلى كامل المساحة الافتراضية ، فلا يجب عليك تثبيت أي شيء آخر فيها. خلاف ذلك ، يمكن لأي تطبيق من الفضاء الافتراضي استخدام حقوق الروت مع عواقب غير متوقعة.
+
+يجب تثبيت اللعبة خارج الفضاء الافتراضي.
+
+يجب تثبيت __app_name__ داخل المساحة الافتراضية فقط ، دون تثبيته في النظام.
+كيفية القيام بذلك - راجع مساعدة مساحة افتراضية معينة.
+
+على سبيل المثال ، بالنسبة لـ __vexp__ ، يمكنك استنساخ __app_name__ من النظام في __vexp__ ، ثم حذف __app_name__ من النظام."</string>
+    <string name="help_games_protection_9">9. استخدام الروت في الفضاءات الافتراضية التي تسمح لتثبيت التطبيقات في نفسك دون تركيب في النظام.</string>
+    <string name="locale_ui">في لغتك</string>
+    <string name="locale_script">مخطوطات دائما استخدام اللغة الإنكليزية</string>
+    <string name="locale_desc">"__s__ '- فاصل عشري
+__s__ - الآلاف فاصل
+'__semicolon__' - فاصل الأرقام في البحث الجماعي"</string>
+    <string name="help_unaligned_title">البحث غير المنحاز/البحث الكبير</string>
+    <string name="help_unaligned">"في بعض التطبيقات ، (على سبيل المثال ، برامج محاكاة وحدة التحكم) ، قد لا تحترم القيمة في الذاكرة المحاذاة ، أو يتم تقديمها بترتيب بايت كبير.
+
+لا يمكن العثور على هذه القيمة من خلال البحث العادي.
+
+للعثور عليهم - استخدم نصًا خاصًا من موقع الويب الرسمي __app_name__:"</string>
+    <string name="help_formula_calculator_title">حاسبة الصيغة</string>
+    <string name="help_formula_calculator">"في كل حقل تقريبًا لإدخال الأرقام ، يمكنك إدخال صيغة رياضية ، بعد علامة المساواة ، على سبيل المثال ، في حقل البحث ، أدخل \"= 2 + 2 * 3\" ، وسيقوم البرنامج بالبحث عن نتيجة الصيغة ، هو ، '8'.
+الصيغة هي تعبير لوا. يمكنك استخدام كل القوة المتاحة لوا في ذلك.
+
+جميع العوامل الحسابية Lua 5.3 مقبولة - الجمع (+) ، الطرح (-) ، الضرب (*) ، القسمة (/) ، قسمة الباقي (٪) ، الأس ((^) ، القسمة الصحيحة (//) ، وهلم جرا.
+تتوفر أيضًا عوامل تشغيل بت - و(&amp;) ، او(|) ، حصري أو (ثنائي ~) ، لا(أحادي ~) ، إزاحة إلى اليمين (>>) ، إزاحة إلى اليسار (&lt;&lt;). يمكن إعطاء ترتيب العمل بين قوسين.
+اقرأ دليل Lua للحصول على قائمة كاملة بالعمليات المتاحة.
+
+يكون مفيدًا إذا كنت تعرف كيف يتم ترميز القيمة في اللعبة. على سبيل المثال ، يمكن العثور على 29 جولة في لعبة واحدة كـ \"= 29 ~ 444444\". هذا يعادل 29 XOR 444444. في عينة الفيديو ، تم العثور على السعر 3888 من خلال XOR مع 444444 ، مثل '= 444444 ~ 3888'. بعد ذلك ، تم إجراء الاستبدال على \"= 444444 ~ 1\" ، والذي حدد السعر إلى \"1\". في لعبة أخرى ، يشبه الذهب 125 '= 125 * 10'.
+
+ليست كل وظائف البرنامج النصي متوفرة في آلة حاسبة الصيغة. بعض الوظائف غير متوفرة. إذا لم يكن لديك ما يكفي منهم - اكتب البرنامج النصي الخاص بك ، بدلاً من استخدام صيغة حاسبة ، فهو مخصص فقط للحسابات البسيطة. المتاحة: جزء من الوظائف الأساسية ، \"32 بيت\" ، \"الجدول\" ، \"السلسلة\" ، \"الرياضيات\" ، جزء من الحزمة \"os\". \"التصحيح\" و \"package\" و \"gg\" و \"io\" غير متوفرة.
+
+عندما تكتب '= 2 + 2 * 3' ، ستتم إضافة الكلمة الرئيسية 'إرجاع' قبل الصيغة: 'إرجاع 2 + 2 * 3'. ومع ذلك ، يمكنك تحديد هذه الكلمة بنفسك في صيغة ما إذا كنت بحاجة إلى صيغة معقدة.
+على سبيل المثال ، '= a = 5؛ ب = 7 ؛ إرجاع * 4 + b * 8 'سيتم تنفيذه كـ' a = 5؛ ب = 7 ؛ إرجاع * 4 + ب * 8 '
+
+نتيجة حاسبة الصيغة هي سلسلة نصية. يمكن أن تكون السلسلة أي سلسلة صالحة لحقل الإدخال هذا.
+على سبيل المثال ، قد تكون سلسلة بحث مجموعة أو بحث نطاق. '= أ = 5 ؛ ب = 7 ؛ إرجاع .. \"؛\" .. b .. \":: 100\" 'تعادل' 5؛ 7 :: 100 '.
+
+لا تعمل حاسبة الصيغة في البرامج النصية ، حيث يمكنك استخدام Lua مباشرةً.
+عند كتابة برنامج نصي ، سيتم كتابة نتيجة حساب الصيغة إلى الملف ، وليس الصيغة نفسها.
+
+إذا كانت الصيغة غير صحيحة ، فستتلقى رسالة خطأ عند إرسال النموذج.
+
+عند الحساب ، يجب أن تأخذ في الاعتبار حقيقة أن العمليات الحسابية تتم في النوع الذي يحدده المعامل الأول. إذا كان عددًا صحيحًا ، فستكون النتيجة عددًا صحيحًا.
+على سبيل المثال ، '= 3/2' هي '1' ، و '= 3.0 / 2' هي '1.5'.
+
+بغض النظر عن الإعدادات المحلية المختارة ، تعمل الصيغ في اللغة الإنجليزية. هذا يعني أن الفاصل العشري هو دائمًا نقطة ('.')."</string>
+    <string name="help_faq_32_b">"اثنين من الرموز الإطلاق. الأول ، مع تسريع البرنامج - \"__app_short_name_sw__\" ، والثاني ، مع تسريع الأجهزة - \"__app_short_name_hw__\". الآن سيكون دائما كذلك.
+في بعض البرامج الدائمة يعمل إصدار واحد فقط ، على كلاهما عادي.
+من الأفضل استخدام تسريع البرنامج ، فهو يعمل بشكل أقل سلاسة ، ولكنه يستهلك ذاكرة أقل.
+
+يمكنك إخفاء أحد الرموز في إعدادات التطبيق: \"__hide_icons__\"."</string>
+    <string name="acceleration_help_">"تسريع واجهة الجهاز أو البرنامج __app_name__.
+اعتمادًا على اللعبة والبرامج الثابتة ، يمكن أن تتسبب بعض الخيارات في حدوث مشكلات.
+إذا كان كلاهما يعمل ، استخدم تسريع البرنامج لأنه يستهلك ذاكرة أقل.
+
+هذا الخيار منفصل عن أيقونات التشغيل ولا يؤثر إلا على عرض واجهة __app_name__.
+رموز التشغيل هي المسؤولة عن نوع تسريع شاشة البداية.
+
+يستهلك تسريع الجهاز ذاكرة أكثر بكثير ، لكنه يعمل بسلاسة أكبر. إذا كان لديك ذاكرة RAM قليلة ، فاستخدم دائمًا تسريع البرنامج.
+
+إذا تسبب تسريع الأجهزة في حدوث أخطاء ، يمكن لـ __app_name__ التبديل إلى تسريع البرنامج."</string>
+    <string name="small_list_items">عناصر القائمة الصغيرة</string>
+    <string name="small_list_items_help">يسمح لك لعرض المزيد من المعلومات في القوائم البند، ولكن يمكن أن يكون أكثر صعوبة في الضغط على العنصر المطلوب.</string>
+    <string name="format_asm_opcodes">__s__ أكواد العمليات</string>
+    <string name="no_regions">لا توجد مناطق مطابقة.</string>
+    <string name="cannot_hide_launcher_icon">"هذا الأيقونة مستخدم إلى التشغيل الحالي. 
+
+لا يمكنك إخفاء الأيقونة المستخدمة في الإطلاق الحالي. 
+
+أعد تشغيل التطبيق من خلال أيقونة أخرى لتكون قادرة على إخفاء هذه الأيقونة."</string>
+    <string name="screenshot">أخذ صورة للشاشة</string>
+    <string name="screenshot_prompt">"سيتم إخفاء الأيقونة لمدة__d__  ثانية حتى تتمكن من أخذ لقطة لشاشة. 
+
+بعد ذلك ، ستكون الأيقونة مرئية مرة أخرى."</string>
+    <string name="screenshot_action">تصوير الشاشة</string>
+    <string name="use_visible_type">"استخدم نوع البيانات  المرئي في محرر الذاكرة :  "</string>
+    <string name="use_visible_type_help">لم لا تسأل عن و البيانات نوع في و ذاكرة محرر إذا فقط واحد البيانات نوع و عرضها.</string>
+    <string name="wrong_float">في لغتك , يبدو الرقم في الذاكرة \"__s__\" مثل \"__s__\". لحل المشكلة غير اللغة الى العربية الجزائر (أو لغة) مختلفة تستعمل تنسيق ارقام انكليزي لتجنب المشاكل .</string>
+    <string name="wrong_float2">وأيضاً في اعدادات __app_name__ يمكنك تغير لغة الأرقام بدون تغيير اللغة .</string>
+    <string name="number_locale">تنسيق لغة الارقام :</string>
+    <string name="fill">املأ</string>
+    <string name="help_text_search">"للبحث عن نص ، يجب عليك تحديد المعدلات في مربع حوار البحث المعتاد.
+
+الترميزات الأكثر شيوعًا هي __utf8__ و __utf16le__.
+عادة ، يتم استخدام __utf16le__ في __java__ ، ويتم استخدام __utf8__ في __c__.
+
+__utf16le__ هو ترميز ثنائي البايت. يتم تشفير كل حرف دائمًا في وحدتي بايت ، لذلك يتم تمثيله عبر __type_word__.
+__utf8__ - الترميز مع حجم بايت متغير لكل حرف. يمثلها __type_byte__.
+يتم تمثيل __hex_input__ ومتغيراته دائمًا عبر __type_byte__.
+
+يمكن للعبة استخدام أي من الترميزات.
+إذا كنت بحاجة إلى مجموعة محددة من وحدات البايت - استخدم وضع __hex_input__.
+
+البادئات المتاحة:
+__text_prefixes__
+
+بالنسبة لوضع \"__hex_mixed__\" ، يمكنك تحديد النص __utf8__ بين الأحرف __apos__ والنص __utf16le__ بين الأحرف __quot__.
+
+فمثلا:
+__text_examples__
+
+يجب أن يكون حرف البادئة هو الحرف الأول في نص البحث.
+
+ستكون نتيجة البحث عبارة عن سلسلة __type_byte__ ، أو سلسلة __type_word__ ، لحالة __utf16le__.
+
+يمكن تغيير النتائج - حدد الكل وانقر فوق \"__edit_selected__\".
+
+في حقل القيمة ، أدخل القيمة الجديدة بنفس التنسيق الخاص بسلسلة البحث.
+
+يمكنك استخدام أزرار التعبئة. انقر فوق \"__more__\" إذا لم تكن مرئية.
+
+سيتم تعيين القيمة لكل مجموعة من العناصر التالية باستمرار.
+إذا كانت هناك فجوة بين العناصر ، فستكون مجموعة جديدة.
+
+إذا حددت بايتًا أكثر من اللازم ، فسيتم استخدام جزء منها فقط.
+إذا حددت أقل من اللازم ، فسيتم ملء باقي المجموعة ببايت صفر.
+
+عند استبدال النص ، حاول تحديد نص بنفس عدد البايتات مثل النص الأصلي لتجنب المشكلات.
+"</string>
+    <string name="fast_freeze">تجميد سريع:</string>
+    <string name="help_fast_freeze">"يعمل بشكل أسرع بكثير من التجميد العادي ، ولكن ليس لجميع الذاكرة.
+
+إذا لم يعمل التجميد ، فقم بتعطيل هذا الخيار."</string>
+    <string name="debug_disassemble">فك</string>
+    <string name="assembled">تم التجميع بنجاح للملف:</string>
+    <string name="warn_patch_off_prot2">"إذا كنت تستخدم __magisk_hide__ - عطله قبل تطبيق التصحيح (الباتش). بعد تطبيق التصحيح (الباتش) بنجاح، يمكنك تشغيله مرة أخرى. إذا لم تقم بذلك،
+ فإن التصحيح (الباتش) لا يكون ناجحا."</string>
+    <string name="help_games_protection_end">"كيفية إخفاء __app_name__ من اللعبة في الفضاء الافتراضي
+
+  1. قم بتثبيت المساحة الافتراضية ، والتي تتيح التثبيت الخفي للتطبيقات ، دون تثبيتها في النظام. على سبيل المثال ، __vspace_hide__.
+  2. تثبيت __app_name__ في الفضاء الافتراضي.
+  3. في __app_name__ ، قم بتشغيل وضع \"__vspace_root__\".
+  4. منح حقوق الروت إلى الفضاء الافتراضي. إذا لم تتمكن من منح حقوق الروت - جرّب مساحة افتراضية أخرى أو حقوق الروت الأخرى أو برامج ثابتة مختلفة أو غير الجهاز.
+  5. قم بإزالة __app_name__ من النظام.
+  6. العمل مع __app_name__ من الفضاء الافتراضي.
+
+لتجنب الاكتشاف أثناء البحث:
+  حدد العناصر 2 و 3 و 4 في إعداد \"__hide_from_game__\".
+
+حل نموذجي (يتطلب الجذر ، بدون الجذر لن تنجح):
+  1. استخدام الروت من الفضاء الافتراضي. اقرأ التعليمات الخاصة بالإعداد \"__vspace_root__\".
+  2. استخدم العناصر 2 و 3 و 4 في إعداد \"__hide_from_game__\".
+"</string>
+    <string name="force_close_2">يمكنك ضبط \"__data_in_ram__\" إلى\"__no__\" لتجنب ذلك في المستقبل.</string>
+    <string name="script_wrote">كتب السيناريو __s__ إلى __d__ الملفات.</string>
+    <string name="script_exit">خروج</string>
+    <string name="script_interrupted">السيناريو توقف.</string>
+    <string name="script_error">خطأ نصي</string>
+    <string name="script_oom">خارج الذاكرة</string>
+    <string name="script_possible">يبدو أنك تحاول تنفيذ __s__ كبرنامج نصي.</string>
+    <string name="script_web">صفحة على شبكة الإنترنت</string>
+    <string name="script_saved_list">قائمة المحفوظات</string>
+    <string name="speedhack_no_x86">ولكن في هذه اللعبة ليست المكتبات إلى x86، لذلك ربما لن تعمل.</string>
+    <string name="help_faq_33_q">تظل الرسائل النصية (toasts) على الشاشة، أو دائرة الظلام مرئيا في الجزء السفلي من الشاشة عند __app_name__ يعمل. كيف تصلحها؟</string>
+    <string name="help_faq_33_a">باستخدام المستوى الثالث \"__prevent_unload__\" على بعض البرامج الثابتة يؤدي إلى حقيقة أن الرسائل النصية (toasts) لا تزال على الشاشة، أو دائرة مظلمة هو مرئية (رسالة فارغة). إذا حدث هذا، لا تستخدم المستوى الثالث.</string>
+    <string name="invalid_header_1">صالح ثنائي رأس النصي.</string>
+    <string name="unknown_version">إصدار غير معروف.</string>
+    <string name="unknown_format">شكل غير معروف.</string>
+    <string name="unknown_endianness">إنديان(endianness) مجهول.</string>
+    <string name="unknown_size_s">حجم غير معروف من __s__.</string>
+    <string name="unknown_size_instr">حجم غير معروف من التعليمات.</string>
+    <string name="unknown_size_num">حجم غير معروف من عدد لوا (Lua).</string>
+    <string name="expected_found">يتوقع __s__ ولكن وجدت __s__.</string>
+    <string name="or">أو</string>
+    <string name="invalid_header_2">تشغيل البرنامج النصي على أية حال؟</string>
+    <string name="invalid_header_3">"في الإصدارات المستقبلية من __app_name__، لا يمكن تشغيل هذا البرنامج النصي. 
+الكتابة عن هذا لمؤلف السيناريو."</string>
+    <string name="skip_system_libs">تخطي نظام المكتبات</string>
+    <string name="try_reinstall_x86">"حاول أعادة تثبيت اللعبة مع المكتبات x86 ؟
+
+قد تتوقف اللعبة عن العمل بعد ذلك. إذا حدث هذا, أعادة تثبيت اللعبة من apk الموجود في __data_app__."</string>
+    <string name="reinstall_started">تمت أعادة التثبيت...</string>
+    <string name="reinstall_failed">فشل التثبيت:</string>
+    <string name="reinstall_ended">اكتملت عملية أعادة التثبيت.</string>
+    <string name="help_lasm_title">تفكيك / تجميع مخطوطات</string>
+    <string name="help_lasm">"__app_name__ لديه المدمج في المجمع/المجمع للبرامج النصية لوا.
+
+يمكنك تحديد الخيار \"__debug_disassemble__\" في اطار تشغيل البرنامج النصي ، بعد النقر فوق الزر \"__more__\".
+
+يمكن تحرير ملف ال__ext_lasm__ الناتج وتحديده في اطار تشغيل البرنامج النصي. ستكون النتيجة ملف __ext_lua__ ثنائي مع التغييرات التي تم اجراؤها.
+
+قراءه تعليمات API البرنامج النصي للحصول علي مزيد من التفاصيل.
+"</string>
+    <string name="help_hide_gg_title">كيفية إخفاء __app_name__ من اللعبة</string>
+    <string name="changed_as_search_result">تغيرت نتيجة البحث</string>
+    <string name="changed_not_found">البنود التي تم تغييرها غير موجودة.</string>
+    <string name="too_far">لا يمكن العثور على هذه القيم من خلال البحث في المجموعة، فهي متباعدة جداً: __d__ بايت. المسافة القصوى هي __d__ بايت.</string>
+    <string name="new_address">العنوان الجديد:</string>
+    <string name="hide_1_warn">يمكنك تحديد العنصر الأول. قيم تجميد يمكن أن يسبب تباطؤ شديدة في اللعبة.</string>
+    <string name="hide_4_warn">لقد حددت العنصر الرابع. لن تعمل بعض الميزات: __speedhack__ __unrandomizer__ __allocate_page__.</string>
+    <string name="asm_failed">فشل التعرف على كود التشغيل __s__:</string>
+    <string name="asm_suggestion">هل تقصد: __s__؟</string>
+    <string name="copy_opcode">نسخ كود التشغيل __s__:</string>
+    <string name="search_nearby">ابحث في مكان قريب</string>
+    <string name="before">قبل</string>
+    <string name="after">بعد</string>
+    <string name="distance">مسافة:</string>
+    <string name="nearby">قريب:</string>
+    <string name="need_fixer">"تم الكشف عن مشكلة في هذا الفضاء الافتراضي 64 بت.
+
+لإصلاحه:
+
+1. تثبيت تطبيق __fixer__. (من هذا الحوار، إما يدوياً على طول المسار: 
+__s__
+).
+
+2. إضافة __fixer__ إلى الفضاء الافتراضي.
+
+3. تشغيل __fixer__ في الفضاء الافتراضي.
+
+4. إزالة __fixer__.
+
+5. إعادة تشغيل __app_name__ في الفضاء الافتراضي."</string>
+    <string name="limit">نتائج الأولى فقط:</string>
+</resources>

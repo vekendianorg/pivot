@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.fix.ScrollView
+    android:paddingLeft="6.0dip"
+    android:paddingRight="6.0dip"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.fix.LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <android.fix.TextView
+            android:textAppearance="@style/SmallText"
+            android:layout_gravity="center_vertical"
+            android:id="@id/message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/unrandomizer" />
+        <View
+            android:background="@color/modern_divider"
+            android:layout_width="fill_parent"
+            android:layout_height="1.0dip" />
+        <android.fix.LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <android.fix.CheckBox
+                android:textAppearance="@style/SmallText"
+                android:layout_gravity="center_vertical"
+                android:id="@id/rd_qword_use"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/type_qword_" />
+            <android.ext.EditText
+                android:layout_gravity="center_vertical"
+                android:id="@id/rd_qword"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="0"
+                android:layout_weight="1.0"
+                android:imeOptions="actionNext" />
+        </android.fix.LinearLayout>
+        <android.fix.LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <android.fix.CheckBox
+                android:textAppearance="@style/SmallText"
+                android:layout_gravity="center_vertical"
+                android:id="@id/rd_qword_inc_use"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/increments" />
+            <android.ext.EditText
+                android:layout_gravity="center_vertical"
+                android:id="@id/rd_qword_inc"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="1"
+                android:layout_weight="1.0"
+                android:imeOptions="actionNext" />
+        </android.fix.LinearLayout>
+        <View
+            android:background="@color/modern_divider"
+            android:layout_width="fill_parent"
+            android:layout_height="1.0dip" />
+        <android.fix.LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <android.fix.CheckBox
+                android:textAppearance="@style/SmallText"
+                android:layout_gravity="center_vertical"
+                android:id="@id/rd_double_use"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/type_double_" />
+            <android.ext.EditText
+                android:layout_gravity="center_vertical"
+                android:id="@id/rd_double"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="0"
+                android:layout_weight="1.0"
+                android:imeOptions="actionNext" />
+        </android.fix.LinearLayout>
+        <android.fix.LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <android.fix.CheckBox
+                android:textAppearance="@style/SmallText"
+                android:layout_gravity="center_vertical"
+                android:id="@id/rd_double_inc_use"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/increments" />
+            <android.ext.EditText
+                android:layout_gravity="center_vertical"
+                android:id="@id/rd_double_inc"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="0.01"
+                android:layout_weight="1.0"
+                android:imeOptions="actionNext" />
+        </android.fix.LinearLayout>
+    </android.fix.LinearLayout>
+</android.fix.ScrollView>

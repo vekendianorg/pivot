@@ -1,0 +1,35 @@
+{
+  "apkFileName": "pivot.apk",
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": null
+  },
+  "doNotCompress": [
+    "resources.arsc",
+    "png",
+    "jpg"
+  ],
+  "compressionType": false,
+  "sparseResources": true,
+  "version": "2.4.0-260728",
+  "sharedLibrary": false,
+  "VersionInfo": {
+    "versionName": "1.5",
+    "versionCode": "260616"
+  },
+  "UsesFramework": {
+    "ids": [1],
+    "tag": null
+  },
+  "unknownFiles": {
+    "res/raw/ydw3a": "8",
+    "res/raw/ydw3x": "8"
+  },
+  "apkFilePath": "./pivot.apk",
+  "compactEntries": false,
+  "isFrameworkApk": false,
+  "sdkInfo": {
+    "minSdkVersion": "11",
+    "targetSdkVersion": "30"
+  }
+}

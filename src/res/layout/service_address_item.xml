@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.fix.LinearLayout
+    android:descendantFocusability="blocksDescendants"
+    android:background="@drawable/bg_modern_menu_row"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="@dimen/list_item_height"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.fix.CheckBox
+        android:layout_gravity="center|left"
+        android:id="@id/ch"
+        android:paddingRight="16.0dip"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:layout_width="@dimen/checkbox_item_width"
+        android:layout_height="48.0dip"
+        android:layout_weight="0.0" />
+    <android.fix.WrapLayout
+        android:layout_gravity="center|left"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0">
+        <android.fix.TextView
+            android:textAppearance="@style/SmallText"
+            android:textColor="@color/address"
+            android:layout_gravity="center|left"
+            android:id="@id/address"
+            android:paddingRight="16.0dip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="A9CC4040\nA9CC4040" />
+        <android.fix.TextView
+            android:textAppearance="@style/SmallText"
+            android:layout_gravity="center"
+            android:id="@id/value_hex"
+            android:paddingLeft="3.0dip"
+            android:paddingRight="3.0dip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ABCDABCDABCDABCDh;" />
+        <android.fix.TextView
+            android:textAppearance="@style/SmallText"
+            android:layout_gravity="center"
+            android:id="@id/value_rhex"
+            android:paddingLeft="3.0dip"
+            android:paddingRight="3.0dip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ABCDABCDABCDABCDr;" />
+        <android.fix.TextView
+            android:textAppearance="@style/SmallText"
+            android:layout_gravity="center"
+            android:id="@id/value_string"
+            android:paddingLeft="3.0dip"
+            android:paddingRight="3.0dip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="'HACKfailSKIPpass';" />
+        <android.fix.TextView
+            android:textAppearance="@style/SmallText"
+            android:layout_gravity="center"
+            android:id="@id/value_java"
+            android:paddingLeft="3.0dip"
+            android:paddingRight="3.0dip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="'HACKfailSKIPpass';" />
+        <android.fix.TextView
+            android:textAppearance="@style/SmallText"
+            android:textColor="@color/region_code"
+            android:layout_gravity="center"
+            android:id="@id/value_arm"
+            android:paddingLeft="3.0dip"
+            android:paddingRight="3.0dip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MOV PC, LR;" />
+        <android.fix.TextView
+            android:textAppearance="@style/SmallText"
+            android:textColor="@color/region_system_code"
+            android:layout_gravity="center"
+            android:id="@id/value_thumb"
+            android:paddingLeft="3.0dip"
+            android:paddingRight="3.0dip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MOV PC, LR;" />
+        <android.fix.TextView
+            android:textAppearance="@style/SmallText"
+            android:textColor="@color/region_code"
+            android:layout_gravity="center"
+            android:id="@id/value_arm8"
+            android:paddingLeft="3.0dip"
+            android:paddingRight="3.0dip"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MOV PC, LR;" />
+        <android.fix.TextView
+            android:textAppearance="@style/SmallText"
+            android:layout_gravity="center"
+            android:id="@id/addr_item_value"
+            android:paddingLeft="3.0dip"
+            android:paddingRight="3.0dip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="4 567 993 892\n123 456 789" />
+    </android.fix.WrapLayout>
+    <android.fix.LinearLayout
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:id="@id/addr_item_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.0">
+        <android.fix.TextView
+            android:textAppearance="@style/SmallText"
+            android:gravity="right"
+            android:layout_gravity="center|right"
+            android:id="@id/addr_item_type"
+            android:paddingRight="6.0dip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="D" />
+        <android.fix.TextView
+            android:textAppearance="@style/SmallText"
+            android:gravity="right"
+            android:layout_gravity="center|right"
+            android:id="@id/addr_item_region"
+            android:paddingRight="6.0dip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Jh" />
+    </android.fix.LinearLayout>
+    <android.fix.ImageButtonView
+        android:layout_gravity="center|right"
+        android:id="@id/addr_item_remove"
+        android:padding="12.0dip"
+        android:layout_width="48.0dip"
+        android:layout_height="48.0dip"
+        android:src="@drawable/ic_delete_white_24dp"
+        android:layout_weight="0.0" />
+</android.fix.LinearLayout>

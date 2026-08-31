@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard
+    android:keyWidth="@dimen/key_width"
+    android:keyHeight="@dimen/key_height"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <Row
+        android:rowEdgeFlags="top"
+        android:keyboardMode="@id/k_num">
+        <Key
+            android:keyEdgeFlags="left"
+            android:keyLabel="A" />
+        <Key
+            android:keyLabel="B" />
+        <Key
+            android:keyLabel="C" />
+        <Key
+            android:keyLabel="1" />
+        <Key
+            android:keyLabel="2" />
+        <Key
+            android:keyLabel="3" />
+        <Key
+            android:codes="5000"
+            android:keyEdgeFlags="right"
+            android:isRepeatable="true"
+            android:keyIcon="@drawable/ic_backspace_white_24dp" />
+    </Row>
+    <Row
+        android:keyboardMode="@id/k_num">
+        <Key
+            android:keyEdgeFlags="left"
+            android:keyLabel="D" />
+        <Key
+            android:keyLabel="E" />
+        <Key
+            android:keyLabel="F" />
+        <Key
+            android:keyLabel="4" />
+        <Key
+            android:keyLabel="5" />
+        <Key
+            android:keyLabel="6" />
+        <Key
+            android:codes="5001"
+            android:keyEdgeFlags="right"
+            android:isRepeatable="true"
+            android:keyIcon="@drawable/ic_backspace_rev_white_24dp" />
+    </Row>
+    <Row
+        android:keyboardMode="@id/k_num">
+        <Key
+            android:keyEdgeFlags="left"
+            android:keyLabel="h" />
+        <Key
+            android:keyLabel="W" />
+        <Key
+            android:keyLabel="X" />
+        <Key
+            android:keyLabel="7" />
+        <Key
+            android:keyLabel="8" />
+        <Key
+            android:keyLabel="9" />
+        <Key
+            android:keyEdgeFlags="right"
+            android:keyLabel=":" />
+    </Row>
+    <Row
+        android:keyboardMode="@id/k_num">
+        <Key
+            android:keyEdgeFlags="left"
+            android:keyLabel="r" />
+        <Key
+            android:codes="5008"
+            android:keyIcon="@drawable/ic_select_all_white_24dp" />
+        <Key
+            android:codes="5007"
+            android:keyIcon="@drawable/ic_history_white_24dp" />
+        <Key
+            android:keyLabel="0" />
+        <Key
+            android:codes="5002"
+            android:keyLabel="," />
+        <Key
+            android:codes="5003"
+            android:keyLabel="." />
+        <Key
+            android:keyEdgeFlags="right"
+            android:keyLabel=";" />
+    </Row>
+    <Row
+        android:rowEdgeFlags="bottom"
+        android:keyboardMode="@id/k_num">
+        <Key
+            android:keyEdgeFlags="left"
+            android:keyLabel="Q" />
+        <Key
+            android:keyLabel="~" />
+        <Key
+            android:codes="5010"
+            android:keyLabel="ƒx" />
+        <Key
+            android:keyLabel="-" />
+        <Key
+            android:codes="5004"
+            android:isRepeatable="true"
+            android:keyLabel="←" />
+        <Key
+            android:codes="5005"
+            android:isRepeatable="true"
+            android:keyLabel="→" />
+        <Key
+            android:codes="5009"
+            android:keyEdgeFlags="right"
+            android:keyIcon="@drawable/ic_unfold_less_horizontal_white_24dp" />
+    </Row>
+    <Row
+        android:rowEdgeFlags="top"
+        android:keyboardMode="@id/k_small">
+        <Key
+            android:keyEdgeFlags="left"
+            android:keyLabel="1" />
+        <Key
+            android:keyLabel="2" />
+        <Key
+            android:keyLabel="3" />
+        <Key
+            android:codes="5000"
+            android:keyEdgeFlags="right"
+            android:isRepeatable="true"
+            android:keyIcon="@drawable/ic_backspace_white_24dp" />
+    </Row>
+    <Row
+        android:keyboardMode="@id/k_small">
+        <Key
+            android:keyEdgeFlags="left"
+            android:keyLabel="4" />
+        <Key
+            android:keyLabel="5" />
+        <Key
+            android:keyLabel="6" />
+        <Key
+            android:codes="5008"
+            android:keyEdgeFlags="right"
+            android:keyIcon="@drawable/ic_select_all_white_24dp" />
+    </Row>
+    <Row
+        android:keyboardMode="@id/k_small">
+        <Key
+            android:keyEdgeFlags="left"
+            android:keyLabel="7" />
+        <Key
+            android:keyLabel="8" />
+        <Key
+            android:keyLabel="9" />
+        <Key
+            android:keyEdgeFlags="right"
+            android:keyLabel=":" />
+    </Row>
+    <Row
+        android:keyboardMode="@id/k_small">
+        <Key
+            android:keyEdgeFlags="left"
+            android:keyLabel="0" />
+        <Key
+            android:codes="5003"
+            android:keyLabel="." />
+        <Key
+            android:codes="5007"
+            android:keyIcon="@drawable/ic_history_white_24dp" />
+        <Key
+            android:keyEdgeFlags="right"
+            android:keyLabel=";" />
+    </Row>
+    <Row
+        android:rowEdgeFlags="bottom"
+        android:keyboardMode="@id/k_small">
+        <Key
+            android:keyEdgeFlags="left"
+            android:keyLabel="-" />
+        <Key
+            android:codes="5004"
+            android:isRepeatable="true"
+            android:keyLabel="←" />
+        <Key
+            android:codes="5005"
+            android:isRepeatable="true"
+            android:keyLabel="→" />
+        <Key
+            android:codes="5009"
+            android:keyEdgeFlags="right"
+            android:keyIcon="@drawable/ic_unfold_more_horizontal_white_24dp" />
+    </Row>
+    <Row
+        android:rowEdgeFlags="top"
+        android:keyboardMode="@id/k_fn">
+        <Key
+            android:keyEdgeFlags="left"
+            android:keyLabel="=" />
+        <Key
+            android:keyLabel="+" />
+        <Key
+            android:keyLabel="-" />
+        <Key
+            android:keyLabel="(" />
+        <Key
+            android:keyLabel=")" />
+        <Key
+            android:keyLabel="&amp;" />
+        <Key
+            android:codes="5000"
+            android:keyEdgeFlags="right"
+            android:isRepeatable="true"
+            android:keyIcon="@drawable/ic_backspace_white_24dp" />
+    </Row>
+    <Row
+        android:keyboardMode="@id/k_fn">
+        <Key
+            android:keyEdgeFlags="left"
+            android:keyLabel="." />
+        <Key
+            android:keyLabel="*" />
+        <Key
+            android:keyLabel="/" />
+        <Key
+            android:keyLabel="&lt;" />
+        <Key
+            android:keyLabel=">" />
+        <Key
+            android:keyLabel="|" />
+        <Key
+            android:codes="5001"
+            android:keyEdgeFlags="right"
+            android:isRepeatable="true"
+            android:keyIcon="@drawable/ic_backspace_rev_white_24dp" />
+    </Row>
+    <Row
+        android:keyboardMode="@id/k_fn">
+        <Key
+            android:keyEdgeFlags="left"
+            android:keyLabel="~" />
+        <Key
+            android:keyLabel="^" />
+        <Key
+            android:keyLabel="%" />
+        <Key
+            android:keyLabel=" " />
+        <Key
+            android:keyLabel="[" />
+        <Key
+            android:keyLabel="]" />
+        <Key
+            android:keyEdgeFlags="right"
+            android:keyLabel=":" />
+    </Row>
+    <Row
+        android:keyboardMode="@id/k_fn">
+        <Key
+            android:keyEdgeFlags="left"
+            android:keyLabel="\\" />
+        <Key
+            android:codes="5008"
+            android:keyIcon="@drawable/ic_select_all_white_24dp" />
+        <Key
+            android:codes="5007"
+            android:keyIcon="@drawable/ic_history_white_24dp" />
+        <Key
+            android:keyLabel="\#" />
+        <Key
+            android:keyLabel="{" />
+        <Key
+            android:keyLabel="}" />
+        <Key
+            android:keyEdgeFlags="right"
+            android:keyLabel=";" />
+    </Row>
+    <Row
+        android:rowEdgeFlags="bottom"
+        android:keyboardMode="@id/k_fn">
+        <Key
+            android:keyEdgeFlags="left"
+            android:keyLabel="'" />
+        <Key
+            android:keyLabel="&quot;" />
+        <Key
+            android:codes="5010"
+            android:keyLabel="123" />
+        <Key
+            android:keyLabel="," />
+        <Key
+            android:codes="5004"
+            android:isRepeatable="true"
+            android:keyLabel="←" />
+        <Key
+            android:codes="5005"
+            android:isRepeatable="true"
+            android:keyLabel="→" />
+        <Key
+            android:keyEdgeFlags="right"
+            android:keyLabel="x" />
+    </Row>
+    <Row
+        android:rowEdgeFlags="top"
+        android:keyboardMode="@id/k_ext">
+        <Key
+            android:keyEdgeFlags="left|right"
+            android:keyLabel="~" />
+    </Row>
+    <Row
+        android:keyboardMode="@id/k_ext">
+        <Key
+            android:codes="5004"
+            android:keyEdgeFlags="left|right"
+            android:isRepeatable="true"
+            android:keyLabel="←" />
+    </Row>
+    <Row
+        android:keyboardMode="@id/k_ext">
+        <Key
+            android:codes="5005"
+            android:keyEdgeFlags="left|right"
+            android:isRepeatable="true"
+            android:keyLabel="→" />
+    </Row>
+    <Row
+        android:keyboardMode="@id/k_ext">
+        <Key
+            android:codes="5008"
+            android:keyEdgeFlags="left|right"
+            android:keyIcon="@drawable/ic_select_all_white_24dp" />
+    </Row>
+    <Row
+        android:rowEdgeFlags="bottom"
+        android:keyboardMode="@id/k_ext">
+        <Key
+            android:codes="5007"
+            android:keyEdgeFlags="left|right"
+            android:keyIcon="@drawable/ic_history_white_24dp" />
+    </Row>
+</Keyboard>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.fix.ScrollView
+    android:paddingLeft="6.0dip"
+    android:paddingRight="6.0dip"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.fix.LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <android.fix.TextView
+            android:textAppearance="@style/MediumText"
+            android:layout_gravity="center_vertical"
+            android:id="@id/temp_file_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/path_for_temp_files" />
+        <android.fix.LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <android.ext.EditTextPath
+                android:layout_gravity="center_vertical"
+                android:id="@id/temp_file_path"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:hint="@string/sdcard"
+                android:maxLength="120"
+                android:layout_weight="1.0"
+                android:inputType="text"
+                android:imeOptions="actionDone" />
+            <android.ext.PathSelector
+                android:textSize="@dimen/button_text_size"
+                android:layout_gravity="center"
+                android:id="@id/path_selector"
+                android:layout_width="48.0dip"
+                android:layout_height="48.0dip"
+                android:textAllCaps="false" />
+        </android.fix.LinearLayout>
+        <android.fix.CheckBox
+            android:textAppearance="@style/SmallText"
+            android:id="@id/use_sh"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/use_sh" />
+        <android.fix.Button
+            android:textSize="@dimen/button_text_size"
+            android:id="@id/typical_values"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/typical_values"
+            android:textAllCaps="false" />
+    </android.fix.LinearLayout>
+</android.fix.ScrollView>

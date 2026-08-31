@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lang_code">~~~sk~~~</string>
+    <string name="front_text">Ak máte akékoľvek otázky týkajúce sa __app_name__ alebo jeho používania, prosím, navštívte naše fórum na __forum__</string>
+    <string name="set_path">Dočasná cesta</string>
+    <string name="number">číslo</string>
+    <string name="type">Typ:</string>
+    <string name="name">Názov:</string>
+    <string name="reset">Vyberte proces</string>
+    <string name="set_range">Vybrať rozsah pamäte</string>
+    <string name="search">Vyhľadanie</string>
+    <string name="save">Uložiť</string>
+    <string name="goto1">Ísť do</string>
+    <string name="address">Adresa</string>
+    <string name="edit_all">Upraviť všetko</string>
+    <string name="filter">Filter</string>
+    <string name="clear">Vyčistiť</string>
+    <string name="max_show_rec">Ukázať:</string>
+    <string name="equal">Nezmenený</string>
+    <string name="inequal">Zmenený</string>
+    <string name="larger">Zvýšený</string>
+    <string name="smaller">Znížený</string>
+    <string name="compare_current_last">Ako sa zmenila hodnota?</string>
+    <string name="write_region_log">Zapísať oblasť zápisu</string>
+    <string name="old_version">Stará verzia</string>
+    <string name="found_old_version">Našla sa stará verzia __app_name__.Chcete ju odinštalovať?</string>
+    <string name="yes">Áno</string>
+    <string name="no">Nie</string>
+    <string name="ok">OK</string>
+    <string name="failed_find_package_name">Nepodarilo sa nájsť meno balíčka aplikácie!</string>
+    <string name="path_for_temp_files">"Nastaviť umiestnenie pre dočasné súbory, napr. '__sdcard__'. Môže to vyžadovať niekoľko stoviek MB voľného miesta.Súčasné výsledky vyhľadávania budú stratené."</string>
+    <string name="confirm">Potvrdiť</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="found_new_version">Naša sa nová verzia __s__</string>
+    <string name="daemon_failed">Daemon zlyhal</string>
+    <string name="failed_run_daemon">Nepodarilo sa spustiť daemona. Je root nainštalovaný?</string>
+    <string name="daemon_unexpected_closed">Daemon sa neočákavane zatvoril. Informácie:</string>
+    <string name="daemon_exited">Deamon sa vypol</string>
+    <string name="failed_load_daemon">Zlyhalo načítavanie daemonu</string>
+    <string name="is_device_rooted">Nepodarilo sa získať root práva.</string>
+    <string name="collect_data_to_region_log">Začal sa zápis zberu dát do zápisu regiónu...</string>
+    <string name="log_saved">Zápis uložený do __s__</string>
+    <string name="failed_save">Nepodarilo sa uložiť do __s__</string>
+    <string name="region_log">Zápis oblasti</string>
+    <string name="apply">Použiť</string>
+    <string name="error">Chyba</string>
+    <string name="load">Načítať</string>
+    <string name="delete_prompt">Chcete vymazať túto položku?</string>
+    <string name="reset_search">CHYBA zistená. Reštartovať zoznam vyhľadávania.</string>
+    <string name="unknown_error">Neznáma chyba</string>
+    <string name="out_of_memory">Nedostatok pamäte</string>
+    <string name="bug_detected">Bug nájdený</string>
+    <string name="disk_full">Plný disk</string>
+    <string name="io_error">Chyba IO</string>
+    <string name="game_dead">Hra padla</string>
+    <string name="exit">Ukončiť</string>
+    <string name="skip">Ignorovať</string>
+    <string name="unhandled_exception">Neošetrená výnimka. Poslať nižšie uvedené informácie vývojárom?</string>
+    <string name="last_run_failed">Posledný pokus zlyhal</string>
+    <string name="thank_you">Ďakujem!</string>
+    <string name="no_application">Žiadna aplikácia nebola zvolená.</string>
+    <string name="increments">Nárast:</string>
+    <string name="add_not_replace">Pridať k hodnote, nie vymeniť</string>
+    <string name="eperm_error">Nepodarilo sa pripojiť k procesu (PTRACE_ATTACH): Operácia nie je povolená</string>
+    <string name="load_list">Načítať zoznam</string>
+    <string name="load_warning">Vložili ste zoznam, ktorý bol uložený z iného podnetu hry. S najväčšou pravdepodobnosťou všetky adresy v pamäti, sa zmenili a načítali sa dáta, ktoré nezodpovedajú údajom, ktoré boli predtým uložené. Odporúčame vám skontrolovať ich.</string>
+    <string name="from">Dokončené __d__ z __d__ stupňov</string>
+    <string name="count_fuzzy_equal_run">"Počet dob na rozbehnutie '__fuzzy_equal__':"</string>
+    <string name="slow">pomalý</string>
+    <string name="miui_restart">__app_name__ potrebuje reštartovať na účely aplikovania povolenia zabezpečenia.</string>
+    <string name="out_of_memory_error">Došlo k chybe pamäte. Aktuálny zoznam výsledkov bol vymazaný. Prosím nastavte menšiu hodnotu pre počet výsledkov na zobrazenie.</string>
+    <string name="loading">Načítavanie...</string>
+    <string name="found_count">Nájdených: __d__</string>
+    <string name="fuzzy_equal">"Hodnota nezmenená "</string>
+    <string name="fuzzy_inequal">Hodnota zmenená</string>
+    <string name="fuzzy_larger">Hodnota zvýšená</string>
+    <string name="fuzzy_smaller">Hodnota znížená</string>
+    <string name="type_edit_limit">Vstupná hodnota od __s__ do __s__</string>
+    <string name="number_name">číslo</string>
+    <string name="step_name">nárast</string>
+    <string name="number_less">"Číslo '__s__' je menšie ako minimálna hodnota (__d__) pre tento typ."</string>
+    <string name="number_greater">"Číslo '__s__' je väčšie ako maximálna hodnota (__d__) pre tento typ."</string>
+    <string name="about">o</string>
+    <string name="owner">majiteľ</string>
+    <string name="design">"hlavný návrhár "</string>
+    <string name="pm">projektový manažment</string>
+    <string name="code">hlavný programátor</string>
+    <string name="tech">technický poradca</string>
+    <string name="creator">tvorca (na odpočinku)</string>
+    <string name="for_translators">Ak chcete pomôcť s prekladom alebo urobiť preklad aplikácie, môžete nás kontaktovať na fóru http://gameguardian.net/forum, aby váš preklad bol zahrnutý v oficiálnej verzii aplikácie.</string>
+    <string name="version">Verzia:</string>
+    <string name="developers">Vývojári:</string>
+    <string name="select_language">Vybrať jazyk</string>
+    <string name="exit_confirm">__app_name__ musí byť reštartovaná na použitie zmien.</string>
+    <string name="special_thanks">Špeciálne ďakujem</string>
+    <string name="nothing_found">Nič nebolo nájdene. Skúste vyhľadať znova.</string>
+    <string name="try_more_ranges">Môžete tiež skúsiť vybrať viac rozsahov na karte Nastavenia.</string>
+    <string name="try_fuzzy_search">Môžete tiež skúsiť hľadať neznámu hodnotu.</string>
+    <string name="search_hint">"Ak chcete vyhľadať známu hodnotu, stlačte
+\"__search_known_value__\".
+Ak je hodnota neznáma alebo zašifrovaná - kliknite na tlačidlo \"__search_unknown_value__\" na vyhľadanie.
+Vyhľadanie pohybujúcej sa hodnoty pomocou jej častí môže byť vykonané výberom '__type_auto__' typom vyhľadávania.
+Tiež môžete použiť skupinové vyhľadávanie s '__semicolon__' ako odďelovačom."</string>
+    <string name="freeze">Zamraziť</string>
+    <string name="freeze_normal">normálny</string>
+    <string name="freeze_may_increase">môže sa zvýšiť</string>
+    <string name="freeze_may_decrease">môže sa znížiť</string>
+    <string name="freeze_in_range">v rozsahu</string>
+    <string name="range_end_fail">"Koniec rozsahu ('__s__') musí byť väčší ako '__s__'."</string>
+    <string name="failed_add_window">Zlyhalo pridanie okna</string>
+    <string name="failed_remove_window">Zlyhalo odstránenie okna</string>
+    <string name="system_service_stopped">Aplikácia nemôže fungovať normálne, pretože systémová služba bola zastavená. Skúste reštartovať aplikáciu alebo reštartovať zariadenie.</string>
+    <string name="value_request">Zadajte hodnotu pre vyhľadávanie</string>
+    <string name="type_request">Vyberte typ dát pre vyhľadávanie</string>
+    <string name="type_change_request">Vybrať typ dát, ktoré chcete zmeniť</string>
+    <string name="value">Hodnota</string>
+    <string name="save_as">Uložiť ako:</string>
+    <string name="restart">Reštartovať</string>
+    <string name="start">Začať</string>
+    <string name="wait_daemon">Táto funkcia nie je dostupná, keď daemon nebeží. Počkajte kým sa daemon zapne. (Zabudli ste povoliť root prístup? Alebo nie je nainštalovaný root?)</string>
+    <string name="daemon_fail">Daemon nebeží</string>
+    <string name="config_icon_text">Ikona: prehľadnosť = __d__%%, skryť - __s__</string>
+    <string name="icon_hide_after">po __d__ sekúnd</string>
+    <string name="icon_hide_never">nikdy</string>
+    <string name="keyboard">Klávesnica:</string>
+    <string name="internal">Vnútorný</string>
+    <string name="external">Vonkajší</string>
+    <string name="failed_copy_text">Zlyhalo skopírovanie textu do schránky:</string>
+    <string name="copied">Skopírované</string>
+    <string name="copy_value">Skopírovať hodnotu:</string>
+    <string name="copy_address">Skopírovať adresu:</string>
+    <string name="goto_address">Prejsť na adresu:</string>
+    <string name="search_unknown_value">Neznáme (fuzzy) vyhľadávanie</string>
+    <string name="search_known_value">Známe (presné) vyhľadávanie</string>
+    <string name="speedhack_hint">Na zmenu rýchlosti hry, podržte plávajúcu __app_name__ ikonu.</string>
+    <string name="bad_firmware">Váš firmware má chyby, ktoré zabránili používaniu tejto vlastnosti.</string>
+    <string name="language">Jazyk</string>
+    <string name="acceleration">Akcelerácia rozhrania</string>
+    <string name="hardware">Hardware</string>
+    <string name="software">Softvér</string>
+    <string name="speedhack">Speedhack</string>
+    <string name="data_in_ram">Dáta v RAM:</string>
+    <string name="first_mb">Prvé __d__ MB</string>
+    <string name="donate">Prispieť</string>
+    <string name="speeds">rýchlosti</string>
+    <string name="floating_window_fail">Nie je možné zobraziť plávajúce okno</string>
+    <string name="check">Overenie</string>
+    <string name="check_success">Overenie bolo úspešné</string>
+    <string name="enable_draw_perm">Prosím povoľte práva na nasledujúcom displeji.</string>
+    <string name="speedhack_fail">Speedhack nie je podporovaný pre tento proces</string>
+    <string name="dangerous">nebezpečný</string>
+    <string name="difference">Rozdiel</string>
+    <string name="old_value">Stará hodnota</string>
+    <string name="new_value">Nová hodnota</string>
+    <string name="mode_hacking">Hodnota je zašifrovaná</string>
+    <string name="union">Skupinové vyhľadanie</string>
+    <string name="speedhack_open">Môžete otvoriť speedhack dlhým stlačením plávajúcej __app_name__ ikony.</string>
+    <string name="history">História</string>
+    <string name="history_empty">História je prázdna</string>
+    <string name="allow_suggestions">Povoliť návrhy z klávesnice:</string>
+    <string name="invalid_area">Veľkosť skupiny musí byť medzi __d__ a __d__:</string>
+    <string name="union_need_two_numbers">Pre skupinové vyhľadávanie musíte vložiť najmenej dva čísla</string>
+    <string name="too_many_union_numbers">Priveľa čísiel, viac ako:</string>
+    <string name="invalid_number">Nesprávne číslo:</string>
+    <string name="input_number">Vstupné číslo</string>
+    <string name="number_out_of_range">"Číslo '__s__' mimo možných rozsahov:"</string>
+    <string name="help_floating_icon">"* Plávajúca ikona:
+* Kliknutím otvoríte rozhranie.
+* Kliknutím a pridržaním prepínať speedhack panel.
+* To môže byť presunuté do ktoréhokoľvek miesta pretiahnutím ikony.
+* Transparentnosť a skrytie časovača možno upraviť v nastaveniach aplikácie."</string>
+    <string name="help_exact_search">"* Presné vyhľadávanie:
+1. Prepnite na __app_name__ z hry.
+2. Ťuknite \"__search_known_value__\" gombík v \"__search__\" karte.
+3. Zadajte číslo, ktoré je zobrazené v hre.
+4. Vyberte si vhodný typ dát (\"__type_auto__\" keď nie ste si istí) a ostatné možnosti (keď je to potrebné) a stlačte \"__search__\".
+5. Po dokončení vyhľadávania, budú výsledky vyhľadávania zobrazené v zozname.
+6. Vráťte sa späť do hry. Po zmene hodnoty, prepnite do __app_name__ znovu.
+7. Vyhľadajte hodnotu, ktorá sa zmenila.
+8. Ak existuje príliš veľa výsledkov, pokračujte na krok 6.
+9. Ak ostalo len málo výsledkov, môžete sa ich pokúsiť upraviť, uložiť alebo zmraziť hodnotu."</string>
+    <string name="help_speedhack">"* Speedhack: 
+* Kliknutím a podržaním prsta na plávajúcu ikonu sa ukáže speedhack panel.
+* Kliknite na šípky na oboch stranách ikony,na  zmenenie rýchlosti hry.
+* Kliknutím a podržaním aktuálneho rýchlostného čísla vynulujete rýchlosť hry.
+* Stlačením a podržaním plávajúcej ikony skryjete speedhack panel.
+* Zoznam použitých rýchlosti a časovačov možno upraviť v nastaveniach aplikácie.
+* Ak hra nereaguje na vstup alebo speedhack nefunguje, skúste použiť iný zelený časovač v __app_name__ nastavení.
+* Môžete použiť \"__time_jump__\" pre skok dopredu v čase. Stačí si vybrať ponuku na karte vyhľadávania a zvoľte \"__time_jump__\". Budete musieť určiť, koľko bude treba sekúnd na skok.Čiastka na skok môže byť zlomková."</string>
+    <string name="help_fuzzy_search">"* Fuzzy vyhľadávanie:
+1. Otvorte __app_name__.
+2. Kliknite na tlačidlo \"__search_unknown_value__\" na karte \"__search__\".
+3. Vyberte vhodný typ údajov alebo zvoľte \"__type_auto__\" (ak si nie ste istý) a stlačte tlačidlo \"__search__\".
+4. Po dokončení operácie sa v zozname zobrazia výsledky vyhľadávania.
+5. Vráťte sa do hry. Keď sa hodnoty zmenili (alebo nezmenili), znova otvorte __app_name__.
+6. Stlačte tlačidlo \"__search_unknown_value__\" a vyberte možnosť zodpovedajúcu zmene hodnoty.
+7. Ak sa nájde príliš veľa výsledkov, prejdite na krok 5.
+8. Ak zostane len niekoľko výsledkov, môžete ich zmeniť, uložiť alebo zmraziť.
+\u0009 
+Presnú zmenu hodnoty môžete zadať stlačením tlačidla \"__more__\".
+Môžete zadať rozsah presných zmien hodnôt:
+190__tilde__210
+Môžete tiež zadať, aby ste označili zmenu mimo rozsahu hodnôt:
+10__tilde____tilde__4000
+"</string>
+    <string name="help_group_search">"* Vyhľadávanie v skupine:
+1. Otvorte __app_name__.
+2. Kliknite na tlačidlo \"__search_known_value__\" na karte \"__search__\".
+3. Zadajte dopyt pre skupinové vyhľadávanie.
+Formát: hodnota 1 __semicolon__ hodnota 2 __semicolon__ ... __semicolon__ hodnota N __colon__ veľkosť skupiny
+Môžete vyhľadávať súčasne 2-__max_group__ hodnôt. Predvolená veľkosť skupiny je 512. Veľkosť skupiny by mala byť medzi 2 a 65536.
+Ak chcete napríklad nájsť čísla 195 a 6543, musíte zadať:
+195 __semicolon__ 6543
+Veľkosť skupiny (300) môžete zadať prirodzene:
+195 __semicolon__ 6543 __colon__ 300
+Okrem toho môžete nastaviť jeden alebo viac typov údajov:
+195__type_dword_short__ __semicolon__ 6543
+To znamená, že chcete nájsť hodnotu 195 s typom __type_dword__ a hodnotu 6543 s typom __type_auto__.
+Možné typy údajov sú rovnaké ako v iných režimoch vyhľadávania:
+__type_byte_short__ - __type_byte__
+__type_word_short__ - __type_word__
+__type_dword_short__ - __type_dword__
+__type_xor_short__ - __type_xor__
+__type_qword_short__ - __type_qword__
+__type_float_short__ - __type_float__
+__type_double_short__ - __type_double__
+__type_auto_short__ - __type_auto__
+Číslo môžete tiež zadať v hexadecimálnom čísle (malý-endian):
+__hex_example____hex____semicolon__6543
+alebo v opačnom hexadecimálnom (big-endian):
+__hex_example____rhex__ __semicolon__ 6543
+Ak chcete zadať ďalšie znaky, použite tlačidlo \"__btn_hex__\" na vstavanej klávesnici.
+4. Vyberte vhodný typ údajov alebo „__type_auto__“ (ak si nie ste istý), ktorý sa použije ako predvolený typ. Ďalšie možnosti pre tento typ vyhľadávania nie sú dôležité. Kliknite na tlačidlo \"__search__\".
+5. Po dokončení operácie sa v zozname zobrazia výsledky vyhľadávania.
+6. Vráťte sa do hry. Po zmene hodnoty sa znova otvorí __app_name__.
+7. Opakujte skupinové vyhľadávanie s príslušnými zmenami.
+8. Ak sa nájde príliš veľa výsledkov, zopakujte kroky 6 a 7.
+9. Ak zostane len niekoľko výsledkov, môžete ich zmeniť, uložiť alebo zmraziť.
+\u0009 
+Ak chcete vziať do úvahy poradie hodnôt - zadajte __colon__ dvakrát.
+Bez veľkosti skupiny:
+195 __semicolon__ 6543 __colon____colon__
+S veľkosťou skupiny:
+195 __semicolon__ 6543 __colon____colon__ 300
+\u0009 
+Môžete vyhľadávať hodnoty v danom rozsahu:
+190__tilde__210 __semicolon__ 6543
+Môžete tiež vyhľadávať hodnoty mimo určeného rozsahu:
+10__tilde____tilde__4000 __semicolon__ 6543
+"</string>
+    <string name="help_others">"* Ostatné:
+* Pre nové vyhľadávanie, musíte vymazať predchádzajúce výsledky vyhľadávania zvolením \"__clear__\" v menu pod tlačidlom menu.
+* Ak chcete zvoliť inú hru kliknite na ikonu hry v ľavom hornom rohu.
+* Ak chcete pozastaviť / obnoviť hru - Kliknite na tlačidlo pod ikonou v ľavom hornom rohu.
+* Ak prejdete k hre, zatiaľ čo je pauza aktívna, pri nasledujúcom otvorení __app_name__ hra bude automaticky pozastavená.
+* Všetky zmrazené hodnoty sú automaticky pridané do uloženého zoznamu. Môžete ich spravovať potom pod príslušnú kartu.
+* Všetky vstupné dáta sa ukladajú do \"__history__\" zoznamu. Môžete ich použiť stlačením tlačidla histórii."</string>
+    <string name="help_typical_usage">"* Typické využitie algoritmov:
+
+1) Hodnota nie je šifrovaná a známa.
+Typickým príkladom by bolo pre peniaze, hviezdy, mince, zdroje, atď.
+
+Použite presné vyhľadávanie.
+
+2) Hodnota nie je známa, a/alebo zašifrovaná.
+Typickým prípadom neznámej hodnoty - ich rozsah/zákazu. Napríklad zdravie, mana, nitro, atď Zmeny sú vidieť, ale žiadne číselné hodnoty sú viditeľné.
+Typickým príkladom pre šifrované hodnoty by bolo upravovanie peňazí, hviezdy, mince, atď., Ale pri vyhľadávaní s 1 algoritmom nenájde nič, alebo zmeny sledovaných hodnôt nevedie k číslam meniacich sa v hre.
+
+Použite nejasného vyhľadávania.
+
+
+3) Hodnota je šifrovaná (__mode_hacking__).
+Typickým príkladom pre šifrovanú hodnotu by bolo upravovanie peňazí, hviezdy, mince, atď., Ale pri vyhľadávaní s 1 algoritmom nenájde nič, alebo zmeny sledovaných hodnôt nevedie k číslam meniacich sa v hre.
+
+Použite presné vyhľadávanie, ale vždy označte políčko \"__mode_hacking__\".
+Nájdené výsledky môžu mať podivné hodnoty kvôli šifrovaniu.
+
+Algoritmus 3 je oveľa rýchlejší ako 2, ale to nemusí byť pre všetky hry.
+
+4) Hodnota nie je šifrovaná, známa a umiestnená v blízkosti iných známych hodnôt.
+Typickým príkladom by pre cenu v obchode, štatistiky hrdinu, atď.
+
+Použite skupinové vyhľadávanie pre všetky čísla v jednom čase."</string>
+    <string name="help_hints">"* Tipy:
+
+* Nie všetky hry možno modifikovať pomocou __app_name__. Typický zoznam príkladov:
+* Dáta uložené na serveri (server-obojstranná hra)
+* Hra potrebuje trvalé pripojenie k internetu
+* Hry v sieti s ostatnými hráčmi
+* Budete musieť vybrať server pre pripojenie na začiatku hry
+* Nie je možné použiť niektoré veci bez pripojenia k internetu
+* Hra načíta údaje zo servera, keď sa niečo zmení
+* Hodnoty, ktoré sú vidieť nie sú vždy rovnaké ako spôsob, akým sú uložené. Môžu byť rôzne. Napríklad na obrazovke vidíme 34, ale v pamäti je hodnota 34000.
+* Ak nie je možné upraviť hodnotu - skúšanie menenia hodnoty, ktoré ovplyvnili túto hodnotu. Napríklad namiesto zmeny množstvo zlata, môžete zmeniť cenu veci a predávať ju. Alebo kúpiť s negatívnou cenou."</string>
+    <string name="help">Pomoc</string>
+    <string name="help_floating_icon_title">Plávajúca ikona</string>
+    <string name="help_exact_search_title">Presné vyhľadávanie</string>
+    <string name="help_speedhack_title">Speedhack</string>
+    <string name="help_group_search_title">Skupinové vyhľadávanie</string>
+    <string name="help_others_title">Ostatné</string>
+    <string name="help_typical_usage_title">Typické používanie algoritmov</string>
+    <string name="help_hints_title">Rady</string>
+    <string name="value_format">Formát hodnoty</string>
+    <string name="format_hex">Hexadecimálne zobrazenie</string>
+    <string name="format_rhex">Reverzné hexadecimálne zobrazenie (big-endian)</string>
+    <string name="clear_selection">Vyčistiť výber</string>
+    <string name="invert_selection">Invertovať výber</string>
+    <string name="select_all">Vybrať všetko</string>
+    <string name="edit_selected">Upraviť zvolené</string>
+    <string name="delete_selected">Vymazať zvolené</string>
+    <string name="save_selected">Uložiť zvolené</string>
+    <string name="nothing_selected">Nič ste nevybrali</string>
+    <string name="items_added">Položky (__d__) pridané do uloženého listu</string>
+    <string name="no_items_for_editing">Nie sú žiadne položky na upravenie.</string>
+    <string name="edit_info">Upraviť __s__ ako __s__</string>
+    <string name="edit_all_info">Upraviť __d__ adresy ako __s__</string>
+    <string name="autopause">Automatický zastaviť hru:</string>
+    <string name="empty_list">"Uložený zoznam je prázdny.
+Môžete pridať položky do nej zo zoznamu výsledkov vyhľadávania alebo z editora pamäte.
+Stačí len vybrať požadované prvky a zvoľte \"__save_selected__\" v menu.
+Ďalšia metóda - začnite upravovať hodnotu a označte políčko \"__save_as__\".
+Tiež sú tu pridané všetky zmrazené hodnoty automaticky."</string>
+    <string name="empty_save">Uložený zoznam je prázdny. Nič nie je na uloženie.</string>
+    <string name="revert_selected">Vrátiť vybrané</string>
+    <string name="nothing_to_revert">Nič nie je na vrátenie</string>
+    <string name="revert_prompt">Vrátiť vybrané položky (__d__)?</string>
+    <string name="download">Táto aplikácia môže byť stiahnutá z:</string>
+    <string name="format_string">Reprezentácia reťazca</string>
+    <string name="forgot_h">"Zabudli ste '__hex__' na konci?"</string>
+    <string name="time_jump">Skok v čase</string>
+    <string name="time_jump_hint">Zadajte počet sekúnd náskoku:</string>
+    <string name="hide_from_game">Skryť __app_name__ z hry:</string>
+    <string name="last_stats">Štatistiky pre vaše posledné vyhľadávanie</string>
+    <string name="memory_access">Prístup do pamäte:</string>
+    <string name="normal">Normálny</string>
+    <string name="extended">Predlžený</string>
+    <string name="experimental">Experimentálne</string>
+    <string name="installing">__app_name__ vykonáva reinštaláciu seba samej s náhodnym menom z dôvodu vyhnutia sa odhaleniu hrami. Počkajte.</string>
+    <string name="failed_install">Nepodarilo sa nainštalovať aplikáciu. Opakovať?</string>
+    <string name="failed_uninstall">Nepodarilo sa odinštalovať aplikáciu. Opakovať?</string>
+    <string name="download_it">Stiahnuť</string>
+    <string name="more">Viac</string>
+    <string name="less">Menej</string>
+    <string name="no_space">Žiadne miesto voľné na vašom zariadení</string>
+    <string name="install_cancel_prompt">__app_name__ môže byť rozpoznaný, keď nie je nainštalovaný. Chcete naozaj zrušiť?</string>
+    <string name="intercept">zachytiť</string>
+    <string name="need_restart">Cieľová aplikácia musí byť reštartovaná, aby tieto zmeny boli použité.</string>
+    <string name="must_be_root">"Aby tento program fungoval, musí mať zariadenie koreň.
+\u0009\u0009
+__app_name__ môže pracovať v obmedzenom režime bez root, prostredníctvom virtuálneho prostredia. Napríklad cez __vspace_list__ a mnoho ďalších.
+Viac informácií nájdete v pomocníkovi.
+
+Ako získať root na ľubovoľnom zariadení: http://www.xda-developers.com/root/"</string>
+    <string name="skip_">Preskočiť</string>
+    <string name="indent_for_the_status_bar">Vykrojiť UI z hornej časti obrazovky:</string>
+    <string name="start_collecting_data">Začať zber dát</string>
+    <string name="data_collecting_in_progress">Prebieha zber dát</string>
+    <string name="copy">Kopírovať</string>
+    <string name="show_logcat">Ukázať logcat</string>
+    <string name="path_must_be">"Cesta musí byť aspoň 2 znaky dlhá a musí sa začínať s '/'."</string>
+    <string name="fix_it">Oprav to</string>
+    <string name="change_log">Zmeň zápis</string>
+    <string name="used_only_first">Použité iba prvé __d__ položky</string>
+    <string name="need_select_more">potrebné zvoliť __d__ alebo viac položiek.</string>
+    <string name="offset">nepomer:</string>
+    <string name="result">Výsledky:</string>
+    <string name="copy_hex_value">Skopíruj hodnotu hex:</string>
+    <string name="goto_pointer">Choď na ukazovateľ:</string>
+    <string name="offset_calculator">Kalkulačka nepomeru</string>
+    <string name="fill_toolbar">Vyplniť panel nástrojov:</string>
+    <string name="from_left">Z ľava</string>
+    <string name="from_center">Z centra</string>
+    <string name="from_right">Z prava</string>
+    <string name="unit_years_short">y</string>
+    <string name="unit_days_short">d</string>
+    <string name="unit_hours_short">h</string>
+    <string name="unit_minutes_short">min</string>
+    <string name="unit_seconds_short">sec</string>
+    <string name="speed_info">__s__ v skutočnom čase = __s__ v hernom čase</string>
+    <string name="search_helper">Pomocník vyhľadávania:</string>
+    <string name="off">Vypnúť</string>
+    <string name="go_to_game">Vráťte sa do hry, ak je najdených veľa hodnôt</string>
+    <string name="go_to_game_and_restore">Vráťte sa do hry, ak je nájdenných veľa hodnôt a obnovte hľadanie pri nasledujúcom otvorení</string>
+    <string name="nothing">Nič</string>
+    <string name="sort">Triediť</string>
+    <string name="sort_and_remove_duplicates">Triediť a odstrániť duplikáty</string>
+    <string name="help_basics_title">Všeobecné informácie</string>
+    <string name="help_basics">"Po spustení aplikácie kliknutím na tlačidlo \"__start__\" sa na obrazovke zobrazí pohyblivá ikona. Môže sa potiahnúť na ľubovoľné miesto.
+Kliknutie na ikonu otvorí hlavné rozhranie aplikácie, podržanie - zobrazí panel pre zmenu rýchlosti hry.
+Na hlavnej obrazovke môžete vidieť:
+* V ľavom hornom rohu - ikona hry. Kliknutím na ňu môžete vybrať inú hru.
+* V strede sú záložky pre navigáciu cez záložky. Kliknutím na požadovanú záložku sa zobrazí príslušná karta.
+Celkovo sú k dispozícii 4 karty: nastavenia, vyhľadávanie, uložený zoznam a editor pamäte.
+* V pravom hornom rohu rozhrania je tlačidlo na zatváranie. Stlačte ho a rozhranie sa skryje a na obrazovke sa zobrazí plávajúca ikona.
+* V dolnej časti obrazovky sa nachádza stavový riadok a ikona oka. Ak stlačíte a podržíte ikonu oka, rozhranie sa stane priehľadným, pokiaľ neuvoľníte prst.
+* Zvyšok obsahu na obrazovke závisí od karty, ktorú máte zapnutú.
+Na každej karte, s výnimkou záložky s nastaveniami, sa nachádza tlačidlo ponuky, ktoré obsahuje rôzne možné akcie. V ňom nájdete hlavné akcie pre túto kartu.
+Karta Nastavenia obsahuje rôzne nastavenia, pomoc a informácie o aplikácii a tlačidlo ukončenia.
+Karta Vyhľadávanie obsahuje:
+* Tlačidlo Pozastaviť, názov vybranej hry, počet nájdených výsledkov a tlačidlo obnovenia.
+* Nižšie nájdete panel s ikonami rýchleho prístupu a tlačidlo ponuky. Všetky ikony sú duplikované v ponuke, takže ak neviete význam ikony, môžete ju vždy zobraziť kliknutím na tlačidlo ponuky (vpravo).
+* Pod týmito ikonami sa zobrazí zoznam výsledkov vyhľadávania.
+Karta uloženého zoznamu obsahuje:
+* Tlačidlo Pozastaviť, názov vybranej aplikácie, tlačidlo ponuky a tlačidlo obnovenia.
+* Pod týmito ikonami sa zobrazí zoznam uložených hodnôt.
+Karta editora pamäte je podobná predchádzajúcej, len tu namiesto zoznamu uložených hodnôt zobrazuje obsah pamäte.
+Vo všetkých troch zoznamoch (výsledky vyhľadávania, uložené hodnoty a editor pamäte) môžete vykonať dlhý klepnutie na položky a zobraziť kontextovú ponuku."</string>
+    <string name="daemon_killed">"Démon niečo zabil.
+
+Spravidla to môže byť:
+1. Akékoľvek vrahové aplikácie (vrahovia) alebo optimalizátory pamäte. Musíte vypnúť všetky vrahy aplikácií alebo pridať __app_name__ do bieleho zoznamu v nastaveniach.
+2. __daemon_killed_oom__
+\u00093. Карта памяти была отмонтирована, в то время как __app_name__ хранил на ней временные файлы. Чтобы этого не происходило - укажите другой путь ко временным файлам. Например, во внутренней памяти."</string>
+    <string name="bad_settings">Zlé nastavenia</string>
+    <string name="freeze_lags">Použitie zamrazenia viacerych hodnôt s nastavením __hide_from_game__ môže spôsobiť lag v hre.</string>
+    <string name="improve_translation">Tento preklad bol vytvorený automatickým prekladačom. Možete ho vylepšiť použitím našej spoločnej prekladateľskej služby.</string>
+    <string name="freeze_interval">Interval zmrazenia:</string>
+    <string name="saved_list_update_interval">Interval aktualizácií uložených zoznamov:</string>
+    <string name="milliseconds_short">ms</string>
+    <string name="disable_floating_windows">Vypnite plávajúce okná a reštartujte aplikáciu</string>
+    <string name="enable_floating_windows">Povoľte plávajúce okná a reštartujte aplikáciu</string>
+    <string name="too_many">Priveľa</string>
+    <string name="help_range_search_title">Rozsah hľadania</string>
+    <string name="help_range_search">"pnúť na jazyk angličtinaVyhľadávanie v rozsahu:
+1. Prepnite na __app_name__ zo hry.
+2. Klepnite na tlačidlo \"__search_known_value__\" na karte \"__search__\".
+3. Zadajte hraničný rozsah vyhľadávania, oddelené \"__tilde__\". Ak napríklad chcete hľadať hodnoty od 100 do 150, zadajte:
+100__tilde__150
+Ak chcete vyhľadávať mimo dosahu, môžete dvakrát zadať znak \"__tilde__\":
+100__tilde____tilde__150
+Prípadne môžete vybrať znak \"__not_equal__\" a jedenkrát zadajte znak \"__tilde__\".
+Ak chcete zadať ďalšie symboly, použite tlačidlo \"__btn_hex__\" na internej klávesnici.
+4. Vyberte vhodný typ údajov alebo zvoľte \"__type_auto__\" (ak si nie ste istí) a ďalšie možnosti (v prípade potreby) a kliknite na \"__search__\".
+5. Po ukončení vyhľadávania sa v zozname zobrazia výsledky vyhľadávania.
+6. Späť do hry. Po zmene hodnoty znova prejdite na __app_name__.
+7. Zopakujte vyhľadávanie rozsahu s príslušnými zmenami.
+8. Ak je príliš veľa výsledkov, zopakujte kroky 6 a 7.
+9. Ak zostane málo výsledkov, môžete skúsiť upraviť, uložiť alebo zmraziť hodnotu.
+Hranice rozsahu zahrnuté vo výsledkoch vyhľadávania. Môžete vybrať typ vyhľadávania \"__not_equal__\", aby ste našli všetky hodnoty, ktoré nepatria do rozsahu.
+Pri tomto vyhľadávaní sa všetky hodnoty považujú za podpísané."</string>
+    <string name="does_not_support">\"__s__\" nepodporuje \"__s__\"</string>
+    <string name="range_bounds_diff_types">Rozsahy hraníc musia byť rovnaké.</string>
+    <string name="examples">Príklady</string>
+    <string name="rtfm">Prečítajte si pomoc pre viac detailov.</string>
+    <string name="icons_size">Veľkosť ikón:</string>
+    <string name="revert_and_remove">Vrátiť späť a odstrániť</string>
+    <string name="remove">Odstrániť</string>
+    <string name="ordered_group_search">Nariadiť skupinové hľadanie</string>
+    <string name="load_items">Položky</string>
+    <string name="load_values">Hodnoty</string>
+    <string name="load_freeze">Zamraziť</string>
+    <string name="video_tutorials">Video tutoriály a nástroje ako hackovať</string>
+    <string name="make_copy">Urob kópiu</string>
+    <string name="video">video</string>
+    <string name="ordered">sanitár</string>
+    <string name="toolbars">panel nástrojov</string>
+    <string name="saved_list">Uložený zoznam</string>
+    <string name="memory_editor">Editor pamäte</string>
+    <string name="restart_game">Reštartujte hru</string>
+    <string name="refine">premietanie</string>
+    <string name="internal_storage">Vnútorné skladovanie</string>
+    <string name="external_storage">Externé úložisko</string>
+    <string name="new_search">Nové vyhľadávanie</string>
+    <string name="load_saved_list">Načítať uložený zoznam zo súboru</string>
+    <string name="save_saved_list">Uložiť uložený zoznam do súboru</string>
+    <string name="append">Pridať</string>
+    <string name="xor_key">Kľúč XOR:</string>
+    <string name="only_memory">Iba v rozsahu pamäte:</string>
+    <string name="dump_memory">Výpis pamäte</string>
+    <string name="path">cesta:</string>
+    <string name="dump_ended">Výpis je kompletný</string>
+    <string name="dump_failed">Chyba výpisu</string>
+    <string name="eperm_error_defend">Nepodarilo sa pripojiť k procesu (PTRACE_ATTACH): hra je chránená</string>
+    <string name="reset_on_exit">Obnoviť pri výstupe:</string>
+    <string name="kill_game">Zabiť hru</string>
+    <string name="kill_game_info">Povinné ukončenie procesu mu nedáva príležitosť na dokončenie práce čisto a môže viesť k strate údajov alebo nestabilite systému.</string>
+    <string name="continue_ask">Chcete pokračovať?</string>
+    <string name="copy_memory">Kopírovanie pamäte</string>
+    <string name="copy_from">Kopírovať z:</string>
+    <string name="paste_to">Prilepiť do:</string>
+    <string name="count_bytes">Počet bajtov:</string>
+    <string name="copy_ended">Kopírovanie pamäte je dokončené</string>
+    <string name="copy_failed">Chyba pamäte kopírovania</string>
+    <string name="help_encrypted_search_title">Vyhľadajte šifrované hodnoty</string>
+    <string name="help_encrypted_search">"* Vyhľadávanie šifrovaných hodnôt:
+1. Otvorte __app_name__.
+2. Kliknite na tlačidlo \"__search_known_value__\" na karte \"__search__\".
+3. Zadajte číslo, ktoré sa zobrazí v hre.
+4. Vyberte príslušný typ údajov alebo zvoľte „__type_auto__“ (ak si nie ste istý) a ďalšie parametre (ak je to potrebné), označte „__mode_hacking__“ a stlačte tlačidlo „__search__“.
+5. Po dokončení operácie sa v zozname zobrazia výsledky vyhľadávania.
+6. Vráťte sa do hry. Po zmene hodnoty opäť otvorte __app_name__.
+7. Hľadajte novú hodnotu. Začiarknite políčko \"__mode_hacking__\".
+8. Ak sa nájde príliš veľa výsledkov, preskočte na krok 6.
+9. Ak zostane len niekoľko výsledkov, môžete ich zmeniť, uložiť alebo zmraziť.
+"</string>
+    <string name="help_faq_title">Často kladené otázky</string>
+    <string name="help_faq_1_q">Prečo nemôžem zadať hodnotu väčšiu ako 99 alebo 60 000?</string>
+    <string name="help_faq_1_a">Našli ste hodnotu __type_byte__ alebo __type_word__. Vyhľadajte väčšie hodnoty zadaním parametra __type_dword__.</string>
+    <string name="help_faq_2_q">Ako hľadať zlomkové (__type_float__) hodnoty, bez desatinných miest?</string>
+    <string name="help_faq_2_a">Použite typ údajov \"__type_auto__\" alebo rozsah vyhľadávania. Napríklad pre 11.345 nájdete “10__tilde__12”.</string>
+    <string name="help_faq_3_q">Našiel som hodnotu a zmenil ju, ale v hre táto zmena neurobila nič. Snažím sa ho použiť, ale všetko sa vráti. Čo robím zle?</string>
+    <string name="help_faq_3_a">"V niektorých hrách sú hodnoty chránené alebo šifrované. Pred zobrazením hodnoty sa dekóduje do inej premennej.
+Keďže táto hodnota sa používa len na zobrazenie, nemá to vplyv na hernú mechaniku. Ak chcete nájsť skutočnú hodnotu, nie zobrazenú hodnotu, použite vyhľadávanie zašifrovanej hodnoty alebo fuzzy vyhľadávanie.
+Niekedy je hodnota uložená na serveri a vždy synchronizovaná. V tomto prípade nemôže byť hacknut. Ak hra nefunguje bez internetu a predchádzajúce metódy nepomohli - s najväčšou pravdepodobnosťou je."</string>
+    <string name="help_faq_4_q">Nenachádza hodnotu v hre X. Alebo ju nájde, ale keď sa zmení nič sa nestane. Alebo to nájde, ale po zmene sa hra zrúti. Ako pochopiť, čo je problém, v ochrane hry alebo v __app_name__?</string>
+    <string name="help_faq_4_a">"Mali by ste mať jednoduchý program, ktorý je zaručený, že nebude chránený a pokúsiť sa ho zaseknúť. Dávam prednosť používaniu Hill Climb Racing. Hra je jednoduchá, priamočiara a neobsahuje žiadnu ochranu. Môžete skontrolovať hacking peňazí ako priame vyhľadávanie podľa množstva a fuzzy hľadanie zmeny.
+Ak hackovanie na tejto jednoduchej hre funguje, potom je bod v tej hre X, že ste sa snažili hack. Ak nie, potom je problém __app_name__.
+Existuje ešte jednoduchšia možnosť: Ťuknite na položku Počítadlo. Nainštalovať. Spustite ho. Pokúste sa prasknúť počet kliknutí zobrazených na obrazovke. Malo by to byť veľmi jednoduché. Ak nie, problém je v __app_name__ alebo jeho nastaveniach.
+Skúste použiť inú verziu __app_name__, skúste vyhľadať popis chyby prijatej na fóre v príslušnej téme alebo na internete. V núdzi môžete klásť otázky na fóre."</string>
+    <string name="help_faq_5_q">Ako hľadať čas?</string>
+    <string name="help_faq_5_a">"- Skúste vyhľadať počet dní, hodín, minút alebo sekúnd. Typ údajov môže byť __type_byte__, __type_word__, __type_dword__ alebo __type_qword__. Môžete použiť aj typ __type_auto__.
+- Skúste hľadať ako počet milli- alebo nanosekund. Typ údajov: __type_dword__ alebo __type_qword__.
+- Skúste hľadať ako dátum ukončenia časovej pečiatky. Typ - __type_dword__. Považuje sa za rozdiel medzi aktuálnou časovou značkou unix a uloženou časovou pečiatkou. Vyhľadávanie prostredníctvom vyhľadávania rozsahu.
+Napríklad, ak je zaznamenaných 30 dní, hľadáte 30 +/- 1 deň z aktuálnej časovej značky unix. Aktuálnu časovú pečiatku unixu si môžete jednoducho prezrieť na internete."</string>
+    <string name="help_faq_6_q">Je možné hacknúť online hry?</string>
+    <string name="help_faq_6_a">Je možné prasknúť dáta uložené na klientovi. Všetko na serveri sa nedá hacknúť. Rôzne hry môžu mať rôzne spôsoby. Aj v rámci jednej hry môžu byť niektoré údaje na serveri a niektoré nie.</string>
+    <string name="help_faq_7_q">Kde funguje speedhack?</string>
+    <string name="help_faq_7_a">"Speedhack nemusí fungovať na x86 zariadeniach / emulátoroch pre hry, ktoré nemajú x86 knižnice.
+Tiež, pre ART, speedhack nefunguje s časovačmi Java. Ak ich hra používa a máte ART (zvyčajne Android 5 a vyššie), potom speedhack nebude fungovať."</string>
+    <string name="help_faq_8_q">__app_name__ ako celok pracuje pre mňa, ale v niektorých hrách mám chybu PTRACE_ATTACH. Prečo a čo s tým robiť?</string>
+    <string name="help_faq_8_a">Táto hra je vybavená ochranou ladenia typu ochrany SecNeo. __app_name__ nemôže túto ochranu obísť. Cez to nemôžete hack túto hru.</string>
+    <string name="help_faq_9_q">Prečo má aplikácia taký zvláštny názov balíka? Prečo sa aplikácia neaktualizuje, ale zakaždým, keď sa inštaluje samostatne? Prečo má každá verzia iný názov balíka?</string>
+    <string name="help_faq_9_a">Aby sa zabránilo detekcii podvodov podľa názvu balíka.</string>
+    <string name="help_faq_10_q">V niektorých hrách, keď sa zmení rýchlosť, prestanú reagovať na kliknutia. Je to obrana hry alebo chyba softvéru?</string>
+    <string name="help_faq_10_a">To znamená, že váš speedhack zachytí časovače vstupného frontu a zomrie. V zozname časovačov (v nastaveniach __app_name__) je potrebné zvoliť zelené značky, aby sa tomu zabránilo.</string>
+    <string name="help_faq_11_q">Prečo sa pri skupinovom vyhľadávaní oddelia čiarkami chyba?</string>
+    <string name="help_faq_11_a">Oddeľovač čísel je stredník (\"__semicolon__\").</string>
+    <string name="help_faq_12_q">Ako vykonávať viaceré vyhľadávania súčasne?</string>
+    <string name="help_faq_12_a">Aplikácia momentálne nepodporuje túto funkciu, ale aplikáciu môžete nainštalovať niekoľkokrát a spustiť kópie spoločne, ak na to máte dostatok miesta na disku a pamäte.</string>
+    <string name="help_faq_13_q">Musím aktualizovať aplikáciu, ak v zmenách nie je nič podstatné?</string>
+    <string name="help_faq_13_a">Je to žiaduce. Podpora je poskytovaná len pre najnovšiu verziu.</string>
+    <string name="help_faq_14_q">Čo znamenajú symboly „!“ A „#“ pred názvom procesu?</string>
+    <string name="help_faq_14_a">"Toto sú známky sledovaných procesov.
+\"#\" - pred procesom znamená, že je sledovaný iným procesom.
+„!“ Znamená pred procesom, že tento proces je sledovaný iným procesom.
+Trasovanie je typické pre ladenie alebo hackovanie. Používa sa aj pri niektorých obranách. Zvyčajne je proces so znakom „#“ chráneným procesom."</string>
+    <string name="help_faq_15_q">Prečo po štandardnej inštalácii aplikácia vykonáva aj vlastnú inštaláciu, ktorá vyžaduje práva root?</string>
+    <string name="help_faq_15_a">__app_name__ sa znova nainštaluje s náhodnými údajmi, aby sa zabránilo jeho detekcii pomocou funkcie anti-cheat. Pre tichú inštaláciu a odstránenie sú potrebné práva root. Nemôžete ich vydať. V tomto prípade budete musieť manuálne odpovedať na všetky systémové požiadavky na inštaláciu aplikácií.</string>
+    <string name="help_faq_16_q">Čo je __pkg__? Je to trójsky kôň alebo vírus? Je bezpečné poskytnúť root prístup k tejto aplikácii?</string>
+    <string name="help_faq_16_a">Toto je základný názov balíčka __app_name__. Je bezpečné vydávať koreňový adresár, ak je súbor __app_name__ prevzatý z dôveryhodných zdrojov.</string>
+    <string name="help_faq_17_q">Prečo má __app_name__ v zozname nainštalovaných aplikácií názov ako náhodná množina znakov? Prečo táto znaková sada vyžaduje prístup k rootovi? Prečo keď bežím __app_name__, hovorí sa, že koreň nie je uvedený pre __app_name__, ale pre nejaký druh abracadabra?</string>
+    <string name="help_faq_17_a">Vzhľadom k tomu, __app_name__ používa skryť pred detekciou proti podvádzaniu.</string>
+    <string name="help_faq_18_q">Prečo sa niekedy zistí, že najnovšia verzia __app_name__ je anti-cheat a niekedy nie?</string>
+    <string name="help_faq_18_a">Vzhľadom k tomu, __app_name__ používa rôzne prístupy skryť pred detekciou proti podvádzaniu. To zahŕňa ľubovoľný názov balíka a aplikáciu. Pri každej inštalácii budú odlišné. Skúste preinštalovať __app_name__, aby ste ich mohli zmeniť. Možno po tejto anti-cheat prestane detekovať __app_name__.</string>
+    <string name="help_faq_19_q">Prečo nie je moja hra v zozname aplikácií?</string>
+    <string name="help_faq_19_a">Pretože ide o zoznam spustených aplikácií a aplikácia nie je spustená. Spustite ho a potom ho vyberte na __app_name__.</string>
+    <string name="help_faq_20_q">Prečo Java aplikácie nereagujú na SpeedHack na Android 5 a vyššie?</string>
+    <string name="help_faq_20_a">Pretože speedhack je určený pre hry s natívnymi knižnicami. Vaša žiadosť nie je. A pretože, počínajúc Android 5, ART sa používa, nie Dalvik, to znemožňuje zachytiť Java časovača. Nič sa nedá urobiť. V budúcnosti sa situácia nezmení.</string>
+    <string name="help_faq_21_q">Použil som ďalší nástroj zrýchlenia / hackingu na Android 4 a fungovalo to. Teraz som dal __app_name__ na Android 5 a vyššie, ale tieto metódy nefungujú. Prečo?</string>
+    <string name="help_faq_21_a">"Pretože sa veľa vecí zmenilo a váš nástroj by nefungoval. Nechcem sa pobaviť s ilúziami, že je to __app_name__ tak zlé, ale ak to bol nástroj, potom oh! Neexistuje žiadna taká vec.
+Ak to chcete skontrolovať, stačí zadať __app_name__ na Android 4 a opakovať rovnaké kroky ako v tomto nástroji. V dôsledku toho budete úspešní. Ale to neznamená, že rovnaké metódy budú fungovať na Android 5 a vyššie.
+Táto skutočnosť sa opakovane potvrdzuje."</string>
+    <string name="help_faq_22_q">Sledujem video príklady / screenshoty a v editore pamäte sú aj ďalšie údaje. Prečo?</string>
+    <string name="help_faq_22_a">Pretože vo videu / snímkach obrazovky je zvolený iný výstupný formát. V editore pamäte stlačte menu - zvoľte \"__value_format__\" a nastavte výstup podľa potreby.</string>
+    <string name="help_faq_23_q">Pri zmrazovaní hodnoty sa hra začne spomaľovať alebo oneskorovať. Prečo?</string>
+    <string name="help_faq_23_a">Pretože máte možnosť \"__hide_from_game__\" zapnutá v nastaveniach __app_name__. Odpojiť.</string>
+    <string name="help_faq_24_q">Ako vypnúť kontrolu nových verzií pri spustení aplikácie?</string>
+    <string name="help_faq_24_a">Nič.</string>
+    <string name="help_faq_25_q">Ako previnúť čas späť v aplikácii? Je možné urobiť skok času, nie dopredu, ale dozadu?</string>
+    <string name="help_faq_25_a">Nič. Je to nemožné. Čas sa musí vždy zvýšiť, inak môže hra letieť. V posledných verziách sme však pridali možnosť negatívneho skoku času. Výsledkom môže byť zmrazenie hry alebo strata údajov. Varovali sme.</string>
+    <string name="help_faq_26_q">Nastavil som skryť ikonu a zmizol. Ako sa dostať späť?</string>
+    <string name="help_faq_26_a">Ikona sa stáva transparentnou, ale stále na ňu môžete kliknúť. Kliknite na miesto, kde bol, potom zmeňte nastavenie prostredníctvom rozhrania.</string>
+    <string name="help_faq_27_q">Ako vyhľadávať hodnotu, ak je zobrazená v hre so zaokrúhľovaním? Napríklad 1,85 M.</string>
+    <string name="help_faq_27_a">Vyhľadávanie podľa rozsahu vyhľadávania. Hranice rozsahu závisia od pravidiel zaokrúhľovania. Napríklad „1845000__tilde__1854999“ pre štandardné zaokrúhľovanie.</string>
+    <string name="help_faq_28_q">Ako nájsť percentuálnu hodnotu? Napríklad 123__percent__.</string>
+    <string name="help_faq_28_a">Závisí od implementácie. Pre každú hru môže byť všetko iné. Napríklad 123__percent__. Môže to byť __type_float__ alebo __type_double__ s ľubovoľnou hodnotou. Napríklad 1,23 alebo 123,0. Alebo to môže byť celé číslo: __type_byte__, __type_word__, __type_dword__. Napríklad 123 alebo 12300. Pri výstupe ho možno rozdeliť na číslo. 100 alebo 345 alebo niečo iné. Pre každú hru môže byť všetko iné. Môžete vyskúšať najzreteľnejšie prípady. Pre 123__percent__ to môže byť 1,23 alebo 123. Typ - __type_auto__. Ak máte šťastie, môže to byť to, čo potrebujete.</string>
+    <string name="help_faq_29_q">Čo ak hra zistí __app_name__?</string>
+    <string name="help_faq_29_a">"Skúste nasledujúce (samostatne alebo v ľubovoľnej kombinácii):
+- Vrátane možnosti \"__hide_from_game__\". Väčšinou stačí 2, 3 a 4 body.
+- Nerušte reinštalácia __app_name__ s náhodným názvom. To sa vykonáva pri prvom spustení von __app_name__ virtuálnych priestorov.
+- Použitie XPrivacy alebo podobný nástroj. Ako, aby to vyzeralo na internete.
+- Ak máte prístup užívateľa root, použite koreň virtuálneho priestoru zapustenými aplikácií. Prečítajte si viac v on-line pomocníkovi na melódiu \"__vspace_root__\"."</string>
+    <string name="work_without_selinux">Prepnite na prácu bez __selinux__ a reštartujte aplikáciu.</string>
+    <string name="work_with_selinux">Prepnite na prácu z __selinux__ a reštartujte aplikáciu.</string>
+    <string name="file">file:</string>
+    <string name="file_not_found">Súbor sa nenašiel:</string>
+    <string name="export_selected">Exportovať vybraté</string>
+    <string name="failed_list_dir">Nepodarilo sa prečítať zoznam súborov.</string>
+    <string name="change_float_type">Vyberte typ plávajúcich okien</string>
+    <string name="reset_float_type">Obnoviť typ plávajúceho okna</string>
+    <string name="mask">maska:</string>
+    <string name="mask_request">Zadajte adresu vyhľadávania</string>
+    <string name="help_mask_search_title">Vyhľadávanie adries (podľa masky)</string>
+    <string name="help_mask_search">"* Vyhľadávanie podľa adresy (podľa masky):
+Pomocou masky môžete vyhľadávať alebo filtrovať podľa adresy.
+\u0009
+Typickým príkladom je vyhľadávanie adries, ktoré končia známou hodnotou. Napríklad na \"12E\".
+
+Parametre vyhľadávania sú adresa a maska.
+Na adresu môžete použiť zástupné znaky (\"__question__\"). Tento symbol znamená, že môže byť ľubovoľný znak od „0“ do „F“.
+Z adresy je vytvorená ďalšia maska, takže dôležité nuly sú dôležité. Hľadanie „0120“ a hľadanie „120“ teda nie je to isté.
+V prvom prípade sa nájdu: \"00010120\", \"00020120\", \"00030120\" a tak ďalej. Kým v druhom: \"00001120\", \"00002120\", \"00003120\" a tak ďalej.
+
+Môžete hľadať tak rovnosť, ako aj nerovnosť označenú maskou. Druhá možnosť môže byť užitočná na odstránenie nepotrebných hodnôt.
+
+Adresa a maska ​​sa zadávajú v hexadecimálnom a bez písmena \"__hex__\" na konci.
+Maska prijatá z adresy sa pretína s maskou, ktorú ste zadali. Toto je výsledná maska ​​vyhľadávania.
+
+Nasledujúce príklady sú ekvivalentné, pretože výsledná maska ​​má rovnakú hodnotu - „FF0“
+__mask_example__
+"</string>
+    <string name="use_sound_effects">Použiť zvukové efekty:</string>
+    <string name="from_range">od:</string>
+    <string name="to_range">Ak chcete:</string>
+    <string name="resultant_mask">Výsledná maska:</string>
+    <string name="show_time_jump_panel">Zobraziť panel preskočenia času:</string>
+    <string name="use_notification">Použiť upozornenie:</string>
+    <string name="show_gg">Zobraziť __app_name__</string>
+    <string name="hide_gg">Skryť __app_name__</string>
+    <string name="time_remaining">Zostávajúci čas:</string>
+    <string name="help_fill_title">Hodnoty plnenia (prírastku)</string>
+    <string name="help_fill">"* Vyplnenie (prírastok) hodnôt:
+Často sa stáva, že sa nájde príliš veľa hodnôt a nemôžete ich zmeniť z hry.
+V tomto prípade dôjde k vyprázdneniu.
+
+Typickým príkladom použitia je hľadanie ceny položky, po ktorej nasleduje nahradenie zápornou.
+
+1. Vyberte požadované položky.
+2. Zvoľte \"__edit_selected__\".
+3. Ak toto pole nie je k dispozícii, stlačte tlačidlo \"__more__\" a zobrazí sa pole \"__increments__\".
+4. V poli \"__increments__\" zadajte krok zvyšovania. Zvyčajne je to 1. A stlačte \"__yes__\".
+5. Vybrané položky dostanú nové hodnoty.
+6. Prejdite na hru a zistite, ako sa zmenila požadovaná hodnota a pohybujete sa po obrazovkách.
+7. Ak sa hodnota nezmenila, požadovaná položka nebola medzi nimi. Vrátením sa na __app_name__ a použitím položky \"__delete_selected__\" -> \"__revert_and_remove__\" vymažte vybraté prvky a vrátite im predchádzajúcu hodnotu. Teraz môžete vyskúšať všetko od začiatku s inými prvkami, ak nejaké existujú.
+8. Ak sa hodnota zmenila, potom sa medzi vybranými prvkami nachádza požadovaná hodnota. Zapamätajte si novú hodnotu a vráťte sa na __app_name__.
+9. V zozname vybraných položiek, ktoré hľadajú požadovanú hodnotu. S ním odstráňte výber. Všetky ostatné hodnoty pomocou položky \"__delete_selected__\" -> \"__revert_and_remove__\" vymažte a vrátite im predchádzajúcu hodnotu.
+10. Upravte zostávajúci tak, ako potrebujete.
+
+Typické chyby - odstrániť bez vrátenia peňazí. Potom môže hra lietať.
+
+Ak nájdete veľa hodnôt, skúste urobiť automatické vyplnenie v malých častiach, aby sa zabránilo pádom.
+"</string>
+    <string name="help_hint_1">* Ak vždy nájdete požadované hodnoty v rovnakej oblasti (písmená na konci položiek v zozname výsledkov), môžete pre rýchlejšie vyhľadávanie vybrať iba tieto oblasti.</string>
+    <string name="help_faq_30_q">__app_name__ vyhľadáva hodnoty veľmi pomaly a dlhodobo v emulátore Android na PC.</string>
+    <string name="help_faq_30_a">"Pravdepodobne ste zakázali virtualizáciu v systéme BIOS počítača. Zapnite ho.
+__app_name__ pracuje v emulátore, takže jeho rýchlosť závisí od rýchlosti emulátora.
+Ak je povolená virtualizácia, ale rýchlosť je stále nízka, skontrolujte nastavenia emulátora alebo použite iný emulátor.
+Môžete tiež použiť iný nástroj - CheatEngine pre PC - bude vyhľadávať rýchlejšie a poskytne vám mnoho funkcií, ktoré nie sú a nikdy nebudú v __app_name__."</string>
+    <string name="help_speed_up_title">Ako urýchliť vyhľadávanie</string>
+    <string name="help_speed_up">"* Ako urýchliť vyhľadávanie:
+0. Ak používate Android emulátor na PC (BlueStacks, Droid4X, Andy, NOX, Memu, AMIDuOS, Windroy, AVD, Genymotion, Koplayer, Leapdroid, atď.), Uistite sa, že virtualizácia (Virtualization, VT Technology, Vanderpool Technology Virtualizačná technológia, VTx, VT-d, VMX, virtuálna technológia, Intel-VT, AMD-V, SVM, IOMMU) je súčasťou systému BIOS počítača.
+1. Ak máte veľa pamäte RAM, môžete do nej ukladať údaje. To výrazne urýchli vyhľadávanie. Nastavte parameter \"__data_in_ram__\" na \"__yes__\". V emulátore Android na PC to môže spomaliť vyhľadávanie.
+2. Ak máte málo pamäte RAM, údaje sa uložia na pamäťovú kartu. Použite pamäťovú kartu s vysokou rýchlosťou zápisu a čítania.
+3. Ak je pamäť rýchlejšia ako pamäťová karta, môžete určiť aj ukladanie údajov do vnútornej pamäte zariadenia. Nastavte parameter \"__set_path__\" na požadovanú cestu.
+4. Pri vyhľadávaní vyberte iba požadované oblasti. Vyhnite sa pomalým (\"__slow__\") a nebezpečným (\"__dangerous__\") regiónom.
+5. Môžete tiež určiť limity rozsahu pamäte, ktoré chcete vyhľadať, ak ich poznáte. Kliknite na tlačidlo \"__more__\" v dialógovom okne vyhľadávania a zadajte limity.
+6. Vyhľadávajte iba požadované typy údajov. Typ údajov \"__type_auto__\" je pomalý.
+7. Vypnite všetky možné možnosti \"__hide_from_game__\".
+8. Skúste použiť „__experimental__“ alebo „__extended__“ v „__memory_access__“. Tieto parametre môžu viesť k nestabilnej prevádzke.
+"</string>
+    <string name="help_faq_31_q">Po chvíli ikona __app_name__ zmizne.</string>
+    <string name="help_faq_31_a">"Skúste kliknúť na miesto, kde bola ikona. Ak sa otvorí rozhranie __app_name__, ikona sa v nastaveniach skryje, alebo sa firmvér zobrazí so zobrazenou ikonou.
+Ak sa rozhranie neotvorí, znamená to, že __app_name__ bol vyložený z pamäte.
+Možné príčiny:
+1. Zariadenie nemá dostatok pamäte RAM - __app_name__ systém zabil. Skúste použiť menej pamäte RAM. V nastaveniach __app_name__ nešpecifikujte ukladanie dát do pamäte RAM, neinštalujte veľký počet zobrazených výsledkov, odoberajte „extra“ aplikácie z pamäte RAM, používajte „ľahké“ analógy aplikácií, ktoré sa nedajú vyložiť (napríklad spúšťač). V obzvlášť zlých prípadoch reštartujte zariadenie pred spustením __app_name__ a hry. Takmer všetky firmware majú vždy únik pamäte. Viac času po reštarte - menej dostupnej pamäte RAM.
+2. Máte zabíjačské procesy, ktoré zabíjajú __app_name__.
+Zakázať vrahov alebo pridať __app_name__ k ich výnimkám.
+Killers sú všetky druhy \"optimizers\" a \"improvers\" RAM.
+Všeobecne, pozrite sa na popis softvéru, ak neviete, čo je alebo nie je vrah.
+
+Pre FlyMe: __app_name__ je z nejakého dôvodu vyložené po niekoľkých minútach práce - musíte povoliť prácu na pozadí pre __app_name__ a správcu root (zvyčajne SuperSu).
+
+Môžete tiež povoliť \"__use_notification__\" v nastaveniach __app_name__. Niekedy to zabraňuje zatvoreniu __app_name__."</string>
+    <string name="quick_start_title">Rýchly Začiatok</string>
+    <string name="prevent_unload">Zabrániť vykladaniu:</string>
+    <string name="hot_key">Klávesová skratka:</string>
+    <string name="hide">skryť</string>
+    <string name="execute_script">Spustiť skript</string>
+    <string name="execute">beh</string>
+    <string name="another_script">Spustenie iného skriptu. Prerušiť?</string>
+    <string name="interrupt">prerušiť</string>
+    <string name="script">scenár:</string>
+    <string name="script_ended">Skript je kompletný:</string>
+    <string name="paused">Hra bola pozastavená:</string>
+    <string name="by_pause_button">tlačidlo pauza</string>
+    <string name="by_option">nastavenie \"__s__\"</string>
+    <string name="new_search_short">nový</string>
+    <string name="speedhack_loading">Prebieha načítavanie ...</string>
+    <string name="speedhack_loaded">Speedhack naložený.</string>
+    <string name="busy_dialog_fail">Nepodarilo sa zobraziť dialógové okno postupu.</string>
+    <string name="site">webové stránky</string>
+    <string name="help_xor_search_title">XOR vyhľadávanie</string>
+    <string name="help_xor_search">"* XOR vyhľadávanie:
+Ak viete, že požadovaná hodnota je šifrovaná klávesom XOR, ktorý je vždy v rovnakej vzdialenosti od hodnoty, môžete tento režim použiť na vyhľadávanie podľa dekódovanej hodnoty.
+1. Otvorte __app_name__.
+2. Kliknite na tlačidlo \"__search_known_value__\" na karte \"__search__\".
+3. Zadajte hodnotu z hry a vzdialenosť od kľúča XOR, vydelenú \"__mode_xor__\". Ak chcete napríklad nájsť hodnotu 100 s kľúčom vo vzdialenosti 8, zadajte:
+100__mode_xor__8
+Ak chcete zadať ďalšie znaky, použite tlačidlo \"__btn_hex__\" na vstavanej klávesnici.
+4. Vyberte vhodný typ údajov alebo zvoľte “__type_auto__” (ak si nie ste istý) a ďalšie parametre (ak je to potrebné) a stlačte tlačidlo “__search__”.
+5. Po dokončení vyhľadávania sa výsledky vyhľadávania zobrazia v zozname.
+6. Vráťte sa do hry. Po zmene hodnoty sa znova otvorí __app_name__.
+7. Opakujte vyhľadávanie XOR s príslušnými zmenami.
+8. Ak sa nájde príliš veľa výsledkov, preskočte na krok 6.
+9. Ak zostane len niekoľko výsledkov, môžete ich skúsiť zmeniť, uložiť alebo zmraziť.
+
+Môžete použiť XOR vyhľadávanie spolu s vyhľadávaním rozsahu. Napríklad \"100__tilde__150__mode_xor__8\".
+Zvyčajne je vyhľadávanie XOR pomalšie ako normálne vyhľadávanie podľa hodnoty.
+Tento režim nie je podporovaný v skupinovom ani šifrovanom vyhľadávaní.
+Vzdialenosť k kľúču XOR by mala byť od 1 do 4096 vrátane.
+Na konci môžete zadať vzdialenosť v šestnástkovej sústave so symbolom __hex__: \"100__tilde__150__mode_xor__10h\".
+Vzdialenosť musí zodpovedať hodnotám. Napríklad slovo dword musí byť zarovnané na hranici 4 bajtov. Napríklad, vyhľadávanie „40__mode_xor__7“ je zbytočné pre dword, pretože 7 nie je deliteľné 4.
+Kombinácia tohto režimu s iným môže spôsobiť problémy so zlým firmvérom. Ak napríklad používate normálne vyhľadávanie a potom zadáte režim XOR, môže to spôsobiť, že zariadenie zamrzne alebo reštartuje počítač. To by sa nemalo stať, ak je prvé vyhľadávanie v tomto režime.
+Fuzzy vyhľadávanie pre tento režim nie je podporované. Môžete ich skombinovať, ale fuzzy vyhľadávanie bude fungovať ako obvykle a nebude brať do úvahy kľúč XOR.
+Značka je braná do úvahy. To znamená, že môžete vyhľadávať: hodnota nie je rovnaká, viac, menej a tak ďalej.
+V tomto vyhľadávaní sa všetky hodnoty považujú za podpísané.
+"</string>
+    <string name="help_faq_32_q">Aký je rozdiel medzi verziami HW / SW ikony spustenia? A ktorý z nich mám použiť?</string>
+    <string name="try_latest">Možno tento skript potrebuje najnovšiu verziu __app_name__. Skúste aktualizovať na najnovšiu verziu.</string>
+    <string name="help_string_search_title">Textové vyhľadávanie (reťazce, HEX, AoB)</string>
+    <string name="download_scripts">Stiahnite si skripty</string>
+    <string name="hide_icons">Skryť ikony spustenia</string>
+    <string name="select_mode">Vyberte režim</string>
+    <string name="mode_string">text</string>
+    <string name="mode_mixed">zmiešaný</string>
+    <string name="string_search_prompt">Zadajte text, ktorý chcete vyhľadať, až do __d__ bajtov. Napríklad</string>
+    <string name="string_empty">Musíte zadať text.</string>
+    <string name="string_not_found">Text \"__s__\" nebol nájdený.</string>
+    <string name="string_found">Nájdené __d__ zodpovedá textu \"__s__\".</string>
+    <string name="string_replace">Chcete ich nahradiť?</string>
+    <string name="string_replace_prompt">Zadajte text, ktorý chcete nahradiť \"__s__\". Dlhé nie viac ako __d__ bajtov.</string>
+    <string name="string_replaced">Nahradené \"__s__\" s \"__s__\" v __d__ miestach.</string>
+    <string name="need_allow_background">Na tomto firmvéri by ste mali povoliť __app_name__ pracovať na pozadí v nastaveniach systému.</string>
+    <string name="calculate_offset_xor">Vypočítajte posun, XOR</string>
+    <string name="select_copy_item">Vyberte položku, ktorú chcete kopírovať:</string>
+    <string name="landscape">Album</string>
+    <string name="portrait">portrét</string>
+    <string name="toolbar_buttons">Tlačidlá panela s nástrojmi</string>
+    <string name="need_update_to">Na spustenie tohto skriptu potrebujete novšiu verziu __app_name__. Najmenej verzia __s__. Máte verziu __s__.</string>
+    <string name="default_mark">štandardné</string>
+    <string name="default_">Štandardne:</string>
+    <string name="reset_button">resetovať</string>
+    <string name="help_hex_colors_title">Farby v editore pamäte</string>
+    <string name="help_hex_colors">"* __help_hex_colors_title__:
+Ak hexadecimálne zobrazenie nie je biele, ale farebné, potom je s najväčšou pravdepodobnosťou v tejto hodnote ukazovateľ. Farba označuje, aký typ pamäte tento ukazovateľ ukazuje.
+Môže to byť __executable__ pamäte, __writable__ alebo __read_only__. V zriedkavých prípadoch to môže byť __writable_and_executable__ pamäte."</string>
+    <string name="executable">vykonané</string>
+    <string name="writable">zapisovateľný</string>
+    <string name="read_only">len na čítanie</string>
+    <string name="writable_and_executable">zapisovateľný a spustiteľný</string>
+    <string name="help_extract">Extrahovať Pomocník</string>
+    <string name="help_extract_done">Pomoc bola extrahovaná na __s__</string>
+    <string name="help_extract_fail">Pri načítavaní pomoci sa vyskytla chyba:</string>
+    <string name="try_arm_version">Skúste použiť verziu __app_name__ s podporou starších procesorov ARM:</string>
+    <string name="back">pred</string>
+    <string name="forward">vpred</string>
+    <string name="no_previous">Žiadne predchádzajúce záznamy</string>
+    <string name="no_next">Žiadne nasledujúce položky</string>
+    <string name="from_item">Z položky:</string>
+    <string name="from_context">Z kontextového menu:</string>
+    <string name="from_boundary">Od hranice</string>
+    <string name="from_goto">Zavolajte goto</string>
+    <string name="from_calc">Od kompenzačnej kalkulačky:</string>
+    <string name="help_add_to_value_title">Možnosť „__add_not_replace__“</string>
+    <string name="help_add_to_value">"* __help_add_to_value_title__:
+Ak je tento príznak nastavený, zadaná hodnota bude pridaná k existujúcej a nebude nahradená. Napríklad prvok má hodnotu 5 a do poľa hodnoty ste zadali 7. Ak je táto voľba zapnutá, položka dostane novú hodnotu 5 + 7, rovnajúcu sa 12. Ak nie je začiarknutá, potom 7.
+Môžete zadať kladné aj záporné hodnoty.
+Tento parameter nie je kompatibilný s hodnotami mrazu."</string>
+    <string name="check_libs">Skontrolujte architektúru knižnice hier:</string>
+    <string name="arm_libs">"Hra je nainštalovaná s knižnicami ARM, hoci apk má knižnice x86.
+Speedhack a všetko s ním spojené nebude fungovať.
+\"__skip__\" vypne túto kontrolu. Môžete ho zapnúť v nastaveniach."</string>
+    <string name="manual_install">Súbor .apk môžete nainštalovať manuálne. Nachádza sa pozdĺž tejto cesty:</string>
+    <string name="as_text">Podobný text (nedá sa načítať)</string>
+    <string name="as_text_help">Uloží zoznam v čitateľnom textovom formáte. Preberanie tohto formátu nie je podporované.</string>
+    <string name="help_pointer_search_title">Ukazovateľ vyhľadávania</string>
+    <string name="help_pointer_search">Vyhľadáva hodnoty, ktoré môžu byť ukazovateľmi na požadovanú adresu. Môžete určiť maximálny limit pre možné posunutie.</string>
+    <string name="all_memory">Vo všetkej pamäti</string>
+    <string name="offset_help">Maximálny limit pre možný posun.</string>
+    <string name="typical_values">Typické hodnoty</string>
+    <string name="su_command">Príkaz superuser</string>
+    <string name="starts">Začína na</string>
+    <string name="ends">Skončí</string>
+    <string name="no_filter">Žiadny filter.</string>
+    <string name="help_memory_filter_title">Filtrovanie v editore pamäte</string>
+    <string name="help_memory_filter">"* __help_memory_filter_title__:
+V editore pamäte môžete zadať filter. Zobrazia sa iba výsledky, ktoré sa zhodujú s filtrom.
+Filter podporuje zástupné znaky:
+__caret__ - začiatok údajov
+__dollar__ - koniec údajov
+__asterisk__ - ľubovoľný počet ľubovoľných znakov,
+__question__ - rovnaký znak.
+Ak napríklad chcete vyhľadať číslo 42, musíte zadať číslo __caret__42__dollar__."</string>
+    <string name="use_sh">Použite príkaz shell</string>
+    <string name="backgrounds">Čierne pozadie</string>
+    <string name="actions">akcie:</string>
+    <string name="game_settings">Nastavenia hry:</string>
+    <string name="global_settings">Globálne nastavenia:</string>
+    <string name="ui_settings">Nastavenia používateľského rozhrania:</string>
+    <string name="others">iné:</string>
+    <string name="skip_memory">Preskočiť oblasti pamäte:</string>
+    <string name="empty_memory">prázdny</string>
+    <string name="without_protection">bez ochrany</string>
+    <string name="help_games_protection_title">Ako obísť ochranu v hrách</string>
+    <string name="help_games_protection">"Niektoré hry sú vybavené ochranou pred editormi pamäte. Môžete vyskúšať nasledovné:
+1. \"__kill_game__\" a potom \"__restart_game_without_protection__\".
+2. \"__disable_protection__\" a potom spustiť (alebo reštartovať) hru.
+3. Použite všetky alebo časť položiek v “__hide_from_game__”. Všetci spomaľujú vyhľadávanie.
+4. Hľadať, keď je hra minimalizovaná.
+5. Hľadanie, keď je hra pozastavená.
+6. Zabiť alebo pozastaviť časť obranných procesov hry, ak má hra niekoľko procesov.
+7. Použite XPrivacy alebo podobné prostriedky na obídenie ochrany.
+8. Použite modifikáciu hry bez ochrany.
+"</string>
+    <string name="disable_protection">Zakázať ochranu pre všetky aplikácie (pred reštartom)</string>
+    <string name="must_restart_if">Ak ste začali hru pred vypnutím ochrany, musíte ju reštartovať.</string>
+    <string name="patch_loading">Načítava sa patch ...</string>
+    <string name="patch_loaded">Patch bol nahraný.</string>
+    <string name="patch_failed">Náplasť sa nenačíta.</string>
+    <string name="history_limit">Limit histórie:</string>
+    <string name="copy_as_search">Kopírovať ako skupinové vyhľadávanie</string>
+    <string name="add_types">Pridať typy</string>
+    <string name="add_size">Pridať veľkosť skupiny</string>
+    <string name="copy_rhex_value">Kopírovať hodnotu rhex:</string>
+    <string name="mips_arch">Táto aplikácia nepodporuje architektúru MIPS.</string>
+    <string name="unrandomizer">Antirandom</string>
+    <string name="functions">funkcie</string>
+    <string name="help_unrandomizer">"
+Anti-rand je funkcia určená na nahradenie niektorých funkcií bežne používaných v hrách na vytvorenie náhodných hodnôt. Na veľmi jednoduchej úrovni môže byť napríklad hra, v ktorej sa funkcia náhodného výberu používa na určenie odmeny hráča. Zapnutie anti-home bude mať za následok, že __app_name__ sa pokúsi nahradiť túto náhodnú hodnotu danou hodnotou, aby zmenil výsledok (napríklad aby získal určitú odmenu).
+
+Anti-rand nebude fungovať vo všetkých prípadoch. Spracuje iba tie funkcie, o ktorých vie. Vo väčšine prípadov a pre väčšinu používateľov to nebude užitočné, pretože ide skôr o pokročilú / experimentálnu funkciu.
+
+Niektoré funkcie sa vracajú __type_qword__, niektoré - __type_double__ (zriedka používané).
+
+Hodnoty __type_double__ by mali byť v rozsahu od 0 do 1. Môžete však zadať akékoľvek hodnoty, pretože __app_name__ automaticky opraví všetky nesprávne možnosti.
+
+Môžete tiež zadať krok zvyšovania. V tomto prípade sa každý nasledujúci výsledok zvýši o túto hodnotu. Napríklad pre prírastky 1 a počiatočnú hodnotu 0, 0, 1, 2, 3, ... sa vrátia namiesto náhodnej hodnoty.
+Tento parameter môže byť užitočný pre úplné vyhľadávanie všetkých náhodných výsledkov.
+
+V nastaveniach __app_name__ môžete určiť, ktoré funkcie je potrebné nahradiť.
+"</string>
+    <string name="count_replace">Koľko prvých výsledkov sa má nahradiť?</string>
+    <string name="unrandomizer_loading">Prebieha načítavanie ...</string>
+    <string name="unrandomizer_loaded">Načítané anti-rand.</string>
+    <string name="warn_restart_off_prot">"Táto možnosť sa pokúsi reštartovať hru bez ochrany.
+Mnoho firmware však obsahuje chyby, ktoré môžu viesť k reštartu zariadenia.
+Ak k tomu dôjde, nesnažte sa znovu spustiť hru, pretože to zariadenie reštartuje.
+Stačí spustiť __app_name__ - odstránia sa zlé nastavenia.
+Môžete sa tiež pokúsiť o pravidelné reštartovanie zariadenia, čo by tiež malo problém vyriešiť.
+
+Ak došlo k reštartu - túto funkciu nepoužívajte, nebude fungovať na vašom firmvéri."</string>
+    <string name="warn_patch_off_prot">"Táto možnosť sa pokúsi dočasne oprava systému (tak, aby všetky aplikácie bežali bez ochrany).
+Zmeny ovplyvnia iba nové spustenia aplikácií. Preto, cieľová aplikácia, po úspešnom patch, musíte reštartovať.
+Ak chcete opravu odstrániť, reštartujte zariadenie.
+Možno budú v systéme rôzne chyby, po tomto náplaste.
+
+Ak je oprava úspešná, neodporúča sa spúšťať túto funkciu znova, kým sa zariadenie reštartuje.
+
+Ak máte problémy, túto funkciu nepoužívajte."</string>
+    <string name="clear_history">Vymazať históriu vstupu</string>
+    <string name="clear_history_warn">Všetky položky vrátane príspevkov budú odstránené.</string>
+    <string name="click_edit">Ak chcete zmeniť, kliknite tu</string>
+    <string name="ignore_unknown_chars">Ignorovať neznáme znaky:</string>
+    <string name="need_root_mode">Táto funkcia vyžaduje prístup root. Teraz __app_name__ pracuje v režime virtuálneho prostredia bez prístupu root.</string>
+    <string name="work_without_root_title">Práca bez koreňa</string>
+    <string name="work_without_root">"__app_name__ dokáže pracovať bez koreňového adresára prostredníctvom virtuálneho prostredia. Napríklad cez __vspace_list__ a mnoho ďalších.
+__app_name__ musí byť nainštalovaný vo virtuálnom prostredí. Hra by tam mala byť tiež nainštalovaná.
+Nie všetky funkcie programu sú podporované, ale väčšina funkcií by mala fungovať.
+
+Nebudete môcť hackovať hry, ktoré nie sú nainštalované vo virtuálnom prostredí.
+
+Prvé spustenie __app_name__, ktorý vykonáva preinštalovanie s náhodným názvom balíčka, by sa nemalo vykonávať prostredníctvom virtuálneho prostredia.
+Potom môžete pridať __app_name__ do virtuálneho prostredia a použiť."</string>
+    <string name="help_game_not_listed_title">Prečo nie je moja hra v zozname procesov?</string>
+    <string name="fractional_hint">"Frakčná časť reálneho čísla „x“ je prebytok, ktorý presahuje celočíselnú časť tohto čísla.
+Číslo jeho zlomkovej časti preto zodpovedá číslam, ktoré sa objavujú za desatinnou čiarkou.
+
+Napríklad:"</string>
+    <string name="pointer">ukazovateľ:</string>
+    <string name="help_search_filter_title">Filtre vo vyhľadávaní</string>
+    <string name="help_search_filter">"Výsledky vyhľadávania môžete filtrovať.
+Môžete zadať:
+- limity pre zmenu adresy, t
+- limity zmeny hodnoty, t
+- požadované typy údajov
+- požadovanú zlomkovú časť čísla,
+- požadovaný typ ukazovateľa.
+Všetky filtre môžete navzájom kombinovať.
+Jeden alebo niektorý z filtrov môžete kedykoľvek vypnúť.
+
+Ak sa však nájde veľké množstvo údajov, filtre môžu spomaliť výsledky.
+
+Filter na zlomkovú časť čísla môže byť buď v rovnosti alebo nerovnosti.
+Pre celočíselné typy je zlomková časť nulová. Ak nepotrebujete celočíselné typy, vylúčte ich pomocou typového filtra.
+
+Filter podľa typu ukazovateľa vám umožňuje ponechať vo výstupe iba tie hodnoty, ktoré môžu byť ukazovateľom na požadovaný typ pamäte.
+Možné typy pamäte zodpovedajú farbám v editore pamäte:
+Môže to byť __executable__ pamäte, __writable__ alebo __read_only__. V zriedkavých prípadoch to môže byť __writable_and_executable__ pamäte.
+
+Non-ukazovateľ typu zodpovedá všetkým dátovým typom, ktoré nemôžu byť ukazovateľmi, ako aj tie ukazovatele hodnôt, ktoré ukazujú na nepridelenú pamäť."</string>
+    <string name="unmount_kill">"Pamäťová karta bola odpojená, zatiaľ čo __app_name__ na nej uložilo dočasné súbory. To viedlo k nútenému uzavretiu démona.
+
+Aby ste tomu zabránili, zadajte inú cestu k dočasným súborom. Napríklad vo vnútornej pamäti.
+Mal by byť dostatok voľného miesta."</string>
+    <string name="calls">Režim systémového volania:</string>
+    <string name="alternative">alternatívne</string>
+    <string name="help_calls">"Na niektorých firmware, napríklad Lenovo, môže alternatívny režim pracovať rýchlejšie.
+
+Túto možnosť zvyčajne nie je potrebné meniť."</string>
+    <string name="help_context_title">Kontextová nápoveda</string>
+    <string name="help_context">"V rozhraní sú niektoré prvky označené špeciálnou ikonou v pravom hornom rohu so symbolom __i__ v kruhu.
+Stlačenie alebo dlhé stlačenie tejto položky zobrazuje pomoc pri tejto položke."</string>
+    <string name="waitpid_mode">Režim __waitpid__:</string>
+    <string name="help_waitpid">"V niektorých firmware nefunguje systémové volanie __waitpid__ podľa očakávania. Toto je zvyčajne spôsobené nesprávnym nastavením SeLinux.
+To vedie k nekonečnému hľadaniu na __app_name__.
+Môžete skúsiť použiť alternatívny režim. Môže to fungovať."</string>
+    <string name="microseconds_short">mikrosekúnd</string>
+    <string name="small_is_bad">Príliš malé hodnoty môžu viesť k vysokému zaťaženiu procesora a oneskoreniu v hre.</string>
+    <string name="freeze_interval_help">Interval, prostredníctvom ktorého __app_name__ prepíše hodnoty v pamäti hry.</string>
+    <string name="saved_list_update_interval_help">Interval, pri ktorom __app_name__ aktualizuje hodnoty v uloženom zozname.</string>
+    <string name="icons_size_help">"Veľkosť ikon v rozhraní je __app_name__.
+Neplatí pre plávajúce ikony."</string>
+    <string name="ignore_unknown_chars_help">Môže pomôcť pri riešení problémov pri kopírovaní čísel z rôznych miest, ak sa skopírujú špeciálne znaky s číslami.</string>
+    <string name="use_notification_help">"Použitie oznámení v oblasti oznámení systému Android.
+Na niektorých firmware to zvyšuje prioritu aplikácie a zabraňuje jej zatvoreniu.
+Môžete tiež použiť upozornenie na prechod na __app_name__ alebo na hru kliknutím na ňu.
+To môže byť užitočné, ak nemôžete kliknúť na plávajúcu ikonu."</string>
+    <string name="use_sound_effects_help">"Použite systémové zvuky, keď kliknete na tlačidlá a položky.
+Na niektorých firmware spôsobujú zvuky pokles o __app_name__."</string>
+    <string name="keyboard_help">Interná klávesnica zaberá menej pamäte, rýchlejšie sa načítava a je optimalizovaná pre zadávanie čísel.</string>
+    <string name="allow_suggestions_help">"Tipy z externej klávesnice.
+Na niektorých firmware rady vedú k pádu __app_name__."</string>
+    <string name="autopause_help">Automaticky pozastaviť hru pri otvorení rozhrania __app_name__.</string>
+    <string name="killed_by">__app_name__ bol násilne uzavretý aplikáciou \"__s__\". Aby ste tomu predišli, vymažte túto aplikáciu alebo ju nakonfigurujte tak, aby nedokončila __app_name__.</string>
+    <string name="killers_found">"Вы установили приложения, которые могут принудительно закрыть __app_name__:
+__s__
+Aby ste tomu predišli, vymažte ich alebo ich nakonfigurujte tak, aby nedokončili __app_name__.
+
+Ak nemáte problémy s neočakávaným ukončením __app_name__, nevyžaduje sa žiadna akcia a túto správu môžete ignorovať."</string>
+    <string name="record_logcat">Záznam __logcat__</string>
+    <string name="record_logcat_info">"__app_name__ sa reštartuje so záznamom __logcat__ do súboru:
+\"__s__\".
+
+Na dokončenie nahrávania, ukončite __app_name__.
+Potom môžete poslať súbor protokolu tam, kde ho potrebujete."</string>
+    <string name="need_uninstall">Musíte odinštalovať inštalačný program, inak budete mať 4 ikony, nie 2. Tiež hra bude detekovať.</string>
+    <string name="need_random_name">"__app_name__ používa štandardný názov balíka. Hry ho môžu rozpoznať.
+
+Ak to chcete opraviť, spustite __app_name__ mimo virtuálneho priestoru, ako je to pri bežnej aplikácii.
+Po dokončení inštalácie pridajte kópiu __app_name__ s náhodným názvom do virtuálneho priestoru."</string>
+    <string name="work_mode">Prevádzkový režim</string>
+    <string name="root">Ruth</string>
+    <string name="no_root">žiadny koreň</string>
+    <string name="how_no_root">"Musíte nainštalovať aplikáciu virtuálneho priestoru. Napríklad: __vspace_list__.
+
+Odporúča sa inštalovať optimalizované verzie z oficiálnej stránky __app_name__.
+
+Potom musíte pridať __app_name__ a vašu hru do tohto virtuálneho priestoru.
+
+Potom musíte spustiť hru a __app_name__ vo virtuálnom priestore."</string>
+    <string name="eperm_error_descr_0">Možné príčiny:</string>
+    <string name="eperm_error_descr_1">Ochrana v hre.</string>
+    <string name="eperm_error_descr_2">K hre je pripojený ďalší debugger alebo hacker.</string>
+    <string name="eperm_error_descr_3">Nedostatočné práva. Zvyčajne kvôli nesprávne nakonfigurovanej __selinux__. Vypnite alebo nakonfigurujte __selinux__.</string>
+    <string name="eperm_error_descr_4">Zlé jadro alebo firmvér. Vyskúšajte iný firmvér alebo iné zariadenie.</string>
+    <string name="eperm_error_descr_5">Na vašom firmvéri nefunguje režim „no root“. Vyskúšajte iný firmvér alebo iné zariadenie alebo získajte root.</string>
+    <string name="ptrace_bypass_mode">Bypass režim na ochranu ptrace:</string>
+    <string name="mode_restore">obnoviť</string>
+    <string name="mode_nothing">nerobiť nič</string>
+    <string name="mode_freeze">zmraziť</string>
+    <string name="ptrace_bypass_mode_help">"Určuje, čo robiť po vypnutí zabezpečenia:
+__mode_restore__ - opätovné pripojenie
+__mode_nothing__ - nerobiť nič (obyčajne sa znovu pripája obrana)
+__mode_freeze__ - zmraziť prúd (ako v predchádzajúcich verziách)
+
+Ak obnovíte ochranu, alebo ak necháte ochranu urobiť sám, potom zmrazenie hodnôt v parametri __app_name__ môže viesť k oneskoreniam v dôsledku stáleho pripojenia / odpojenia ochrany."</string>
+    <string name="slow_emulator">"Používate emulátor \"__s__\". Je pomalý a má chyby. Z tohto dôvodu môže byť vyhľadávanie veľmi pomalé.
+\u0009\u0009
+Odporúčame používať iné emulátory:"</string>
+    <string name="text">text</string>
+    <string name="show_debug_info">Zobraziť informácie o ladení</string>
+    <string name="mnt_expand">"__app_name__ nainštalovaná na pamäťovú kartu, ktorá sa používa ako interná pamäť.
+To môže rušiť prevádzku virtuálnych priestorov.
+Ak sa tak stane, nainštalujte do vnútornej pamäte zariadenia __app_name__.
+Možno budete musieť pamäťovú kartu preformátovať ako „Vymeniteľné úložisko“."</string>
+    <string name="help_game_not_listed_root">"Hra musí byť spustená, aby ste ju vybrali.
+
+Ak je hra spustená, ale stále nie je v zozname, môžete mať problémy s koreňovým alebo firmvérom.
+Vyskúšajte iný koreňový alebo iný firmvér."</string>
+    <string name="help_game_not_listed_noroot">"Hra musí byť spustená vo virtuálnom priestore, aby ju bolo možné vybrať.
+
+Nemôžete si vybrať hru, ak nie je spustená vo virtuálnom priestore.
+
+Ak je hra spustená vo virtuálnom priestore, ale stále nie je uvedená, vyskúšajte iný virtuálny priestor, iný firmvér, iné zariadenie alebo získajte root."</string>
+    <string name="daemon_killed_oom">"Démon bol ukončený systémom z dôvodu nedostatočnej pamäte.
+
+Nastavte \"__data_in_ram__\" na \"__no__\".
+Ak je to možné, použite hardvérovú akceleráciu hardvéru.
+Nepoužívajte veľké aplikácie.
+Zakážte všetky ostatné nepoužívané aplikácie.
+Po reštartovaní zariadenia skúste použiť __app_name__."</string>
+    <string name="selected_as_search_result">Zvolené ako výsledok vyhľadávania</string>
+    <string name="clear_results_prompt">Toto nahradí aktuálne výsledky vyhľadávania. Chcete pokračovať?</string>
+    <string name="position_in_memory_editor">Pozícia v editore pamäte</string>
+    <string name="script_prompt_internet">"Skript chce pristupovať na Internet. Ak povolíte prístup, skript bude schopný ukradnúť vaše prihlasovacie údaje, heslá, uložiť a ďalšie údaje z hry. Tiež môže ukradnúť ďalšie skripty alebo stiahnuť vírusy do vášho zariadenia.
+
+Povoliť prístup k skriptu na Internet?"</string>
+    <string name="level">hladina</string>
+    <string name="float_prompt">"Pre správne spustenie __app_name__ na firmvéri musíte povoliť použitie vyskakovacích okien v nastaveniach systému pre __s__.
+
+V predvolenom nastavení sa kontextové okno nezobrazuje na telefónoch Huawei. Ak chcete zobraziť kontextové okno, musíte povoliť možnosť __s__. Otvorte aplikáciu Phone Manager, potom položku Správa Dropzone a uistite sa, že je povolená možnosť __s__.
+
+Pop-up okno sa tiež nezobrazuje na niektorých telefónoch Xiaomi. Musíte prejsť na Nastavenia -> Nainštalované aplikácie -> __s__ -> Iné povolenia -> Zobraziť kontextové okno.
+
+Okrem toho, iné telefóny môžu mať rôzne postupy, ktoré umožňujú aplikáciám zobrazovať kontextové okná. Platí to pre všetky takéto aplikácie, napríklad aplikáciu Google Translator s funkciou Prepojenie klepnutím. Preto môžete jednoducho vyhľadať google “YOUR_PHONE tap to translate”, aby ste našli riešenie. Napríklad pre zariadenia Xiaomi Redmi je riešenie nasledovné:"</string>
+    <string name="virtual_space">Aplikácia virtuálneho priestoru</string>
+    <string name="prevent_unload_help">"Zabráňte vyloženiu __app_name__ z pamäte (nútené zatváranie).
+
+Každá ďalšia úroveň je silnejšia ako tá predchádzajúca a sama ju zahŕňa.
+
+Tretia úroveň môže spôsobiť problémy (zablokuje toast, reštartuje alebo havaruje) na niektorých firmware a emulátoroch.
+
+Bez koreňa funguje iba tretia úroveň."</string>
+    <string name="integer_type">Tento typ údajov je určený len pre celočíselné hodnoty a nepodporuje zlomkové hodnoty. Pre zlomkové hodnoty použite __type_float__ alebo __type_double__.</string>
+    <string name="without_float">Môžete tiež použiť __app_name__ bez plávajúcich okien:</string>
+    <string name="any_value">akúkoľvek hodnotu</string>
+    <string name="help_group_search_any_value">__any__ môžete použiť v usporiadanom skupinovom vyhľadávaní spolu s minimálnou veľkosťou skupiny, aby ste zadali ľubovoľnú hodnotu určeného typu v požadovanej polohe.</string>
+    <string name="help_scripts_title">skripty</string>
+    <string name="help_scripts">"* __help_scripts_title__:
+__app_name__ podporuje vykonávanie skriptov napísaných v Lua.
+
+Na karte vyhľadávania kliknite na ponuku a vyberte možnosť „__execute_script__.“
+Tu môžete vybrať súbor skriptu, ktorý sa má spustiť, zobraziť existujúce metódy API __app_name__ alebo prejsť na oficiálnu webovú stránku, kde si môžete prečítať pomocníka rozhrania API alebo prevziať pripravené skripty.
+Pomocník API môžete tiež extrahovať na pamäťovú kartu, aby ste si ju mohli prečítať bez internetu.
+
+Ak chcete napísať vlastný skript, potom potrebujete externý textový editor.
+__app_name__ neumožňuje úpravy skriptov, vykonáva ich iba.
+
+Ďalšie informácie nájdete v pomocníkovi rozhrania API."</string>
+    <string name="help_floating_icon_absent">Ak po stlačení tlačidla \"__start__\" nevidíte plávajúcu ikonu:</string>
+    <string name="remove_all2">Odstrániť všetko</string>
+    <string name="debug_load">Výpis všetkých prevzatých kódov</string>
+    <string name="debug_log">Zaznamenávanie väčšiny hovorov skriptov</string>
+    <string name="vspace64">"Spustili ste __app_name__ vo virtuálnom priestore, ktorý podporuje 64-bitové procesy.
+
+__app_name__ neuvidí 32-bitové procesy bežiace v tomto priestore.
+
+Ak chcete pracovať v __app_name__ s 32-bitovými procesmi, nainštalujte druhú kópiu __app_name__ do režimu \"__for32__\"."</string>
+    <string name="folder_new">Nový priečinok</string>
+    <string name="folder_exists">Tento priečinok už existuje.</string>
+    <string name="folder_file">Existuje súbor s týmto názvom.</string>
+    <string name="folder_failed">Nepodarilo sa vytvoriť priečinok</string>
+    <string name="force_close">"Predchádzajúce dokončenie aplikácie bolo neočakávané.
+
+Nastavenie „__prevent_unload__“ môžete zvýšiť, aby ste tomu v budúcnosti zabránili."</string>
+    <string name="help_force_close_title">Neočakávané dokončenie</string>
+    <string name="install_mode">Režim inštalácie</string>
+    <string name="for32">Pre hackovanie 32-bitových hier v 64-bitovom virtuálnom priestore</string>
+    <string name="for64">Pre hackovanie 64-bitových hier v 64-bitovom virtuálnom priestore</string>
+    <string name="reset_ignore">Obnoviť všetky ignorované pre všetky konverzácie.</string>
+    <string name="allocate_fail">Nepodarilo sa alokovať pamäť stránky. chyba</string>
+    <string name="allocated">Alokovaná pamäťová stránka:</string>
+    <string name="allocate_page">Zvýraznite pamäťovú stránku</string>
+    <string name="prot_read">Možno čítať</string>
+    <string name="prot_write">Môže byť zaznamenaný</string>
+    <string name="prot_exec">Môže byť vykonaná</string>
+    <string name="install_finished">"Inštalácia bola úspešne dokončená.
+Inštalovanú kópiu spustite manuálne, aby mohla preniesť vaše údaje.
+Potom môže byť inštalátor odstránený."</string>
+    <string name="odd_vspace">__app_name__ beží vo virtuálnom priestore?</string>
+    <string name="record_script">Záznam skriptu</string>
+    <string name="record">rekord</string>
+    <string name="another_record">Vykonáva sa ďalší záznam. Prestať?</string>
+    <string name="record_ended">Záznam je kompletný:</string>
+    <string name="stop">prestať</string>
+    <string name="could_not_use">Nepodarilo sa použiť:</string>
+    <string name="not_optimized2">"Používate neoptimalizovanú verziu virtuálneho priestoru (\"__s__\").
+Ak chcete vyriešiť túto chybu, odstráňte neoptimalizovanú verziu \"__s__\" a nainštalujte jednu z optimalizovaných virtuálnych priestorov z oficiálnej webovej stránky __app_name__.
+Kliknutím na tlačidlo „__fix_it__“ prejdete na výber optimalizovaných virtuálnych priestorov."</string>
+    <string name="fix_path">Uvoľnite miesto alebo zadajte inú cestu pre dočasné súbory kliknutím na \"__fix_it__\".</string>
+    <string name="deep_read">Hlboké čítanie:</string>
+    <string name="help_deep_read">"Čítanie pamäte všetkými dostupnými spôsobmi, ak nie je možné čítať.
+Môže spomaliť čítanie pamäte."</string>
+    <string name="ptrace_fail">Nepodarilo sa zmeniť pamäť prostredníctvom služby ptrace.</string>
+    <string name="ptrace_fail_partially">Niektoré funkcie, speedhack a všetko s ním spojené nebude fungovať. Zápis do pamäte len na čítanie (vrátane kódu) nie je možný.</string>
+    <string name="ptrace_fail_full">Absolútna väčšina funkcií nebude fungovať.</string>
+    <string name="ptrace_fail_solve">"Typickým dôvodom je prerušené jadro vo firmvéri.
+Skúste zmeniť firmvér. Ak ste ho nedávno aktualizovali, nainštalujte predchádzajúcu verziu.
+
+Ak to nefunguje, vymeňte zariadenie."</string>
+    <string name="feature_hide_4">Táto funkcia nemôže pracovať, ak je v položke „__hide_from_game__“ vybratá položka 4.</string>
+    <string name="feature_firmware">Táto funkcia nemôže fungovať bez ptrace, ktorá na tomto firmware nefunguje.</string>
+    <string name="feature_protection">Táto funkcia nie je schopná fungovať z dôvodu ochrany nástroja ptrace v hre.</string>
+    <string name="not_file">Cesta nie je súbor:</string>
+    <string name="not_execute">Nepodarilo sa vykonať:</string>
+    <string name="check_install">Skontrolujte, či je inštalácia __app_name__.</string>
+    <string name="sdcard_install">Ak je __app_name__ nainštalovaný na externé úložisko (SD karta), vráťte ho do vnútornej pamäte</string>
+    <string name="change_address_type">Zmeniť adresu / typ</string>
+    <string name="bad_offset">Posun nie je násobkom __d__.</string>
+    <string name="bad_result_address">Výsledná adresa nie je násobkom __d__.</string>
+    <string name="correct_types">Prvky __d__ zmenia svoj typ, aby opravili nemožné zarovnanie.</string>
+    <string name="reinstall_fail">"Nie je možné preinštalovať __app_name__ s náhodným názvom.
+
+__app_name__ možno ľahko zistiť pomocou hier.
+
+Počas inštalácie si môžete zapísať __logcat__ a požiadať o pomoc oficiálne fórum.
+
+Dôvod zlyhania:"</string>
+    <string name="empty_field">Prázdne vstupné pole: žiadne číslo na konverziu</string>
+    <string name="need_integer">Musíte vybrať celé číslo, ktoré chcete previesť.</string>
+    <string name="maps_failed">Súbor \"__maps__\" sa nedá otvoriť.</string>
+    <string name="game_protected">Hra je chránená.</string>
+    <string name="need_root">Potrebujete root pre hacking tejto hry.</string>
+    <string name="vspace_error">"Problém virtuálneho priestoru alebo firmvéru alebo zariadenia.
+
+skúste:
+- používať iný virtuálny priestor
+- používať iný firmvér
+- získať koreň
+- používať iné zariadenie"</string>
+    <string name="root_error">"Problém firmvéru alebo root alebo zariadenia.
+
+skúste:
+- používať iný firmvér
+- použiť iný koreň
+- používať iné zariadenie"</string>
+    <string name="vspace_root">Použiť root vo virtuálnom priestore:</string>
+    <string name="help_vspace_root">"Použitie root z kyberpriestoru môže pomôcť skryť skutočnosť, že __app_name__ je nainštalovaný na zariadení.
+
+Nepracuje na všetkých firmware a nie na všetkých virtuálnych priestoroch.
+
+Virtuálny priestor, firmvér a root by mali umožňovať prácu s root z virtuálneho priestoru.
+Virtuálny priestor by mal umožniť inštaláciu aplikácií dovnútra bez ich inštalácie do systému.
+
+Nie všetky virtuálne priestory to môžu poskytnúť.
+
+Nie na všetkých firmware tento režim bude fungovať. A nie so všetkými koreňmi.
+
+Keďže práva root budú udelené celému virtuálnemu priestoru, nemali by ste do neho nič inštalovať. V opačnom prípade môže každá aplikácia z virtuálneho priestoru využívať práva root s nepredvídateľnými dôsledkami.
+
+Hra musí byť nainštalovaná mimo virtuálneho priestoru.
+
+__app_name__ by sa mal inštalovať iba vo virtuálnom priestore bez jeho inštalácie do systému.
+Ako to urobiť - pozrite si pomoc konkrétneho virtuálneho priestoru.
+
+Napríklad pre __vexp__ môžete klonovať __app_name__ zo systému na __vexp__ a potom zo systému odstrániť __app_name__."</string>
+    <string name="help_games_protection_9">9. Použite root vo virtuálnych priestoroch, ktoré vám umožňujú inštalovať aplikácie do seba bez inštalácie do systému.</string>
+    <string name="locale_ui">Vo vašom miestnom nastavení</string>
+    <string name="locale_script">Skripty vždy používajú anglický jazyk.</string>
+    <string name="locale_desc">"Desatinný oddeľovač „__s__“
+'__s__' - oddeľovač tisícov
+'__semicolon__' - oddeľovač čísla skupiny"</string>
+    <string name="help_unaligned_title">Hľadať bez zarovnania / big-endian vyhľadávania</string>
+    <string name="help_unaligned">"V niektorých aplikáciách (napríklad konzolové emulátory) sa hodnota v pamäti nemusí zhodovať so zarovnaním alebo byť reprezentovaná v poradí veľkých bajtov.
+
+Takúto hodnotu nemožno nájsť pomocou normálneho vyhľadávania.
+
+Ak ich chcete nájsť, použite špeciálny skript z oficiálnej webovej stránky __app_name__:"</string>
+    <string name="help_formula_calculator_title">Vzorec kalkulačka</string>
+    <string name="help_formula_calculator">"Takmer do každého poľa na zadávanie čísel môžete zadať matematický vzorec, napríklad za znakom rovnosti, napríklad do vyhľadávacieho poľa zadajte „= 2 + 2 * 3“ a program vyhľadá výsledok vzorca, tj „8“.
+Vzorec je vyjadrením Lua. Môžete použiť všetku dostupnú silu Lua.
+
+Prípustné sú všetky aritmetické operátory Lua 5.3 - sčítanie (+), odčítanie (-), násobenie (*), delenie (/), zvyšok z delenia (%), zvyšovanie na moc (^), celé delenie (//) atď. ,
+K dispozícii sú tiež bitové operátory - AND (&amp;), OR (|), Exkluzívne ALEBO (binárne ~), NOT (jednoduché ~), Shift Right (>>), Shift Left (&lt;&lt;). Poradie akcií je možné určiť pomocou zátvoriek.
+Prečítajte si príručku Lua, kde nájdete úplný zoznam dostupných operácií.
+
+Toto je užitočné, ak viete, ako je hodnota zakódovaná v hre. Napríklad 29 kôl v jednej hre možno nájsť ako „= 29 ~ 444444“. To zodpovedá 29 XOR 444444. V príklade videa sa našla cena 3888, prostredníctvom XOR s 444444, ako '= 444444 ~ 3888'. Potom sa nahradilo „= 444444 ~ 1“, čím sa cena nastavila na „1“. V inej hre sa 125 zlatých rovná '= 125 * 10'.
+
+Nie všetky funkcie skriptov sú dostupné vo kalkulačke vzorcov. Niektoré funkcie nie sú k dispozícii. Ak ich nemáte dosť - napíšte svoj skript, namiesto použitia kalkulačky vzorcov, je určený iba na jednoduché výpočty. K dispozícii: časť základných funkcií, „bit32“, „tabuľka“, „reťazec“, „utf8“, „math“, časť balíka „os“. Balíky „debug“, „package“, „gg“, „io“ nie sú k dispozícii.
+
+Ak napíšete „= 2 + 2 * 3“, pred vzorec sa pridá kľúčové slovo „návrat“: „návrat 2 + 2 * 3“. Toto slovo však môžete zadať sami vo vzorci, ak potrebujete zložitý vzorec.
+Napríklad '= a = 5; b = 7; návrat a * 4 + b * 8 'bude vykonaný ako' a = 5; b = 7; návrat * 4 + b * 8 '
+
+Výsledkom kalkulačky vzorcov je textový reťazec. Reťazec môže byť akýkoľvek platný reťazec pre toto vstupné pole.
+Môže to byť napríklad reťazec na vyhľadávanie skupiny alebo vyhľadávanie podľa rozsahu. '= a = 5; b = 7; vráti .. \";\" .. b .. \":: 100\" 'je ekvivalentné' 5; 7 :: 100 '.
+
+Kalkulačka vzorca nefunguje v skriptoch, tu môžete priamo použiť Lua.
+Pri písaní skriptu sa výsledok výpočtu vzorca zapíše do súboru a nie do vzorca samotného.
+
+Ak je vzorec nesprávny, pri odoslaní formulára sa zobrazí chybová správa.
+
+Pri výpočte je potrebné zohľadniť skutočnosť, že výpočty sa vykonávajú v type označenom prvým operandom. Ak je to celé číslo, výsledkom je celé číslo.
+Napríklad „= 3/2“ bude „1“ a „= 3,0 / 2“ bude „1,5“.
+
+Bez ohľadu na zvolené miestne nastavenie fungujú vzorce v anglickom jazyku. To znamená, že oddeľovač desatinných miest je vždy bodka („.“)."</string>
+    <string name="help_faq_32_b">"Dve ikony spustenia. Prvá, so softvérovou akceleráciou - \"__app_short_name_sw__\", druhá s hardwarovou akceleráciou - \"__app_short_name_hw__\". Teraz to bude vždy tak.
+Na niektorých firmware funguje iba jedna ikona, na normálnych ikonách.
+Je lepšie používať softvérové ​​zrýchlenie, pracuje menej hladko, ale spotrebuje menej pamäte.
+
+V nastaveniach aplikácie môžete skryť jednu z ikon: \"__hide_icons__\"."</string>
+    <string name="acceleration_help_">"Hardvérové ​​alebo softvérové ​​zrýchlenie rozhrania __app_name__.
+V závislosti od hry a firmvéru môžu niektoré možnosti spôsobiť problémy.
+Ak obe pracujú, použite softvérové ​​zrýchlenie, pretože spotrebuje menej pamäte.
+
+Toto nastavenie sa líši od ikon spustenia a ovplyvňuje iba zobrazenie rozhrania __app_name__.
+Ikony pri spustení sú zodpovedné za typ zrýchlenia úvodnej obrazovky.
+
+Hardvérové ​​zrýchlenie spotrebuje oveľa viac pamäte, ale funguje plynulejšie. Ak máte málo pamäte RAM, vždy používajte softvérové ​​zrýchlenie.
+
+Ak hardvérové ​​zrýchlenie spôsobí chyby, __app_name__ sa môže prepnúť na akceleráciu softvéru."</string>
+    <string name="small_list_items">Malé položky zoznamu</string>
+    <string name="small_list_items_help">Umožňuje zobraziť viac informácií v zoznamoch položiek, ale môže byť ťažšie kliknúť na požadovanú položku.</string>
+    <string name="format_asm_opcodes">Kódy __s__</string>
+    <string name="no_regions">Nenašli sa žiadne zodpovedajúce regióny.</string>
+    <string name="cannot_hide_launcher_icon">"Táto ikona bola použitá pre aktuálne spustenie.
+
+Nemôžete skryť ikonu, ktorá bola použitá pre aktuálne spustenie.
+
+Ak chcete skryť túto ikonu, reštartujte aplikáciu pomocou inej ikony."</string>
+    <string name="screenshot">Urobte snímku obrazovky</string>
+    <string name="screenshot_prompt">"Ikona sa skryje za __d__ sekúnd, takže môžete nasnímať snímku obrazovky.
+
+Potom bude ikona opäť viditeľná."</string>
+    <string name="screenshot_action">screenshot</string>
+    <string name="use_visible_type">Použiť viditeľný typ údajov v editore pamäte:</string>
+    <string name="use_visible_type_help">Ak sa zobrazuje iba jeden typ údajov, nepýtajte sa v editore pamäte typ údajov.</string>
+    <string name="wrong_float">Číslo „__s__“ vo vašom miestnom nastavení vyzerá ako „__s__“. Ak to nie je to, čo potrebujete - na úvodnej obrazovke vyberte iné miestne nastavenie (alebo jazyk).</string>
+    <string name="wrong_float2">Okrem toho môžete v nastaveniach __app_name__ prepísať miestne nastavenie pre formátovanie čísel.</string>
+    <string name="number_locale">Miesto na formátovanie čísel:</string>
+    <string name="fill">Vyplniť</string>
+    <string name="help_text_search">"
+Ak chcete vyhľadať text, musíte v obvyklom dialógovom okne vyhľadávania zadať modifikátory.
+
+Najčastejšie používané kódovanie je __utf8__ a __utf16le__.
+__utf16le__ sa spravidla používa v __java__ a __utf8__ sa používa v __c__.
+
+__utf16le__ - dvojbajtové kódovanie. Každý znak je vždy zakódovaný v dvoch bajtoch, takže je reprezentovaný cez __type_word__.
+__utf8__ - kódovanie s premennou veľkosťou bajtu na znak. Odoslané prostredníctvom __type_byte__.
+__hex_input__ a jeho varianty sú vždy prezentované prostredníctvom __type_byte__.
+
+Hra môže používať ktorékoľvek kódovanie.
+Ak potrebujete konkrétny súbor bajtov - použite režim __hex_input__.
+
+Dostupné predpony:
+__text_prefixes__
+
+Pre režim \"__hex_mixed__\" môžete zadať text __utf8__ medzi __apos__ znakmi a __utf16le__ textom medzi __quot__ znakmi.
+
+Napríklad:
+__text_examples__
+
+Znak predpony musí byť prvým znakom vo vyhľadávacom texte.
+
+Výsledkom vyhľadávania je sekvencia __type_byte__ alebo sekvencia __type_word__ pre prípad __utf16le__.
+
+Výsledky je možné zmeniť - vyberte všetko a kliknite na \"__edit_selected__\".
+
+V poli hodnoty zadajte novú hodnotu v rovnakom formáte ako hľadaný reťazec.
+
+Môžete použiť tlačidlá naplnenia. Ak nie sú viditeľné, kliknite na tlačidlo \"__more__\".
+
+Hodnota sa nastaví pre každú skupinu nepretržite nasledujúcich položiek.
+Ak je medzi prvkami medzera, bude to nová skupina.
+
+Ak zadáte viac bajtov, než je potrebné, použije sa iba zlomok z nich.
+Ak zadáte menej ako je potrebné, zvyšok skupiny bude vyplnený nulovými bajtmi.
+
+Pri výmene textu skúste zadať text s rovnakým počtom bajtov ako originál, aby ste predišli problémom.
+"</string>
+    <string name="fast_freeze">Rýchle zmrazenie:</string>
+    <string name="help_fast_freeze">"To funguje oveľa rýchlejšie ako normálne zmrazenie, ale nie pre všetky pamäte.
+
+Ak zmrazenie nefunguje, vypnite túto možnosť."</string>
+    <string name="debug_disassemble">unassemble</string>
+    <string name="assembled">Úspešne zostavené do súboru:</string>
+    <string name="warn_patch_off_prot2">"Ak používate __magisk_hide__ - pred inštaláciou opravy ju vypnite. Po úspešnom použití opravy ju môžete znova zapnúť.
+Ak tak neurobíte, oprava nebude úspešná."</string>
+    <string name="help_games_protection_end">"
+Ako skryť __app_name__ pred hrou vo virtuálnom priestore
+
+1. Nainštalujte virtuálny priestor, ktorý umožňuje skrytú inštaláciu aplikácií bez ich inštalácie do systému. Napríklad __vspace_hide__.
+2. Nainštalujte __app_name__ do virtuálneho priestoru.
+3. V __app_name__ povoľte režim „__vspace_root__“.
+4. Udelte rootovským právam virtuálny priestor. Ak nemôžete poskytnúť práva typu root, skúste použiť iný virtuálny priestor, iné práva typu root, iný firmvér alebo zmeniť zariadenie.
+5. Vyberte zo systému __app_name__.
+6. Pracujte s __app_name__ z virtuálneho priestoru.
+
+Aby ste sa vyhli detekcii počas vyhľadávania:
+Vyberte položky 2, 3 a 4 v nastavení „__hide_from_game__“.
+
+Typické riešenie (vyžaduje root, bez root nebudete úspešní):
+1. Použite root z virtuálneho priestoru. Prečítajte si pomoc s nastavením pre __vspace_root__.
+2. Použite položky 2, 3 a 4 v nastavení „__hide_from_game__“.
+"</string>
+    <string name="force_close_2">Aby ste tomu zabránili v budúcnosti, môžete nastaviť „__data_in_ram__“ na „__no__“.</string>
+    <string name="script_wrote">Skript je zaznamenaný v __s__ __d__ súborov.</string>
+    <string name="script_exit">dokončený</string>
+    <string name="script_interrupted">Skript je prerušený.</string>
+    <string name="script_error">chyba skriptu</string>
+    <string name="script_oom">Nie je dostatok pamäte</string>
+    <string name="script_possible">Zdá sa, že sa snažíte __s__ ako skript.</string>
+    <string name="script_web">webová stránka</string>
+    <string name="script_saved_list">uloží zoznam</string>
+    <string name="speedhack_no_x86">Ale v tejto hre neexistuje žiadna X86 knižnice, takže možno to nebude fungovať.</string>
+    <string name="help_faq_33_q">Na obrazovke sú textové správy (toasty), alebo vidieť tmavé kruh v dolnej časti obrazovky pri behu __app_name__. Ako to opraviť?</string>
+    <string name="help_faq_33_a">Použitie tretia úroveň \"__prevent_unload__\" na nejakom firmware spôsobí, že textové správy (toasty) zostávajú na obrazovke alebo pozri tmavé kruh (prázdna správa). Ak sa tak stane, nepoužívajte tretí stupeň.</string>
+    <string name="invalid_header_1">Neplatné záhlavie binárne skript.</string>
+    <string name="unknown_version">Neznámej verzie.</string>
+    <string name="unknown_format">Neznámy formát.</string>
+    <string name="unknown_endianness">Neznámy poradie bytov.</string>
+    <string name="unknown_size_s">Neznáme veľkosti __s__.</string>
+    <string name="unknown_size_instr">Neznáme veľkosti inštrukcie.</string>
+    <string name="unknown_size_num">Neznáme veľkosti Lua.</string>
+    <string name="expected_found">__s__ očakávalo, ale našiel __s__.</string>
+    <string name="or">alebo</string>
+    <string name="invalid_header_2">Stále spustenie skriptu?</string>
+    <string name="invalid_header_3">"Этот скрипт нельзя будет запустить в будущих версиях __app_name__.
+Píšte na autora tohto skriptu."</string>
+    <string name="skip_system_libs">Preskočiť systémové knižnice</string>
+    <string name="try_reinstall_x86">"Pokúste sa preinštalovať hru s x86 knižnice?
+
+Hra môže prestať fungovať po tom. Ak k tomu dôjde, nastavte hru s APK, ktorý sa nachádza na __data_app__."</string>
+    <string name="reinstall_started">Preinštalovanie začalo ...</string>
+    <string name="reinstall_failed">Opätovná inštalácia zlyhala:</string>
+    <string name="reinstall_ended">Resetovanie je dokončené.</string>
+    <string name="help_lasm_title">Assembler / disassembler skripty</string>
+    <string name="help_lasm">"__app_name__ má zabudovaný-in disassembler / assembler Lua skriptov.
+
+Môžete si vybrať \"__debug_disassemble__\" v poli spustiť skript, po kliknutí na tlačidlo \"__more__\".
+
+__ext_lasm__ výsledný obraz je možné upravovať a vybrať v spúšťacieho skriptu. Výsledkom je binárny súbor __ext_lua__, so zmenami.
+
+Čítať scenáre FAQ API pre viac informácií.
+"</string>
+    <string name="help_hide_gg_title">__app_name__, ako skryť z hry</string>
+    <string name="changed_as_search_result">Zmenená ako výsledok vyhľadávania</string>
+    <string name="changed_not_found">Zmenené položky nájdené.</string>
+    <string name="too_far">Tieto hodnoty nemožno nájsť pomocou vyhľadávacieho skupiny - sú príliš ďaleko od seba: __d__ bajtov. Maximálna vzdialenosť je __d__ bajtov.</string>
+    <string name="new_address">Nová adresa:</string>
+    <string name="hide_1_warn">Vybrali ste si prvú možnosť. Mraziace hodnoty môžu spôsobiť vážne oneskorenie v hre.</string>
+    <string name="hide_4_warn">Vybrali ste si štvrtý odsek. Niektoré funkcie nebude fungovať: __speedhack__, __unrandomizer__, __allocate_page__.</string>
+    <string name="asm_failed">sa nepodarilo rozpoznať __s__ OPCODE:</string>
+    <string name="asm_suggestion">Mali ste na mysli: __s__?</string>
+    <string name="copy_opcode">Kopírovanie __s__ OPCODE:</string>
+    <string name="search_nearby">Hľadať v okolí</string>
+    <string name="before">pred</string>
+    <string name="after">po</string>
+    <string name="distance">vzdialenosť:</string>
+    <string name="nearby">Blízko:</string>
+    <string name="need_fixer">"Zistený problém s týmto 64-bitové virtuálneho priestoru.
+
+Ako to opraviť:
+
+1. Inštalácia aplikácie __fixer__. (Od tohto dialógu, a to buď ručne, mimochodom:
+__s__
+).
+
+__fixer__ 2. Pridajte virtuálneho priestoru.
+
+3. Spustite __fixer__ vo virtuálnom priestore.
+
+4. Odstráňte __fixer__.
+
+5. Reštartujte __app_name__ vo virtuálnom priestore."</string>
+    <string name="limit">Iba prvé výsledky N:</string>
+</resources>

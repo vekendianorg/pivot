@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lang_code">~~~sv~~~</string>
+    <string name="front_text">Om du har några frågor om __app_name__eller dess användning, kolla in vårt forum på __forum__</string>
+    <string name="set_path">Temporär väg</string>
+    <string name="number">Nummer:</string>
+    <string name="type">Typ:</string>
+    <string name="name">Namn:</string>
+    <string name="reset">Välj process</string>
+    <string name="set_range">Välj lagring radiusen</string>
+    <string name="search">Sök</string>
+    <string name="save">Spara</string>
+    <string name="goto1">Gå till</string>
+    <string name="address">Sökväg:</string>
+    <string name="edit_all">Ändra alla</string>
+    <string name="filter">Filtrera</string>
+    <string name="clear">Återställ</string>
+    <string name="max_show_rec">Visa:</string>
+    <string name="equal">Omodifierad</string>
+    <string name="inequal">Modifierad</string>
+    <string name="larger">Ökat</string>
+    <string name="smaller">Minskat</string>
+    <string name="compare_current_last">Hur har värdet ändrats?</string>
+    <string name="write_region_log">Skriv region logg</string>
+    <string name="old_version">Gammal version</string>
+    <string name="found_old_version">Det hittades en gammal version av__app_name__, vill du avinstallera den.</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nej</string>
+    <string name="ok">Ok</string>
+    <string name="failed_find_package_name">Kunde ej hitta programpaketets namn.</string>
+    <string name="path_for_temp_files">"Ange en sökväg för tempfiler, t.ex. '__sdcard__'. Det kan kräva några hundra MB ledigt utrymme. Nuvarande sökresultat kommer att gå vilse."</string>
+    <string name="confirm">Bekräfta</string>
+    <string name="cancel">Avbryt</string>
+    <string name="found_new_version">Hittade ny version__s__</string>
+    <string name="daemon_failed">Daemon misslyckades</string>
+    <string name="failed_run_daemon">Misslyckades med att köra demon. Är root installerat?</string>
+    <string name="daemon_unexpected_closed">Daemon stängdes oväntat. Info:</string>
+    <string name="daemon_exited">Daemon slutade</string>
+    <string name="failed_load_daemon">Misslyckades med att ladda daemon</string>
+    <string name="is_device_rooted">Det går inte att få root-åtkomst.</string>
+    <string name="collect_data_to_region_log">Startad insamling av data för att skriva till regionloggen ...</string>
+    <string name="log_saved">Logg sparad på __s__</string>
+    <string name="failed_save">Det gick inte att spara till __s__</string>
+    <string name="region_log">Region logg</string>
+    <string name="apply">Tillämpa</string>
+    <string name="error">Fel</string>
+    <string name="load">Ladda</string>
+    <string name="delete_prompt">Vill du ta bort det här objektet?</string>
+    <string name="reset_search">FEL upptäckt. Återställ söklista.</string>
+    <string name="unknown_error">Okänt fel</string>
+    <string name="out_of_memory">Slut på minne</string>
+    <string name="bug_detected">Fel upptäckt</string>
+    <string name="disk_full">Disk full</string>
+    <string name="io_error">IO fel</string>
+    <string name="game_dead">Spel död</string>
+    <string name="exit">Utgång</string>
+    <string name="skip">Ignorera</string>
+    <string name="unhandled_exception">Ohanterat undantag. Skicka nedan information till utvecklingslaget?</string>
+    <string name="last_run_failed">Sista körningen misslyckades</string>
+    <string name="thank_you">Tack!</string>
+    <string name="no_application">Ingen ansökan har valts.</string>
+    <string name="increments">Ökning:</string>
+    <string name="add_not_replace">Lägg till i värde, ersätt inte</string>
+    <string name="eperm_error">Kunde inte bifoga process (PTRACE_ATTACH): Funktionen är inte tillåten</string>
+    <string name="load_list">Lastlista</string>
+    <string name="load_warning">Du lade en lista som har sparats från en annan instans av spelet. Mest sannolikt har alla adresser i minnet ändrats och laddat data som inte motsvarar data som tidigare sparats. Vi rekommenderar att du kontrollerar dessa.</string>
+    <string name="from">Avslutat __d__ från __d__ steg</string>
+    <string name="count_fuzzy_equal_run">"Antal gånger att köra '__fuzzy_equal__':"</string>
+    <string name="slow">långsam</string>
+    <string name="miui_restart">__app_name__ måste startas om för att kunna tillämpa säkerhetsbehörigheter.</string>
+    <string name="out_of_memory_error">Utan minnesfel. Aktuell resultatlista cleared. Ange ett mindre värde för antalet resultat som ska visas.</string>
+    <string name="loading">Läser in...</string>
+    <string name="found_count">Funnet: __d__</string>
+    <string name="fuzzy_equal">Värde oförändrat</string>
+    <string name="fuzzy_inequal">Värde ändrats</string>
+    <string name="fuzzy_larger">Värdet ökat</string>
+    <string name="fuzzy_smaller">Värdet minskade</string>
+    <string name="type_edit_limit">Inmatningsvärde från __s__ till __s__</string>
+    <string name="number_name">siffra</string>
+    <string name="step_name">ökning</string>
+    <string name="number_less">"Antalet '__s__' är mindre än minimivärdet (__d__) för denna typ."</string>
+    <string name="number_greater">"Antalet '__s__' är större än det maximala värdet (__d__) för denna typ."</string>
+    <string name="about">Handla om</string>
+    <string name="owner">ägare</string>
+    <string name="design">huvuddesigner</string>
+    <string name="pm">projektledning</string>
+    <string name="code">blykodare</string>
+    <string name="tech">teknisk konsult</string>
+    <string name="creator">skapare (pensionär)</string>
+    <string name="for_translators">Om du vill hjälpa till med eller göra en översättning av ansökan kan du kontakta oss på forumet http://gameguardian.net/forum, för att få din översättning inkluderad i den officiella versionen av ansökan.</string>
+    <string name="version">Version:</string>
+    <string name="developers">utvecklare:</string>
+    <string name="select_language">Välj språk</string>
+    <string name="exit_confirm">__app_name__ måste startas om för att tillämpa ändringar.</string>
+    <string name="special_thanks">Speciellt tack:</string>
+    <string name="nothing_found">Inget hittat. Försök att söka igen.</string>
+    <string name="try_more_ranges">Du kan också försöka välja fler intervall i inställningsfliken.</string>
+    <string name="try_fuzzy_search">Du kan också försöka söka efter ett okänt värde.</string>
+    <string name="search_hint">"För att söka efter ett känt värde, tryck på \"__search_known_value__\".
+Om värdet är okänt eller krypterat - klicka på \"__search_unknown_value__\" för att söka.
+Sök efter floatvärden av deras heltal kan utföras genom att välja söktypen '__type_auto__'.
+Du kan också använda en gruppsökning med \"__semicolon__\" som en separator."</string>
+    <string name="freeze">Frysa:</string>
+    <string name="freeze_normal">vanligt</string>
+    <string name="freeze_may_increase">kan öka</string>
+    <string name="freeze_may_decrease">kan minska</string>
+    <string name="freeze_in_range">inom räckhåll</string>
+    <string name="range_end_fail">"Räckviddsänden ('__s__') måste vara större än '__s__'."</string>
+    <string name="failed_add_window">Misslyckades att lägga till fönster</string>
+    <string name="failed_remove_window">Misslyckades med att ta bort fönster</string>
+    <string name="system_service_stopped">Applikationen kan inte fungera normalt eftersom systemtjänsten stoppades. Försök starta om programmet eller starta om enheten.</string>
+    <string name="value_request">Ange ett värde för att söka efter</string>
+    <string name="type_request">Välj vilken typ av data du vill söka</string>
+    <string name="type_change_request">Välj datatyp som ska ändras</string>
+    <string name="value">Värde</string>
+    <string name="save_as">Spara som:</string>
+    <string name="restart">Omstart</string>
+    <string name="start">Start</string>
+    <string name="wait_daemon">Den här funktionen är inte tillgänglig om daemon inte körs. Vänta tills daemon startar. (Har du glömt att ge root-åtkomst? Eller har det inte installerats root?)</string>
+    <string name="daemon_fail">Daemon körs inte</string>
+    <string name="config_icon_text">Ikon: transparent = __d__ %%, göm - __s__</string>
+    <string name="icon_hide_after">efter __d__ sekunder</string>
+    <string name="icon_hide_never">aldrig</string>
+    <string name="keyboard">Tangentbord:</string>
+    <string name="internal">Inre</string>
+    <string name="external">Extern</string>
+    <string name="failed_copy_text">Misslyckades med att kopiera text till Urklipp:</string>
+    <string name="copied">kopierade</string>
+    <string name="copy_value">Kopiera värdet:</string>
+    <string name="copy_address">Kopiera adressen:</string>
+    <string name="goto_address">Gå till adressen:</string>
+    <string name="search_unknown_value">Okänd (fuzzy) sökning</string>
+    <string name="search_known_value">Känd (exakt) sökning</string>
+    <string name="speedhack_hint">För att ändra spelets hastighet, utför en lång tryckning på den flytande __app_name__ ikonen.</string>
+    <string name="bad_firmware">Din firmware har fel som hindrar användningen av den här funktionen.</string>
+    <string name="language">Språk</string>
+    <string name="acceleration">Gränssnitt acceleration:</string>
+    <string name="hardware">Hårdvara</string>
+    <string name="software">programvara</string>
+    <string name="speedhack">speedhack</string>
+    <string name="data_in_ram">Data i RAM:</string>
+    <string name="first_mb">Den första __d__ MB</string>
+    <string name="donate">Donera</string>
+    <string name="speeds">hastigheter</string>
+    <string name="floating_window_fail">Det gick inte att visa flytande fönster</string>
+    <string name="check">Verifiering</string>
+    <string name="check_success">Verifieringen lyckades</string>
+    <string name="enable_draw_perm">Vänligen aktivera behörigheter på nästa skärm.</string>
+    <string name="speedhack_fail">Speedhack för denna process stöds inte</string>
+    <string name="dangerous">farlig</string>
+    <string name="difference">Skillnad</string>
+    <string name="old_value">Gamla värde</string>
+    <string name="new_value">Nytt värde</string>
+    <string name="mode_hacking">Värdet är krypterat</string>
+    <string name="union">Gruppsökning</string>
+    <string name="speedhack_open">Du kan öppna speedhack genom att länge trycka på den flytande __app_name__ ikonen.</string>
+    <string name="history">Historia</string>
+    <string name="history_empty">Historiken är tom</string>
+    <string name="allow_suggestions">Tillåt förslag från tangentbordet:</string>
+    <string name="invalid_area">Gruppstorlek måste vara mellan __d__ och __d__:</string>
+    <string name="union_need_two_numbers">För gruppsökning måste det finnas minst två nummer</string>
+    <string name="too_many_union_numbers">För många siffror, mer än:</string>
+    <string name="invalid_number">Ogiltigt nummer:</string>
+    <string name="input_number">Ingångsnummer</string>
+    <string name="number_out_of_range">"Nummer '__s__' utav möjligt:"</string>
+    <string name="help_floating_icon">"* Den flytande ikonen:
+\u0009* Tryck för att öppna gränssnittet.
+\u0009* Tryck och håll ned för att växla speedhack-panelen.
+\u0009* Den kan flyttas till vilken plats som helst genom att dra och släppa ikonen.
+\u0009* Transparens och dölj timer kan anpassas i app inställningar.
+"</string>
+    <string name="help_exact_search">"* Exakt sökning:
+\u00091. Växla till __app_name__ från ett spel.
+\u00092. Tryck på knappen \"__search_known_value__\" på fliken \"__search__\".
+3. Ange numret som visas i spelet.
+\u00094. Välj lämplig datatyp, eller välj \"__type_auto__\" (om du är osäker) och andra alternativ (om det behövs) och klicka på \"__search__\".
+\u00095. När sökningen är klar visas sökresultaten i listan.
+\u00096. Gå tillbaka till spelet. När värdet har ändrats, byt till __app_name__ igen.
+\u00097. Sök efter det värde som ändrats.
+\u00098. Om det finns för många resultat, fortsätt till steg 6.
+\u00099. Om endast några få resultat lämnas kan du försöka ändra, lagra eller frysa värdet.
+"</string>
+    <string name="help_speedhack">"* Speedhack:
+\u0009* Tryck och håll kvar den flytande ikonen för att visa speedhack-panelen.
+\u0009* Tryck på pilarna på vardera sidan av ikonen för att ändra spelhastigheten.
+\u0009* Tryck och håll nuvarande hastighetsnummer för att återställa spelhastigheten.
+\u0009* Tryck och håll den flytande ikonen för att dölja SpeedHack-panelen.
+\u0009* Lista över hastigheter och timers som används kan anpassas i appinställningar.
+\u0009* Om spelet inte svarar på inmatning eller speedhack inte fungerar, försök använda andra gröna timers i __app_name__ inställningar.
+\u0009* Du kan använda \"__time_jump__\" för att hoppa framåt i tiden. Välj bara menyn på sökfliken och välj \"__time_jump__\". Du måste ange hur många sekunder som ska hoppa. Mängden att hoppa kan vara fraktionerad.
+"</string>
+    <string name="help_fuzzy_search">"* Fuzzy sökning:
+\u00091. Växla till __app_name__ från ett spel.
+\u00092. Tryck på knappen \"__search_unknown_value__\" på fliken \"__search__\".
+\u00093. Välj lämplig datatyp, eller välj \"__type_auto__\" (om du är osäker) och klicka på \"__search__\".
+\u00094. När sökningen är klar visas sökresultaten i listan.
+\u00095. Tillbaka till spelet. När värdet har ändrats (eller inte), byt till __app_name__ igen.
+\u00096. Tryck på knappen \"__search_unknown_value__\" och välj typ för hur värdet har ändrats.
+\u00097. Om det finns för många resultat, fortsätt steg till 5.
+\u00098. Om endast några få resultat lämnas kan du försöka ändra, lagra eller frysa värdet.
+
+\u0009Du kan ange exakt förändring av värdet genom att klicka på knappen \"__more__\".
+\u0009Du kan ange ett intervall som en exakt värdeförändring:
+\u0009\u0009190__tilde__210
+\u0009För att ange förändring utanför värdena kan du ange:
+\u0009\u000910__tilde____tilde__4000
+"</string>
+    <string name="help_group_search">"* Gruppsökning:
+\u00091. Växla till __app_name__ från ett spel.
+\u00092. Tryck på knappen \"__search_known_value__\" på fliken \"__search__\".
+\u00093. Inmatnings sökbegäran för gruppsökning.
+\u0009\u0009Format: värde 1 __semicolon__ värde 2 __semicolon__ ... __semicolon__ värde N __colon__ gruppstorlek
+\u0009\u00092-__max_group__-värden kan sökas samtidigt. Standardgruppstorleken är 512. Gruppstorleken måste vara mellan 2 och 65536.
+\u0009\u0009Om du till exempel vill söka 195 och 6543 ska du ange:
+\u0009\u0009\u0009195 __semicolon__ 6543
+\u0009\u0009Självklart kan du ange gruppstorlek (300):
+\u0009\u0009\u0009195 __semicolon__ 6543 __colon__ 300
+\u0009\u0009Du kan också ställa in en eller flera datatyper:
+\u0009\u0009\u0009195__type_dword_short__ __semicolon__ 6543
+\u0009\u0009Det betyder att du vill söka ett __type_dword__-värde som är 195 och ett __type_auto__-värde som är 6543.
+\u0009\u0009Möjliga datatyper är desamma som de är på jakt efter:
+\u0009\u0009\u0009__type_byte_short__ - __type_byte__
+\u0009\u0009\u0009__type_word_short__ - __type_word__
+\u0009\u0009\u0009__type_dword_short__ - __type_dword__
+\u0009\u0009\u0009__type_xor_short__ - __type_xor__
+\u0009\u0009\u0009__type_qword_short__ - __type_qword__
+\u0009\u0009\u0009__type_float_short__ - __type_float__
+\u0009\u0009\u0009__type_double_short__ - __type_double__
+\u0009\u0009\u0009__type_auto_short__ - __type_auto__
+\u0009\u0009Du kan också skriva numret i hex (liten endian) notation:
+\u0009\u0009\u0009__hex_example____hex__ __semicolon__ 6543
+\u0009\u0009eller i omvänd hex (big-endian) notation:
+\u0009\u0009\u0009__hex_example____rhex__ __semicolon__ 6543
+\u0009\u0009För att mata in ytterligare symboler, använd knappen \"__btn_hex__\" på internt tangentbord.
+\u00094. Välj lämplig datatyp, eller välj \"__type_auto__\" (om du inte är säker) att använda som standard. Andra alternativ spelar ingen roll för den här typen av sökning. Klicka på \"__search__\".
+\u00095. När sökningen är klar visas sökresultatet i listan.
+\u00096. Tillbaka till spelet. När värdet har ändrats, byt till __app_name__ igen.
+\u00097. Repetera gruppsökning med lämpliga ändringar.
+\u00098. Om det finns för många resultat, upprepa steg 6 och 7.
+\u00099. Om få resultat lämnas kan du försöka ändra, lagra eller frysa värdet.
+
+\u0009Om du vill ha respekt för värdena anger du då __colon__ två gånger.
+\u0009Utan gruppstorlek:
+\u0009\u0009195 __semicolon__ 6543 __colon____colon__
+\u0009Med gruppstorlek:
+\u0009\u0009195 __semicolon__ 6543 __colon____colon__ 300
+
+\u0009Du kan söka inom värden:
+\u0009\u0009190__tilde__210 __semicolon__ 6543
+\u0009Du kan också söka utanför värden:
+\u0009\u000910__tilde____tilde__4000 __semicolon__ 6543
+"</string>
+    <string name="help_others">"* Andra:
+* För nya sökningar måste du rensa tidigare sökresultat genom att välja \"__clear__\" i menyn under menyknappen.
+\u0009* För att välja en annan spelknapp på spelikonen i övre vänstra hörnet.
+\u0009* För att pausa / återuppta ett spel - tryck på knappen nedanför ikonen längst upp till vänster.
+\u0009* Om du växlar till ett spel medan pausen är aktiv kommer nästa spel att pausa automatiskt nästa gång du öppnar __app_name__.
+\u0009* Alla frysta värden läggs automatiskt till i den sparade listan. Du kan hantera dem under lämplig flik.
+\u0009* Alla inmatningsdata sparar till listan \"__history__\". Du kan använda dem genom att trycka på historik-knappen.
+"</string>
+    <string name="help_typical_usage">"* Typiska användningsalgoritmer:
+
+1) Värdet är inte krypterat och känt.
+\u0009Ett typiskt fall skulle vara för pengar, stjärnor, mynt, resurser etc.
+
+\u0009Använd exakt sökning.
+
+2) Värdet är okänt och / eller krypterat.
+\u0009Ett typiskt fall av ett okänt värde - vilken skala som helst. Till exempel hälsa, mana, nitro, etc. Förändringarna ses men inga numeriska värden är synliga.
+\u0009Ett typiskt fall för krypterade värden skulle vara pengar, stjärnor, mynt, etc., men när man söker med 1 algoritm hittar man ingenting, eller förändring av funna värden leder inte till att siffrorna ändras i spelet.
+
+\u0009Använd fuzzy search.
+
+
+3) Värdet är krypterat (__mode_hacking__).
+\u0009Ett typiskt fall för krypterade värden skulle vara pengar, stjärnor, mynt, etc., men när man söker med 1 algoritm hittar man ingenting, eller förändring av funna värden leder inte till att siffrorna ändras i spelet.
+
+\u0009Använd exakt sökning, men välj alltid kryssrutan \"__mode_hacking__\".
+\u0009Hittade resultat kan ha konstiga värden på grund av kryptering.
+
+Algoritmen 3 är mycket snabbare än 2, men det kanske inte fungerar för alla spel.
+
+4) Värdet är inte krypterat, känt och placerat nära andra kända värden.
+\u0009Ett typiskt fall skulle vara för pris i butik, hjälte statistik etc.
+
+\u0009Använd gruppsökning efter alla nummer på en gång.
+"</string>
+    <string name="help_hints">"* Tips:
+
+\u0009* Inte alla spel kan ändras av __app_name__. Typisk lista med exempel:
+\u0009\u0009* data lagrad på en server (server-sidade spel)
+\u0009\u0009* Spelet behöver uthållig Internetanslutning
+\u0009\u0009* nätverksspel med andra spelare
+\u0009\u0009* Du måste välja en server för att ansluta i början av spelet
+\u0009\u0009* Du kan inte använda några saker utan internet
+\u0009\u0009* Spelet laddar om data från servern om du ändrar något
+\u0009* Värden som ses är inte alltid samma som hur de lagras. De kan vara olika. Till exempel på skärmen ser vi 34, men i minnet är värdet 34000.
+\u0009* Om du inte kan ändra ett värde - försök ändra värden som påverkat detta värde. Till exempel, istället för att ändra mängden guld kan du ändra priset på saken och sälja den. Eller köp med ett negativt pris.
+"</string>
+    <string name="help">Hjälp</string>
+    <string name="help_floating_icon_title">Den flytande ikonen</string>
+    <string name="help_exact_search_title">Exakt sökning</string>
+    <string name="help_speedhack_title">speedhack</string>
+    <string name="help_group_search_title">Gruppsökning</string>
+    <string name="help_others_title">Övriga</string>
+    <string name="help_typical_usage_title">Typiska användningsalgoritmer</string>
+    <string name="help_hints_title">tips</string>
+    <string name="value_format">Värdesformat</string>
+    <string name="format_hex">Hex (liten endian) notation</string>
+    <string name="format_rhex">Omvänd hex (big-endian) notation</string>
+    <string name="clear_selection">Rensa urvalet</string>
+    <string name="invert_selection">Invertera valet</string>
+    <string name="select_all">Välj alla</string>
+    <string name="edit_selected">Redigera vald</string>
+    <string name="delete_selected">Ta bort valda</string>
+    <string name="save_selected">Spara vald</string>
+    <string name="nothing_selected">Inget valt</string>
+    <string name="items_added">Objekt (__d__) läggas till i den sparade listan</string>
+    <string name="no_items_for_editing">Det finns inga saker att redigera.</string>
+    <string name="edit_info">Redigera __s__ som __s__</string>
+    <string name="edit_all_info">Redigera __d__ adresser som __s__</string>
+    <string name="autopause">Autopause spel:</string>
+    <string name="empty_list">"Den sparade listan är tom.
+Du kan lägga till objekt till det från sökresultatlistan eller från minnesredigeraren.
+Välj bara de önskade elementen och välj \"__save_selected__\" i menyn.
+En annan metod - börja redigera ett värde och markera kryssrutan \"__save_as__\".
+Även alla frusna värden läggs här automatiskt."</string>
+    <string name="empty_save">Den sparade listan är tom. Det finns inget att spara.</string>
+    <string name="revert_selected">Återgå vald</string>
+    <string name="nothing_to_revert">Inget att återgå</string>
+    <string name="revert_prompt">Återgå de valda objekten (__d__)?</string>
+    <string name="download">Den här appen kan laddas ner från:</string>
+    <string name="format_string">String representation</string>
+    <string name="forgot_h">"Glömde du att '__hex__' i slutet?"</string>
+    <string name="time_jump">Time hoppa</string>
+    <string name="time_jump_hint">Ange antal sekunder för att hoppa framåt:</string>
+    <string name="hide_from_game">Dölj __app_name__ från spelet:</string>
+    <string name="last_stats">Statistik för din senaste sökning</string>
+    <string name="memory_access">Tillgång till minne:</string>
+    <string name="normal">Vanligt</string>
+    <string name="extended">Utökad</string>
+    <string name="experimental">Experimentell</string>
+    <string name="installing">__app_name__ utför en ominstallation av sig själv med ett slumpmässigt namn för att utesluta detektering av spel. Vänta.</string>
+    <string name="failed_install">Det gick inte att installera appen. Försök igen?</string>
+    <string name="failed_uninstall">Det gick inte att avinstallera appen. Försök igen?</string>
+    <string name="download_it">Ladda ner</string>
+    <string name="more">Mer</string>
+    <string name="less">Mindre</string>
+    <string name="no_space">Inget utrymme kvar på din enhet</string>
+    <string name="install_cancel_prompt">__app_name__ kan upptäckas när den inte är installerad. Vill du verkligen avbryta?</string>
+    <string name="intercept">snappa upp</string>
+    <string name="need_restart">Målprogrammet måste startas om för att tillämpa ändringarna.</string>
+    <string name="must_be_root">"För att detta program ska fungera måste din enhet ha rot.
+
+__app_name__ kan fungera i begränsat läge utan rot, genom en virtuell miljö. Till exempel, genom __vspace_list__ och många andra.
+Läs hjälpen för mer information.
+
+Så här rotar du vilken som helst enhet: http://www.xda-developers.com/root/"</string>
+    <string name="skip_">Hoppa</string>
+    <string name="indent_for_the_status_bar">Inge gränssnittet uppifrån på skärmen:</string>
+    <string name="start_collecting_data">Börja samla in data</string>
+    <string name="data_collecting_in_progress">Uppgiftsinsamling pågår</string>
+    <string name="copy">Kopia</string>
+    <string name="show_logcat">Visa logcat</string>
+    <string name="path_must_be">"Banan måste vara minst 2 tecken långt och börjar med '/'."</string>
+    <string name="fix_it">Fixa det</string>
+    <string name="change_log">Ändra logg</string>
+    <string name="used_only_first">Används endast första __d__ föremål.</string>
+    <string name="need_select_more">Behöver du välja __d__ eller fler föremål.</string>
+    <string name="offset">Offset:</string>
+    <string name="result">Resultat:</string>
+    <string name="copy_hex_value">Kopiera hex-värdet:</string>
+    <string name="goto_pointer">Gå till pekaren:</string>
+    <string name="offset_calculator">Offseträknare</string>
+    <string name="fill_toolbar">Fyll verktygsfältet:</string>
+    <string name="from_left">Från vänster</string>
+    <string name="from_center">Från centrum</string>
+    <string name="from_right">Från höger sida</string>
+    <string name="unit_years_short">y</string>
+    <string name="unit_days_short">d</string>
+    <string name="unit_hours_short">h</string>
+    <string name="unit_minutes_short">min</string>
+    <string name="unit_seconds_short">sek</string>
+    <string name="speed_info">__s__ i realtid = __s__ i speltid</string>
+    <string name="search_helper">Sökhjälpare:</string>
+    <string name="off">Av</string>
+    <string name="go_to_game">Gå tillbaka till spelet om många värden hittas</string>
+    <string name="go_to_game_and_restore">Gå tillbaka till spelet, om många värden hittas och återställ sökläget vid nästa öppning</string>
+    <string name="nothing">Ingenting</string>
+    <string name="sort">Sortera</string>
+    <string name="sort_and_remove_duplicates">Sortera och ta bort dubbletter</string>
+    <string name="help_basics_title">Grundläggande information</string>
+    <string name="help_basics">"När du har startat programmet, klickar du på knappen \"__start__\", en flytande ikon visas på skärmen. Den kan släpas till vilken plats som helst.
+Korta knappar på ikonen kommer att öppna huvudprogrammets gränssnitt, långa knackar - visa en panel för att ändra spelets hastighet.
+
+På huvudskärmen kan du se:
+\u0009* I övre vänstra hörnet - ikon för spelet. Genom att knacka på det kan du välja ett annat spel.
+\u0009* Ligger i mitten är bokmärken att navigera genom flikarna. Om du trycker på önskat bokmärke visas den aktuella fliken.
+
+Totalt finns det 4 flikar: inställningar, sök, sparade lista och minnesredigeraren.
+\u0009* I övre högra hörnet av gränssnittet är stängningsknappen. Tryck på det och gränssnittet kommer att döljas, och en flytande ikon kommer att visas på skärmen.
+\u0009* I botten av skärmen finns en statusfält och ögonikonen. Om du trycker på och håller ögonen på ikonen blir gränssnittet transparent så länge du inte släpper ut fingret.
+\u0009* Resten av innehållet på skärmen beror på vilken flik du är på.
+
+På varje flik, förutom inställningsfliken, finns en menyknapp, som innehåller en mängd olika möjliga åtgärder. I den hittar du huvudåtgärderna för den här fliken.
+
+Fliken Inställningar innehåller en mängd inställningar, hjälp och information om programmet och avslutningsknappen.
+
+Sökfliken innehåller:
+\u0009* Pausknapp, namnet på det valda spelet, antalet resultat som hittats och uppdateringsknappen.
+\u0009* Nedan finns en panel med snabbåtkomstikoner och en menyknapp. Alla ikoner dupliceras på menyn, så om du inte vet vad ikonen betyder, kan den alltid ses genom att klicka på menyknappen (höger).
+\u0009* Nedan kommer dessa ikoner att vara listan över sökresultat.
+
+Fliken Sparade lista innehåller:
+\u0009* Pausknapp, namnet på det valda programmet, menyknappen och uppdateringsknappen.
+\u0009* Nedan kommer dessa ikoner att vara listan över sparade värden.
+
+Minnesredigeringsfliken liknar det föregående, bara här istället för en lista med sparade värden som visas i minnesinnehållet.
+
+I alla tre listorna (sökresultaten, sparade värden och minnesredigeraren) kan du utföra en lång tryckning på objekten för att visa snabbmenyn."</string>
+    <string name="daemon_killed">"Daemon dödades av något.
+
+Vanligtvis kan det vara:
+\u00091. Eventuella minnesmördare eller optimeringsapparater. Du måste inaktivera några mördare eller lägga till den vita listan i __app_name__ i dess inställningar.
+\u00092. __daemon_killed_oom__
+\u00093. Minneskortet avmonterades, medan __app_name__ lagrade temporära filer på den. För att förhindra att detta händer, ange en annan väg till de temporära filerna. Till exempel i internminnet."</string>
+    <string name="bad_settings">Dåliga inställningar</string>
+    <string name="freeze_lags">Att använda frysvärden tillsammans med inställningen __hide_from_game__ kan orsaka fördröjning i spelet.</string>
+    <string name="improve_translation">Denna översättning skapades av en automatisk översättare. Du kan förbättra det genom att använda vår kollektiva översättningstjänst.</string>
+    <string name="freeze_interval">Frysintervall:</string>
+    <string name="saved_list_update_interval">Intervall för sparade listuppdateringar:</string>
+    <string name="milliseconds_short">Fröken</string>
+    <string name="disable_floating_windows">Inaktivera de flytande fönstren och starta om appen</string>
+    <string name="enable_floating_windows">Aktivera de flytande fönstren och starta om appen</string>
+    <string name="too_many">För många</string>
+    <string name="help_range_search_title">Range sökning</string>
+    <string name="help_range_search">"* Områdessökning:
+\u00091. Växla till __app_name__ från ett spel.
+\u00092. Tryck på knappen \"__search_known_value__\" på fliken \"__search__\".
+\u00093. Ange ett gränssökningsintervall, åtskilt med \"__tilde__\". Om du vill söka efter värden från 100 till 150 anger du till exempel:
+\u0009\u0009\u0009100__tilde__150
+\u0009\u0009För att söka utanför intervallet kan du ange tecknet \"__tilde__\" två gånger:
+\u0009\u0009\u0009100__tilde____tilde__150
+\u0009\u0009Alternativt kan du välja tecknet \"__not_equal__\" och ange tecknet \"__tilde__\" en gång.
+\u0009\u0009För att mata in ytterligare symboler, använd knappen \"__btn_hex__\" på internt tangentbord.
+\u00094. Välj lämplig datatyp, eller välj \"__type_auto__\" (om du är osäker) och andra alternativ (om det behövs) och klicka på \"__search__\".
+\u00095. När sökningen är klar visas sökresultaten i listan.
+\u00096. Tillbaka till spelet. När värdet har ändrats, byt till __app_name__ igen.
+\u00097. Repetera sökningen med lämpliga ändringar.
+\u00098. Om det finns för många resultat, upprepa steg 6 och 7.
+\u00099. Om få resultat lämnas kan du försöka ändra, lagra eller frysa värdet.
+
+\u0009Gränserna för sortimentet ingår i sökresultaten. Du kan välja typen av sökning \"__not_equal__\" för att hitta alla värden som inte hör till intervallet.
+\u0009I denna sökning anses alla värden signerade.
+"</string>
+    <string name="does_not_support">\"__s__\" stöder inte \"__s__\".</string>
+    <string name="range_bounds_diff_types">Områdesgränserna måste vara av samma typ.</string>
+    <string name="examples">exempel</string>
+    <string name="rtfm">Läs hjälp för mer information.</string>
+    <string name="icons_size">Ikoner storlek:</string>
+    <string name="revert_and_remove">Återgå och ta bort</string>
+    <string name="remove">Ta bort</string>
+    <string name="ordered_group_search">Beställd gruppsökning</string>
+    <string name="load_items">artiklar</string>
+    <string name="load_values">värden</string>
+    <string name="load_freeze">Frysa</string>
+    <string name="video_tutorials">Videohandledning och guider hur man kan hacka</string>
+    <string name="make_copy">Göra en kopia</string>
+    <string name="video">videoklipp</string>
+    <string name="ordered">Beordrade</string>
+    <string name="toolbars">verktygsfält</string>
+    <string name="saved_list">Sparade lista</string>
+    <string name="memory_editor">Minneredigerare</string>
+    <string name="restart_game">Starta om spelet</string>
+    <string name="refine">Förfina</string>
+    <string name="internal_storage">Internt lagringsutrymme</string>
+    <string name="external_storage">Extern lagring</string>
+    <string name="new_search">Ny sökning</string>
+    <string name="load_saved_list">Ladda den sparade listan från filen</string>
+    <string name="save_saved_list">Spara den sparade listan till filen</string>
+    <string name="append">Bifoga</string>
+    <string name="xor_key">XOR-nyckel:</string>
+    <string name="only_memory">Endast inom minnesintervallet:</string>
+    <string name="dump_memory">Dumpminne</string>
+    <string name="path">Väg:</string>
+    <string name="dump_ended">Dump slutade</string>
+    <string name="dump_failed">Dump misslyckades</string>
+    <string name="eperm_error_defend">Kunde inte bifoga process (PTRACE_ATTACH): Spelet är skyddat</string>
+    <string name="reset_on_exit">Återställ vid utgången:</string>
+    <string name="kill_game">Döda spelet</string>
+    <string name="kill_game_info">Att tvinga processen att avslutas ger inte processen möjlighet att stänga av rent och kan orsaka dataförlust eller systeminstabilitet.</string>
+    <string name="continue_ask">Fortsätta?</string>
+    <string name="copy_memory">Kopiera minne</string>
+    <string name="copy_from">Kopiera från:</string>
+    <string name="paste_to">Klistra in på:</string>
+    <string name="count_bytes">Räkna byte:</string>
+    <string name="copy_ended">Kopiering minne slutade</string>
+    <string name="copy_failed">Kopia minnet misslyckades</string>
+    <string name="help_encrypted_search_title">Sök efter krypterade värden</string>
+    <string name="help_encrypted_search">"* Sök efter krypterade värden:
+\u00091. Växla till __app_name__ från ett spel.
+\u00092. Tryck på knappen \"__search_known_value__\" på fliken \"__search__\".
+3. Ange numret som visas i spelet.
+\u00094. Välj lämplig datatyp, eller välj \"__type_auto__\" (om du är osäker), eventuella andra alternativ (om det behövs), kolla \"__mode_hacking__\" och klicka på \"__search__\".
+\u00095. När sökningen är klar visas sökresultaten i listan.
+\u00096. Gå tillbaka till spelet. När värdet har ändrats, byt till __app_name__ igen.
+\u00097. Sök efter det värde som ändrats. Checkboxen \"__mode_hacking__\" måste kontrolleras.
+\u00098. Om det finns för många resultat, fortsätt till steg 6.
+\u00099. Om endast några få resultat lämnas kan du försöka ändra, lagra eller frysa värdet.
+"</string>
+    <string name="help_faq_title">Vanliga frågor</string>
+    <string name="help_faq_1_q">Varför kan jag inte skriva in ett värde över 99 eller 60 000?</string>
+    <string name="help_faq_1_a">Du hittade värdet __type_byte__ eller __type_word__. Leta efter __type_dword__ för att ange större värden.</string>
+    <string name="help_faq_2_q">Hur söker man efter fraktionerad (__type_float__) värden, utan bråkdel av värdet?</string>
+    <string name="help_faq_2_a">Använd \"__type_auto__\" datatyp eller intervallsökning. Till exempel, för 11.345 kan du söka efter \"10__tilde__12\".</string>
+    <string name="help_faq_3_q">Jag hittade värdet och ändrade det, men i spelet gör den här förändringen ingenting. Jag försöker bara använda den men allt kommer tillbaka. Vad gör jag fel?</string>
+    <string name="help_faq_3_a">"I vissa spel är värdena skyddade eller krypterade. Innan du visar värdet dekrypteras värdet till en annan variabel. Du ändrade det.
+Eftersom det här värdet endast används för visning, påverkar det inte spelmekaniken. För att hitta det verkliga värdet, istället för det visade värdet, använd sökningen efter det krypterade värdet eller den fuzzy sökningen.
+Ibland lagras värdet på servern och synkroniseras varje gång. I det här fallet kan det inte hackas. Om spelet inte fungerar utan internet och de tidigare sätten inte hjälpte - sannolikt så är fallet."</string>
+    <string name="help_faq_4_q">Finns inte värdet i spel X. Eller hittar det, men när det ändras händer ingenting. Eller det finner det, men efter att det ändrats kraschar spelet. Hur vet jag vad problemet är, är det skyddet i spelet eller med __app_name__?</string>
+    <string name="help_faq_4_a">"Du måste ta ett enkelt program som garanterat inte har något skydd och prova det. Jag föredrar att använda \"Hill Climb Racing\". Spelet är enkelt, okomplicerat och innehåller inga försvar. Du kan kontrollera hacking av pengar som en direktsökning efter nummer och fuzzy söka efter förändring.
+Om hacking på det här enkla spelet fungerar, är det i det X-spelet som du försökte hacka. Om inte, då är problemet i __app_name__.
+Det finns även ett enklare alternativ: \"Tryck på Counter\". Installera det. Springa. Försök att knäcka antalet tejp som visas på skärmen. Det ska vara väldigt enkelt. Om inte, då är problemet i __app_name__ eller dess inställningar.
+Prova en annan version av __app_name__, försök att söka efter en beskrivning av felet som mottagits på forumet i det aktuella ämnet eller på Internet. I extrema fall kan du fråga dig i forumet."</string>
+    <string name="help_faq_5_q">Hur söker man efter tid?</string>
+    <string name="help_faq_5_a">"\u0009- Försök att söka som antal dagar, timmar, minuter eller sekunder. Datatypen kan vara antingen __type_byte__, __type_word__, __type_dword__ eller __type_qword__. Du kan också använda typ __type_auto__.
+\u0009- Försök att söka som ett antal milli- eller nanosekunder. Datatypen är __type_dword__ eller __type_qword__.
+\u0009- Försök att söka som unix tidstämpel slutdatumet. Typ - __type_dword__. Det betraktas som skillnaden mellan den nuvarande unix tidstämpeln och den sparade. Sök genom sökningen.
+Till exempel, om 30 dagar skrivs, letar du efter 30 +/- 1 dag från den nuvarande unix tidstämpeln. Den nuvarande unix tidstämpeln kan enkelt ses på Internet."</string>
+    <string name="help_faq_6_q">Är det möjligt att hacka onlinespel?</string>
+    <string name="help_faq_6_a">Det är möjligt att hacka data som lagras på klienten. Allt på servern kan inte hackas. I olika spel kan det vara olika sätt. Även inom ett enda spelar spel kan vissa data vara på servern, och vissa kanske inte.</string>
+    <string name="help_faq_7_q">Var jobbar speedhack?</string>
+    <string name="help_faq_7_a">"Speedhack kanske inte fungerar på x86-enheter / emulatorer för spel som inte har x86-bibliotek.
+Även för en ART-miljö arbetar Speedhack inte med Java-timers. Om spelet använder dem och du har en ART-miljö (vanligtvis Android 5 och senare), kommer Speedhack inte att fungera."</string>
+    <string name="help_faq_8_q">__app_name__ fungerar som helhet för mig, men i vissa spel får jag PTRACE_ATTACH-felet. Varför och vad ska man göra om det?</string>
+    <string name="help_faq_8_a">Detta spel är utrustat med skydd mot felsökning av typen SecNeo-skydd. __app_name__ kan inte kringgå detta skydd. Genom det kan du inte hacka det här spelet.</string>
+    <string name="help_faq_9_q">Varför har programmet ett så märkligt paketnamn? Varför är programmet inte uppdaterat, men varje gång installeras separat? Varför har varje version ett annat paketnamn?</string>
+    <string name="help_faq_9_a">För att förhindra upptäckt av anti-cheats med paketnamn.</string>
+    <string name="help_faq_10_q">I vissa spel, när de ändrar hastighet (speedhack), slutar de att svara på klick. Är det spelskydd eller programfel?</string>
+    <string name="help_faq_10_a">Detta innebär att din speedhacking avlyssnar inmatningskön timers och den dör. Det är nödvändigt att välja gröna kryssrutor i listan över timers (i inställningarna __app_name__) så att detta inte händer.</string>
+    <string name="help_faq_11_q">Varför utfärdar det en kommaseparerad lista över fel?</string>
+    <string name="help_faq_11_a">Eftersom avgränsningen av siffror är en semikolon (\"__semicolon__\").</string>
+    <string name="help_faq_12_q">Hur utför jag flera sökningar samtidigt?</string>
+    <string name="help_faq_12_a">För tillfället tillåter inte programmet det här, men du kan installera programmet flera gånger och köra kopiorna om det finns tillräckligt med minne och diskutrymme.</string>
+    <string name="help_faq_13_q">Behöver jag uppdatera ansökan om det inte finns något som är viktigt i förändringarna?</string>
+    <string name="help_faq_13_a">Det föreslås. Stöd är endast för den senaste versionen.</string>
+    <string name="help_faq_14_q">Vilka är symbolerna \"!\" och \"#\", före processnamnet?</string>
+    <string name="help_faq_14_a">"Detta markerar de spårade processerna.
+\u0009\"#\" - innan processen innebär att det spåras av någon annan process.
+\u0009\"!\" - före processen är denna process spårad någon annan process.
+Spårning är typisk för debugging eller hacking. Det används också i vissa skydd. En process med ett \"#\" -tecken är vanligtvis en skyddad process."</string>
+    <string name="help_faq_15_q">Varför utför applikationen efter standardinstallationen också sin egen installation och utfärdar förfrågningar om roträttigheter?</string>
+    <string name="help_faq_15_a">__app_name__ återinstallerar sig med slumpmässiga data för att förhindra dess detektering av anti-fusk. Röda rättigheter krävs för \"tyst\" installation och avinstallation. Du kan inte ge dem ut. I det här fallet måste du manuellt svara på alla önskemål i systemet för installation av program.</string>
+    <string name="help_faq_16_q">Vad är __pkg__? Är det en trojan eller ett virus? Är det säkert att ge den här applikationen root access?</string>
+    <string name="help_faq_16_a">Detta är basnamnet på __app_name__-paketet. Utfärdande av root-åtkomst är säker om __app_name__ hämtas från betrodda källor.</string>
+    <string name="help_faq_17_q">Varför är __app_name__ i listan över installerade applikationer benämnda som en slumpmässig teckenuppsättning? Varför ställer denna karaktär förfrågan till root-åtkomst? Varför när lanseringen __app_name__ skriver att roten inte tillhandahålls av __app_name__, utan av någon form av abracadabra?</string>
+    <string name="help_faq_17_a">Eftersom __app_name__ använder den för att gömma sig från detektering av anti-fusk.</string>
+    <string name="help_faq_18_q">Varför registreras __app_name__ av de senaste versionerna ibland av anticheats, och ibland inte?</string>
+    <string name="help_faq_18_a">Eftersom __app_name__ använder olika saker för att gömma sig från upptäckt av anti-fusk. Detta inkluderar ett slumpmässigt paketnamn och -program. Vid varje installation är de olika. Försök ominstallera __app_name__ för att regenerera. Kanske efter denna anti-fusk kommer sluta att se __app_name__.</string>
+    <string name="help_faq_19_q">Varför är mitt spel inte i programlistan?</string>
+    <string name="help_faq_19_a">Eftersom det här är en lista över program som körs och din program inte körs. Kör den och välj sedan den i __app_name__.</string>
+    <string name="help_faq_20_q">Varför kan Java-applikationer inte svara på speedhack på Android 5 och senare?</string>
+    <string name="help_faq_20_a">Eftersom Speedhack är utformat för spel med inbyggda bibliotek. Din ansökan är inte. Och sedan Android 5 använde miljön av ART, istället för Dalvik, vilket gör det omöjligt att fånga upp Java-tidtagare. Gör ingenting. Situationen kommer inte att förändras i framtiden.</string>
+    <string name="help_faq_21_q">Jag använde ett annat speedhack / hackingverktyg på Android 4 och allt fungerade. Nu lägger jag __app_name__ på Android 5 och senare, men de här metoderna fungerar inte. Varför?</string>
+    <string name="help_faq_21_a">"Eftersom många saker har förändrats och ditt verktyg inte skulle fungera precis som det. Skapa inte dina illusioner om att den här __app_name__ är så dålig, men om det fanns det nytta, då! Det finns inget sådant.
+För att testa detta installerar du __app_name__ på Android 4 och upprepar alla samma åtgärder som i det verktyget. Som ett resultat kommer du att lyckas. Men det betyder inte att samma metoder kommer att fungera på Android 5 och senare.
+Detta faktum bekräftas experimentellt, upprepade gånger."</string>
+    <string name="help_faq_22_q">Jag tittar på ett videoklipp / skärmdumpar och det finns andra data i minnesredigeraren. Varför?</string>
+    <string name="help_faq_22_a">Eftersom videon / skärmdumpen har ett annat utdataformat. I minnesredigeraren trycker du på menyn - välj \"__value_format__\" och konfigurera utmatningen som den ska.</string>
+    <string name="help_faq_23_q">När värdet är fruset börjar spelet bromsa eller lagra. Varför?</string>
+    <string name="help_faq_23_a">Eftersom du har __app_name__ inställningarna är alternativet \"__hide_from_game__\" aktiverat. Stäng av den.</string>
+    <string name="help_faq_24_q">Hur kan jag inaktivera kontrollen av nya versioner när jag börjar programmet?</string>
+    <string name="help_faq_24_a">Aldrig.</string>
+    <string name="help_faq_25_q">Hur spolas tiden tillbaka i ansökan? Är det möjligt att göra en tidshoppa inte framåt, men bakåt?</string>
+    <string name="help_faq_25_a">Aldrig. Du kan inte. Tiden måste alltid öka annars kan spelet krascha. Men i de senaste versionerna lade vi till möjligheten till ett negativt tidshopp. Resultatet kan vara en hängning av spelet eller förlust av data. Varnas.</string>
+    <string name="help_faq_26_q">Jag sätter ikonen på och den försvann. Hur kan jag få tillbaka det?</string>
+    <string name="help_faq_26_a">Ikonen blir transparent, men du kan fortfarande klicka på den. Klicka var det var, ändra sedan inställningen via gränssnittet.</string>
+    <string name="help_faq_27_q">Hur söker jag efter ett värde om det visas i avrundning med spelet? Till exempel, 1,85M.</string>
+    <string name="help_faq_27_a">Sök efter sökområdet. Räckviddsgränserna beror på avrundningsreglerna. Till exempel \"1845000__tilde__1854999\" för standardrunda.</string>
+    <string name="help_faq_28_q">Hur söker jag efter ett procentvärde? Till exempel 123__percent__.</string>
+    <string name="help_faq_28_a">Det beror på genomförandet. För varje spel kan det vara annorlunda. Till exempel 123__percent__. Det kan vara __type_float__ eller __type_double__ med valfritt värde. Gilla 1.23 eller 123.0. Eller det kan vara heltalstyper: __type_byte__, __type_word__, __type_dword__. Till exempel 123 eller 12300. På utgången kan det delas upp på ett visst nummer. 100 eller 345 eller något annat. För varje spel kan det vara annorlunda. Du kan prova de mest uppenbara fallen. För 123__percent__ kan det vara 1,23 eller 123. Typ - __type_auto__. Om du har tur kan det vara vad du behöver.</string>
+    <string name="help_faq_29_q">Vad händer om spelet upptäcker __app_name__?</string>
+    <string name="help_faq_29_a">"Prova följande alternativ (var för sig eller i någon kombination):
+\u0009- Aktivera \"__hide_from_game__\" alternativ. Vanligtvis räcker 2, 3 och 4 alternativ.
+\u0009- Avbryt inte ominstallationen __app_name__ med ett slumpmässigt namn. Detta görs för första gången __app_name__ körs utanför virtuella rymden.
+\u0009- Användning XPrivacy eller liknande verktyg. Titta på Internet för hur man gör detta.
+\u0009- Om du har root rättigheter, användning rot från den virtuella rymden med dold installation av program. Läs mer i sammanhang hjälp för inställningen \"__vspace_root__\"."</string>
+    <string name="work_without_selinux">Byt till jobbet utan __selinux__ och starta om appen</string>
+    <string name="work_with_selinux">Byt till jobbet med __selinux__ och starta om appen</string>
+    <string name="file">Fil:</string>
+    <string name="file_not_found">Filen hittades inte:</string>
+    <string name="export_selected">Exportera vald</string>
+    <string name="failed_list_dir">Misslyckades med att läsa fillista.</string>
+    <string name="change_float_type">Välj typ av flytande fönster</string>
+    <string name="reset_float_type">Återställ typen av flytande fönster</string>
+    <string name="mask">Mask:</string>
+    <string name="mask_request">Ange en adress för att söka efter</string>
+    <string name="help_mask_search_title">Adress (mask) sökning</string>
+    <string name="help_mask_search">"* Adress (mask) sökning:
+\u0009Du kan söka eller filtrera ut efter adress med mask.
+
+\u0009Ett typiskt exempel söker efter adresser som slutar med ett känt värde. Till exempel på \"12E\".
+
+\u0009Sökparametrarna är adress och mask.
+\u0009I adressen kan du använda jokertecken (\"__question__\"). Denna symbol betyder att det kan vara vilken som helst karaktär från \"0\" till \"F\".
+\u0009En ytterligare mask bildas från adressen, så de ledande nollorna är viktiga. Sålunda är sökningen efter \"0120\" och sökandet efter \"120\" inte samma sak.
+\u0009I det första fallet kommer att hittas: \"00010120\", \"00020120\", \"00030120\" och så vidare. Medan i andra: \"00001120\", \"00002120\", \"00003120\" och så vidare.
+
+\u0009Du kan söka både för jämlikhet och för den ojämlikhet som indikeras av masken. Det andra alternativet kan vara användbart för att eliminera onödiga värden.
+
+\u0009Adressen och masken anges i det hexadecimala systemet och utan bokstaven \"__hex__\" i slutet.
+\u0009Masken som erhållits från adressen skär med masken som du angav. Detta är den resulterande sökmasken.
+
+\u0009Följande exempel är ekvivalenta, eftersom den resulterande masken har samma - \"FF0\"
+__mask_example__
+"</string>
+    <string name="use_sound_effects">Använd ljudeffekter:</string>
+    <string name="from_range">Från:</string>
+    <string name="to_range">Till:</string>
+    <string name="resultant_mask">Resulterande mask:</string>
+    <string name="show_time_jump_panel">Visa tid hopppanel:</string>
+    <string name="use_notification">Använd anmälan:</string>
+    <string name="show_gg">Visa __app_name__</string>
+    <string name="hide_gg">Dölj __app_name__</string>
+    <string name="time_remaining">Återstående tid:</string>
+    <string name="help_fill_title">Fyll (inkrement) värden</string>
+    <string name="help_fill">"* Fyll (inkrement) värden:
+Det händer ofta att det finns för många värden, men de kan inte ändras från spelet.
+\u0009I detta fall kommer fyllningen till undsättning.
+
+\u0009Ett typiskt exempel på användning är sökningen efter priset på ett objekt, med en efterföljande ersättning av en negativ.
+
+\u00091. Välj önskade objekt.
+\u00092. Välj \"__edit_selected__\".
+\u00093. Tryck på knappen \"__more__\" för att visa \"__increments__\" fältet, om det här fältet inte är närvarande.
+\u00094. I fältet \"__increments__\" anger du inkrementvärdet. Vanligtvis är detta 1. Och klicka på \"__yes__\".
+\u00095. De valda objekten kommer att få nya värden.
+\u00096. Gå till spelet och se hur det önskade värdet har förändrats och flyttar sig över spelskärmarna.
+\u00097. Om värdet inte har ändrats, är det önskade elementet inte bland valt. Återgå till __app_name__ och använd \"__delete_selected__\" -> \"__revert_and_remove__\", ta bort de valda objekten och returnera dem till föregående värde. Nu kan du prova allt från början med andra element, om det finns några.
+\u00098. Om värdet har ändrats är det önskade elementet ett av de valda elementen. Kom ihåg det nya värdet och återgå till __app_name__.
+\u00099. I listan med valda objekt söker du efter önskat värde. Avmarkera det. Ta bort alla andra värden, med \"__delete_selected__\" -> \"__revert_and_remove__\", och returnera dem tidigare värde.
+\u000910. Ändra önskat elementvärde som du behöver.
+
+\u0009Typiska fel är borttagning utan att återgå. Därefter kan spelet krascha.
+
+\u0009Om du hittar många värden, försök att fylla i små portioner för att undvika kraschar.
+"</string>
+    <string name="help_hint_1">* Om du alltid hittar de önskade värdena i samma region (bokstäver i slutet av objekten i resultatlistan) kan du bara välja dessa regioner för en snabbare sökning.</string>
+    <string name="help_faq_30_q">__app_name__ söker efter värderingar väldigt långsamt och under lång tid i Android-emulatorn på datorn.</string>
+    <string name="help_faq_30_a">"Troligtvis har du virtualisering inaktiverad i PC BIOS. Sätt på den.
+__app_name__ körs inuti emulatorn, så hastigheten på det fungerar beror på emulatorns hastighet.
+Om virtualisering är aktiverad, men hastigheten fortfarande är låg, kontrollera inställningarna för din emulator eller använd en annan emulator.
+Du kan också använda ett annat verktyg - CheatEngine för PC - det kommer att söka snabbare och ge dig många funktioner som aldrig kommer att vara i __app_name__."</string>
+    <string name="help_speed_up_title">Hur påskyndar sökningen</string>
+    <string name="help_speed_up">"* Hur man påskyndar sökningen:
+\u00090. Om du använder en Android-emulator på en dator (BlueStacks, Droid4X, Andy, NOX, Memu, AMIDuOS, Windroy, AVD, Genymotion, Koplayer, Leapdroid etc.), kontrollera att virtualisering (VT Technology, Vanderpool Technology, Virtualization Technology , VTx, VT-d, VMX, Virtuell teknik, Intel-VT, AMD-V, SVM, IOMMU) är aktiverad i PC BIOS.
+\u00091. Om du har mycket RAM, kan du lagra data där. Detta ökar hastigheten på sökningen. Ställ in inställningen \"__data_in_ram__\" till \"__yes__\". I en Android-emulator på en dator kan detta sakta ner sökningen.
+\u00092. Om du har lite RAM lagras data på minneskortet. Använd ett minneskort med hög skriv- och läshastighet.
+\u00093. Du kan också ange lagring av data i enhetens interna minne, om det är snabbare än minneskortet. Ställ in inställningen \"__set_path__\" på önskad bana.
+\u00094. Vid sökning, välj endast önskade områden. Undvik långsamma (\"__slow__\") och farliga (\"__dangerous__\") regioner.
+\u00095. Du kan också ange gränserna för minnesområdet, för sökning, om du känner till dem. Klicka på knappen \"__more__\" i sökdialogrutan och ange gränserna.
+\u00096. Sök endast efter önskade data. Datatypen \"__type_auto__\" är långsam.
+\u00097. Inaktivera alla möjliga alternativ \"__hide_from_game__\".
+\u00098. Försök med att använda \"__experimental__\" eller \"__extended__\" i \"__memory_access__\". Dessa alternativ kan leda till instabilt arbete.
+"</string>
+    <string name="help_faq_31_q">Efter ett tag försvinner __app_name__ ikonen.</string>
+    <string name="help_faq_31_a">"Försök klicka på den plats där ikonen var. Om det här öppnas __app_name__ gränssnittet, är ikonen gömd i inställningarna eller din firmware har fel med displayen ikonen.
+Om gränssnittet inte öppnas betyder det att __app_name__ har lossats från minnet.
+Möjliga orsaker:
+
+\u00091. Det finns inte tillräckligt med RAM på enheten - __app_name__ dödad av systemet. Försök använda mindre RAM. I __app_name__-inställningarna anger du inte lagring av data i RAM, ställer inte in ett stort antal visade resultat, lossar \"extra\" program från RAM, använd \"lättvikts\" analoger av program som inte kan laddas upp (till exempel startprogram ). I särskilt dåliga fall, starta om enheten innan du kör __app_name__ med spelet. Nästan alla firmware har alltid läckage RAM. Mer tid efter omstart - desto mindre ledigt RAM.
+
+\u00092. Du har en processmördare som dödar __app_name__.
+
+Inaktivera mördare eller lägg till __app_name__ för dess undantag.
+Killers är också alla slags \"optimizers\" och \"improvers\" av RAM.
+I allmänhet, se beskrivningen för programvaran, om du inte vet är det mördaren eller inte.
+
+För FlyMe: __app_name__ av någon anledning efter några minuter av arbete laddat - du måste tillåta arbete i bakgrunden för __app_name__ och din root manager (vanligtvis SuperSu).
+
+Du kan också försöka aktivera \"__use_notification__\" i __app_name__ inställningar. Ibland förhindras detta att döda __app_name__."</string>
+    <string name="quick_start_title">Snabbstart</string>
+    <string name="prevent_unload">Förhindra avlastning:</string>
+    <string name="hot_key">Nyckelnyckel:</string>
+    <string name="hide">Dölj</string>
+    <string name="execute_script">Utför skript</string>
+    <string name="execute">Kör</string>
+    <string name="another_script">Ett annat skript körs. Avbryt det?</string>
+    <string name="interrupt">Avbryta</string>
+    <string name="script">Manus:</string>
+    <string name="script_ended">Skriptet slutade:</string>
+    <string name="paused">Spelet är pausat:</string>
+    <string name="by_pause_button">av pausknappen</string>
+    <string name="by_option">"med alternativet '__s__'"</string>
+    <string name="new_search_short">Ny</string>
+    <string name="speedhack_loading">Laddar speedhack ...</string>
+    <string name="speedhack_loaded">Speedhack är laddad.</string>
+    <string name="busy_dialog_fail">Framdriftsdialogrutan kunde inte visas.</string>
+    <string name="site">Webbplats</string>
+    <string name="help_xor_search_title">XOR-sökning</string>
+    <string name="help_xor_search">"* XOR-sökning:
+\u0009\u0009Om du vet att värdet du behöver är krypterat med en XOR-nyckel som alltid ligger på samma avstånd från värdet, kan du använda det här läget för att söka efter det dekrypterade värdet.
+\u00091. Växla till __app_name__ från ett spel.
+\u00092. Tryck på knappen \"__search_known_value__\" på fliken \"__search__\".
+\u00093. Ange ett söknummer och XOR-nyckelavstånd, åtskilda av \"__mode_xor__\". Till exempel, för att söka efter värde 100 med en nyckel på avstånd 8, ange:
+\u0009\u0009\u0009100__mode_xor__8
+\u0009\u0009För att mata in ytterligare symboler, använd knappen \"__btn_hex__\" på internt tangentbord.
+\u00094. Välj lämplig datatyp, eller välj \"__type_auto__\" (om du är osäker) och andra alternativ (om det behövs) och klicka på \"__search__\".
+\u00095. När sökningen är klar visas sökresultaten i listan.
+\u00096. Tillbaka till spelet. När värdet har ändrats, byt till __app_name__ igen.
+\u00097. Upprepa XOR-sökning med lämpliga ändringar.
+\u00098. Om det finns för många resultat, upprepa steg 6 och 7.
+\u00099. Om få resultat lämnas kan du försöka ändra, lagra eller frysa värdet.
+
+\u0009Du kan använda XOR-sökning med intervallsökning. Till exempel \"100__tilde__150__mode_xor__8\".
+\u0009Vanligtvis är XOR-sökning långsammare från vanlig sökning.
+\u0009Det här läget stöds inte i gruppsökningen eller i krypterad sökning.
+\u0009Avståndet måste vara från 1 till 4096 inklusive.
+\u0009Du kan ange avstånd i hex-form med __hex__-symbolen i slutet: \"100__tilde__150__mode_xor__10h\".
+\u0009Avstånd måste respektera värdena justera. Exempelvis måste dword justeras till 4-bytesgräns. Denna genomsnittliga sökning \"40__mode_xor__7\" är värdelös för dword eftersom 7 inte kan dela upp till 4.
+\u0009Kombinera det här läget med en annan kan orsaka problem med den dåliga firmware. Om du till exempel gör vanlig sökning och efter det förfina i XOR-läget kan det orsaka att du hänger eller startar om enheten. Detta får inte hända om den första sökningen kommer att vara i det här läget.
+\u0009En fuzzy sökning i det här läget stöds inte. Du kan kombinera det men fuzzy arbete som vanligt och respektera inte din XOR-nyckel med avstånd.
+\u0009Signera för värden respekteras. Det är viktigt att du kan söka värdet inte lika, större, mindre och så vidare.
+\u0009I denna sökning anses alla värden signerade.
+"</string>
+    <string name="help_faq_32_q">Vad är skillnaden med HW / SW-versionerna? Och vilken ska jag använda?</string>
+    <string name="try_latest">Kanske behöver detta skript den senaste versionen av __app_name__. Försök att uppdatera till den senaste versionen.</string>
+    <string name="help_string_search_title">Text (sträng, HEX, AoB) sökning</string>
+    <string name="download_scripts">Hämta skript</string>
+    <string name="hide_icons">Dölj launcher-ikoner</string>
+    <string name="select_mode">Välj läge</string>
+    <string name="mode_string">Text</string>
+    <string name="mode_mixed">Blandad</string>
+    <string name="string_search_prompt">Ange en text för att söka efter, upp till __d__ byte i längd. Till exempel</string>
+    <string name="string_empty">Du måste ange en text.</string>
+    <string name="string_not_found">Texten \"__s__\" kunde inte hittas.</string>
+    <string name="string_found">Hittade __d__ träffar för texten \"__s__\".</string>
+    <string name="string_replace">Vill du ersätta dem?</string>
+    <string name="string_replace_prompt">Skriv texten som ersätter \"__s__\". Längden är inte mer än __d__ byte.</string>
+    <string name="string_replaced">Ersätt \"__s__\" till \"__s__\" på __d__ platser.</string>
+    <string name="need_allow_background">På den här programvaran måste du tillåta att du arbetar __app_name__ i bakgrunden, i systeminställningarna.</string>
+    <string name="calculate_offset_xor">Beräkna förskjutning, XOR</string>
+    <string name="select_copy_item">Välj ett objekt att kopiera:</string>
+    <string name="landscape">Landskap</string>
+    <string name="portrait">Porträtt</string>
+    <string name="toolbar_buttons">Verktygsfält knappar</string>
+    <string name="need_update_to">Du behöver en nyare version av __app_name__ för att köra det här skriptet. Åtminstone version __s__. Du har version __s__.</string>
+    <string name="default_mark">standard</string>
+    <string name="default_">Standard:</string>
+    <string name="reset_button">Återställa</string>
+    <string name="help_hex_colors_title">Färger i minnesredigeraren</string>
+    <string name="help_hex_colors">"* __help_hex_colors_title__:
+Om hex-representationen inte är vit, men färg, är det troligtvis i detta värde pekaren. Färgen anger vilken typ av minne den här pekaren avser.
+Detta kan vara __executable__ minne, __writable__ eller __read_only__. I sällsynta fall kan det vara __writable_and_executable__ minne."</string>
+    <string name="executable">exekverbar</string>
+    <string name="writable">skrivbar</string>
+    <string name="read_only">Skrivskyddad</string>
+    <string name="writable_and_executable">skrivbar och körbar</string>
+    <string name="help_extract">Extrahera hjälpen</string>
+    <string name="help_extract_done">Hjälpen extraheras till __s__</string>
+    <string name="help_extract_fail">Ett fel uppstod när du extraherade hjälpen:</string>
+    <string name="try_arm_version">Prova att använda versionen av __app_name__ med stöd för äldre ARM-processorer:</string>
+    <string name="back">Tillbaka</string>
+    <string name="forward">Framåt</string>
+    <string name="no_previous">Inga tidigare inlägg</string>
+    <string name="no_next">Inga nästa poster</string>
+    <string name="from_item">Från objektet:</string>
+    <string name="from_context">Från snabbmenyn:</string>
+    <string name="from_boundary">Från gränsen</string>
+    <string name="from_goto">Ring goto</string>
+    <string name="from_calc">Från offseträknaren:</string>
+    <string name="help_add_to_value_title">Alternativ \"__add_not_replace__\"</string>
+    <string name="help_add_to_value">"* __help_add_to_value_title__:
+Om det här alternativet är markerat läggs det inmatade värdet till det befintliga värdet och ersätter inte det. Till exempel har elementet ett värde av 5, och du har skrivit 7, i värdesfältet. Om det här alternativet är markerat kommer elementet att få ett nytt värde på 5 + 7, lika med 12. Om inte markerat, då 7.
+Du kan ange både positiva och negativa värden.
+Detta alternativ är oförenligt med att värdet fryses."</string>
+    <string name="check_libs">Kontrollera arkitekturen i spelbiblioteken:</string>
+    <string name="arm_libs">"Spelet är installerat med ARM-bibliotek, även om det finns x86-bibliotek i apk.
+Speedhack och allt som hänger samman med det, fungerar inte.
+\"__skip__\" inaktiverar dessa kontroller. Du kan slå tillbaka den i inställningarna."</string>
+    <string name="manual_install">Du kan installera .apk-fil manuellt. Den ligger på följande väg:</string>
+    <string name="as_text">Som text (kan inte laddas)</string>
+    <string name="as_text_help">Sparar listan i textformat, lämplig för mänsklig läsning. Laddar av detta format stöds inte.</string>
+    <string name="help_pointer_search_title">Pekarsökning</string>
+    <string name="help_pointer_search">Söker efter värden som kan peka till önskad adress. Du kan ange en gräns för en eventuell förskjutning.</string>
+    <string name="all_memory">I allt minne</string>
+    <string name="offset_help">Den maximala gränsen för en eventuell förskjutning.</string>
+    <string name="typical_values">Typiska värden</string>
+    <string name="su_command">Superuser-kommandot</string>
+    <string name="starts">Börjar med</string>
+    <string name="ends">Slutar med</string>
+    <string name="no_filter">Inget filter.</string>
+    <string name="help_memory_filter_title">Filtrering i minnesredigeraren</string>
+    <string name="help_memory_filter">"* __help_memory_filter_title__:
+Du kan ange ett filter i minnesredigeraren. Endast de resultat som matchar filtret visas.
+Filtret stöder jokertecken:
+\u0009__caret__ - start av data,
+\u0009__dollar__ - slutet av data,
+\u0009__asterisk__ - valfritt antal tecken,
+\u0009__question__ - den ena vilken karaktär som helst.
+Till exempel, för att hitta nummer 42 måste du ange __caret__42__dollar__."</string>
+    <string name="use_sh">Använd kommandot skalet</string>
+    <string name="backgrounds">Svart bakgrund</string>
+    <string name="actions">Åtgärder:</string>
+    <string name="game_settings">Inställningar för spelet:</string>
+    <string name="global_settings">Globala inställningar:</string>
+    <string name="ui_settings">UI-inställningar:</string>
+    <string name="others">Övrigt:</string>
+    <string name="skip_memory">Hoppa över minnesområden:</string>
+    <string name="empty_memory">Tömma</string>
+    <string name="without_protection">utan skydd</string>
+    <string name="help_games_protection_title">Hur man skyddar skydd i spel</string>
+    <string name="help_games_protection">"\u0009Vissa spel är utrustade med skydd mot minnesredaktörer. Du kan prova följande:
+\u00091. \"__kill_game__\" och sedan \"__restart_game_without_protection__\".
+\u00092. \"__disable_protection__\", och kör sedan (eller starta om) spelet.
+\u00093. Använd hela eller delar av föremålen i \"__hide_from_game__\". Alla dem sakta ner sökningen.
+\u00094. Sök när spelet minimeras.
+\u00095. Sök när spelet är pausat.
+\u00096. Döda eller pausa några av de skyddande processerna i spelet, om spelet har flera processer.
+\u00097. Använd XPrivacy eller liknande verktyg för att kringgå skydd.
+\u00098. Använd modifieringen av spelet utan skydd.
+"</string>
+    <string name="disable_protection">Inaktivera skydd för alla applikationer (tills omstart)</string>
+    <string name="must_restart_if">Om du kör spelet innan du inaktiverar skyddet måste du starta om det.</string>
+    <string name="patch_loading">Laddar patch ...</string>
+    <string name="patch_loaded">Patch är laddad.</string>
+    <string name="patch_failed">Patch är inte laddad.</string>
+    <string name="history_limit">Historiens gräns:</string>
+    <string name="copy_as_search">Kopiera som en gruppsökning</string>
+    <string name="add_types">Lägg till typer</string>
+    <string name="add_size">Lägg till gruppstorlek</string>
+    <string name="copy_rhex_value">Kopiera det omvända hex-värdet:</string>
+    <string name="mips_arch">Denna applikation stöder inte MIPS-arkitekturen.</string>
+    <string name="unrandomizer">Unrandomizer</string>
+    <string name="functions">funktioner</string>
+    <string name="help_unrandomizer">"
+Unrandomizer är en funktion som är utformad för att ersätta vissa funktioner som vanligen används i spel för att producera slumpmässiga värden. På en mycket enkel nivå kan det till exempel vara ett spel som använder en randomizer-funktion för att bestämma spelarens belöning. Att aktivera unrandomizer skulle då orsaka __app_name__ för att försöka ersätta detta slumpmässiga värde med det angivna värdet för att ändra resultatet (till exempel för att få en viss belöning).
+
+Unrandomizer fungerar inte i alla fall. Det kommer bara att hantera funktioner som den vet om. I de flesta fall och för de flesta användare kommer det inte att användas, eftersom det är mer av en avancerad / experimentell funktion.
+
+Vissa funktioner returnerar __type_qword__, en del - __type_double__ (används sällan).
+
+__type_double__-värdena måste ligga i intervallet från 0 till 1. Du kan emellertid ange några värden där, eftersom __app_name__ korrigerar alla felaktiga varianter automatiskt.
+
+Du kan också ange ett steg för steg. I det här fallet ökar varje efterföljande resultat med detta värde. Till exempel kommer för steg 1 och initialvärdet 0, istället för ett slumpmässigt värde, 0, 1, 2, 3, ... att returneras.
+Det här alternativet kan vara användbart för en fullständig sökning av alla möjliga slumpmässiga resultat.
+
+Du kan ange vilka funktioner som ska ändras i inställningarna __app_name__.
+"</string>
+    <string name="count_replace">Hur många första resultat ska ersättas?</string>
+    <string name="unrandomizer_loading">Laddar unrandomizer ...</string>
+    <string name="unrandomizer_loaded">Unrandomizer är laddad.</string>
+    <string name="warn_restart_off_prot">"Det här alternativet försöker att starta om spelet utan skydd.
+Många firmware innehåller dock fel som kan få enheten att starta om.
+Om det händer, försök inte att starta spelet igen, eftersom det kommer att starta om enheten igen.
+Bara köra __app_name__ - det kommer att rensa de dåliga inställningarna.
+Du kan också försöka starta om enheten på ett vanligt sätt, det här bör också lösa problemet.
+
+Om omstarten har inträffat - använd inte den här funktionen, det fungerar inte på din firmware."</string>
+    <string name="warn_patch_off_prot">"Det här alternativet försöker patcha systemet (tillfälligt) så att alla program körs utan skydd.
+Ändringarna gäller endast om nya program startar. Därför måste målprogrammet, efter en framgångsrik patch, startas om.
+För att avbryta plåstret, starta om enheten.
+Kanske kommer det att finnas olika fel i systemet, efter denna patch.
+
+Om patchen är framgångsrik rekommenderas det inte att köra den här funktionen igen innan du startar om enheten.
+
+Om du har problem, använd inte den här funktionen."</string>
+    <string name="clear_history">Rensa inmatningshistorik</string>
+    <string name="clear_history_warn">Alla poster, inklusive pinned, raderas.</string>
+    <string name="click_edit">Klicka här för att redigera</string>
+    <string name="ignore_unknown_chars">Ignorera okända tecken:</string>
+    <string name="need_root_mode">Den här funktionen kräver root-åtkomst. För närvarande kör __app_name__ i ett virtuellt miljöläge utan root-åtkomst.</string>
+    <string name="work_without_root_title">Arbeta utan rot</string>
+    <string name="work_without_root">"__app_name__ kan fungera utan rot, genom en virtuell miljö. Till exempel, genom __vspace_list__ och många andra.
+__app_name__ måste installeras i en virtuell miljö. Spelet måste också installeras där.
+Alla funktioner i programmet stöds inte, men de flesta funktioner ska fungera.
+
+Du kommer inte att kunna spricka spel som inte är installerade i en virtuell miljö.
+
+Den första lanseringen av __app_name__, som utför en ominstallation med ett slumpmässigt paketnamn, får inte utföras via en virtuell miljö.
+Då kan du lägga till __app_name__ i den virtuella miljön och använda."</string>
+    <string name="help_game_not_listed_title">Varför är mitt spel inte på processlistan?</string>
+    <string name="fractional_hint">"Den fraktionerade delen av ett reellt tal \"x\" är överskottet bortom det talets heltal.
+För ett tal motsvarar dess fraktionsdel följaktligen de siffror som visas efter radixpunkten.
+
+Till exempel:"</string>
+    <string name="pointer">Pekare:</string>
+    <string name="help_search_filter_title">Filter i sökning</string>
+    <string name="help_search_filter">"Du kan filtrera sökresultaten.
+Du kan ange:
+\u0009- gränserna för adressen,
+\u0009- gränserna för värdet,
+\u0009- De obligatoriska datatyperna
+\u0009- den önskade fraktionsdelen av numret,
+\u0009- önskad typ av pekare
+Du kan kombinera alla filter med varandra.
+Du kan även när som helst inaktivera ett eller något av filtren.
+
+Om en stor mängd data hittas kan filtren sakta ner resultaten.
+
+Ett filter på den delade delen av ett tal kan vara antingen genom jämlikhet eller ojämlikhet.
+För heltalstyper är fraktionsdelen noll. Om du inte behöver heltalstyper, uteslut dem med ett typfilter.
+
+Filtrering med pekartyp tillåter att i utgången endast lämna de värden som kan vara en pekare till önskad typ av minne.
+Möjliga minnetyper motsvarar färgerna i minnesredigeraren:
+Detta kan vara __executable__ minne, __writable__ eller __read_only__. I sällsynta fall kan det vara __writable_and_executable__ minne.
+
+Pseudotypen \"ingen pekare\" motsvarar alla typer av data som inte kan peka, och även till de värden av pekare som pekar på odelat minne."</string>
+    <string name="unmount_kill">"Minneskortet var ommonterat, medan __app_name__ lagrade temporära filer på den. Detta ledde till att demonen tvingades stängas.
+
+För att förhindra att detta händer, ange en annan väg till de temporära filerna. Till exempel i internminnet.
+Det ska finnas tillräckligt med ledigt utrymme."</string>
+    <string name="calls">Systemsamtalsläge:</string>
+    <string name="alternative">Alternativ</string>
+    <string name="help_calls">"På vissa firmware, till exempel Lenovo, kan alternativläget fungera snabbare.
+
+Normalt behöver du inte ändra det här alternativet."</string>
+    <string name="help_context_title">Kontextuell hjälp</string>
+    <string name="help_context">"I gränssnittet markeras vissa element med en särskild ikon högst upp till höger, med symbolen __i__ i cirkeln.
+Tryck på eller länge trycka på detta element, visar hjälp på detta element."</string>
+    <string name="waitpid_mode">__waitpid__ läge:</string>
+    <string name="help_waitpid">"På vissa fasta program fungerar __waitpid__ systemanrop inte som förväntat. Detta beror vanligtvis på felaktiga inställningar för SeLinux.
+Detta leder till en oändlig sökning i __app_name__.
+Du kan försöka använda ett alternativt läge. Kanske kommer det att fungera."</string>
+    <string name="microseconds_short">^ s</string>
+    <string name="small_is_bad">För små värden kan orsaka en hög belastning på processorn och låter i spelet.</string>
+    <string name="freeze_interval_help">Intervallet genom vilket __app_name__ överstiger värdena i spelminnet.</string>
+    <string name="saved_list_update_interval_help">Intervallet genom vilket __app_name__ uppdaterar värdena i den sparade listan.</string>
+    <string name="icons_size_help">"Ikonens storlek i __app_name__-gränssnittet.
+Gäller inte en flytande ikon."</string>
+    <string name="ignore_unknown_chars_help">Kan hjälpa till att lösa problem när du kopierar nummer från olika platser, om specialtecken kopieras tillsammans med siffrorna.</string>
+    <string name="use_notification_help">"Användning av meddelanden i systemnotifieringsområdet för Android.
+På vissa firmware ökar detta programmets prioritering och förhindrar att den stängs.
+Du kan också använda anmälan för att gå till __app_name__ eller spelet genom att klicka på det.
+Detta kan vara användbart om du inte kan klicka på den flytande ikonen."</string>
+    <string name="use_sound_effects_help">"Systemet låter när du trycker på knappar och föremål.
+På vissa firmware orsakar ljud __app_name__ att krascha."</string>
+    <string name="keyboard_help">Det interna tangentbordet tar upp mindre minne, laddas snabbare och är optimerat för att ange siffror.</string>
+    <string name="allow_suggestions_help">"Tips från ett externt tangentbord.
+På vissa firmware orsakar hints __app_name__ att krascha."</string>
+    <string name="autopause_help">Spelar automatiskt paus när du öppnar __app_name__-gränssnittet.</string>
+    <string name="killed_by">__app_name__ tvingades stängas av ansökan \"__s__\". För att undvika detta, ta bort den här applikationen eller konfigurera den så att den inte avslutar __app_name__.</string>
+    <string name="killers_found">"Du har installerat program som tvingas stänga __app_name__:
+__s__
+För att undvika detta, radera dem eller konfigurera dem så att de inte avslutar __app_name__.
+
+Om du inte upplever problem med oväntad stängning av __app_name__ behöver du ingen åtgärd, och du kan ignorera det här meddelandet."</string>
+    <string name="record_logcat">Spela in __logcat__</string>
+    <string name="record_logcat_info">"__app_name__ kommer att startas om med inspelning __logcat__ i filen:
+\"__s__\".
+
+För att avsluta inspelningen, avsluta från __app_name__.
+Därefter kan du skicka loggfilen till var du behöver den."</string>
+    <string name="need_uninstall">Du måste avinstallera installationsprogrammet, annars har du 4 ikoner, inte 2. Även spel kommer att upptäcka det.</string>
+    <string name="need_random_name">"__app_name__ använder standardpaketnamnet. Spel kan upptäcka det.
+
+För att åtgärda detta - kör __app_name__ utanför det virtuella utrymmet som en vanlig applikation.
+När installationen är klar lägger du till en kopia av __app_name__ med ett slumpmässigt namn till det virtuella utrymmet."</string>
+    <string name="work_mode">Arbetsläge</string>
+    <string name="root">rot</string>
+    <string name="no_root">ingen rot</string>
+    <string name="how_no_root">"Du måste installera virtuell rymdansökan. Såsom: __vspace_list__.
+
+Vi rekommenderar att du installerar optimerade versioner från den officiella __app_name__-webbplatsen.
+
+Då måste du lägga till __app_name__ och ditt spel till detta virtuella utrymme.
+
+Därefter måste du köra spelet och __app_name__ i det virtuella rummet."</string>
+    <string name="eperm_error_descr_0">Möjliga orsaker:</string>
+    <string name="eperm_error_descr_1">Skydd i spelet.</string>
+    <string name="eperm_error_descr_2">En annan debugger eller cracker är ansluten till spelet.</string>
+    <string name="eperm_error_descr_3">Otillräckliga behörigheter. Vanligtvis på grund av felaktigt konfigurerad __selinux__. Inaktivera eller konfigurera __selinux__.</string>
+    <string name="eperm_error_descr_4">Dålig kärna eller firmware. Prova en annan firmware eller annan enhet.</string>
+    <string name="eperm_error_descr_5">På din firmware fungerar inte \"no root\" -läget. Prova en annan firmware eller annan enhet eller ta rot.</string>
+    <string name="ptrace_bypass_mode">Bypass-läge för ptrace-skydd:</string>
+    <string name="mode_restore">återställa</string>
+    <string name="mode_nothing">ingenting</string>
+    <string name="mode_freeze">frysa</string>
+    <string name="ptrace_bypass_mode_help">"Indikerar vad man ska göra efter att inaktivera skyddsanslutningen:
+\u0009__mode_restore__ - Återställ anslutning
+\u0009__mode_nothing__ - gör ingenting (vanligtvis skyddar skyddet för anslutningen)
+\u0009__mode_freeze__ - frysa tråden (som i tidigare versioner)
+
+Om du återställer skyddet eller låter skyddet göra det själv kan frysning av värden i __app_name__ orsaka skador på grund av permanent anslutning / avstängning av skydd."</string>
+    <string name="slow_emulator">"Du använder \"__s__\" emulatorn. Det är långsamt och innehåller fel. På grund av detta kan sökningen vara mycket långsam.
+
+Vi rekommenderar att du använder andra emulatorer:"</string>
+    <string name="text">Text</string>
+    <string name="show_debug_info">Visa felsökning info</string>
+    <string name="mnt_expand">"__app_name__ är installerat på ett minneskort som används som intern lagring.
+Detta kan störa driften av virtuella utrymmen.
+Om det händer installerar du __app_name__ i enhetens interna minne.
+Det kan hända att du måste omformatera minneskortet som \"Bärbar lagring\"."</string>
+    <string name="help_game_not_listed_root">"Spelet måste köras för att välja det.
+
+Om spelet körs, men det finns det fortfarande inte i listan, kanske har du problem med roten eller firmware.
+Prova en annan rot eller annan firmware."</string>
+    <string name="help_game_not_listed_noroot">"Spelet måste lanseras i virtuellt utrymme så att det kan väljas.
+
+Du kan inte välja ett spel om det inte körs i virtuellt utrymme.
+
+Om spelet körs i det virtuella rummet, men det finns det fortfarande inte i listan, prova ett annat virtuellt utrymme, en annan firmware, en annan enhet eller få en rot."</string>
+    <string name="daemon_killed_oom">"Daemon dödades av systemet på grund av brist på minne.
+
+Ange \"__data_in_ram__\" till \"__no__\".
+Använd hårdvaruacceleration av gränssnittet, om möjligt.
+Använd inte stora appar.
+Inaktivera alla andra oanvända appar.
+Försök att använda __app_name__ efter omstart av enheten."</string>
+    <string name="selected_as_search_result">Valda som sökresultat</string>
+    <string name="clear_results_prompt">Detta ersätter nuvarande sökresultat. Fortsätta?</string>
+    <string name="position_in_memory_editor">Placera i minnesredigeraren</string>
+    <string name="script_prompt_internet">"Skriptet vill komma åt Internet. Om du tillåter åtkomst kan skriptet stjäla dina inloggningar, lösenord, sparar och andra data från spelet. Det kommer också att kunna stjäla dina andra skript eller ladda ner virus till din enhet.
+
+Tillåt scriptet åtkomst till Internet?"</string>
+    <string name="level">Nivå</string>
+    <string name="float_prompt">"För att kunna köra __app_name__ på din fasta programvara måste du tillåta användning av popup-fönster i systeminställningarna för __s__.
+
+Popupen visas inte som standard på Huawei-telefoner. Du måste tillåta __s__ att visa popup. Vänligen öppna Telefonhanteraren, sedan Dropzone-hanteringen och se till att den är aktiverad för __s__.
+
+Popupen visar inte på några Xiaomi-telefoner. Du måste gå till Inställningar -> Installerade appar -> __s__ -> Andra behörigheter -> Visa popup-fönster.
+
+Dessutom kan andra telefoner ha olika procedurer för att tillåta att appar visar popup-fönster. Alla sådana appar påverkas vanligtvis på det här sättet, till exempel Google Translator-appen med funktionen Tap to Translate. Därför kan du helt enkelt google \"YOUR_PHONE tryck för att översätta\" för att hitta lösningen. För Xiaomi Redmi-enheter är lösningen exempelvis följande:"</string>
+    <string name="virtual_space">Virtual Space App</string>
+    <string name="prevent_unload_help">"Förhindra lossning __app_name__ från minnet (tvinga nära).
+
+Varje efterföljande nivå är kraftfullare än den föregående och inkluderar den i sig.
+
+Den tredje nivån kan orsaka problem (häng toast, omstartar eller kraschar) på vissa firmware och emulatorer.
+
+Utan rot bara fungerar den tredje nivån."</string>
+    <string name="integer_type">Denna datatyp är endast för heltalvärden och stöder inte fraktionsvärden. Använd __type_float__ eller __type_double__ för fraktionella värden.</string>
+    <string name="without_float">Du kan också använda __app_name__ utan flytande fönster:</string>
+    <string name="any_value">vilket värde som helst</string>
+    <string name="help_group_search_any_value">Du kan använda __any__ i en beställd gruppsökning tillsammans med minsta storlek för att ange vilket värde av den typen som helst i önskad position.</string>
+    <string name="help_scripts_title">skript</string>
+    <string name="help_scripts">"* __help_scripts_title__:
+__app_name__ stöder utförandet av skript som skrivits i Lua.
+
+På sökfliken, klicka på menyn och välj \"__execute_script__\".
+Här kan du välja skriptfilen för körning, se de befintliga API-metoderna __app_name__ eller gå till den officiella webbplatsen för att läsa hjälp på API-skivan eller ladda ner färdiga skript.
+Du kan också extrahera hjälp från API: n på minneskortet för att läsa det utan Internet.
+
+Om du vill skriva ditt eget skript behöver du en extern textfilredigerare.
+__app_name__ tillåter inte redigeringskript, det utförs bara dem.
+
+Läs API-hjälp för mer information."</string>
+    <string name="help_floating_icon_absent">Om du inte ser en flytande ikon efter att ha klickat på knappen \"__start__\"</string>
+    <string name="remove_all2">Ta bort alla</string>
+    <string name="debug_load">Dumpa alla kodbelastningar</string>
+    <string name="debug_log">Logga in de flesta skriptsamtal</string>
+    <string name="vspace64">"Du sprang __app_name__ i ett virtuellt utrymme som stöder 64-bitars processer.
+
+__app_name__ ser inte 32-bitars processer som körs i det här utrymmet.
+
+Installera den andra kopian av __app_name__ i \"__for32__\" -läget om du vill arbeta i __app_name__ med 32-bitars processer."</string>
+    <string name="folder_new">Ny mapp</string>
+    <string name="folder_exists">Den här mappen finns redan</string>
+    <string name="folder_file">Det finns en fil med det namnet</string>
+    <string name="folder_failed">Misslyckades med att skapa mapp</string>
+    <string name="force_close">"Den tidigare appavstängningen var oväntad.
+
+Du kan höja konfigurationsnivån \"__prevent_unload__\" för att undvika detta i framtiden."</string>
+    <string name="help_force_close_title">Oväntad avstängning</string>
+    <string name="install_mode">Installationsläge</string>
+    <string name="for32">För hack 32-bitars spel i 64-bitars virtuellt utrymme</string>
+    <string name="for64">För hack 64-bitars spel i 64-bitars virtuellt utrymme</string>
+    <string name="reset_ignore">Återställ all ignorera för alla dialoger</string>
+    <string name="allocate_fail">Det gick inte att allokera minnesidan. Fel</string>
+    <string name="allocated">Tilldelad minnessida:</string>
+    <string name="allocate_page">Tilldela minnesidan</string>
+    <string name="prot_read">Kan läsas</string>
+    <string name="prot_write">Kan skrivas</string>
+    <string name="prot_exec">Kan utföras</string>
+    <string name="install_finished">"Installationen lyckades.
+Kör den installerade kopian manuellt så att den kan migrera dina data.
+Därefter kan installationsprogrammet tas bort."</string>
+    <string name="odd_vspace">__app_name__ lanserat i virtuellt utrymme?</string>
+    <string name="record_script">Spela in skript</string>
+    <string name="record">Spela in</string>
+    <string name="another_record">En annan post körs. Sluta?</string>
+    <string name="record_ended">Inspelning slutförd:</string>
+    <string name="stop">Sluta</string>
+    <string name="could_not_use">Kunde inte använda:</string>
+    <string name="not_optimized2">"Du använder en icke-optimerad version av virtuellt utrymme (\"__s__\").
+För att åtgärda detta fel ska du ta bort den icke-optimerade versionen av \"__s__\" och installera ett av de optimerade virtuella utrymmena från den officiella webbplatsen __app_name__.
+Klicka på \"__fix_it__\" för att gå till valet av optimerade virtuella utrymmen."</string>
+    <string name="fix_path">Fritt utrymme eller ange en annan väg för tillfälliga filer genom att klicka på \"__fix_it__\".</string>
+    <string name="deep_read">Djupt läst:</string>
+    <string name="help_deep_read">"Läser minnet med alla tillgängliga metoder, om det inte kunde läsas.
+Kan sakta ner minnesavläsningar."</string>
+    <string name="ptrace_fail">Misslyckades med att ändra minne genom ptrace.</string>
+    <string name="ptrace_fail_partially">Vissa funktioner, speedhack och allt relaterat till det kommer inte fungera. Skrivning till skrivskyddat minne (inklusive kod) är inte möjligt.</string>
+    <string name="ptrace_fail_full">Den absoluta majoriteten av funktionerna kommer inte att fungera.</string>
+    <string name="ptrace_fail_solve">"Den typiska orsaken är en bruten kärna i firmware.
+Försök byta fast programvara. Om du nyligen uppdaterade det - installera den tidigare versionen.
+
+Om det inte fungerar ska du ändra enheten."</string>
+    <string name="feature_hide_4">Den här funktionen kan inte fungera om det fjärde objektet är valt i \"__hide_from_game__\".</string>
+    <string name="feature_firmware">Den här funktionen kan inte fungera utan ptrace, vilket inte fungerar på den här fasta programvaran.</string>
+    <string name="feature_protection">Den här funktionen kan inte fungera ptrace skydd i spelet.</string>
+    <string name="not_file">Banan är inte en fil:</string>
+    <string name="not_execute">Kan inte utföras:</string>
+    <string name="check_install">Kontrollera att __app_name__ är installerad korrekt.</string>
+    <string name="sdcard_install">Om __app_name__ är installerad på externt minne (SD-kort), returnera det till internminnet</string>
+    <string name="change_address_type">Ändra adress / typ</string>
+    <string name="bad_offset">Förskjutningen är inte en multipel av __d__.</string>
+    <string name="bad_result_address">Den resulterande adressen är inte en multipel av __d__.</string>
+    <string name="correct_types">__d__ element kommer att ändra dess typ för att korrigera den omöjliga inriktningen.</string>
+    <string name="reinstall_fail">"Det går inte att installera om __app_name__ med slumpmässigt namn.
+
+__app_name__ kan enkelt upptäckas av spel.
+
+Du kan spela in __logcat__ under installationen och kontakta det officiella forumet för hjälp.
+
+Avvisningsskäl:"</string>
+    <string name="empty_field">Tomt inmatningsfält: Inget nummer att konvertera</string>
+    <string name="need_integer">Du måste välja ett heltal att konvertera.</string>
+    <string name="maps_failed">Kunde inte öppna filen \"__maps__\".</string>
+    <string name="game_protected">Spelet är skyddat.</string>
+    <string name="need_root">Behöver rodd för att hacka det här spelet.</string>
+    <string name="vspace_error">"Problemet med virtuellt utrymme eller fast programvara eller enhet.
+
+Prova:
+\u0009- använd ett annat virtuellt utrymme
+\u0009- använd en annan firmware
+\u0009- få rot
+\u0009- använd en annan enhet"</string>
+    <string name="root_error">"Problemet med firmware eller root eller enhet.
+
+Prova:
+\u0009- använd en annan firmware
+\u0009- använd en annan rot
+\u0009- använd en annan enhet"</string>
+    <string name="vspace_root">Använd rot i virtuellt utrymme:</string>
+    <string name="help_vspace_root">"Använda rot från virtuellt utrymme kan hjälpa till med att dölja det faktum att det finns __app_name__ på enheten.
+
+Det fungerar inte på all fast programvara och inte på alla virtuella utrymmen.
+
+Virtuellt utrymme, firmware och root bör tillåta att arbeta med rot från virtuellt utrymme.
+Det virtuella utrymmet ska låta dig installera program inåt utan att installera dem i systemet.
+
+Inte alla virtuella utrymmen kan ge detta.
+
+Det här läget fungerar inte på alla fasta program. Och inte med all rot.
+
+Eftersom rooträttigheterna kommer att ges till hela virtuella rymden, bör du inte installera något annat i den. Annars kan varje applikation från det virtuella utrymmet använda roträttigheter med oförutsägbara konsekvenser.
+
+Spelet måste installeras utanför det virtuella utrymmet.
+
+__app_name__ ska installeras endast inne i det virtuella utrymmet utan att installera det i systemet.
+Så här gör du det - se hjälp av ett visst virtuellt utrymme.
+
+Till exempel, för __vexp__ kan du klona __app_name__ från systemet i __vexp__ och sedan radera __app_name__ från systemet."</string>
+    <string name="help_games_protection_9">9. Använd rot i virtuella utrymmen som tillåter att installera program till dig själv utan att installera i systemet.</string>
+    <string name="locale_ui">I din ort</string>
+    <string name="locale_script">Skript använder alltid engelska språk</string>
+    <string name="locale_desc">"'__s__' - decimalavskiljare
+'__s__' - tusentals separator
+'__semicolon__' - Nummerseparator i gruppsökning"</string>
+    <string name="help_unaligned_title">Unaligned search / big-endian sökning</string>
+    <string name="help_unaligned">"I vissa applikationer (till exempel konsolemulatorer) kan värdet i minnet inte respektera justering, eller presenteras i storendensbytesbeställning.
+
+Sådant värde kan inte hittas genom en vanlig sökning.
+
+För att hitta dem - använd ett specialskript från den officiella __app_name__ webbplatsen:"</string>
+    <string name="help_formula_calculator_title">Formelkalkylator</string>
+    <string name="help_formula_calculator">"Nästan i varje fält för att ange siffror kan du ange en matematisk formel, efter lika tecken, till exempel i sökfältet ange '= 2 + 2 * 3', och programmet söker efter resultatet av formeln, som är, '8'.
+Formeln är ett Lua-uttryck. Du kan använda all den tillgängliga kraften från Lua i den.
+
+Alla aritmetiska operatörer Lua 5.3 är tillåtna - tillägg (+), subtraktion (-), multiplikation (*), delning (/), delningsresten (%), exponentiering (^), heltalsdelning (//) och så vidare.
+Dessutom finns bitoperatörer - OCH (&amp;), ELLER (|), Exklusiv ELLER (binär ~), INTE (unary ~), Skift till höger (>>), Skift till vänster (&lt;&lt;). Handlingsordningen kan ges av parenteser.
+Läs Lua-manualen för en komplett lista över tillgängliga operationer.
+
+Det är användbart om du vet hur värdet kodas i spelet. Till exempel kan 29 omgångar i ett spel hittas som '= 29 ~ 444444'. Detta motsvarar 29 XOR 444444. I videoprovet hittades priset 3888 till XOR med 444444, som '= 444444 ~ 3888'. Efter detta gjordes ersättningen till '= 444444 ~ 1', vilket satte priset till '1'. I ett annat spel är 125 guld som '= 125 * 10'.
+
+Inte alla skriptfunktioner är tillgängliga i formelberäknaren. Vissa funktioner är inte tillgängliga. Om du inte har tillräckligt med dem - skriv ditt skript istället för att använda en formelberäknare, det är endast avsett för enkla beräkningar. Tillgängligt: ​​del av grundfunktionerna, 'bit32', 'tabell', 'sträng', 'utf8', 'matematik', del av paketet 'os'. Paket \"felsökning\", \"paket\", \"gg\", \"io\" är inte tillgängliga.
+
+När du skriver '= 2 + 2 * 3' kommer nyckelordet 'return' att läggas till före formeln: 'return 2 + 2 * 3'. Du kan dock ange detta ord själv i en formel om du behöver en komplex formel.
+Till exempel '= a = 5; b = 7; return a * 4 + b * 8 'kommer att köras som' a = 5; b = 7; returnera a * 4 + b * 8 '
+
+Resultatet av formelberäknaren är en textsträng. Strängen kan vara valfri sträng för detta inmatningsfält.
+Det kan till exempel vara en sträng för en gruppsökning eller en områdesökning. '= a = 5; b = 7; return a .. \";\" .. b .. \":: 100\" 'motsvarar' 5; 7 :: 100 '.
+
+Formelkalkylator fungerar inte i skript, där kan du direkt använda Lua.
+När du skriver ett skript kommer resultatet av formelberäkningen att skrivas till filen, inte själva formeln.
+
+Om formeln är fel får du ett felmeddelande när du skickar in formuläret.
+
+När du beräknar måste du ta hänsyn till det faktum att beräkningar utförs i den typ som den första operanden anger. Om det är ett heltal blir resultatet ett heltal.
+Till exempel är '= 3/2' '1' och '= 3.0 / 2' är '1.5'.
+
+Oavsett vilket land som valts fungerar formlerna i det engelska språket. Detta betyder att decimalavskiljaren alltid är en punkt ('.')."</string>
+    <string name="help_faq_32_b">"Två lanseringsikoner. Den första med mjukvarucceleration - \"__app_short_name_sw__\", den andra, med hårdvaruacceleration - \"__app_short_name_hw__\". Nu kommer det alltid vara så.
+På vissa firmware fungerar endast en version, på normala båda.
+Det är bättre att använda mjukvaruacceleration, det fungerar mindre smidigt men förbrukar mindre minne.
+
+Du kan gömma en av ikonerna i programinställningarna: \"__hide_icons__\"."</string>
+    <string name="acceleration_help_">"Hastighets- eller mjukvaruinterfaceacceleration __app_name__.
+Beroende på spel och fast programvara kan vissa av alternativen orsaka problem.
+Om båda fungerar, använd mjukvarucceleration eftersom det förbrukar mindre minne.
+
+Detta alternativ är skilt från lanseringsikonen och påverkar endast visningen av __app_name__-gränssnittet.
+Starta ikoner är ansvariga för typen av acceleration på startskärmen.
+
+Hårdvaruacceleration förbrukar mycket mer minne, men det fungerar smidigare. Om du har lite RAM, använd alltid mjukvarucceleration.
+
+Om maskinvaruacceleration orsakar fel kan __app_name__ växla till mjukvaruacceleration."</string>
+    <string name="small_list_items">Små listobjekt</string>
+    <string name="small_list_items_help">Gör det möjligt för dig att visa mer information i objektlistorna, men det kan vara svårare att klicka på önskat objekt.</string>
+    <string name="format_asm_opcodes">__s__ opkoder</string>
+    <string name="no_regions">Inga matchande regioner hittades.</string>
+    <string name="cannot_hide_launcher_icon">"Den här ikonen användes för den aktuella lanseringen.
+
+Du kan inte dölja ikonen som användes för den aktuella lanseringen.
+
+Starta om programmet via en annan ikon för att kunna dölja den här ikonen."</string>
+    <string name="screenshot">Ta en skärmdump</string>
+    <string name="screenshot_prompt">"Ikonen kommer att döljas för __d__ sekunder så att du kan ta en skärmdump.
+
+Därefter kommer ikonen att synas igen."</string>
+    <string name="screenshot_action">skärmdump</string>
+    <string name="use_visible_type">Använd synlig datatyp i minnesredigeraren:</string>
+    <string name="use_visible_type_help">Fråga inte datatypen i minnesredigeraren om bara en datatyp visas.</string>
+    <string name="wrong_float">I ditt land ser siffran \"__s__\" ut som \"__s__\". Om det inte är det du behöver - välj ett annat språk (eller språk) på startskärmen.</string>
+    <string name="wrong_float2">I inställningarna __app_name__ kan du också åsidosätta läget för formateringsnummer.</string>
+    <string name="number_locale">Landsting för formateringsnummer:</string>
+    <string name="fill">Fylla</string>
+    <string name="help_text_search">"
+För att söka efter text måste du ange modifierare i den vanliga sökdialogrutan.
+
+De vanligaste kodningarna är __utf8__ och __utf16le__.
+Normalt används __utf16le__ i __java__ och __utf8__ används i __c__.
+
+\u0009__utf16le__ är en kodning med två bitar. Varje tecken är alltid kodad i två byte, så den representeras via __type_word__.
+\u0009__utf8__ - kodning med variabel byte storlek per tecken. Representerad via __type_byte__.
+\u0009__hex_input__ och dess varianter är alltid representerade via __type_byte__.
+
+Spelet kan använda någon av kodningarna.
+Om du behöver en viss uppsättning byte - använd __hex_input__-läget.
+
+Tillgängliga prefix:
+__text_prefixes__
+
+För \"__hex_mixed__\" -läge kan du ange __utf8__ text mellan __apos__ tecken och __utf16le__ text mellan __quot__ tecken.
+
+Till exempel:
+__text_examples__
+
+Prefixet ska vara det första tecknet i söktexten.
+
+Resultatet av sökningen kommer att vara en __type_byte__-sekvens eller en __type_word__-sekvens, för fallet __utf16le__.
+
+Resultaten kan ändras - välj allt och klicka på \"__edit_selected__\".
+
+I värdet fält anger du det nya värdet, i samma format som för söksträngen.
+
+Du kan använda fyllningsknapparna. Klicka på \"__more__\" om de inte är synliga.
+
+Värdet ställs in för varje grupp av kontinuerligt följande föremål.
+Om det finns ett mellanrum mellan elementen, blir det en ny grupp.
+
+Om du anger mer byte än vad som behövs, kommer endast en del av dem att användas.
+Om du anger mindre än behövs, fylls resten av gruppen med nollbyte.
+
+När du ersätter text, försök att ange text med samma antal byte som originalet för att undvika problem.
+"</string>
+    <string name="fast_freeze">Snabb frysning:</string>
+    <string name="help_fast_freeze">"Det fungerar mycket snabbare än normalt frysning, men inte för allt minne.
+
+Om frysningen inte fungerar, stäng av det här alternativet."</string>
+    <string name="debug_disassemble">Plocka isär</string>
+    <string name="assembled">Sammansatt till fil:</string>
+    <string name="warn_patch_off_prot2">"Om du använder __magisk_hide__ - inaktivera det innan du applicerar lappen. När du har applicerat korrigeringsfilen kan du slå på den igen.
+Om du inte gör det kommer patch inte att lyckas."</string>
+    <string name="help_games_protection_end">"
+Hur man döljer __app_name__ från spelet i virtuellt utrymme
+
+\u00091. Installera det virtuella utrymmet, som tillåter dold installation av applikationer, utan att installera dem i systemet. Till exempel __vspace_hide__.
+\u00092. Installera __app_name__ i det virtuella utrymmet.
+\u00093. Slå på läget \"__vspace_root__\" i __app_name__.
+\u00094. Ge root-rättigheter till virtuellt utrymme. Om du inte kan bevilja root-rättigheter - prova ett annat virtuellt utrymme, andra root-rättigheter, annan firmware eller ändra enheten.
+\u00095. Ta bort __app_name__ från systemet.
+\u00096. Arbeta med __app_name__ från virtuella rymden.
+
+För att undvika upptäckt under sökningen:
+\u0009Välj objekt 2, 3 och 4 i inställningen \"__hide_from_game__\".
+
+En typisk lösning (kräver root, utan root kommer du inte att lyckas):
+\u00091. Använd rot från virtuellt utrymme. Läs hjälp för inställningen \"__vspace_root__\".
+\u00092. Använd posterna 2, 3 och 4 i inställningen \"__hide_from_game__\".
+"</string>
+    <string name="force_close_2">Du kan ställa \"__data_in_ram__\" till \"__no__\" för att undvika detta i framtiden.</string>
+    <string name="script_wrote">Manuset skrev __s__ till __d__ filer.</string>
+    <string name="script_exit">Utgång</string>
+    <string name="script_interrupted">Skriptet avbryts.</string>
+    <string name="script_error">skriptfel</string>
+    <string name="script_oom">Slut på minne</string>
+    <string name="script_possible">Det ser ut som du försöker köra __s__ som ett skript.</string>
+    <string name="script_web">en webbsida</string>
+    <string name="script_saved_list">en sparad lista</string>
+    <string name="speedhack_no_x86">Men i detta spel är ingen x86 bibliotek, så kanske det inte kommer att fungera.</string>
+    <string name="help_faq_33_q">Textmeddelanden (toasts) kvar på skärmen, eller en mörk cirkel syns längst ner på skärmen när __app_name__ fungerar. Hur fixar det?</string>
+    <string name="help_faq_33_a">Använda den tredje nivån \"__prevent_unload__\" på någon firmware leder till det faktum att textmeddelanden (toasts) kvar på skärmen, eller en mörk cirkel syns (tomt meddelande). Om detta händer, inte använda den tredje nivån.</string>
+    <string name="invalid_header_1">Ogiltig binär script header.</string>
+    <string name="unknown_version">Okänd version.</string>
+    <string name="unknown_format">Okänt format.</string>
+    <string name="unknown_endianness">Okänd endian.</string>
+    <string name="unknown_size_s">Okänd storlek __s__.</string>
+    <string name="unknown_size_instr">Okänd storlek Undervisnings.</string>
+    <string name="unknown_size_num">Okänd storlek Lua nummer.</string>
+    <string name="expected_found">Förväntad __s__ men fann __s__.</string>
+    <string name="or">eller</string>
+    <string name="invalid_header_2">Kör skriptet ändå?</string>
+    <string name="invalid_header_3">"I framtida versioner av __app_name__, kan skriptet inte köras.
+Skriva om detta till författaren av skriptet."</string>
+    <string name="skip_system_libs">Hoppa över systembibliotek</string>
+    <string name="try_reinstall_x86">"Försök installera spelet med x86-bibliotek?
+
+Spelet kan sluta fungera efter det. Om detta händer, installera om spelet från APK ligger i __data_app__."</string>
+    <string name="reinstall_started">Ominstallation igång ...</string>
+    <string name="reinstall_failed">Ominstallation misslyckades:</string>
+    <string name="reinstall_ended">Ominstallation klar.</string>
+    <string name="help_lasm_title">Demontera / montera skript</string>
+    <string name="help_lasm">"__app_name__ har en inbyggd disassembler / assembler för Lua skript.
+
+Du kan välja \"__debug_disassemble__\" i skriptet lanseringsfönster, efter att ha klickat på \"__more__\" -knappen.
+
+Den resulterande __ext_lasm__ filen kan redigeras och väljas i skriptet lanseringsfönster. Resultatet kommer att bli en binär __ext_lua__ fil, med de ändringar som gjorts.
+
+Läste manuset API hjälp för mer information.
+"</string>
+    <string name="help_hide_gg_title">Hur att dölja __app_name__ från spelet</string>
+    <string name="changed_as_search_result">Förändrats sökresultat</string>
+    <string name="changed_not_found">Ändrade poster som inte hittas.</string>
+    <string name="too_far">Dessa värden kan inte hittas genom en grupp ökning, de är för långt ifrån varandra: __d__ byte. Det maximala avståndet är __d__ byte.</string>
+    <string name="new_address">Ny adress:</string>
+    <string name="hide_1_warn">Du har valt det första objektet. Frysning värden kan orsaka allvarliga eftersläpningar i spelet.</string>
+    <string name="hide_4_warn">Du har valt den fjärde punkten. Vissa funktioner kommer inte att fungera: __speedhack__, __unrandomizer__, __allocate_page__.</string>
+    <string name="asm_failed">Det gick inte att känna igen __s__ opcode:</string>
+    <string name="asm_suggestion">Menade du: __s__?</string>
+    <string name="copy_opcode">Kopiera __s__ opkod:</string>
+    <string name="search_nearby">Sök i närheten</string>
+    <string name="before">Innan</string>
+    <string name="after">Efter</string>
+    <string name="distance">Distans:</string>
+    <string name="nearby">I närheten:</string>
+    <string name="need_fixer">"Ett problem upptäcktes med denna 64-bitars virtuella rymden.
+
+För att fixa det:
+
+1. Installera __fixer__ ansökan. (Från denna dialog, antingen manuellt längs vägen:
+__s__
+).
+
+2. Tillsätt __fixer__ till den virtuella rymden.
+
+3. Kör __fixer__ i virtuella rymden.
+
+4. Ta bort __fixer__.
+
+5. Starta om __app_name__ i virtuella rymden."</string>
+    <string name="limit">Endast de första N resultat:</string>
+</resources>

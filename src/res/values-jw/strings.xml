@@ -1,0 +1,1366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lang_code">~~~jw~~~</string>
+    <string name="front_text">"__improve_translation_hint__
+
+Yen sampeyan duwe pitakonan babagan __app_name__ utawa nggunakake, sumangga niliki forum ing __forum__"</string>
+    <string name="set_path">Path saiki</string>
+    <string name="number">Nomer:</string>
+    <string name="type">Tipe:</string>
+    <string name="name">Jeneng:</string>
+    <string name="reset">Pilih proses</string>
+    <string name="set_range">Pilih wates memori</string>
+    <string name="search">Nggoleki</string>
+    <string name="save">Simpen</string>
+    <string name="goto1">Goto</string>
+    <string name="address">Alamat:</string>
+    <string name="edit_all">Sunting kabeh</string>
+    <string name="filter">Filter</string>
+    <string name="clear">Mbusak</string>
+    <string name="max_show_rec">Tampilake:</string>
+    <string name="equal">Ora owah</string>
+    <string name="inequal">Diowahi</string>
+    <string name="larger">Tambah</string>
+    <string name="smaller">Turu</string>
+    <string name="compare_current_last">Kepiye cara sing diganti?</string>
+    <string name="write_region_log">Tulis log wilayah</string>
+    <string name="old_version">Versi lawas</string>
+    <string name="found_old_version">Nggoleki versi lawas saka __app_name__. Aja pengin instal instalasi kasebut?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Ora Ana</string>
+    <string name="ok">OK</string>
+    <string name="failed_find_package_name">Gagal nemokake jeneng paket aplikasi!</string>
+    <string name="path_for_temp_files">"Nyetel path kanggo file temp, contone. '__sdcard__'. Mbutuhake sawetara atus MB ruang bebas. Hasil panelusuran saiki bakal ilang."</string>
+    <string name="confirm">Konfirmasi</string>
+    <string name="cancel">Mbusak</string>
+    <string name="found_new_version">Ditemokaké versi anyar __s__</string>
+    <string name="daemon_failed">Daemon gagal</string>
+    <string name="failed_run_daemon">Gagal mblokir daemon. Wis diinstal ROOT?</string>
+    <string name="daemon_unexpected_closed">Daemon ora disengaja ditutup. Informasi:</string>
+    <string name="daemon_exited">Daemon metu</string>
+    <string name="failed_load_daemon">Gagal ngemot daemon</string>
+    <string name="is_device_rooted">Ora bisa njupuk akses root.</string>
+    <string name="collect_data_to_region_log">Diwiwiti kumpulan data kanggo nulis menyang log wilayah ...</string>
+    <string name="log_saved">Log disimpen ing __s__</string>
+    <string name="failed_save">Gagal disimpen menyang __s__</string>
+    <string name="region_log">Log pangreksan</string>
+    <string name="apply">Aplikasi</string>
+    <string name="error">Kesalahan</string>
+    <string name="load">Beban</string>
+    <string name="delete_prompt">Sampeyan pengin mbusak item iki?</string>
+    <string name="reset_search">ERROR dideteksi. Reset dhaptar telusuran.</string>
+    <string name="unknown_error">Kesalahan ora dingerteni</string>
+    <string name="out_of_memory">Kebak memorine</string>
+    <string name="bug_detected">Bug dideteksi</string>
+    <string name="disk_full">Disk lengkap</string>
+    <string name="io_error">IO kesalahan</string>
+    <string name="game_dead">Game mati</string>
+    <string name="exit">Metu</string>
+    <string name="skip">Abang</string>
+    <string name="unhandled_exception">Pengecualian sing ora dikunci. Kirim info ing ngisor iki kanggo tim pangembangan?</string>
+    <string name="last_run_failed">Last run gagal</string>
+    <string name="thank_you">Matur suwun!</string>
+    <string name="no_application">Ora ana aplikasi sing dipilih.</string>
+    <string name="increments">Tambahan:</string>
+    <string name="add_not_replace">Tambah nilai, ora ngganti</string>
+    <string name="eperm_error">Ora bisa nempelake proses (PTRACE_ATTACH): Operasi ora dileksanakake</string>
+    <string name="load_list">Daftar dhaptar</string>
+    <string name="load_warning">Sampeyan ngilangi dhaptar sing wis disimpen saka conto liyane game. Paling cetha, kabeh alamat ing memori wis diganti lan dimuat data sing ora cocog karo data sing sadurunge disimpen. Disaranake sampeyan mriksa iki.</string>
+    <string name="from">Rampung __d__ saka tahap __d__</string>
+    <string name="count_fuzzy_equal_run">"Nomer kali kanggo mbukak '__fuzzy_equal__':"</string>
+    <string name="slow">alon</string>
+    <string name="miui_restart">__app_name__ kudu diwiwiti maneh kanggo nindakake ijin keamanan.</string>
+    <string name="out_of_memory_error">Ora ana kesalahan ing memori. Dhaftar asil saiki dibusak. Mangga nyetel angka sing luwih cilik kanggo nomer asil sing ditampilake.</string>
+    <string name="loading">Loading ...</string>
+    <string name="found_count">Ditemokake: __d__</string>
+    <string name="fuzzy_equal">Nilai ora diowahi</string>
+    <string name="fuzzy_inequal">Nilai diganti</string>
+    <string name="fuzzy_larger">Nilai tambah</string>
+    <string name="fuzzy_smaller">Nilai mudhun</string>
+    <string name="type_edit_limit">Nilai input saka __s__ dadi __s__</string>
+    <string name="number_name">nomer</string>
+    <string name="step_name">nambah</string>
+    <string name="number_less">"Nomer '__s__' kurang saka nilai minimal (__d__) kanggo tipe iki."</string>
+    <string name="number_greater">"Nomer '__s__' luwih dhuwur tinimbang nilai maksimal (__d__) kanggo tipe iki."</string>
+    <string name="about">Prakawis</string>
+    <string name="owner">pemilik</string>
+    <string name="design">lead designer</string>
+    <string name="pm">Manajemen Proyek</string>
+    <string name="code">lead coder</string>
+    <string name="tech">technical consultant</string>
+    <string name="creator">nitahake (pensiun)</string>
+    <string name="for_translators">Yen sampeyan pengin mbantu utawa nindakake translasi aplikasi, sampeyan bisa ngontak kita ing forum http://gameguardian.net/forum, kanggo entuk terjemahan sampeyan kalebu ing release resmi aplikasi kasebut.</string>
+    <string name="version">Versi:</string>
+    <string name="developers">Pangembang:</string>
+    <string name="select_language">Pilih basa</string>
+    <string name="exit_confirm">__app_name__ kudu diwiwiti maneh kanggo ngganti owah-owahan.</string>
+    <string name="special_thanks">Khusus thanks:</string>
+    <string name="nothing_found">Boten kapanggih. Coba goleki maneh.</string>
+    <string name="try_more_ranges">Sampeyan uga bisa nyoba milih luwih rentang ing tab setelan.</string>
+    <string name="try_fuzzy_search">Sampeyan uga bisa nyoba kanggo nelusur angka sing ora dingerteni.</string>
+    <string name="search_hint">"Kanggo nggoleki nilai kasebut, pencet \"__search_known_value__\".
+Yen angka ora dingerteni utawa dienkripsi - klik \"__search_unknown_value__\" kanggo nelusuri.
+Nggoleki nilai ngambang kanthi bagean integer sing bisa dilakoni kanthi milih '__type_auto__' jinis telusuran.
+Sampeyan uga bisa nggunakake panelusuran klompok kanthi '__semicolon__' minangka pemisah."</string>
+    <string name="freeze">Mbebasake:</string>
+    <string name="freeze_normal">normal</string>
+    <string name="freeze_may_increase">bisa nambah</string>
+    <string name="freeze_may_decrease">bisa ngurangi</string>
+    <string name="freeze_in_range">ing sawetara</string>
+    <string name="range_end_fail">"Range pungkasan ('__s__') kudu luwih gedhe tinimbang '__s__'."</string>
+    <string name="failed_add_window">Gagal nambahake jendhela</string>
+    <string name="failed_remove_window">Gagal mbusak jendhela</string>
+    <string name="system_service_stopped">Aplikasi ora bisa mlaku kanthi normal amarga layanan sistem wis mandheg. Coba miwiti aplikasi kasebut utawa urip maneh piranti.</string>
+    <string name="value_request">Ketik angka kanggo nelusuri</string>
+    <string name="type_request">Pilih jinis data kanggo nelusuri</string>
+    <string name="type_change_request">Pilih jinis data sing arep diganti</string>
+    <string name="value">Nilai</string>
+    <string name="save_as">Disimpen minangka:</string>
+    <string name="restart">Baleni meneh</string>
+    <string name="start">Mulai</string>
+    <string name="wait_daemon">Fungsi iki ora kasedhiya yen daemon ora mlaku. Tunggu nganti Daemon diwiwiti. (Apa sampeyan lali kanggo ngidini akses root? Utawa ora ROOT diinstal?)</string>
+    <string name="daemon_fail">Daemon ora mlaku</string>
+    <string name="config_icon_text">Lambang: transparansi = __d__ %%, ndhelik - __s__</string>
+    <string name="icon_hide_after">sawise __d__ detik</string>
+    <string name="icon_hide_never">ora tau</string>
+    <string name="keyboard">Papan ketik:</string>
+    <string name="internal">Internal</string>
+    <string name="external">Njaba</string>
+    <string name="failed_copy_text">Gagal nyalin teks menyang clipboard:</string>
+    <string name="copied">Ditampa</string>
+    <string name="copy_value">Nyalin nilai kasebut:</string>
+    <string name="copy_address">Nyalin alamat:</string>
+    <string name="goto_address">Pindhah menyang alamat:</string>
+    <string name="search_unknown_value">Ora dingerteni (ora cetho)</string>
+    <string name="search_known_value">Dikawruhi (tepat)</string>
+    <string name="speedhack_hint">Kanggo ngowahi kacepetan game, pencet terus ing lambang __app_name__ ngambang.</string>
+    <string name="bad_firmware">Perangkat kukuh sampeyan duwe kesalahan sing nyegah panggunaan fitur iki.</string>
+    <string name="language">Basa</string>
+    <string name="acceleration">Pinter akselerasi:</string>
+    <string name="hardware">Hardware</string>
+    <string name="software">Piranti lunak</string>
+    <string name="speedhack">Speedhack</string>
+    <string name="data_in_ram">Data ing RAM:</string>
+    <string name="first_mb">__d__ MB pisanan</string>
+    <string name="donate">Donate</string>
+    <string name="speeds">kacepetan</string>
+    <string name="floating_window_fail">Ora bisa nuduhake jendhela ngambang</string>
+    <string name="check">Verifikasi</string>
+    <string name="check_success">Verifikasi sukses</string>
+    <string name="enable_draw_perm">Mangga ngaktifake ijin ing layar sabanjure.</string>
+    <string name="speedhack_fail">Speedhack kanggo proses iki ora didhukung</string>
+    <string name="dangerous">mbebayani</string>
+    <string name="difference">Prabédan</string>
+    <string name="old_value">Nilai tuwa</string>
+    <string name="new_value">Nilai anyar</string>
+    <string name="mode_hacking">Nilai kasebut dienkripsi</string>
+    <string name="union">Grup golèk</string>
+    <string name="speedhack_open">Sampeyan bisa mbukak speedhack kanthi dawa mencet ing lambang __app_name__ ngambang.</string>
+    <string name="history">Sejarah</string>
+    <string name="history_empty">Sajarah kosong</string>
+    <string name="allow_suggestions">Ngidini saran saka keyboard:</string>
+    <string name="invalid_area">Ukuran grup kudu antara __d__ lan __d__:</string>
+    <string name="union_need_two_numbers">Kanggo panelusuran grup kudu ana paling ora rong nomer</string>
+    <string name="too_many_union_numbers">Luwih akeh nomer, luwih saka:</string>
+    <string name="invalid_number">Nomer ora bener:</string>
+    <string name="input_number">Input nomer</string>
+    <string name="number_out_of_range">"Jumlah '__s__' metu saka sawetara kemungkinan:"</string>
+    <string name="help_floating_icon">"* Ikon ngambang:
+\u0009* Tutul kanggo mbukak antarmuka.
+\u0009* Tutul terus kanggo ngowahi panel speedhack.
+* Sampeyan bisa dipindhah menyang ngendi wae kanthi nyeret lan ngeculake lambang.
+\u0009* Transparan lan ndhelikake wektu bisa nggawe selaras ing setelan app.
+"</string>
+    <string name="help_exact_search">"* Pasti nggoleki:
+\u00091. Ngalih menyang __app_name__ saka game.
+\u00092. Tutul tombol \"__search_known_value__\" ing tab \"__search__\".
+\u00093. Input nomer sing ditampilake ing game.
+\u00094. Pilih jinis data sing cocok, utawa pilih \"__type_auto__\" (yen sampeyan ora yakin) lan pilihan liyane (yen perlu) lan klik \"__search__\".
+\u00095. Yen wis rampung nggoleki, asil telusuran bakal ditampilake ing dhaptar.
+\u00096. Mbalik maneh menyang game. Sawise nilai wis diganti, pindhah menyang __app_name__ maneh.
+\u00097. Nelusuri nilai sing diganti.
+\u00098. Yen ana akeh asil, terus langkah 6.
+\u00099. Yen mung sawetara asil sing ditinggalake, sampeyan bisa nyoba kanggo ngowahi, nyimpen utawa beku nilainya.
+"</string>
+    <string name="help_speedhack">"* Speedhack:
+\u0009* Tutul terus lambang ngambang kanggo nuduhake panel speedhack.
+\u0009* Tunyuk panah ing salah siji sisih lambang, kanggo ngganti kecepatan game.
+\u0009* Tutul terus nomer kacepetan saiki kanggo ngreset kacepetan game.
+\u0009* Tutul terus lambang ngambang kanggo ndhelikake panel speedhack.
+\u0009* Dhaptar kacepetan lan wektu sing digunakake bisa disesuaikan ing setelan aplikasi.
+\u0009* Yen game ora nanggepi input utawa speedhack ora bisa digunakake, coba nggunakake setelan warna ijo liyane ing setelan __app_name__.
+\u0009* Sampeyan bisa nggunakake \"__time_jump__\" kanggo mlumpat ing wektu iki. Cukup pilih menu ing tab nggoleki lan pilih \"__time_jump__\". Sampeyan kudu nemtokake sawetara detik kanggo mlumpat. Jumlah kanggo mlumpat bisa pecahan.
+"</string>
+    <string name="help_fuzzy_search">"* Nggoleki cetho:
+\u00091. Ngalih menyang __app_name__ saka game.
+\u00092. Tutul tombol \"__search_unknown_value__\" ing tab \"__search__\".
+\u00093. Pilih jinis data sing cocok, utawa pilih \"__type_auto__\" (yen sampeyan ora yakin) lan klik \"__search__\".
+\u00094. Yen wis rampung nggoleki, asil telusuran bakal ditampilake ing dhaptar.
+\u00095. Mbalik menyang game. Sawise nilai kasebut diganti (utawa ora), pindhah menyang __app_name__ maneh.
+\u00096. Tutul tombol \"__search_unknown_value__\" lan pilih jinis kanggo owah-owahan.
+\u00097. Yen ana akeh asil, terus langkah 5.
+\u00098. Yen mung sawetara asil sing ditinggalake, sampeyan bisa nyoba kanggo ngowahi, nyimpen, utawa beku regane.
+
+\u0009Sampeyan bisa nemtokake owah-owahan sing tepat kanthi ngeklik tombol \"__more__\".
+\u0009Sampeyan bisa ngetik sawetara minangka owah-owahan nilai sing akurat:
+\u0009\u0009190__tilde__210
+\u0009Kanggo nemtokake owah-owahan ing njaba jangkoan, sampeyan bisa ngetik:
+\u0009\u000910__tilde____tilde__4000
+"</string>
+    <string name="help_group_search">"* Grup golèk:
+\u00091. Ngalih menyang __app_name__ saka game.
+\u00092. Tutul tombol \"__search_known_value__\" ing tab \"__search__\".
+\u00093. Panjaluk telusuran input kanggo pamriksa grup.
+\u0009\u0009Format: value 1 __semicolon__ value 2 __semicolon__ ... __semicolon__ value N __colon__ size group
+\u0009\u0009Nilai-nilai 2-__max_group__ bisa digoleki ing wektu sing padha. Ukuran grup standar 512. Ukuran grup kudu antara 2 lan 65536.
+\u0009\u0009Contone, yen sampeyan pengin nelusuri 195 lan 6543, sampeyan kudu ngetik:
+\u0009\u0009\u0009195 __semicolon__ 6543
+\u0009\u0009Mesthi sampeyan bisa nemtokake ukuran klompok (300):
+\u0009\u0009\u0009195 __semicolon__ 6543 __colon__ 300
+\u0009\u0009Uga, sampeyan bisa nyetel jinis data siji utawa luwih:
+\u0009\u0009\u0009195__type_dword_short__ __semicolon__ 6543
+\u0009\u0009Iki tegese sampeyan pengin nelusuri angka __type_dword__ sing 195 lan nilai __type_auto__ sing 6543.
+\u0009\u0009Jenis data bisa uga padha kaya ing panelusuran:
+\u0009\u0009\u0009__type_byte_short__ - __type_byte__
+\u0009\u0009\u0009__type_word_short__ - __type_word__
+\u0009\u0009\u0009__type_dword_short__ - __type_dword__
+\u0009\u0009\u0009__type_xor_short__ - __type_xor__
+\u0009\u0009\u0009__type_qword_short__ - __type_qword__
+\u0009\u0009\u0009__type_float_short__ - __type_float__
+\u0009\u0009\u0009__type_double_short__ - __type_double__
+\u0009\u0009\u0009__type_auto_short__ - __type_auto__
+\u0009\u0009Sampeyan uga bisa nulis angka kasebut ing hex (little-endian) notasi:
+\u0009\u0009\u0009__hex_example____hex__ __semicolon__ 6543
+\u0009\u0009utawa ing hex kuwalik (big-endian):
+\u0009\u0009\u0009__hex_example____rhex__ __semicolon__ 6543
+\u0009\u0009Kanggo ngetik simbol tambahan, gunakake tombol \"__btn_hex__\" ing keyboard internal.
+\u00094. Pilih jinis data sing cocok, utawa pilih \"__type_auto__\" (yen sampeyan ora yakin) kanggo digunakake minangka standar. Pilihan liyane ora ketompo kanggo jinis telusuran iki. Klik \"__search__\".
+\u00095. Yen wis rampung nggoleki, asil telusuran bakal ditampilake ing dhaptar.
+\u00096. Mbalik menyang game. Sawise nilai wis diganti, pindhah menyang __app_name__ maneh.
+\u00097. Baleni grup kanthi owah-owahan sing cocog.
+\u00098. Yen ana akeh asil, baleni langkah 6 lan 7.
+\u00099. Yen sawetara asil sing ditinggalake, sampeyan bisa nyoba kanggo ngowahi, nyimpen, utawa mbeku.
+
+\u0009Yen sampeyan pengin ngormati nilai-nilai kasebut banjur nemtokake __colon__ kaping pindho.
+\u0009Tanpa ukuran klompok:
+\u0009\u0009195 __semicolon__ 6543 __colon____colon__
+\u0009Kanthi ukuran klompok:
+195 __semicolon__ 6543 __colon____colon__ 300
+
+\u0009Sampeyan bisa nelusuri ing sawetara nilai:
+\u0009\u0009190__tilde__210 __semicolon__ 6543
+\u0009Sampeyan uga bisa nelusuri njaba sawetara nilai:
+\u0009\u000910__tilde____tilde__4000 __semicolon__ 6543
+"</string>
+    <string name="help_others">"* Liyane:
+\u0009* Kanggo nelusur anyar, sampeyan kudu mbusak asil panelusuran sadurunge kanthi milih \"__clear__\" ing menu ing ngisor tombol menu.
+\u0009* Kanggo milih pamuter game liyane ing lambang game ing pojok kiwa ndhuwur.
+\u0009* Ngaso / nerusake game - tutul tombol ing ngisor lambang ing pojok kiwa ndhuwur.
+\u0009* Yen sampeyan ngowahi menyang game nalika ngaso aktif, ing wektu sabanjure sampeyan mbukak __app_name__, game kasebut bakal dihentikan kanthi otomatis.
+\u0009* Kabeh nilai beku kanthi otomatis ditambahake menyang dhaptar sing disimpen. Sampeyan bisa ngatur ing ngisor iki ing tab sing cocog.
+\u0009* Kabeh data input disimpen menyang \"__history__\" dhaftar. Sampeyan bisa nggunakake kanthi mencet tombol sajarah.
+"</string>
+    <string name="help_typical_usage">"* Algoritma panggunaan khas:
+
+1) Nilai ora ndhelik lan dikenal.
+\u0009Kasus khas kanggo dhuwit, bintang, dhuwit recehan, sumber daya, lan liya-liyane.
+
+\u0009Gunakake panelusuran sing tepat.
+
+2) Nilai ora dingerteni lan / utawa dienkripsi.
+\u0009Kasus khas saka nilai sing ora dingerteni - sembarang ukuran / garis. Contone kesehatan, mana, nitro, lan liya-liyane. Owah-owahan katon, nanging ora ana angka angka sing katon.
+\u0009Kasus khas kanggo nilai sing dienkripsi bakal dhuwit, bintang, dhuwit recehan, lan liya-liyane, nanging nalika nggolèki karo 1 algoritma ora nemokake apa-apa, utawa owah-owahan nilai sing ditemokake ora mimpin menyang angka-angka sing ganti ing game.
+
+\u0009Gunakake search fuzzy.
+
+
+3) Nilai wis dienkripsi (__mode_hacking__).
+\u0009Kasus khas kanggo nilai sing dienkripsi bakal dhuwit, bintang, dhuwit recehan, lan liya-liyane, nanging nalika nggolèki karo 1 algoritma ora nemokake apa-apa, utawa owah-owahan nilai sing ditemokake ora mimpin menyang angka-angka sing ganti ing game.
+
+\u0009Gunakake panelusuran sing tepat, nanging tansah pilih kothak \"__mode_hacking__\".
+\u0009Hasil sing ditemokake uga nduweni nilai aneh amarga enkripsi.
+
+Algoritma 3 luwih cepet tinimbang 2, nanging ora bisa digunakake kanggo kabeh game.
+
+4) Nilai ora dienkripsi, diweruhi lan diselehake ing cedhak angka sing dingerteni.
+\u0009Kasus khas bakal kanggo rega ing toko, statistik pahlawan, lan liya-liyane.
+
+\u0009Gunakake panelusuran grup kanggo kabeh nomer ing siji wektu.
+"</string>
+    <string name="help_hints">"* Petunjuk:
+
+\u0009* Ora kabeh game bisa diowahi kanthi __app_name__. Daftar khusus:
+\u0009\u0009* data sing disimpen ing server (game sisi server)
+\u0009\u0009* game perlu sambungan internet sing terus-terusan
+\u0009\u0009* Jaringan muter karo pemain liyane
+\u0009\u0009* sampeyan kudu milih server kanggo nyambung ing wiwitan game
+\u0009\u0009* sampeyan ora bisa nggunakake sawetara perkara tanpa internet
+\u0009\u0009* Game ngganti data saka server yen sampeyan ngganti sesuatu
+\u0009* Nilai sing katon ora mesthi padha karo cara sing disimpen. Padha bisa beda. Contone ing layar, kita bisa ndeleng 34, nanging ing memori angka 34000.
+\u0009* Yen sampeyan ora bisa ngowahi nilai - nyoba ngowahi ukuran sing kena pengaruh nilai iki. Contone, tinimbang ngganti jumlah emas, sampeyan bisa ngganti rega barang kasebut lan ngedol. Utawa tuku kanthi rega negatif.
+"</string>
+    <string name="help">Bantuan</string>
+    <string name="help_floating_icon_title">Ikon ngambang</string>
+    <string name="help_exact_search_title">Pasti nggoleki</string>
+    <string name="help_speedhack_title">Speedhack</string>
+    <string name="help_group_search_title">Grup golèk</string>
+    <string name="help_others_title">Liyane</string>
+    <string name="help_typical_usage_title">Algoritma panggunaan khas</string>
+    <string name="help_hints_title">Ngelingake</string>
+    <string name="value_format">Format nilai</string>
+    <string name="format_hex">Hex (little-endian) notasi</string>
+    <string name="format_rhex">Reverse hex (big-endian) notasi</string>
+    <string name="clear_selection">Busak pilihan</string>
+    <string name="invert_selection">Milih pilihan</string>
+    <string name="select_all">Pilih Kabeh</string>
+    <string name="edit_selected">Owahi milih</string>
+    <string name="delete_selected">Copot kapilih</string>
+    <string name="save_selected">Simpen dipilih</string>
+    <string name="nothing_selected">Boten dipilih</string>
+    <string name="items_added">Item (__d__) ditambahake menyang dhaptar sing disimpen</string>
+    <string name="no_items_for_editing">Ora ana item sing bisa diowahi.</string>
+    <string name="edit_info">Sunting __s__ minangka __s__</string>
+    <string name="edit_all_info">Sunting taun __d__ dadi __s__</string>
+    <string name="autopause">Game otopause:</string>
+    <string name="empty_list">"Daftar sing disimpen kosong.
+Sampeyan bisa nambah item menyang dhaptar asil panelusuran utawa saka editor memori.
+Cukup pilih elemen sing dikarepake lan pilih \"__save_selected__\" ing menu.
+Cara liya - miwiti nyunting nilai lan mriksa kothak \"__save_as__\".
+Uga kabeh nilai beku ditambahake kanthi otomatis."</string>
+    <string name="empty_save">Daftar sing disimpen kosong. Ora ana sing bisa disimpen.</string>
+    <string name="revert_selected">Revert dipilih</string>
+    <string name="nothing_to_revert">Boten mbaleni</string>
+    <string name="revert_prompt">Baleni item sing dipilih (__d__)?</string>
+    <string name="download">Aplikasi iki bisa didownload saka:</string>
+    <string name="format_string">Perwakilan string</string>
+    <string name="forgot_h">"Apa sampeyan lali kanggo '__hex__' ing pungkasan?"</string>
+    <string name="time_jump">Wektu mlumpat</string>
+    <string name="time_jump_hint">Ketik nomer detik kanggo mlumpat terus:</string>
+    <string name="hide_from_game">Singidaken __app_name__ saka game:</string>
+    <string name="last_stats">Statistik kanggo panelusuran pungkasan</string>
+    <string name="memory_access">Akses menyang memori:</string>
+    <string name="normal">Normal</string>
+    <string name="extended">Lengkap</string>
+    <string name="experimental">Eksperimen</string>
+    <string name="installing">__app_name__ nindakake reinstallation dhewe kanthi jeneng acak kanggo ngilangi deteksi game. Ngenteni.</string>
+    <string name="failed_install">Gagal nginstal app. Coba maneh?</string>
+    <string name="failed_uninstall">Gagal instal app. Coba maneh?</string>
+    <string name="download_it">Unduh</string>
+    <string name="more">Liyane</string>
+    <string name="less">Kurang</string>
+    <string name="no_space">Ora ana spasi ing piranti sampeyan</string>
+    <string name="install_cancel_prompt">__app_name__ bisa dideteksi nalika ora diinstal. Apa sampeyan pengin mbatalake?</string>
+    <string name="intercept">nyegat</string>
+    <string name="need_restart">Aplikasi target kudu diwiwiti kanggo ngganti owah-owahan kasebut.</string>
+    <string name="must_be_root">"Kanggo operasi program iki, piranti kudu nduweni root.
+
+__app_name__ bisa digunakake ing mode winates tanpa root, liwat lingkungan virtual. Contone, liwat __vspace_list__ lan akeh liyane.
+Maca bantuan kanggo rincian liyane.
+
+Carane ROOT piranti apa wae: http://www.xda-developers.com/root/"</string>
+    <string name="skip_">Lumpati</string>
+    <string name="indent_for_the_status_bar">UI indent saka ndhuwur layar:</string>
+    <string name="start_collecting_data">Mulai ngumpulake data</string>
+    <string name="data_collecting_in_progress">Pengumpulan data ing proses</string>
+    <string name="copy">Salinan</string>
+    <string name="show_logcat">Tampilake logcat</string>
+    <string name="path_must_be">"Path paling sethithik 2 karakter lan diwiwiti karo '/'."</string>
+    <string name="fix_it">Ndandani</string>
+    <string name="change_log">Log pangowahan</string>
+    <string name="used_only_first">Digunakake mung __d__ item.</string>
+    <string name="need_select_more">Pilih pilih __d__ utawa luwih item.</string>
+    <string name="offset">Offset:</string>
+    <string name="result">Asil:</string>
+    <string name="copy_hex_value">Nyalin angka hex:</string>
+    <string name="goto_pointer">Bukak pointer:</string>
+    <string name="offset_calculator">Kalkulator offset</string>
+    <string name="fill_toolbar">Ngisi toolbar:</string>
+    <string name="from_left">Saka kiwa</string>
+    <string name="from_center">Saka tengah</string>
+    <string name="from_right">Saka tengen</string>
+    <string name="unit_years_short">y</string>
+    <string name="unit_days_short">d</string>
+    <string name="unit_hours_short">h</string>
+    <string name="unit_minutes_short">min</string>
+    <string name="unit_seconds_short">detik</string>
+    <string name="speed_info">__s__ ing wektu nyata = __s__ ing wektu game</string>
+    <string name="search_helper">Panelusuran helper:</string>
+    <string name="off">Mati</string>
+    <string name="go_to_game">Bali menyang game, yen akeh nilai sing ditemokake</string>
+    <string name="go_to_game_and_restore">Bali menyang game, yen akeh nilai sing ditemokake lan mulihake mode telusuran ing bukane sabanjure</string>
+    <string name="nothing">Boten</string>
+    <string name="sort">Urut</string>
+    <string name="sort_and_remove_duplicates">Urut lan mbusak duplikat</string>
+    <string name="help_basics_title">Informasi dhasar</string>
+    <string name="help_basics">"Sawise sampeyan miwiti aplikasi, kanthi ngeklik tombol \"__start__\", lambang ngambang bakal katon ing layar. Sampeyan bisa nyeret menyang sembarang lokasi.
+Gendhelan singkat ing lambang bakal mbukak antarmuka aplikasi utama, long tap - nuduhake panel kanggo ngganti kacepetan game.
+
+Ing layar utama sampeyan bisa ndeleng:
+\u0009* Ing pojok kiwa ndhuwur - lambang game. Nunyuk ing ngidini sampeyan milih game liyane.
+\u0009* Dumunung ing tengah minangka tetenger kanggo navigasi liwat tab. Nunyuk ing tetenger sing dipengini nampilake tab sing cocog.
+
+Secara total ana 4 tab: setelan, telusur, daftar sing disimpen lan pangeling memori.
+\u0009* Ing pojok tengen ndhuwur, antarmuka yaiku tombol tutup. Pencet lan antarmuka bakal didhelikake, lan lambang ngambang bakal katon ing layar.
+\u0009* Ing sisih ngisor layar ana garis status lan lambang mripat. Yen sampeyan menet terus lambang mripat, antarmuka dadi transparan, anggere ora ngeculake driji.
+\u0009* Liyane isi ing layar gumantung ing tab sing sampeyan urip.
+
+Ing saben tab, kajaba kanggo tab setelan, ana tombol menu, sing ngemot macem-macem tindakan sing bisa. Ing kono sampeyan bakal nemokake tumindak utama kanggo tab iki.
+
+Tab setelan ngemot macem-macem setelan, pitulungan, lan informasi bab aplikasi kasebut, lan tombol metu.
+
+Tab nggoleki ngandhut:
+\u0009* Ngaso tombol, jeneng game sing dipilih, jumlah asil sing ditemokake, lan tombol refresh.
+\u0009* Ngisor iki panel karo lambang akses cepet lan tombol menu. Kabeh lambang diduplikasi ing menu, dadi yen sampeyan ora ngerti arti lambang, bisa ditampilake kanthi ngeklik tombol menu (paling tengen).
+\u0009* Ing ngisor iki lambang kasebut bakal dadi daftar asil panelusuran.
+
+Tab dhaftar sing disimpen kalebu:
+\u0009* Ngaso tombol, jeneng aplikasi sing dipilih, tombol menu lan tombol refresh.
+\u0009* Ngisor ikon kasebut bakal dadi dhaptar nilai disimpen.
+
+Tab editor ing memori padha karo sing sadurunge, mung ing kene tinimbang daftar sing disimpen, nampilake isi memori.
+
+Ing kabeh telung dhaptar kasebut (asil panelusuran, nilai sing disimpen lan pangeling memori), sampeyan bisa ngaso kanthi cepet ing item kanggo nuduhake menu konteks."</string>
+    <string name="daemon_killed">"Daemon dipateni dening apa.
+
+Biasane bisa:
+\u00091. Saben tukang mateni utawa optimis. Sampeyan kudu mateni pembunuh wae utawa nambahake daftar putih __app_name__ ing setelan kasebut.
+\u00092. __daemon_killed_oom__
+\u00093. Kertu memori dicopot, dene __app_name__ disimpen file sakdurunge. Kanggo nyegah kedadeyan kasebut, nemtokake path sing beda kanggo file sauntara. Contone, ing memori internal."</string>
+    <string name="bad_settings">Setelan ora becik</string>
+    <string name="freeze_lags">Nggunakake nilai beku bareng karo setelan __hide_from_game__ bisa nyebabake lag ing game.</string>
+    <string name="improve_translation">Terjemahan iki digawe dening penerjemah otomatis. Sampeyan bisa nambah kanthi nggunakake layanan terjemahan kolektif.</string>
+    <string name="freeze_interval">Freeze interval:</string>
+    <string name="saved_list_update_interval">Dhaptar pungkasan nganyari interval:</string>
+    <string name="milliseconds_short">ms</string>
+    <string name="disable_floating_windows">Pateni jendhela ngambang lan wiwiti maneh app</string>
+    <string name="enable_floating_windows">Ngaktifake jendhela ngambang lan miwiti maneh app</string>
+    <string name="too_many">Akeh banget</string>
+    <string name="help_range_search_title">Range telusuran</string>
+    <string name="help_range_search">"* Range search:
+\u00091. Ngalih menyang __app_name__ saka game.
+\u00092. Tutul tombol \"__search_known_value__\" ing tab \"__search__\".
+\u00093. Lebokake jangkoan telusuran, dipisahake kanthi \"__tilde__\". Contone, kanggo nelusuri angka saka 100 kanggo 150, ketik:
+\u0009\u0009\u0009100__tilde__150
+\u0009\u0009Kanggo nelusuri njaba sawetara, sampeyan bisa nemtokake karakter \"__tilde__\" kaping pindho:
+\u0009\u0009\u0009100__tilde____tilde__150
+\u0009\u0009Utawa, sampeyan bisa milih tandha \"__not_equal__\" lan nemtokake karakter \"__tilde__\" sepisan.
+\u0009\u0009Kanggo ngetik simbol tambahan, gunakake tombol \"__btn_hex__\" ing keyboard internal.
+\u00094. Pilih jinis data sing cocok, utawa pilih \"__type_auto__\" (yen sampeyan ora yakin) lan pilihan liyane (yen perlu) lan klik \"__search__\".
+\u00095. Yen wis rampung nggoleki, asil telusuran bakal ditampilake ing dhaptar.
+\u00096. Mbalik menyang game. Sawise nilai wis diganti, pindhah menyang __app_name__ maneh.
+\u00097. Ulangi macem-macem golèk kanthi owah-owahan sing cocog.
+\u00098. Yen ana akeh asil, baleni langkah 6 lan 7.
+\u00099. Yen sawetara asil sing ditinggalake, sampeyan bisa nyoba kanggo ngowahi, nyimpen, utawa mbeku.
+
+\u0009Watesan kisaran kalebu ing asil panelusuran. Sampeyan bisa milih jinis telusuran \"__not_equal__\" kanggo nemokake kabeh nilai sing ora ana ing jangkoan.
+\u0009Ing panelusuran iki, kabeh nilai dianggep mlebu.
+"</string>
+    <string name="does_not_support">\"__s__\" ora ndhukung \"__s__\".</string>
+    <string name="range_bounds_diff_types">Watesan wates kudu jinis sing padha.</string>
+    <string name="examples">Conto</string>
+    <string name="rtfm">Maca bantuan kanggo rincian liyane.</string>
+    <string name="icons_size">Ukuran Ikon:</string>
+    <string name="revert_and_remove">Baleni lan copot</string>
+    <string name="remove">Mbusak</string>
+    <string name="ordered_group_search">Panelusuran grup dhawuh</string>
+    <string name="load_items">Item</string>
+    <string name="load_values">Nilai</string>
+    <string name="load_freeze">Freeze</string>
+    <string name="video_tutorials">Video tutorial lan nuntun carane hack</string>
+    <string name="make_copy">Nggawe salinan</string>
+    <string name="video">Videos</string>
+    <string name="ordered">Dipindhah</string>
+    <string name="toolbars">Piranti alus</string>
+    <string name="saved_list">Dhaftar sing disimpen</string>
+    <string name="memory_editor">Editor memori</string>
+    <string name="restart_game">Wiwiti maneh game</string>
+    <string name="refine">Singkat</string>
+    <string name="internal_storage">Panyimpenan internal</string>
+    <string name="external_storage">Penyimpenan njaba</string>
+    <string name="new_search">Pencarian anyar</string>
+    <string name="load_saved_list">Mbukak dhaptar sing disimpen saka file</string>
+    <string name="save_saved_list">Simpen dhaptar sing disimpen ing file kasebut</string>
+    <string name="append">Sambungake</string>
+    <string name="xor_key">Tombol XOR:</string>
+    <string name="only_memory">Mung ing sawetara memori:</string>
+    <string name="dump_memory">Mbusak memori</string>
+    <string name="path">Path:</string>
+    <string name="dump_ended">Dump rampung</string>
+    <string name="dump_failed">Dump gagal</string>
+    <string name="eperm_error_defend">Ora bisa masang proses (PTRACE_ATTACH): Game dilindhungi</string>
+    <string name="reset_on_exit">Reset ing metu:</string>
+    <string name="kill_game">Mateni game</string>
+    <string name="kill_game_info">Wajib ngestokake proses ora menehi proses kesempatan kanggo mateni kanthi rapi lan bisa nimbulaké mundhut data utawa ketidakstabilan sistem.</string>
+    <string name="continue_ask">Terusake?</string>
+    <string name="copy_memory">Nyalin memori</string>
+    <string name="copy_from">Salinan saka:</string>
+    <string name="paste_to">Tempel menyang:</string>
+    <string name="count_bytes">Count bita:</string>
+    <string name="copy_ended">Nyalin memori rampung</string>
+    <string name="copy_failed">Nyalin memori gagal</string>
+    <string name="help_encrypted_search_title">Nggoleki angka sing dienkripsi</string>
+    <string name="help_encrypted_search">"* Nggoleki angka sing dienkripsi:
+\u00091. Ngalih menyang __app_name__ saka game.
+\u00092. Tutul tombol \"__search_known_value__\" ing tab \"__search__\".
+\u00093. Input nomer sing ditampilake ing game.
+\u00094. Pilih jinis data sing cocok, utawa pilih \"__type_auto__\" (yen ora yakin), opo wae opsi liyane (yen perlu), priksa \"__mode_hacking__\" lan klik \"__search__\".
+\u00095. Yen wis rampung nggoleki, asil telusuran bakal ditampilake ing dhaptar.
+\u00096. Mbalik maneh menyang game. Sawise nilai wis diganti, pindhah menyang __app_name__ maneh.
+\u00097. Nelusuri nilai sing diganti. Kothak tandha \"__mode_hacking__\" kudu dicenthang.
+\u00098. Yen ana akeh asil, terus langkah 6.
+\u00099. Yen mung sawetara asil sing ditinggalake, sampeyan bisa nyoba kanggo ngowahi, nyimpen utawa beku nilainya.
+"</string>
+    <string name="help_faq_title">Pitakonan Paling Sering</string>
+    <string name="help_faq_1_q">Apa aku ora bisa nglebokake angka luwih saka 99 utawa 60.000?</string>
+    <string name="help_faq_1_a">Sampeyan nemokake angka __type_byte__ utawa __type_word__. Deleng __type_dword__ kanggo ngetik angka sing luwih gedhe.</string>
+    <string name="help_faq_2_q">Carane nelusuri nilai-nilai pecahan (__type_float__), tanpa pecahan bagean saka nilai kasebut?</string>
+    <string name="help_faq_2_a">Gunakake jinis data \"__type_auto__\" utawa sawetara panelusuran. Contone, kanggo 11.345 sampeyan bisa nelusuri \"10__tilde__12\".</string>
+    <string name="help_faq_3_q">Aku nemu nilai lan ngowahi, nanging ing game iki owah-owahan ora nindakake apa-apa. Aku mung nyoba kanggo nggunakake nanging kabeh teka bali. Apa aku salah?</string>
+    <string name="help_faq_3_a">"Ing sawetara game, angka kasebut dilindhungi utawa dienkripsi. Sadurunge nampilake angka kasebut, nilai kasebut bakal di-decrypted dadi variabel liyane. Sampeyan diganti.
+Wiwit nilai iki digunakake mung kanggo tampilan, ora ndadekake mekanika game. Kanggo nemokake nilai nyata, tinimbang ditampilake angka, gunakake telusuran kanggo nilai sing didhelikake, utawa telusuran cetho.
+Kadhangkala nilai disimpen ing server lan diselarasake saben wektu. Ing kasus iki, ora bisa disusupi. Yen game ora bisa digunakake tanpa Internet lan cara sadurunge ora mbantu - paling mungkin iki."</string>
+    <string name="help_faq_4_q">Ora nemokake nilai kasebut ing game X. Utawa ketemu, nanging nalika ora ana apa-apa owahan. Utawa ketemu, nanging sawise iku diganti game crash. Carane aku ngerti apa masalahe, apa perlindhungan ing game utawa karo __app_name__?</string>
+    <string name="help_faq_4_a">"Sampeyan kudu njupuk program prasaja sing dijamin ora duwe pangayoman lan nyoba. Aku luwih seneng nggunakake \"Hill Climb Racing\". Game punika prasaja, ora rumit lan ora ngemot pertahanan. Sampeyan bisa mriksa hacking dhuwit minangka panelusuran langsung kanthi nomer, lan nggolèki kanggo owah-owahan.
+Yen nyusup ing game prasaja kasebut, banjur ana ing game X sing nyoba kanggo hack. Yen ora, banjur masalah ing __app_name__.
+Malah ana opsi sing luwih gampang: \"Tutul Counter\". Instal. Run. Coba pulihake jumlah kaset sing ditampilake ing layar. Sampeyan kudu gampang banget. Yen ora, banjur masalah ing __app_name__ utawa setelane.
+Coba versi liyane saka __app_name__, nyoba nelusuri gambaran kesalahan sing ditampa ing forum kasebut ing topik sing relevan utawa ing Internet. Ing kasus sing nemen, sampeyan bisa takon ing forum."</string>
+    <string name="help_faq_5_q">Carane nelusuri wektu?</string>
+    <string name="help_faq_5_a">"\u0009- Coba telusuri nomer dina, jam, menit utawa detik. Tipe data bisa dadi __type_byte__, __type_word__, __type_dword__ utawa __type_qword__. Sampeyan uga bisa nggunakake tipe __type_auto__.
+\u0009- Coba nelusuri minangka nomer milli- utawa nanoseconds. Tipe data yaiku __type_dword__ utawa __type_qword__.
+\u0009- Coba nelusuri minangka unix timestamp tanggal pungkasan. Type - __type_dword__. Iki dianggep minangka beda antarane timestamp unix sing saiki lan sing disimpen. Telusuri liwat panelusuran sawetara.
+Contone, yen 30 dina ditulis, sampeyan lagi nggoleki 30 +/- 1 dina saka wektu unix sing saiki. Timestamp unix saiki bisa gampang ditonton ing Internet."</string>
+    <string name="help_faq_6_q">Apa bisa hack game online?</string>
+    <string name="help_faq_6_a">Sampeyan bisa ngganggu data sing disimpen ing klien. Apa wae ing server ora bisa disusupi. Ing macem-macem game bisa dadi beda cara. Malah ing game pamuter tunggal, sawetara data bisa uga ing server, lan sawetara uga ora.</string>
+    <string name="help_faq_7_q">Ngendi speedhack karya?</string>
+    <string name="help_faq_7_a">"Speedhack bisa uga ora bisa digunakake ing piranti / emulator x86 kanggo game sing ora nduweni pustaka x86.
+Uga kanggo lingkungan ART, speedhack ora bisa digunakake karo timer Jawa. Yen game nggunakake lan sampeyan duwe lingkungan ART (biasane Android 5 lan ndhuwur), banjur speedhack ora bisa."</string>
+    <string name="help_faq_8_q">__app_name__ minangka kabeh tumindak kanggo kula, nanging ing sawetara game aku entuk kesalahan PTRACE_ATTACH. Apa lan apa sing kudu dilakoni?</string>
+    <string name="help_faq_8_a">Game iki dilengkapi proteksi marang debugging dening jinis Proteksi SecNeo. __app_name__ ora bisa nglayang proteksi iki. Liwat, sampeyan ora bisa hack game iki.</string>
+    <string name="help_faq_9_q">Apa aplikasi kasebut duwe jeneng paket sing aneh? Yagene aplikasi ora dianyari, nanging saben wektu nginstal dhewe? Kenapa saben versi duwe jeneng paket sing beda?</string>
+    <string name="help_faq_9_a">Kanggo nyegah deteksi kanthi anti-cidra kanthi jeneng paket.</string>
+    <string name="help_faq_10_q">Ing sawetara game, nalika ngganti kecepatan (speedhack), dheweke mandheg nanggapi kanthi klik. Apa proteksi game utawa kesalahan program?</string>
+    <string name="help_faq_10_a">Iki tegese sampeyan ngeculake speedsacks intercepts antrian input timer lan mati. Sampeyan kudu milih checkmarks ijo ing dhaptar timer (ing setelan __app_name__) supaya iki ora kelakon.</string>
+    <string name="help_faq_11_q">Apa ngilangi daftar kasalahan sing dipisahake koma?</string>
+    <string name="help_faq_11_a">Amarga delimiter angka kasebut titik koma (\"__semicolon__\").</string>
+    <string name="help_faq_12_q">Carane aku nindakake sawetara panelusuran ing wektu sing padha?</string>
+    <string name="help_faq_12_a">Ing wayahe, aplikasi ora ngidini, nanging sampeyan bisa nginstal aplikasi kaping pirang-pirang lan manut salinan bareng yen cukup memori lan papan disk.</string>
+    <string name="help_faq_13_q">Apa aku kudu nganyari aplikasi kasebut yen ora ana owah-owahan ing owah-owahan?</string>
+    <string name="help_faq_13_a">Disaranake. Dhukungan mung kanggo versi paling anyar.</string>
+    <string name="help_faq_14_q">Apa simbol \"!\" lan \"#\", sadurunge jeneng proses?</string>
+    <string name="help_faq_14_a">"Iki minangka tandha proses pangolahan.
+\u0009\"#\" - sadurunge proses tegese wis ditelusuri dening sawetara proses liyane.
+\u0009\"!\" - sadurunge proses, proses iki ditelusuri sawetara proses liyane.
+Jeblugan biasa kanggo debugging utawa peretas. Uga digunakake ing sawetara proteksi. Biasane, proses kanthi tandha \"#\" minangka proses sing dilindhungi."</string>
+    <string name="help_faq_15_q">Kenapa aplikasi sawise instalasi standar uga nindakake instalasi dhewe, ngetokake panjalukan kanggo hak-hak root?</string>
+    <string name="help_faq_15_a">__app_name__ reinstalls dhewe karo data acak kanggo nyegah deteksi kanthi anti-cheats. Hak-hak root needed kanggo instalasi \"diam\" lan instalasi. Sampeyan ora bisa menehi dheweke. Ing kasus iki, sampeyan kudu nanggapi kanthi manual kabeh panjalukan saka sistem kanggo nginstal aplikasi.</string>
+    <string name="help_faq_16_q">Apa __pkg__? Apa trojan utawa virus? Apa aman kanggo menehi akses aplikasi iki ROOT?</string>
+    <string name="help_faq_16_a">Iki jeneng asline saka paket __app_name__. Ngakses akses root aman yen __app_name__ diundhuh saka sumber sing dipercaya.</string>
+    <string name="help_faq_17_q">Yagene __app_name__ ing dhaptar aplikasi diinstal sing dijenengi minangka karakter acak? Kenapa set karakter iki nyuwun akses root? Kenapa nalika meluncur __app_name__ nyerat yen ROOT ora diwenehake dening __app_name__, nanging dening sawetara jenis abracadabra?</string>
+    <string name="help_faq_17_a">Amarga __app_name__ migunakake kanggo ndhelikake dhewe saka deteksi kanthi anti-cidra.</string>
+    <string name="help_faq_18_q">Yagene __app_name__ versi paling anyar kadhangkala dideteksi dening anticheats, lan kadhangkala ora?</string>
+    <string name="help_faq_18_a">Amarga __app_name__ migunakake macem-macem cara kanggo ndhelikake dhewe saka deteksi kanthi anti-cidra. Iki kalebu jeneng paket paket lan aplikasi. Ing saben instalasi padha beda. Coba reinstalling __app_name__ kanggo regenerasi. Mungkin sawise anti-cidra iki bakal mandheg ndeleng __app_name__.</string>
+    <string name="help_faq_19_q">Apa game ora ana ing dhaptar aplikasi?</string>
+    <string name="help_faq_19_a">Amarga iki dhaptar aplikasi sing mlaku, lan aplikasi sampeyan ora aktif. Run, banjur pilih ing __app_name__.</string>
+    <string name="help_faq_20_q">Apa aplikasi Java ora bisa nanggepi speedhack ing Android 5 lan ndhuwur?</string>
+    <string name="help_faq_20_a">Amarga speedhack dirancang kanggo game karo native pustaka. Aplikasi sampeyan ora. Lan wiwit Android 5 digunakake lingkungan ART, tinimbang Dalvik, sing ndadekake ora bisa nyegat wektu Jawa. Aja nglakoni apa-apa. Kahanan ora bakal berubah ing mangsa ngarep.</string>
+    <string name="help_faq_21_q">Aku digunakake alat speedhack / hacking beda ing Android 4 lan kabeh kerja. Saiki aku sijine __app_name__ ing Android 5 lan ndhuwur, nanging cara iki ora bisa. Kenapa?</string>
+    <string name="help_faq_21_a">"Amarga akeh owah-owahan lan sarana sampeyan ora bisa mlaku kaya sing. Aja nggawe illusions sing __app_name__ iki dadi ala, nanging yen ana sing sarana, banjur uh! Ora ana barang liya.
+Kanggo nyoba iki, nginstal __app_name__ ing Android 4, lan mbaleni kabeh tumindak sing padha ing sarana kasebut. Akibaté, sampeyan bakal sukses. Nanging iki ora ateges yen cara sing padha bakal bisa digunakake ing Android 5 lan ndhuwur.
+Kasunyatan iki dikonfirmasi eksperimen, bola-bali."</string>
+    <string name="help_faq_22_q">Aku nonton sampel / gambar video lan ana data liyane ing editor memori. Kenapa?</string>
+    <string name="help_faq_22_a">Amarga video / gambar wis format format sing beda. Ing pangeling memori, pencet menu - pilih \"__value_format__\" lan atur output kaya apa.</string>
+    <string name="help_faq_23_q">Nalika regane wis beku, game kasebut mulai rem utawa lag. Kenapa?</string>
+    <string name="help_faq_23_a">Amarga sampeyan wis ing setelan __app_name__ pilihan kanggo \"__hide_from_game__\" aktif. Mateni.</string>
+    <string name="help_faq_24_q">Carane aku bisa mateni mriksa versi anyar nalika miwiti aplikasi?</string>
+    <string name="help_faq_24_a">Ora ana cara.</string>
+    <string name="help_faq_25_q">Carane ngowahi wektu maneh ing aplikasi kasebut? Apa bisa nggawe wektu mlumpat ora maju, nanging mundur?</string>
+    <string name="help_faq_25_a">Ora ana cara. Sampeyan ora bisa. Wektu kudu tansah nambah yen game bisa nabrak. Nanging, ing versi paling anyar, kita nambahake kemungkinan lompatan wektu negatif. Asil bisa uga nggantungake game utawa ilang data. Padha dielingake.</string>
+    <string name="help_faq_26_q">Aku sijine lambang lan ilang. Carane aku bisa njaluk maneh?</string>
+    <string name="help_faq_26_a">Ikon dadi transparan, nanging sampeyan isih bisa ngeklik. Klik ngendi wae, banjur ganti setelan liwat antarmuka.</string>
+    <string name="help_faq_27_q">Kepiye carane nelusuri nilai kasebut yen ditampilake dibunderake karo game? Contone, 1.85M.</string>
+    <string name="help_faq_27_a">Telusuri sawetara sing ditemokake. Watesan range gumantung marang aturan pambulatan. Contone, \"1845000__tilde__1854999\" kanggo pambulatan standar.</string>
+    <string name="help_faq_28_q">Pripun nampilaken nilai persentase? Contone, 123__percent__.</string>
+    <string name="help_faq_28_a">Iku gumantung ing implementasine. Kanggo saben game, kabeh bisa beda. Contone 123__percent__. Bisa dadi __type_float__ utawa __type_double__ karo sembarang nilai. Kaya 1.23 utawa 123.0. Utawa bisa dadi tipe integer: __type_byte__, __type_word__, __type_dword__. Contone 123 utawa 12300. On output bisa dibagi ing sawetara nomer. 100 utawa 345 utawa liyane. Kanggo saben game bisa beda. Sampeyan bisa nyoba kasus paling cetha. Kanggo 123__percent__ bisa 1.23 utawa 123. Tipe - __type_auto__. Yen sampeyan pancen bisa dadi apa sing perlu.</string>
+    <string name="help_faq_29_q">Apa yen game ndeteksi __app_name__?</string>
+    <string name="help_faq_29_a">"Coba pilihan ing ngisor iki (singly utawa ing sembarang kombinasi):
+\u0009- Aktifake \"__hide_from_game__\" opsi. cukup biasane 2, 3 lan 4 opsi.
+\u0009- Do ora mbatalake reinstallation __app_name__ karo jeneng acak. Iki wis rampung pisanan __app_name__ wis mbukak njaba saka papan virtual.
+\u0009- Gunakake XPrivacy utawa keperluan padha. Katon ing Internet kanggo piye carane iki.
+\u0009- Yen sampeyan duwe hak ROOT, nggunakake ROOT saka papan virtual karo instalasi didhelikake aplikasi. Waca liyane ing bantuan context kanggo setelan \"__vspace_root__\"."</string>
+    <string name="work_without_selinux">Ngalih menyang karya tanpa __selinux__ lan miwiti maneh app</string>
+    <string name="work_with_selinux">Ngoper menyang __selinux__ lan miwiti maneh app</string>
+    <string name="file">Gambar:</string>
+    <string name="file_not_found">Gambar ora ditemokake:</string>
+    <string name="export_selected">Ekspor dipilih</string>
+    <string name="failed_list_dir">Gagal maca dhaptar file.</string>
+    <string name="change_float_type">Pilih jinis jendhela ngambang</string>
+    <string name="reset_float_type">Ngeset jinis jendhela ngambang</string>
+    <string name="mask">Topeng:</string>
+    <string name="mask_request">Ketik alamat kanggo nelusuri</string>
+    <string name="help_mask_search_title">Alamat (tutup) telusuran</string>
+    <string name="help_mask_search">"* Alamat (topeng) golèk:
+\u0009Sampeyan bisa nelusuri utawa nyaring miturut alamat nganggo topeng.
+
+\u0009Conto khas nggolèki alamat sing pungkasan karo nilai sing dikenal. Contone, ing \"12E\".
+
+\u0009Parameter telusuran yaiku alamat lan topeng.
+\u0009Ing alamat kasebut bisa digunakake wildcards (\"__question__\"). Simbol iki tegese bisa dadi karakter saka \"0\" nganti \"F\".
+\u0009Topeng tambahan dibentuk saka alamat, saéngga angka-angka sing utama penting. Mangkono, panelusuran kanggo \"0120\" lan panelusuran kanggo \"120\" ora padha.
+\u0009Ing kasus pisanan bakal ditemokake: \"00010120\", \"00020120\", \"00030120\" lan ing. Nalika ing kaloro: \"00001120\", \"00002120\", \"00003120\" lan ing.
+
+\u0009Sampeyan bisa nggolèki kanggo kesetaraan lan kanggo ketimpangan sing dituduhake dening topeng. Pilihan kapindho bisa migunani kanggo ngilangi nilai sing ora perlu.
+
+\u0009Alamat lan topeng mlebu ing sistem heksadesimal lan tanpa huruf \"__hex__\" ing pungkasan.
+\u0009Topeng sing dipikolehi saka alamat kasebut keplok karo topeng sing dicithak panjenengan. Iki topeng search asil.
+
+Conto ing ngisor iki padha, amarga topeng sing asil padha - \"FF0\"
+__mask_example__
+"</string>
+    <string name="use_sound_effects">Gunakake efek swara:</string>
+    <string name="from_range">Saka:</string>
+    <string name="to_range">Kanggo:</string>
+    <string name="resultant_mask">Topeng Panentu:</string>
+    <string name="show_time_jump_panel">Tampilake panel lompat wektu:</string>
+    <string name="use_notification">Gunakake kabar:</string>
+    <string name="show_gg">Tampil __app_name__</string>
+    <string name="hide_gg">Singidaken __app_name__</string>
+    <string name="time_remaining">Wektu tetep:</string>
+    <string name="help_fill_title">Isi nilai (tambahan)</string>
+    <string name="help_fill">"* Isi (tambahan):
+\u0009Iku asring mengkono uga akeh nilai sing ditemokake, nanging ora bisa diganti saka game.
+\u0009Ing kasus iki, isi diwenehake kanggo ngluwari.
+
+\u0009Conto kayata nggunakake panelusuran kanggo rega item, kanthi panggantos sing sakteruse dening siji sing negatif.
+
+\u00091. Pilih item sing dikepengini.
+\u00092. Pilih \"__edit_selected__\".
+\u00093. Pencet tombol \"__more__\" kanggo nampilake lapangan \"__increments__\", yen kolom iki ora ana.
+\u00094. Ing kolom \"__increments__\", ketik nilai tambah. Biasane iki 1. Lan klik \"__yes__\".
+\u00095. Item sing dipilih bakal nampa nilai-nilai anyar.
+\u00096. Pindhah menyang game lan waca carane nilai sing dikarepake wis diganti, ngobahake layar game.
+\u00097. Yen Nilai ora digayuh, unsur sing dikepengini ora ana ing antarane sing dipilih. Bali menyang __app_name__ lan nggunakake \"__delete_selected__\" -> \"__revert_and_remove__\", mbusak item sing dipilih, ngasilake angka sadurunge. Saiki sampeyan bisa nyoba kabeh saka awal karo unsur liyane, yen ana apa-apa.
+\u00098. Yen nilai wis diganti, elemen sing dikepengini yaiku salah sijine elemen sing dipilih. Elinga nilai anyar lan bali menyang __app_name__.
+\u00099. Ing dhaptar item sing dipilih, nelusuri angka sing dikepengini. Mbusak. Mbusak kabeh nilai liyane, nggunakake \"__delete_selected__\" -> \"__revert_and_remove__\", wangsulna angka sadurunge.
+\u000910. Ngowahi nilai unsur sing dikepengini sing sampeyan butuhake.
+
+\u0009Kesalahan tipikal bisa dibusak tanpa bali. Sawise iku, game bisa nabrak.
+
+\u0009Yen sampeyan nemokake akeh nilai, cobanen ngisi bagian cilik supaya ora nyebabake kacilakan.
+"</string>
+    <string name="help_hint_1">* Yen sampeyan nemokake angka sing dikarepake ing wilayah sing padha (huruf ing mburi item ing dhaptar asil), sampeyan mung bisa milih wilayah kasebut kanthi luwih cepet.</string>
+    <string name="help_faq_30_q">__app_name__ nggoleki nilai alon banget lan suwe ing emulator Android ing PC.</string>
+    <string name="help_faq_30_a">"Paling coro sampeyan duwe virtualisasi dipateni ing BIOS PC. Nguripake.
+__app_name__ lumaku ing jero emulator, supaya kacepetan bisa gumantung ing kacepetan emulator.
+Yen virtualisasi aktif, nanging kacepetan isih kurang, priksa setelan emulator sampeyan, utawa gunakake emulator liyane.
+Sampeyan uga bisa nggunakake alat liya - CheatEngine kanggo PC - bakal nelusuri luwih cepet lan menehi akeh fitur sing ora bakal ana ing __app_name__."</string>
+    <string name="help_speed_up_title">Cara nyepetake panelusuran</string>
+    <string name="help_speed_up">"* Cara nyepetake telusuran:
+\u00090. If you are use an Android emulator on a PC (BlueStacks, Droid4X, Andy, NOX, Memu, AMIDuOS, Windroy, AVD, Genymotion, Koplayer, Leapdroid etc.), check that virtualization (VT Technology, Vanderpool Technology, Virtualization Technology, VTx, VT-d, VMX, Virtual Technology, Intel-VT, AMD-V, SVM, IOMMU) is enabled in the PC BIOS.
+\u00091. Yen sampeyan duwe RAM akeh, sampeyan bisa nyimpen data ing kono. Iki nemen nyepetake panelusuran. Setel setelan \"__data_in_ram__\" dadi \"__yes__\". Ing emulator Android ing PC, iki bisa ngatasi panelusuran.
+\u00092. Yen sampeyan duwe RAM sing cilik, data bakal disimpen ing kertu memori. Gunakake kertu memori kanthi kacepetan nulis lan maca dhuwur.
+\u00093. Sampeyan uga bisa nemtokake panyimpenan data ing memori internal piranti, yen luwih cepet tinimbang kertu memori. Atur setelan \"__set_path__\" menyang path sing dikarepake.
+\u00094. Ing panelusuran, pilih mung wilayah sing dikarepake. Aja alon (\"__slow__\") lan mbebayani (\"__dangerous__\") wilayah.
+\u00095. Sampeyan uga bisa nemtokake watesan saka sawetara memori, kanggo golèk, yen sampeyan ngerti. Klik tombol \"__more__\" ing dialog golèk lan ketik watesan.
+\u00096. Tlusur mung jinis data sing dikepengini. Tipe data \"__type_auto__\" alon.
+\u00097. Mateni kabeh opsi \"__hide_from_game__\".
+\u00098. Coba nggunakake \"__experimental__\" utawa \"__extended__\" ing \"__memory_access__\". Opsi iki bisa nyebabake karya ora stabil.
+"</string>
+    <string name="help_faq_31_q">Sawise sawetara wektu, lambang __app_name__ katon.</string>
+    <string name="help_faq_31_a">"Nyoba diklik ing panggonan ing lambang kasebut. Yen iki mbukak antarmuka __app_name__, lambang didhelikake ing setelan utawa perangkat kukuh sampeyan nduweni bug kanthi nampilake lambang.
+Yen antarmuka ora mbukak, tegese __app_name__ wis dibongkar saka memori.
+Alesan bisa:
+
+\u00091. Ora ana RAM cukup ing piranti - __app_name__ mateni sistem. Coba gunakake kurang RAM. Ing setelan __app_name__, ora nemtokake panyimpenan data ing RAM, ora nyetel jumlah gedhe asil ditampilake, mbongkar aplikasi \"ekstra\" saka RAM, gunakake analog \"light light\" aplikasi sing ora bisa ditrapake (contone, launcher ). Ing kasus sing luwih apik, urip maneh piranti sadurunge mbukak __app_name__ kanthi game. Meh kabeh perangkat kukuh tansah bocor RAM. Wektu liyane sawise reboot - RAM kurang kasedhiya.
+
+\u00092. Sampeyan duwe proses pembunuh sing mateni __app_name__.
+
+Nonaktifake pembunuh utawa nambah __app_name__ kanggo sawijining pengecualian.
+Killer uga kabeh jinis \"optimis\" lan \"improvers\" RAM.
+Umumé, waca gambaran kanggo piranti lunak, yen sampeyan ora ngerti yaiku pembunuh utawa ora.
+
+Kanggo FlyMe: __app_name__ sakperangan alesan sawise sawetara menit kerja unloaded - sampeyan kudu ngidini karya ing latar mburi kanggo __app_name__ lan manajer ROOT (biasane SuperSu).
+
+Sampeyan uga bisa nyoba ngaktifake \"__use_notification__\" ing setelan __app_name__. Kadhangkala iki nyegah mateni __app_name__."</string>
+    <string name="quick_start_title">Cepet wiwitan</string>
+    <string name="prevent_unload">Nyegah mbongkar:</string>
+    <string name="hot_key">Tombol panas:</string>
+    <string name="hide">Singidaken</string>
+    <string name="execute_script">Nglakokne script</string>
+    <string name="execute">Nglakokne</string>
+    <string name="another_script">Skrip liya mlaku. Nganggu iku?</string>
+    <string name="interrupt">Nganggu</string>
+    <string name="script">Script:</string>
+    <string name="script_ended">Script rampung:</string>
+    <string name="paused">Game dijupuk:</string>
+    <string name="by_pause_button">kanthi tombol ngaso</string>
+    <string name="by_option">"kanthi pilihan '__s__'"</string>
+    <string name="new_search_short">Anyar</string>
+    <string name="speedhack_loading">Loading speedhack ...</string>
+    <string name="speedhack_loaded">Speedhack dimuat.</string>
+    <string name="busy_dialog_fail">Dialog kemajuan ora bisa ditampilake.</string>
+    <string name="site">Situs</string>
+    <string name="help_xor_search_title">XOR search</string>
+    <string name="help_xor_search">"* Panelusuran XOR:
+\u0009\u0009Yen sampeyan mangerteni yen nilai sing sampeyan perlu dienkripsi nganggo tombol XOR sing tansah ana ing jarak sing padha saka nilai kasebut, sampeyan bisa nggunakake mode iki kanggo nelusur denah sing didekripsi.
+\u00091. Ngalih menyang __app_name__ saka game.
+\u00092. Tutul tombol \"__search_known_value__\" ing tab \"__search__\".
+\u00093. Ketik nomer telusuran lan jarak tombol XOR, dipisahake karo \"__mode_xor__\". Contone, kanggo nelusuri Nilai 100 kanthi tombol ing kadohan 8, ketik:
+\u0009\u0009\u0009100__mode_xor__8
+\u0009\u0009Kanggo ngetik simbol tambahan, gunakake tombol \"__btn_hex__\" ing keyboard internal.
+\u00094. Pilih jinis data sing cocok, utawa pilih \"__type_auto__\" (yen sampeyan ora yakin) lan pilihan liyane (yen perlu) lan klik \"__search__\".
+\u00095. Yen wis rampung nggoleki, asil telusuran bakal ditampilake ing dhaptar.
+\u00096. Mbalik menyang game. Sawise nilai wis diganti, pindhah menyang __app_name__ maneh.
+\u00097. Baleni maneh pituduh XOR kanthi owah-owahan sing cocog.
+\u00098. Yen ana akeh asil, baleni langkah 6 lan 7.
+\u00099. Yen sawetara asil sing ditinggalake, sampeyan bisa nyoba kanggo ngowahi, nyimpen, utawa mbeku.
+
+\u0009Sampeyan bisa nggunakake panelusuran XOR karo sawetara panelusuran. Contone \"100__tilde__150__mode_xor__8\".
+\u0009Biasane panelusuran XOR luwih alon saka panelusuran nomer biasa.
+\u0009Mode iki ora didhukung ing panelusuran grup utawa ing telusuran sing terenkripsi.
+\u0009Jarak kudu saka 1 nganti 4096 klebu.
+\u0009Sampeyan bisa ngetik jarak ing wangun hex kanthi simbol __hex__ ing pungkasan: \"100__tilde__150__mode_xor__10h\".
+\u0009Jarak kudu ngormati values ​​align. Contone, dword kudu didadekake sasi kanggo wates 4-bait. Nggoleki tegese \"40__mode_xor__7\" ora ana gunane kanggo dword amarga 7 ora bisa dibagi dadi 4.
+\u0009Gabungan mode iki karo liyane bisa nimbulaké masalah ing firmware ala. Contone, yen sampeyan nggawe telusuran biasa lan sawise nambahi mode XOR iki bisa nyebabake nyandhang utawa urip maneh piranti sampeyan. Iki ora bakal kelakon yen panelusuran kapisan bakal ana ing mode iki.
+\u0009Panelusuran fuzzy mode iki ora didhukung. Sampeyan bisa gabungke nanging karya kabur kaya biasane lan ora ngormati kunci XOR kanthi jarak.
+\u0009Mlebu kanggo nilai sing dihormati. Punika tegese sampeyan bisa nggoleki nilai ora padha, luwih gedhe, cilik lan sateruse.
+\u0009Ing panelusuran iki, kabeh nilai dianggep mlebu.
+"</string>
+    <string name="help_faq_32_q">Apa bedane karo versi HW / SW? Lan sapa kang kudu digunakake?</string>
+    <string name="try_latest">Mbok menawa skrip iki perlu versi paling anyar saka __app_name__. Coba dianyari menyang versi paling anyar.</string>
+    <string name="help_string_search_title">Telusur (senar, HEX, AoB)</string>
+    <string name="download_scripts">Ngundhuh tulisan</string>
+    <string name="hide_icons">Dhelikake lambang nguripake</string>
+    <string name="select_mode">Pilih mode</string>
+    <string name="mode_string">Teks</string>
+    <string name="mode_mixed">Campuran</string>
+    <string name="string_search_prompt">Ketik teks kanggo nelusuri, nganti __d__ bita dawa. Tuladhane</string>
+    <string name="string_empty">Sampeyan kudu ngetik teks.</string>
+    <string name="string_not_found">Tèks \"__s__\" ora ditemokake.</string>
+    <string name="string_found">Nemokake __d__ sing cocog kanggo tulisan \"__s__\".</string>
+    <string name="string_replace">Sampeyan pengin ngganti wong?</string>
+    <string name="string_replace_prompt">Ketik teks kanggo ngganti \"__s__\". Dawane ora luwih saka __d__ bytes.</string>
+    <string name="string_replaced">Diganti \"__s__\" dadi \"__s__\" ing __d__ panggonan.</string>
+    <string name="need_allow_background">Ing firmware iki, sampeyan kudu ngidini kerja __app_name__ ing latar mburi, ing setelan sistem.</string>
+    <string name="calculate_offset_xor">Ngetung offset, XOR</string>
+    <string name="select_copy_item">Pilih item sing disalin:</string>
+    <string name="landscape">Lanskap</string>
+    <string name="portrait">Mujur</string>
+    <string name="toolbar_buttons">Tombol Toolbar</string>
+    <string name="need_update_to">Sampeyan butuh versi sing luwih anyar saka __app_name__ kanggo mbukak script iki. Paling ora versi __s__. Sampeyan duwe versi __s__.</string>
+    <string name="default_mark">standar</string>
+    <string name="default_">Default:</string>
+    <string name="reset_button">Reset</string>
+    <string name="help_hex_colors_title">Werna ing editor memori</string>
+    <string name="help_hex_colors">"* __help_hex_colors_title__:
+Yen perwakilan hex ora putih, nanging werna, banjur paling gedhe ing nilai iki minangka pointer. Werna nuduhake jinis memori sing ana ing pointer iki.
+Iki bisa dadi memori __executable__, __writable__ utawa __read_only__. Ing kasus sing jarang, bisa dadi memori __writable_and_executable__."</string>
+    <string name="executable">eksekusi</string>
+    <string name="writable">writable</string>
+    <string name="read_only">namung diwaca</string>
+    <string name="writable_and_executable">writable lan executable</string>
+    <string name="help_extract">Extract the help</string>
+    <string name="help_extract_done">Bantuan iki diekstrak kanggo __s__</string>
+    <string name="help_extract_fail">Kesalahan nalika nambani bantuan:</string>
+    <string name="try_arm_version">Coba nggunakake versi __app_name__ kanthi dhukungan kanggo prosesor ARM lawas:</string>
+    <string name="back">Mbalik</string>
+    <string name="forward">Maju</string>
+    <string name="no_previous">Ora ana entri sadurungé</string>
+    <string name="no_next">Ora ana entri sabanjure</string>
+    <string name="from_item">Saka item:</string>
+    <string name="from_context">Saka menu konteks:</string>
+    <string name="from_boundary">Saka wates</string>
+    <string name="from_goto">Telpon goto</string>
+    <string name="from_calc">Saka kalkulator njaba:</string>
+    <string name="help_add_to_value_title">Pilihan \"__add_not_replace__\"</string>
+    <string name="help_add_to_value">"* __help_add_to_value_title__:
+Yen opsi iki wis dicenthang, nilai sing bakal ditambahake marang nilai sing ana, lan ora ngganti. Contone, elemen nduweni nilai 5, lan sampeyan ngetik 7, ing kolom nilai. Yen pilihan iki wis dicenthang, elemen bakal diwenehi angka 5 + 7, padha karo 12. Yen ora dicenthang, banjur 7.
+Sampeyan bisa nglebokake loro nilai positif lan negatif.
+Pilihan iki ora kompatibel karo pembekuan nilai kasebut."</string>
+    <string name="check_libs">Priksa arsitektur perpustakaan game:</string>
+    <string name="arm_libs">"Game kasebut diinstal karo perpustakaan ARM, senajan ing apk ana perpustakaan x86.
+Speedhack lan kabeh sing disambungake, ora bakal bisa.
+\"__skip__\" disables iki cek. Sampeyan bisa nguripake maneh ing setelan kasebut."</string>
+    <string name="manual_install">Sampeyan bisa nginstal file .apk kanthi manual. Dumunung ing dalan kasebut:</string>
+    <string name="as_text">Minangka teks (ora bisa dimuat)</string>
+    <string name="as_text_help">Nyimpen dhaptar ing format teks, trep kanggo maca manungsa. Unggah format iki ora didhukung.</string>
+    <string name="help_pointer_search_title">Panelusuran pitunjuk</string>
+    <string name="help_pointer_search">Nggoleki angka sing bisa dadi pituduh menyang alamat sing dikepengini. Sampeyan bisa nemtokake wates maksimal sing bisa diimbangi.</string>
+    <string name="all_memory">Ing kabeh memori</string>
+    <string name="offset_help">Batas maksimum sing bisa diimbangi.</string>
+    <string name="typical_values">Nilai-nilai khas</string>
+    <string name="su_command">Panganggoan Superuser</string>
+    <string name="starts">Diwiwiti karo</string>
+    <string name="ends">Ditanggepi karo</string>
+    <string name="no_filter">Ora disaring.</string>
+    <string name="help_memory_filter_title">Nyaring ing editor memori</string>
+    <string name="help_memory_filter">"* __help_memory_filter_title__:
+Sampeyan bisa nemtokake filter ing pangeling memori. Mung asil sing cocog karo filter bakal ditampilake.
+Filter ndhukung wildcard:
+\u0009__caret__ - wiwitan data,
+\u0009__dollar__ - pungkasan data,
+\u0009__asterisk__ - cacahing karakter apa wae,
+\u0009__question__ - siji karakter apa wae.
+Contone, kanggo nemokake nomer 42, sampeyan kudu ngetik __caret__42__dollar__."</string>
+    <string name="use_sh">Gunakake shell command</string>
+    <string name="backgrounds">Ireng latar mburi</string>
+    <string name="actions">Tindakan:</string>
+    <string name="game_settings">Setelan kanggo game:</string>
+    <string name="global_settings">Setelan global:</string>
+    <string name="ui_settings">Setelan UI:</string>
+    <string name="others">Liyane:</string>
+    <string name="skip_memory">Liwat wilayah memori:</string>
+    <string name="empty_memory">Kosong</string>
+    <string name="without_protection">tanpa perlindungan</string>
+    <string name="help_games_protection_title">Carane njaluk perlindungan ing game</string>
+    <string name="help_games_protection">"\u0009Sawetara game dilengkapi proteksi marang panyunting memori. Sampeyan bisa nyoba ing ngisor iki:
+\u00091. \"__kill_game__\", banjur \"__restart_game_without_protection__\".
+\u00092. \"__disable_protection__\", banjur mlaku (utawa miwiti maneh) game.
+\u00093. Gunakake kabeh utawa bagean item ing \"__hide_from_game__\". Kabeh mau mudhun nggoleki.
+\u00094. Nggoleki nalika dolanan diminimalisir.
+\u00095. Telusuri nalika game ngaso.
+\u00096. Bunuh utawa ngaso sawetara proses pangayoman saka game, yen game duwe sawetara proses.
+\u00097. Gunakake piranti katresnan utawa piranti sing meh padha kanggo nglindhungi pangreksan.
+\u00098. Gunakake modifikasi game tanpa proteksi.
+"</string>
+    <string name="disable_protection">Pateni pangayoman kanggo kabeh aplikasi (nganti urip maneh)</string>
+    <string name="must_restart_if">Yen sampeyan mbukak game sadurunge ngilangi pangayoman, sampeyan kudu miwiti maneh.</string>
+    <string name="patch_loading">Loading patch ...</string>
+    <string name="patch_loaded">Patch dimuat.</string>
+    <string name="patch_failed">Patch ora dimuat.</string>
+    <string name="history_limit">Wates saka riwayat:</string>
+    <string name="copy_as_search">Salin minangka panelusuran grup</string>
+    <string name="add_types">Nambah jinis</string>
+    <string name="add_size">Nambah ukuran klompok</string>
+    <string name="copy_rhex_value">Nyalin babagan hex kuwalik:</string>
+    <string name="mips_arch">Aplikasi iki ora ndhukung arsitektur MIPS.</string>
+    <string name="unrandomizer">Unrandomizer</string>
+    <string name="functions">fungsi</string>
+    <string name="help_unrandomizer">"
+Nu unrandomizer minangka fitur sing dirancang kanggo ngganti fungsi sing umum digunakake ing game kanggo ngasilake nilai-nilai acak. Ing tingkat sing gampang banget, kanggo conto, ana uga game sing nggunakake fungsi acak kanggo nemtokake ganjaran pemain. Enabling unrgetizer bakal nimbulaké __app_name__ kanggo nyoba ngganti nilai acak iki kanthi nilai kasebut kanggo ngganti asil kasebut (umpamane, kanggo njaluk ganjaran tartamtu).
+
+Unrandomizer ora bisa digunakake ing kabeh kasus. Iku mung bakal nangani fungsi sing wis ngerti. Ing kasus-kasus sing paling akeh lan kanggo pangguna sing paling akeh, iki ora bakal digunakake, amarga luwih akeh fitur eksperimen / eksperimental.
+
+Sawetara fungsi bali __type_qword__, sawetara - __type_double__ (arang digunakake).
+
+Nilai __type_double__ kudu ing kisaran saka 0 kanggo 1. Nanging, sampeyan bisa nemtokake nilai apa wae ana, amarga __app_name__ bakal mbenerake kabeh varian sing salah kanthi otomatis.
+
+Sampeyan uga bisa nemtokake langkah tambahan. Ing kasus iki, saben asil sakteruse bakal nambah kanthi nada iki. Contone, kanggo nambah 1 lan nilai awal 0, tinimbang nilai acak, 0, 1, 2, 3, ... bakal dikembalikan.
+Opsi iki bisa migunani kanggo panelusuran lengkap kabeh kemungkinan asil acak.
+
+Sampeyan bisa nemtokake fungsi apa sing bisa diowahi ing setelan __app_name__.
+"</string>
+    <string name="count_replace">Kaping pisanan asil kanggo ngganti?</string>
+    <string name="unrandomizer_loading">Loading unrandomizer ...</string>
+    <string name="unrandomizer_loaded">Unrandomizer dimuat.</string>
+    <string name="warn_restart_off_prot">"Opsi iki bakal nyoba kanggo miwiti maneh game tanpa perlindungan.
+Nanging, akèh perangkat kukuh sing ngandhut bug sing bisa nyebabaké piranti urip maneh.
+Yen kedadeyan kasebut, aja nyoba kanggo miwiti game maneh, amarga iki bakal miwiti maneh piranti kasebut.
+Cukup mbukak __app_name__ - bakal mbusak setelan sing ora apik.
+Sampeyan uga bisa nyoba kanggo urip maneh piranti kanthi cara sing biasa, iki uga kudu ndandani masalah.
+
+Yen reboots wis kedade - ora bisa nggunakake fungsi iki, ora bakal bisa digunakake ing perangkat kukuh."</string>
+    <string name="warn_patch_off_prot">"Opsi iki bakal nyoba kanggo nambal sistem (kanggo sementara) supaya kabeh aplikasi mbukak tanpa proteksi.
+Owahan bakal digunakake mung kanggo aplikasi anyar sing diwiwiti. Mulane, aplikasi target, sawise tembelan sukses, perlu diwiwiti maneh.
+Kanggo mbatalake tembelan, mung wiwit maneh piranti kasebut.
+Mbok menawa ana macem-macem kewan omo ing sistem, sawise tembelan iki.
+
+Yen tembelan wis sukses, ora dianjurake kanggo mbukak fungsi iki maneh, sadurunge reboot piranti kasebut.
+
+Yen sampeyan duwe masalah, aja nggunakake fungsi iki."</string>
+    <string name="clear_history">Mbusak riwayat input</string>
+    <string name="clear_history_warn">Kabeh entri, kalebu pin, bakal dibusak.</string>
+    <string name="click_edit">Klik kene kanggo ngowahi</string>
+    <string name="ignore_unknown_chars">Nindakake karakter ora dingerteni:</string>
+    <string name="need_root_mode">Fitur iki mbutuhake akses root. Saiki __app_name__ wis mlaku ing mode lingkungan virtual tanpa akses root.</string>
+    <string name="work_without_root_title">Bisa tanpa root</string>
+    <string name="work_without_root">"__app_name__ bisa kerja tanpa root, liwat lingkungan virtual. Contone, liwat __vspace_list__ lan akeh liyane.
+__app_name__ kudu diinstal ing lingkungan virtual. Game kudu uga diinstal ana.
+Ora kabeh fitur program sing didhukung, nanging akeh fungsi sing kudu dianggo.
+
+Sampeyan ora bakal bisa crack game sing ora diinstal ing lingkungan virtual.
+
+Peluncuran pisanan saka __app_name__, sing nglakoni maneh kanthi jeneng paket acak, ora bisa dilakoni liwat lingkungan virtual.
+Banjur sampeyan bisa nambah __app_name__ menyang lingkungan virtual lan nggunakake."</string>
+    <string name="help_game_not_listed_title">Apa game ora ana ing daftar proses?</string>
+    <string name="fractional_hint">"Sisih pecahan saka nomer nyata \"x\" iku keluwihan ngluwihi sebagean integer nomer.
+Kanggo nomer bagean pecahan kasebut cocog karo angka sing muncul sawise titik radix.
+
+Tuladhane:"</string>
+    <string name="pointer">Pointer:</string>
+    <string name="help_search_filter_title">Filter-filter ing panelusuran</string>
+    <string name="help_search_filter">"Sampeyan bisa nyaring asil panelusuran.
+Sampeyan bisa nemtokake:
+\u0009- watesan alamat,
+\u0009- watesan kanggo nilai kasebut,
+\u0009- jinis data sing dibutuhake,
+\u0009- bagean sing dikarepake,
+\u0009- jinis pointer sing dikepengini.
+Sampeyan bisa gabungke saringan wae karo saling.
+Sampeyan uga bisa mateni siji utawa saringan ing sembarang wektu.
+
+Nanging, menawa jumlah data sing akeh ditemokake, saringan bisa ngilangi asil.
+
+Filter ing bagean pecahan saka sawijining nomer bisa uga kanthi persamaan utawa ora seimbang.
+Kanggo tipe integer, bagean pecahan nol. Yen sampeyan ora butuh tipe integer, ngeculake mau nggunakake panyaringan jinis.
+
+Filter dening tipe pointer ngidini ninggalake ing output mung nilai-nilai sing bisa dadi pitunjuk kanggo jinis memori sing dipengini.
+Jenis memori bisa cocog karo werna ing pangeling memori:
+Iki bisa dadi memori __executable__, __writable__ utawa __read_only__. Ing kasus sing jarang, bisa dadi memori __writable_and_executable__.
+
+Tipe pseudo \"ora ana pointer\" cocog karo kabeh tipe data sing ora bisa dadi pituduh, lan uga kanggo nilai-nilai saka pointer sing ngarah ing memori unallocated."</string>
+    <string name="unmount_kill">"Kertu memori dicopot, sementara __app_name__ disimpen file sakdurunge. Iki nyebabake penutupan paksa daemon.
+
+Kanggo nyegah kedadeyan kasebut, nemtokake path sing beda kanggo file sauntara. Contone, ing memori internal.
+Ana kudu cukup ruang bebas."</string>
+    <string name="calls">Mode panggilan sistem:</string>
+    <string name="alternative">Alternatif</string>
+    <string name="help_calls">"Ing sawetara perangkat kukuh, kayata Lenovo, mode alternatif bisa luwih cepet.
+
+Biasane, sampeyan ora perlu ngganti pilihan iki."</string>
+    <string name="help_context_title">Bantuan kontekstual</string>
+    <string name="help_context">"Ing antarmuka, sawetara elemen diwenehi lambang khusus, ing sisih tengen ndhuwur, kanthi simbol __i__ ing bunder.
+Ndet utawa dawa kanthi mencet, ing elemen iki, nuduhake bantuan ing unsur iki."</string>
+    <string name="waitpid_mode">__waitpid__ mode:</string>
+    <string name="help_waitpid">"Ing sawetara perangkat kukuh, telpon sistem __waitpid__ ora bisa dianggep kaya samesthine. Iki biasane amergo setelan SeLinux sing ora bener.
+Iki nyebabake panelusuran tanpa wates ing __app_name__.
+Sampeyan bisa nyoba nggunakake mode alternatif. Mungkin iki bakal bisa."</string>
+    <string name="microseconds_short">μs</string>
+    <string name="small_is_bad">Nilai cilik banget bisa nimbulake beban dhuwur ing prosesor lan ora ana ing game.</string>
+    <string name="freeze_interval_help">Interval sing __app_name__ nimpa angka ing memori game.</string>
+    <string name="saved_list_update_interval_help">Interval ing ngendi __app_name__ nganyari angka ing dhaptar sing disimpen.</string>
+    <string name="icons_size_help">"Ukuran lambang ing antarmuka __app_name__.
+Ora ditrapake kanggo lambang ngambang."</string>
+    <string name="ignore_unknown_chars_help">Bisa ngatasi masalah nalika nyalin angka saka panggonan sing beda, yen karakter khusus disalin bebarengan karo angka.</string>
+    <string name="use_notification_help">"Nggunakake kabar ing wilayah kabar sistem Android.
+Ing sawetara perangkat kukuh, iki nambah prioritas aplikasi lan nyegah saka nutup.
+Sampeyan uga bisa nggunakake kabar kanggo pindhah menyang __app_name__ utawa game kanthi ngeklik ing.
+Iki bisa migunani yen sampeyan ora bisa ngeklik lambang ngambang."</string>
+    <string name="use_sound_effects_help">"Sistem swara nalika sampeyan menet tombol lan item.
+Ing sawetara perangkat kukuh, swara nimbulaké __app_name__ kanggo nabrak."</string>
+    <string name="keyboard_help">Keyboard internal njupuk kurang memori, diundhuh luwih cepet lan dioptimalake kanggo ngetik angka.</string>
+    <string name="allow_suggestions_help">"Petunjuk saka keyboard eksternal.
+Ing sawetara perangkat kukuh, pitunjuk bakal nimbulaké __app_name__ kanggo nabrak."</string>
+    <string name="autopause_help">Nganggo otomatis ing game nalika mbukak antarmuka __app_name__ kanthi otomatis.</string>
+    <string name="killed_by">__app_name__ dikunci kanthi aplikasi \"__s__\". Kanggo nyegah, mbusak aplikasi iki utawa konfigurasi supaya ora ngeculake __app_name__.</string>
+    <string name="killers_found">"Sampeyan wis nginstal aplikasi sing bisa nutup kanthi kepungkur __app_name__:
+__s__
+Kanggo nyegah, mbusak, utawa konfigurasi supaya ora ngakhiri __app_name__.
+
+Yen sampeyan ora nemu masalah karo nutup sing ora dikarepake saka __app_name__, banjur ora ana tindakan sing kudu ditindakake, lan sampeyan ora bisa nglirwakake pesen kasebut."</string>
+    <string name="record_logcat">Rekam __logcat__</string>
+    <string name="record_logcat_info">"__app_name__ bakal diwiwiti kanthi rekaman __logcat__ neng file:
+\"__s__\".
+
+Kanggo mungkasi rekaman, metu saka __app_name__.
+Sawise iku, sampeyan bisa ngirim file log menyang ngendi sampeyan kudu."</string>
+    <string name="need_uninstall">Sampeyan kudu instal instalasi, yen sampeyan duwe 4 lambang, ora 2. Uga game bakal ndeteksi.</string>
+    <string name="need_random_name">"__app_name__ migunakake jeneng paket standar. Game bisa dideteksi.
+
+Kanggo ndandani - ngaktifake __app_name__ ing njaba ruang virtual minangka aplikasi normal.
+Sawise instalasi rampung, tambahkan salinan __app_name__ kanthi jeneng acak menyang papan virtual."</string>
+    <string name="work_mode">Mode kerja</string>
+    <string name="root">ROOT</string>
+    <string name="no_root">ora ana oyot</string>
+    <string name="how_no_root">"Sampeyan kudu nginstal aplikasi spasi virtual. Kaya: __vspace_list__.
+
+Dianjurake kanggo nginstal versi sing dioptimalake saka situs resmi __app_name__.
+
+Banjur sampeyan kudu nambah __app_name__ lan game sampeyan menyang papan virtual iki.
+
+Sawise sampeyan kudu mbukak game lan __app_name__ ing ruang virtual."</string>
+    <string name="eperm_error_descr_0">Alesan bisa:</string>
+    <string name="eperm_error_descr_1">Proteksi ing game.</string>
+    <string name="eperm_error_descr_2">Debugger utawa cracker liyane disambungake menyang game.</string>
+    <string name="eperm_error_descr_3">Ijin ora cukup. Biasane amarga salah diatur __selinux__. Mateni utawa atur __selinux__.</string>
+    <string name="eperm_error_descr_4">Gagal kernel utawa perangkat kukuh. Coba perangkat kukuh perangkat liyane utawa piranti liyane.</string>
+    <string name="eperm_error_descr_5">Ing firmware sampeyan, mode \"ora ana oyot\" ora bisa. Coba perangkat kukuh perangkat liyane utawa piranti liyane utawa entuk oyod.</string>
+    <string name="ptrace_bypass_mode">Mode Bypass kanggo proteksi ptrace:</string>
+    <string name="mode_restore">mulihake</string>
+    <string name="mode_nothing">boten</string>
+    <string name="mode_freeze">beku</string>
+    <string name="ptrace_bypass_mode_help">"Nuduhake apa sing kudu dilakoni sawise mateni sambungan pangayoman:
+\u0009__mode_restore__ - mulihake sambungan
+\u0009__mode_nothing__ - aja nglakoni (biasane pangayoman dhewe mulihake sambungan)
+\u0009__mode_freeze__ - beku benang (kaya ing versi sadurungé)
+
+Yen sampeyan nylametake pangayoman, utawa ngidini pangayoman kanggo nindakake dhewe, pembekuan nilai ing __app_name__ bisa nimbulaké owah-owahan amarga sambungan permanen / mateni pangayoman."</string>
+    <string name="slow_emulator">"Sampeyan nggunakake emulator \"__s__\". Iku alon lan ngandhut kasalahan. Amarga iki, panelusuran bisa banget alon.
+
+Disaranake nggunakake emulator liyane:"</string>
+    <string name="text">Teks</string>
+    <string name="show_debug_info">Tampilake info debug</string>
+    <string name="mnt_expand">"__app_name__ wis diinstal ing kertu memori sing digunakake minangka \"Panyimpenan internal\".
+Iki bisa ngganggu operasi ruang virtual.
+Yen mengkono, instal __app_name__ ing memori internal piranti.
+Sampeyan bisa uga kudu ngowahi ulang kertu memori minangka \"Portable storage\"."</string>
+    <string name="help_game_not_listed_root">"Game kudu mlaku kanggo milih.
+
+Yen game wis mlaku, nanging isih ora ana ing dhaftar, mesthine sampeyan duwe masalah karo root, utawa firmware.
+Coba liyane ROOT utawa firmware liyane."</string>
+    <string name="help_game_not_listed_noroot">"Game kudu diluncurake ing ruang virtual supaya bisa dipilih.
+
+Sampeyan ora bisa milih game yen ora aktif ing ruang virtual.
+
+Yen game wis mlaku ing papan virtual, nanging isih ora ana ing dhaftar, coba space virtual liyane, firmware liya, piranti liya utawa entuk root."</string>
+    <string name="daemon_killed_oom">"Daemon dibunuh dening sistem amarga ora ana memori.
+
+Setel \"__data_in_ram__\" dadi \"__no__\".
+Gunakake akselerasi hardware antarmuka, yen bisa.
+Aja nggunakake aplikasi gedhe.
+Pateni kabeh aplikasi sing ora dienggo.
+Coba gunakake __app_name__ sawise reboot piranti sampeyan."</string>
+    <string name="selected_as_search_result">Kapilih minangka asil panelusuran</string>
+    <string name="clear_results_prompt">Iki bakal ngganti asil panelusuran sing saiki. Terusake?</string>
+    <string name="position_in_memory_editor">Posisi ing editor memori</string>
+    <string name="script_prompt_internet">"Script kepengin ngakses Internet. Yen sampeyan ngidini akses, naskah bakal bisa nyolong login, sandhi, nyimpen lan data liyane saka game kasebut. Uga bakal bisa nyolong skrip liyane, utawa ngundhuh virus menyang piranti sampeyan.
+
+Ngidini akses script menyang Internet?"</string>
+    <string name="level">Tingkat</string>
+    <string name="float_prompt">"Kanggo bener mlaku __app_name__ ing firmware sampeyan, sampeyan kudu ngidini pangguna jendhela popup ing setelan sistem kanggo __s__.
+
+Popup ora dituduhake ing ponsel Huawei kanthi standar. Sampeyan kudu ngidini __s__ kanggo nuduhake popup. Mangga mbukak Manager telpon, banjur Manajemen Dropzone lan priksa manawa wis diuripake kanggo __s__.
+
+Popup uga ora nuduhake sawetara telpon Xiaomi. Sampeyan kudu Kepala menyang Setelan -> Aplikasi diinstal -> __s__ -> Ijin liyane -> Nampilake jendhela pop-up.
+
+Uga, telpon liyane uga duwe tata cara sing beda kanggo ngidini aplikasi kanggo nuduhake jendhela Popup. Kabeh aplikasi kasebut biasane kena pengaruh kanthi cara iki, umpamane Google Translator app kanthi fungsi Tap To Translate. Mulane, sampeyan bisa langsung google \"YOUR_PHONE tutul kanggo nerjemahake\" kanggo nemokake solusi. Contone, kanggo perangkat Xiaomi Redmi solusi kasebut kaya mangkene:"</string>
+    <string name="virtual_space">Virtual Space App</string>
+    <string name="prevent_unload_help">"Nyegah unloading __app_name__ saka memori (pasukan cedhak).
+
+Saben level sakteruse luwih kuat tinimbang sing sadurunge lan kalebu ing dhewe.
+
+Tingkat katelu bisa nimbulaké masalah (nyandhang roti panggang, reboot utawa nabrak) ing sawetara perangkat kukuh lan emulator.
+
+Tanpa root mung tingkat katelu bisa dianggo."</string>
+    <string name="integer_type">Tipe data iki mung kanggo nilai integer lan ora ndhukung nilai pecahan. Gunakake __type_float__ utawa __type_double__ kanggo angka pecahan.</string>
+    <string name="without_float">Sampeyan uga bisa nggunakake __app_name__ tanpa jendela ngambang:</string>
+    <string name="any_value">sembarang nilai</string>
+    <string name="help_group_search_any_value">Sampeyan bisa nggunakake __any__ ing panuntun klompok kronologis bebarengan karo ukuran minimal kanggo nemtokake nilai apa wae jinis kasebut ing posisi sing dipengini.</string>
+    <string name="help_scripts_title">Skrip</string>
+    <string name="help_scripts">"* __help_scripts_title__:
+__app_name__ ndhukung eksekusi naskah sing ditulis ing Lua.
+
+Ing tab panelusuran, klik menu banjur pilih \"__execute_script__\".
+Ing ngisor iki sampeyan bisa milih file skrip kanggo eksekusi, ndeleng cara API __app_name__ sing ana, utawa menyang situs resmi kanggo maca bantuan API utawa download naskah siap.
+Uga, sampeyan bisa extract bantuan saka API ing kertu memori kanggo maca tanpa Internet.
+
+Yen sampeyan pengin nulis skrip sampeyan dhewe, sampeyan butuh editor file teks njaba.
+__app_name__ ora ngidini nyunting skrip, mung nglakokna.
+
+Maca bantuan API kanggo rincian liyane."</string>
+    <string name="help_floating_icon_absent">Yen sawise ngeklik tombol \"__start__\" sampeyan ora ndeleng lambang ngambang:</string>
+    <string name="remove_all2">Mbusak kabeh</string>
+    <string name="debug_load">Dump kabeh beban kode</string>
+    <string name="debug_log">Log panggilan paling akèh</string>
+    <string name="vspace64">"Sampeyan mlayu __app_name__ ing ruang virtual sing ndhukung 64-bit pangolahan.
+
+__app_name__ ora weruh pangolahan 32-bit sing mlaku ing papan iki.
+
+Instal salinan nomer __app_name__ ing mode \"__for32__\" yen sampeyan pengin bisa ing __app_name__ nganggo pangolahan 32-bit."</string>
+    <string name="folder_new">Folder anyar</string>
+    <string name="folder_exists">Folder iki wis ana</string>
+    <string name="folder_file">Ana file mawa jeneng kasebut</string>
+    <string name="folder_failed">Gagal nggawe folder</string>
+    <string name="force_close">"Penutup app sadurungé ora kaduga.
+
+Sampeyan bisa ngunggahake level konfigurasi \"__prevent_unload__\" kanggo nyegah iki ing mangsa ngarep."</string>
+    <string name="help_force_close_title">Tutup sing ora dikarepake</string>
+    <string name="install_mode">Instal mode</string>
+    <string name="for32">Kanggo ngobrol game 32-bit ing papan virtual 64-bit</string>
+    <string name="for64">Kanggo dolanan game 64-bit ing papan virtual 64-bit</string>
+    <string name="reset_ignore">Reset kabeh ora ditolak kanggo kabeh dialog</string>
+    <string name="allocate_fail">Ora bisa ngalokasi kaca memori. Kesalahan</string>
+    <string name="allocated">Kaca memori dialokasikan:</string>
+    <string name="allocate_page">Ngalokasikan kaca memori</string>
+    <string name="prot_read">Bisa maca</string>
+    <string name="prot_write">Bisa ditulis</string>
+    <string name="prot_exec">Bisa dieksekusi</string>
+    <string name="install_finished">"Instalasi sukses.
+Jalanake salinan kasebut kanthi manual supaya bisa pindhah data sampeyan.
+Sawise iku, installer bisa dibusak."</string>
+    <string name="odd_vspace">__app_name__ diluncurake ing ruang virtual?</string>
+    <string name="record_script">Skrip rekam</string>
+    <string name="record">Rekam</string>
+    <string name="another_record">Cathetan liya lagi mlaku. Mandhego?</string>
+    <string name="record_ended">Cathetan rampung:</string>
+    <string name="stop">Mungkasi</string>
+    <string name="could_not_use">Ora bisa nggunakake:</string>
+    <string name="not_optimized2">"Sampeyan nggunakake versi virtual sing ora dioptimalake (\"__s__\").
+Kanggo ndandani kesalahan iki, mbusak versi sing ora dioptimalake saka \"__s__\" lan nginstal salah siji spasi virtual sing dioptimalake saka situs resmi __app_name__.
+Klik \"__fix_it__\" kanggo milih pilihan spasi virtual sing optimal."</string>
+    <string name="fix_path">Ruwang gratis utawa nemtokake path sing beda kanggo file sak wentoro kanthi ngeklik \"__fix_it__\".</string>
+    <string name="deep_read">Jero maca:</string>
+    <string name="help_deep_read">"Maca memori kanthi cara sing kasedhiya, yen ora bisa dibaca.
+Mungkasi alon maca memori."</string>
+    <string name="ptrace_fail">Gagal kanggo ngganti memori liwat ptrace.</string>
+    <string name="ptrace_fail_partially">Sawetara fitur, speedhack lan kabeh sing gegandhengan, ora bakal bisa. Nulis ing memori mung-maca (kalebu kode) ora bisa.</string>
+    <string name="ptrace_fail_full">Mayoritas fitur mutlak ora bisa dilakoni.</string>
+    <string name="ptrace_fail_solve">"Alasan khas iku kernel pecah ing perangkat kukuh.
+Coba ganti perangkat kukuh. Yen bubar dianyari - instal versi sadurungé.
+
+Yen ora bisa, ganti piranti kasebut."</string>
+    <string name="feature_hide_4">Fitur iki ora bisa digunakake yen item kaping papat dipilih ing \"__hide_from_game__\".</string>
+    <string name="feature_firmware">Fitur iki ora bisa dienggo tanpa ptrace, sing ora bisa digunakake ing perangkat kukuh iki.</string>
+    <string name="feature_protection">Fitur iki ora bisa dilakoni amerga pentrace perlindungan ing game kasebut.</string>
+    <string name="not_file">Path ora berkas:</string>
+    <string name="not_execute">Ora bisa nglakokaké:</string>
+    <string name="check_install">Priksa manawa __app_name__ wis diinstal kanthi bener.</string>
+    <string name="sdcard_install">Yen __app_name__ diinstal ing panyimpenan eksternal (kertu SD), bali menyang memori internal</string>
+    <string name="change_address_type">Ngganti alamat / ketik</string>
+    <string name="bad_offset">Offset ora pirang-pirang __d__.</string>
+    <string name="bad_result_address">Alamat kasebut ora kaping pirang-pirang saka __d__.</string>
+    <string name="correct_types">__d__ unsur bakal ngganti jinise kanggo mbenerake keselane mokal.</string>
+    <string name="reinstall_fail">"Ora bisa nginstal maneh __app_name__ kanthi jeneng acak.
+
+__app_name__ bisa gampang dideteksi dening game.
+
+Sampeyan bisa ngrekam __logcat__, nalika instalasi, lan hubungi forum resmi kanggo pitulung.
+
+Alasan penolakan:"</string>
+    <string name="empty_field">Medan input kosong: ora ana nomer sing bakal dikonversi</string>
+    <string name="need_integer">Sampeyan kudu milih integer kanggo ngowahi.</string>
+    <string name="maps_failed">Ora bisa mbukak file \"__maps__\".</string>
+    <string name="game_protected">Game dilindhungi.</string>
+    <string name="need_root">Need root to hack this game.</string>
+    <string name="vspace_error">"Masalah ruang virtual utawa perangkat kukuh utawa perangkat.
+
+Coba:
+\u0009- gunakake spasi virtual liyane
+\u0009- gunakake perangkat kukuh liyane
+\u0009- njaluk ROOT
+\u0009- gunakake piranti liyane"</string>
+    <string name="root_error">"Masalah saka firmware utawa root utawa piranti.
+
+Coba:
+\u0009- gunakake perangkat kukuh liyane
+\u0009- Gunakake root liyane
+\u0009- gunakake piranti liyane"</string>
+    <string name="vspace_root">Gunakake root ing spasi virtual:</string>
+    <string name="help_vspace_root">"Nggunakake root saka ruang virtual bisa ndhelikake kasunyatan sing ana __app_name__ ing piranti kasebut.
+
+Ora bisa digunakake ing perangkat kukuh lan ora kabeh spasi virtual.
+
+Ruang virtual, perangkat kukuh lan root kudu ngidini nggarap root saka ruang virtual.
+Spasi virtual ngirim ngidini sampeyan nginstal aplikasi nang tanpa masang menyang sistem.
+
+Ora kabeh spasi virtual bisa nyedhiyani iki.
+
+Ora kabeh firmware mode iki bakal bisa digunakake. Lan ora nganggo kabeh oyod.
+
+Wiwit hak-hak root bakal diwenehake marang kabeh ruang virtual, sampeyan ora kudu nginstal apa-apa sing liya. Yen ora, aplikasi apa wae saka papan virtual bisa nggunakake hak ROOT kanthi akibat sing ora bisa ditebak.
+
+Game kudu dipasang ing njaba ruang virtual.
+
+__app_name__ kudu diinstal mung nang ruang virtual, tanpa nginstal sistem kasebut.
+Carane nindakake iki - ndeleng bantuan saka papan virtual tartamtu.
+
+Contone, kanggo __vexp__, sampeyan bisa klone __app_name__ saka sistem ing __vexp__, banjur mbusak __app_name__ saka sistem."</string>
+    <string name="help_games_protection_9">9. Gunakake root ing spasi virtual sing ngidini kanggo nginstal aplikasi menyang dhewe tanpa nginstal menyang sistem.</string>
+    <string name="locale_ui">Ing wilayah sampeyan</string>
+    <string name="locale_script">Scripts tansah nggunakake basa Inggris</string>
+    <string name="locale_desc">"'__s__' - pemisah perpuluhan
+'__s__' - separator separator
+'__semicolon__' - pemisah angka ing panelusuran grup"</string>
+    <string name="help_unaligned_title">Pencarian telusur / pamrih amba</string>
+    <string name="help_unaligned">"Ing sawetara aplikasi, (contone, kayata console emulators), nilai ing memori bisa ora ngukur alignment, utawa bakal diwenehi urutan gedhe-endian.
+
+Nilai kasebut ora bisa ditemokake liwat telusuran normal.
+
+Kanggo nemokake wong - gunakake naskah khusus saka situs resmi __app_name__:"</string>
+    <string name="help_formula_calculator_title">Kalkulator rumus</string>
+    <string name="help_formula_calculator">"Meh ing saben lapangan kanggo ngetik nomer, sampeyan bisa ngetik rumus matematika, sawise tandha sing padha, umpamane, ing lapangan telusuran ketik '= 2 + 2 * 3', lan program kasebut bakal nggolek asil saka rumus kasebut, yaiku, '8'.
+Rumus minangka ekspresi Lua. Sampeyan bisa nggunakake kabeh daya sing kasedhiya Lua ing.
+
+Kabeh operator aritmetika Lua 5.3 bisa ditampa - tambahan (+), pengurangan (-), multiplikasi (*), divisi (/), sisane divisi (%), eksponentiation (^), divisi integer (//), lan liya-liyane.
+Ana uga operator sing sithik - Lan (&amp;), UTAWA (|), UTAWA eksklusif (binar ~), ora (seragam ~), Shift nengen (>>), Shift nengen (&lt;&lt;). Urutan tumindak bisa diwenehake dening kurung.
+Waca manual Lua kanggo dhaptar lengkap operasi sing kasedhiya.
+
+Iki migunani yen sampeyan ngerti kepiye nilai diwenehi kodhe ing game. Contone, 29 babak ing siji game bisa ditemokake minangka '= 29 ~ 444444'. Iki padha karo 29 XOR 444444. Ing conto video, rega ditemokake 3888 liwat XOR kanthi 444444, minangka '= 444444 ~ 3888'. Sawise iki, panggantos kasebut digawe dadi '= 444444 ~ 1', sing nyetel rega dadi '1'. Ing game liyane, 125 emas kaya '= 125 * 10'.
+
+Ora kabeh fungsi skrip kasedhiya ing kalkulator rumus. Sawetara fungsi ora kasedhiya. Yen sampeyan ora cukup akeh - tulis skrip sampeyan, tinimbang nggunakake kalkulator rumus, sing dimaksudake mung kanggo petungan sing gampang. Kasedhiya: bagean fungsi dhasar, 'bit32', 'meja', 'string', 'utf8', 'math', bagean saka 'os' package. Paket 'debug', 'paket', 'gg', 'io' ora kasedhiya.
+
+Nalika sampeyan nulis '= 2 + 2 * 3', tembung kunci 'bali' bakal ditambahake sadurunge rumus: 'ngasilake 2 + 2 * 3'. Nanging, sampeyan bisa nemtokake tembung iki kanthi rumus yen sampeyan butuh formula kompleks.
+Contone, '= a = 5; b = 7; ngasilake * 4 + b * 8 'bakal ditindakake minangka' a = 5; b = 7; ngasilake * 4 + b * 8 '
+
+Asil kalkulator rumus yaiku senar teks. Senar bisa dadi senar sing bener kanggo lapangan input iki.
+Contone, bisa dadi senar kanggo panelusur klompok utawa telusuran akeh. '= a = 5; b = 7; wangsul a .. \";\" .. b .. \":: 100\" 'padha karo' 5; 7 :: 100 '.
+
+Kalkulator formula ora bisa digunakake ing skrip, ing kono sampeyan bisa langsung nggunakake Lua.
+Nalika nulis skrip, asil pitungan rumus bakal ditulis menyang file kasebut, dudu formula kasebut dhewe.
+
+Yen rumus ora salah, sampeyan bakal nampa pesen kesalahan nalika ngirim formulir kasebut.
+
+Nalika ngitung, sampeyan kudu nggatekake kasunyatan yen petungan ditindakake ing jinis sing wis diwenehake operand pisanan. Yen integer, mula asilé bakal dadi integer.
+Contone, '= 3/2' yaiku '1', lan '= 3.0 / 2' yaiku '1.5'.
+
+Preduli lokal sing dipilih, rumus kasebut bisa digunakake ing basa Inggris. Iki tegese pemisah desimal mesthi dadi titik ('.')."</string>
+    <string name="help_faq_32_b">"Loro lambang peluncuran. Pisanan, kanthi akselerasi piranti lunak - \"__app_short_name_sw__\", sing kapindho, kanthi akselerasi hardware - \"__app_short_name_hw__\". Saiki bakal dadi.
+Ing sawetara firmwares mung siji versi bisa dianggo, ing jinis sing luwih apik loro.
+Iku luwih apik kanggo nggunakake percepatan piranti lunak, kerjane kurang lancar, nanging nganggo memori kurang.
+
+Sampeyan bisa ndhelikake salah sawijining lambang ing setelan aplikasi: \"__hide_icons__\"."</string>
+    <string name="acceleration_help_">"Perkakas utawa perangkat lunak nyepetake antarmuka __app_name__.
+Gumantung ing game lan perangkat kukuh, sawetara pilihan bisa nimbulaké masalah.
+Yen loro-lorone digunakake, nggunakake akselerasi piranti lunak amarga nggunakake memori kurang.
+
+Opsi iki kapisah saka lambang peluncuran lan mung ndadekake tampilan antarmuka __app_name__.
+Lambang lambang tanggung jawab kanggo jinis percepatan layar wiwitan.
+
+Akselerasi hardware nganggo luwih akeh memori, nanging luwih kerjane. Yen sampeyan duwe sethitik RAM, tansah nggunakake akselerasi piranti lunak.
+
+Yen akselerasi hardware nyebabake kasalahan, __app_name__ bisa ngalih menyang percepatan piranti lunak."</string>
+    <string name="small_list_items">Item dhaptar cilik</string>
+    <string name="small_list_items_help">Ngidini sampeyan kanggo nampilake informasi liyane ing dhaptar item, nanging bisa luwih angel kanggo ngeklik item sing dikepengini.</string>
+    <string name="format_asm_opcodes">__s__ opcodes</string>
+    <string name="no_regions">Ora ana panggonan sing cocog.</string>
+    <string name="cannot_hide_launcher_icon">"Lambang iki digunakake kanggo peluncuran saiki.
+
+Sampeyan ora bisa ndhelikake lambang sing digunakake kanggo peluncuran saiki.
+
+Wiwiti maneh aplikasi liwat lambang liyane kanggo bisa ndhelikake lambang iki."</string>
+    <string name="screenshot">Njupuk gambar</string>
+    <string name="screenshot_prompt">"Ikon bakal didhelikake kanggo __d__ detik supaya sampeyan bisa njupuk gambar.
+
+Sawise kuwi, ikon bakal katon maneh."</string>
+    <string name="screenshot_action">Gambar</string>
+    <string name="use_visible_type">Gunakake jinis data sing katon ing pangeling memori:</string>
+    <string name="use_visible_type_help">Aja nyuwun jinis data ing editor memori yen mung siji jinis data sing ditampilake.</string>
+    <string name="wrong_float">Ing panggonan sampeyan, nomer \"__s__\" katon kaya \"__s__\". Yen iki ora apa sampeyan perlu - pilih lokal (utawa basa) sing beda ing layar wiwitan.</string>
+    <string name="wrong_float2">Uga, ing setelan __app_name__, sampeyan bisa ngganti locale kanggo nomer format.</string>
+    <string name="number_locale">Lokal kanggo nomer format:</string>
+    <string name="fill">Isi</string>
+    <string name="help_text_search">"
+Kanggo nelusuri teks, sampeyan kudu nemtokake modifikasi ing dialog telusuran biasa.
+
+Pengkodean sing paling umum digunakake yaiku __utf8__ lan __utf16le__.
+Biasane, __utf16le__ digunakake ing __java__, lan __utf8__ digunakake ing __c__.
+
+\u0009__utf16le__ minangka enkode loro-bait. Saben karakter tansah dikode ing rong bita, sahingga diwakili liwat __type_word__.
+\u0009__utf8__ - encoding karo ukuran byte variabel saben karakter. Ditampa liwat __type_byte__.
+\u0009__hex_input__ lan variané tansah diwakili liwat __type_byte__.
+
+Game bisa nggunakake sembarang encodings.
+Yen sampeyan butuhake bilah setel tartamtu - gunakake mode __hex_input__.
+
+Wiwitan awalan:
+__text_prefixes__
+
+Kanggo \"__hex_mixed__\", sampeyan bisa nemtokake __utf8__ teks antarane __apos__ karakter lan __utf16le__ teks antarane __quot__ karakter.
+
+Tuladhane:
+__text_examples__
+
+Karya awalan kudu dadi aksara pisanan ing teks panelusuran.
+
+Asil panelusuran bakal dadi urutan __type_byte__, utawa urutan __type_word__, kanggo kasus __utf16le__.
+
+Asil bisa diganti - pilih kabeh lan klik \"__edit_selected__\".
+
+Ing kolom nilai, ketik angka sing anyar, kanthi format sing padha kanggo string telusuran.
+
+Sampeyan bisa nggunakake tombol isi. Klik \"__more__\" yen ora katon.
+
+Nilai kasebut bakal disetel kanggo saben klompok item sing terus-terusan.
+Yen ana jurang antara elemen, bakal dadi grup anyar.
+
+Yen sampeyan nemtokake bita luwih akeh tinimbang dibutuhake, mung sebagean wae sing bakal digunakake.
+Yen sampeyan nemtokake kurang saka sing dibutuhake, banjur klompok liyane bakal diisi kanthi byte nol.
+
+Nalika ngganti teks, nyoba kanggo nemtokake teks kanthi jumlah bita sing padha minangka asale kanggo ngatasi masalah.
+"</string>
+    <string name="fast_freeze">Cepet beku:</string>
+    <string name="help_fast_freeze">"Kerjane luwih cepet tinimbang pembekuan normal, nanging ora kanggo kabeh memori.
+
+Yen beku ora bisa, mateni pilihan iki."</string>
+    <string name="debug_disassemble">Disassemble</string>
+    <string name="assembled">Kasil dikempalken kanggo ngajukake:</string>
+    <string name="warn_patch_off_prot2">"Yen sampeyan nggunakake __magisk_hide__ - mateni sadurunge ngemot tembelan kasebut. Sawise ngaturake patrap kasebut, sampeyan bisa nguripake maneh.
+Yen ora, tembelan ora bakal sukses."</string>
+    <string name="help_games_protection_end">"
+Cara ndhelikake __app_name__ saka game ing ruang maya
+
+\u00091. Instal ruang maya, sing ngidini aplikasi instalasi sing didhelikake, tanpa nginstal ing sistem kasebut. Contone, __vspace_hide__.
+\u00092. Pasang __app_name__ ing ruang maya.
+\u00093. Ing __app_name__, aktifake mode \"__vspace_root__\".
+\u00094. Menehi hak akar menyang papan virtual. Yen sampeyan ora bisa menehi hak-hak ROOT - coba papan virtual liyane, hak-hak ROOT liyane, firmware beda utawa ngganti piranti kasebut.
+\u00095. Copot __app_name__ saka sistem kasebut.
+\u00096. Makarya kanthi __app_name__ saka ruang maya.
+
+Supaya ora bisa ditemokake nalika nggoleki:
+\u0009Pilih item 2, 3 lan 4 ing setelan \"__hide_from_game__\".
+
+Solusi khas (mbutuhake oyod, tanpa oyod ora bisa sukses):
+\u00091. Gunakake oyod saka ruang maya. Waca pitulung kanggo setelan \"__vspace_root__\".
+\u00092. Gunakake barang 2, 3 lan 4 ing setelan \"__hide_from_game__\".
+"</string>
+    <string name="force_close_2">Sampeyan bisa ngeset \"__data_in_ram__\" dadi \"__no__\" kanggo ngindhari kedadeyan kasebut.</string>
+    <string name="script_wrote">Skrip wrote __s__ kanggo __d__ file.</string>
+    <string name="script_exit">metu</string>
+    <string name="script_interrupted">Skrip diselani.</string>
+    <string name="script_error">kesalahan script</string>
+    <string name="script_oom">Kebak memorine</string>
+    <string name="script_possible">Nanging katon kaya sing nyoba kanggo nglakokaké __s__ minangka aksara.</string>
+    <string name="script_web">kaca web</string>
+    <string name="script_saved_list">dhaftar disimpen</string>
+    <string name="speedhack_no_x86">Nanging ing game iki ora Pustaka x86, supaya Mungkin iku ora bakal bisa.</string>
+    <string name="help_faq_33_q">pesen teks (toasts) tetep ing layar, utawa bunder peteng katon ing sisih ngisor layar nalika __app_name__ digunakake. Carane ndandani iku?</string>
+    <string name="help_faq_33_a">Nggunakake tingkat katelu \"__prevent_unload__\" ing sawetara perangkat kukuh ndadékaké kanggo kasunyatan sing pesen teks (toasts) tetep ing layar, utawa bunder peteng katon (pesen P). Yen mengkono, ora nganggo tingkat katelu.</string>
+    <string name="invalid_header_1">Salah header script binar.</string>
+    <string name="unknown_version">versi Unknown.</string>
+    <string name="unknown_format">format sing ora dingerteni.</string>
+    <string name="unknown_endianness">endianness Unknown.</string>
+    <string name="unknown_size_s">ukuran sing ora dingerteni saka __s__.</string>
+    <string name="unknown_size_instr">ukuran sing ora dingerteni saka instruction.</string>
+    <string name="unknown_size_num">ukuran Unknown number Lua.</string>
+    <string name="expected_found">Samesthine __s__ nanging ketemu __s__.</string>
+    <string name="or">utawa</string>
+    <string name="invalid_header_2">Mbukak script tho?</string>
+    <string name="invalid_header_3">"Ing versi mangsa __app_name__, script iki ora bisa mbukak.
+Nulis bab iki kanggo penulis saka script."</string>
+    <string name="skip_system_libs">Skip Pustaka sistem</string>
+    <string name="try_reinstall_x86">"Coba reinstalling game karo x86 Pustaka?
+
+Game bisa mungkasi digunakake sawise sing. Yen mengkono, instal maneh game saka apk dumunung ing __data_app__."</string>
+    <string name="reinstall_started">Reinstallation miwiti ...</string>
+    <string name="reinstall_failed">Reinstallation gagal:</string>
+    <string name="reinstall_ended">Reinstallation rampung.</string>
+    <string name="help_lasm_title">Mbongkar / ngumpul Tulisan</string>
+    <string name="help_lasm">"__app_name__ wis dibangun ing disassembler / assembler kanggo Tulisan Lua.
+
+Sampeyan bisa milih \"__debug_disassemble__\" pilihan ing jendela Bukak script, sawise ngeklik \"__more__\" tombol.
+
+asil __ext_lasm__ berkas bisa disunting lan milih ing jendela script Bukak. Asil bakal dadi binar __ext_lua__ file, karo owah-owahan digawe.
+
+Maca aksara API bantuan kanggo rincian liyane.
+"</string>
+    <string name="help_hide_gg_title">Cara kanggo ndhelikake __app_name__ saka game</string>
+    <string name="changed_as_search_result">Diganti minangka asil panelusuran</string>
+    <string name="changed_not_found">item diganti ora ketemu.</string>
+    <string name="too_far">Iki angka ora bisa ketemu liwat search grup, lagi adoh banget loro: __d__ bita. Ing kadohan maksimum __d__ bita.</string>
+    <string name="new_address">alamat anyar:</string>
+    <string name="hide_1_warn">Dipilih item kawitan. angka pembekuan bisa nimbulaké lags abot ing game.</string>
+    <string name="hide_4_warn">Dipilih item papat. Sawetara fitur ora bisa: __speedhack__, __unrandomizer__, __allocate_page__.</string>
+    <string name="asm_failed">Gagal kanggo ngenali __s__ opcode:</string>
+    <string name="asm_suggestion">Punapa panjenengan ngersakaken: __s__?</string>
+    <string name="copy_opcode">Nyalin __s__ opcode:</string>
+    <string name="search_nearby">Telusuri toko</string>
+    <string name="before">sadurunge</string>
+    <string name="after">sawise</string>
+    <string name="distance">Distance:</string>
+    <string name="nearby">Nearby:</string>
+    <string name="need_fixer">"A masalah iki dideteksi karo 64-dicokot papan virtual iki.
+
+Kanggo ndandani iku:
+
+1. Instal __fixer__ aplikasi. (Saka dialog iki, salah siji manual ing pinggir dalan:
+__s__
+).
+
+2. Nambah __fixer__ kanggo papan virtual.
+
+3. Run __fixer__ ing papan virtual.
+
+4. Copot __fixer__.
+
+5. Restart ing __app_name__ ing papan virtual."</string>
+    <string name="limit">Mung pisanan asil N:</string>
+</resources>

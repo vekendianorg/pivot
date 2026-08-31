@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lang_code">~~~my~~~</string>
+    <string name="front_text">သင္​့မွာ __app_name__ နဲ႔ပက္​သက္​ၿပီး ​ေမးျမန္​စရာတခုခု႐ွိပါက(သို႔) အသံုးျပဳပံုကို သိ႐ွိလိုပါက ကြၽန္​ုပ္​တို႔ရဲ႕ __forum__ သို႔ဝင္​​ေရာက္​​ေလ့လာႏိုင္​ပါတယ္​</string>
+    <string name="set_path">ယာယီ လမ္​း​ေၾကာင္​း</string>
+    <string name="number">နံပါတ္​</string>
+    <string name="type">အမ်ိဳးအစား</string>
+    <string name="name">အမည္​</string>
+    <string name="reset">ျဖစ္​စဥ္​​ေရြးခ်ယ္​ပါ</string>
+    <string name="set_range">Memory အထားအ​ေရြးပါ</string>
+    <string name="search">႐ွာ​ေဖြပါ</string>
+    <string name="save">သိမ္​းမည္​</string>
+    <string name="goto1">သြားရန္​</string>
+    <string name="address">လိပ္​စာ</string>
+    <string name="edit_all">အားလံုးျပင္​ရန္​</string>
+    <string name="filter">သီးသန့္ ​စစ္​ထုတ္​မည္​</string>
+    <string name="clear">ဖယ္​႐ွားမည္​</string>
+    <string name="max_show_rec">ျပသ</string>
+    <string name="equal">မ​ေျပာင္​းရ​ေသး​ေသာ</string>
+    <string name="inequal">​ေျပာင္​းၿပီးၿပီ</string>
+    <string name="larger">တိုးျမင္​ၿပီၿပီ</string>
+    <string name="smaller">​ေလ်ာ့ခ်ၿပီးၿပီ</string>
+    <string name="compare_current_last">ပမာဏ ဘယ္​​ေလာက္​​ေျပာင္​းလဲခဲ့သလဲ</string>
+    <string name="write_region_log">နယ္​​ေျမ Log ​ေရးပါ</string>
+    <string name="old_version">ဗား႐ွင္​းအ​ေဟာင္​း</string>
+    <string name="found_old_version">__app_name__ ဗား႐ွင္​းအ​ေဟာင္​း​ေတြ႔ပါသည္​၊ ၄င္​းကို ထုတ္​လိုပါသလား ?</string>
+    <string name="yes">လုပ္​ပါမည္​</string>
+    <string name="no">မလုပ္​ပါ</string>
+    <string name="ok">အို​ေက</string>
+    <string name="failed_find_package_name">application package အမည္​႐ွ​​ေဖြ၍မရပါ</string>
+    <string name="path_for_temp_files">"ယာယီဖိုင္​မ်ားအတြက္​ လမ္​း​ေၾကာင္​းတစ္​ခုလုပ္​​ေပးပါ၊ ဥပမာ- '__sdcard__' ၊ ၄င္​းဟာ အနည္​းငယ္​​ေသာရာႏွင္​့ခ်ီ​တဲ့ ​ေနရာလြတ္​​M​ေတြ လိုအပ္​ပါလိမ္​့မယ္​၊ ယခုလက္​႐ွိ ႐ွာ​ေဖြမႈ့ရလဒ္​​ေတြ ဆံုး႐ွံုးပါလိမ္​့မယ္​"</string>
+    <string name="confirm">အတည္​ျပဳသည္​</string>
+    <string name="cancel">ပယ္​ဖ်က္​သည္​</string>
+    <string name="found_new_version">ဗား႐ွင္​းအသစ္​​ေတြ႔ပါသည္​ __s__</string>
+    <string name="daemon_failed">Daemon ဆံုး႐ွံုးသည္​</string>
+    <string name="failed_run_daemon">daemon လုပ္​၍မရပါ၊ root ထည္​့ထားပါသလား?</string>
+    <string name="daemon_unexpected_closed">"မ​ေမ်ာ္​လင္​့ပဲ Daemon ပိတ္​သြားပါတယ္​ ၊ အ​ေသးစိတ္​အခ်က္​အလက္​ "</string>
+    <string name="daemon_exited">Daemon ထြက္​သြားပါတယ္​</string>
+    <string name="failed_load_daemon">daemon ႐ွာတင္​ရန္​ မရပါ</string>
+    <string name="is_device_rooted">Root လက္​ခံခ်က္​ ရ႐ွိရန္​ မတတ္​ႏိုင္​ပါ</string>
+    <string name="collect_data_to_region_log">Region Log​ေရးရန္​အတြက္​ ​ေဒတာစုစည္​းျခင္​း စတင္​ၿပီးပါၿပီ</string>
+    <string name="log_saved">Log ကို __s__ သို႔သိမ္​းၿပီးပါၿပီ</string>
+    <string name="failed_save">__s__ သို႔ သိမ္​းရန္​ မ​ေအာင္​ျမင္​ပါ</string>
+    <string name="region_log">နယ္​နိမိတ္​ Log</string>
+    <string name="apply">သက္​​ေရာက္​မည္​</string>
+    <string name="error">Error</string>
+    <string name="load">ျပန္​ထည့္​သြင္​းမည္​</string>
+    <string name="delete_prompt">ဒီအခ်က္​အလက္​​ေတြကို ဖယ္​႐ွားလိုပါသလား?</string>
+    <string name="reset_search">ERROR ႐ွိ​ေနပါတယ္​၊ ႐ွာ​ေဖြမႈ့မ်ားအားျပန္​လည္​စတင္​ပါ</string>
+    <string name="unknown_error">အမည္​မသိ Error</string>
+    <string name="out_of_memory">Memory ကုန္​​ေနပါၿပီ</string>
+    <string name="bug_detected">Bug ​ေတြ႔​ေနရပါသည္​</string>
+    <string name="disk_full">Diskျပည္​​ေနပါသည္​</string>
+    <string name="io_error">IO error</string>
+    <string name="game_dead">ဂိမ္​းအသက္​မဝင္​​ေတာ့ပါ</string>
+    <string name="exit">ထြက္​မည္​</string>
+    <string name="skip">လစ္​လ်ဴ႐ွဳ႔ထားမည္​</string>
+    <string name="unhandled_exception">ခြၽင္​းခ်က္​အား မထိန္​းသိမ္​းႏိုင္​ပါ. ​ေအာက္​ပါ အခ်က္​မ်ားအားDevelopment Team သို႔​ေပးပို႔ပါ</string>
+    <string name="last_run_failed">​ေနာက္​ဆံုးျပဳလုပ္​မႈ့ က်ရံုးသည္​</string>
+    <string name="thank_you">​ေက်းဇူးတင္​ပါတယ္​</string>
+    <string name="no_application">Application ​ေရြးခ်ယ္​ထားျခင္​း မ​​႐ွိ ​ေသးပါဘူး</string>
+    <string name="increments">တိုးတက္​မ်ားျပားလာျခင္​း</string>
+    <string name="add_not_replace">တန္​းဖိုးပမာဏထည္​့သြင္​းျခင္​း၊ အစားထိုးျခင္​းမဟုတ္​ပါ</string>
+    <string name="eperm_error">PTRACE_ATTACH error​: ျဖစ္​စဥ္​အားခြင္​့မျပဳထားပါ</string>
+    <string name="load_list">မွတ္​တမ္​းအား တင္​သြင္​းမည္​</string>
+    <string name="load_warning">သင်ကဂိမ်း၏အခြားဥပမာအားဖြင့်ထံမှသိမ်းပြီးပါပြီတဲ့စာရင်းထဲမှာ loaded ။ အများစုမှာဖွယ်ရှိခြင်း, မှတ်ဉာဏ်ထဲမှာလိပ်စာတွေအားလုံးကိုယခင်ကကယ်တင်ခြင်းသို့ရောက်ရ၏ခဲ့အချက်အလက်များကိုက်ညီခြင်းမရှိပါကြောင်းဒေတာပြောင်းလဲတင်ပါပြီ။ အကြှနျုပျတို့သညျဤအစစ်ဆေးအကြံပြုပါသည်။</string>
+    <string name="from">Completed __d__ __d__ ထံမှအဆင့်ဆင့်</string>
+    <string name="count_fuzzy_equal_run">"'' __fuzzy_equal__ '' run ဖို့အကြိမ်အရေအတွက်:"</string>
+    <string name="slow">နှေးနှေး</string>
+    <string name="miui_restart">__app_name__ လုံခြုံရေးခွင့်ပြုချက်လျှောက်ထားနိုင်ရန်အတွက်ပြန်လည်စတင်ရန်လိုအပ်ပါသည်။</string>
+    <string name="out_of_memory_error">မှတ်ဉာဏ်အမှားထဲက။ လက်ရှိရလဒ်စာရင်းရှင်းလင်း။ ပြသနိုင်ဖို့ရလဒ်များကို၏နံပါတ်တစ်ငယ်များတန်ဖိုးကိုသတ်မှတ်ပါ။</string>
+    <string name="loading">Loading ...</string>
+    <string name="found_count">Found: __d__</string>
+    <string name="fuzzy_equal">value ကိုမပြောင်းလဲ</string>
+    <string name="fuzzy_inequal">value ကိုပြောင်းလဲသွားတယ်</string>
+    <string name="fuzzy_larger">value ကိုတိုးမြှင့်</string>
+    <string name="fuzzy_smaller">value ကိုလျော့နည်းသွား</string>
+    <string name="type_edit_limit">__s__ ထံမှ __s__ မှ input တန်ဖိုးကို</string>
+    <string name="number_name">ဂဏန်း</string>
+    <string name="step_name">increment</string>
+    <string name="number_less">"နံပါတ် '' __s__ 'ဤအမျိုးအစားများအတွက် (__d__) နိမ့်ဆုံးတန်ဖိုးကထက်လျော့နည်းသည်။"</string>
+    <string name="number_greater">"နံပါတ် '' __s__ 'ဤအမျိုးအစားများအတွက် (__d__) အများဆုံးတန်ဖိုးကိုထက် သာ. ကြီးမြတ်သည်။"</string>
+    <string name="about">အကွောငျး</string>
+    <string name="owner">ပိုင်ဆိုင်သူ</string>
+    <string name="design">ခဲဒီဇိုင်နာ</string>
+    <string name="pm">စီမံကိန်းကိုစီမံခန့်ခွဲမှု</string>
+    <string name="code">ခဲဝိဉာဉ်</string>
+    <string name="tech">နည်းပညာပိုင်းဆိုင်ရာအကြံပေး</string>
+    <string name="creator">ဖန်တီးသူ (အငြိမ်းစား)</string>
+    <string name="for_translators">သင်နှင့်အတူကူညီခြင်းသို့မဟုတ် application ကိုတစ်ဘာသာပြန်ချက်လုပ်ဖို့လိုလျှင်, သင်သည်သင်၏ဘာသာပြန်ချက်လျှောက်လွှာ၏တရားဝင်ဖြန့်ချိတွင်ထည့်သွင်းရ, ထိုဖိုရမ် http://gameguardian.net/forum အပေါ်ကျွန်တော်တို့ကိုဆက်သွယ်နိုင်သည်။</string>
+    <string name="version">ဗားရှင်း:</string>
+    <string name="developers">developer များ:</string>
+    <string name="select_language">ဘာသာစကားကိုရွေးချယ်ပါ</string>
+    <string name="exit_confirm">__app_name__ အပြောင်းအလဲများကိုလျှောက်ထားရန်ပြန်လည်စတင်ရန်လိုအပ်ပါသည်။</string>
+    <string name="special_thanks">အထူးကျေးဇူးတင်စကား:</string>
+    <string name="nothing_found">အဘယ်အရာကိုမျှတွေ့ရှိခဲ့ပါတယ်။ နောက်တဖန်ရှာဖွေဖို့ကြိုးစားပါ။</string>
+    <string name="try_more_ranges">သငျသညျကိုလညျး setting များကို tab ကိုပိုမိုပ္ပံရွေးချယ်ဖို့ကြိုးစားနိုင်ပါ။</string>
+    <string name="try_fuzzy_search">သင်တို့သည်လည်းအမည်မသိတန်ဖိုးကိုရှာဖွေဖို့ကြိုးစားနိုင်ပါတယ်။</string>
+    <string name="search_hint">"တစ်ဦးဟုလူသိများတန်ဖိုးစာနယ်ဇင်း \"__search_known_value__\" ကိုရှာဖွေရန်။
+တန်ဖိုးကိုမသိသောသို့မဟုတ် encrypt လုပ်ထားတဲ့သည်ဆိုပါက - ရှာဖွေရန် \"__search_unknown_value__\" ကိုကလစ်နှိပ်ပါ။
+သူတို့ရဲ့ကိန်းတစ်စိတ်တစ်ပိုင်းအားဖြင့်ကတော့ float တန်ဖိုးများကိုရှာရန်ကို '__type_auto__' 'ရှာဖွေရေး type ကိုရွေးချယ်ခြင်းဖြင့်ဖျော်ဖြေနိုင်ပါသည်။
+သင်တို့ကိုလည်းသီးခြားအဖြစ် '' __semicolon__ '' နှင့်အတူအဖွဲ့တစ်ဖွဲ့ရှာဖွေရေးကိုသုံးနိုင်သည်။"</string>
+    <string name="freeze">အေးခဲ:</string>
+    <string name="freeze_normal">သာမန်</string>
+    <string name="freeze_may_increase">တိုးမြှင့်စေခြင်းငှါ</string>
+    <string name="freeze_may_decrease">လျော့စေခြင်းငှါ</string>
+    <string name="freeze_in_range">အကွာအဝေးအတွက်</string>
+    <string name="range_end_fail">"အကွာအဝေးအဆုံး ( '__s__') '' __s__ '' ထက် သာ. ကြီးမြတ်ဖြစ်ရပါမည်။"</string>
+    <string name="failed_add_window">ဝင်းဒိုးကို add ရန်မအောင်မြင်ခဲ့ပါ</string>
+    <string name="failed_remove_window">ဝင်းဒိုးကိုဖယ်ရှားပစ်ရန်မအောင်မြင်ခဲ့ပါ</string>
+    <string name="system_service_stopped">စနစ်ဝန်ဆောင်မှုရပ်တန့်ခဲ့လို့ဒီ application ပုံမှန်အလုပ်လုပ်နိုင်မှာမဟုတ်ဘူး။ လျှောက်လွှာကိုပြန်လည်စတင်ကြိုးစားပါဒါမှမဟုတ်စက်ကို reboot ။</string>
+    <string name="value_request">ရှာတန်ဖိုး Enter</string>
+    <string name="type_request">ရှာဖွေသည့်ဒေတာအမျိုးအစားကိုရွေးချယ်ပါ</string>
+    <string name="type_change_request">ပြောင်းလဲမှုဖို့ဒေတာအမျိုးအစားကိုရွေးပါ</string>
+    <string name="value">အဘိုး</string>
+    <string name="save_as">အဖြစ် Save:</string>
+    <string name="restart">ပြန်စတင်သည်</string>
+    <string name="start">စတင်</string>
+    <string name="wait_daemon">daemons run မပါလျှင်ဒီ function မရရှိနိုင်။ daemons တက်စတင်သည်သည်အထိစောင့်ပါ။ (သင်အမြစ်ဝင်ရောက်ခွင့်ပေးသနားတော်မူဖို့မေ့လျော့ခဲ့သလားဒါမှမဟုတ်အမြစ်မတပ်ဆင်ရသေးတာဖြစ်ပါတယ်?)</string>
+    <string name="daemon_fail">daemons run မ</string>
+    <string name="config_icon_text">အိုင်ကွန်: င့်လင်းမြင်သာ = __d__ %%, ဝှက် - __s__</string>
+    <string name="icon_hide_after">__d__ စက္ကန့်အကြာတွင်</string>
+    <string name="icon_hide_never">ဘယ်တော့မှ</string>
+    <string name="keyboard">keyboard ကို:</string>
+    <string name="internal">internal</string>
+    <string name="external">ပြင်ပ</string>
+    <string name="failed_copy_text">အဆိုပါ clipboard ထံစာသားကိုကော်ပီကူးရန်မအောင်မြင်ခဲ့ပါ:</string>
+    <string name="copied">ကူးယူ</string>
+    <string name="copy_value">တန်ဖိုး copy:</string>
+    <string name="copy_address">လိပ်စာ copy:</string>
+    <string name="goto_address">လိပ်စာသို့သွားပါ:</string>
+    <string name="search_unknown_value">အမည်မသိ (fuzzy) ရှာဖွေရေး</string>
+    <string name="search_known_value">လူသိများ (အတိအကျ) ရှာဖွေရေး</string>
+    <string name="speedhack_hint">ဂိမ်းရဲ့ Speed ​​ကိုပြောင်းလဲပစ်ရန်, ရေပေါ် __app_name__ အိုင်ကွန်ပေါ်မှာတာရှည်စာနယ်ဇင်းလုပ်ဆောင်။</string>
+    <string name="bad_firmware">သင့်ရဲ့ firmware ကိုဒီ feature များအသုံးပြုမှုတားဆီးကြောင်းအမှားအယွင်းများရှိနေသည်။</string>
+    <string name="language">ဘာသာစကား</string>
+    <string name="acceleration">interface အရှိန်:</string>
+    <string name="hardware">hardware</string>
+    <string name="software">Software များ</string>
+    <string name="speedhack">Speedhack</string>
+    <string name="data_in_ram">အဆိုပါ RAM ထဲမှာ data:</string>
+    <string name="first_mb">ပထမဦးဆုံးအ __d__ ကို MB</string>
+    <string name="donate">ပေးကမ်း</string>
+    <string name="speeds">အမြန်နှုန်း</string>
+    <string name="floating_window_fail">ရေပေါ် window ကိုပြသနိုင်ခြင်း</string>
+    <string name="check">verification</string>
+    <string name="check_success">verification အောငျမွငျခဲ့</string>
+    <string name="enable_draw_perm">လာမယ့် screen ပေါ်မှာခွင့်ပြုချက်ကို enable ပေးပါ။</string>
+    <string name="speedhack_fail">ဤလုပ်ငန်းစဉ်များအတွက် Speedhack ပံ့ပိုးပေးမထားပါ</string>
+    <string name="dangerous">အန္တရာယ်</string>
+    <string name="difference">ခြားနားချက်</string>
+    <string name="old_value">ဟောငျးတန်ဖိုးကို</string>
+    <string name="new_value">နယူးတန်ဖိုးကို</string>
+    <string name="mode_hacking">တန်ဖိုး encrypted ဖြစ်ပါတယ်</string>
+    <string name="union">Group မှရှာဖွေရေး</string>
+    <string name="speedhack_open">သငျသညျရှည်မျော __app_name__ icon ပေါ်တွင်နှိပ်ခြင်းဖြင့် speedhack ဖွင့်နိုင်ပါတယ်။</string>
+    <string name="history">မှတ်တမ်း</string>
+    <string name="history_empty">မှတ်တမ်းမရှိပါ</string>
+    <string name="allow_suggestions">ကီးဘုတ်ကနေအကြံပြုချက်များ Allow:</string>
+    <string name="invalid_area">Group မှအရွယ်အစား __d__ နှင့် __d__ တို့အကြားဖြစ်ရပါမည်:</string>
+    <string name="union_need_two_numbers">Group အလိုက်ရှာဖွေရင် ဂဏန်းနှစ်လုံးအနည်းဆုံးဖြစ်ရမယ်</string>
+    <string name="too_many_union_numbers">ထက် ပို. များပြားလွန်းနံပါတ်များ,:</string>
+    <string name="invalid_number">မှားနေသောအရေအတွက်:</string>
+    <string name="input_number">input number ကို</string>
+    <string name="number_out_of_range">"နံပါတ်ဖြစ်နိုင်သောအကွာအဝေးထဲက '' __s__ ':"</string>
+    <string name="help_floating_icon">"* အဆိုပါရေပေါ်အိုင်ကွန်:
+\u0009* အ interface ကိုဖွင့်လှစ်ရန်ကိုအသာပုတ်။
+\u0009* ကိုအသာပုတ်နှင့် speedhack panel ကို toggle မှကိုင်ထားပါ။
+\u0009* ဒါဟာအိုင်ကွန်ဆွဲခြင်းနှင့်ကျဆင်းနေခြင်းဖြင့်မည်သည့်အရပ်မှပြောင်းရွေ့နိုင်ပါတယ်။
+\u0009* င့်လင်းမြင်သာခြင်းနှင့်ဝှက် timer နေရာမှာ app ကို setting တွင်စိတ်ကြိုက်နိုင်ပါသည်။
+"</string>
+    <string name="help_exact_search">"* အတိအကျရှာဖွေရေး:
+\u0009ဂိမ်းတစ်ခုအနေဖြင့် __app_name__ မှ 1. ပြောင်းလဲမည်။
+\u00092. \"__search__\" tab ကိုရှိ \"__search_known_value__\" ခလုတ်ကိုထိပုတ်ပါ။
+\u00093. Input ကိုဂိမ်းထဲမှာဖော်ပြပါတယ်သောအရေအတွက်ကို။
+\u00094. သင့်လျော်သောဒေတာအမျိုးအစားကိုရွေးပါသို့မဟုတ် \"__type_auto__\" ကိုရွေးချယ်ပါ (သင်သေချာမသိကြလျှင်) နှင့်အခြားရွေးစရာများ (လိုအပ်ပါက) နှင့် \"__search__\" ကိုကလစ်နှိပ်ပါ။
+\u00095. ရှာဖွေပြီးဆုံးသည့်အခါ, ရှာရလဒ်များစာရင်းထဲတွင်ပြသပါလိမ့်မည်။
+\u00096. နောက်ကျောဂိမ်းသွားပါ။ တန်ဖိုးပြောင်းလဲသွားပြီပြီးနောက်နောက်တဖန် __app_name__ သို့ပြောင်းပါ။
+\u0009ပြောင်းလဲတန်ဖိုးကိုများအတွက် 7. ရှာပါ။
+\u00098. များလွန်းရလဒ်များကိုရှိပါတယ်ဆိုပါက 6 step မှဆက်လက်။
+\u0009သာအနည်းငယ်ရလဒ်များကို left နေတယ်ဆိုရင် 9. , သင်တန်ဖိုး, ပြုပြင်မွမ်းမံသိုလှောင်သို့မဟုတ်အေးခဲဖို့ကြိုးစားနိုင်ပါတယ်။
+"</string>
+    <string name="help_speedhack">"* Speedhack:
+\u0009* ကိုအသာပုတ်နှင့် speedhack panel ကိုပြသနိုင်ရန်မျော icon ပေါ်မှာကိုင်ထားပါ။
+\u0009* ဂိမ်းမြန်နှုန်းကိုပြောင်းလဲရန်, အိုင်ကွန်၏တစ်ဖက်တစ်ချက်ပေါ်မြှားထိပုတ်ပါ။
+\u0009* ဂိမ်းမြန်နှုန်းကို reset လက်ရှိမြန်နှုန်းအရေအတွက်ကကိုအသာပုတ်ကိုင်ထားပါ။
+\u0009* ကိုအသာပုတ်နှင့် speedhack panel ကိုဖုံးကွယ်ထားရန်အရေပေါ်အိုင်ကွန်ကိုင်လော့။
+\u0009* ကိုသုံးအမြန်နှုန်းနှင့်တိုင်မားများစာရင်း app ကို setting တွင်စိတ်ကြိုက်နိုင်ပါသည်။
+* ဂိမ်း __app_name__ setting များကိုအခြားအစိမ်းရောင်တိုင်မားသုံးပြီးကြိုးစား, အလုပ်မလုပ်ပါဘူး input ကိုသို့မဟုတ် speedhack တုံ့ပြန်မပါဘူးဆိုရင်။
+\u0009* သင်ကအချိန်အတွက်ရှေ့ဆက်ခုန်ဖို့ \"__time_jump__\" ကိုသုံးနိုင်သည်။ ရုံရှာဖွေရေး tab ကိုအပေါ် menu ကို select လုပ်ပါနှင့် \"__time_jump__\" ကိုရွေးချယ်ပါ။ သငျသညျခုန်ဖို့မည်မျှစက္ကန့်ကိုသတ်မှတ်ဖို့လိုအပ်ပါလိမ့်မယ်။ ခုန်ရန်ငွေပမာဏဒဿမကိန်းရှိနိုင်ပါသည်။
+"</string>
+    <string name="help_fuzzy_search">"* မပီမသရှာဖွေရေး:
+\u0009ဂိမ်းတစ်ခုအနေဖြင့် __app_name__ မှ 1. ပြောင်းလဲမည်။
+\u00092. \"__search__\" tab ကိုရှိ \"__search_unknown_value__\" ခလုတ်ကိုထိပုတ်ပါ။
+\u00093. သင့်လျော်သောဒေတာအမျိုးအစားကိုရွေးပါသို့မဟုတ် \"__type_auto__\" ကိုရွေးချယ်ပါ (သင်သေချာမသိကြလျှင်) နှင့် \"__search__\" ကိုကလစ်နှိပ်ပါ။
+\u00094. ရှာဖွေပြီးဆုံးသည့်အခါ, ရှာရလဒ်များစာရင်းထဲတွင်ပြသပါလိမ့်မည်။
+\u0009သို့ပြန်သွားရန်ဂိမ်းမှ 5. ။ ပြောင်းလဲသွားတယ် (သို့မဟုတ်မပါ) တန်ဖိုးပြီးနောက်နောက်တဖန် __app_name__ သို့ပြောင်းပါ။
+\u00096. \"__search_unknown_value__\" ခလုတ်ကိုထိပုတ်ပါနှင့်တန်ဖိုးပြောင်းလဲသွားပြီဘယ်လိုများအတွက်အမျိုးအစားကိုရွေးချယ်ပါ။
+\u00097. များလွန်းရလဒ်များကိုရှိပါတယ်ဆိုပါကမှ 5 ခြေလှမ်းဆက်လက်။
+\u0009သာအနည်းငယ်ရလဒ်များကို left နေတယ်ဆိုရင် 8. , သင်တန်ဖိုး, ပြုပြင်မွမ်းမံသိုလှောင်သို့မဟုတ်အေးခဲဖို့ကြိုးစားနိုင်ပါတယ်။
+
+\u0009သငျသညျမှာ \"__more__\" ခလုတ်ကိုနှိပ်ခြင်းအားဖြင့်တန်ဖိုးအတိအကျကိုပြောင်းလဲမှုကိုသတ်မှတ်နိုင်ပါတယ်။
+\u0009သင်တစ်ဦးတိကျမှုတန်ဖိုးကိုအပြောင်းအလဲအဖြစ်အကွာအဝေးဝင်နိုင်သည်
+\u0009\u0009190__tilde__210
+\u0009တန်ဖိုးများ၏အကွာအဝေးပြင်ပတွင်ပြောင်းလဲမှုကိုသတ်မှတ်ပေးရန်, သငျသညျ input ကိုလုပ်နိုင်သည်မှာ:
+\u0009\u000910__tilde____tilde__4000
+"</string>
+    <string name="help_group_search">"* Group မှရှာဖွေရေး:
+\u0009ဂိမ်းတစ်ခုအနေဖြင့် __app_name__ မှ 1. ပြောင်းလဲမည်။
+\u00092. \"__search__\" tab ကိုရှိ \"__search_known_value__\" ခလုတ်ကိုထိပုတ်ပါ။
+\u0009အုပ်စုတစ်စုရှာဖွေရေးများအတွက် 3. Input အားရှာဖွေရေးတောင်းဆိုချက်။
+\u0009\u0009စီစဉ်ဖွဲ့စည်းမှုပုံစံ: တန်ဖိုးကို 1 __semicolon__ တန်ဖိုးကို 2 __semicolon__ ... __semicolon__ တန်ဖိုးကို N ကို __colon__ အုပ်စုအရွယ်အစား
+\u0009\u00092-__max_group__ တန်ဖိုးများကိုတစ်ချိန်တည်းမှာကိုရှာဖွေနိုင်ပါတယ်။ အဆိုပါ default အနေနဲ့အုပ်စုအရွယ်အစားအဆိုပါအုပ်စုအရွယ်အစား 2 နှင့် 65536 အကြားရှိရမည် 512. ဖြစ်ပါတယ်။
+\u0009\u0009သငျသညျ 195 နှင့် 6543 ကိုရှာဖွေချင်တယ်ဆိုရင်ဥပမာ, သငျသညျ input ကိုသင့်:
+\u0009\u0009\u0009195 __semicolon__ 6543
+\u0009\u0009၏သင်တန်းကိုသင်အုပ်စုအရွယ်အစား (300) ကိုသတ်မှတ်နိုင်သည်
+\u0009\u0009\u0009195 __semicolon__ 6543 __colon__ 300
+\u0009\u0009ဒါ့အပြင်သင်တဦးတည်းသို့မဟုတ်ထိုထက်ပိုဒေတာအမျိုးအစားကိုသတ်မှတ်နိုင်သည်
+\u0009\u0009\u0009195__type_dword_short__ __semicolon__ 6543
+\u0009\u0009ဤသူသည်သင်တို့ 195 နှင့် 6543 ကြောင်းကိုတစ်ဦး __type_auto__ တန်ဖိုးကိုသော __type_dword__ တန်ဖိုးကိုရှာဖွေချင်ဆိုလိုသည်။
+\u0009\u0009ဖြစ်နိုင်ပါ့မလားဒေတာအမျိုးအစားများကိုသူတို့ရှာဖွေရေး၌ရှိကြ၏ကဲ့သို့တူညီသောနေသောခေါင်းစဉ်:
+\u0009\u0009\u0009__type_byte__ - __type_byte_short__
+\u0009\u0009\u0009__type_word__ - __type_word_short__
+\u0009\u0009\u0009__type_dword__ - __type_dword_short__
+\u0009\u0009\u0009__type_xor__ - __type_xor_short__
+\u0009\u0009\u0009__type_qword__ - __type_qword_short__
+\u0009\u0009\u0009__type_float__ - __type_float_short__
+\u0009\u0009\u0009__type_double__ - __type_double_short__
+\u0009\u0009\u0009__type_auto__ - __type_auto_short__
+\u0009\u0009သင်တို့ကိုလည်း hex (နည်းနည်း-endian) သင်္ကေတအတွက်နံပါတ်တစ်ရေးနိုင်သည်
+\u0009\u0009\u0009__hex_example____hex__ __semicolon__ 6543
+\u0009\u0009သို့မဟုတ်ပြောင်းပြန် hex (ကြီးတွေ-endian) သင်္ကေတအတွက်:
+\u0009\u0009\u0009__hex_example____rhex__ __semicolon__ 6543
+\u0009\u0009input ကိုနောက်ထပ်သင်္ကေတများစေရန်, ပြည်တွင်းရေးကီးဘုတ်ပေါ်ရှိ \"__btn_hex__\" ခလုတ်ကိုအသုံးပြုပါ။
+\u0009(သင်သေချာမသိကြလျှင်) 4. ကို default အဖြစ်သုံးသင့်လျော်သောဒေတာအမျိုးအစားကိုရွေးပါ, သို့မဟုတ်ရှေးခယျြ \"__type_auto__\" ။ အခြားရွေးချယ်မှုရှာဖွေရေး၏ဤအမျိုးအစားများအတွက်အရေးမပါဘူး။ \"__search__\" ကိုနှိပ်ပါ။
+\u00095. ရှာဖွေပြီးဆုံးသည့်အခါ, ရှာရလဒ်စာရင်းထဲတွင်ပြသပါလိမ့်မည်။
+\u0009သို့ပြန်သွားရန်ဂိမ်းမှ 6. ။ တန်ဖိုးပြောင်းလဲသွားပြီပြီးနောက်နောက်တဖန် __app_name__ သို့ပြောင်းပါ။
+\u0009သင့်လျော်သောအပြောင်းအလဲတွေနဲ့ 7. ထပ်ခါတလဲလဲအုပ်စုတစ်စုရှာဖွေရေး။
+\u00098. များလွန်းရလဒ်များကိုရှိပါတယ်ဆိုပါကထပ် 6 နဲ့ 7 လုပ်ပါ။
+\u0009အနည်းငယ်သောရလဒ်များကို left နေတယ်ဆိုရင် 9. , သင်တန်ဖိုး, ပြုပြင်မွမ်းမံသိုလှောင်သို့မဟုတ်အေးခဲဖို့ကြိုးစားနိုင်ပါတယ်။
+
+\u0009သငျသညျတန်ဖိုးများကိုလေးစားအလို့ငှာချင်လျှင်နှစ်ကြိမ် __colon__ ကိုသတ်မှတ်။
+\u0009အုပ်စုအရွယ်အစားမရှိရင်:
+\u0009\u0009195 __semicolon__ 6543 __colon____colon__
+\u0009အုပ်စုအရွယ်အစားနှင့်အတူ:
+\u0009\u0009195 __semicolon__ 6543 __colon____colon__ 300
+
+\u0009သငျသညျတန်ဖိုးများ၏အကွာအဝေးအတွင်းရှာဖွေနိုင်ပါတယ်:
+\u0009\u0009190__tilde__210 __semicolon__ 6543
+\u0009သင်တို့ကိုလည်းတန်ဖိုးများ၏အကွာအဝေးပြင်ပတွင်ရှာဖွေနိုင်ပါတယ်:
+\u0009\u000910__tilde____tilde__4000 __semicolon__ 6543
+"</string>
+    <string name="help_others">"* အခြားသူများ:
+\u0009* အသစ်များကိုရှာဖွေမှုများကို, သင် Menu ခလုတ်ကိုအောက်တွင်မီနူးထဲမှာ \"__clear__\" ကိုရွေးချယ်ခြင်းဖြင့်ယခင်ရှာဖွေရေးရလဒ်များကိုရှင်းလင်းရမည်ဖြစ်သည်။
+\u0009* အထက်လက်ဝဲဘက်ထောင့်ရှိဂိမ်း icon ပေါ်တွင်အခြားဂိမ်းကိုထိပုတ်ပါကိုရွေးပါရန်။
+\u0009* ခေတ္တရပ်တန့်ပြီးရန် / ဂိမ်းတစ်ခုပြန်လည်စတင် - အထက်လက်ဝဲဘက်ထောင့်ရှိအိုင်ကွန်အောက်ကခလုတ်ကိုထိပုတ်ပါ။
+\u0009ခေတ္တနားတက်ကြွနေစဉ်သင်တစ်ဦးဂိမ်းပြောင်းရန် အကယ်. * သင်သည် __app_name__ ဖွင့်လာမယ့်အချိန်, ထိုဂိမ်းကိုအလိုအလျောက်ခေတ္တရပ်တန့်ပါလိမ့်မည်။
+\u0009* အားလုံးအေးစက်နေတဲ့တန်ဖိုးများကိုအလိုအလျောက်ကယ်တင်ခြင်းသို့စာရင်းထည့်သွင်းထားပါသည်။ သင်ကသင့်လျော်တဲ့ tab အောက်မှာသူတို့ကိုစီမံနိုင်သည်။
+\u0009* အားလုံး input ကိုဒေတာကို \"__history__\" စာရင်းကယ်တင်တော်မူ၏။ သင်ကသမိုင်း button ကိုနှိပ်ခြင်းဖြင့်သူတို့ကိုကိုသုံးနိုင်သည်။
+"</string>
+    <string name="help_typical_usage">"* ပုံမှန်အသုံးပြုမှု algorithms:
+
+1) တန်ဖိုး encrypted နှင့်မသိရသည်။
+\u0009ပုံမှန်အမှုငွေ, ကြယ်ဒင်္ဂါးပြား, အရင်းအမြစ်များ, စတာတွေအဘို့ဖြစ်လိမ့်မယ်လို့
+
+\u0009အတိအကျရှာဖွေရေးကိုသုံးပါ။
+
+2) တန်ဖိုးမသိသောနှင့် / သို့မဟုတ် encrypt လုပ်ထားသည်။
+အမည်မသိတန်ဖိုးပုံမှန်ကိစ္စတွင် - ဆိုစကေး / ဘား။ စသည်တို့ကိုဥပမာကျန်းမာရေး, Mana, nitro သည်အဆိုပါပြောင်းလဲမှုများကိုမြင်ကြပေမယ့်မျှကိန်းဂဏန်းတန်ဖိုးများကိုမြင်နိုင်ဖြစ်ကြ၏။
+\u0009encrypt လုပ်ထားတန်ဖိုးများများအတွက်ပုံမှန်အမှုစသည်တို့ကိုပိုက်ဆံ, ကြယ်ဒင်္ဂါးပြား, ပါလိမ့်မယ်, ဒါပေမယ့် 1 algorithm နှင့်အတူရှာဖွေတဲ့အခါမှာဘာမှ, ဒါမှမဟုတ်တွေ့ရှိခဲ့တန်ဖိုးပြောင်းလဲမှုဂိမ်းအတွက်ပြောင်းလဲနေတဲ့နံပါတ်များကိုဦးတည်သွားစေပါဘူးရှာမထားဘူး။
+
+\u0009fuzzy ရှာဖွေရေးကိုသုံးပါ။
+
+
+3) အဆိုပါတန်ဖိုး (__mode_hacking__) encrypted ဖြစ်ပါတယ်။
+\u0009encrypt လုပ်ထားတန်ဖိုးများများအတွက်ပုံမှန်အမှုစသည်တို့ကိုပိုက်ဆံ, ကြယ်ဒင်္ဂါးပြား, ပါလိမ့်မယ်, ဒါပေမယ့် 1 algorithm နှင့်အတူရှာဖွေတဲ့အခါမှာဘာမှ, ဒါမှမဟုတ်တွေ့ရှိခဲ့တန်ဖိုးပြောင်းလဲမှုဂိမ်းအတွက်ပြောင်းလဲနေတဲ့နံပါတ်များကိုဦးတည်သွားစေပါဘူးရှာမထားဘူး။
+
+\u0009အတိအကျရှာဖွေရေးကိုသုံးပါ, ဒါပေမယ့်အမြဲတမ်း checkbox ကို \"__mode_hacking__\" ကိုရွေးချယ်ပါ။
+\u0009ရလဒ်တွေကိုစာဝှက်စနစ်ကြောင့်ထူးဆန်းတဲ့တန်ဖိုးများရှိစေခြင်းငှါတွေ့ရှိခဲ့ပါတယ်။
+
+algorithm 3 2 ထက်အများကြီးပိုမြန်ဖြစ်ပါသည်, သို့သော်အားလုံးဂိမ်းအတွက်အလုပ်လုပ်နိုင်မည်မဟုတ်ပါ။
+
+4) တန်ဖိုး, encrypted လူသိများနှင့်အခြားထင်ရှားတန်ဖိုးများအနီးတွင်ထားရှိမပေးပါ။
+\u0009ပုံမှန်အမှုစတိုးဆိုင်, သူရဲကောင်း stats, စတာတွေအတွက်စျေးနှုန်းအဘို့ဖြစ်လိမ့်မယ်လို့
+
+\u0009တဦးတည်းအချိန်အားလုံးကိုနံပါတ်များအဘို့အုပ်စုတစ်စုရှာဖွေရေးကိုသုံးပါ။
+"</string>
+    <string name="help_hints">"* သဲလွန်စ:
+
+\u0009* အားလုံးကတော့ဂိမ်းဥပမာ __app_name__. ပုံမှန်စာရင်းပြုပြင်နိုင်ပါသည်:
+\u0009\u0009ဆာဗာမှာသိမ်းထားတဲ့ * ဒေတာ (Server-တဖက်သတ်ဂိမ်း)
+\u0009\u0009* ဂိမ်းမြဲအင်တာနက်ကွန်နက်ရှင်လိုအပ်ပါတယ်
+\u0009\u0009အခြားကစားသမားနှင့်အတူ * ကွန်ယက်ကိုကစား
+\u0009\u0009* သင်ကစားပွဲရဲ့ start မှာချိတ်ဆက်ဖို့ဆာဗာကိုရွေးပါရန်လိုအပ်ပါတယ်
+\u0009\u0009* သင်အင်တာနက်မပါဘဲအရာအခြို့ကိုမသုံးလို့ရပါတယ်
+\u0009\u0009server ကနေ * ဂိမ်းပြန်လည်ဒေတာသငျသညျအရာတစ်ခုခုကိုပြောင်းမယ်ဆိုရင်
+\u0009မြင်ကြဖြစ်ကြောင်း * တန်ဖိုးများအမြဲသူတို့သိုလှောင်ထားနေသောလမ်းအတိုင်းမရှိကြပေ။ သူတို့ကကွဲပြားခြားနားနိုင်ပါတယ်။ screen ပေါ်မှာဥပမာကျနော်တို့ 34 ကိုကြည့်ပါ, ဒါပေမယ့်မှတ်ဉာဏ်အတွက်တန်ဖိုး 34000 ဖြစ်ပါတယ်။
+\u0009* သင်တစ်ဦးတန်ဖိုးကို modify မနိုင်လျှင် - ဤတန်ဖိုးကိုထိခိုက်ထားတဲ့တန်ဖိုးများကိုပြုပြင်မွမ်းမံဖို့ကြိုးစားပါ။ ဥပမာအားဖြင့်, အစားရွှေပမာဏပြောင်းလဲနေတဲ့၏, သင်အရာများ၏စျေးနှုန်းကိုပြောင်းလဲရန်နှင့်ကရောင်းနိုင်ပါတယ်။ သို့မဟုတ်တစ်အနုတ်လက္ခဏာအဘိုးနှင့်ဝယ်ကြလော့။
+"</string>
+    <string name="help">ကူညီပါ</string>
+    <string name="help_floating_icon_title">အဆိုပါရေပေါ်အိုင်ကွန်</string>
+    <string name="help_exact_search_title">အတိအကျရှာဖွေရေး</string>
+    <string name="help_speedhack_title">Speedhack</string>
+    <string name="help_group_search_title">Group မှရှာဖွေရေး</string>
+    <string name="help_others_title">အခြားသူများက</string>
+    <string name="help_typical_usage_title">ပုံမှန်အသုံးပြုမှု algorithms</string>
+    <string name="help_hints_title">သဲလွန်စ</string>
+    <string name="value_format">value ကို format နဲ့</string>
+    <string name="format_hex">hex (နည်းနည်း-endian) သင်္ကေတ</string>
+    <string name="format_rhex">ပြောင်းပြန် hex (ကြီးတွေ-endian) သင်္ကေတ</string>
+    <string name="clear_selection">Clear ကိုရွေးချယ်ရေး</string>
+    <string name="invert_selection">selection ကိုပြောင်းပြန်လှန်ရန်</string>
+    <string name="select_all">အားလုံးကို Select လုပ်ပါ</string>
+    <string name="edit_selected">Edit ကိုရွေးချယ်ထားသည့်</string>
+    <string name="delete_selected">ရှေးခယျြထား Remove</string>
+    <string name="save_selected">ရွေးချယ်ထားသည့် Save</string>
+    <string name="nothing_selected">ရွေးချယ်ထားသည့်အဘယ်အရာကိုမျှ</string>
+    <string name="items_added">items (__d__) ကယ်တင်စာရင်းထဲမှာထည့်သွင်း</string>
+    <string name="no_items_for_editing">တည်းဖြတ်ရန်ပစ္စည်းများကိုမျှရှိနေပါသည်။</string>
+    <string name="edit_info">__s__ အဖြစ် Edit ကို __s__</string>
+    <string name="edit_all_info">Edit __d__ addresses as __s__</string>
+    <string name="autopause">Autopause ဂိမ်း:</string>
+    <string name="empty_list">"အဆိုပါကယ်တင်ခြင်းသို့စာရင်းဗလာဖြစ်နေသည်။
+သငျသညျရှာဖွေရေးရလဒ်စာရင်းထဲကဒါမှမဟုတ် memory ကိုအယ်ဒီတာကနေမှပစ္စည်းများထည့်သွင်းနိုင်ပါတယ်။
+ရိုးရှင်းစွာအလိုချင်သောဒြပ်စင်ကို select နှင့် Menu ထဲမှာ \"__save_selected__\" ကိုရွေးချယ်ပါ။
+နောက်ထပ်နည်းလမ်း - တန်ဖိုးတည်းဖြတ်စတင်ဖို့နဲ့ checkbox ကို \"__save_as__\" စစ်ဆေးပါ။
+ဒါ့အပြင်အားလုံးအေးစက်နေတဲ့တန်ဖိုးများကိုအလိုအလျှောက်ဤနေရာတွင်ထည့်သွင်းထားပါသည်။"</string>
+    <string name="empty_save">အဆိုပါကယ်တင်ခြင်းသို့စာရင်းဗလာဖြစ်နေသည်။ ကယ်ဖို့ဘာမျှရှိပါသည်။</string>
+    <string name="revert_selected">ရှေးခယျြထားပြန်ပြောင်း</string>
+    <string name="nothing_to_revert">ပြန်ပြောင်းဖို့ဘာမျှမ</string>
+    <string name="revert_prompt">ရွေးချယ်ထားသောပစ္စည်းများ (__d__) ပြန်ပြောင်း?</string>
+    <string name="download">ဒီ app ကနေဒေါင်းလုပ်လုပ်နိုင်ပါတယ်:</string>
+    <string name="format_string">string ကိုယ်စားပြုမှု</string>
+    <string name="forgot_h">"သငျသညျအဆုံးမှာ '' __hex__ 'ဖို့မေ့လျော့ခဲ့သလား"</string>
+    <string name="time_jump">အချိန်ခုန်</string>
+    <string name="time_jump_hint">ရှေ့ဆက်ခုန်ဖို့စက္ကန့်၏နံပါတ်ရိုက်ထည့်ပါ:</string>
+    <string name="hide_from_game">ဂိမ်းထဲကနေ __app_name__ Hide:</string>
+    <string name="last_stats">သင့်ရဲ့နောက်ဆုံးရှာဖွေရေးများအတွက် stats</string>
+    <string name="memory_access">မှတ်ဉာဏ်မှဝင်ရောက်ခွင့်:</string>
+    <string name="normal">သာမန်</string>
+    <string name="extended">တိုးချဲ့</string>
+    <string name="experimental">စမ်းသပ်</string>
+    <string name="installing">__app_name__ ဂိမ်းအားဖြင့်ထောက်လှမ်းထုတ်ပယ်ရန်ကျပန်းနာမည်ကိုယ်နှိုက်၏ပြန်လည် install ပြုလုပ်ဆောင်ရွက်။ စောင့်ပါ။</string>
+    <string name="failed_install">app ကို install လုပ်ရန်မအောင်မြင်ခဲ့ပါ။ ပြန်ကြိုးစားမည်?</string>
+    <string name="failed_uninstall">app ကို uninstall လုပ်ဖို့မရခဲ့ပါ။ ပြန်ကြိုးစားမည်?</string>
+    <string name="download_it">ဒေါင်းလုပ်</string>
+    <string name="more">နောက်ထပ်</string>
+    <string name="less">နည်းသော</string>
+    <string name="no_space">သင့်ရဲ့ device ကိုပေါ်တွင်နေရာလွတ်မရှိတော့ပါ</string>
+    <string name="install_cancel_prompt">မတပ်ဆင်ရသေးသည့်အခါ __app_name__ တွေ့ရှိနိုင်ပါတယ်။ သင်အမှန်တကယ်မပယ်ဖျက်ချင်ပါသလား</string>
+    <string name="intercept">ကြားဖြတ်</string>
+    <string name="need_restart">ပစ်မှတ် app ကိုဤပြောင်းလဲလျှောက်ထားရန်ပြန်လည်စတင်ရမည်ဖြစ်သည်။</string>
+    <string name="must_be_root">"ဤအစီအစဉ်၏စစ်ဆင်ရေးများအတွက်သင့်ရဲ့ device ကိုအမြစ်ရှိရမည်။
+
+__app_name__ တစ်ဦးကို virtual ပတ်ဝန်းကျင်မှတဆင့်အမြစ်မရှိဘဲကန့်သတ် mode မှာအလုပ်လုပ်နိုင်ပါတယ်။ ဥပမာအားဖြင့်, __vspace_list__ နှင့်အခြားသောမှတဆင့်။
+အသေးစိတ်များအတွက်အကူအညီကိုဖတ်ပါ။
+
+http://www.xda-developers.com/root/: မည်သည့် device ကို root လုပ်နည်း"</string>
+    <string name="skip_">ကြိုးခုန်</string>
+    <string name="indent_for_the_status_bar">မျက်နှာပြင်ရဲ့ထိပ်ပိုင်းကနေကုန်အမှာစာ UI ကို:</string>
+    <string name="start_collecting_data">ဒေတာစုဆောင်း Start</string>
+    <string name="data_collecting_in_progress">တိုးတက်မှုအတွက်အချက်အလက်ကောက်ယူမှု</string>
+    <string name="copy">မိတ္တူ</string>
+    <string name="show_logcat">Show ကို logcat</string>
+    <string name="path_must_be">"path မှာအနည်းဆုံး 2 ဇာတ်ကောင်ရှည်လျား '' / 'နှင့်အတူစတင်သည်ဖြစ်ရမည်။"</string>
+    <string name="fix_it">က fix</string>
+    <string name="change_log">ပြောင်းလဲမှုမှတ်တမ်း</string>
+    <string name="used_only_first">အသုံးပြုသောသာပထမဦးဆုံး __d__ ပစ္စည်းများ။</string>
+    <string name="need_select_more">__d__ သို့မဟုတ်ထိုထက်ပိုပစ္စည်းများကို select လိုအပ်ပါတယ်။</string>
+    <string name="offset">offset:</string>
+    <string name="result">ရလဒ်:</string>
+    <string name="copy_hex_value">အဆိုပါ hex တန်ဖိုးကို copy:</string>
+    <string name="goto_pointer">အဆိုပါညွှန်ကိုသွားပါ:</string>
+    <string name="offset_calculator">offset ဂဏန်းတွက်စက်</string>
+    <string name="fill_toolbar">toolbar ကိုဖြည့်ပါ:</string>
+    <string name="from_left">လက်ဝဲဘက်ကနေ</string>
+    <string name="from_center">အလယ်ဗဟိုကနေ</string>
+    <string name="from_right">ညာဘက် မှစ.</string>
+    <string name="unit_years_short">y က</string>
+    <string name="unit_days_short">ဃ</string>
+    <string name="unit_hours_short">ဇ</string>
+    <string name="unit_minutes_short">မိ</string>
+    <string name="unit_seconds_short">စက္က</string>
+    <string name="speed_info">ဂိမ်းအချိန်အတွက် = __s__ ကိုမှန်ကန်အချိန်အတွက် __s__</string>
+    <string name="search_helper">Search ကိုအထောက်အမ:</string>
+    <string name="off">သွား</string>
+    <string name="go_to_game">တန်ဖိုးများကိုအများကြီးတွေ့ရှိလျှင်, ဂိမ်းပြန် Go</string>
+    <string name="go_to_game_and_restore">တန်ဖိုးများကိုအများကြီးတွေ့ရှိလျှင်ပြန်ဂိမ်းသွားပြီးလာမယ့်ပွင့်လင်းပေါ်မှာရှာဖွေရေး mode ကို restore</string>
+    <string name="nothing">ဘာမြှ</string>
+    <string name="sort">စီ</string>
+    <string name="sort_and_remove_duplicates">ထပ်တူများကိုစီနှင့်ဖယ်ရှား</string>
+    <string name="help_basics_title">အခြေခံအချက်အလက်</string>
+    <string name="help_basics">"သငျသညျအပလီကေး start ပြီးနောက် \"__start__\" ခလုတ်ကိုနှိပ်ခြင်းအားဖြင့်တစ်ဦးရေပေါ်အိုင်ကွန်မျက်နှာပြင်ပေါ်တွင်ပေါ်လာပါလိမ့်မယ်။ ဒါဟာမဆိုတည်နေရာဆွဲငင်နိုင်ပါတယ်။
+အိုင်ကွန်ပေါ်မှာက Short စေးထွက်ရှိအဓိက application ကိုအင်တာဖေ့စ, ရှည်လျားထိပုတ်ပါဖွင့်လှစ်ပါလိမ့်မယ် - ဂိမ်းအမြန်နှုန်းပြောင်းလဲနေတဲ့များအတွက် panel ကိုပြသပါ။
+
+အဓိကမျက်နှာပြင်၌သင်တို့ကိုတွေ့မြင်နိုင်သည်
+\u0009* အထက်လက်ဝဲဘက်ထောင့်တွင် - ဂိမ်းအိုင်ကွန်။ ပေါ်မှာနှိပ်သင်သည်အခြားဂိမ်းကိုရွေးဖို့ခွင့်ပြုပါတယ်။
+\u0009* အလယ်ဗဟိုတွင်တည်ရှိပြီးအဆိုပါ tabs များမှတဆင့်သွားလာရန် bookmarks ကိုဖြစ်ကြသည်။ လိုချင်သော bookmark ကိုပေါ်နှိပ်သင့်လျော်သော tab ကိုပြသပေးပါတယ်။
+
+setting များကို, ရှာ, စာရင်းနှင့်မှတ်ဉာဏ်အယ်ဒီတာကယ်တင်ခြင်းသို့: စုစုပေါင်း 4 tabs များရှိပါသည်။
+\u0009* ကို interface အထက်ညာဖက်ထောင့်မှာမှာပိတ်ပွဲခလုတ်ကိုဖြစ်ပါတယ်။ အဲဒါကိုနှိပ်နှင့် interface ကိုဝှက်ထားလိမ့်မည်, တစ်ဦးရေပေါ်အိုင်ကွန်မျက်နှာပြင်ပေါ်တွင်ပေါ်လာပါလိမ့်မယ်။
+\u0009* မျက်နှာပြင်၏အောက်ခြေတွင်တစ်ပြ status bar နှင့်မျက်စိအိုင်ကွန်လည်းမရှိ။ သငျသညျကိုနှိပ်ခြင်းနှင့်မျက်စိ icon ပေါ်မှာကိုင်ထားလျှင်, အင်တာဖေ့စနေသမျှကာလပတ်လုံးသင်သည်သင်၏လက်ညှိုးကိုမလွှတ်ကြဘူးအဖြစ်, ပွင့်လင်းဖြစ်လာသည်။
+\u0009* မျက်နှာပြင်ပေါ်ရှိအကြောင်းအရာများကို၏ကြွင်းသောအရာသည်သင်တို့အပေါ်မှာရောက်နေရာ tab ကိုအပေါ်မူတည်ပါသည်။
+
+တစ်ဦးချင်းစီ tab ကိုတွင် setting များကို tab ကို မှလွဲ. တတ်နိုင်သမျှလုပ်ရပ်များအမျိုးမျိုးပါဝင်သည်သောမီနူးခလုတ်ကိုရှိ၏။ အထဲတွင်သင်ဤ tab ကိုများအတွက်အဓိကလုပ်ရပ်များတွေ့လိမ့်မည်။
+
+Settings tab ကို setting များကိုအကူအညီနှင့်လျှောက်လွှာနှင့်, ထွက်ပေါက်ခလုတ်ကိုအကြောင်းသတင်းအချက်အလက်အမျိုးမျိုးပါဝင်သည်။
+
+ရှာရန် tab ကိုပါရှိသည်:
+\u0009* ဆိုင်းငံ့ခလုတ်, ရွေးချယ်ထားသောဂိမ်း၏အမည်ကိုတွေ့ရလဒ်များ၏အရေအတွက်နှင့်ရဲ့ Refresh button ကို။
+\u0009* အောက်တွင်အမြန် access ကို icon များနှင့်တစ်ဦး menu ကိုခလုတ်နဲ့ panel ကဖြစ်ပါတယ်။ သငျသညျအိုင်ကွန်ရဲ့အဓိပ္ပာယ်ကိုမသိကြပါလျှင်ဒီတော့အားလုံး icon များ, မီနူးပေါ်မှာကူးနေကြတယ်, ဒါကြောင့်အမြဲတမ်း menu button ကို (ထို rightmost) ရက်နေ့တွင်နှိပ်ခြင်းအားဖြင့်ကြည့်ရှုအားပေးနိုင်ပါသည်။
+\u0009* သူတို့အား icon များအောက်တွင်ရှာဖွေရေးရလဒ်များကိုစာရင်းဖြစ်လိမ့်မည်။
+
+ကယ်တင်ခြင်းသို့ရောက်သောစာရင်း tab ကိုပါရှိသည်:
+\u0009* ဆိုင်းငံ့ခလုတ်, ရွေးချယ်ထားသောလျှောက်လွှာများ၏အမည်, Menu ခလုတ်ကိုနှင့်ရဲ့ Refresh button ကို။
+\u0009* သူတို့အား icon များအောက်တွင်သည်ကယ်တင်ခြင်းသို့ရောက်တန်ဖိုးများများစာရင်းဖြစ်လိမ့်မည်။
+
+မှတ်ဉာဏ်အယ်ဒီတာ tab ကိုအစားကြောင့်မှတ်ဉာဏ် contents တွေကိုပြသသည်ကယ်တင်ခြင်းသို့ရောက်တန်ဖိုးများများစာရင်းကိုသာဒီမှာယခင်ဆင်တူသည်။
+
+အားလုံးသုံးစာရင်းများ (ရှာဖွေရေးရလဒ်များကို, တန်ဖိုးများနှင့်မှတ်ဉာဏ်အယ်ဒီတာကယ်တင်ခြင်းသို့) ခုနှစ်တွင်, သင် Context Menu ကပြသနိုင်ဖို့အချက်တွေကိုအပေါ်တစ်ဦးရှည်လျားထိပုတ်ပါလုပ်ဆောင်နိုင်ပါတယ်။"</string>
+    <string name="daemon_killed">"daemons တစ်ခုခုအားဖြင့်သေဆုံးခဲ့ရသည်။
+
+အများအားဖြင့်ကဖြစ်နိုင်သည်
+\u00091. မဆိုမှတ်ဉာဏ်လူသတ်သမားသို့မဟုတ် optimizers ။ သင်သည်မည်သည့်လူသတ်သမားများကို disable သို့မဟုတ်ယင်း၏ setting တွင် __app_name__ အဖြူရောင်စာရင်းထည့်သွင်းရမည်ဖြစ်သည်။
+\u00092. __daemon_killed_oom__
+\u0009__app_name__ ပေါ်မှာယာယီဖိုင်တွေသိမ်းဆည်းထားစဉ် 3 မှတ်ဉာဏ်ကဒ်အားအထိုင်မှဖြုတ်ခဲ့သည်။ ဖြစ်ပျက်မှဤကာကွယ်တားဆီးဖို့, ယာယီဖိုင်တွေကိုတစ်ဦးကွဲပြားခြားနားသောလမ်းကြောင်းကိုသတ်မှတ်။ ဥပမာ, internal memory ထဲမှာ။"</string>
+    <string name="bad_settings">မကောင်းတဲ့ settings ကို</string>
+    <string name="freeze_lags">အတူတကွ setting ကို __hide_from_game__ နှင့်အတူအေးခဲတန်ဖိုးများကိုအသုံးပြုခြင်းဂိမ်းထဲမှာသုံးနေပြီဖြစ်ပေါ်စေနိုင်သည်။</string>
+    <string name="improve_translation">ဤဘာသာအလိုအလျောက်ဘာသာပြန်ဆိုသူအသုံးပြုနေသူများကဖန်တီးခဲ့ပါတယ်။ သင်တို့သည်ငါတို့၏စုပေါင်းဘာသာပြန်ချက်ဝန်ဆောင်မှုကိုအသုံးပြုခြင်းအားဖြင့်ဒါဟာတိုးတက်ကောင်းမွန်နိုင်ပါတယ်။</string>
+    <string name="freeze_interval">အေးခဲကြားကာလ:</string>
+    <string name="saved_list_update_interval">ကယ်တင်ခြင်းသို့ရောက်သောစာရင်း updates များကိုကြားကာလ:</string>
+    <string name="milliseconds_short">ဒေါ်</string>
+    <string name="disable_floating_windows">အဆိုပါရေပေါ်ပြတင်းပေါက် Disable နှင့် app ကိုပြန်လည်စတင်ရန်</string>
+    <string name="enable_floating_windows">အဆိုပါရေပေါ်ပြတင်းပေါက် Enable နှင့် app ကိုပြန်လည်စတင်ရန်</string>
+    <string name="too_many">များလွန်း</string>
+    <string name="help_range_search_title">range ရှာဖွေရေး</string>
+    <string name="help_range_search">"* Range ရှာဖွေရေး:
+\u0009ဂိမ်းတစ်ခုအနေဖြင့် __app_name__ မှ 1. ပြောင်းလဲမည်။
+\u00092. \"__search__\" tab ကိုရှိ \"__search_known_value__\" ခလုတ်ကိုထိပုတ်ပါ။
+\u00093. \"__tilde__\" ကကွဲကွာနေတဲ့နယ်စပ်ရှာဖွေရေးအကွာအဝေး, ရိုက်ထည့်ပါ။ ဥပမာအားဖြင့်, 100 ကနေ 150 မှတန်ဖိုးများကိုရှာရိုက်ထည့်ရန်:
+\u0009\u0009\u0009100__tilde__150
+\u0009\u0009အကွာအဝေးပြင်ပတွင်ရှာဖွေ, သင်နှစ်ကြိမ်ဇာတ်ကောင် \"__tilde__\" ကိုသတ်မှတ်နိုင်သည်
+\u0009\u0009\u0009100__tilde____tilde__150
+\u0009\u0009တနည်းအားဖြင့်, သင်နိမိတ် \"__not_equal__\" ကိုရွေးချယ်နိုင်ပြီးတစ်ချိန်ကဇာတ်ကောင် \"__tilde__\" ကိုသတ်မှတ်။
+\u0009\u0009input ကိုနောက်ထပ်သင်္ကေတများစေရန်, ပြည်တွင်းရေးကီးဘုတ်ပေါ်ရှိ \"__btn_hex__\" ခလုတ်ကိုအသုံးပြုပါ။
+\u00094. သင့်လျော်သောဒေတာအမျိုးအစားကိုရွေးပါသို့မဟုတ် \"__type_auto__\" ကိုရွေးချယ်ပါ (သင်သေချာမသိကြလျှင်) နှင့်အခြားရွေးစရာများ (လိုအပ်ပါက) နှင့် \"__search__\" ကိုကလစ်နှိပ်ပါ။
+\u00095. ရှာဖွေပြီးဆုံးသည့်အခါ, ရှာရလဒ်များစာရင်းထဲတွင်ပြသပါလိမ့်မည်။
+\u0009သို့ပြန်သွားရန်ဂိမ်းမှ 6. ။ တန်ဖိုးပြောင်းလဲသွားပြီပြီးနောက်နောက်တဖန် __app_name__ သို့ပြောင်းပါ။
+\u0009သင့်လျော်သောအပြောင်းအလဲတွေနဲ့ 7. ထပ်အကွာအဝေးရှာဖွေရေး။
+\u00098. များလွန်းရလဒ်များကိုရှိပါတယ်ဆိုပါကထပ် 6 နဲ့ 7 လုပ်ပါ။
+\u0009အနည်းငယ်သောရလဒ်များကို left နေတယ်ဆိုရင် 9. , သင်တန်ဖိုး, ပြုပြင်မွမ်းမံသိုလှောင်သို့မဟုတ်အေးခဲဖို့ကြိုးစားနိုင်ပါတယ်။
+
+\u0009ရှာဖွေရေးရလဒ်များကိုတွင်ထည့်သွင်းအကွာအဝေး၏နယ်နိမိတ်။ သင်ကအကွာအဝေးပိုင်ဘူးသမြှသောတန်ဖိုးများကိုရှာဖွေရှာဖွေရေး \"__not_equal__\" ၏အမျိုးအစားကိုရွေးနိုင်သည်။
+\u0009ဤရှာဖွေမှုများတွင်အားလုံးတန်ဖိုးများကိုလက်မှတ်ရေးထိုးခဲ့သည်ဟုယူဆနေကြသည်။
+"</string>
+    <string name="does_not_support">\"__s__\" \"__s__\" ကိုထောကျပံ့မပေးပါဘူး။</string>
+    <string name="range_bounds_diff_types">range ဘောငျတူညီတဲ့အမျိုးအစားဖြစ်ရပါမည်။</string>
+    <string name="examples">ဥပမာ</string>
+    <string name="rtfm">အသေးစိတ်ကိုအကူအညီနဲ့ဖတ်ပါ။</string>
+    <string name="icons_size">icons အရွယ်အစား:</string>
+    <string name="revert_and_remove">ပြန်ပြောင်းနှင့်ဖယ်ရှား</string>
+    <string name="remove">Remove</string>
+    <string name="ordered_group_search">အမိန့်အုပ်စုတစ်စုရှာဖွေရေး</string>
+    <string name="load_items">items</string>
+    <string name="load_values">တန်ဖိုးများ</string>
+    <string name="load_freeze">အေး။ ခဲ</string>
+    <string name="video_tutorials">ဗီဒီယိုကိုလဲ tutorial နှင့် hack ဖို့ဘယ်လိုလမ်းညွှန်</string>
+    <string name="make_copy">တစ်ဦးမိတ္တူ Make</string>
+    <string name="video">Videos မ</string>
+    <string name="ordered">အမိန့်ထုတ်</string>
+    <string name="toolbars">Toolbars</string>
+    <string name="saved_list">ကယ်တင်ခြင်းသို့ရောက်သောစာရင်း</string>
+    <string name="memory_editor">မှတ်ဉာဏ်အယ်ဒီတာ</string>
+    <string name="restart_game">ဂိမ်းကို restart လုပ်ပါ</string>
+    <string name="refine">စစ်</string>
+    <string name="internal_storage">internal storage</string>
+    <string name="external_storage">external storage</string>
+    <string name="new_search">နယူးရှာဖွေရေး</string>
+    <string name="load_saved_list">ဖိုင်ကိုထံမှကယ်တင်ခြင်းသို့စာရင်း load</string>
+    <string name="save_saved_list">ဖိုင်ကိုဖို့ကယ်တင်ခြင်းသို့စာရင်း Save</string>
+    <string name="append">ဖြည့်စွက်</string>
+    <string name="xor_key">XOR ကီး:</string>
+    <string name="only_memory">မှတ်ဉာဏ်အကွာအဝေးအတွင်းသာစစ်ဆေးနိုင်သည်</string>
+    <string name="dump_memory">မှတ်ဉာဏ်ကိုပစ်သိမ်းရန်</string>
+    <string name="path">path:</string>
+    <string name="dump_ended">dump အဆုံးသတ်</string>
+    <string name="dump_failed">မအောင်မြင်ပစ်သိမ်းရန်</string>
+    <string name="eperm_error_defend">ဖြစ်စဉ်ကို (PTRACE_ATTACH) မှပူးတွဲလို့မရပါ: ဂိမ်းကာကွယ်ထားသည်</string>
+    <string name="reset_on_exit">ထွက်ပေါက်အပေါ် Reset:</string>
+    <string name="kill_game">ဂိမ်းကိုသတ်</string>
+    <string name="kill_game_info">အတင်းအကြပ်လုပ်ငန်းစဉ်ရပ်စဲလုပ်ငန်းစဉ်သန့်ရှင်းမှုပိတ်ပစ်ရန်အခွင့်အလမ်းမပေးပါဘူးနှင့်အချက်အလက်ဆုံးရှုံးမှုသို့မဟုတ် system ကိုမတည်ငြိမ်မှုကိုဖြစ်ပေါ်စေနိုင်ပါတယ်။</string>
+    <string name="continue_ask">ဆက်လက်?</string>
+    <string name="copy_memory">Copy ကူးမှတ်ဉာဏ်</string>
+    <string name="copy_from">ကနေ Copy ကူး:</string>
+    <string name="paste_to">မှ paste:</string>
+    <string name="count_bytes">bytes Count:</string>
+    <string name="copy_ended">Copy ကူးမှတ်ဉာဏ်အဆုံးသတ်</string>
+    <string name="copy_failed">Copy ကူးမှတ်ဉာဏ်ပျက်ကွက်</string>
+    <string name="help_encrypted_search_title">encrypt လုပ်ထားတန်ဖိုးများကိုရှာရန်</string>
+    <string name="help_encrypted_search">"* encrypt လုပ်ထားတန်ဖိုးများကိုရှာရန်:
+\u0009ဂိမ်းတစ်ခုအနေဖြင့် __app_name__ မှ 1. ပြောင်းလဲမည်။
+\u00092. \"__search__\" tab ကိုရှိ \"__search_known_value__\" ခလုတ်ကိုထိပုတ်ပါ။
+\u00093. Input ကိုဂိမ်းထဲမှာဖော်ပြပါတယ်သောအရေအတွက်ကို။
+\u00094. သင့်လျော်သောဒေတာအမျိုးအစားကိုရွေးပါသို့မဟုတ် \"__type_auto__\" ကိုရွေးချယ်ပါ (သင်သေချာမသိကြပါလျှင်), အခြားမည်သည့်ရွေးစရာများ (လိုအပ်ပါက), \"__mode_hacking__\" စစျဆေးနှင့် \"__search__\" ကိုကလစ်နှိပ်ပါ။
+\u00095. ရှာဖွေပြီးဆုံးသည့်အခါ, ရှာရလဒ်များစာရင်းထဲတွင်ပြသပါလိမ့်မည်။
+\u00096. နောက်ကျောဂိမ်းသွားပါ။ တန်ဖိုးပြောင်းလဲသွားပြီပြီးနောက်နောက်တဖန် __app_name__ သို့ပြောင်းပါ။
+\u0009ပြောင်းလဲတန်ဖိုးကိုများအတွက် 7. ရှာပါ။ checkbox \"__mode_hacking__\" check လုပ်ထားရမည်ဖြစ်သည်။
+\u00098. များလွန်းရလဒ်များကိုရှိပါတယ်ဆိုပါက 6 step မှဆက်လက်။
+\u0009သာအနည်းငယ်ရလဒ်များကို left နေတယ်ဆိုရင် 9. , သင်တန်ဖိုး, ပြုပြင်မွမ်းမံသိုလှောင်သို့မဟုတ်အေးခဲဖို့ကြိုးစားနိုင်ပါတယ်။
+"</string>
+    <string name="help_faq_title">မကြာခဏမေးခွန်းများကိုမေးသော်</string>
+    <string name="help_faq_1_q">အဘယ်ကြောင့်ငါ 99 သို့မဟုတ် 60000 ထက် သာ. ကြီးမြတ်တဲ့တန်ဖိုးကိုမဝင်နိုင်နိုင်မလဲ?</string>
+    <string name="help_faq_1_a">သငျသညျ __type_dword__ များအတွက် __type_byte__ သို့မဟုတ် __type_word__. မျှော်၏တန်ဖိုးပိုကြီးတဲ့တန်ဖိုးများကိုရိုက်ထည့်မှတွေ့ရှိခဲ့ပါတယ်။</string>
+    <string name="help_faq_2_q">တန်ဖိုး၏ဒဿမကိန်းအစိတ်အပိုင်းတစ်ခုခြင်းမရှိဘဲ, ဒဿမကိန်း (__type_float__) တန်ဖိုးများကိုရှာဖွေရန်ဘယ်လိုနေသလဲ?</string>
+    <string name="help_faq_2_a">က \"__type_auto__\" ဒေတာအမျိုးအစားသို့မဟုတ်အကွာအဝေးရှာဖွေရေးကိုသုံးပါ။ ဥပမာအားဖြင့်, 11,345 များအတွက်သင် \"10__tilde__12\" အတွက်ရှာဖွေနိုင်ပါသည်။</string>
+    <string name="help_faq_3_q">ငါတန်ဖိုးကိုတွေ့ကြောင့်ပြောင်းလဲသွားတယ်, ဒါပေမယ့်ဂိမ်း၌ဤပြောင်းလဲမှုကိုဘာမှလုပ်မထားဘူး။ ကိုယ့်ကိုအသုံးပြုရန်ကြိုးစားနေတာပါဒါပေမယ့်အရာအားလုံးပြန်လာပါသည်။ ငါကမှားဘယ်သို့ပြုသလော</string>
+    <string name="help_faq_3_a">"အချို့ဂိမ်းထဲမှာ, တန်ဖိုးများကိုကာကွယ်စောင့်ရှောက်သို့မဟုတ် encrypt လုပ်ထားတဲ့နေကြသည်။ တန်ဖိုးကိုပြသမီ, တန်ဖိုးအခြား variable ကိုသို့စာဝှက်ဖြည်ထားတဲ့ဖြစ်ပါတယ်။ သင်ကပြောင်းလဲသွားတယ်။
+ဒီတန်ဖိုးကိုသာ display ကိုအသုံးပြုသည်ကတည်းကကြောင့်ဂိမ်းစက်ပြင်မထိခိုက်ပါဘူး။ အစားပြသတန်ဖိုးကိုထက်အစစ်အမှန်တန်ဖိုးရှာတွေ့ခြင်းငှါ, encrypt လုပ်ထားတန်ဖိုးကိုအဘို့အရှာဖွေရေး, သို့မဟုတ် fuzzy ရှာဖွေရေးကိုအသုံးပြုပါ။
+တခါတရံမှာတန်ဖိုးကိုဆာဗာမှာသိမ်းထားတဲ့စီအချိန်ညှိနေသည်။ ဤကိစ္စတွင်ခုနှစ်, က hacked မရနိုင်ပါ။ ဂိမ်းကိုအင်တာနက်မလိုပဲအလုပ်မလုပ်ပါဘူးနှင့်ယခင်နည်းလမ်းများမကူညီခဲ့ဘူးပါလျှင် - အများဆုံးဖွယ်ရှိဒီဖြစ်ရပ်ဖြစ်ပါတယ်။"</string>
+    <string name="help_faq_4_q">ဂိမ်း X တို့မှာအတွက်တန်ဖိုးရှာတွေ့ဒါမှမဟုတ်တွေ့ပေမယ့်ပြောင်းလဲသွားဘာမျှဖြစ်ပျက်သည့်အခါမထားဘူး။ ဒါမှမဟုတ်အဲဒါကိုတွေ့ပေမယ့်ဂိမ်းပျက်ကျပြောင်းလဲသွားတယ်ရဲ့ပြီးနောက်။ ငါဘယ်လိုပြဿနာကဘာလဲဆိုတာသိလား, ကဂိမ်းထဲမှာဒါမှမဟုတ် __app_name__ နှင့်အတူကာကွယ်စောင့်ရှောက်ရေးဖြစ်သနည်း</string>
+    <string name="help_faq_4_a">"သငျသညျအဘယ်သူမျှမကာကွယ်စောင့်ရှောက်ရေးရှိသည်နှင့်ကကြိုးစားရန်အာမခံကြောင်းရိုးရှင်းတဲ့ပရိုဂရမ်တစ်ခုယူရမည်ဖြစ်သည်။ ငါ \"ဟေးလ်တောင်တက်ပြိုင်ပွဲ\" ကိုအသုံးပြုရန်လိုလားကြပါတယ်။ အဆိုပါဂိမ်း, ရိုးရှင်းသော Uncomplicated သည်နှင့်မဆိုကာကွယ်ရေးဆံ့မခံပါဘူး။ သင်တစ်ဦးကိုအရေအတွက်အားဖြင့်တိုက်ရိုက်ရှာဖွေရေးနှင့်အပြောင်းအလဲအတွက် fuzzy ရှာဖွေရေးအဖြစ်ငွေကိုတပ်ဟက်ကာစစ်ဆေးနိုင်ပါသည်။
+ဒီရိုးရှင်းတဲ့ဂိမ်းအကျင့်ကိုကျင့်အပေါ် hacking လျှင်, သင် hack ဖို့ကြိုးစားကြောင်းကို X ကိုဂိမ်းထဲမှာပါပဲ။ မရလျှင်, ထိုပြဿနာကို __app_name__ ဖြစ်ပါတယ်။
+\"အသာပုတ်ကောင်တာ\": တောင်မှတစ်ဦးပိုမိုလွယ်ကူ option ကိုရှိပါတယ်။ က Install လုပ်ပါ။ Run ကို။ မျက်နှာပြင်ပေါ်ရှိပြသတိပ်ခွေများ၏အရေအတွက် crack ဖို့ကြိုးစားပါ။ ဒါဟာအလွန်လွယ်ကူဖြစ်သင့်သည်။ မရလျှင်, ထိုပြဿနာကို __app_name__ သို့မဟုတ်ယင်း၏ setting တွင်ဖြစ်ပါသည်။
+__app_name__ နောက်ထပ်ဗားရှင်းကြိုးစားပါ, သက်ဆိုင်ရာခေါင်းစဉ်အတွက်ဒါမှမဟုတ်အင်တာနက်ကပေါ်ဖိုရမ်အပေါ်လက်ခံရရှိသောအမှား၏ဖော်ပြချက်အဘို့ရှာဖွေကြိုးစားပါ။ အစွန်းရောက်ကိစ္စများတွင်, သင်ဖိုရမ်အတွက်န်းကျင်ကိုမေးလို့ရပါတယ်။"</string>
+    <string name="help_faq_5_q">အချိန်များအတွက်ရှာဖွေဘယ်လိုနေသလဲ?</string>
+    <string name="help_faq_5_a">"\u0009- ရက်, နာရီ, မိနစ်သို့မဟုတ်စက္ကန့်တွေရဲ့အရေအတွက်အဖြစ်ရှာဖွေဖို့ကြိုးစားပါ။ အဆိုပါဒေတာအမျိုးအစားဒါ့အပြင်သင်အမျိုးအစား __type_auto__ ကိုသုံးနိုင်သည် __type_byte__, __type_word__, __type_dword__ သို့မဟုတ် __type_qword__. ဖြစ်စေနိုင်ပါတယ်။
+\u0009- milli- သို့မဟုတ် nanoseconds ၏နံပါတ်အဖြစ်ရှာဖွေဖို့ကြိုးစားပါ။ အဆိုပါဒေတာအမျိုးအစား __type_dword__ သို့မဟုတ် __type_qword__ ဖြစ်ပါတယ်။
+\u0009- Unix အဆုံးနေ့စွဲ TIMESTAMP အဖြစ်ရှာဖွေဖို့ကြိုးစားပါ။ type - __type_dword__. ဒါဟာလက်ရှိ Unix Timestamp နှင့်ကယ်တင်ခြင်းသို့ရောက်ရ၏တစျခုအကြားကွာခြားချက်အဖြစ်ထည့်သွင်းစဉ်းစားနေသည်။ အကွာအဝေးရှာဖွေရေးမှတဆင့်ရှာဖွေသည်။
+ရက်ပေါင်း 30 ရေးထားလျက်ရှိ၏မယ်ဆိုရင်ဥပမာ, ထို့နောက်သင်လက်ရှိ Unix Timestamp ကို 30 +/- 1 နေ့အဘို့ရှာဖွေနေပါသည်။ လက်ရှိ Unix Timestamp ကိုအလွယ်တကူအင်တာနက်ပေါ်ရှိကြည့်ရှုအားပေးနိုင်ပါသည်။"</string>
+    <string name="help_faq_6_q">အွန်လိုင်းဂိမ်း hack ဖို့ဖြစ်နိုင်မလား?</string>
+    <string name="help_faq_6_a">ဒါဟာ client ကိုအပေါ်သိုလှောငျထားသောဒေတာများ hack ဖို့ဖြစ်နိုင်ပါတယ်။ ဆာဗာပေါ်မှာဘာမှ hacked မရနိုင်ပါ။ မတူညီတဲ့ဂိမ်းအတွက်ကွဲပြားခြားနားတဲ့နည်းလမ်းတွေရှိနိုင်ပါသည်။ တောင်မှတစ်ခုတည်းကစားသမားဂိမ်းအတွင်း, ဒေတာအချို့ကိုဆာဗာပေါ်မှာရှိစေခြင်းငှါ, အချို့မပြုစေခြင်းငှါ။</string>
+    <string name="help_faq_7_q">အဘယ်မှာရှိ speedhack အလုပ်လုပ်ပါသလဲ</string>
+    <string name="help_faq_7_a">"Speedhack x86 စာကြည့်တိုက်များရှိသည်မဟုတ်ကြဘူးကြောင်းဂိမ်း x86 ထုတ်ကုန် / emulator အလုပ်လုပ်နိုင်မည်မဟုတ်ပါ။
+ဒါ့အပြင်တစ်ဦးအေအာရ်တီဆေးပတ်ဝန်းကျင်ကိုအဘို့, speedhack ဂျာဗားတိုင်မားနှင့်အတူအလုပ်မလုပ်ပါဘူး။ ဂိမ်းသူတို့ကိုကိုအသုံးပြုသည်နှင့်သင်တစ်ဦးအေအာရ်တီဆေးပတ်ဝန်းကျင် (အထကျများသောအားဖြင့် Android မှာ 5 နှင့်) ရှိပါက, ထို့နောက် speedhack အလုပ်လုပ်မည်မဟုတ်ပေ။"</string>
+    <string name="help_faq_8_q">တစ်ဖွဲ့လုံးက __app_name__ ငါ့အဘို့အလုပ်ဖြစ်တယ်, ဒါပေမယ့်တချို့ဂိမ်းထဲမှာငါ PTRACE_ATTACH အမှားလာပြီပေါ့။ အဘယ်ကြောင့်နှင့်အဘယ်သို့ဆိုင်ကအကြောင်းပြုပါသလော</string>
+    <string name="help_faq_8_a">ဒီဂိမ်း SecNeo ကာကွယ်မှုအမျိုးအစားအားဖြင့်ဒီဘာဂင်ဆန့်ကျင်ကာကွယ်စောင့်ရှောက်ရေးနှင့်အတူတပ်ဆင်ထားပြီးဖြစ်ပါတယ်။ __app_name__ ဒီကာကွယ်မှုကိုရှောင်ကွင်းလို့မရပါဘူး။ ကမှတဆင့်, သင်သည်ဤဂိမ်းကို hack လို့မရပါဘူး။</string>
+    <string name="help_faq_9_q">အဘယ်ကြောင့်လျှောက်လွှာထိုကဲ့သို့သောထူးဆန်းတဲ့အထုပ်နာမကိုအမှီရှိသနည်း အဘယ်ကြောင့်လျှောက်လွှာ updated သည်မဟုတ်, ဒါပေမယ့်အခါတိုင်းသီးခြားစီ install? အဘယ်ကြောင့်တစ်ဦးချင်းစီ version ကိုတစ်ဦးကွဲပြားခြားနားအထုပ်နာမကိုအမှီရှိသနည်း</string>
+    <string name="help_faq_9_a">အထုပ်နာမတော်ဖြင့် Anti-cheat အားဖြင့်ထောက်လှမ်းကာကွယ်တားဆီးဖို့။</string>
+    <string name="help_faq_10_q">အချို့ဂိမ်းမှာတော့မြန်နှုန်း (speedhack) ပြောင်းလဲနေတဲ့အခါသူတို့သည်ကလစ်တုံ့ပြန်ရပ်တန့်။ ဒါကြောင့်ဂိမ်းကာကွယ်စောင့်ရှောက်ရေးသို့မဟုတ် program တစ်ခုအမှားလား?</string>
+    <string name="help_faq_10_a">ဒါဟာသင့်ရဲ့ speedhacking သည့် input ကိုတန်းစီတိုင်မားကိုကြားဖြတ်နားထောင်ကြောင့်ကွယ်လွန်ဆိုလိုသည်။ ဒီဖြစ်ပျက်ပါဘူးဒါကြောင့် (__app_name__ ၏ setting တွင်) တိုင်မားများ၏စာရင်းထဲတွင်အစိမ်းရောင်စစ်ဆေးမှတ်ရွေးဖို့လိုအပ်ပေသည်။</string>
+    <string name="help_faq_11_q">အဘယ်ကြောင့်အမှားအယွင်းများတစ်ကော်မာကွဲကွာစာရင်းကိုထုတ်ပြန်ပါသလဲ?</string>
+    <string name="help_faq_11_a">ဂဏန်း၏အနားသတ်မျဉ်းတစ်ခု semicolon ( \"__semicolon__\") ဖြစ်ပါသည်ကြောင့်ဖြစ်သည်။</string>
+    <string name="help_faq_12_q">အဘယ်သို့ငါတစ်ချိန်တည်းမှာမျိုးစုံရှာဖွေမှုများကိုလုပ်ဆောင်သလဲ?</string>
+    <string name="help_faq_12_a">ယခုအချိန်တွင်အဆိုပါ application ကိုဒီကိုခွင့်ပြုမထားဘူး, ဒါပေမယ့်သင်က application ကိုအကြိမ်ပေါင်းများစွာတပ်ဆင်ရန်နှင့်လုံလောကျ memory နဲ့ disk space ကိုရှိလျှင်အတူတကွမိတ္တူကို run နိုင်ပါတယ်။</string>
+    <string name="help_faq_13_q">အပြောင်းအလဲတွေအတွက်သိသာထင်ရှားသောဘာမှမရှိဘူးလျှင်ငါလျှောက်လွှာကို update လုပ်ဖို့လိုအပ်ပါသလား</string>
+    <string name="help_faq_13_a">ဒါဟာအကြံပြုသည်။ ပံ့ပိုးမှုသာနောက်ဆုံးထွက်ဗားရှင်းအဘို့ဖြစ်၏။</string>
+    <string name="help_faq_14_q">သင်္ကေတဘာတွေလဲ \"!\" ထိုလုပ်ငန်းစဉ်နာမတော်ရှေ့၌နှင့် \"#\"?</string>
+    <string name="help_faq_14_a">"ဒါဟာခြေရာခံဖြစ်စဉ်များခြေတစ်လှမ်းရခဲ့သည်။
+\u0009\"#\" - အဆိုပါဖြစ်စဉ်ကိုရှေ့တော်၌အချို့သောအခြားလုပ်ငန်းစဉ်သည်အားဖြင့်ခြေရာခံကြောင်းဆိုလိုသည်။
+\u0009\"!\" - လုပ်ငန်းစဉ်မတိုင်မီဤလုပ်ငန်းစဉ်အချို့နဲ့အခြားလုပ်ငန်းစဉ်ကိုခြေရာခံနေသည်။
+သဲလွန်စဒီဘာဂင်သို့မဟုတ်ဟက်ကာများအတွက်ပုံမှန်ပါပဲ။ ဒါ့အပြင်အချို့ကာကွယ်မှုအတွက်အသုံးပြုသည်။ ပုံမှန်အားဖြင့်တစ်ဦး \"#\" နိမိတ်နှင့်အတူတစ်ဦးဖြစ်စဉ်ကိုတစ်ဦးကာကွယ်ထားဖြစ်စဉ်တစ်ခုဖြစ်သည်။"</string>
+    <string name="help_faq_15_q">အဘယ်ကြောင့်စံတပ်ဆင်ပြီးနောက်လျှောက်လွှာလည်းအမြစ်အခွင့်အရေးအတွက်တောင်းဆိုမှုများကိုထုတ်ပေးရန်, ကိုယ်ပိုင် installation ကိုလုပ်ဆောင်သလဲ,</string>
+    <string name="help_faq_15_a">"__app_name__ Anti-cheat အားဖြင့်သူ့ရဲ့ detection ကာကွယ်တားဆီးဖို့ကျပန်းဒေတာတွေနဲ့ကိုယ်နှိုက်ကိုပြန်လည် install လုပ်ပေး။ အမြစ်အခွင့်အရေး 'အသံတိတ် \"installation နဲ့ဖြုတ်ဘို့လိုအပ်နေပါသည်။ သင်သည်ထိုသူတို့အထဲကကိုမပေးနိုငျသညျ။ ဤကိစ္စတွင်ခုနှစ်, သငျသညျကို manually applications များ install လုပ်ဘို့စနစ်၏အားလုံးတောင်းဆိုမှုများကိုတုံ့ပြန်ရန်ရှိသည်လိမ့်မယ်။"</string>
+    <string name="help_faq_16_q">__pkg__ ကဘာလဲ? က trojan သို့မဟုတ်ဗိုင်းရပ်စ်လား? ဤလျှောက်လွှာကိုအမြစ် access ကိုပေးစေခြင်းငှါကြောင့်စိတ်ချရသနည်း</string>
+    <string name="help_faq_16_a">ဒါက __app_name__ အထုပ်၏အခြေစိုက်စခန်းနာမည်ဖြစ်ပါတယ်။ __app_name__ ယုံကြည်စိတ်ချရင်းမြစ်များမှ download လုပ်ပါကအမြစ် access ကိုထုတ်ပေးလုံခြုံဖြစ်ပါတယ်။</string>
+    <string name="help_faq_17_q">အဘယ်ကြောင့်တစ်ဦးကိုကျပန်းတဲ့ character set အဖြစ်အမည်ရှိ installed applications များ၏စာရင်းထဲတွင် __app_name__ ပါသလဲ အဘယ်ကြောင့်ဒီအကျင့်စရိုက်တောင်းဆိုမှုကိုအမြစ် access ကိုသတ်မှတ်ထားပါသနည်း စတင်သောအခါအဘယျကွောငျ့အ __app_name__ အမြစ် __app_name__ အသုံးပြုပုံပေမယ် abracadabra အချို့ကိုမျိုးပေးမပေးကြောင်းရေးသားခဲ့သည်?</string>
+    <string name="help_faq_17_a">__app_name__ Anti-cheat အားဖြင့်ထောက်လှမ်းရာမှကိုယ်နှိုက်ကဖုံးကွယ်ဖို့အသုံးပြုကြောင့်ဖြစ်သည်။</string>
+    <string name="help_faq_18_q">အဘယ်ကြောင့်တစ်ခါတစ်ရံ anticheats အားဖြင့်ရှာဖွေတွေ့ရှိနောက်ဆုံးပေါ်ဗားရှင်း၏ __app_name__ ဖြစ်ပြီး, တစ်ခါတစ်ရံမဟုတ်လော</string>
+    <string name="help_faq_18_a">__app_name__ Anti-cheat အားဖြင့်ထောက်လှမ်းရာမှကိုယ်နှိုက်ကဖုံးကွယ်ဖို့ကွဲပြားခြားနားသောအရာတို့ကိုအသုံးပြုသည်လို့ပဲ။ ဒါကကျပန်းအထုပ်အမည်နှင့်လျှောက်လွှာများပါဝင်သည်။ တစ်ဦးချင်းစီတပ်ဆင်မှာသူတို့ကွဲပြားခြားနားပါသည်။ အသစ်တဖန်မွေးဖွားရန် __app_name__ ပြန်လည်ကြိုးစားပါ။ ဖြစ်ကောင်းဖြစ်နိုင်ဒီ Anti-cheat ပြီးနောက် __app_name__ ကြည့်ဖို့ငြိမ်းလိမ့်မည်။</string>
+    <string name="help_faq_19_q">အဘယ်ကြောင့်ငါ့အဂိမ်း application ကိုစာရင်းထဲတွင်ဖြစ်သည်မဟုတ်လော</string>
+    <string name="help_faq_19_a">ဒီ running applications များစာရင်းတစ်ခုဖြစ်ပြီး, သင့် application run မလို့ပဲ။ အဲဒါကို Run ပါ, အဲဒီနောက် __app_name__ အတွက်ရွေးချယ်ပါ။</string>
+    <string name="help_faq_20_q">အဘယ်ကြောင့်များ java applicatons များက Android 5 ရက်နေ့တွင်နှင့်အထက် speedhack တုံ့ပြန်မဟုတ်နိုင်သလဲ</string>
+    <string name="help_faq_20_a">speedhack ဇာတိစာကြည့်တိုက်များနှင့်အတူဂိမ်းများအတွက်ဒီဇိုင်းပြုလုပ်လို့ပဲ။ သင်၏လျှောက်လွှာမဟုတ်ပါဘူး။ Android နှင့် 5 ကတည်းကအစားကမဖြစ်နိုင်ဂျာဗားတိုင်မားကြားဖြတ်စေသည်ရာ Dalvik ၏, အေအာရ်တီဆေးပတ်ဝန်းကျင်ကိုအသုံးပြုခဲ့သည်။ ဘာမှလုပ်မနေပါနဲ့။ အခြေအနေကအနာဂတျမှာမပြောင်းပါလိမ့်မယ်။</string>
+    <string name="help_faq_21_q">ငါက Android 4 ရက်နေ့တွင်တစ်ဦးကွဲပြားခြားနား speedhack / ဟက်ကာ tool ကိုအသုံးပြုအရာအားလုံးအလုပ်လုပ်ခဲ့ပါတယ်။ ယခုငါအထက်တွင် Android ကို 5 နဲ့အပေါ် __app_name__ ထားပေမယ့်သူတို့အမှုနည်းလမ်းများအလုပ်မလုပ်ပါဘူး။ အဘယ်ကြောင့်?</string>
+    <string name="help_faq_21_a">"အရာများစွာကိုပြောင်းလဲခဲ့ကြပြီးသင့်ရဲ့ utility ကိုရုံကဲ့သို့အလုပ်လုပ်မှာမဟုတ်ဘူးလို့ပဲ။ uh ပြီးတော့, ဒီ __app_name__ ဒါမကောင်းတဲ့သည်ကိုသင်တို့သည်ထင်ယောင်ထင်မှားဖန်တီးဒါပေမယ့် utility ကိုရှိခဲ့သည်ဆိုပါကမနေပါနဲ့! အဘယ်သူမျှမထိုကဲ့သို့သောအရာရှိတယ်။
+, ဒီစမ်းသပ်အန်းဒရွိုက် 4 ရက်နေ့တွင် __app_name__ install နှင့် utility ကိုကာလ၌ရှိသကဲ့သို့အားလုံးအတူတူပင်လုပ်ရပ်များပြန်လုပ်ရန်။ ရလဒ်အဖြစ်သင်အောင်မြင်ပါလိမ့်မယ်။ သို့သော်ဤတူညီသောနည်းလမ်းများအထက် Android ကို 5 နှင့်အလုပ်လုပ်လိမ့်မည်ဟုမဆိုလိုပါ။
+ဤအချက်ကိုအကြိမ်ကြိမ်စမ်းသပ်အတည်ပြုခဲ့သည်ဖြစ်ပါတယ်။"</string>
+    <string name="help_faq_22_q">ငါကဗီဒီယိုနမူနာကိုကြည့်တယ် / screenshots များနှင့်မှတ်ဉာဏ်အယ်ဒီတာအခြားဒေတာရှိပါတယ်။ အဘယ်ကြောင့်?</string>
+    <string name="help_faq_22_a">ဗီဒီယို / စခရင်ပုံကွဲပြားခြားနားသော output ကို format နဲ့ရှိပါတယ်လို့ပဲ။ မှတ်ဉာဏ်အယ်ဒီတာမှာ menu ကို နှိပ်. - \"__value_format__\" ကိုရွေးချယ်ပါကသင့်ပါတယ်အဖြစ် output ကို configure ။</string>
+    <string name="help_faq_23_q">တန်ဖိုးအေးခဲနေသည်သောအခါ, ဂိမ်းဘရိတ်သို့မဟုတ်သုံးနေပြီမှစတင်သည်။ အဘယ်ကြောင့်?</string>
+    <string name="help_faq_23_a">သင် __app_name__ settings ကို \"__hide_from_game__\" enabled ရန် option ရှိသောကွောငျ့ဖွစျသညျ။ အဲဒါကိုပိတ်လိုက်။</string>
+    <string name="help_faq_24_q">အဘယ်သို့ငါငါလျှောက်လွှာကိုစတငျသညျ့အခါသစ်ကိုဗားရှင်းအဘို့အစစ်ဆေးနေ disable နိုင်မလဲ?</string>
+    <string name="help_faq_24_a">နည်းလမ်းမရှိ။</string>
+    <string name="help_faq_25_q">ပြန်လျှောက်လွှာအတွက်အချိန်ပြန်ရစ်ရန်ဘယ်လိုနေသလဲ? အချိန်ရှေ့ဆက်မရခုန်, ဒါပေမယ့်နောက်ပြန်စေရန်ဖြစ်နိုင်ပါသလား?</string>
+    <string name="help_faq_25_a">နည်းလမ်းမရှိ။ မင်းမလုပ်နိုင်ပါ။ အချိန်အမြဲတမ်းဂိမ်း crash နိုင်ပါတယ်မဟုတ်ရင်တိုးမြှင့်ရပါမည်။ သို့သော်နောက်ဆုံးပေါ်ဗားရှင်းအတွက်ကျွန်တော်တစ်ဦးကအနုတ်အချိန်ခုန်များ၏ဖြစ်နိုင်ခြေကဆက်ပြောသည်။ အဆိုပါရလဒ်အချက်အလက်များ၏ဂိမ်းသို့မဟုတ်ဆုံးရှုံးမှုတစ်ခု Hang ဖြစ်နိုင်သည်။ သတိပေးခဲ့သည်လိမ့်မည်။</string>
+    <string name="help_faq_26_q">ကျွန်မအပေါ်အိုင်ကွန်ကိုတင်ကပျောက်ကွယ်သွားသည်။ ငါကဘယ်လိုလုပ်ပြန်ရနိုင်မလဲ?</string>
+    <string name="help_faq_26_a">အိုင်ကွန်ပွင့်လင်းဖြစ်လာပေမယ့်သင်ဆဲပေါ်မှာ click နှိပ်နိုင်ပါတယ်။ ထိုသို့ထို့နောက် interface ကိုမှတဆင့် setting ကိုပြောင်းလဲစေခဲ့သည်ရှိရာကိုကလစ်နှိပ်ပါ။</string>
+    <string name="help_faq_27_q">ဒါကြောင့်ဂိမ်းတွေနဲ့ရှာနိုင်ပါတယ်ထဲမှာဖော်ပြပါတယ်လျှင်အဘယ်သို့ငါတန်ဖိုးကိုရှာသလဲ? ဥပမာအားဖြင့်, 1.85M ။</string>
+    <string name="help_faq_27_a">ရှာဖွေရေးအကွာအဝေးအဘို့ရှာပါ။ အဆိုပါအကွာအဝေးကန့်သတ်သည့်ရှာနိုင်ပါတယ်စည်းမျဉ်းစည်းကမ်းတွေပေါ်မူတည်သည်။ ဥပမာ, \"1845000__tilde__1854999\" စံ Round သည်။</string>
+    <string name="help_faq_28_q">ငါရာခိုင်နှုန်းတန်ဖိုးကိုဘယ်လိုရှာဖွေသလဲ? ဥပမာအားဖြင့်, 123__percent__ ။</string>
+    <string name="help_faq_28_a">ဒါဟာအကောင်အထည်ဖော်မှုအပေါ်မူတည်သည်။ တစ်ဦးချင်းစီဂိမ်းကအားလုံးကိုကွဲပြားခြားနားနိုင်ပါတယ်။ ဥပမာအား 123__percent__. များအတွက်ဒါဟာမဆိုတန်ဖိုး __type_float__ သို့မဟုတ် __type_double__ နိုင်ပါတယ်။ 1.23 သို့မဟုတ် 123,0 လိုပဲ။ အချို့အရေအတွက်ကိုအပေါ်ခွဲခြားနိုင်ပါသည် output ကိုတွင်ဥပမာအား 123 သို့မဟုတ် 12300. သည် __type_byte__, __type_word__, __type_dword__. : ဒါမှမဟုတ် integer ဖြစ်တဲ့အတွက်အမျိုးအစားများရှိနိုင်ပါသည်။ 100 ကိုသို့မဟုတ် 345 သို့မဟုတ်အရာအားလုံးထက်။ တစ်ဦးချင်းစီဂိမ်းကကွဲပြားခြားနားနိုင်ပါတယ်။ သင်ကအထင်ရှားဆုံးအမှုပေါင်းကြိုးစားနိုင်ပါ။ သငျသညျကံကောင်းရောက်နေတယ်ဆိုရင်သင်လိုအပ်သောအရာကိုနိုင်ပါတယ် __type_auto__. - 123__percent__ ထိုသို့ 1.23 သို့မဟုတ် 123. အမျိုးအစားနိုင်ပါတယ်။</string>
+    <string name="help_faq_29_q">အဘယ်အရာကိုဂိမ်း __app_name__ ကို detect ဆိုရငျကော</string>
+    <string name="help_faq_29_a">"အောက်ပါ options များ (singly သို့မဟုတ်မည်သည့်ပေါင်းစပ်အတွက်) ကြိုးစားပါ:
+\u0009- ကို \"__hide_from_game__\" ရွေးချယ်စရာ Enable လုပ်ထားပါ။ အများအားဖြင့်အလုံအလောက် 2, 3 နဲ့ 4 အတွက်ရွေးချယ်စရာများ။
+\u0009- Do ကျပန်းနာမကိုအမှီနှင့်အတူပြန်လည် install ပြုလုပ် __app_name__ ကိုပယ်ဖျက်မဟုတ်ပါဘူး။ ဒါကပထမဦးဆုံးအကြိမ် __app_name__ ကို virtual နေရာပြေးအပြင်ဘက်ဖြစ်ပါတယ်ပြုသောအမှုဖြစ်ပါတယ်။
+\u0009- အသုံးပြုမှု XPrivacy သို့မဟုတ်အလားတူ utilities ။ ဒီလိုလုပ်ဖို့ဘယ်လိုအဘို့အင်တာနက်ပေါ်ရှိကြည့်ပါ။
+\u0009- သင် applications များ၏ဝှက်ထားတပ်ဆင်ခြင်းနှင့်အတူကို virtual အာကာသကနေအမြစ်အခွင့်အရေး, အသုံးပြုမှုကိုအမြစ်ရှိပါက။ က \"__vspace_root__\" setting ကိုများအတွက်အခြေအနေတွင်အကူအညီနဲ့အတွက်ဆက်ဖတ်ရန်။"</string>
+    <string name="work_without_selinux">__selinux__ မပါဘဲလုပ်ကိုင်ဖို့ Switch နဲ့ App ကို restart လုပ်ပါ</string>
+    <string name="work_with_selinux">__selinux__ နှင့်အတူအလုပ်လုပ်ရန်နှင့် app ကိုပြန်လည်စတင်ရန် Switch</string>
+    <string name="file">File:</string>
+    <string name="file_not_found">ဖိုင်ရှာမတွေ့ပါ:</string>
+    <string name="export_selected">ပို့ကုန်မရွေး</string>
+    <string name="failed_list_dir">ဖိုင်စာရင်းကိုဖတ်ပါရန်မအောင်မြင်ခဲ့ပါ။</string>
+    <string name="change_float_type">ရေပေါ်ပြတင်းပေါက်အမျိုးအစားကိုရွေးချယ်ပါ</string>
+    <string name="reset_float_type">ရေပေါ်ပြတင်းပေါက်အမျိုးအစားကို Reset</string>
+    <string name="mask">မျက်နှာဖုံး:</string>
+    <string name="mask_request">ရှာထားတဲ့လိပ်စာကိုရိုက်ထည့်</string>
+    <string name="help_mask_search_title">လိပ်စာ (မျက်နှာဖုံး) ရှာဖွေရေး</string>
+    <string name="help_mask_search">"* လိပ်စာ (မျက်နှာဖုံး) ရှာဖွေရေး:
+\u0009သငျသညျကိုရှာဖွေသို့မဟုတ်မျက်နှာဖုံးနှင့်အတူလိပ်စာက filter နိုင်ပါတယ်။
+
+\u0009ပုံမှန်ဥပမာတစ်ခုလူသိများတန်ဖိုးအဆုံးသတ်ကြောင်းလိပ်စာများရှာဖွေသည်။ ဥပမာ, \"12E on\" ။
+
+\u0009ရှာဖွေရေး parameters များကိုလိပ်စာနဲ့မျက်နှာဖုံးဖြစ်ကြသည်။
+\u0009လိပ်စာအတွက်သံခိတ် ( \"__question__\") ကိုအသုံးပြုနိုင်ပါတယ်။ ဤသည်မှာသင်္ကေတက \"0\" ကနေ \"က F\" ကိုမည်သည့်ဇာတ်ကောင်ဖြစ်နိုင်သည်ဟုဆိုလိုသည်။
+\u0009တစ်ဦးအပိုဆောင်းမျက်နှာဖုံးလိပ်စာကနေဖွဲ့စည်းခဲ့ဒါကြောင့်ဦးဆောင်သုညအရေးကြီးလှသည်ဖြစ်ပါတယ်။ ထို့ကြောင့် \"0120\" အတွက်ရှာဖွေရေးနှင့် \"120\" ကိုရှာဖွေရေးနဲ့အတူတူပါပဲမဟုတ်ပါဘူး။
+\u0009ဒါကြောင့်ပေါ်တွင် \"00010120\", \"00020120\", \"00030120\" နှင့်: ပထမဦးဆုံးအမှု၌တှေ့ရလိမျ့မညျ။ ဒုတိယအတွက်နေချိန်မှာ: \"00001120\", \"00002120\", \"00003120\" နှင့်ဒါပေါ်မှာ။
+
+\u0009သငျသညျတန်းတူရေးနှင့်မျက်နှာဖုံးအားဖြင့်ညွှန်ပြသည့်မညီမျှမှုများအတွက်နှစ်ဦးစလုံးရှာဖွေနိုင်ပါသည်။ ဒုတိယ option ကိုမလိုအပ်တဲ့တန်ဖိုးများကိုဖျက်သိမ်းရေးအသုံးဝင်စေနိုင်ပါတယ်။
+
+\u0009အဆိုပါလိပ်စာနှင့်မျက်နှာဖုံးအဆုံးမှာ hexadecimal စနစ်နှင့် letter \"__hex__\" မပါဘဲထဲသို့ဝင်နေကြသည်။
+\u0009လိပ်စာမှရရှိသောအဆိုပါမျက်နှာဖုံးသငျသညျခွငျးအားဖွငျ့ဝငျသောမျက်နှာဖုံးနှင့်အတူဖြတ်။ ဒါကထွက်ပေါ်လာတဲ့ရှာဖွေရေးမျက်နှာဖုံးဖြစ်ပါတယ်။
+
+\u0009\"FF0\" - ရလဒ်မျက်နှာဖုံးအတူတူရှိပါတယ်အကြောင်းမှာအောက်ပါဥပမာများ, ညီမျှများမှာ
+__mask_example__
+"</string>
+    <string name="use_sound_effects">အသံကအကျိုးသက်ရောက်မှုများအသုံးပြုပါ:</string>
+    <string name="from_range">မှ:</string>
+    <string name="to_range">ရန်:</string>
+    <string name="resultant_mask">Results မျက်နှာဖုံး:</string>
+    <string name="show_time_jump_panel">အချိန်ခုန် panel ကိုပြရန်:</string>
+    <string name="use_notification">အကြောင်းကြားစာကိုသုံးပါ:</string>
+    <string name="show_gg">Show ကို __app_name__</string>
+    <string name="hide_gg">__app_name__ Hide</string>
+    <string name="time_remaining">ကျန်ရှိသောအချိန်:</string>
+    <string name="help_fill_title">(increment) တန်ဖိုးများကိုဖြည့်ပါ</string>
+    <string name="help_fill">"* မှီအောင် (increment) တန်ဖိုးများ:
+\u0009ဒါဟာမကြာခဏလည်းအများအပြားတန်ဖိုးများကိုတွေ့သမျှသောဖြစ်ပျက်, ဒါပေမဲ့သူတို့ဂိမ်းထဲကနေမပြောင်းနိုင်ပါ။
+\u0009ဤကိစ္စတွင်ခုနှစ်, ဝစွာကယ်ဆယ်ရေးထံသို့မရောက်ရ။
+
+\u0009အသုံးပြုမှုပုံမှန်ဥပမာအပျက်သဘောဆောင်သောတဦးတည်းကနောက်ဆက်တွဲအစားထိုးအတူတစ်ဦးကို item ၏စျေးနှုန်းအဘို့အရှာဖွေရေးဖြစ်ပါတယ်။
+
+\u00091. လိုချင်သောပစ္စည်းများကိုရွေးချယ်ပါ။
+\u00092. ကို Select လုပ်ပါ \"__edit_selected__\" ။
+\u0009ဒီလယ်ကွင်းလက်ဆောင်မပါလျှင်, \"__increments__\" လယ်ကိုဖော်ပြရန် 3. စာနယ်ဇင်းခလုတ်ကို \"__more__\" ။
+\u0009\"__increments__\" လယ်ကွင်းများတွင် 4, အ increment တန်ဖိုးကိုရိုက်ထည့်ပါ။ များသောအားဖြင့်ဒီ 1. ထိုအခါ \"__yes__\" ကိုနှိပ်ပါဖြစ်ပါတယ်။
+\u00095. ရွေးချယ်ထားသည့်ပစ္စည်းသစ်ကိုတန်ဖိုးများကိုခံရလိမ့်မည်။
+6. ဂိမ်းသွားပြီးအလိုရှိသောတန်ဖိုးကိုဂိမ်းဖန်သားပြင်ကိုဖြတ်ပြီးရွေ့လျားပြောင်းလဲလျက်ရှိသည်ကိုဘယ်လိုကြည့်ပါ။
+\u00097. တန်ဖိုး, ရွေးချယ်ထားသောသူတို့တွင်ထို့နောက်အလိုရှိသောဒြပ်စင်မဟုတ်ပြောင်းလဲသွားတယ်မရှိသေးပေလျှင်။ __app_name__ သို့ပြန်သွားသည်နှင့် \"__delete_selected__\" ကိုအသုံးပြုခြင်း -> \"__revert_and_remove__\" သူတို့ကိုအရင်တန်ဖိုးကိုပြန်, ရွေးချယ်ထားသောပစ္စည်းများကိုဖယ်ရှားလိုက်ပါ။ မဆိုရှိပါတယ်လျှင်ယခုတွင်သင်သည်အခြားဒြပ်စင်များနှင့်အတူရှေ့ဦးစွာ မှစ. အရာရာကြိုးစားနိုင်ပါ။
+\u00098. တန်ဖိုးပြောင်းလဲသွားပြီဆိုရင်, ထို့နောက်အလိုရှိသော element ကရွေးချယ်ထားသည့်ဒြပ်စင်တစ်ခုဖြစ်ပါသည်။ အသစ်ကတနျဖိုးကိုသတိရပါနှင့် __app_name__ ပြန်သွားပါ။
+\u0009ရွေးချယ်ထားသည့်ပစ္စည်းများစာရင်းကို 9, အလိုရှိသောတန်ဖိုးကိုရှာ။ ဒါကြောင့်ပြန်ဖြုတ်ပါ။ သူတို့ကိုယခင်တန်ဖိုးကိုပြန်,> \"__revert_and_remove__\" - \"__delete_selected__\" သုံးပြီးရှိသမျှသည်အခြားသောတန်ဖိုးများကိုဖျက်ပစ်ပါ။
+\u0009သင်လိုအပ်အဖြစ် 10. လိုချင်သောဒြပ်စင်တန်ဖိုးကို Modify ။
+
+\u0009ပုံမှန်အမှားများကိုယခင်အခြေအနေပြန်သွားရန်မလိုဘဲဖယ်ရှားရေးဖြစ်ကြသည်။ ထို့နောက်ဂိမ်း crash နိုင်ပါတယ်။
+
+\u0009သငျသညျတန်ဖိုးများကိုအများကြီးတွေ့ပါရှိလျှင်, ပျက်ကျရှောင်ရှားရန်အသေးဝေမျှအတွက်ဖြည့်ပါလုပ်ဖို့ကြိုးစားကြည့်ပါ။
+"</string>
+    <string name="help_hint_1">* သင်အမြဲအတူတူပင်ဒေသတွင်း၌အလိုရှိသောတန်ဖိုးများ (ရလဒ်များကိုစာရင်းထဲတွင်ပစ္စည်းများရဲ့အဆုံးမှာစာလုံး) ကိုရှာဖွေလျှင်, သင်ပိုမိုမြန်ဆန်ရှာဖွေရေးများအတွက်သာကဤဒေသများရွေးနိုင်သည်။</string>
+    <string name="help_faq_30_q">တန်ဖိုးများကိုအဘို့အ __app_name__ ရှာဖွေမှုများကိုအလွန်နှေးကွေးစွာနှင့် PC ပေါ်မှာ Android ကို emulator အတွက်အချိန်ကြာမြင့်စွာ။</string>
+    <string name="help_faq_30_a">"အများစုမှာဖွယ်ရှိသင် PC ကို BIOS ကိုထဲမှာပိတ်ထား virtualization ရှိသည်။ ပေါ်မှာလှည့်။
+__app_name__ အဆိုပါ emulator အထဲမှာပြေး, ဒါကြောင့်အလုပ်၏အမြန်နှုန်းဟာ emulator ၏အမြန်နှုန်းပေါ်မူတည်ပါသည်။
+virtualization enabled ပေမယ့်မြန်နှုန်းနေဆဲအနိမ့်သည်ဆိုပါက, သင့် emulator ၏ setting စစ်ဆေး, သို့မဟုတ်အခြား emulator ကိုသုံးပါ။
+PC အတွက် CheatEngine - - ကပိုမိုမြန်ဆန်ရှာဖွေနှငျ့သငျ __app_name__ ၌ဖြစ်လိမ့်မည်ဘယ်တော့မှထားတဲ့အများအပြား features တွေငါပေးမည်ကိုလည်းသင်အခြား tool ကိုသုံးနိုင်သည်။"</string>
+    <string name="help_speed_up_title">ရှာဖွေရေးအရှိန်မြှင့်ဖို့ကိုဘယ်လို</string>
+    <string name="help_speed_up">"* ရှာဖွေရေးအရှိန်မြှင့်ဖို့ဘယ်လို:
+\u00090. သင် VT နည်းပညာ, Vanderpool နည်းပညာ, Virtualization နည်းပညာ (ထို virtualization စစ်ဆေးတစ်ဦးကို PC (BlueStacks, Droid4X, အန်ဒီ, NOX, Memu, AMIDuOS, Windroy, AVD, Genymotion, Koplayer, Leapdroid etc) တခုတခုအပေါ်မှာက Android emulator ကိုသုံးပါနေတယ်ဆိုရင် , VTx, VT-ဃ, VMX, Virtual နည်းပညာ, Intel က-VT, AMD ၏-V ကို, SVM, IOMMU) ကို PC မှာ BIOS ကိုဖွင့်သည်။
+\u0009သငျသညျ RAM ကိုအများကြီးရှိပါက 1. , ထို့နောက်သင်သည်ထိုဒေတာသိမ်းဆည်းထားနိုင်ပါတယ်။ ဤသည်ကိုအလွန်ရှာဖွေရေးတက်အမြန်နှုန်း။ \"__yes__\" ဖို့ \"__data_in_ram__\" ဟုအဆိုပါ setting ကိုသတ်မှတ်မည်။ တစ်ဦးကို PC ပေါ်မှာ Android ကို emulator အတွက်, ဒီရှာဖွေရေးနှေးကွေးနိုင်ပါတယ်။
+\u0009သငျသညျအနညျးငယျ RAM ကိုရှိပါက 2. ဒေတာမှတ်ဉာဏ်ကဒ်ပေါ်မှာသိမ်းဆည်းထားလိမ့်မည်။ မြင့်မားသောရေးသားမှုနှင့်အတူမှတ်ဉာဏ်ကဒ်ကိုသုံးပါနှင့်မြန်နှုန်းကိုဖတ်ပါ။
+\u0009မှတ်ဉာဏ်ကဒ်ထက်ကပိုမြန်မယ်ဆိုရင် 3. ကိုလည်းသင်, ထိုဖုန်းရဲ့ internal memory ထဲမှာအချက်အလက်များ၏သိုလှောင်မှုကိုသတ်မှတ်နိုင်ပါတယ်။ လိုချင်သောလမ်းကြောင်းကိုရန် \"__set_path__\" ဟုအဆိုပါ setting ကိုသတ်မှတ်မည်။
+\u0009ရှာဖွေရေးတွင် 4. ကိုသာတပ်မက်လိုချင်သောအဒေသများရွေးချယ်ပါ။ နှေးကွေးသော ( \"__slow__\") နှင့်အန္တရာယ် ( \"__dangerous__\") ဒေသများရှောင်ကြဉ်ပါ။
+\u0009သူတို့ကိုသင်သိလျှင် 5. ကိုလည်းသင်, ရှာဘို့, မှတ်ဉာဏ်အကွာအဝေး၏ကန့်သတ်သတ်မှတ်နိုင်ပါတယ်။ ရှာဖွေရေးပေးတဲ့ dialog အတွက် button ကို \"__more__\" ကိုနှိပ်ပါနှင့်ကန့်သတ်ရိုက်ထည့်ပါ။
+\u0009ဒေတာသာဆန္ဒရှိအမျိုးအစားများများအတွက် 6. ရှာပါ။ အဆိုပါဒေတာအမျိုးအစား \"__type_auto__\" နှေးကွေးသည်။
+\u00097. အားလုံးဖြစ်နိုင်သမျှ \"__hide_from_game__\" ရွေးချယ်စရာကိုပိတ်ထားပါ။
+\u00098. \"__memory_access__\" ၌ \"__experimental__\" သို့မဟုတ် \"__extended__\" သုံးပြီးကြိုးစားပါ။ အဲဒီ options မတည်မငြိမ်အလုပ်ဖို့ဦးဆောင်လမ်းပြပေးနိုင်သည်။
+"</string>
+    <string name="help_faq_31_q">ခဏတစ်ပွီးနောကျ, __app_name__ အိုင်ကွန်ပျောက်သွားမှာ။</string>
+    <string name="help_faq_31_a">"အိုင်ကွန်ဖြစ်ခဲ့ရာအရပ်တွင်နှိပ်ခြင်းအားကြိုးစားပါ။ ဒီပွင့်လင်း __app_name__ interface ကိုလျှင်, ထိုအိုင်ကွန် setting တွင်ဝှက်ထားလျက်ရှိ၏သို့မဟုတ်သင့် firmware ကိုခင်းကျင်းပြသနှင့်အတူ bug တွေအိုင်ကွန်ရှိပါတယ်။
+အဆိုပါ interface ကိုဖွင့်လှစ်မပါဘူးဆိုရင်, က __app_name__ မှတ်ဉာဏ်ထဲကနေမြေပေါ်သို့ချခဲ့ပြီးဆိုလိုသည်။
+ဖြစ်နိုင်ပါ့မလားအကြောင်းပြချက်:
+
+\u0009စနစ်ဖြင့်သေ __app_name__ - 1. စက်ပေါ်ရှိအလုံအလောက် RAM ကိုမရှိပါ။ ဒီထက် RAM ကိုကိုအသုံးပြုဖို့ကြိုးစားပါ။ __app_name__ setting တွင်, ပြသရလဒ်များကို၏ကြီးမားသောအရေအတွက်ကိုသတ်မှတ်ဖို့ RAM ကိုကနေ \"အပို\" applications များရြဥပမာမြေပေါ်သို့ချမရနိုင်ကြောင်း applications များ၏ \"အလင်းအလေးချိန်\" Analogues (ကိုသုံး launcher ပါဘူး, RAM ထဲမှာအချက်အလက်များ၏သိုလှောင်မှုကိုသတ်မှတ်ကြဘူး ) ။ အထူးသဖြင့်မကောင်းတဲ့ကိစ္စများတွင်ဂိမ်းနှင့်အတူပြေး __app_name__ ရှေ့တော်၌ထိုစက်ကို reboot ။ အားလုံးနီးပါးဟာ firmware ကို၏အစဉ်အမြဲ RAM ကိုပေါက်ကြားရှိပါတယ်။ reboot လုပ်ပါပြီးနောက်အချိန်ပိုမို - နည်းရရှိနိုင်ပါ RAM ကို။
+
+\u00092. သင်က __app_name__ ဦးသေဆုံးသည့်ဖြစ်စဉ်ကိုလူသတ်သမားများရှိသည်။
+
+အဆိုပါလူသတ်သမားများကို disable သို့မဟုတ်ယင်း၏ခြွင်းချက်မှ __app_name__ ထည့်ပါ။
+လူသတ်သမားများလည်း \"optimizers\" နှင့် RAM ကို \"တိုးတက်မှု\" ၏အမြိုးမြိုးဖြစ်ကြသည်။
+သငျသညျလူသတ်သမားသို့မဟုတ်မကြောင်းမသိရပါဘူးလျှင်ယေဘုယျအားဖြင့်, ဆော့ဝဲများအတွက်ဖော်ပြချက်ကြည့်ပါ။
+
+FlyMe များအတွက်: မြေပေါ်သို့ချအလုပ်မိနစ်အနည်းငယ်အကြာတွင်တချို့အကြောင်းပြချက် __app_name__ - ကိုသင် __app_name__ များအတွက်နောက်ခံနှင့်သင့်အမြစ်မန်နေဂျာ (များသောအားဖြင့်အဲ့ဒါ) တွင်အလုပ်ခွင့်ပြုပါရန်လိုအပ်သည်။
+
+သင်တို့သည်လည်း __app_name__ ဆက်တင်များတွင် \"__use_notification__\" enable လုပ်ဖို့ကြိုးစားနိုင်ပါ။ တစ်ခါတစ်ရံဒီ, kill __app_name__ တားဆီး။"</string>
+    <string name="quick_start_title">လျင်မြန်စွာစတင်</string>
+    <string name="prevent_unload">နေချိန်မှာတားဆီး:</string>
+    <string name="hot_key">hot key ကို:</string>
+    <string name="hide">ဝှက်ထား</string>
+    <string name="execute_script">script ကို execute</string>
+    <string name="execute">သတ်</string>
+    <string name="another_script">နောက်ထပ် script ကို run နေခြင်းဖြစ်သည်။ ကကြားဖြတ်?</string>
+    <string name="interrupt">ကြားဖြတ်</string>
+    <string name="script">script:</string>
+    <string name="script_ended">script အဆုံးသတ်:</string>
+    <string name="paused">ဒီဂိမ်းကိုခေတ္တရပ်ဆိုင်းထားသည်:</string>
+    <string name="by_pause_button">အဆိုပါခေတ္တနားခလုတ်ကိုအားဖြင့်</string>
+    <string name="by_option">"ထို option '' __s__ '' အားဖြင့်"</string>
+    <string name="new_search_short">နယူး</string>
+    <string name="speedhack_loading">loading speedhack ...</string>
+    <string name="speedhack_loaded">Speedhack တင်ဖြစ်ပါတယ်။</string>
+    <string name="busy_dialog_fail">တိုးတက်မှုပေးတဲ့ dialog ပြသလို့မရပါ။</string>
+    <string name="site">ဆိုက်ကို</string>
+    <string name="help_xor_search_title">XOR ရှာဖွေရေး</string>
+    <string name="help_xor_search">"* XOR ရှာဖွေရေး:
+\u0009\u0009သင်လိုအပ်တန်ဖိုးကိုတန်ဖိုးအနေဖြင့်တူညီသောအကွာအဝေးမှာအမြဲသော XOR သော့ချက်နဲ့ encrypt ကြောင်းသိကြလျှင်, သင်စာဝှက်ဖြည်ထားတဲ့တန်ဖိုးကိုခြင်းဖြင့်ရှာဖွေသည်ဤ mode ကိုသုံးနိုင်သည်။
+\u0009ဂိမ်းတစ်ခုအနေဖြင့် __app_name__ မှ 1. ပြောင်းလဲမည်။
+\u00092. \"__search__\" tab ကိုရှိ \"__search_known_value__\" ခလုတ်ကိုထိပုတ်ပါ။
+\u00093. \"__mode_xor__\" ကကွဲကွာနေတဲ့ရှာဖွေရေးနံပါတ်နှင့် XOR key ကိုအကွာအဝေး, ရိုက်ထည့်ပါ။ ဥပမာအားဖြင့်, အကွာအဝေး 8 ရက်နေ့က key တစ်ခုနှင့်အတူတန်ဖိုးသည် 100 ရှာဖွေရန်, ရိုက်ထည့်ပါ:
+\u0009\u0009\u0009100__mode_xor__8
+\u0009\u0009input ကိုနောက်ထပ်သင်္ကေတများစေရန်, ပြည်တွင်းရေးကီးဘုတ်ပေါ်ရှိ \"__btn_hex__\" ခလုတ်ကိုအသုံးပြုပါ။
+\u00094. သင့်လျော်သောဒေတာအမျိုးအစားကိုရွေးပါသို့မဟုတ် \"__type_auto__\" ကိုရွေးချယ်ပါ (သင်သေချာမသိကြလျှင်) နှင့်အခြားရွေးစရာများ (လိုအပ်ပါက) နှင့် \"__search__\" ကိုကလစ်နှိပ်ပါ။
+\u00095. ရှာဖွေပြီးဆုံးသည့်အခါ, ရှာရလဒ်များစာရင်းထဲတွင်ပြသပါလိမ့်မည်။
+\u0009သို့ပြန်သွားရန်ဂိမ်းမှ 6. ။ တန်ဖိုးပြောင်းလဲသွားပြီပြီးနောက်နောက်တဖန် __app_name__ သို့ပြောင်းပါ။
+\u0009သင့်လျော်သောအပြောင်းအလဲတွေနဲ့ 7. ထပ်ခါတလဲလဲ XOR ရှာဖွေရေး။
+\u00098. များလွန်းရလဒ်များကိုရှိပါတယ်ဆိုပါကထပ် 6 နဲ့ 7 လုပ်ပါ။
+\u0009အနည်းငယ်သောရလဒ်များကို left နေတယ်ဆိုရင် 9. , သင်တန်ဖိုး, ပြုပြင်မွမ်းမံသိုလှောင်သို့မဟုတ်အေးခဲဖို့ကြိုးစားနိုင်ပါတယ်။
+
+\u0009သငျသညျအကွာအဝေးရှာဖွေရေးနှင့်အတူ XOR ရှာဖွေရေးကိုသုံးနိုင်သည်။ \"100__tilde__150__mode_xor__8\" ဥပမာ။
+\u0009အများအားဖြင့် XOR ရှာဖွေရေးခါတိုင်းလိုအရေအတွက်ကိုရှာဖွေရေးထံမှနှေးကွေးသည်။
+\u0009ဒီ mode အုပ်စုရှာဖွေရေးအတွက်ပါသို့မဟုတ် encrypt လုပ်ထားရှာဖွေရေးအတွက်မထောက်ပံ့ပါ။
+\u0009အဝေးသင် 1 ရက်မှ 4096 မှအားလုံးပါဝင်နိုင်ဖြစ်ရမည်။
+\u0009\"100__tilde__150__mode_xor__10h\": သင်အဆုံးမှာ __hex__ သင်္ကေတနှင့်အတူ hex form မှာ input ကိုအကွာအဝေးနိုင်ပါတယ်။
+\u0009အဝေးသင်တန်ဖိုးများ align လေးစားရပေမည်။ ဥပမာအားဖြင့်, DWORD 4-bytes နယ်နိမိတ်မှ aligned ရပါမည်။ ဤ \"40__mode_xor__7\" ကိုရှာဆိုလို 7 မှ 4 မခွဲနိုင်သောကြောင့် DWORD အဘို့အချည်းနှီးပါပဲ။
+\u0009အခြားနှင့်အတူဤ mode ကိုမကောင်းတဲ့ firmware ကိုအပေါ်ပြဿနာများဖြစ်ပေါ်စေနိုင်ပါတယ်ပေါင်းစပ်။ သငျသညျ XOR mode မှာပုံမှန်ထက်ရှာဖွေရေးနှင့်သန့်စင်ပြီးအပြီးစေလျှင်ဥပမာ, ဒီ Hang စေသို့မဟုတ်သင့် device ကို reboot နိုင်ပါတယ်။ ပထမဦးဆုံးရှာဖွေရေးဒီ mode မှာဖွစျလိမျ့မညျလျှင်ဒီဖြစ်ပျက်မပြုရပါ။
+\u0009ဒီ mode ကိုတစ် fuzzy ရှာဖွေရေးမပံ့ပိုးပါ။ သငျသညျပုံမှန်ထက်ပြုလုပ်ပေမယ့် fuzzy အလုပ်ပေါင်းစပ်နိုင်ပြီးအကွာအဝေးနှင့်သင်၏ XOR key ကိုလေးစားကြဘူး။
+\u0009တန်ဖိုးများကိုများအတွက်နိမိတ်လက္ခဏာကိုလေးစားသည်။ ဒါဟာသင်, တန်းတူ သာ. ကြီး, ငယ်များနှင့်ဒါမတန်ဖိုးကိုရှာဖွေနိုင်ပါတယ်ဆိုလိုသည်။
+\u0009ဤရှာဖွေမှုများတွင်အားလုံးတန်ဖိုးများကိုလက်မှတ်ရေးထိုးခဲ့သည်ဟုယူဆနေကြသည်။
+"</string>
+    <string name="help_faq_32_q">အဆိုပါ HW / SW ဗားရှင်းတွေနဲ့ကွာခြားချက်ကဘာလဲ? ထိုအခါငါပေးသောတဦးတည်းကိုအသုံးပြုဖို့သင့်သလဲ</string>
+    <string name="try_latest">ဖြစ်ကောင်းဖြစ်နိုင်ဒီ script ကိုနောက်ဆုံးပေါ်ဗားရှင်း update လုပ်ဖို့ __app_name__. ကြည့်ပါ၏နောက်ဆုံးဗားရှင်းလိုအပ်ပါသည်။</string>
+    <string name="help_string_search_title">စာသား (string ကို, hex, AoB) ရှာဖွေရေး</string>
+    <string name="download_scripts">ဒေါင်းလုပ် script များ</string>
+    <string name="hide_icons">launcher icon တွေကို Hide</string>
+    <string name="select_mode">ကို Select လုပ်ပါ mode ကို</string>
+    <string name="mode_string">စာသားမ</string>
+    <string name="mode_mixed">ရောနှောထားသော</string>
+    <string name="string_search_prompt">အရှည် __d__ bytes မှတက်, ရှာစာသားရိုက်ထည့်ပါ။ ဥပမာ</string>
+    <string name="string_empty">သင်တစ်ဦးစာသားကိုရိုက်ထည့်ရမည်ဖြစ်သည်။</string>
+    <string name="string_not_found">စာသား \"__s__\" မတွေ့ရှိခဲ့ခြင်းဖြစ်သည်။</string>
+    <string name="string_found">Found __d__ matches for the text \"__s__\".</string>
+    <string name="string_replace">သင်သည်ထိုသူတို့နေရာမှာအစားထိုးချင်ပါသလား?</string>
+    <string name="string_replace_prompt">\"__s__\" အစားထိုးစာသားရိုက်ထည့်ပါ။ အရှည်မပို __d__ ထက် bytes ဖြစ်ပါတယ်။</string>
+    <string name="string_replaced">Replaced \"__s__\" to \"__s__\" in __d__ places.</string>
+    <string name="need_allow_background">ဒီ firmware ကိုတွင်, သင် System Setting ထဲမှာ, နောက်ခံ __app_name__ အလုပ်လုပ်ကိုင်ခွင့်ပြုရမည်ဖြစ်သည်။</string>
+    <string name="calculate_offset_xor">offset တွက်ချက်, XOR</string>
+    <string name="select_copy_item">ကော်ပီကူးဖို့ item ကို Select လုပ်:</string>
+    <string name="landscape">ရှုခင်း</string>
+    <string name="portrait">ပုံတူ</string>
+    <string name="toolbar_buttons">toolbar ကိုခလုတ်</string>
+    <string name="need_update_to">သင်ဤ script ကို run ဖို့ __app_name__ ၏ပိုသစ်သောဗားရှင်းလိုအပ်ပါတယ်။ အနည်းဆုံးဗားရှင်း __s__. ကိုသင်ဗားရှင်း __s__ ရှိသည်။</string>
+    <string name="default_mark">ပျက်ကွက်</string>
+    <string name="default_">default:</string>
+    <string name="reset_button">reset</string>
+    <string name="help_hex_colors_title">မှတ်ဉာဏ်အယ်ဒီတာအတွက်အရောင်များ</string>
+    <string name="help_hex_colors">"* __help_hex_colors_title__:
+အဆိုပါ hex ကိုယ်စားပြုမှုအဖြူ, ဒါပေမယ့်အရောင်မပါရှိလျှင်, သို့ဖြစ်လျှင်ဤတန်ဖိုးအရှိဆုံးဖွယ်ရှိ pointer ဖြစ်ပါတယ်။ အရောင်ဒီ pointer ကိုရည်ညွှန်းသည်မှတ်ဉာဏ်၏အရာ type ကိုဖော်ပြသည်။
+ဤသည် __executable__ မှတ်ဉာဏ်, ရှားပါးကိစ္စများတွင် __writable__ သို့မဟုတ် __read_only__. နိုင်ပါတယ်, က __writable_and_executable__ မှတ်ဉာဏ်ရှိနိုင်ပါသည်။"</string>
+    <string name="executable">ဟာ executable</string>
+    <string name="writable">writable</string>
+    <string name="read_only">ကိုဖတ်ရှုသာ</string>
+    <string name="writable_and_executable">writable နှင့်ဟာ executable</string>
+    <string name="help_extract">အကူအညီ Extract</string>
+    <string name="help_extract_done">အဆိုပါအကူအညီကို __s__ မှထုတ်ယူနေသည်</string>
+    <string name="help_extract_fail">အကူအညီဆွဲထုတ်နေစဉ်မှားယွင်းမှုတစ်ခုဖြစ်ပွားခဲ့သည်:</string>
+    <string name="try_arm_version">အဟောင်းတွေကို ARM ပရိုဆက်ဆာအဘို့အထောက်ခံမှုနှင့်အတူ __app_name__ ၏ဗားရှင်းသုံးပြီးကြိုးစားပါ:</string>
+    <string name="back">ပြန်.</string>
+    <string name="forward">ရှေ့သို့</string>
+    <string name="no_previous">အဘယ်သူမျှမကယခင် entries တွေကို</string>
+    <string name="no_next">အဘယ်သူမျှမလာမယ့် entries တွေကို</string>
+    <string name="from_item">ပစ္စည်းမှ:</string>
+    <string name="from_context">ဆက်စပ် menu ကိုမှ:</string>
+    <string name="from_boundary">နယ်နိမိတ်ထဲကနေ</string>
+    <string name="from_goto">ကို goto Call</string>
+    <string name="from_calc">အဆိုပါ offset ဂဏန်းတွက်စက်မှ:</string>
+    <string name="help_add_to_value_title">Option ကို \"__add_not_replace__\"</string>
+    <string name="help_add_to_value">"* __help_add_to_value_title__:
+ဒီ option ကို check လုပ်ထားလျှင်, ထဲသို့ဝင်တန်ဖိုးကိုလက်ရှိတန်ဖိုးကဆက်ပြောသည်နှင့်အစားထိုးမရပါလိမ့်မည်။ ဥပမာ, ဒြပ်စင် 5 တန်ဖိုးရှိပါတယ်, သင်တန်ဖိုးလယ်ပြင်၌, 7 ဝင်ကြ၏။ ဒီ option ကို check လုပ်ထားလျှင် check လုပ်ထားမဟုတ်, ထို့နောက် 7 လျှင်, ဒြပ်စင် 12 ညီမျှ 5 + 7 ၏အသစ်တစ်ခုကိုတန်ဖိုးအရပါလိမ့်မယ်။
+သငျသညျနှစ်ဦးစလုံးအပြုသဘောနှင့်အပျက်သဘောတန်ဖိုးများရိုက်ထည့်နိုင်ပါတယ်။
+ဒီ option ကတန်ဖိုးများ၏ခဲတွေနဲ့ကိုက်ညီခြင်းမရှိပါ။"</string>
+    <string name="check_libs">ဂိမ်းစာကြည့်တိုက်၏ဗိသုကာ Check:</string>
+    <string name="arm_libs">"apk တွင် x86 စာကြည့်တိုက်ရှိတယ်ပေမယ့်ဒီဂိမ်း, က ARM စာကြည့်တိုက်များနှင့်အတူ install လုပ်ပြီးသားဖြစ်ပါတယ်။
+Speedhack နှင့်ချိတ်ဆက်အရာအားလုံး, အလုပ်လုပ်မည်မဟုတ်ပေ။
+\"__skip__\" ဤစစ်ဆေးမှုများကိုပိတ်ထား။ သင်က setting တွင်ပြန်ဖွင့်လို့ရပါတယ်။"</string>
+    <string name="manual_install">သငျသညျကို manually .apk file ကို install လုပ်နိုင်ပါတယ်။ ဒါဟာအောက်ပါလမ်းကြောင်းမှာတည်ရှိပြီး:</string>
+    <string name="as_text">(loaded မရနိုငျသညျ) ကစာသားအဖြစ်</string>
+    <string name="as_text_help">လူ့ဖတ်ဘို့အဆင်ပြေ, စာသားပုံစံအတွက်စာရင်းကယ်တင်တော်မူ၏။ ဒီပုံစံကို၏ loading မပံ့ပိုးပါ။</string>
+    <string name="help_pointer_search_title">pointer ရှာဖွေရေး</string>
+    <string name="help_pointer_search">လိုချင်သောလိပ်စာမှထောက်ပြနိုင်တန်ဖိုးများများအတွက်ရှာဖွေမှု။ သငျသညျ offset တစ်ခုဖြစ်နိုင်သမျှအဘို့အဦးရေအများဆုံးကန့်သတ်သတ်မှတ်နိုင်ပါတယ်။</string>
+    <string name="all_memory">အားလုံးမှတ်ဉာဏ်ထဲမှာ</string>
+    <string name="offset_help">တစ်ဦးဖြစ်နိုင်သမျှအဘို့အများဆုံးကန့်သတ်ထေ။</string>
+    <string name="typical_values">ပုံမှန်တန်ဖိုးများ</string>
+    <string name="su_command">superUser command ကို</string>
+    <string name="starts">အတူစတင်</string>
+    <string name="ends">အတူအဆုံးသတ်</string>
+    <string name="no_filter">အဘယ်သူမျှမ filter ကို။</string>
+    <string name="help_memory_filter_title">မှတ်ဉာဏ်အယ်ဒီတာအတွက် filtering</string>
+    <string name="help_memory_filter">"* __help_memory_filter_title__:
+သင့်အနေဖြင့်မှတ်ဉာဏ်အယ်ဒီတာတစ်ဦး filter ကိုသတ်မှတ်နိုင်ပါတယ်။ အဆိုပါ filter ကိုကိုက်ညီသောသူတို့သာရလဒ်များကိုပြသပါလိမ့်မည်။
+အဆိုပါ filter သံခိတ်ထောက်ခံပါတယ်:
+\u0009__caret__ - ဒေတာရဲ့ start,
+\u0009__dollar__ - ထိုအချက်အလက်များ၏အဆုံး,
+\u0009__asterisk__ - မဆိုအက္ခရာမဆိုနံပါတ်,
+\u0009__question__ - ထိုမျှဇာတ်ကောင်။
+ဥပမာအားဖြင့်, အရေအတွက်က 42 ကိုရှာဖွေ, သင် __caret__42__dollar__ ရိုက်ထည့်ဖို့လိုအပ်ပါတယ်။"</string>
+    <string name="use_sh">အမိန့် shell ကိုအသုံးပြုပါ</string>
+    <string name="backgrounds">Black ကနောက်ခံ</string>
+    <string name="actions">လုပ်ဆောင်ချက်များ:</string>
+    <string name="game_settings">ဂိမ်းအတွက်ဆက်တင်များ:</string>
+    <string name="global_settings">ကမ္ဘာလုံးဆိုင်ရာချိန်ညှိမှုများ:</string>
+    <string name="ui_settings">UI ကို setting များကို:</string>
+    <string name="others">အခြားသူများက:</string>
+    <string name="skip_memory">မှတ်ဉာဏ်ဒေသများ Skip:</string>
+    <string name="empty_memory">ဗလာ</string>
+    <string name="without_protection">ကာကွယ်စောင့်ရှောက်ခြင်းမရှိဘဲ</string>
+    <string name="help_games_protection_title">ဂိမ်းထဲမှာကာကွယ်မှုန်းကျင်ကိုဘယ်လိုသွားရမလဲ</string>
+    <string name="help_games_protection">"\u0009တချို့ကဂိမ်းမှတ်ဉာဏ်အယ်ဒီတာများဆန့်ကျင်ကာကွယ်စောင့်ရှောက်ရေးတပ်ဆင်ထားကြသည်။ သင့်အနေဖြင့်အောက်ပါကွိုးစားနိုင်သည်
+\u00091. \"__kill_game__\", ပြီးတော့ \"__restart_game_without_protection__\" ။
+\u00092. ထို့နောက် \"__disable_protection__\" နှင့် run (သို့မဟုတ်ပြန်လည်စတင်ရန်) ဂိမ်း။
+\u00093. အားလုံးသို့မဟုတ် \"__hide_from_game__\" တွင်အချက်တွေကို၏တစ်စိတ်တစ်ပိုင်းကိုသုံးပါ။ ထိုသူအပေါင်းတို့သည်ရှာဖွေမှုနှေးကွေးသွားနိုင်ပါတယ်။
+\u0009ဂိမ်းလျော့ချအခါ 4. ရှာပါ။
+\u0009ဂိမ်းဆိုင်းငံ့မှုသောအခါ 5. ရှာပါ။
+\u0009ဂိမ်းအများအပြားဖြစ်စဉ်များရှိပါတယ်လျှင် 6. , ဂိမ်း၏အကာအကွယ်ဖြစ်စဉ်များအချို့ Kill သို့မဟုတ်ခဏရပ်ရန်။
+\u00097. အသုံးပြုမှု XPrivacy သို့မဟုတ်ကာကွယ်စောင့်ရှောက်ရေးကိုကျော်လွှားရန်အလားတူကိရိယာများ။
+\u00098. ကာကွယ်မှုမရှိဘဲဂိမ်း၏ပြုပြင်မွမ်းမံအသုံးပြုပါ။
+"</string>
+    <string name="disable_protection">(reboot အထိ) အားလုံး application များအတွက်ကာကွယ်စောင့်ရှောက်ရေးကို Disable</string>
+    <string name="must_restart_if">သငျသညျကာကွယ်စောင့်ရှောက်ရေးကို disable ရှေ့တော်၌ထိုဂိမ်းကို run ပါလျှင်, သင်ကပြန်လည်စတင်ရန်ရမည်ဖြစ်သည်။</string>
+    <string name="patch_loading">loading patch ကို ...</string>
+    <string name="patch_loaded">patch တင်ဖြစ်ပါတယ်။</string>
+    <string name="patch_failed">patch တင်မဟုတ်ပါဘူး။</string>
+    <string name="history_limit">သမိုင်း၏ကန့်သတ်မှု:</string>
+    <string name="copy_as_search">အုပ်စုတစ်ခုရှာဖွေရေးအဖြစ်မိတ္တူ</string>
+    <string name="add_types">အမျိုးအစားများကို Add</string>
+    <string name="add_size">အုပ်စုအရွယ်အစား Add</string>
+    <string name="copy_rhex_value">ပြောင်းပြန် hex တန်ဖိုးကို copy:</string>
+    <string name="mips_arch">ဒီအပလီကေးရှင်း MIPS ဗိသုကာထောကျပံ့ပေးမထားဘူး။</string>
+    <string name="unrandomizer">Unrandomizer</string>
+    <string name="functions">လုပ်ငန်းဆောင်တာ</string>
+    <string name="help_unrandomizer">"
+အဆိုပါ unrandomizer လေ့ကျပန်းတန်ဖိုးများကိုထုတ်လုပ်ရန်ဂိမ်းအတွက်အသုံးပြုအချို့လုပ်ဆောင်ချက်များကိုအစားထိုးရန်ဒီဇိုင်းရေးဆွဲတဲ့ feature တစ်ခုဖြစ်ပါတယ်။ ထို့နောက်တစ်ဦးအလွန်ရိုးရှင်းတဲ့အဆင့်တွင်ဥပမာတစ်ခုအဘို့, ကစားသမားရဲ့ဆုလာဘ်ဆုံးဖြတ်ရန်ကျပန်း function ကိုအသုံးပြုတဲ့ဂိမ်းရှိပေမည်။ အဆိုပါ unrandomizer ဖွင့်ပေးခြင်းထို့နောက် __app_name__ (ကအချို့သောဆုလာဘ်ရဖို့, ဥပမာများအတွက်) ရလဒ်ကိုပြောင်းလဲနိုင်ရန်အတွက်သတ်မှတ်ထားသောတန်ဖိုးအားဖြင့်ဤကျပန်းတန်ဖိုးကိုအစားထိုးရန်ဖို့ကြိုးစားစေလိမ့်မယ်။
+
+အဆိုပါ unrandomizer အားလုံးကိစ္စများတွင်အလုပ်လုပ်မည်မဟုတ်ပေ။ ကိုယ်ကသာအဲဒီအကြောင်းကိုသိကြောင်းလုပ်ဆောင်ချက်များကိုကိုင်တွယ်ပါလိမ့်မယ်။ ဒါကြောင့်တစ်ဦးခေတ်မီ / စမ်းသပ် feature ကိုပိုင့်အဖြစ်ရဆုံးကိစ္စများတွင်အများစုအသုံးပြုသူများအတွက်, ဒီသုံးမည်မဟုတ်ပါ။
+
+__type_double__ (ခဲကိုအသုံးပြု) - တချို့ကလုပ်ဆောင်ချက်များကို __type_qword__ အချို့ပြန်သွားပါ။
+
+__type_double__ တန်ဖိုးများကို __app_name__ သို့အလိုအလျောက်အပေါငျးတို့သမမှန်ကန်ကြောင်းမျိုးကွဲပြင်ပေးပါလိမ့်မယ်ဘာဖြစ်လို့လဲဆိုတော့သို့သော်သင်သည်ထိုအရပ်၌မဆိုတန်ဖိုးများကိုသတ်မှတ်နိုင်ပါတယ် 0 င်အနေဖြင့် 1. ဖို့အကွာအဝေးအတွက်ဖြစ်ရပါမည်။
+
+သင်တို့သည်လည်းတစ်ဦး increment ခြေလှမ်းကိုသတ်မှတ်နိုင်ပါတယ်။ ဤကိစ္စတွင်ခုနှစ်, တစ်ဦးချင်းစီနောက်ဆက်တွဲရလဒ်ကဒီတန်ဖိုးကိုမြင့်တက်စေမည်။ ဥပမာအားဖြင့်, increment 1 နှင့်ကနဦးတန်ဖိုးကို 0, အစားကျပန်းတန်ဖိုးကို, 0, 1, 2, 3, ... ပြန်ရောက်လိမ့်မည်။
+ဒီ option ကအားလုံးတတ်နိုင်သမျှကျပန်းရလဒ်တစ်ခုပြီးပြည့်စုံရှာဖွေရေးများအတွက်အသုံးဝင်သောနိုင်ပါတယ်။
+
+သင်က __app_name__ setting တွင်ပြုပြင်မွမ်းမံဖို့လည်ပတ်သောအရာကိုသတ်မှတ်နိုင်ပါတယ်။
+"</string>
+    <string name="count_replace">အစားထိုးဘယ်နှစ်ယောက်ပထမဦးဆုံးရလဒ်များကို?</string>
+    <string name="unrandomizer_loading">loading unrandomizer ...</string>
+    <string name="unrandomizer_loaded">Unrandomizer တင်ဖြစ်ပါတယ်။</string>
+    <string name="warn_restart_off_prot">"ဒီ option ကကာကွယ်စောင့်ရှောက်ခြင်းမရှိဘဲဂိမ်းကို restart လုပ်ပါဖို့ကြိုးစားပါလိမ့်မယ်။
+သို့သော်များစွာသော firmware ကို device ကို reboot စေနိုငျသော bug တွေပါရှိသည်။
+ဒီဖြစ်ပျက်လျှင်ဤကိုထပ် device ကိုပြန်လည်စတင်လိမ့်မည်အဖြစ်ကိုတဖန်ဂိမ်းကိုစတငျဖို့ကြိုးစားပါဘူး။
+ရုံ __app_name__ ကို run - ကမကောင်းတဲ့ setting များကိုရှင်းလင်းပါလိမ့်မယ်။
+ဒါ့အပြင်သင်ဤသိပ်ပြဿနာကိုဖြေရှင်းသင့်တယ်, ပုံမှန်လမ်းအတွက် device ကို reboot ဖို့ကြိုးစားနိုင်ပါတယ်။
+
+အဆိုပါ reboot ဖြစ်ပွားခဲ့သည်ပြီဆိုရင် - ဒီ function ကိုအသုံးမပြုပါကသင့်ရဲ့ firmware ကိုအလုပ်လုပ်မည်မဟုတ်ပေ။"</string>
+    <string name="warn_patch_off_prot">"ဒီ option ကအားလုံး applications များကာကွယ်စောင့်ရှောက်ရေးမပါဘဲ run နိုင်အောင်စနစ် (ယာယီ) patch ဖို့ကြိုးစားပါလိမ့်မယ်။
+အဆိုပါပြောင်းလဲမှုများကိုသာအသစ်သော applications များစတင်လျှောက်ထားမည်ဖြစ်သည်။ ထို့ကြောင့်ပစ်မှတ်လျှောက်လွှာတစ်အောင်မြင်သော patch ကိုအပြီး, ပြန်လည်စတင်ရန်လိုအပ်ပါသည်။
+အဆိုပါ patch ကိုဖျက်သိမ်းရုံ device ကို restart ချလိုက်ပါ။
+ဖြစ်ကောင်းဖြစ်နိုင်ဒီ patch ကိုအပြီး, စနစ်အတွက်အမျိုးမျိုးသော bug တွေရှိကြလိမ့်မည်။
+
+အဆိုပါ patch ကိုအောင်မြင်ပါကစက်ကိုပြန်ဖွင့်ရှေ့တော်၌နောက်တဖန်ဒီ function ကို run ဖို့အကြံပြုသည်မဟုတ်။
+
+သငျသညျပြဿနာများရှိပါက, ဒီ function ကိုမသုံးကြဘူး။"</string>
+    <string name="clear_history">Clear ကို input ကိုသမိုင်း</string>
+    <string name="clear_history_warn">Taskbar မှာအရင်ကမရှိသေးတဲ့အပါအဝင်အားလုံးသော posts, ဖျက်ပစ်ပါမည်။</string>
+    <string name="click_edit">တည်းဖြတ်ရန်ဒီနေရာကိုနှိပ်ပါ</string>
+    <string name="ignore_unknown_chars">အမည်မသိဇာတ်ကောင်လျစ်လျူရှု:</string>
+    <string name="need_root_mode">ဒီ feature အမြစ်ဝင်ရောက်ခွင့်လိုအပ်သည်။ လောလောဆယ် __app_name__ အမြစ်ဝင်ရောက်ခွင့်မရှိဘဲကို virtual ပတ်ဝန်းကျင် mode မှာလည်ပတ်နေခြင်းဖြစ်သည်။</string>
+    <string name="work_without_root_title">အမြစ်မရှိဘဲအလုပ်</string>
+    <string name="work_without_root">"__app_name__ တစ်ဦးကို virtual ပတ်ဝန်းကျင်မှတဆင့်အမြစ်မပါဘဲအလုပ်လုပ်နိုင်ပါတယ်။ ဥပမာအားဖြင့်, __vspace_list__ နှင့်အခြားသောမှတဆင့်။
+__app_name__ တစ်ဦးကို virtual ပတ်ဝန်းကျင်တွင်တပ်ဆင်ရမည်ဖြစ်သည်။ ဒီဂိမ်းလည်း installed ရမည်ဖြစ်သည်။
+အဆိုပါအစီအစဉ်၏အားလုံး features တွေထောက်ခံနေကြပေမယ့်အများဆုံးလုပ်ဆောင်ချက်များကိုလုပ်ဆောင်သင့်ပါဘူး။
+
+သင်တစ်ဦးကို virtual ပတ်ဝန်းကျင်အတွက်မတပ်ဆင်ရသေးဖြစ်ကြောင်းဂိမ်းများကို crack နိုင်လိမ့်မည်မဟုတ်။
+
+ကျပန်းအထုပ်နာမကိုအမှီအတူပြန်လည် install ပြုလုပ်ဆောင်ရွက်ရသော __app_name__ ၏ပထမဦးဆုံးပစ်လွှတ်, တစ်ဦးကို virtual ပတ်ဝန်းကျင်မှတစ်ဆင့်ဖျော်ဖြေမရရမည်ဖြစ်သည်။
+ထိုအခါသင်က virtual ပတ်ဝန်းကျင်ကို __app_name__ add နှင့်ကိုသုံးနိုင်သည်။"</string>
+    <string name="help_game_not_listed_title">အဘယ်ကြောင့်ငါ့အဂိမ်းလုပ်ငန်းစဉ်စာရင်းထဲတွင်ဖြစ်သည်မဟုတ်လော</string>
+    <string name="fractional_hint">"အမှန်တကယ်အရေအတွက်ကို \"x\" ၏ဒဿမကိန်းအစိတ်အပိုင်းတစ်ခုကြောင့်အရေအတွက်ကန့်ကိန်းအစိတ်အပိုင်းတစ်ခုထက်ကျော်လွန်ပိုလျှံပါတယ်။
+နံပါတ်က၎င်း၏ဒဿမကိန်းအစိတ်အပိုင်းအတွက်ဤအရပ်ပု radix အမှတ်ပြီးနောက်ပေါ်လာသောထိုဂဏန်းနဲ့ကိုက်ညီ။
+
+ဥပမာ:"</string>
+    <string name="pointer">pointer:</string>
+    <string name="help_search_filter_title">ရှာဖွေရေးအတွက်စိစစ်မှုများ</string>
+    <string name="help_search_filter">"သငျသညျအရှာဖွေရေးရလဒ်များကို filter နိုင်ပါတယ်။
+သငျသညျကိုသတ်မှတ်နိုင်သည်
+\u0009- လိပ်စာများအတွက်ကန့်သတ်,
+\u0009- တန်ဖိုးများအတွက်ကန့်သတ်,
+\u0009- လိုအပ်သောဒေတာအမျိုးအစား,
+\u0009- အရေအတွက်ကို၏တပ်မက်လိုချင်သောအဒဿမကိန်းအစိတ်အပိုင်းတစ်ခု,
+\u0009- pointer ၏တပ်မက်လိုချင်သောအမျိုးအစား။
+သငျသညျအသီးအသီးကတခြားနှင့်အတူမည်သည့် filter များပေါင်းစပ်နိုင်ပါတယ်။
+သင်တို့သည်လည်းမည်သည့်အချိန်တွင်တစ်ဦးသို့မဟုတ်ထားသော filters မဆို disable နိုင်ပါတယ်။
+
+အချက်အလက်များ၏ပမာဏကြီးမားတဲ့တွေ့ရှိခဲ့လျှင်မည်သို့ပင်သည်, filter များရလဒ်ကိုနှေးကွေးနိုင်ပါတယ်။
+
+နံပါတ်၏ဒဿမကိန်းအစိတ်အပိုင်းတစ်ခုအပေါ်တစ်ဦးက filter ကိုတန်းတူရေးသို့မဟုတ်မညီမျှမှုအားဖြင့်ဖြစ်စေနိုင်ပါတယ်။
+ကိန်းအမျိုးအစားများအဘို့, ဒဿမကိန်းတစ်စိတ်တစ်ပိုင်းသုညဖြစ်ပါတယ်။ သငျသညျကိန်းအမျိုးအစားများကိုမလိုအပ်ပါဘူးဆိုရငျ, အမျိုးအစား filter ကိုသုံးပြီးသူတို့ကိုဖယ်ထုတ်။
+
+pointer type ကိုအလိုက်စစ်ထုတ်ရန်က output အတွက်မှတ်ဉာဏ်၏တပ်မက်လိုချင်သောပုံစံတစ်ခု pointer ကိုနိုင်သူတို့သာတန်ဖိုးများကိုစွန့်ခွာဖို့ခွင့်ပြုပါတယ်။
+ဖြစ်နိုင်ပါ့မလားမှတ်ဉာဏ်မျိုးကိုမှတ်ဉာဏ်အယ်ဒီတာအတွက်အရောင်များကိုက်ညီတဲ့:
+ဤသည် __executable__ မှတ်ဉာဏ်, ရှားပါးကိစ္စများတွင် __writable__ သို့မဟုတ် __read_only__. နိုင်ပါတယ်, က __writable_and_executable__ မှတ်ဉာဏ်ရှိနိုင်ပါသည်။
+
+အဆိုပါ Pseudo-type ကို \"မ pointer\" ထောက်ပြမဖွစျနိုငျကွောငျးကိုဒေတာအမျိုးအစားအားလုံးကိုဖို့, စထဲကအသုံးမပြုတဲ့မှတ်ဉာဏ်ထောက်ပြကြောင်းထောက်ပြသူတို့တန်ဖိုးများကိုက်ညီ။"</string>
+    <string name="unmount_kill">"__app_name__ ပေါ်မှာယာယီဖိုင်တွေသိမ်းဆည်းထားစဉ်မှတ်ဉာဏ်ကဒ်အားအထိုင်မှဖြုတ်ခဲ့သည်။ ဒါက daemons များ၏အတင်းအဓမ္မပိတ်သိမ်းဖို့ဦးဆောင်ခဲ့သည်။
+
+ဖြစ်ပျက်မှဤကာကွယ်တားဆီးဖို့, ယာယီဖိုင်တွေကိုတစ်ဦးကွဲပြားခြားနားသောလမ်းကြောင်းကိုသတ်မှတ်။ ဥပမာ, internal memory ထဲမှာ။
+လုံလောက်အောင်နေရာလွတ်ရှိသင့်ပါသည်။"</string>
+    <string name="calls">System ကို mode ကိုခေါ်ဆို:</string>
+    <string name="alternative">အခြားရွေးချယ်စရာ</string>
+    <string name="help_calls">"အချို့သော firmware ကိုတွင်ဥပမာ Lenovo ကအဘို့, အခြားရွေးချယ်စရာ mode ကိုပိုမိုမြန်ဆန်စွာအလုပ်လုပ်နိုင်ပါတယ်။
+
+ပုံမှန်အားဖြင့်, သင်သည်ဤ option ကိုပြောင်းလဲပစ်ရန်မလိုအပ်ပါ။"</string>
+    <string name="help_context_title">Contextual အကူအညီနဲ့</string>
+    <string name="help_context">"အဆိုပါ interface ကိုခုနှစ်မှာအချို့သောဒြပ်စင်သင်္ကေတစက်ဝိုင်းထဲမှာ __i__ နှင့်တကွ, ညာဘက်ထိပ်မှာ, အထူးအိုင်ကွန်နှင့်အတူမှတ်သားနေကြသည်။
+Press သို့မဟုတ်ရှည်လျားနှိပ်, ဒီဒြပ်စင်အပေါ်, ဒီဒြပ်စင်အပေါ်အကူအညီနဲ့ပြသထားတယ်။"</string>
+    <string name="waitpid_mode">__waitpid__ မုဒ်:</string>
+    <string name="help_waitpid">"မျှော်လင့်ထားသည့်အတိုင်းအချို့ firmware ကိုတွင် __waitpid__ system ကိုဖုန်းခေါ်ဆိုမှုအလုပ်မလုပ်ပါဘူး။ ဤသည်များသောအားဖြင့်မမှန်ကန်ကြောင်း selinux setting များကိုကြောင့်ဖြစ်သည်။
+ဤသည် __app_name__ အတွက်အဆုံးမဲ့ရှာဖွေရေးစေပါတယ်။
+သင်တစ်ဦးကအခြားရွေးချယ်စရာ mode ကိုသုံးပြီးကြိုးစားနိုင်ပါ။ ဒီတစ်ခါလည်းဒီအလုပ်လုပ်ပါလိမ့်မယ်။"</string>
+    <string name="microseconds_short">μs</string>
+    <string name="small_is_bad">သေးငယ်လွန်းတန်ဖိုးများဂိမ်းထဲမှာ processor နဲ့နှေးအပေါ်တစ်ဦးမြင့်မားသောဝန်ကိုဖြစ်ပေါ်စေနိုင်ပါတယ်။</string>
+    <string name="freeze_interval_help">__app_name__ ဂိမ်းမှတ်ဉာဏ်အတွက်တန်ဖိုးများ overwrites ရာမှတစ်ဆင့်အဆိုပါကြားကာလ။</string>
+    <string name="saved_list_update_interval_help">__app_name__ ကယ်တင်စာရင်းအတွက်တန်ဖိုးများကို update ပေးသောမှတဆင့်အဆိုပါကြားကာလ။</string>
+    <string name="icons_size_help">"အဆိုပါ __app_name__ interface ကိုအတွက် icon များ၏အရွယ်အစား။
+တစ်ဦးရေပေါ်အိုင်ကွန်လျှောက်ထားမထားဘူး။"</string>
+    <string name="ignore_unknown_chars_help">မတူညီတဲ့နေရာတွေကနေနံပါတ်များကိုကူးယူသည့်အခါအထူးအက္ခရာများနံပါတ်များနှင့်အတူကူးယူလျှင်, ပြဿနာများကိုဖြေရှင်းကူညီပေးနိုင်ပါသည်။</string>
+    <string name="use_notification_help">"အန်းဒရွိုက်၏ system ကိုအကြောင်းကြားစာဧရိယာ၌အသိပေးချက်များကိုအသုံးပြုခြင်း။
+အချို့သော firmware ကိုတွင်, ဒီလျှောက်လွှာများကိုဦးစားတိုးပွါးခြင်းနှင့်ပိတ်ပွဲကနေကာကွယ်ပေးသည်။
+ဒါ့အပြင်သင်ကကလစ်နှိပ်ခြင်းအားဖြင့် __app_name__ သို့မဟုတ်ဂိမ်းကိုသွားဖို့အကြောင်းကြားစာကိုသုံးနိုင်သည်။
+သင် floating icon ကို click မပေးနိုင်လျှင်ဤသည်အသုံးဝင်သောနိုင်ပါတယ်။"</string>
+    <string name="use_sound_effects_help">"သငျသညျခလုတ်များနှင့်ပစ္စည်းများကိုနှိပ်သောအခါ System ကိုအသံ။
+အချို့သော firmware ကိုတွင်, လေယာဉ်ပျက်ကျဖို့ __app_name__ စေအသံ။"</string>
+    <string name="keyboard_help">အဆိုပါပြည်တွင်းရေးကီးဘုတ်ဝန်ပိုမြန်နည်းမှတ်ဉာဏ်ကိုတက်ယူနှင့်နံပါတ်များကိုရိုက်ထည့်ခြင်းအဘို့အ optimized ဖြစ်ပါတယ်။</string>
+    <string name="allow_suggestions_help">"ပြင်ပကီးဘုတ်ကနေသဲလွန်စ။
+အချို့သော firmware ကိုတွင်, အရိပ်အမြွက်ပျက်ကျမှုဖို့ __app_name__ ဖြစ်ပေါ်စေနိုင်ပါတယ်။"</string>
+    <string name="autopause_help">အဆိုပါ __app_name__ interface ကိုဖွင့်လှစ်တဲ့အခါမှာအလိုအလျှောက်ခေတ္တနားပေါ်တွင်ဂိမ်းတတ်၏။</string>
+    <string name="killed_by">__app_name__ အတင်းအကြပ်လျှောက်လွှာ \"__s__\" ကပိတ်ထားခဲ့ခြင်းဖြစ်သည်။ ဒီရှောင်ရှားရန်, ဤလျှောက်လွှာကို delete သို့မဟုတ်က __app_name__ အဆုံးသတ်ခြင်းပါဘူးဒါကြောင့် configure ။</string>
+    <string name="killers_found">"သငျသညျအတင်းအကြပ် __app_name__ ကိုပိတ်ဖို့နိုငျသော application များ install လုပ်ထားပြီ
+__s__
+, ဒီရှောင်ရှားသူတို့ကို delete, ဒါမှမဟုတ်သူတို့က __app_name__ အဆုံးသတ်ခြင်းကြဘူးဒါကြောင့်သူတို့ကို configure ရန်။
+
+သင် __app_name__ များ၏မျှော်လင့်မထားတဲ့ပိတ်ပွဲနှင့်အတူပြဿနာများတွေ့ကြုံခံစားကြဘူးလျှင်, အဘယ်သူမျှမအရေးယူမှုလိုအပ်ပါသည်, သင်ကဒီမက်ဆေ့ခ်ျကိုလစျြလြူရှုနိုင်ပါတယ်။"</string>
+    <string name="record_logcat">စံချိန် __logcat__</string>
+    <string name="record_logcat_info">"__app_name__ ဖိုင်ကိုသို့ __logcat__ မှတ်တမ်းတင်အတူပြန်လည်စတင်လိမ့်မည်:
+\"__s__\" ။
+
+မှတ်တမ်းတင်, __app_name__ ထံမှထွက်ပေါက်ကိုအဆုံးသတ်စေရန်။
+ထို့နောက်သင်လိုအပ်ဘယ်မှာဖို့မှတ်တမ်းဖိုင်ပို့နိုင်သည်။"</string>
+    <string name="need_uninstall">သင်က installer ကို uninstall လုပ်ဖို့လိုအပ်တယ်, မဟုတ်ရင်သင်ဂိမ်းက detect ပါလိမ့်မယ်ဒါ့အပြင် 4 icon များမဟုတ်ဘဲ 2. ရပါလိမ့်မယ်။</string>
+    <string name="need_random_name">"__app_name__ စံအထုပ်အမည်ကိုအသုံးပြုသည်။ ဂိမ်းများကြောင့် detect နိုင်ပါတယ်။
+
+ပုံမှန်လျှောက်လွှာအဖြစ်ကို virtual နေရာပြေး __app_name__ အပြင်ဘက် - ဤ fix စေရန်။
+Installation ပြီးဆုံးပြီးနောက်က virtual အာကာသမှကျပန်းအမည် __app_name__ ၏ကော်ပီထည့်ပါ။"</string>
+    <string name="work_mode">အလုပ် mode ကို</string>
+    <string name="root">အမြစ်</string>
+    <string name="no_root">အမြစ်မစွဲ</string>
+    <string name="how_no_root">"သငျသညျက virtual အာကာသ application ကို install လုပ်ဖို့လိုအပ်ပါတယ်။ ကဲ့သို့သော: __vspace_list__ ။
+
+ဒါဟာတရားဝင် __app_name__ site မှ optimized ဗားရှင်းကိုထည့်သွင်းရန်အကြံပြုသည်။
+
+ထိုအခါသင်ဤကို virtual အာကာသမှ __app_name__ နှင့်သင့်ဂိမ်း add ရပါမည်။
+
+အဲဒီနောကျသငျသညျက virtual အာကာသအတွင်းဂိမ်းနှင့် __app_name__ ကို run ရမည်ဖြစ်သည်။"</string>
+    <string name="eperm_error_descr_0">ဖြစ်နိုင်ပါ့မလားအကြောင်းပြချက်:</string>
+    <string name="eperm_error_descr_1">ဂိမ်းထဲမှာကာကွယ်စောင့်ရှောက်ရေး။</string>
+    <string name="eperm_error_descr_2">နောက်ထပ် debugger သို့မဟုတ် cracker ဂိမ်းချိတ်ဆက်ဖြစ်ပါတယ်။</string>
+    <string name="eperm_error_descr_3">မလုံလောက်သောခွင့်ပြုချက်။ မှားယွင်းစွာ __selinux__. Disable လုပ်ထား configured သို့မဟုတ် __selinux__ ကို configure အများအားဖြင့်ကြောင့်။</string>
+    <string name="eperm_error_descr_4">မကောင်းတဲ့ kernel ကိုသို့မဟုတ် firmware ကို။ အခြား firmware ကိုသို့မဟုတ်အခြားကိရိယာကြိုးစားပါ။</string>
+    <string name="eperm_error_descr_5">သင့်ရဲ့ firmware ကိုတွင်, \"no အမြစ်\" mode ကိုအလုပ်မလုပ်ပါဘူး။ အခြား firmware ကိုသို့မဟုတ်အခြားကိရိယာကြိုးစားပါသို့မဟုတ်အမြစ်ကိုရယူပါ။</string>
+    <string name="ptrace_bypass_mode">ptrace ကာကွယ်မှုများအတွက် Bypass လုပ်ရမုဒ်:</string>
+    <string name="mode_restore">restore</string>
+    <string name="mode_nothing">ဘာမြှ</string>
+    <string name="mode_freeze">အေး။ ခဲ</string>
+    <string name="ptrace_bypass_mode_help">"ကာကွယ်မှု connection ကို disable လုပ်ဖို့ပြီးနောက်ဘာလုပ်ရမှန်းညွှန်ပြ:
+\u0009__mode_restore__ - ကွန်နက်ရှင် restore
+\u0009__mode_nothing__ - ဘာမျှမလုပ်ပေး (အများအားဖြင့်ကာကွယ်စောင့်ရှောက်ရေးသူ့ဟာသူဆက်သွယ်မှု restores)
+\u0009__mode_freeze__ - (ယခင်ဗားရှင်းများတွင်အဖြစ်) ကိုချည်အေးခဲ
+
+သင်ကာကွယ်မှု restore သို့မဟုတ်ကာကွယ်စောင့်ရှောက်မှုကကိုယ့်ကိုကိုယ်လုပ်ဖို့ခွင့်ပြုပါက, __app_name__ အတွက်တန်ဖိုးခဲမှုကြောင့်ကာကွယ်စောင့်ရှောက်ရေး၏အမြဲတမ်းဆက်သွယ်မှု / ပိတ်ခြင်းမှနှေးစေနိုင်ပါတယ်။"</string>
+    <string name="slow_emulator">"သင်က \"__s__\" emulator ကို အသုံးပြု. ရသည်။ ဒါဟာနှေးနှင့်အမှားအယွင်းများပါရှိသည်။ ထိုကြောင့်, ရှာဖွေရေးအလွန်နှေးကွေးစေနိုင်ပါတယ်။
+
+ကျနော်တို့ကတခြား emulator ကို အသုံးပြု. အကြံပြု:"</string>
+    <string name="text">စာသားမ</string>
+    <string name="show_debug_info">Show ကိုဒီဘာဂ်အင်ဖို</string>
+    <string name="mnt_expand">"__app_name__ \"Internal Storage အ\" အဖြစ်အသုံးပြုကြောင်းတစ်မှတ်ဉာဏ်ကဒ်ပေါ်တွင်တပ်ဆင်ထားသည်။
+ဤသည်ကို virtual နေရာများများ၏စစ်ဆင်ရေးနှင့်အတူဝင်ရောက်စွက်ဖက်နိုင်ပါ။
+ဒီဖြစ်ပျက်လျှင်, ဖုန်းရဲ့ internal memory မှာ __app_name__ install လုပ်ပါ။
+သင် \"အိတ်ဆောင်သိုလှောင်မှု\" အဖြစ်မှတ်ဉာဏ်ကဒ် reformat ဖို့လိုအပ်လိမ့်မည်။"</string>
+    <string name="help_game_not_listed_root">"ဒီဂိမ်းကရွေးဖို့အပြေးရမည်ဖြစ်သည်။
+
+ဂိမ်းအပြေးလျှင်, ဒါပေမယ့်နေဆဲကစာရင်းထဲမှာမပါ, ပြီးတော့ဒါနဲ့ပတ်သက်ပြီးသင်အမြစ်, ဒါမှမဟုတ် firmware ကိုပြဿနာရှိသည်။
+အခြားအမြစ်သို့မဟုတ်အခြား firmware ကိုကြိုးစားပါ။"</string>
+    <string name="help_game_not_listed_noroot">"ကရှေးခယျြထားနိုင်ပါတယ်ဒါကြောင့်ဒီဂိမ်းက virtual အာကာသအတွင်းလွှတ်တင်ခဲ့ရမည်ဖြစ်သည်။
+
+ကက virtual အာကာသအတွင်း run မပါလျှင်သင်တစ်ဦးဂိမ်းကိုရွေးပါလို့မရပါဘူး။
+
+ဂိမ်းက virtual အာကာသအတွင်းပြေးနေသည်, သို့သော်ကစာရင်းထဲတွင်မပါလျှင်နောက်ထပ်ကို virtual အာကာသနောက်ထပ် firmware ကို, အခြားစက်ကိရိယာကြိုးစားပါသို့မဟုတ်တစ်ဦးအမြစ်ရယူပါ။"</string>
+    <string name="daemon_killed_oom">"daemons မှတ်ဉာဏ်မရှိခြင်းကြောင့်စနစ်ဖြင့်သေဆုံးခဲ့ရသည်။
+
+\"__no__\" ဖို့ \"__data_in_ram__\" သတ်မှတ်မည်။
+ဖြစ်နိုင်လျှင်, အင်တာဖေ့၏ hardware acceleration ကိုအသုံးပြုပါ။
+ကြီးမားတဲ့ apps များမသုံးပါနဲ့။
+ရှိသမျှသည်အခြားသောအသုံးမပြုတဲ့ apps များကိုပိတ်ထားပါ။
+သင့်ရဲ့ device ကိုပြန်လည် reboot လုပ်အပြီး __app_name__ သုံးစွဲဖို့ကြိုးစားပါ။"</string>
+    <string name="selected_as_search_result">ရှာဖွေရေးရလဒ်အဖြစ်ရွေးချယ်</string>
+    <string name="clear_results_prompt">ဒါကလက်ရှိရှာဖွေရေးရလဒ်များကိုကိုအစားထိုးပါလိမ့်မယ်။ ဆက်လက်?</string>
+    <string name="position_in_memory_editor">မှတ်ဉာဏ်အယ်ဒီတာအတွက်ရာထူး</string>
+    <string name="script_prompt_internet">"အဆိုပါ script ကိုအင်တာနက်ကိုဝင်ရောက်ဖို့လိုသည်။ သင်သုံးခွင့်ပြုလျှင်, ဇာတ်ညွှန်း, သင့်ရဲ့ login ခိုးယူနိုင်ပါလိမ့်စကားဝှက်သိမ်းဆည်းခြင်းနှင့်ဂိမ်းထဲကနေအခြားဒေတာများကိုပါလိမ့်မယ်။ ဒါ့အပြင်သူကသင့်အခြား script များခိုးယူနိုင်ပါလိမ့်သို့မဟုတ်သင့် device ကိုမှဗိုင်းရပ်စ်ကို download လုပ်ပါလိမ့်မယ်။
+
+အင်တာနက် script ကို access ကိုခွင့်ပြုမလား?"</string>
+    <string name="level">level</string>
+    <string name="float_prompt">"စနစ်တကျသင့်ရဲ့ firmware ကိုအပေါ် __app_name__ ကို run ဖို့, သင် __s__ များအတွက် System Setting ထဲမှာအသုံးပြုမှုပေါ့ပ်အပ်ပြတင်းပေါက်ခွင့်ပြုပါရန်လိုအပ်သည်။
+
+ပေါ့ပ်အပ် default အနေဖြင့် Huawei ကဖုန်းမပြထားဘူး။ သငျသညျ __s__ ပေါ့ပ်အပ်ပြသခွင့်ပြုပါရန်လိုအပ်ပါလိမ့်မည်။ အဆိုပါဖုန်း Manager ကိုဖွင့်လှစ်ပြီးတော့ Dropzone စီမံခန့်ခွဲမှုနှင့် __s__ များအတွက်ဖွင်သေချာအောင်ကျေးဇူးပြုပြီးပေးပါ။
+
+ပေါ့ပ်အပ်လည်းအချို့သော Xiaomi ကဖုန်းများပေါ်တွင်မပြထားဘူး။ သငျသညျ Settings ကိုဦးရန်လိုအပ် -> Installed apps များ -> __s__ -> အခြားခွင့်ပြုချက် -> Display ကို Pop-up window ကို။
+
+ဒါ့အပြင်အခြားဖုန်းများ apps များပေါ့ပ်အပ်ဝင်းဒိုးကိုပြသခွင့်ပြုရန်ကွဲပြားခြားနားသောလုပ်ထုံးလုပ်နည်းများပေမည်။ အားလုံးထိုကဲ့သို့သော apps များများသောအားဖြင့်လုပ်ဆောင်နိုင်စွမ်းကို Translate လုပ်ဖို့ဥပမာအားဖြင့်ပုတ်နှင့်အတူ Google Translator app ကိုဤနည်းထိခိုက်နေကြသည်။ ထိုကွောငျ့, သငျသညျရိုးရှင်းစွာအဖြေကိုရှာဖွေရန် \"ဘာသာပြန်ဆို YOUR_PHONE ကိုထိပုတ်ပါ\" google နိုင်ပါတယ်။ အောက်ပါအတိုင်းဥပမာအားဖြင့်, Xiaomi က Redmi device များအတွက်ဖြေရှင်းနည်းဖြစ်ပါသည်:"</string>
+    <string name="virtual_space">virtual အာကာသ App ကို</string>
+    <string name="prevent_unload_help">"(အနီးကပ်အတင်း) မှတ်ဥာဏ်ထဲကနေ __app_name__ ချတားဆီး။
+
+တစ်ခုချင်းစီကိုနောက်ဆက်တွဲအဆင့်ကိုယခင်တစျခုထက်ပိုအစွမ်းထက်သည်နှင့်ကိုယ်နှိုက်ကပါဝင်သည်။
+
+တတိယအဆင့်တွင်အချို့သော firmware ကိုနှင့် emulator အပေါ် (ကင်, ပြန်လည်စတင်သို့မဟုတ်ပျက်ကျဆွဲထား) ပြဿနာဖြစ်စေနိုင်ပါတယ်။
+
+အမြစ်မရှိရင်သာတတိယအဆင့်အကျင့်ကိုကျင့်။"</string>
+    <string name="integer_type">ဒီ data type ကိုသာကိန်းတန်ဖိုးတွေကိုအဘို့ဖြစ်၏နှင့်ဒဿမကိန်းတန်ဖိုးများကိုထောကျပံ့ပေးမထားဘူး။ ဒဿမကိန်းတန်ဖိုးတွေကိုအဘို့အ __type_float__ သို့မဟုတ် __type_double__ ကိုသုံးပါ။</string>
+    <string name="without_float">သင်တို့ကိုလည်း floating ပြတင်းပေါက်မရှိဘဲ __app_name__ ကိုသုံးနိုင်သည်:</string>
+    <string name="any_value">မည်သည့်တန်ဖိုးကို</string>
+    <string name="help_group_search_any_value">သင့်အနေဖြင့်တပ်မက်လိုချင်သောအနေအထားမှာ type ကိုမဆိုတန်ဖိုးကိုသတ်မှတ်နိမ့်ဆုံးအရွယ်အစားနှင့်အတူတစ်ဦးအမိန့်အုပ်စုတစ်စုရှာဖွေရေးအတွက် __any__ ကိုသုံးနိုင်သည်။</string>
+    <string name="help_scripts_title">scripts</string>
+    <string name="help_scripts">"* __help_scripts_title__:
+__app_name__ Lua ၌ရေးထားလျက်ရှိ၏ script များ၏ကွပ်မျက်ထောက်ခံပါတယ်။
+
+ရှာဖွေရေး tab ကိုတွင် menu ကို click လုပ်ပြီး \"__execute_script__\" ကိုရွေးချယ်ပါ။
+ဒီနေရာတွင်, သေဒဏ်စီရင်များအတွက် script ကိုဖိုင်ကိုရွေးတည်ဆဲ __app_name__ API ကိုနည်းလမ်းများတွေ့မြင်ဒါမှမဟုတ် API ကိုအပေါ်အကူအညီနဲ့ဖတ်ခြင်းသို့မဟုတ်အဆင်သင့် script များ download လုပ်ရန်တရားဝင် site ကိုမှသွားနိုင်ပါတယ်။
+ဒါ့အပြင်သင်အင်တာနက်ကမပါဘဲဖတ်ရန်မှတ်ဉာဏ်ကဒ်ပေါ်တွင် API ကိုထံမှအကူအညီ extract နိုင်ပါတယ်။
+
+သင်သည်သင်၏ကိုယ်ပိုင်ဇာတ်ညွှန်းရေးဖို့ချင်လျှင်, သငျသညျပြင်ပစာသားဖိုင်အယ်ဒီတာလိုအပ်ပါတယ်။
+__app_name__ တည်းဖြတ်ရေး script များခွင့်ပြုမထားဘူး, ကသာသူတို့ကို ပေး. စီရင်။
+
+အသေးစိတ်ကို API ကိုအကူအညီကိုဖတ်ပါ။"</string>
+    <string name="help_floating_icon_absent">သည် \"__start__\" ခလုတ်ကိုနှိပ်ခြင်းအားပြီးနောက်သင်တစ်ဦးရေပေါ် icon လေးမြင်ဘူးဆိုရငျ:</string>
+    <string name="remove_all2">အားလုံး Remove</string>
+    <string name="debug_load">အားလုံးကုဒ်ဝန်ကိုပစ်သိမ်းရန်</string>
+    <string name="debug_log">အများဆုံး script ကိုဖုန်းခေါ်ဆိုမှု Log</string>
+    <string name="vspace64">"သငျသညျ 64-bit နဲ့လုပ်ငန်းစဉ်ကိုထောက်ပံ့မယ့်ကို virtual အာကာသအတွင်း __app_name__ သို့ပွေးလေ၏။
+
+__app_name__ ဒီအာကာသအတွင်း running 32-bit နဲ့ဖြစ်စဉ်များကိုတွေ့မြင်မည်မဟုတ်။
+
+သငျသညျ 32-bit နဲ့လုပ်ငန်းစဉ်များနှင့်အတူ __app_name__ အလုပ်လုပ်ချင်လျှင် \"__for32__\" mode မှာ __app_name__ ၏ဒုတိယမိတ္တူ Install လုပ်ပါ။"</string>
+    <string name="folder_new">ဖိုင်တွဲအသစ်</string>
+    <string name="folder_exists">ဤဖိုင်တွဲရှိထားပြီးသား</string>
+    <string name="folder_file">ထိုနာမတျောနှငျ့အတူဖိုင်တစ်ခုရှိပါတယ်</string>
+    <string name="folder_failed">folder ကိုဖန်တီးရန်မအောင်မြင်ခဲ့ပါ</string>
+    <string name="force_close">"ယခင် app ကိုပိတ်မမျှော်လင့်ဘဲဖြစ်ခဲ့သည်။
+
+သငျသညျအနာဂတျမှာကဒီကိုရှောင်ရှားရန် \"__prevent_unload__\" configuration ကိုအဆင့်မြှင့်နိုင်ပါ။"</string>
+    <string name="help_force_close_title">မမျှော်လင့်ဘဲပိတ်</string>
+    <string name="install_mode">Install mode ကို</string>
+    <string name="for32">64-bit နဲ့ကို virtual အာကာသအတွင်း hack က 32-bit နဲ့ဂိမ်းများအတွက်</string>
+    <string name="for64">64-bit နဲ့ကို virtual အာကာသအတွင်း hack က 64-bit နဲ့ဂိမ်းများအတွက်</string>
+    <string name="reset_ignore">အားလုံးအားလုံးစကားကွက်များအတွက်လျစ်လျူရှု Reset</string>
+    <string name="allocate_fail">မှတ်ဉာဏ်စာမျက်နှာခွဲဝေချထားပေးရန်မပေးနိုင်ခဲ့ပါ။ အမှား</string>
+    <string name="allocated">ခွဲဝေမှတ်ဉာဏ်စာမျက်နှာ:</string>
+    <string name="allocate_page">မှတ်ဉာဏ်စာမျက်နှာခွဲဝေချထားပေးရန်</string>
+    <string name="prot_read">ဖတ်ပါစေခြင်းငှါ</string>
+    <string name="prot_write">စာဖြင့်ရေးသားစေခြင်းငှါ</string>
+    <string name="prot_exec">ကွပ်မျက်ခံရမည်အကြောင်း,</string>
+    <string name="install_finished">"အဆိုပါတပ်ဆင်ခြင်းအောင်မြင်ခဲ့သည်။
+ဒါကြောင့်သင့်ရဲ့ဒေတာကိုပြောင်းရွှေ့နိုင်အောင်ကိုယ်တိုင် installed မိတ္တူကို run ။
+ထို့နောက် installer ကိုဖယ်ရှားနိုင်ပါတယ်။"</string>
+    <string name="odd_vspace">__app_name__ က virtual အာကာသအတွင်းလွှတ်တင်ခဲ့?</string>
+    <string name="record_script">စံချိန် script ကို</string>
+    <string name="record">စံချိန်</string>
+    <string name="another_record">နောက်ထပ်စံချိန်သစ်ပြေးနေသည်။ ဒါကြောင့်ရပ်တန့်?</string>
+    <string name="record_ended">ပြီးစီးခဲ့ကော့ဒ်ဒင်း:</string>
+    <string name="stop">ရပ်</string>
+    <string name="could_not_use">အသုံးမနိုင်</string>
+    <string name="not_optimized2">"သငျသညျက virtual အာကာသ ( \"__s__\") ၏ non-optimized ဗားရှင်းကို အသုံးပြု. ရသည်။
+, ဒီအမှား fix \"__s__\" ၏ non-optimized ဗားရှင်းကိုဖယ်ရှားခြင်းနှင့်တရားဝင် site ကို __app_name__ ထံမှ optimized ကို virtual နေရာများထဲကတစ်ခု install လုပ်ရန်။
+optimized ကို virtual နေရာများ၏ရွေးချယ်ရေးကိုသွားဖို့ \"__fix_it__\" ကိုနှိပ်ပါ။"</string>
+    <string name="fix_path">free space သို့မဟုတ် \"__fix_it__\" နှိပ်ခြင်းအားဖြင့်ယာယီဖိုင်တွေများအတွက်ကွဲပြားခြားနားသောလမ်းကြောင်းသတ်မှတ်။</string>
+    <string name="deep_read">နက်ရှိုင်းသောဖတ်ပြီးသား:</string>
+    <string name="help_deep_read">"ဖတ်မရနိုင်တော့လျှင်, ရှိသမျှရရှိနိုင်ပါသည်နည်းလမ်းများအားဖြင့်မှတ်ဉာဏ် Reading ။
+မှတ်ဉာဏ်ဖတ်နှေးကွေးစေနိုင်သည်။"</string>
+    <string name="ptrace_fail">ptrace မှတဆင့်မှတ်ဉာဏ်ကိုပြောင်းလဲရန်မအောင်မြင်ခဲ့ပါ။</string>
+    <string name="ptrace_fail_partially">အချို့အင်္ဂါရပ်, speedhack ကမှဆက်စပ်အရာအားလုံးကို, အလုပ်လုပ်မည်မဟုတ်ပေ။ သာဖတ် (ကုဒ်အပါအဝင်) မှတ်ဉာဏ်မှရေးသားခြင်းမဖြစ်နိုင်ပါ။</string>
+    <string name="ptrace_fail_full">features တွေ၏အကြွင်းမဲ့အာဏာအများစုအလုပ်လုပ်မည်မဟုတ်ပေ။</string>
+    <string name="ptrace_fail_solve">"အဆိုပါပုံမှန်အကြောင်းရင်း firmware ကိုတစ်ဦးကျိုး kernel ကိုဖြစ်ပါတယ်။
+အဆိုပါ firmware ကိုပြောင်းလဲနေတဲ့ကြိုးစားပါ။ သငျသညျမကြာသေးမီကပြုလုပ် updated လျှင် - ယခင်ဗားရှင်းထည့်သွင်းပါ။
+
+ဒီအလုပ်မလုပ်ပါဘူးလျှင်, ကိရိယာပြောင်းပေးပါ။"</string>
+    <string name="feature_hide_4">စတုတ္ထကို item \"__hide_from_game__\" တွင်မရွေးလျှင်ဒီ feature အလုပ်လုပ်လို့မရပါဘူး။</string>
+    <string name="feature_firmware">ဒီ feature ကဒီ firmware ကိုအပေါ်အလုပ်မလုပ်ပါဘူးအရာ, ptrace မပါဘဲအလုပ်လုပ်လို့မရပါဘူး။</string>
+    <string name="feature_protection">ဒီ feature ဂိမ်းထဲမှာ ptrace ကာကွယ်မှုကြောင့်အလုပ်လုပ်လို့မရပါဘူး။</string>
+    <string name="not_file">Path ကိုဖိုင်တစ်ဖိုင်မဟုတ်ဖြစ်ပါသည်:</string>
+    <string name="not_execute">execute မပေးနိုင်:</string>
+    <string name="check_install">အဆိုပါ __app_name__ မှန်ကန်စွာ installed ကြောင်းစစ်ဆေးပါ။</string>
+    <string name="sdcard_install">__app_name__ ပြင်ပသိုလှောင်မှု (SD ကဒ်) ပေါ်တွင်တပ်ဆင်ထားသည်မှန်လျှင်, internal memory ကပြန်လာ</string>
+    <string name="change_address_type">ပြောင်းလဲမှုကိုလိပ်စာ / အမျိုးအစား</string>
+    <string name="bad_offset">အဆိုပါ offset __d__ တစ်မျိုးစုံမဟုတ်ပါဘူး။</string>
+    <string name="bad_result_address">ရရှိလာတဲ့လိပ်စာ __d__ တစ်မျိုးစုံမဟုတ်ပါဘူး။</string>
+    <string name="correct_types">__d__ element တွေကိုမဖြစ်နိုင်တဲ့ alignment ကိုပြင်ပေးရန်၎င်း၏ type ကိုပြောင်းလဲပစ်ပါလိမ့်မယ်။</string>
+    <string name="reinstall_fail">"ကျပန်းအမည် __app_name__ reinstall လုပ်မရပါ။
+
+__app_name__ ကိုအလွယ်တကူဂိမ်းအားဖြင့်တွေ့ရှိနိုင်ပါတယ်။
+
+သငျသညျတပ်ဆင်ခစဉ်အတွင်း, __logcat__ မှတ်တမ်းတင်ခြင်း, အကူအညီတောင်းတရားဝင်ဖိုရမ်ကိုဆက်သွယ်နိုင်ပါတယ်။
+
+ငြင်းပယ်ခံရအကြောင်းပြချက်:"</string>
+    <string name="empty_field">အချည်းနှီးသော input field: convert ရန်မ၏အရေအတွက်</string>
+    <string name="need_integer">သငျသညျပြောင်းတစ်ခုကိန်းရွေးချယ်ရမည်။</string>
+    <string name="maps_failed">\"__maps__\" file ကိုဖွင့်လှစ်မပေးနိုင်ခဲ့ပါ။</string>
+    <string name="game_protected">ဂိမ်းကာကွယ်ထားသည်။</string>
+    <string name="need_root">ဒီဂိမ်းကို hack ဖို့အမြစ်လိုအပ်ပါတယ်။</string>
+    <string name="vspace_error">"ကို virtual အာကာသသို့မဟုတ် firmware ကိုသို့မဟုတ်ကိရိယာ၏ပြဿနာ။
+
+ကြိုးစားပါ:
+\u0009- အခြားက virtual အာကာသကိုသုံးပါ
+\u0009- အခြား firmware ကိုအသုံးပြုနိုင်သည်
+\u0009- အမြစ် get
+\u0009- အခြားစက်ကိရိယာကိုသုံးပါ"</string>
+    <string name="root_error">"firmware ကိုသို့မဟုတ်အမြစ်သို့မဟုတ်ကိရိယာ၏ပြဿနာ။
+
+ကြိုးစားပါ:
+\u0009- အခြား firmware ကိုအသုံးပြုနိုင်သည်
+\u0009- အခြားအမြစ်ကိုသုံးပါ
+\u0009- အခြားစက်ကိရိယာကိုသုံးပါ"</string>
+    <string name="vspace_root">ကို virtual အာကာသအတွင်းအမြစ်ကိုသုံးပါ:</string>
+    <string name="help_vspace_root">"ကို virtual အာကာသကနေအမြစ်ကိုသုံးပြီး device ကိုအပေါ်တစ်ဦး __app_name__ လည်းမရှိဟူသောအချက်ကိုဖုံးကွယ်ကူညီပေးနိုင်ပါသည်။
+
+ဒါဟာအားလုံးကို virtual နေရာများပေါ်မှာရှိသမျှ firmware ကိုမဟုတျဘဲအပေါ်အလုပ်မလုပ်ပါဘူး။
+
+virtual အာကာသ, firmware ကိုများနှင့်အမြစ်ကို virtual အာကာသကနေအမြစ်အတူလုပ်ကိုင်ခွင့်ပြုသင့်တယ်။
+က virtual အာကာသသင်စနစ်သို့သူတို့ကိုငါကို install မပါဘဲအတွင်း applications များတပ်ဆင်ရန်ခွင့်ပြုသင့်ပါတယ်။
+
+အားလုံးကတော့ကို virtual နေရာများဒီပေးနိုင်ပါသည်။
+
+အားလုံး firmware ကိုပေါ်မှာဤ mode ကိုအလုပ်လုပ်ပါလိမ့်မယ်မဟုတ်ပါဘူး။ ထိုမျှမကအားလုံးအမြစ်နှင့်အတူ။
+
+အမြစ်အခွင့်အရေးများတစ်ခုလုံးကိုကို virtual အာကာသမှခွင့်ပြုခဲ့ပါလိမ့်မည်ကတည်းကသင်ကအတွက်အရာအားလုံးထက်မတပ်ဆင်သင့်ပါတယ်။ ဒီလိုမှမဟုတ်ရင်က virtual အာကာသကနေမဆိုလျှောက်လွှာခန့်မှန်းရခက်အကျိုးဆက်များနှင့်အတူအမြစ်အခွင့်အရေးများကိုသုံးနိုင်သည်။
+
+အဆိုပါဂိမ်းကို virtual အာကာသအပြင်ဘက်ကို install ထားရပါမည်။
+
+__app_name__ စနစ်ထဲသို့ install လုပ်မပါဘဲ, သာက virtual အာကာသအတွင်း၌ထည့်သွင်းသင့်ပါတယ်။
+ဒီလိုလုပ်ဖို့ကဘယ်လို - သီးခြားကို virtual အာကာသ၏အကူအညီကိုကြည့်ပါ။
+
+ဥပမာအားဖြင့်, __vexp__, သင် __vexp__ အတွက် system ထဲကနေ __app_name__ clone နိုင်ပါတယ်, အဲဒီနောက် system ထဲကနေ __app_name__ ဖျက်ပစ်ပါမည်။"</string>
+    <string name="help_games_protection_9">စနစ်သို့ install လုပ်မပါဘဲကိုယ့်ကိုယ်ထဲသို့ application များ install လုပ်ခွင့်ပြုကြောင်းကို virtual နေရာများအတွက် 9. အသုံးပြုမှုအမြစ်။</string>
+    <string name="locale_ui">သင့်ရဲ့ဒေသအတွက်</string>
+    <string name="locale_script">scripts အမြဲအင်္ဂလိပ်ဒေသကိုသုံးပါ</string>
+    <string name="locale_desc">"'' __s__ '- ဒဿမ separator
+'' __s__ '- ထောင်ပေါင်းများစွာ separator
+'' __semicolon__ '- အုပ်စုတစ်စုရှာဖွေရေးအတွက်အရေအတွက်က separator"</string>
+    <string name="help_unaligned_title">Unaligned ရှာဖွေရေး / ကြီးတွေ-endian ရှာဖွေရေး</string>
+    <string name="help_unaligned">"(ထိုကဲ့သို့သော console ကို emulator အဖြစ်ဥပမာအားဖြင့်,) အခြို့ applications များ, ခုနှစ်, မှတ်ဉာဏ်အတွက်တန်ဖိုး alignment ကိုလေးစားမပြုစေခြင်းငှါ, ဒါမှမဟုတ်ကြီးမားတဲ့-endian က byte နိုင်ရန်အတွက်တင်ပြရလိမ့်မည်။
+
+ထိုသို့သောတန်ဖိုးကိုပုံမှန်ရှာဖွေရေးတဆင့်တွေ့ရှိခဲ့ရနိုင်မှာမဟုတ်ဘူး။
+
+သူတို့ကိုတွေ့ရှိရန် - တရားဝင် __app_name__ က်ဘ်ဆိုက်ကနေအထူး script ကိုအသုံးပြုပါ:"</string>
+    <string name="help_formula_calculator_title">ပုံသေနည်းတွက်ချက်ရန်</string>
+    <string name="help_formula_calculator">"နီးပါးနံပါတ်များကိုဝင်ဘို့အသီးအသီးသောလယ်၌, သင်ကသင်္ချာပုံသေနည်းရိုက်ထည့်နိုင်ပါတယ်, အတန်းတူသည်နိမိတ်လက္ခဏာကိုဥပမာ, ရှာဖွေရေးလယ်ပြင်၌ '* 3 = 2 + 2' 'ထည့်ပါ, program ကိုအကြောင်း, ယင်းပုံသေနည်း၏ရလဒ်ကိုရှာဖွေပါလိမ့်မယ် သည် '' 8 '' ။
+အဆိုပါပုံသေနည်းတစ်ခု Lua စကားရပ်ဖြစ်ပါတယ်။ သငျသညျအထဲတွင် Lua အပေါငျးတို့သရရှိနိုင်ပါပါဝါကိုသုံးနိုင်သည်။
+
+ဒါပေါ်မြှောက် (*), ဌာနခွဲ (/), ကွဲပြားခြင်းကျန်ရှိသော (%), အဆ (^), ကိန်းဌာနခွဲ (//), နှင့် - ထို့အပြင် (+), အနုတ် (-) အားလုံးဂဏန်းသင်္ချာအော်ပရေတာ Lua 5.3 လက်ခံနိုင်သောဖြစ်ကြသည်။
+သီးသန့် OR (ဒွိ ~), မ (unary ~), ညာဘက် Shift (>>), (&lt;&lt;) လက်ဝဲမှ Shift | (က) နှင့် (&amp;), OR - လည်းရရှိနိုင်နည်းနည်းအော်ပရေတာရှိပါတယ်။ လုပ်ဆောင်ချက်အမိန့်ကွင်းခတ်နေဖြင့်ပေးထားနိုင်ပါတယ်။
+ရရှိနိုင်ပါစစ်ဆင်ရေး၏ပြီးပြည့်စုံသောစာရင်းများအတွက် Lua လက်စွဲကိုဖတ်ပါ။
+
+သငျသညျတနျဖိုးကိုဂိမ်းထဲမှာ coded ဘယ်လိုသိလျှင်၎င်းသည်အသုံးဝင်သည်။ ဥပမာအားဖြင့်, တဦးတည်းဂိမ်းထဲမှာ 29 ကျည် '' ~ 444444 = 29 '' အဖြစ်တွေ့ရှိနိုင်ပါသည်။ ဤသည်ဗီဒီယိုနမူနာခုနှစ်တွင် 29 XOR 444444. ညီမျှသည်စျေးနှုန်း '' ~ 3888 = 444444 '' အဖြစ်, 444444 နှင့်အတူ XOR မှတဆင့် 3888 တွေ့ရှိခဲ့ခြင်းဖြစ်သည်။ ဒီပြီးနောက်, အစားထိုး '' 1 'မှစျေးနှုန်းသတ်မှတ်ထားရာ,' ~ = 1 444444 '' စေခဲ့သည်။ အခြားဂိမ်းမှာတော့ 125 ကိုရွှေ '= 125 * 10' 'နှင့်တူ၏။
+
+အားလုံး script ကိုလုပ်ဆောင်ချက်များကိုပုံသေနည်းဂဏန်းတွက်စက်များတွင်ရရှိနိုင်ပါသည်မဟုတ်ပါဘူး။ တချို့ကလုပ်ဆောင်ချက်များကိုရရှိနိုင်ပါသည်မရှိကြပေ။ သင်သည်ထိုသူတို့၏လုံလောက်စွာရှိမထားဘူးဆိုရင် - မယ့်အစားတစ်ဦးပုံသေနည်းဂဏန်းတွက်စက်ကို အသုံးပြု. ၏, သင့်ဇာတ်ညွှန်းရေးဖို့, ကသာရိုးရှင်းတွက်ချက်မှုအဘို့သာရည်ရွယ်ပါသည်။ ရရှိနိုင်: အခြေခံလုပ်ဆောင်ချက်များကို၏အစိတ်အပိုင်းတစ်ခု, 'bit32', 'စားပွဲပေါ်မှာ', 'string ကို', 'UTF8', 'သင်္ချာ' ကို 'os' 'အထုပ်၏အစိတ်အပိုင်းတစ်ခု။ packages '' ဒီဘာဂ် ',' အထုပ် ',' GG ',' io 'ရရှိနိုင်မရှိကြပေ။
+
+သငျသညျ '' = 2 + 2 * 3 '' ကိုရေးသောအခါ, keyword ကို '' ပြန်လာ 'ဆိုတဲ့ပုံသေနည်းမတိုင်မီဆက်ပြောသည်ပါလိမ့်မည်:' 2 + 2 * 3 ပြန်လာ '' ။ သင်တစ်ဦးရှုပ်ထွေးသောပုံသေနည်းလိုအပ်တယ်ဆိုရင်သို့သော်သင်ကဖော်မြူလာ၌ဤစကားလုံးကိုယ့်ကိုယ်ကိုသတ်မှတ်နိုင်ပါတယ်။
+ဥပမာအားဖြင့်, '' တစ်ဦး = 5 =; ခ = 7; 4 + ခ * 8 * ပြန်လာ = 5 တစ်ဦး '' အဖြစ်ကွပ်မျက်လိမ့်မည် '; ခ = 7; တစ် * ပြန်လာ 4 + ခ * 8 ''
+
+ယင်းပုံသေနည်းဂဏန်းတွက်စက်၏ရလဒ်စာသား string ကိုဖြစ်ပါတယ်။ အဆိုပါ string ကိုဒီ input ကိုလယ်ကွင်းများအတွက်မဆိုခိုင်လုံသော string ကိုဖြစ်စေနိုင်သည်။
+ဥပမာ, အုပ်စုတစုရှာဖွေရေးတစ်ခုသို့မဟုတ်အကွာအဝေးရှာဖွေရေးများအတွက်ညှို့ဖြစ်နိုင်သည်။ '= တစ်ဦး = 5; ခ = 7; တစ်ပြန်လာ .. \";\" .. ခ .. \":: 100 ကို\" 5 'ဖို့ညီမျှသည်'; 7 :: 100 ကျော် '' ။
+
+ဖော်မြူလာဂဏန်းတွက်စက်ရှိသငျသညျကိုတိုက်ရိုက် Lua ကိုသုံးနိုင်သည်, script များအတွက်အလုပ်မလုပ်ပါဘူး။
+ဇာတ်ညွှန်းရေးသားခြင်းသောအခါ, ပုံသေနည်းတွက်ချက်မှု၏ရလဒ်ဖိုင်ကိုမပုံသေနည်းသူ့ဟာသူရေးသားပါလိမ့်မည်။
+
+ယင်းပုံသေနည်းမမှန်ကန် အကယ်. ပုံစံတင်ပြအခါ, သငျသညျ error message ကိုလက်ခံရရှိလိမ့်မည်။
+
+တွက်ချက်တဲ့အခါမှာ, သင်အကောင့်သို့တွက်ချက်မှုပထမဦးဆုံး operand သတ်မှတ်ပေးသည်သောအမျိုးအစားထွက်သယ်ဆောင်ကြသည်ဟူသောအချက်ကိုယူရမည်ဖြစ်သည်။ ဒါကြောင့်တစ်ဦးကိန်းဖြစ်လျှင်, ထို့နောက်ရလဒ်တစ်ခုကိန်းဖြစ်လိမ့်မည်။
+ဥပမာအားဖြင့်, '= 3/2' '' 1 'နှင့်' = 3.0 / 2 '' 1.5 '' ဖြစ်ပါတယ်။
+
+မည်သို့ပင်ရွေးချယ်ဒေသ၏, ထိုဖော်မြူလာအင်္ဂလိပ်ဒေသအတွက်အလုပ်လုပ်ကြသည်။ ဤသည် ( '။ ') ယင်းဒဿမ separator အမြဲတမ်းအစက်ကြောင်းကိုဆိုလိုသည်။"</string>
+    <string name="help_faq_32_b">"နှစ်ဦးကပစ်လွှတ် icon များ။ \"__app_short_name_hw__\" - hardware acceleration ကိုနှင့်အတူ \"__app_short_name_sw__\", ဒုတိယ, - software ကိုအရှိန်နှင့်အတူပထမဦးဆုံး။ အခုတော့အမြဲတမ်းဒါဖြစ်လိမ့်မည်။
+အချို့သော firmware တွင်တစ်ဦးတည်းသာ version ကိုသာမန်သူမြားကိုနှစ်ဦးစလုံးပေါ်တွင်အလုပ်လုပ်သည်။
+ဒါဟာလျော့နည်းချောချောမွေ့မွေ့အလုပ်လုပ်တယ်, ဆော့ဖ်ဝဲ acceleration ကိုသုံးစွဲဖို့ သာ. ကောင်း၏, ဒါပေမယ့်ဒီထက်မှတ်ဉာဏ်စားသုံး။
+
+\"__hide_icons__\": သင်က application setting ရှိသည့် icon များထဲကတစ်ခုဖုံးကွယ်နိုင်ပါတယ်။"</string>
+    <string name="acceleration_help_">"ဟာ့ဒ်ဝဲသို့မဟုတ်ဆော့ဖ်ဝဲကို interface ကိုအရှိန် __app_name__ ။
+ဂိမ်းနှင့် firmware ကိုပေါ်မူတည်ပြီး, options အချို့ပြဿနာများဖြစ်ပေါ်စေနိုင်ပါတယ်။
+အလုပ်နှစ်မျိုးလုံးလျှင်လျော့နည်းမှတ်ဉာဏ်စားသုံးနေသောကြောင့်, ဆော့ဖ်ဝဲအရှိန်ကိုအသုံးပြုပါ။
+
+ဒီ option ကပစ်လွှတ် icon များအနေဖြင့်သီးခြားဖြစ်ပြီးမှသာ __app_name__ မျက်နှာပြင်ရဲ့ Display ကိုသာသက်ရောက်သည်။
+launch icon တွေကိုစတင်မျက်နှာပြင်၏အရှိန်အမျိုးအစားတာဝန်ရှိသည်။
+
+hardware acceleration အများကြီးပိုမှတ်ဉာဏ်စားသုံးပေမယ့်ပိုပြီးချောချောမွေ့မွေ့အလုပ်လုပ်သည်။ သငျသညျအနညျးငယျ RAM ကိုရှိပါကအမြဲဆော့ဖျဝဲအရှိန်ကိုအသုံးပြုပါ။
+
+hardware acceleration ကိုမှားယွင်းမှုများဖြစ်ပေါ်စေသည်ဆိုလျှင်, __app_name__ software ကိုအရှိန်ပြောင်းနိုင်ပါသည်။"</string>
+    <string name="small_list_items">အသေးစားစာရင်းပစ္စည်းများ</string>
+    <string name="small_list_items_help">သင်ကို item စာရင်းအတွက်နောက်ထပ်သတင်းအချက်အလက်များဖော်ပြရန်အားခွင့်ပြုပါ, ဒါပေမယ့်သူကလိုချင်သောပစ္စည်းကိုအပေါ်ကိုကလစ်နှိပ်ပါဖို့ပိုပြီးခက်ခဲနိုင်ပါတယ်။</string>
+    <string name="format_asm_opcodes">__s__ opcodes</string>
+    <string name="no_regions">အဘယ်သူမျှမတိုက်ဆိုင်သည့်ဒေသများတွင်တွေ့ရှိခဲ့ရသည်။</string>
+    <string name="cannot_hide_launcher_icon">"ဒီ icon လေးကလက်ရှိပစ်လွှတ်ရန်အသုံးပြုခဲ့သည်။
+
+သင့်အနေဖြင့်လက်ရှိပစ်လွှတ်ရန်အသုံးပြုခဲ့အိုင်ကွန်ဖုံးကွယ်လို့မရပါဘူး။
+
+ဒီအိုင်ကွန်ဖုံးကွယ်နိုင်စေဖို့အခြား icon ကိုတဆင့်လျှောက်လွှာကို restart ချလိုက်ပါ။"</string>
+    <string name="screenshot">တစ်ဦးပုံယူ</string>
+    <string name="screenshot_prompt">"သင်တစ်ဦးပုံယူနိုင်အောင်အိုင်ကွန် __d__ စက္ကန့်ဘို့ဝှက်ထားလိမ့်မည်။
+
+ထို့နောက်အိုင်ကွန်ကိုထပ်မြင်နိုင်ပါလိမ့်မည်။"</string>
+    <string name="screenshot_action">screenshot</string>
+    <string name="use_visible_type">မှတ်ဉာဏ်အယ်ဒီတာမြင်နိုင်ဒေတာအမျိုးအစားကိုသုံးပါ:</string>
+    <string name="use_visible_type_help">တစ်ဦးတည်းသာဒေတာအမျိုးအစားပြလျှင်မှတ်ဉာဏ်အယ်ဒီတာအတွက်ဒေတာအမျိုးအစားအဘို့မမေးပါနှင့်။</string>
+    <string name="wrong_float">သင့်ရဲ့ဒေသအတွက်, အရေအတွက်က \"__s__\" \"__s__\" နဲ့တူလှပါတယ်။ ဤသူသည်သင်တို့လိုအပ်သောအရာကိုမပါလျှင် - က start screen ပေါ်မှာကွဲပြားခြားနားသောဒေသ (သို့မဟုတ်ဘာသာစကား) ကိုရွေးပါ။</string>
+    <string name="wrong_float2">ဒါ့အပြင်အဆိုပါ __app_name__ setting တွင်, သငျသညျနံပါတ်များကိုပုံစံများအတွက်ဒေသထပ်ရေးနိုင်ပါသည်။</string>
+    <string name="number_locale">ပုံစံချပေးနံပါတ်များကိုများအတွက်ဒေသ:</string>
+    <string name="fill">ဖြည့်</string>
+    <string name="help_text_search">"
+စာသားကိုရှာ, သင်ပုံမှန်အတိုင်းရှာဖွေရေးပေးတဲ့ dialog အတွက် modifiers သတ်မှတ်ရပေမည်။
+
+အဆိုပါအသုံးအများဆုံး encoding __utf8__ နှင့် __utf16le__ ဖြစ်ပါသည်။
+ပုံမှန်အားဖြင့်, __utf16le__ __java__ များတွင်အသုံးပြုသည်, __utf8__ __c__ အတွက်အသုံးပြုသည်။
+
+\u0009__utf16le__ တစ်ဦးနှစ်ဦး-byte encoding ဖြစ်ပါတယ်။ က __type_word__ မှတဆင့်ကိုယ်စားပြုတာဖြစ်ပါတယ်ဒါကြောင့်တစ်ဦးချင်းစီဇာတ်ကောင်ကအမြဲတမ်းနှစ်ခု bytes ဖြင့် encoded ဖြစ်ပါတယ်။
+\u0009__utf8__ - ဇာတ်ကောင်တစ်ဦးလျှင် variable ကိုက byte အရွယ်အစားနှင့်အတူ encoding က။ __type_byte__ မှတဆင့်ကိုယ်စားပြုသည်။
+\u0009__hex_input__ နှင့်၎င်း၏မျိုးကွဲအမြဲ __type_byte__ မှတဆင့်ကိုယ်စားပြုနေကြသည်။
+
+အဆိုပါဂိမ်းကုဒ်ထည့်သွင်းသည့်မဆိုသုံးနိုင်သည်။
+အဆိုပါ __hex_input__ mode ကိုအသုံးပြု - သင် bytes တစ်ဦးသတ်သတ်မှတ်မှတ်ထားလိုတယ်ဆိုရင်။
+
+ရရှိနိုင်ရှေ့ဆက်:
+__text_prefixes__
+
+\"__hex_mixed__\" mode ကို, သင် __apos__ ဇာတ်ကောင်တွေနဲ့ __quot__ ဇာတ်ကောင်များအကြား __utf16le__ စာသားကိုအကြား __utf8__ စာသားကိုသတ်မှတ်နိုင်ပါတယ်။
+
+ဥပမာ:
+__text_examples__
+
+အဆိုပါရှေ့ဆက်ဇာတ်ကောင်ရှာဖွေရေးစာသားထဲမှာပထမဦးဆုံးဇာတ်ကောင်ဖြစ်ရပါမည်။
+
+ရှာဖွေရေး၏ရလဒ် __utf16le__ ၏ဖြစ်ရပ်သည်, တစ်ဦး __type_byte__ sequence ကို, ဒါမှမဟုတ်တစ်ဦး __type_word__ sequence ကိုရလိမ့်မည်။
+
+ရလဒ်ပြောင်းလဲပစ်နိုင်ပါတယ် - အားလုံးကို select နှင့် \"__edit_selected__\" ကိုကလစ်နှိပ်ပါ။
+
+တန်ဖိုးလယ်ပြင်တွင်, ရှာဖွေရေး string ကိုများအတွက်ကဲ့သို့တူညီသောပုံစံထဲမှာ, တန်ဖိုးအသစ်ရိုက်ထည့်ပါ။
+
+သင်ကဝစွာခလုတ်ကိုသုံးနိုင်သည်။ သူတို့မမြင်နိုင်လျှင် \"__more__\" ကိုနှိပ်ပါ။
+
+တန်ဖိုးစဉ်ဆက်မပြတ်အောက်ပါပစ္စည်းများကိုတစ်ဦးချင်းစီအဖွဲ့တစ်ဖွဲ့ဘို့ရာခန့်ထားသောလိမ့်မည်။
+ဒြပ်စင်အကြားကွာဟမှုလည်းမရှိပါကအသစ်တခုကိုအုပ်စုတစုဖြစ်လိမ့်မည်။
+
+သငျသညျလိုအပျသညျထကျပိုပွီး bytes ကိုသတ်မှတ်လျှင်, သူတို့ထဲကတစ်ခုသာတစ်စိတ်တစ်ဒေသကိုအသုံးပြုလိမ့်မည်။
+သငျသညျလိုအပျသထက်လျော့နည်းသတ်မှတ်လျှင်, အုပ်စု၏ကျန်သုည bytes နှငျ့ပွညျ့စုံပါလိမ့်မည်။
+
+စာသားကိုအစားထိုးသည့်အခါပြဿနာများရှောင်ရှားရန်မူလအဖြစ် bytes ၏တူညီသောအရေအတွက်သည်နှင့်အတူစာသားကိုသတ်မှတ်ကြိုးစားပါ။
+"</string>
+    <string name="fast_freeze">အစာရှောင်ခြင်းအေးခဲ:</string>
+    <string name="help_fast_freeze">"ဒါဟာအားလုံးမှတ်ဉာဏ်အဘို့အများကြီးပိုမြန်ပုံမှန်ခဲထက်အလုပ်လုပ်တယ်, ဒါပေမယ့်မဟုတ်ပါဘူး။
+
+အဆိုပါအေးခဲအလုပ်မလုပ်ပါဘူးလျှင်, ဤ option ကို disable ။"</string>
+    <string name="debug_disassemble">Disassemble</string>
+    <string name="assembled">အောင်မြင်စွာဖိုင်စုဝေး:</string>
+    <string name="warn_patch_off_prot2">"သငျသညျ __magisk_hide__ အသုံးပြုနေသည်ဆိုပါက - ထို patch ကိုမလျှောက်ထားမီက disable ။ အောင်မြင်စွာ patch ကိုလျှောက်ထားပြီးနောက်, သငျသညျကျောပေါ်မှာလှည့်နိုင်ပါတယ်။
+သငျသညျကိုမကျင့်လျှင်, patch ကိုအောင်မြင်သောလိမ့်မည်မဟုတ်ပေ။"</string>
+    <string name="help_games_protection_end">"
+ကို virtual အာကာသအတွင်းဂိမ်းထဲကနေ __app_name__ ဖုံးကွယ်ဖို့ကိုဘယ်လို
+
+\u00091. စနစ်အတွက်သူတို့ကို install လုပ်မပါဘဲ, applications များ၌ဝှက်ထားလျက်ရှိသောတပ်ဆင်ခွင့်ပြုထားတဲ့က virtual အာကာသ, Install လုပ်ပါ။ ဥပမာအားဖြင့်, __vspace_hide__ ။
+\u00092. ကို virtual အာကာသသို့ __app_name__ Install လုပ်ပါ။
+\u0009__app_name__ 3 မှာ \"__vspace_root__\" mode ကိုဖွင့်။
+\u0009ကို virtual အာကာသ 4 Grant ကအမြစ်အခွင့်အရေးများ။ သငျသညျအမြစ်အခွင့်အရေးများပေးရန်မတတျနိုငျပြုလျှင် - အခြားက virtual အာကာသအခြားအမြစ်အခွင့်အရေး, ကွဲပြားခြားနားသော firmware ကိုကြိုးစားပါသို့မဟုတ် device ကိုပြောင်းပေးပါ။
+\u00095. system ထဲကနေ __app_name__ ဖယ်ရှားပါ။
+\u0009ကို virtual အာကာသကနေ __app_name__ နှင့်အတူ 6. သူ Work ။
+
+ရှောင်ပါအဘို့အရှာဖွေရေးကာလအတွင်း detect:
+\u0009\"__hide_from_game__\" setting ကိုအတွက်ပစ္စည်းများ 2, 3 နဲ့ 4 ကိုရွေးချယ်ပါ။
+
+ပုံမှန်ဖြေရှင်းချက် (သင်အောင်မြင်မည်မဟုတ်အမြစ်မပါဘဲ, အမြစ်လိုအပ်ပါတယ်):
+\u0009ကို virtual အာကာသကနေ 1. အသုံးပြုမှုအမြစ်။ အဆိုပါ setting ကို \"__vspace_root__\" အတွက်အကူအညီကိုဖတ်ပါ။
+\u0009သည် \"__hide_from_game__\" setting ကိုအတွက် 2. အသုံးပြုမှုပစ္စည်းများ 2, 3 နှင့် 4 ။
+"</string>
+    <string name="force_close_2">သငျသညျအနာဂတျမှာကဒီကိုရှောင်ရှားဖို့ \"__no__\" ဖို့ \"__data_in_ram__\" သတ်မှတ်နိုင်သည်။</string>
+    <string name="script_wrote">The script wrote __s__ to __d__ files.</string>
+    <string name="script_exit">ထွက်ပေါက်</string>
+    <string name="script_interrupted">အဆိုပါ script ကိုကြားဖြတ်။</string>
+    <string name="script_error">script အမှား</string>
+    <string name="script_oom">မှတ်ဉာဏ်ထဲက</string>
+    <string name="script_possible">သင်တစ်ဦး script အဖြစ် __s__ execute ဖို့ကြိုးစားနေကြတယ်ဟန်တူပါသည်။</string>
+    <string name="script_web">ဝဘ်စာမျက်နှာ</string>
+    <string name="script_saved_list">တစ်ဦးသည်ကယ်တင်ခြင်းသို့ရောက်စာရင်း</string>
+    <string name="speedhack_no_x86">ဒါပေမယ့်ဒီဂိမ်းထဲမှာမပါ x86 စာကြည့်တိုက်ဖြစ်ပါတယ်, ဒါကြောင့်ဒါနဲ့ပတ်သက်ပြီးကအလုပ်လုပ်မှာမဟုတ်ပါဘူး။</string>
+    <string name="help_faq_33_q">စာသားမက်ဆေ့ (ရှိကြောင်းသံတမန်နည်း) ကို screen ပေါ်မှာရှိနေဆဲ, ဒါမှမဟုတ် __app_name__ အလုပ်လုပ်ကိုင်သောအခါမှောင်မိုက်စက်ဝိုင်းမျက်နှာပြင်၏အောက်ခြေတွင်မြင်နိုင်သည်။ ယင်းပြဿနာကိုဖြေရှင်းဘယ်လိုနေသလဲ?</string>
+    <string name="help_faq_33_a">အချို့သော firmware ကိုပေါ်တတိယအဆင့်ကို \"__prevent_unload__\" အသုံးပြုခြင်းကိုစာသားမက်ဆေ့ခ်ျ (ရှိကြောင်းသံတမန်နည်း) ကို screen ပေါ်မှာရှိနေဆဲ, ဒါမှမဟုတ်မှောင်မိုက်စက်ဝိုင်းမြင်နိုင် (အချည်းနှီးသောမက်ဆေ့ခ်ျကို) ဖြစ်ပါသည်ဆိုတဲ့အချက်ကိုစေပါတယ်။ ဒီဖြစ်ပျက်လျှင်, တတိယအဆင့်ကိုမသုံးကြဘူး။</string>
+    <string name="invalid_header_1">မှားနေသော binary script ကို header ကို။</string>
+    <string name="unknown_version">အမည်မသိဗားရှင်း။</string>
+    <string name="unknown_format">အမည်မသိ format နဲ့။</string>
+    <string name="unknown_endianness">အမည်မသိ endianness ။</string>
+    <string name="unknown_size_s">__s__ ၏အမည်မသိအရွယ်အစား။</string>
+    <string name="unknown_size_instr">ညွှန်ကြားချက်များအမည်မသိအရွယ်အစား။</string>
+    <string name="unknown_size_num">Lua အရေအတွက်အမည်မသိအရွယ်အစား။</string>
+    <string name="expected_found">__s__ မျှော်လင့်ထားပေမယ့် __s__ တွေ့ရှိခဲ့ပါတယ်။</string>
+    <string name="or">သို့မဟုတ်</string>
+    <string name="invalid_header_2">ဘာပဲဖြစ်ဖြစ် script ကို run?</string>
+    <string name="invalid_header_3">"__app_name__ ၏အနာဂတ်ဗားရှင်းမှာတော့ဒီ script ကို run ရနိုင်မှာမဟုတ်ဘူး။
+ဇာတ်ညွှန်း၏ရေးသားသူဤအကြောင်းကိုရေးပါ။"</string>
+    <string name="skip_system_libs">Skip စနစ်ကစာကြည့်တိုက်</string>
+    <string name="try_reinstall_x86">"x86 စာကြည့်တိုက်များနှင့်အတူဂိမ်းပြန်လည်ကြိုးစားပါ?
+
+အဆိုပါဂိမ်းသောနောက်အလုပ်လုပ်ရပ်တန့်စေနိုင်သည်။ ဒီဖြစ်ပျက်ခဲ့လျှင်, __data_app__ အတွက်တည်ရှိသော apk ကနေဂိမ်း reinstall ။"</string>
+    <string name="reinstall_started">ပြန်လည် install ပြုလုပ်စတင် ...</string>
+    <string name="reinstall_failed">ပြန်လည် install ပြုလုပ်မအောင်မြင်ပါ:</string>
+    <string name="reinstall_ended">ပြန်လည် install ပြုလုပ်ပြီးစီးခဲ့သည်။</string>
+    <string name="help_lasm_title">Disassemble / script များစုဝေး</string>
+    <string name="help_lasm">"__app_name__ built-in ဖြစ်ပါတယ် disassembler / စည်းဝေး Lua script များအဘို့။
+
+သငျသညျမှာ \"__more__\" ခလုတ်ကိုနှိပ်ခြင်းအားပြီးနောက်, script ကိုပစ်လွှတ်ပြတင်းပေါက်ရှိ \"__debug_disassemble__\" option ကိုရွေးနိုင်သည်။
+
+ရရှိလာတဲ့ __ext_lasm__ ဖိုင် edited နှင့် script ကိုပစ်လွှတ် window တွင်ရှေးခယျြနိုငျသညျ။ အဆိုပါရလဒ်လုပ်ပြောင်းလဲမှုများနှင့်အတူတစ် binary __ext_lua__ ဖိုင်ဖြစ်လိမ့်မည်။
+
+အသေးစိတ်များအတွက် script ကို API ကိုအကူအညီကိုဖတ်ပါ။
+"</string>
+    <string name="help_hide_gg_title">ဂိမ်းထဲကနေ __app_name__ ဖုံးကွယ်ဖို့ကိုဘယ်လို</string>
+    <string name="changed_as_search_result">ရှာဖွေရေးရလဒ်အဖြစ်ပြောင်းလဲသွားတယ်</string>
+    <string name="changed_not_found">ပြောင်းလဲပစ္စည်းများမတွေ့ရှိ။</string>
+    <string name="too_far">ဤရွေ့ကားတန်ဖိုးများကိုအဖွဲ့တစ်ဖွဲ့ရှာဖွေရေးမှတဆင့်တွေ့ရှိခဲ့ရနိုင်မှာမဟုတ်ဘူး, သူတို့ကဝေးလွန်းဆိတ်ကွယ်ရာနေသောခေါင်းစဉ်: __d__ bytes ။ အများဆုံးအကွာအဝေး __d__ bytes ဖြစ်ပါတယ်။</string>
+    <string name="new_address">နယူးလိပ်စာ:</string>
+    <string name="hide_1_warn">သင့်အနေဖြင့်ပထမဦးဆုံးကို item ရွေးချယ်ထားကြသည်။ အေးခဲနေသောတန်ဖိုးများဂိမ်းထဲမှာအကြီးအကျယ်နှေးစေနိုင်ပါတယ်။</string>
+    <string name="hide_4_warn">သငျသညျစတုတ္ထ item ကိုရွေးချယ်ထားကြသည်။ အချို့အင်္ဂါရပ်အလုပ်လုပ်မည်မဟုတ်: __speedhack__, __unrandomizer__, __allocate_page__ ။</string>
+    <string name="asm_failed">__s__ opcode အသိအမှတ်မပြုရန်မအောင်မြင်ခဲ့ပါ:</string>
+    <string name="asm_suggestion">သငျသညျဆိုလိုခဲ့: __s__?</string>
+    <string name="copy_opcode">__s__ opcode copy:</string>
+    <string name="search_nearby">အနီးအနားမှာရှာရန်</string>
+    <string name="before">ရှေ့မှာ</string>
+    <string name="after">ပြီးနောက်</string>
+    <string name="distance">အဝေးသင်:</string>
+    <string name="nearby">အနီးအနား:</string>
+    <string name="need_fixer">"တစ်ဦးကပြဿနာကဒီ 64-bit နဲ့ကို virtual အာကာသနှင့်အတူရှာဖွေတွေ့ရှိခဲ့သည်။
+
+အဲဒါကိုဖြေရှင်းရန်:
+
+အဆိုပါ __fixer__ application ကို Install 1. ။ (ဤ dialog ကနေတစ်ခုခုကိုကိုယ်တိုင်လမ်းကြောင်းတလျှောက်:
+__s__
+) ။
+
+က virtual အာကာသမှ __fixer__ Add 2. ။
+
+ကို virtual အာကာသအတွင်း 3. Run ကို __fixer__ ။
+
+__fixer__ Remove 4 ။
+
+5. ကို virtual အာကာသအတွင်း __app_name__ Restart ချလိုက်ပါ။"</string>
+    <string name="limit">ကိုသာပထမဦးဆုံးအ N ကိုရလဒ်များကို:</string>
+</resources>

@@ -1,0 +1,1366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lang_code">~~~uz~~~</string>
+    <string name="front_text">"__improve_translation_hint__
+
+Agar sizda __app_name__ yoki undan foydalanish haqida savollaringiz bo'lsa, __forum__ saytida bizning forumlarga tashrif buyuring"</string>
+    <string name="set_path">"Vaqtinchalik yo'l"</string>
+    <string name="number">Raqam:</string>
+    <string name="type">Turi:</string>
+    <string name="name">Ismi:</string>
+    <string name="reset">Jarayonni tanlang</string>
+    <string name="set_range">"RAM oralig'ini tanlang"</string>
+    <string name="search">Qidirmoq</string>
+    <string name="save">Saqlash</string>
+    <string name="goto1">Git</string>
+    <string name="address">Manzil:</string>
+    <string name="edit_all">Barchasini tahrirlash</string>
+    <string name="filter">Filtrni tanlang</string>
+    <string name="clear">Tozalash</string>
+    <string name="max_show_rec">"Ko'rsatish:"</string>
+    <string name="equal">"O'zgartirishsiz"</string>
+    <string name="inequal">"O'zgarildi"</string>
+    <string name="larger">Borayotgan</string>
+    <string name="smaller">Azalandi</string>
+    <string name="compare_current_last">"Qiymat qanday o'zgargan?"</string>
+    <string name="write_region_log">Mintaqaviy jurnalni yozish</string>
+    <string name="old_version">Eski versiya</string>
+    <string name="found_old_version">"__app_name__ eski versiyasini topdi. Uni o'chirib tashlamoqchimisiz?"</string>
+    <string name="yes">Ha</string>
+    <string name="no">"Yo'q"</string>
+    <string name="ok">OK</string>
+    <string name="failed_find_package_name">"Ariza paketining nomini topib bo'lmadi!"</string>
+    <string name="path_for_temp_files">"Temp fayllar uchun yo'lni belgilang, masalan. '__sdcard__'. Bir necha yuz MB bo'sh joy talab qilishi mumkin. Joriy qidiruv natijalari yo'qoladi."</string>
+    <string name="confirm">Tasdiqlash</string>
+    <string name="cancel">Bekor qilish</string>
+    <string name="found_new_version">__s__ yangi versiyasi topildi</string>
+    <string name="daemon_failed">Daemon amalga oshmadi</string>
+    <string name="failed_run_daemon">"Xizmatni ishga tushirib bo'lmadi. Ildiz o'rnatilganmi?"</string>
+    <string name="daemon_unexpected_closed">"Daemon kutilmaganda yopildi. Ma'lumot:"</string>
+    <string name="daemon_exited">Daemon chiqdi</string>
+    <string name="failed_load_daemon">"Xizmatni yuklab bo'lmadi"</string>
+    <string name="is_device_rooted">"Ildiz ruxsatini olish imkoni yo'q."</string>
+    <string name="collect_data_to_region_log">"Mintaqaviy jurnalga yozish uchun ma'lumot to'plash boshlandi ..."</string>
+    <string name="log_saved">Kirish __s__ raqamiga saqlandi</string>
+    <string name="failed_save">"__s__ raqamiga saqlab bo'lmadi"</string>
+    <string name="region_log">Region log</string>
+    <string name="apply">Ilova qiling</string>
+    <string name="error">Xato</string>
+    <string name="load">Yuklang</string>
+    <string name="delete_prompt">"Ushbu elementni o'chirib tashlamoqchimisiz?"</string>
+    <string name="reset_search">"ERROR aniqlandi. Qidiruv ro'yxatini tiklash."</string>
+    <string name="unknown_error">"Noma'lum xatolik"</string>
+    <string name="out_of_memory">"Xotirada bo'lmagan"</string>
+    <string name="bug_detected">Xatolik aniqlandi</string>
+    <string name="disk_full">"To'liq disk"</string>
+    <string name="io_error">IO xatosi</string>
+    <string name="game_dead">"O'yin o'lik"</string>
+    <string name="exit">Chiqish</string>
+    <string name="skip">"E'tibor bering"</string>
+    <string name="unhandled_exception">"Ishorasiz istisno. Quyidagi ma'lumotlarni rivojlanish guruhiga yuboringmi?"</string>
+    <string name="last_run_failed">"So'nggi ish amalga oshmadi"</string>
+    <string name="thank_you">Rahmat!</string>
+    <string name="no_application">Hech qanday dastur tanlanmadi.</string>
+    <string name="increments">Ortiqcha:</string>
+    <string name="add_not_replace">"Qiymat qo'shing, almashtirmang"</string>
+    <string name="eperm_error">"Jarayonga qo'shib bo'lmadi (PTRACE_ATTACH): Operatsiyaga ruxsat berilmaydi"</string>
+    <string name="load_list">"Yuklab olish ro'yxati"</string>
+    <string name="load_warning">"O'yinning boshqa bir misolidan saqlangan ro'yxatni yukladingiz. Ehtimol, xotiradagi barcha manzillar o'zgartirildi va bundan oldin saqlangan ma'lumotlarga mos bo'lmagan ma'lumotlarni yukladilar. Buni tekshirish tavsiya etiladi."</string>
+    <string name="from">__d__ bosqichidan __d__ tugallandi</string>
+    <string name="count_fuzzy_equal_run">"'__fuzzy_equal__' ishlaydigan vaqt:"</string>
+    <string name="slow">sekin</string>
+    <string name="miui_restart">"Xavfsizlik talablarini qo'llash uchun __app_name__ qayta ishga tushirish kerak."</string>
+    <string name="out_of_memory_error">"Xotirada xatolik. Joriy natija ro'yxati tozalandi. Ko'rsatiladigan natijalar soni uchun kichikroq qiymatni belgilang."</string>
+    <string name="loading">Yuklanmoqda ...</string>
+    <string name="found_count">Topilgan: __d__</string>
+    <string name="fuzzy_equal">"Qiymat o'zgarmagan"</string>
+    <string name="fuzzy_inequal">"Qiymat o'zgardi"</string>
+    <string name="fuzzy_larger">Qiymati oshdi</string>
+    <string name="fuzzy_smaller">Qiymat kamaydi</string>
+    <string name="type_edit_limit">Kirish qiymati __s__ dan __s__gacha</string>
+    <string name="number_name">raqami</string>
+    <string name="step_name">ortdi</string>
+    <string name="number_less">\"__s__\" raqami ushbu turdagi minimal qiymatdan (__d__) past.</string>
+    <string name="number_greater">\"__s__\" raqami ushbu turdagi maksimal qiymatdan (__d__) ortiq.</string>
+    <string name="about">Haqida</string>
+    <string name="owner">egasi</string>
+    <string name="design">"qo'rg'oshin dizayner"</string>
+    <string name="pm">Loyiha boshqaruvi</string>
+    <string name="code">"qo'rg'oshin kodlayıcı"</string>
+    <string name="tech">texnik maslahatchi</string>
+    <string name="creator">yaratuvchisi (nafaqaga chiqqan)</string>
+    <string name="for_translators">"Agar siz iltimosnoma bilan tarjima qilishni xohlasangiz yoki amalga oshirsangiz, sizning tarjimangizni rasmiy arizaga kiritish uchun http://gameguardian.net/forum forumida biz bilan bog'lanishingiz mumkin."</string>
+    <string name="version">Versiya:</string>
+    <string name="developers">Ishlab chiquvchilar:</string>
+    <string name="select_language">Tilni tanlang</string>
+    <string name="exit_confirm">"O'zgarishlarni amalga oshirish uchun __app_name__ qayta ishga tushirish kerak."</string>
+    <string name="special_thanks">Maxsus rahmat:</string>
+    <string name="nothing_found">Hech narsa topilmadi. Qayta qidirishga harakat qiling.</string>
+    <string name="try_more_ranges">"Bundan tashqari, sozlamalar oynasidagi qo'shimcha oraliqlarni tanlashga harakat qilishingiz mumkin."</string>
+    <string name="try_fuzzy_search">"Noma'lum qiymatni qidirishga urinib ko'rishingiz mumkin."</string>
+    <string name="search_hint">"Ma'lum bir qiymatni izlash uchun \"__search_known_value__\" tugmasini bosing.
+Qiymat noma'lum yoki shifrlangan bo'lsa - qo'ng'iroq qilish uchun \"__search_unknown_value__\" tugmasini bosing.
+\"Float\" qiymatlarini to'liq sonlar bo'yicha qidirish \"__type_auto__\" qidirish turini tanlash orqali amalga oshirilishi mumkin.
+Shuningdek, siz guruh qidiruvini '__semicolon__' bilan ajratuvchi sifatida ishlatishingiz mumkin."</string>
+    <string name="freeze">Muzqaymoq:</string>
+    <string name="freeze_normal">normal</string>
+    <string name="freeze_may_increase">ortishi mumkin</string>
+    <string name="freeze_may_decrease">kamayishi mumkin</string>
+    <string name="freeze_in_range">"oralig'ida"</string>
+    <string name="range_end_fail">"Dekabr tugmasi ('__s__') '__s__' dan katta bo'lishi kerak."</string>
+    <string name="failed_add_window">"Oyna qo'shish muvaffaqiyatsiz tugadi"</string>
+    <string name="failed_remove_window">"Oynani olib tashlab bo'lmadi"</string>
+    <string name="system_service_stopped">"Dastur odatiy ishlamayapti, chunki tizim xizmati to'xtatilgan. Dasturni qayta ishga tushiring yoki uni qayta ishga tushiring."</string>
+    <string name="value_request">Qidiriladigan qiymatni kiriting</string>
+    <string name="type_request">"Qo'ng'iroq qilish uchun ma'lumot turini tanlang"</string>
+    <string name="type_change_request">"O'zgartirish uchun ma'lumot turini tanlang"</string>
+    <string name="value">Qiymati</string>
+    <string name="save_as">Saqlash:</string>
+    <string name="restart">Qayta ishga tushirish</string>
+    <string name="start">Boshlang</string>
+    <string name="wait_daemon">"Ushbu funksiya ishlamayotgan bo'lsa, ushbu funksiya mavjud emas. Ishlamasdan kuting. (Siz ildizga kirishni unutdingizmi yoki root o'rnatilmaganmi?)"</string>
+    <string name="daemon_fail">Daemon ishlamayapti</string>
+    <string name="config_icon_text">Belgi: shaffoflik = __d__ %%, yashirish - __s__</string>
+    <string name="icon_hide_after">"__d__ soniyadan so'ng"</string>
+    <string name="icon_hide_never">hech qachon</string>
+    <string name="keyboard">Klaviatura:</string>
+    <string name="internal">Ichki</string>
+    <string name="external">Tashqi</string>
+    <string name="failed_copy_text">Matnni clipboardga nusxalash amalga oshmadi:</string>
+    <string name="copied">Nusxa olindi</string>
+    <string name="copy_value">Qiymatni nusxalash:</string>
+    <string name="copy_address">Manzilni nusxalash:</string>
+    <string name="goto_address">"Manzilga o'tish:"</string>
+    <string name="search_unknown_value">"Noma'lum (qora) qidirish"</string>
+    <string name="search_known_value">"Ma'lum (aniq) qidiruv"</string>
+    <string name="speedhack_hint">"O'yinning tezligini o'zgartirish uchun __app_name__ suzuvchi belgini uzoq vaqt davomida bosib turing."</string>
+    <string name="bad_firmware">"Sizning dasturiy ta'minotingiz ushbu xususiyatdan foydalanishga to'sqinlik qilgan xatolarga ega."</string>
+    <string name="language">Til</string>
+    <string name="acceleration">Interfeysni tezlashtirish:</string>
+    <string name="hardware">Uskuna</string>
+    <string name="software">"Dasturiy ta'minot"</string>
+    <string name="speedhack">Speedhack</string>
+    <string name="data_in_ram">"RAMdagi ma'lumotlar:"</string>
+    <string name="first_mb">Birinchi __d__ MB</string>
+    <string name="donate">"Bag'ishlang"</string>
+    <string name="speeds">tezligi</string>
+    <string name="floating_window_fail">"Suzuvchi oynani ko'rsatib bo'lmadi"</string>
+    <string name="check">Tasdiqlash</string>
+    <string name="check_success">"Tasdiqlash muvaffaqiyatli bo'ldi"</string>
+    <string name="enable_draw_perm">Iltimos, keyingi ekranda ruxsatnomalarni yoqing.</string>
+    <string name="speedhack_fail">"Ushbu jarayon uchun Speedhack qo'llab-quvvatlanmaydi"</string>
+    <string name="dangerous">xavfli</string>
+    <string name="difference">Farqi</string>
+    <string name="old_value">Eski qiymat</string>
+    <string name="new_value">Yangi qiymat</string>
+    <string name="mode_hacking">Qiymat shifrlangan</string>
+    <string name="union">Guruh qidirish</string>
+    <string name="speedhack_open">"Tez harakatlanuvchi ma'lumotni __app_name__ suzuvchi belgini bosib uzoq vaqt davomida ochishingiz mumkin."</string>
+    <string name="history">Tarix</string>
+    <string name="history_empty">"Tarix bo'sh"</string>
+    <string name="allow_suggestions">Klaviaturadan taklif qilish:</string>
+    <string name="invalid_area">"Guruh kattaligi __d__ va __d__ orasida bo'lishi kerak:"</string>
+    <string name="union_need_two_numbers">"Guruhlarni qidirish uchun kamida ikki raqam bo'lishi kerak"</string>
+    <string name="too_many_union_numbers">"Juda ko'p raqamlar, ko'proq:"</string>
+    <string name="invalid_number">"Noto'g'ri raqam:"</string>
+    <string name="input_number">Kirish raqami</string>
+    <string name="number_out_of_range">"Mumkin bo'lgan masofadan «__s__» raqami:"</string>
+    <string name="help_floating_icon">"* Suzuvchi belgi:
+\u0009* Xabarni ochish uchun teging.
+\u0009* Speedhack panelini almashtirish uchun teging va ushlab turing.
+* Belgini sudrab olib tashlash orqali uni biron joyga ko'chirish mumkin.
+\u0009* Shaffofligi va yashirish timeri ilovalar sozlamalarida moslashtirilishi mumkin.
+"</string>
+    <string name="help_exact_search">"* To'liq qidirish:
+\u00091. O'yinlardan __app_name__ raqamiga o'ting.
+\u00092. \"__search__\" yorlig'idagi \"__search_known_value__\" tugmasini bosing.
+\u00093. O'yinda ko'rsatilgan raqamni kiriting.
+\u00094. Kerakli ma'lumot turini tanlang yoki \"__type_auto__\" (ishonchingiz komil bo'lmasa) va boshqa variantlarni tanlang (agar kerak bo'lsa) va \"__search__\" ni bosing.
+\u00095. Qidirishni tugatganingizdan so'ng, qidiruv natijalari ro'yxatda ko'rsatiladi.
+\u00096. O'yinga qaytish. Qiymat o'zgandan so'ng yana __app_name__ ga o'ting.
+\u00097. O'zgargan qiymatni qidiring.
+\u00098. Agar juda ko'p natijalar mavjud bo'lsa, 6-bosqichga o'ting.
+\u00099. Agar bir nechta natijalar qolsa, qiymatni o'zgartirish, saqlash yoki muzlatish mumkin.
+"</string>
+    <string name="help_speedhack">"* Speedhack:
+\u0009* Speedhack panelini ko'rsatish uchun suzuvchi belgi ustiga bosing va ushlab turing.
+\u0009O'yin tezligini o'zgartirish uchun belgining har ikki tarafidagi o'qlarni bosing.
+\u0009* O'yin tezligini o'rnatish uchun joriy tezlik raqamini bosing va ushlab turing.
+\u0009* Speedhack panelini yashirish uchun suzuvchi ikonkani bosing va ushlab turing.
+\u0009* Foydalanadigan tezlik va taymerlarning ro'yxati ilovalar sozlamalarida moslashtirilishi mumkin.
+\u0009* O'yin kirishga javob bermasa yoki speedhack ishlamasa __app_name__ sozlamalarida boshqa yashil taymerlardan foydalaning.
+\u0009* Siz o'z vaqtida o'tish uchun \"__time_jump__\" dan foydalanishingiz mumkin. Faqat qidiruv oynasida menyuni tanlang va \"__time_jump__\" ni tanlang. O'tish uchun qancha soniya kerakligini aniqlang. O'tish miqdori keskin bo'lishi mumkin.
+"</string>
+    <string name="help_fuzzy_search">"* Loyqa qidirish:
+\u00091. O'yinlardan __app_name__ raqamiga o'ting.
+\u00092. Tap the \"__search_unknown_value__\" button in the \"__search__\" tab.
+\u00093. Kerakli ma'lumot turini tanlang yoki \"__type_auto__\" ni tanlang (agar amin bo'lmasangiz) va \"__search__\" ni bosing.
+\u00094. Qidirishni tugatganingizdan so'ng, qidiruv natijalari ro'yxatda ko'rsatiladi.
+\u00095. O'yinga qaytish. Qiymat o'zgandan so'ng (yoki bo'lmasa) yana __app_name__ ga o'ting.
+\u00096. «__search_unknown_value__» tugmasini bosing va qiymat qanday o'zgarganligi turini tanlang.
+\u00097. Agar juda ko'p natijalar bo'lsa, 5-bosqichga o'ting.
+\u00098. Agar bir nechta natijalar qolsa, qiymatni o'zgartirishga, saqlashga yoki muzlatishga harakat qilishingiz mumkin.
+
+\u0009\"__more__\" tugmasini bosish orqali qiymati aniq o'zgartirishingiz mumkin.
+\u0009Raqamni aniq qiymat o'zgarishi sifatida kiritishingiz mumkin:
+\u0009\u0009190__tilde__210
+\u0009O'zgarishlarni qiymatlar oralig'idan tashkillashtirish uchun quyidagilarni kiritishingiz mumkin:
+\u0009\u000910__tilde____tilde__4000
+"</string>
+    <string name="help_group_search">"* Guruh qidirish:
+\u00091. O'yinlardan __app_name__ raqamiga o'ting.
+\u00092. \"__search__\" yorlig'idagi \"__search_known_value__\" tugmasini bosing.
+\u00093. Guruh qidirish uchun qidiruv so'rovini kiritish.
+\u0009\u0009Format: qiymati 1 __semicolon__ qiymati 2 __semicolon__ ... __semicolon__ qiymati N __colon__ guruh hajmi
+\u0009\u00092-__max_group__ qiymatlari bir vaqtning o'zida qidirish mumkin. Standart guruhning hajmi 512 ni tashkil qiladi. Guruhning hajmi 2 va 65536 orasida bo'lishi kerak.
+\u0009\u0009Misol uchun, 195 va 6543 raqamlarini qidirishni istasangiz, quyidagilarni kiritishingiz kerak:
+\u0009\u0009\u0009195 __semicolon__ 6543
+\u0009\u0009Albatta, siz guruhning hajmini (300) belgilashingiz mumkin:
+\u0009\u0009\u0009195 __semicolon__ 6543 __colon__ 300
+\u0009\u0009Bundan tashqari, siz bir yoki bir nechta ma'lumotlar turlarini o'rnatishingiz mumkin:
+\u0009\u0009\u0009195__type_dword_short__ __semicolon__ 6543
+\u0009\u0009This means you want to search a __type_dword__ value that is 195 and an __type_auto__ value that is 6543.
+\u0009\u0009Mumkin bo'lgan ma'lumotlar turlari qidirishda bo'lganlar bilan bir xil:
+\u0009\u0009\u0009__type_byte_short__ - __type_byte__
+\u0009\u0009\u0009__type_word_short__ - __type_word__
+\u0009\u0009\u0009__type_dword_short__ - __type_dword__
+\u0009\u0009\u0009__type_xor_short__ - __type_xor__
+\u0009\u0009\u0009__type_qword_short__ - __type_qword__
+\u0009\u0009\u0009__type_float_short__ - __type_float__
+\u0009\u0009\u0009__type_double_short__ - __type_double__
+\u0009\u0009\u0009__type_auto_short__ - __type_auto__
+\u0009\u0009Bundan tashqari, raqamni hex (kichik) belgisida yozishingiz mumkin:
+\u0009\u0009\u0009__hex_example____hex__ __semicolon__ 6543
+\u0009\u0009yoki teskari hex (katta-endian) belgisida:
+\u0009\u0009\u0009__hex_example____rhex__ __semicolon__ 6543
+\u0009\u0009Qo'shimcha belgilarni kiritish uchun ichki klaviaturadagi \"__btn_hex__\" tugmasini bosing.
+\u00094. To'g'ri ma'lumot turini tanlang yoki sukut sifatida foydalanish uchun \"__type_auto__\" ni tanlang (agar amin bo'lmasangiz). Boshqa variantlar bu turdagi qidirish uchun muhim emas. \"__search__\" tugmasini bosing.
+\u00095. Qidirishni tugatganingizda, qidiruv natijalari ro'yxatda ko'rsatiladi.
+\u00096. O'yinga qaytish. Qiymat o'zgandan so'ng yana __app_name__ ga o'ting.
+\u00097. Guruhlarni qidirishni tegishli o'zgarishlarni takrorlang.
+\u00098. Agar juda ko'p natijalar mavjud bo'lsa, 6 va 7-bosqichlarni takrorlang.
+\u00099. Agar bir nechta natijalar qolsa, qiymatni o'zgartirish, saqlash yoki muzlatish mumkin.
+
+\u0009Agar qiymatlarni hurmat qilish tartibini istasangiz, __colon__ ni ikki marta belgilang.
+\u0009Guruh hajmi bo'lmasdan:
+\u0009\u0009195 __semicolon__ 6543 __colon____colon__
+\u0009Guruh hajmi bilan:
+\u0009\u0009195 __semicolon__ 6543 __colon____colon__ 300
+
+\u0009Siz qiymat oralig'ida qo'ng'iroq qilishingiz mumkin:
+\u0009\u0009190__tilde__210 __semicolon__ 6543
+\u0009Bundan tashqari, qadriyatlar doirasidan tashqari qo'ng'iroq qilishingiz mumkin:
+\u0009\u000910__tilde____tilde__4000 __semicolon__ 6543
+"</string>
+    <string name="help_others">"* Boshqalar:
+\u0009* Yangi qidiruvlar uchun menyu tugmachasi ostidagi menyuda \"__clear__\" ni tanlab oldingi qidiruv natijalarini tozalash kerak.
+\u0009* O'ng chap burchagidagi o'yin belgisiga boshqa o'yinni tanlash uchun.
+\u0009* O'yinni pauza qilish / davom ettirish uchun - chap burchakdagi belgining pastidagi tugmani bosing.
+\u0009* To'xtab turish vaqtida o'yinni o'zgartirsangiz, keyingi safar siz __app_name__ ochsangiz, u o'yin avtomatik ravishda to'xtatiladi.
+\u0009* Barcha muzlatilgan qiymatlar avtomatik ravishda saqlangan ro'yxatga qo'shiladi. Siz ularni tegishli tabda boshqarishingiz mumkin.
+\u0009* Barcha kirish ma'lumotlari \"__history__\" ro'yxatiga saqlanadi. Siz ularni tarix tugmachasini bosib foydalanishingiz mumkin.
+"</string>
+    <string name="help_typical_usage">"* Odatda foydalanish algoritmlari:
+
+1) qiymat shifrlangan va ma'lum emas.
+\u0009Odatda, pul, yulduzlar, tangalar, resurslar va boshqalar.
+
+\u0009To'liq qidiruvdan foydalaning.
+
+2) qiymat noma'lum va / yoki shifrlangan.
+\u0009Noma'lum qiymatdagi odatiy hol - har qanday o'lchov / satr. Masalan, sog'liqni saqlash, mana, nitro, va hokazo. O'zgarishlar paydo bo'ladi, ammo hech qanday soni qiymatlar ko'rinmaydi.
+\u0009Shifrlangan qiymatlar uchun odatiy hol pul, yulduz, tangalar va boshqalar bo'lishi mumkin, lekin 1 algoritm bilan qidirib hech narsa topa olmaydi, yoki topilgan qadriyatlar o'zgarishi o'yinlarda raqamlarning o'zgarishiga olib kelmaydi.
+
+\u0009Loyqa qidirishdan foydalaning.
+
+
+3) qiymat shifrlangan (__mode_hacking__).
+\u0009Shifrlangan qiymatlar uchun odatiy hol pul, yulduz, tangalar va boshqalar bo'lishi mumkin, lekin 1 algoritm bilan qidirib hech narsa topa olmaydi, yoki topilgan qadriyatlar o'zgarishi o'yinlarda raqamlarning o'zgarishiga olib kelmaydi.
+
+\u0009To'liq qidiruvdan foydalaning, lekin doim \"__mode_hacking__\" katagiga belgi qo'ying.
+\u0009Topilgan natijalar shifrlash tufayli g'alati qadriyatlarga ega bo'lishi mumkin.
+
+Algoritm 3-dan 2 barobar tezroq, lekin u barcha o'yinlar uchun ishlamasligi mumkin.
+
+4) Bu qiymat shifrlangan, ma'lum va ma'lum bo'lgan boshqa qadriyatlarga yaqin joylashtirilmaydi.
+\u0009Odatiy vaziyat do'konning narxi, qahramon statsi va boshqalar uchun bo'lishi mumkin.
+
+\u0009Bir vaqtning o'zida barcha raqamlarni guruhdan qidirishni ishlatish.
+"</string>
+    <string name="help_hints">"* Maslahatlar:
+
+\u0009* Barcha o'yinlar __app_name__ tomonidan o'zgartirilmaydi. Misollarning odatda ro'yxati:
+\u0009\u0009* Serverda saqlangan ma'lumotlar (server tomonlama o'yinlar)
+\u0009\u0009* o'yin doimiy Internet aloqasiga muhtoj
+\u0009\u0009* Boshqa o'yinchilar bilan tarmoq o'ynaydi
+\u0009\u0009* O'yin boshlanishida ulanish uchun server tanlashingiz kerak
+\u0009\u0009* Internetdan foydalanmaysiz
+\u0009\u0009Agar biror narsa o'zgartirsangiz * o'yin serverdan ma'lumotlarni qayta yuklaydi
+\u0009* Ko'rilgan qiymatlar har doim saqlanadigan usul bilan bir xil emas. Ular turli xil bo'lishi mumkin. Misol uchun, ekranda biz 34ni ko'ramiz, lekin xotirada qiymati 34000 dir.
+\u0009* Agar qiymati o'zgartira olmasangiz - bu qiymatga ta'sir qiladigan qiymatlarni o'zgartirishni harakat qilib ko'ring. Misol uchun, oltin miqdorini o'zgartirish o'rniga, siz narsaning narxini o'zgartirishingiz va uni sotishingiz mumkin. Yoki salbiy bahoga sotib oling.
+"</string>
+    <string name="help">Yordam bering</string>
+    <string name="help_floating_icon_title">Suzuvchi belgi</string>
+    <string name="help_exact_search_title">Aniq qidiruv</string>
+    <string name="help_speedhack_title">Speedhack</string>
+    <string name="help_group_search_title">Guruh qidirish</string>
+    <string name="help_others_title">Boshqalar</string>
+    <string name="help_typical_usage_title">Odatda foydalanish algoritmlari</string>
+    <string name="help_hints_title">Maslahatlar</string>
+    <string name="value_format">Qiymat shakli</string>
+    <string name="format_hex">Hex (kichik endion) yozuvi</string>
+    <string name="format_rhex">Hex (teskari) yozuvni teskari aylantirish</string>
+    <string name="clear_selection">Tanlovni tozalash</string>
+    <string name="invert_selection">"Tanlovni o'zgartirish"</string>
+    <string name="select_all">Hammasini belgilash</string>
+    <string name="edit_selected">Tanlanganni tahrirlash</string>
+    <string name="delete_selected">Tanlanganni olib tashlash</string>
+    <string name="save_selected">Tanlanganni saqlash</string>
+    <string name="nothing_selected">Hech narsa tanlanmadi</string>
+    <string name="items_added">"Saqlangan ro'yxatga qo'yilgan narsalar (__d__) qo'shildi"</string>
+    <string name="no_items_for_editing">"Tahrirlash uchun hech qanday mahsulot yo'q."</string>
+    <string name="edit_info">__s__ni __s__ deb tahrirlang</string>
+    <string name="edit_all_info">"__d__ manzillarini __s__ deb o'zgartiring"</string>
+    <string name="autopause">"Autopause o'yini:"</string>
+    <string name="empty_list">"Saqlangan ro'yxat bo'sh.
+Natijalar ro'yxatidan yoki xotira muharriridan ma'lumotlar qo'shishingiz mumkin.
+Faqat kerakli elementlarni tanlang va menyuda \"__save_selected__\" ni tanlang.
+Boshqa usul - qiymatni tahrirlashni boshlash va \"__save_as__\" katagiga belgi qo'ying.
+Bundan tashqari, barcha muzlatilgan qadriyatlar bu erda avtomatik ravishda qo'shiladi."</string>
+    <string name="empty_save">"Saqlangan ro'yxat bo'sh. Saqlash uchun hech narsa yo'q."</string>
+    <string name="revert_selected">Qaytish tanlandi</string>
+    <string name="nothing_to_revert">"Orqaga qaytish uchun hech narsa yo'q"</string>
+    <string name="revert_prompt">Tanlangan elementlarni qaytarish (__d__)?</string>
+    <string name="download">Ushbu ilovani quyidagicha yuklab olishingiz mumkin:</string>
+    <string name="format_string">String namoyish</string>
+    <string name="forgot_h">Oxirida \"__hex__\" ni unutdingizmi?</string>
+    <string name="time_jump">"Vaqt o'tish"</string>
+    <string name="time_jump_hint">"Oldinga o'tish uchun soniyalar sonini kiriting:"</string>
+    <string name="hide_from_game">"__app_name__dan o'yinni yashirish:"</string>
+    <string name="last_stats">"Sizning so'nggi qidiruvingiz uchun statistika"</string>
+    <string name="memory_access">Xotiraga kirish:</string>
+    <string name="normal">Oddiy</string>
+    <string name="extended">Kengaytirilgan</string>
+    <string name="experimental">Tajribali</string>
+    <string name="installing">"__app_name__ o'yinlarni aniqlashni istisno qilish uchun tasodifiy nom bilan o'zini qayta tiklashni amalga oshiradi. Kutmoq."</string>
+    <string name="failed_install">"Ilovani o'rnatib bo'lmadi. Qayta urinish kerakmi?"</string>
+    <string name="failed_uninstall">"Ilovani o'chirib bo'lmadi. Qayta urinish kerakmi?"</string>
+    <string name="download_it">Yuklab oling</string>
+    <string name="more">"Ko'proq"</string>
+    <string name="less">Kamroq</string>
+    <string name="no_space">"Qurilmangizda bo'sh joy qolmadi"</string>
+    <string name="install_cancel_prompt">"__app_name__ o'rnatilmagan bo'lsa, aniqlash mumkin. Siz haqiqatdan ham bekor qilmoqchimisiz?"</string>
+    <string name="intercept">"to'xtatish"</string>
+    <string name="need_restart">"Ushbu o'zgarishlarni amalga oshirish uchun maqsadli ilovani qayta boshlash kerak."</string>
+    <string name="must_be_root">"Ushbu dasturning ishlashi uchun qurilmangiz root bo'lishi kerak.
+
+__app_name__ virtual muhitda ildiz holda cheklangan rejimda ishlashi mumkin. Masalan, __vspace_list__ va boshqalar orqali.
+Qo'shimcha ma'lumot uchun yordamni o'qing.
+
+Har qanday qurilmani qanday rootlash mumkin: http://www.xda-developers.com/root/"</string>
+    <string name="skip_">"O'tkazish"</string>
+    <string name="indent_for_the_status_bar">"Displeyning yuqorisidan UIni chetga surib qo'ying:"</string>
+    <string name="start_collecting_data">"Ma'lumot to'plashni boshlang"</string>
+    <string name="data_collecting_in_progress">"Ma'lumot yig'ish davom etmoqda"</string>
+    <string name="copy">Nusxalash</string>
+    <string name="show_logcat">"Logcat-ni ko'rsatish"</string>
+    <string name="path_must_be">"Yo'l kamida 2 ta belgidan iborat bo'lishi kerak va \"/\" bilan boshlanadi."</string>
+    <string name="fix_it">Tuzat</string>
+    <string name="change_log">"Jurnallarni o'zgartirish"</string>
+    <string name="used_only_first">Faqat avval __d__ ta element ishlatilgan.</string>
+    <string name="need_select_more">"__d__ yoki undan ko'p narsalarni tanlashingiz kerak."</string>
+    <string name="offset">Ofset:</string>
+    <string name="result">Natija:</string>
+    <string name="copy_hex_value">Hex qiymatini nusxalash:</string>
+    <string name="goto_pointer">Poiskga boring:</string>
+    <string name="offset_calculator">Ofset kalkulyatori</string>
+    <string name="fill_toolbar">"To'ldirish asboblar paneli:"</string>
+    <string name="from_left">Chapdan</string>
+    <string name="from_center">Markazdan</string>
+    <string name="from_right">"O'ngdan"</string>
+    <string name="unit_years_short">y</string>
+    <string name="unit_days_short">g</string>
+    <string name="unit_hours_short">h</string>
+    <string name="unit_minutes_short">min</string>
+    <string name="unit_seconds_short">sek</string>
+    <string name="speed_info">"O'yin vaqtida __s__ real vaqtda = __s__"</string>
+    <string name="search_helper">Yordamchi izlash:</string>
+    <string name="off">Yopiq</string>
+    <string name="go_to_game">"Juda ko'p qadriyatlar topilsa o'yinga qaytib boring"</string>
+    <string name="go_to_game_and_restore">"Bir qator qadriyatlar topilsa va keyingi ochilganda qidirish rejimini tiklasangiz, o'yin qaytib boring"</string>
+    <string name="nothing">Hech narsa</string>
+    <string name="sort">Saralash</string>
+    <string name="sort_and_remove_duplicates">Duplikatlarni saralash va olib tashlash</string>
+    <string name="help_basics_title">"Asosiy ma'lumotlar"</string>
+    <string name="help_basics">"Dasturni ishga tushirgandan so'ng, \"__start__\" tugmasini bosish orqali ekranda suzuvchi belgi ko'rinadi. Har qanday joyga sudrab borish mumkin.
+Belgida qisqa tugmani bosish asosiy dastur interfeysini ochadi, uzoqroq bosing - o'yin tezligini o'zgartirish uchun panelni ko'rsating.
+
+Asosiy ekranda quyidagilarni ko'rishingiz mumkin:
+\u0009* Yuqoridagi chap burchakda - o'yinning belgisi. Unga bosish boshqa o'yinni tanlash imkonini beradi.
+\u0009* Markada joylashgan yorliqlar bo'yicha harakat qilish uchun xatcho'plar mavjud. Kerakli xatcho'pni tegizish mos yorliqni ko'rsatadi.
+
+Jami 4 ta yorliq bor: sozlash, qidirish, saqlangan ro'yxat va xotira muharriri.
+\u0009* Xabarning yuqori o'ng burchagida yopilish tugmasi. Uni bosing va interfeys yashiriladi va ekranda suzuvchi belgi ko'rinadi.
+\u0009* Ekranning pastki qismida holat paneli va ko'z belgisi mavjud. Agar siz ko'z belgisiga bosib ushlab tursangiz, barmog'ingizni qo'ymasangiz interfeys shaffof bo'ladi.
+\u0009* Ekrandagi tarkibning qolgan qismi qaysi tabda bo'lishingizga bog'liq.
+
+Sozlamalar yorlig'i bundan mustasno, har bir ichki oynada turli xil ehtimoliy amallarni o'z ichiga olgan menyu tugmasi mavjud. Unda siz ushbu tabning asosiy harakatlarini topasiz.
+
+Sozlamalar yorlig'i turli xil sozlamalar, yordam va dastur haqidagi ma'lumotni va chiqish tugmasidan iborat.
+
+Qidiruv yorlig'i quyidagilardan iborat:
+\u0009Pauza tugmasi, tanlangan o'yin nomi, topilgan natijalar soni va yangilash tugmasi.
+\u0009* Quyida tezkor kirish piktogramma va menyu tugmasi bo'lgan panel mavjud. Belgilarning ma'nosini bilmasangiz, menyuning tugmachasini (o'ng tomonga) bosish orqali har doim ko'rsatilishi mumkin.
+\u0009* Ushbu piktogramlar ostida qidiruv natijalari ro'yxati bo'ladi.
+
+Saqlangan ro'yxat ko'rinishida quyidagilar mavjud:
+\u0009Pauza tugmasi, tanlangan dasturning nomi, menyu tugmasi va yangilash tugmasi.
+\u0009* Ushbu belgilar ostida saqlangan qiymatlar ro'yxati bo'ladi.
+
+Xotira muharriri ilovasi avvalgi bilan bir xil, faqatgina xotiraning mazmunini aks etgan saqlangan qadriyatlar ro'yxati o'rniga.
+
+Barcha uchta ro'yxatda (qidiruv natijalari, saqlangan qiymatlar va xotira muharriri) kontekst menyusini ko'rsatish uchun elementlarga uzoqroq teging."</string>
+    <string name="daemon_killed">"Daemon biror narsa bilan o'ldirilgan.
+
+Odatda bunday bo'lishi mumkin:
+\u00091. Har qanday xotirani o'ldiruvchi yoki optimallashtiruvchi. Siz biron-bir qotilni o'chirib qo'yishingiz yoki uning sozlamalarida __app_name__ oq ro'yxatni kiritishingiz kerak.
+\u00092. __daemon_killed_oom__
+\u00093. Xotira kartasi ajratilgan, __app_name__ vaqtinchalik fayllar saqlangan. Buning oldini olish uchun vaqtinchalik fayllar uchun boshqa yo'lni belgilang. Masalan, ichki xotirada."</string>
+    <string name="bad_settings">Yomon sozlamalar</string>
+    <string name="freeze_lags">"__hide_from_game__ sozlamalari bilan muzlatilgan qiymatlarni ishlatish o'yinda kechikishga olib kelishi mumkin."</string>
+    <string name="improve_translation">Ushbu tarjima avtomatik tarjimon tomonidan yaratilgan. Bizning kollektiv tarjima xizmatidan foydalanib uni yaxshilashingiz mumkin.</string>
+    <string name="freeze_interval">"Dondurma oralig'i:"</string>
+    <string name="saved_list_update_interval">"Saqlangan ro'yxat yangilanishlari oralig'i:"</string>
+    <string name="milliseconds_short">Xonim</string>
+    <string name="disable_floating_windows">"Suzuvchi derazalarni o'chirib qo'ying va ilovani qaytadan ishga tushiring"</string>
+    <string name="enable_floating_windows">Suzuvchi derazalarni yoqing va ilovani qaytadan ishga tushiring</string>
+    <string name="too_many">"Juda ko'p"</string>
+    <string name="help_range_search_title">Qator qidirish</string>
+    <string name="help_range_search">"* Qidirish:
+\u00091. O'yinlardan __app_name__ raqamiga o'ting.
+\u00092. \"__search__\" yorlig'idagi \"__search_known_value__\" tugmasini bosing.
+\u00093. \"__tilde__\" tomonidan ajratilgan chegara qidiruvi maydonini kiriting. Masalan, 100 dan 150 gacha qiymatlarni izlash uchun quyidagilarni kiriting:
+\u0009\u0009\u0009100__tilde__150
+\u0009\u0009Range tashqari qidirish uchun siz \"__tilde__\" belgisini ikki marta belgilashingiz mumkin:
+\u0009\u0009\u0009100__tilde____tilde__150
+\u0009\u0009Shu bilan bir qatorda siz \"__not_equal__\" belgisini tanlab, \"__tilde__\" belgisini bir marta belgilashingiz mumkin.
+\u0009\u0009Qo'shimcha belgilarni kiritish uchun ichki klaviaturadagi \"__btn_hex__\" tugmasini bosing.
+\u00094. Kerakli ma'lumot turini tanlang yoki \"__type_auto__\" (ishonchingiz komil bo'lmasa) va boshqa variantlarni tanlang (agar kerak bo'lsa) va \"__search__\" ni bosing.
+\u00095. Qidirishni tugatganingizdan so'ng, qidiruv natijalari ro'yxatda ko'rsatiladi.
+\u00096. O'yinga qaytish. Qiymat o'zgandan so'ng yana __app_name__ ga o'ting.
+\u00097. Tegishli o'zgarishlarni qidirishni takrorlang.
+\u00098. Agar juda ko'p natijalar mavjud bo'lsa, 6 va 7-bosqichlarni takrorlang.
+\u00099. Agar bir nechta natijalar qolsa, qiymatni o'zgartirish, saqlash yoki muzlatish mumkin.
+
+\u0009Qidiruv natijalariga kiritilgan qator chegaralari. Siz intervalgacha tegishli bo'lmagan barcha qiymatlarni topish uchun \"__not_equal__\" bo'yicha qidirish turini tanlashingiz mumkin.
+\u0009Ushbu qidiruvda barcha qiymatlar imzolangan deb hisoblanadi.
+"</string>
+    <string name="does_not_support">"\"__s__\" \"__s__\" ni qo'llab-quvvatlamaydi."</string>
+    <string name="range_bounds_diff_types">"Range chegaralari bir xil turdagi bo'lishi kerak."</string>
+    <string name="examples">Misollar</string>
+    <string name="rtfm">"Qo'shimcha ma'lumot uchun yordamni o'qing."</string>
+    <string name="icons_size">Belgilar hajmi:</string>
+    <string name="revert_and_remove">Orqaga oling va olib tashlang</string>
+    <string name="remove">"O'chir"</string>
+    <string name="ordered_group_search">Buyurtma qilingan guruh qidirish</string>
+    <string name="load_items">Mahsulotlar</string>
+    <string name="load_values">Qiymatlar</string>
+    <string name="load_freeze">Muzqaymoq</string>
+    <string name="video_tutorials">"Video ko'rsatmalar va ko'rsatmalarga qanday qilib xalaqit beraman"</string>
+    <string name="make_copy">Nusxa oling</string>
+    <string name="video">Videolar</string>
+    <string name="ordered">Buyurtma qilingan</string>
+    <string name="toolbars">Uskunalar paneli</string>
+    <string name="saved_list">"Saqlangan ro'yxat"</string>
+    <string name="memory_editor">Xotira tahrirchisi</string>
+    <string name="restart_game">"O'yinni qayta ishga tushiring"</string>
+    <string name="refine">Tozalash</string>
+    <string name="internal_storage">Ichki saqlash</string>
+    <string name="external_storage">Tashqi xotira</string>
+    <string name="new_search">Yangi qidiruv</string>
+    <string name="load_saved_list">"Saqlangan ro'yxatni fayldan joylashtiring"</string>
+    <string name="save_saved_list">"Saqlangan ro'yxatni faylga saqlang"</string>
+    <string name="append">"Qo'shish"</string>
+    <string name="xor_key">XOR tugmachasi:</string>
+    <string name="only_memory">Faqat xotira diapazoni ichida:</string>
+    <string name="dump_memory">Damp xotirasi</string>
+    <string name="path">"Yo'l:"</string>
+    <string name="dump_ended">"To'ldirish tugadi"</string>
+    <string name="dump_failed">Qabul qilish amalga oshmadi</string>
+    <string name="eperm_error_defend">"Jarayonga qo'shib bo'lmadi (PTRACE_ATTACH): O'yin himoyalangan"</string>
+    <string name="reset_on_exit">"Chiqish bo'yicha reset:"</string>
+    <string name="kill_game">"O'yinni o'ldiring"</string>
+    <string name="kill_game_info">"Jarayonni majburan bekor qilish jarayonni toza tarzda o'chirib qo'yish imkonini bermaydi va ma'lumotlar yo'qotilishi yoki tizimning beqarorligi sabab bo'lishi mumkin."</string>
+    <string name="continue_ask">Davom etilsinmi?</string>
+    <string name="copy_memory">Xotirani nusxalash</string>
+    <string name="copy_from">Nusxalash:</string>
+    <string name="paste_to">"Pastga o'tkazing:"</string>
+    <string name="count_bytes">Bayt baytlari:</string>
+    <string name="copy_ended">Nusxa xotira tugadi</string>
+    <string name="copy_failed">Xotirani nusxalash muvaffaqiyatsiz</string>
+    <string name="help_encrypted_search_title">Shifrlangan qiymatlarni qidirish</string>
+    <string name="help_encrypted_search">"* Shifrlangan qiymatlarni qidirish:
+\u00091. O'yinlardan __app_name__ raqamiga o'ting.
+\u00092. \"__search__\" yorlig'idagi \"__search_known_value__\" tugmasini bosing.
+\u00093. O'yinda ko'rsatilgan raqamni kiriting.
+\u00094. Kerakli ma'lumot turini tanlang yoki \"__type_auto__\" ni tanlang (agar amin bo'lmasangiz), boshqa variantlar (agar kerak bo'lsa), \"__mode_hacking__\" ni tekshiring va \"__search__\" ni bosing.
+\u00095. Qidirishni tugatganingizdan so'ng, qidiruv natijalari ro'yxatda ko'rsatiladi.
+\u00096. O'yinga qaytish. Qiymat o'zgandan so'ng yana __app_name__ ga o'ting.
+\u00097. O'zgargan qiymatni qidiring. \"__mode_hacking__\" belgilari tekshirilishi kerak.
+\u00098. Agar juda ko'p natijalar mavjud bo'lsa, 6-bosqichga o'ting.
+\u00099. Agar bir nechta natijalar qolsa, qiymatni o'zgartirish, saqlash yoki muzlatish mumkin.
+"</string>
+    <string name="help_faq_title">"Tez-tez so'raladigan savollar"</string>
+    <string name="help_faq_1_q">Nima uchun men 99 yoki 60,000 dan katta qiymatlarni kiritishim mumkin emas?</string>
+    <string name="help_faq_1_a">__type_byte__ yoki __type_word__ qiymatini topdingiz. Kattaroq qiymatlarni kiritish uchun __type_dword__ni qidiring.</string>
+    <string name="help_faq_2_q">Qisman (__type_float__) qiymatlari, ahamiyatli qismsiz holda qanday qidirish mumkin?</string>
+    <string name="help_faq_2_a">"\"__type_auto__\" ma'lumotlar turini yoki intervalli qidirishni ishlating. Masalan, 11.345 uchun \"10__tilde__12\" ni qidirib topishingiz mumkin."</string>
+    <string name="help_faq_3_q">"Qiymatni topdim va o'zgartirdim, lekin o'yinda bu o'zgarish hech narsa qilmaydi. Men faqat uni ishlatishga harakat qilaman, lekin hamma narsa qaytib keladi. Men noto'g'ri ish qilyapman?"</string>
+    <string name="help_faq_3_a">"Ba'zi o'yinlar, qiymatlar himoyalangan yoki shifrlangan. Qiymatni ko'rsatishdan oldin qiymat boshqa o'zgaruvchiga parolini chiqaradi. Siz uni o'zgartirdingiz.
+Ushbu qiymat faqat displey uchun ishlatilganligi uchun o'yin mexanizmiga ta'sir qilmaydi. Ko'rsatilgan qiymatdan ko'ra haqiqiy qiymatni topish uchun shifrlangan qiymatni yoki loyqa izlanadigan qidirishni ishlating.
+Ba'zida qiymat serverda saqlanadi va har safar sinxronizatsiya qilinadi. Bunday holatda uni buzish mumkin emas. Agar o'yin internetsiz ishlamasa va oldingi usullar yordam bermagan bo'lsa - ehtimol bu shunday."</string>
+    <string name="help_faq_4_q">"X o'yinidagi qiymatni topa olmaydi. Yoki topadi, ammo hech narsa o'zgarmasa. Yoki uni topadi, ammo o'zgarganidan so'ng o'yin buziladi. Muammo nimani anglatishi mumkin, bu o'yinda yoki __app_name__ bilan himoyalanadimi?"</string>
+    <string name="help_faq_4_a">"Hech qanday himoya qilish va uni sinab ko'rish uchun kafolatlangan sodda dasturni qabul qilishingiz kerak. \"Hill Tog'lar poyezdi\" dan foydalanishni afzal ko'raman. O'yin sodda, murakkab va himoyalanmagan. Siz pulni buzishingizni raqam bo'yicha to'g'ridan-to'g'ri qidirish va o'zgarish uchun loyqa topilma sifatida tekshirishingiz mumkin.
+Agar ushbu oddiy o'yinni buzsangiz, u X-o'yinda sizni kesishga urinadi. Aks holda muammo __app_name__ da.
+Bundan osonroq variant bor: \"Tap counter\". Uni o'rnating. Yugurish. Ekranda ko'rsatilgan tasmachalarning sonini yorib kirishga harakat qiling. Bu juda oson bo'lishi kerak. Aks holda muammo __app_name__ yoki uning sozlamalarida.
+__app_name__ ning yana bir versiyasini sinab ko'ring, forumda olingan yoki Internetdagi xatolik haqida ma'lumotni qidirishga urinib ko'ring. Haddan tashqari holatlarda forumdan so'rashingiz mumkin."</string>
+    <string name="help_faq_5_q">Vaqtni qanday qidirish kerak?</string>
+    <string name="help_faq_5_a">"\u0009- Kunlar, soatlar, daqiqalar yoki soniyalar sonini qidirishga harakat qiling. Ma'lumotlarni turi __type_byte__, __type_word__, __type_dword__ yoki __type_qword__ bo'lishi mumkin. Bundan tashqari siz __type_auto__ turini qo'llashingiz mumkin.
+\u0009- Bir qator milliy yoki nanosaniyadan izlashga harakat qiling. Ma'lumot turi __type_dword__ yoki __type_qword__.
+\u0009- tugatish sanasini belgilash vaqtini belgilashga harakat qiling. Bunday - __type_dword__. U joriy UNIX vaqt tamg'asi va saqlangan narsalar orasidagi farq sifatida qaraladi. Qidiruvni qidirish orqali qidirish.
+Misol uchun, agar 30 kun yozilsa, siz joriy UNIX timestampidan 30 +/- 1 kun qidirasiz. Joriy UNIX timestampini Internetda osongina tomosha qilish mumkin."</string>
+    <string name="help_faq_6_q">"Onlayn o'yinlar buzish mumkinmi?"</string>
+    <string name="help_faq_6_a">"Mijozda saqlanadigan ma'lumotni yo'qotish mumkin. Serverda biror narsa buzilmaydi. Turli xil o'yinlar turli xil bo'lishi mumkin. Hatto bitta o'yinchi o'yinida ham ba'zi ma'lumotlar serverda bo'lishi mumkin, ba'zilari esa bo'lmasligi mumkin."</string>
+    <string name="help_faq_7_q">Speedhack qaerda ishlaydi?</string>
+    <string name="help_faq_7_a">"X86 kutubxonalari bo'lmagan o'yinlar uchun Speedhack x86 qurilmalari / emulyatorlarida ishlamasligi mumkin.
+Bundan tashqari, bir ART muhitida, speedhack Java taymerlari bilan ishlamaydi. Agar o'yin ularni ishlatsa va sizda ARTE muhiti (odatda Android 5 va undan yuqorisi) bo'lsa, unda tezlikni boshqarish ishlamaydi."</string>
+    <string name="help_faq_8_q">"__app_name__ butunlay men uchun ishlaydi, lekin ba'zi o'yinlarda men PTRACE_ATTACH xatini oldim. Nima uchun va nima qilish kerak?"</string>
+    <string name="help_faq_8_a">"Ushbu o'yin SecNeo muhofazasi turidagi disk ruxsatlaridan himoya qiladi. __app_name__ bu himoyani chetlab bo'lmaydi. Shu orqali, ushbu o'yinni kesib bo'lmaydi."</string>
+    <string name="help_faq_9_q">"Nima uchun dasturda bunday g'alati paket nomi bor? Nima uchun dastur yangilanmaydi, lekin har safar alohida o'rnatilsinmi? Nima uchun har bir versiyada boshqa paket nomi bormi?"</string>
+    <string name="help_faq_9_a">Paket nomi bilan anti-cheatslarni aniqlashni oldini olish.</string>
+    <string name="help_faq_10_q">"Ba'zi o'yinlarda tezlikni o'zgartirsangiz, sichqoncha bilan javob berishni to'xtatadi. O'yinni himoya qilishmi yoki dastur xatolikmi?"</string>
+    <string name="help_faq_10_a">"Buning ma'nosi, sizning Speedhacking sizning kirish taymerlarini to'xtatadi va u o'ladi. Taymerlar ro'yxatida (__app_name__ sozlamalarida) bu yashamasligi uchun yashil belgilashni tanlash kerak."</string>
+    <string name="help_faq_11_q">"Nima uchun u erga vergul bilan ajratilgan xatolar ro'yxatini beradi?"</string>
+    <string name="help_faq_11_a">"Raqamlar chegarasi nuqta-vergul bo'lgani uchun (\"__semicolon__\")."</string>
+    <string name="help_faq_12_q">"Bir vaqtning o'zida bir nechta qidiruvni qanday bajaraman?"</string>
+    <string name="help_faq_12_a">"Hozirgi vaqtda bu dasturga ruxsat bermaydi, biroq dasturni bir necha marta o'rnatish va etarli xotira va disk maydoni bo'lsa nusxalarini birgalikda ishlatishingiz mumkin."</string>
+    <string name="help_faq_13_q">"O'zgarishlarni sezilarli darajada aniqlamasa, ilovani yangilash kerakmi?"</string>
+    <string name="help_faq_13_a">Bu taklif qilinadi. Yordam faqat oxirgi versiyasidir.</string>
+    <string name="help_faq_14_q">Qanday belgilar \"!\" va \"#\", jarayoning nomidan oldinmi?</string>
+    <string name="help_faq_14_a">"Bu kuzatilgan jarayonlarni belgilaydi.
+\u0009\"#\" - bu jarayoning boshlanishidan oldin uni boshqa bir jarayon orqali kuzatib borishni anglatadi.
+\u0009\"!\" - jarayonlar boshlanishidan oldin, bu jarayon boshqa bir jarayonda kuzatiladi.
+Kuzatuv disk raskadrovka yoki buzish uchun odatiy holdir. Bundan tashqari, ba'zi himoya qilish uchun ishlatiladi. Odatda, \"#\" belgisi bilan ishlash jarayoni himoyalangan."</string>
+    <string name="help_faq_15_q">"Nima uchun standart o'rnatishdan so'ng dastur ildiz huquqlariga bo'lgan talablarni chiqarib, o'z o'rnatilishini ham bajaradi?"</string>
+    <string name="help_faq_15_a">"__app_name__, o'z-o'zidan tasodifiy ma'lumotlar bilan o'z-o'zidan qayta tiklanadi. Ildiz huquqlari \"jim\" o'rnatish va o'chirish uchun talab qilinadi. Ularni bera olmaysiz. Bunday holda, ilovalarni o'rnatish uchun tizimning barcha talablariga qo'lda javob berish kerak bo'ladi."</string>
+    <string name="help_faq_16_q">"__pkg__ nima? U troyan yoki virusmi? Ushbu ilova ildiziga kirishni ta'minlash xavfsizmi?"</string>
+    <string name="help_faq_16_a">"Bu __app_name__ paketining asosiy nomi. Agar ishonchli manbalardan __app_name__ yuklab olinadigan bo'lsa, ildizga ruxsat berish xavfsizdir."</string>
+    <string name="help_faq_17_q">"Nima uchun __app_name__ tasodifiy belgilar majmuasi deb nomlangan o'rnatilgan ilovalar ro'yxatida? Nima uchun bu belgi ildizga kirishni talab qilmoqda? __app_name__ raqamini ishga tushirishda ildiz __app_name__ tomonidan taqdim etilmagan bo'lsa-da, biroq abracadabra tomonidan qanday yoziladi?"</string>
+    <string name="help_faq_17_a">Chunki __app_name__ uni anti-cheatslar tomonidan aniqlashdan yashirish uchun foydalanadi.</string>
+    <string name="help_faq_18_q">"Nima uchun oxirgi versiyalardan __app_name__ ba'zan anticheats tomonidan aniqlanadi va ba'zan emas?"</string>
+    <string name="help_faq_18_a">"__app_name__ turli xil narsalarni qo'llaganligi sababli, antiqa xatlar tomonidan aniqlashdan o'zini yashirish uchun. Bunga tasodifiy paket nomi va ilovasi kiradi. Har bir o'rnatishda ular boshqacha. Qayta tiklash uchun __app_name__ raqamini qayta tiklashga harakat qilib ko'ring. Ehtimol, bu piyodalarga aldash __app_name__ni ko'rishni to'xtatadi."</string>
+    <string name="help_faq_19_q">"Nima uchun o'yinim dastur ro'yxatida emas?"</string>
+    <string name="help_faq_19_a">"Ushbu ishlaydigan ilovalar ro'yxati va ilovangiz ishlamayotganligi sababli. Uni ishga tushiring va keyin uni __app_name__-da tanlang."</string>
+    <string name="help_faq_20_q">"Nima uchun Java ilovalari Android 5 va undan yuqori versiyalarida tezlikni o'chirishga javob bermaydilar?"</string>
+    <string name="help_faq_20_a">"Speedhack mahalliy kutubxonalar bilan o'yinlar uchun mo'ljallangan. Arizangiz yo'q. Va Android 5 ARV muhitini ishlatib, Dalvik o'rniga, bu Java taymerlari ushlab turishga imkon bermaydi. Hech narsa qilmang. Vaziyat kelajakda o'zgarmaydi."</string>
+    <string name="help_faq_21_q">"Android 4 da turli xil tezlikni o'chirib tashlash vositasi ishlatardim va hamma narsa ishladi. Endi Android 5 va undan yuqori versiyalarda __app_name__ qo'ydim, lekin bu usullar ishlamaydi. Nima uchun?"</string>
+    <string name="help_faq_21_a">"Ko'p narsalar o'zgardi va sizning yordamingiz xuddi shunga o'xshash ish qilmaydi. Bu __app_name__ ning juda yomon ekanligini tasavvur qilmangiz, ammo u yordam dasturi bo'lsa, uh! Bunday narsa yo'q.
+Buni sinab ko'rish uchun Android 4-da __app_name__-ni o'rnating va shu yordam dasturidagi barcha amallarni takrorlang. Natijada muvaffaqiyatga erishasiz. Ammo, bu bir xil usullarning Android 5 va undan yuqori versiyalarida ishlashini anglatmaydi.
+Bu fakt eksperimental ravishda tasdiqlanadi."</string>
+    <string name="help_faq_22_q">"Men video misolni / ekran rasmlarni tomosha qilaman va xotira muharririda boshqa ma'lumotlar mavjud. Nima uchun?"</string>
+    <string name="help_faq_22_a">Video / displeyda boshqa chiqish formati mavjudligi sababli. Xotira muharriridan menyuni bosing - \"__value_format__\" ni tanlang va chiqishni kerakli tarzda sozlang.</string>
+    <string name="help_faq_23_q">"Qiymat muzlatilganida, o'yin tormozlashni yoki kechikishni boshlaydi. Nima uchun?"</string>
+    <string name="help_faq_23_a">"Siz __app_name__ sozlamalarida \"__hide_from_game__\" funksiyasini yoqishingiz mumkin. Uni o'chirib qo'ying."</string>
+    <string name="help_faq_24_q">"Ilovani boshlaganimda yangi versiyalarni tekshirishni qanday qilib o'chirib qo'yishim mumkin?"</string>
+    <string name="help_faq_24_a">"Bo'lishi mumkin emas."</string>
+    <string name="help_faq_25_q">Vaqtni qayerda qaytarish kerak? Vaqtni oldinga emas, balki orqaga aylantirishga imkon bormi?</string>
+    <string name="help_faq_25_a">"Bo'lishi mumkin emas. Sen qila olmaysan. Vaqt har doim ham kuchayishi kerak, aks holda o'yin buziladi. Shu bilan birga, so'nggi versiyalarida biz salbiy vaqt o'tishiga imkoniyat yaratdik. Natija o'yinni to'xtatishi yoki ma'lumotlar yo'qotilishi bo'lishi mumkin. Ogohlantirilsin."</string>
+    <string name="help_faq_26_q">"Belgini qo'ydim va g'oyib bo'ldi. Qanday qilib uni qaytarib olsam bo'ladi?"</string>
+    <string name="help_faq_26_a">"Belgilar shaffof bo'lib qoladi, lekin siz hali ham uning ustiga bosishingiz mumkin. Bu joyni qaerga bosing, keyin sozlamani interfeys orqali o'zgartiring."</string>
+    <string name="help_faq_27_q">"O'yin bilan yaxlitlashda ko'rsatilsa, qanday qiymatni qidiraman? Masalan, 1.85M."</string>
+    <string name="help_faq_27_a">"Qidirish oralig'ini qidiring. Range chegaralari yaxlitlash qoidalariga bog'liq. Masalan, standart yaxlitlash uchun \"1845000__tilde__1854999\"."</string>
+    <string name="help_faq_28_q">Fayldagi qiymatni qanday qidirish mumkin? Masalan, 123__percent__.</string>
+    <string name="help_faq_28_a">"Bu amalga oshirishga bog'liq. Har bir o'yin uchun u har xil bo'lishi mumkin. Masalan, 123__percent__. Bu qiymat har qanday qiymat bilan __type_float__ yoki __type_double__ bo'lishi mumkin. 1.23 yoki 123.0 kabi. Yoki to'liq sonlar bo'lishi mumkin: __type_byte__, __type_word__, __type_dword__. Masalan, 123 yoki 12300. Chiqishda uni ba'zi raqamlarga bo'lish mumkin. 100 yoki 345 yoki boshqa biror narsa. Har bir o'yin uchun u boshqacha bo'lishi mumkin. Siz eng aniq holatlarni sinab ko'rishingiz mumkin. 123__percent__ uchun bu 1,23 yoki 123 bo'lishi mumkin. Turi - __type_auto__. Agar omadingiz bo'lsa, sizga kerak bo'ladigan narsa bo'lishi mumkin."</string>
+    <string name="help_faq_29_q">"O'yin __app_name__ni aniqlasa nima bo'ladi?"</string>
+    <string name="help_faq_29_a">"Quyidagi variantlarni (alohida-alohida yoki har qanday birga) ko'ring:
+\u0009- \"__hide_from_game__\" variantlarni yoqish. Odatda etarli 2, 3 va 4 imkoniyatlari.
+\u0009- Do tasodifiy nom bilan qayta o'rnatish __app_name__ bekor emas. Bu __app_name__ virtual makon tashqarisida ishlaydigan birinchi marta amalga oshiriladi.
+\u0009- foydalanish XPrivacy yoki shunga o'xshash kommunal. Buning uchun qanday Internetda qarang.
+\u0009- Agar ilovalar yashirin o'rnatish virtual kosmosdan ildiz huquqlarini, foydalanish ildiz bo'lsa. \"__vspace_root__\" sozlamalari uchun kontekst yordam ko'proq o'qing."</string>
+    <string name="work_without_selinux">"__selinux__ holda ishlashga o'tib, ilovani qayta ishga tushiring"</string>
+    <string name="work_with_selinux">"__selinux__ bilan ishlashga o'ting va ilovani qaytadan ishga tushiring"</string>
+    <string name="file">Tasvir:</string>
+    <string name="file_not_found">Fayl topilmadi:</string>
+    <string name="export_selected">Tanlangan eksport</string>
+    <string name="failed_list_dir">"Fayllar ro'yxatini o'qib bo'lmadi."</string>
+    <string name="change_float_type">Suzuvchi derazalar turini tanlang</string>
+    <string name="reset_float_type">Suzuvchi derazalar turini qayta tiklash</string>
+    <string name="mask">Maska:</string>
+    <string name="mask_request">"Qo'ng'iroq qilish uchun manzilni kiriting"</string>
+    <string name="help_mask_search_title">Manzil (mask) qidirish</string>
+    <string name="help_mask_search">"* Manzil (maska) qidirish:
+\u0009Manzilingizni maska ​​bilan qidirishingiz yoki filtrlashingiz mumkin.
+
+\u0009Odatda, bir misol ma'lum bo'lgan qiymat bilan tugaydigan manzillarni qidiradi. Masalan, \"12E\" da.
+
+\u0009Qidiruv parametrlari manzil va maska.
+\u0009Manzilda joker belgilar (\"__question__\") ishlatilishi mumkin. Ushbu ramz \"0\" dan \"F\" ga har qanday belgi bo'lishi mumkinligini anglatadi.
+\u0009Manzildan qo'shimcha niqob paydo bo'ladi, shuning uchun etakchi nullar muhim ahamiyatga ega. Shunday qilib, «0120» ni qidirish va «120» ni qidirish bir xil narsa emas.
+\u0009Birinchi holatda: \"00010120\", \"00020120\", \"00030120\" va boshqalar. Ikkinchi bo'limda: \"00001120\", \"00002120\", \"00003120\" va boshqalar.
+
+\u0009Ham tenglik va niqob bilan ko'rsatilgan tengsizlik uchun ham qo'ng'iroq qilishingiz mumkin. Ikkinchi parametr keraksiz qiymatlarni yo'qotish uchun foydali bo'lishi mumkin.
+
+\u0009Manzil va maska ​​o'n oltinchi tizimda va oxirida \"__hex__\" harfi holda kiritiladi.
+\u0009Manzildan olingan niqob siz kiritgan niqob bilan kesishadi. Natijada qidirish maskesi.
+
+Quyidagi misollar tengdir, chunki olingan niqoblar bir xil - \"FF0\"
+__mask_example__
+"</string>
+    <string name="use_sound_effects">Ovoz effektlaridan foydalaning:</string>
+    <string name="from_range">Kimdan:</string>
+    <string name="to_range">Kimga:</string>
+    <string name="resultant_mask">Natija niqobi:</string>
+    <string name="show_time_jump_panel">"Vaqt o'tish panelini ko'rsatish:"</string>
+    <string name="use_notification">"Bildirishni qo'llash:"</string>
+    <string name="show_gg">"Ko'rish __app_name__"</string>
+    <string name="hide_gg">__app_name__ raqamini yashirish</string>
+    <string name="time_remaining">Qolgan vaqt:</string>
+    <string name="help_fill_title">"Miqdori to'ldiring"</string>
+    <string name="help_fill">"* To'ldirish qiymatlari:
+\u0009Odatda ko'p sonli qadriyatlar topiladi, lekin ular o'yindan o'zgartirilmaydi.
+\u0009Bunday holda, to'lg'azish qutqarish uchun keladi.
+
+\u0009Foydalanishning odatiy namunasi - mahsulotning narxini qidirish va keyinchalik salbiy bilan almashtirish.
+
+\u00091. Istagan narsalarni tanlang.
+\u00092. \"__edit_selected__\" ni tanlang.
+\u00093. \"__more__\" tugmasini bosib \"__increments__\" maydonini ko'rsating, agar bu maydon mavjud bo'lmasa.
+\u00094. \"__increments__\" maydonida increment qiymatini kiriting. Odatda bu 1-dir va \"__yes__\" tugmasini bosing.
+\u00095. Tanlangan elementlar yangi qiymatlarni oladi.
+\u00096. Go to the game and see how the desired value has changed, moving across game screens.
+\u00097. Agar qiymat o'zgarmasa, kerakli element tanlanmagan. __app_name__ raqamiga qaytib, \"__delete_selected__\" -> \"__revert_and_remove__\" dan foydalanib, tanlangan elementlarni olib tashlang va avvalgi qiymatni qaytaring. Endi agar mavjud bo'lsa, hamma narsani boshidan boshlab boshqa narsalar bilan sinab ko'rishingiz mumkin.
+\u00098. Agar qiymat o'zgargan bo'lsa, kerakli element tanlangan elementlardan biridir. Yangi qiymatni eslab __app_name__ raqamiga qayting.
+\u00099. Tanlangan elementlar ro'yxatida kerakli qiymatni qidiring. Uni olib tashlang. \"__delete_selected__\" -> \"__revert_and_remove__\" dan foydalanib, boshqa barcha qadriyatlarni o'chirib tashlang, ularni oldingi qiymat qaytaradi.
+\u000910. Kerakli elementlar qiymatini o'zgartiring.
+
+\u0009Odatda xatolar qaytarilmasdan olib tashlanadi. Shundan so'ng, o'yin qulashi mumkin.
+
+\u0009Ko'p qadriyatlarni topsangiz, cho'kishlar oldini olish uchun kichik qismlarni to'ldirishga harakat qiling.
+"</string>
+    <string name="help_hint_1">"* Agar siz har doim bir xil mintaqada kerakli qiymatlarni topsangiz (natijalar ro'yxatidagi ma'lumotlar oxiridagi harflar), tezkor qidiruv uchun ushbu hududlarni tanlashingiz mumkin."</string>
+    <string name="help_faq_30_q">__app_name__ qiymatlari juda sekin va uzoq vaqt davomida kompyuterda Android emulyatorida izlanadi.</string>
+    <string name="help_faq_30_a">"Kompyuter BIOS-da virtualizatsiya o'chirilgan bo'lishi mumkin. Uni yoqing.
+__app_name__ emulator ichida ishlaydi, shuning uchun uning tezligi emulyatorning tezligiga bog'liq.
+Agar grafiklash yoqilgan bo'lsa, lekin tezlik hali past bo'lsa, emulyatoringiz sozlamalarini tekshiring yoki boshqa emulyatorni ishlating.
+Bundan tashqari, CheatEngine-ning boshqa vositasi uchun ham foydalanishingiz mumkin - u tezroq qo'ng'iroq qiladi va hech qachon __app_name__ da bo'lmagan ko'p xususiyatlarni beradi."</string>
+    <string name="help_speed_up_title">Qanday qidiruvni tezlashtirish kerak</string>
+    <string name="help_speed_up">"* Qidiruvni tezlashtirish uchun:
+\u00090. If you are use an Android emulator on a PC (BlueStacks, Droid4X, Andy, NOX, Memu, AMIDuOS, Windroy, AVD, Genymotion, Koplayer, Leapdroid etc.), check that virtualization (VT Technology, Vanderpool Technology, Virtualization Technology, VTx, VT-d, VMX, Virtual Technology, Intel-VT, AMD-V, SVM, IOMMU) is enabled in the PC BIOS.
+\u00091. Agar sizda ko'p RAM mavjud bo'lsa, u erda ma'lumotlarni saqlashingiz mumkin. Bu juda ko'p qidiruvni tezlashtiradi. \"__data_in_ram__\" sozlamasini \"__yes__\" ga sozlang. Agar kompyuterda Android emulyatorida, bu qo'ng'iroqni sekinlashtirishi mumkin.
+\u00092. Sizda kam xotira bo'lsa, ma'lumotlar xotira kartasida saqlanadi. Yuqori yozish va o'qish tezligi bilan xotira kartasidan foydalaning.
+\u00093. Bundan tashqari, xotira kartasidan tezroq bo'lsa, qurilmaning ichki xotirasida ma'lumotlarni saqlashni ham belgilashingiz mumkin. \"__set_path__\" sozlamasini kerakli yo'lga qo'ying.
+\u00094. Qidirishda faqat kerakli hududlarni tanlang. Sekin (\"__slow__\") va xavfli (\"__dangerous__\") hududlardan harakat qiling.
+\u00095. Agar ularni bilsangiz, siz xotirada saqlanadigan chegaralarni belgilashingiz mumkin. Qidiruv muloqot oynasida \"__more__\" tugmasini bosing va chegaralarni kiriting.
+\u00096. Kerakli ma'lumot turlarini qidirish. \"__type_auto__\" ma'lumotlar turi sekin.
+\u00097. Barcha \"__hide_from_game__\" variantlarini o'chirib qo'ying.
+\u00098. \"__memory_access__\" dan \"__experimental__\" yoki \"__extended__\" dan foydalaning. Ushbu variantlar beqaror ishlarga olib kelishi mumkin.
+"</string>
+    <string name="help_faq_31_q">"Biroz vaqt o'tgach, __app_name__ belgisi yo'qoladi."</string>
+    <string name="help_faq_31_a">"Belgilar bo'lgan joyga bosib ko'ring. Agar bu ochiq __app_name__ interfeysida bo'lsa, ikonkada sozlamalar yashirin yoki sizning firmware-da belgini aks ettirgan xatolarga ega.
+Xabar interfeysi ochilmasa __app_name__ xotiradan bo'shatilgan degan ma'noni anglatadi.
+Mumkin sabablar:
+
+\u00091. Qurilmada __app_name__ tomonidan o'ldirilgan RAM etarli emas. Kamroq RAMdan foydalaning. __app_name__ sozlamalarida RAM ma'lumotlarini saqlashni aniqlamang, ko'p sonli natijalarni ko'rsatmaslik, RAMdan \"qo'shimcha\" ilovalarni tushirish, tushirilmaydigan dasturlarning \"engil\" analoglarini ishlatish (masalan, ishga tushirish qurilmasi ). Ayniqsa, yomon holatlarda, o'yinni __app_name__ ishlatishdan oldin uni qayta ishga tushiring. Firmware deyarli barcha qochqin RAM bor. Rebootdan keyin yana ko'p vaqt - kamroq RAM.
+
+\u00092. You have a process killers which kills __app_name__.
+
+Killerlarni o'chirib qo'ying yoki __app_name__ni istisnolariga qo'shing.
+Killerlar shuningdek, RAMning \"optimizatorlari\" va \"takomillashtiruvchi\" barcha turlaridan iborat.
+Umuman olganda, agar siz bilmasangiz, qotil yoki bo'lmasa dasturiy ta'minot uchun tavsifga qarang.
+
+FlyMe uchun: __app_name__ ba'zi bir sabablarga ko'ra ishdan bo'shatilganidan keyin - __app_name__ va ildiz menejeri (odatda SuperSu) uchun fonda ishlashga ruxsat berishingiz kerak.
+
+__app_name__ sozlamalarida \"__use_notification__\" ni yoqishga urinib ko'rishingiz mumkin. Ba'zan bu __app_name__ni o'ldirishni oldini oladi."</string>
+    <string name="quick_start_title">Tez boshlash</string>
+    <string name="prevent_unload">Chikarishni taqiqlash:</string>
+    <string name="hot_key">Tezkor kalit:</string>
+    <string name="hide">Hide</string>
+    <string name="execute_script">Buyruqlar skripti</string>
+    <string name="execute">Ijro et</string>
+    <string name="another_script">Boshqa bir skript ishlamoqda. Buni kesish kerakmi?</string>
+    <string name="interrupt">"To'xtatish"</string>
+    <string name="script">Skript:</string>
+    <string name="script_ended">Skript yakunlandi:</string>
+    <string name="paused">"O'yin to'xtatildi:"</string>
+    <string name="by_pause_button">pauza tugmasi yordamida</string>
+    <string name="by_option">"\"__s__\" tanlovi bo'yicha"</string>
+    <string name="new_search_short">Yangi</string>
+    <string name="speedhack_loading">Tezlik yuklanmoqda ...</string>
+    <string name="speedhack_loaded">Speedhack yuklanadi.</string>
+    <string name="busy_dialog_fail">"Harakatlanish oynasi ko'rsatilmadi."</string>
+    <string name="site">Sayt</string>
+    <string name="help_xor_search_title">XOR qidirish</string>
+    <string name="help_xor_search">"* XOR qidirish:
+\u0009\u0009Agar kerakli qiymatdan har doim qiymatdan bir xil masofada joylashgan XOR kaliti bilan shifrlanganligini bilsangiz, u holda ushbu rejimdan parollangan qiymat bo'yicha qo'ng'iroq qilishingiz mumkin.
+\u00091. O'yinlardan __app_name__ raqamiga o'ting.
+\u00092. \"__search__\" yorlig'idagi \"__search_known_value__\" tugmasini bosing.
+\u00093. Enter a search number and XOR key distance, separated by \"__mode_xor__\". For example, to search for value 100 with a key on distance 8, enter:
+\u0009\u0009\u0009100__mode_xor__8
+\u0009\u0009Qo'shimcha belgilarni kiritish uchun ichki klaviaturadagi \"__btn_hex__\" tugmasini bosing.
+\u00094. Kerakli ma'lumot turini tanlang yoki \"__type_auto__\" (ishonchingiz komil bo'lmasa) va boshqa variantlarni tanlang (agar kerak bo'lsa) va \"__search__\" ni bosing.
+\u00095. Qidirishni tugatganingizdan so'ng, qidiruv natijalari ro'yxatda ko'rsatiladi.
+\u00096. O'yinga qaytish. Qiymat o'zgandan so'ng yana __app_name__ ga o'ting.
+\u00097. O'zgartirishlar bilan XOR qidirishni takrorlang.
+\u00098. Agar juda ko'p natijalar mavjud bo'lsa, 6 va 7-bosqichlarni takrorlang.
+\u00099. Agar bir nechta natijalar qolsa, qiymatni o'zgartirish, saqlash yoki muzlatish mumkin.
+
+\u0009XOR qidirishni qidirib qidirish bilan ishlatishingiz mumkin. Masalan, \"100__tilde__150__mode_xor__8\".
+\u0009Odatda XOR qidiruvi an'anaviy raqam terishdan asta-sekin.
+\u0009Ushbu tartib guruh qidirishida yoki shifrlangan qidiruvda qo'llab-quvvatlanmaydi.
+\u0009Masofa 1dan 4096gacha bo'lishi kerak.
+\u0009Masofadagi masofani masofadan turib __hex__ belgisi bilan kiritishingiz mumkin: \"100__tilde__150__mode_xor__10h\".
+\u0009Masofa qiymatlarni tenglashtirishi kerak. Misol uchun, dword 4-bayt chegarasiga mos kelishi kerak. Buning ma'nosi \"40__mode_xor__7\" qidiruvi dword uchun foydasiz, chunki 7-raqam 4 ga bo'lolmaydi.
+\u0009Ushbu rejimni boshqasi bilan birlashtirib, noto'g'ri o'rnatilgan dasturda muammolarga olib kelishi mumkin. Misol uchun, odatiy qidiruvni amalga oshirsangiz va XOR rejimida takomillashtirilsa, bu sizning qurilmangizni o'chirib qo'yishi yoki o'chirib yuborishi mumkin. Agar bu birinchi qo'ng'iroq ushbu rejimda bo'lsa, bu bo'lmasligi kerak.
+\u0009Ushbu rejimning loyqa izlanishi qo'llab-quvvatlanmaydi. Uni odatdagidek loyqa ishni bajarishingiz mumkin va XOR kalitingizni masofa bilan hurmat qilmaysiz.
+\u0009Qiymatlar uchun belgi hurmat qilinadi. Demak, qiymatni teng, katta, kichikroq va shunga o'xshash narsalarni qidirishingiz mumkin.
+\u0009Ushbu qidiruvda barcha qiymatlar imzolangan deb hisoblanadi.
+"</string>
+    <string name="help_faq_32_q">HW / SW versiyalari bilan farq nima? Va qaysi birini ishlatishim kerak?</string>
+    <string name="try_latest">"Ehtimol, ushbu skript __app_name__ ning eng so'nggi versiyasiga muhtoj. Oxirgi versiyani yangilashga harakat qiling."</string>
+    <string name="help_string_search_title">Matn (string, HEX, AoB) qidirish</string>
+    <string name="download_scripts">Skriptlarni yuklab olish</string>
+    <string name="hide_icons">Ishlatuvchi belgilarini yashirish</string>
+    <string name="select_mode">Tartibni tanlash</string>
+    <string name="mode_string">Matn</string>
+    <string name="mode_mixed">Aralashgan</string>
+    <string name="string_search_prompt">Uzunligi __d__ baytni qidirish uchun matnni kiriting. Misol uchun</string>
+    <string name="string_empty">Siz matnni kiritishingiz kerak.</string>
+    <string name="string_not_found">\"__s__\" matni topilmadi.</string>
+    <string name="string_found">Found __d__ matches for the text \"__s__\".</string>
+    <string name="string_replace">Ularni almashtirmoqchimisiz?</string>
+    <string name="string_replace_prompt">"\"__s__\" o'rniga matnni kiriting. Uzunligi __d__ baytdan ortiq emas."</string>
+    <string name="string_replaced">Replaced \"__s__\" to \"__s__\" in __d__ places.</string>
+    <string name="need_allow_background">Ushbu firmware-da, tizim sozlamalarida fonda __app_name__ ishlashiga ruxsat berishingiz kerak.</string>
+    <string name="calculate_offset_xor">Ofsetni hisoblash, XOR</string>
+    <string name="select_copy_item">"Ko'chirib olinadigan ob'ektni tanlang:"</string>
+    <string name="landscape">Landshaft</string>
+    <string name="portrait">Portret</string>
+    <string name="toolbar_buttons">Asboblar paneli tugmalari</string>
+    <string name="need_update_to">Ushbu skriptni ishga tushirish uchun sizga __app_name__dan yangi versiya kerak. Kamida __s__ versiyasi. Sizda __s__ versiyasi mavjud.</string>
+    <string name="default_mark">sukut</string>
+    <string name="default_">Standart:</string>
+    <string name="reset_button">"Qayta o'rnatish"</string>
+    <string name="help_hex_colors_title">Xotira muharriridagi ranglar</string>
+    <string name="help_hex_colors">"* __help_hex_colors_title__:
+Hex ko'rinishi oq bo'lmasa, lekin rang bo'lsa, unda bu qiymati eng katta ehtimol ko'rsatgichdir. Rangi bu ko'rsatgichning qaysi xotira turiga tegishliligini ko'rsatadi.
+Bu __executable__ xotira, __writable__ yoki __read_only__ bo'lishi mumkin. Kam hollarda u __writable_and_executable__ xotira bo'lishi mumkin."</string>
+    <string name="executable">olib boriladi</string>
+    <string name="writable">yoziladigan</string>
+    <string name="read_only">"faqat o'qish"</string>
+    <string name="writable_and_executable">yoziladigan va bajariladigan</string>
+    <string name="help_extract">Yordamni chiqaring</string>
+    <string name="help_extract_done">"Yordam __s__ raqamiga yo'naltiriladi"</string>
+    <string name="help_extract_fail">Yordamni olib tashlashda xatolik yuz berdi:</string>
+    <string name="try_arm_version">"Eski ARM protsessorlari uchun __app_name__ versiyasini ishlatib ko'ring:"</string>
+    <string name="back">Orqaga</string>
+    <string name="forward">Oldinga</string>
+    <string name="no_previous">"Avvalgi yozuvlar yo'q"</string>
+    <string name="no_next">"Keyingi yozuvlar yo'q"</string>
+    <string name="from_item">Mahsulotdan:</string>
+    <string name="from_context">Kontekst menyusida:</string>
+    <string name="from_boundary">Chegaradan</string>
+    <string name="from_goto">"Qo'ng'iroq qiling"</string>
+    <string name="from_calc">Ofset kalkulyatoridan:</string>
+    <string name="help_add_to_value_title">Varian-r \"__add_not_replace__\"</string>
+    <string name="help_add_to_value">"* __help_add_to_value_title__:
+Agar ushbu parametr tanlansa, kiritilgan qiymat mavjud qiymatga qo'shiladi va uni almashtirmaydi. Misol uchun, element 5 qiymatiga ega va qiymat maydonida 7 kiritilgan. Agar ushbu parametr tanlansa, element yangi qiymatga ega bo'ladi, 5 + 7, 12 ga teng. Agar belgilansa, u holda 7.
+Ham ijobiy, ham salbiy qadriyatlarni kiritishingiz mumkin.
+Ushbu parametr qiymatni muzlatish bilan mos kelmaydi."</string>
+    <string name="check_libs">"O'yin kutubxonalarining arxitekturasini tekshiring:"</string>
+    <string name="arm_libs">"O'yin ARM kutubxonalari bilan o'rnatilsa-da, apk da x86 kutubxonalari mavjud.
+Speedhack va u bilan bog'liq bo'lgan hamma narsa ishlamaydi.
+\"__skip__\" bu cheklarni o'chirib qo'yadi. Sozlamalarda uni qayta yoqing."</string>
+    <string name="manual_install">".Apk faylini qo'lda o'rnatishingiz mumkin. Quyidagi yo'lda joylashgan:"</string>
+    <string name="as_text">Matn sifatida (yuklash mumkin emas)</string>
+    <string name="as_text_help">"Ro'yxatni inson o'qish uchun qulay bo'lgan matn formatida saqlaydi. Ushbu formatni o'rnatish qo'llab-quvvatlanmaydi."</string>
+    <string name="help_pointer_search_title">Pointer qidirish</string>
+    <string name="help_pointer_search">"Kerakli manzilga ko'rsatadigan qiymatlarni qidiradi. Mumkin bo'lgan ofset uchun maksimal chegarani belgilashingiz mumkin."</string>
+    <string name="all_memory">Barcha xotirada</string>
+    <string name="offset_help">"Mumkin bo'lgan ofset uchun maksimal chegara."</string>
+    <string name="typical_values">Odatda qadriyatlar</string>
+    <string name="su_command">"Superuser buyrug'i"</string>
+    <string name="starts">Bilan boshlanadi</string>
+    <string name="ends">Bilan tugaydi</string>
+    <string name="no_filter">"Hech qanday filtr yo'q."</string>
+    <string name="help_memory_filter_title">Xotira muharriridan filtrlash</string>
+    <string name="help_memory_filter">"* __help_memory_filter_title__:
+Xotira muharriridan filtrni tanlashingiz mumkin. Filtrga mos keladigan natijalar ko'rsatiladi.
+Filtrni joker belgilarni qo'llab-quvvatlaydi:
+\u0009__caret__ - ma'lumotlar boshlanishi,
+\u0009__dollar__ - ma'lumotlarning oxiri,
+\u0009__asterisk__ - har qanday belgi,
+\u0009__question__ - har qanday belgi.
+Masalan, 42 sonini topish uchun siz __caret__42__dollar__ raqamini kiritishingiz kerak."</string>
+    <string name="use_sh">"Buyruqning qobig'ini ishlating"</string>
+    <string name="backgrounds">Qora fon</string>
+    <string name="actions">Amallar:</string>
+    <string name="game_settings">"O'yin uchun sozlamalar:"</string>
+    <string name="global_settings">Global sozlamalar:</string>
+    <string name="ui_settings">UI sozlamalari:</string>
+    <string name="others">Boshqalar:</string>
+    <string name="skip_memory">"Xotirani o'tkazib yuborish joylari:"</string>
+    <string name="empty_memory">"Bo'sh"</string>
+    <string name="without_protection">himoya qilishsiz</string>
+    <string name="help_games_protection_title">"O'yinlarda qanday himoyalanish mumkin?"</string>
+    <string name="help_games_protection">"\u0009Ba'zi o'yinlar xotira tahrirlovchisiga qarshi himoya bilan jihozlangan. Siz quyidagilarni sinab ko'rishingiz mumkin:
+\u00091. \"__kill_game__\" va keyin \"__restart_game_without_protection__\".
+\u00092. \"__disable_protection__\" ni bosing va o'yinni ishga tushiring (yoki qayta ishga tushiring).
+\u00093. \"__hide_from_game__\" ichidagi narsalarning hammasini yoki bir qismini ishlating. Ularning hammasi qidirishni sekinlashtirmoqda.
+\u00094. O'yinni minimallashtirish vaqtini qidirish.
+\u00095. O'yin to'xtatilganda qidirish.
+\u00096. Agar o'yinda bir nechta jarayon bo'lsa, o'yinning ayrim himoya jarayonlarini o'ldirishi yoki to'xtatib turishi.
+\u00097. XPrivacy yoki shunga o'xshash vositalardan foydalaning.
+\u00098. O'yinni modifikatsiyasidan himoya qilishsiz foydalaning.
+"</string>
+    <string name="disable_protection">"Barcha ilovalar uchun himoya qilishni o'chirish (qayta ishga tushirishgacha)"</string>
+    <string name="must_restart_if">"Agar siz himoyani o'chirib qo'yishdan oldin o'yinni ishlatsangiz, uni qaytadan boshlashingiz kerak."</string>
+    <string name="patch_loading">"Patch o'rnatish ..."</string>
+    <string name="patch_loaded">"Yatch o'rnatilgan."</string>
+    <string name="patch_failed">Patch yuklanmadi.</string>
+    <string name="history_limit">Tarixning chegarasi:</string>
+    <string name="copy_as_search">Guruhni qidirish sifatida nusxalash</string>
+    <string name="add_types">"Turlarni qo'shish"</string>
+    <string name="add_size">"Guruhlar hajmini qo'shing"</string>
+    <string name="copy_rhex_value">Teskari hex qiymatini nusxalash:</string>
+    <string name="mips_arch">"Ushbu dastur MIPS arxitekturasini qo'llab-quvvatlamaydi."</string>
+    <string name="unrandomizer">Unrandomizer</string>
+    <string name="functions">vazifalari</string>
+    <string name="help_unrandomizer">"
+Unrandomizer tasodifiy qiymatlarni yaratish uchun o'yinlarda keng ishlatiladigan muayyan funktsiyalarni o'zgartirishga mo'ljallangan xususiyatdir. Juda oddiy darajada, masalan, masalan, o'yinchining mukofotini aniqlash uchun tasodifiy funksiyadan foydalanadigan o'yin bo'lishi mumkin. Unrandomizerni ishga tushirish natijasida __app_name__ natijani o'zgartirish uchun (masalan, ma'lum bir mukofotni olish uchun) ushbu tasodifiy qiymati belgilangan qiymat bilan almashtirishga urinadi.
+
+Unrandomizator barcha holatlarda ishlamaydi. U faqat biladigan vazifalarni bajaradi. Aksariyat hollarda va foydalanuvchilarning ko'pchiligi uchun bu foydalanilmaydi, chunki u ilgari / eksperimental xususiyatlardan ko'proq.
+
+Ba'zi funktsiyalar __type_qword__ ni qaytaradi, ba'zilari esa - __type_double__ (kam ishlatiladi).
+
+__type_double__ qiymatlari 0 dan 1 gacha bo'lishi kerak. Biroq, __app_name__ barcha noto'g'ri variantlarni avtomatik ravishda tuzatadi, chunki u erda biron bir qadriyatni ko'rsatishingiz mumkin.
+
+Bundan tashqari, o'sish bosqichini ham belgilashingiz mumkin. Bunday holatda, har bir keyingi natijada ushbu qiymat oshib boradi. Masalan, increment 1 va boshlang'ich qiymati 0 uchun tasodifiy qiymat o'rniga 0, 1, 2, 3, ... qaytariladi.
+Ushbu parametr barcha tasodifiy natijalarni to'liq qidirish uchun foydali bo'lishi mumkin.
+
+__app_name__ sozlamalarida qanday funktsiyalarni o'zgartirishni tanlashingiz mumkin.
+"</string>
+    <string name="count_replace">"Nechta birinchi natijalar o'rnini bosadi?"</string>
+    <string name="unrandomizer_loading">Unrandomizer yuklanmoqda ...</string>
+    <string name="unrandomizer_loaded">Unrandomizer yuklanadi.</string>
+    <string name="warn_restart_off_prot">"Ushbu parametr o'yinni himoyadan himoyasiz qayta boshlashga urinadi.
+Biroq, ko'pgina dasturiy ta'minotda qurilma qayta yuklashga olib kelishi mumkin bo'lgan xatolar mavjud.
+Agar shunday bo'lsa, o'yinni qaytadan boshlashga urinmang, chunki u qurilmani qayta ishga tushiradi.
+Faqat __app_name__ ishlatish - yomon sozlamalarni tozalash.
+Qurilmani muntazam ravishda qayta ishga tushirishga urinib ko'rishingiz mumkin, bu ham muammoni bartaraf etishi kerak.
+
+Qaytish jarayoni sodir bo'lganida - bu funksiyadan foydalanmang, u sizning dasturiy ta'minotingizda ishlamaydi."</string>
+    <string name="warn_patch_off_prot">"Ushbu parametr barcha ilovalarni himoya qilmaslik uchun tizimni (vaqtincha) tuzatishga harakat qiladi.
+O'zgarishlar faqat yangi ilovalar uchun qo'llaniladi. Shuning uchun, muvaffaqiyatli tuzatishdan so'ng, maqsadli dasturni qayta boshlash zarur.
+Yamoqni bekor qilish uchun faqat qurilmani o'chirib yoqing.
+Ehtimol, bu tuzatishdan keyin tizimda turli xil xatolar bo'ladi.
+
+Yamoq muvaffaqiyatli bo'lsa, uni qayta ishga tushirishdan oldin bu funktsiyani qayta ishlash tavsiya etilmaydi.
+
+Muammo bo'lsa, ushbu funktsiyani ishlatmang."</string>
+    <string name="clear_history">Kirish tarixini tozalash</string>
+    <string name="clear_history_warn">"Qolgan barcha yozuvlar o'chiriladi."</string>
+    <string name="click_edit">Tahrirlash uchun shu yerni bosing</string>
+    <string name="ignore_unknown_chars">"Noma'lum belgilarni e'tiborsiz qoldiring:"</string>
+    <string name="need_root_mode">Bu xususiyat ildizga kirishni talab qiladi. Hozirda __app_name__ virtual muhit rejimida ildiz ruxsatisiz ishlamoqda.</string>
+    <string name="work_without_root_title">Ildiz ishlaydi</string>
+    <string name="work_without_root">"__app_name__ virtual muhitda ildiz holda ishlashi mumkin. Masalan, __vspace_list__ va boshqalar orqali.
+__app_name__ virtual muhitda o'rnatilishi kerak. O'yin ham o'sha erda o'rnatilishi kerak.
+Dasturning barcha xususiyatlari qo'llab-quvvatlanmaydi, lekin ko'p funktsiyalar ishlashi kerak.
+
+Virtual muhitda o'rnatilmagan o'yinlarni yorib yuborolmaysiz.
+
+Tasodifiy paket nomi bilan qayta o'rnatishni amalga oshiruvchi __app_name__ birinchi ishga tushirilishi virtual muhit orqali amalga oshirilmasligi kerak.
+Keyin virtual muhitga va foydalanishga __app_name__ qo'shishingiz mumkin."</string>
+    <string name="help_game_not_listed_title">"Nima uchun o'yinim jarayon ro'yxatida yo'q?"</string>
+    <string name="fractional_hint">"X\" haqiqiy sonining kesirli qismi bu sonning to'liq sonidan ortiqdir.
+Bir qator raqam uchun uning qismli qismi radix nuqtasidan keyin paydo bo'lgan raqamlarga mos keladi.
+
+Misol uchun:"</string>
+    <string name="pointer">Pointer:</string>
+    <string name="help_search_filter_title">Qidiruvdagi filtrlar</string>
+    <string name="help_search_filter">"Qidiruv natijalarini filtrlashingiz mumkin.
+Quyidagilarni aniqlab olishingiz mumkin:
+\u0009- manzil bo'yicha cheklovlar,
+\u0009- qiymat uchun chegaralar,
+\u0009- kerakli ma'lumotlar turlari,
+\u0009- raqamning kerakli kesmani qismi,
+\u0009- istalgan turdagi ko'rsatgich.
+Filtrni bir-biri bilan birlashtira olasiz.
+Siz istalgan vaqtda filtrlardan birini yoki istalgan birini o'chirib qo'yishingiz mumkin.
+
+Biroq, agar katta miqdorda ma'lumot topilsa, filtr natijalarni sekinlashtirishi mumkin.
+
+Raqamning kesirli qismidagi filtr tenglik yoki tengsizlik asosida bo'lishi mumkin.
+To'liq sonlar uchun qisman qismi nol bo'ladi. Agar siz tamsayılarga kerak bo'lmasa, ularni toifa filtri yordamida chiqarib tashlang.
+
+Pointer turi bo'yicha filtrlash chiqishda faqat kerakli xotira turiga ishora qiluvchi qiymatlarni qoldirish imkonini beradi.
+Mumkin bo'lgan xotira turlari xotira muharriri ranglariga mos keladi:
+Bu __executable__ xotira, __writable__ yoki __read_only__ bo'lishi mumkin. Kam hollarda u __writable_and_executable__ xotira bo'lishi mumkin.
+
+Pseudo-turi \"no pointer\" ko'rsatgich bo'lmasligi mumkin bo'lgan barcha ma'lumotlarga, shuningdek, ajratilmagan xotiraga ishora qiluvchi ko'rsatgichlarning qadriyatlariga mos keladi."</string>
+    <string name="unmount_kill">"Xotira kartasi ajratilgan, __app_name__ vaqtinchalik fayllar saqlangan. Buning sababi shundaki, bu ishni majburiy tarzda yopishgan.
+
+Buning oldini olish uchun vaqtinchalik fayllar uchun boshqa yo'lni belgilang. Masalan, ichki xotirada.
+Bo'sh joy etarli bo'lishi kerak."</string>
+    <string name="calls">Tizim qidirish tartibi:</string>
+    <string name="alternative">Shu bilan bir qatorda</string>
+    <string name="help_calls">"Ba'zi bir qo'shimcha dasturlarda, masalan, Lenovo, muqobil usul tezroq ishlashi mumkin.
+
+Odatda, ushbu parametrni o'zgartirish shart emas."</string>
+    <string name="help_context_title">Kontekstual yordam</string>
+    <string name="help_context">"Interfeyada ba'zi elementlar o'ng yuqori burchakda, __i__ belgisida aylanada maxsus belgi bilan belgilanadi.
+Ushbu elementga bosish yoki uzoq vaqt davomida bosish ushbu elementga yordam ko'rsatadi."</string>
+    <string name="waitpid_mode">__waitpid__ rejimi:</string>
+    <string name="help_waitpid">"Ba'zi bunda dasturlarda __waitpid__ tizim chaqiruvi kutilganidek ishlamaydi. Bu odatda noto'g'ri SeLinux sozlamalariga bog'liq.
+Bu __app_name__ sonli qidiruvga olib keladi.
+Muqobil rejimdan foydalanishingiz mumkin. Ehtimol, bu ishlaydi."</string>
+    <string name="microseconds_short">Ms</string>
+    <string name="small_is_bad">"Juda kichik qiymatlar protsessorda yuqori yuklashga va o'yinda kechikishga olib kelishi mumkin."</string>
+    <string name="freeze_interval_help">"__app_name__ ning o'yin xotirasida qadriyatlarni yozuvchi interval."</string>
+    <string name="saved_list_update_interval_help">"__app_name__ raqamlari saqlangan ro'yxatdagi qiymatlarni yangilaydi."</string>
+    <string name="icons_size_help">"__app_name__ interfeysidagi belgilar hajmi.
+Suzuvchi belgi uchun qo'llanilmaydi."</string>
+    <string name="ignore_unknown_chars_help">"Turli joylardan raqamlarni ko'chirishda, agar maxsus belgilar raqamlar bilan birga nusxalansa, muammolarni hal qilishga yordam berishi mumkin."</string>
+    <string name="use_notification_help">"Bildirishnomalarni Android tizim xabarnomasida ishlatish.
+Ba'zi ilova dasturlarda bu dasturning ustuvorligini oshiradi va uni yopishning oldini oladi.
+Bundan tashqari siz xabarni __app_name__ yoki o'yinni bosish orqali olishingiz mumkin.
+Agar suzuvchi belgi ustiga bosolmasangiz, bu foydali bo'lishi mumkin."</string>
+    <string name="use_sound_effects_help">"Tugmalar va elementlarni bosganingizda tizim tovushlari.
+Ayrim dasturlarda tovushlar __app_name__ ning qulab tushishiga olib keladi."</string>
+    <string name="keyboard_help">Ichki klaviatura kamroq xotiraga ega, tezroq yuklaydi va raqamlarni kiritish uchun optimallashtirilgan.</string>
+    <string name="allow_suggestions_help">"Tashqi klaviaturadan maslahatlar.
+Ba'zi bir dasturlarda, maslahatlar __app_name__ ning qulab tushishiga sabab bo'ladi."</string>
+    <string name="autopause_help">"__app_name__ interfeysini ochishda o'yin avtomatik tarzda pauzaga qo'yiladi."</string>
+    <string name="killed_by">"__app_name__ \"__s__\" ilovasi tomonidan majburan yopildi. Bunga yo'l qo'ymaslik uchun ushbu dasturni o'chirib tashlang yoki uni __app_name__dan o'chirmaydigan tarzda sozlang."</string>
+    <string name="killers_found">"__app_name__ majburiy yopilishi mumkin bo'lgan ilovalarni o'rnatdingiz:
+__s__
+Bunga yo'l qo'ymaslik uchun, ularni o'chirib tashlang yoki ularni __app_name__dan bekor qilmaydigan qilib sozlang.
+
+Agar siz __app_name__ kutilmagan tarzda yopilishida muammoga duch kelsangiz, u holda hech qanday harakat talab etilmaydi va siz ushbu xabarni e'tiborsiz qoldirishingiz mumkin."</string>
+    <string name="record_logcat">"Ro'yxatdan __logcat__"</string>
+    <string name="record_logcat_info">"__app_name__ will be restarted with recording __logcat__ into the file:
+\"__s__\".
+
+Yozishni tugatish uchun __app_name__ raqamidan chiqish.
+Shundan so'ng, kundalik faylni kerakli joyga yuborishingiz mumkin."</string>
+    <string name="need_uninstall">"O'rnatuvchini o'chirishingiz kerak, aks holda sizda 4 belgilar bo'ladi, 2 emas. Bundan tashqari o'yinlar uni aniqlaydi."</string>
+    <string name="need_random_name">"__app_name__ standart paket nomi ishlatiladi. O'yinlar uni aniqlay oladi.
+
+Virtual maydondan tashqarida ishlaydigan __app_name__ni an'anaviy dastur sifatida tuzish.
+O'rnatish tugagandan so'ng, virtual maydonga tasodifiy nom bilan __app_name__ nusxasini qo'shing."</string>
+    <string name="work_mode">Ish tartibi</string>
+    <string name="root">ildiz</string>
+    <string name="no_root">"hech qanday ildiz yo'q"</string>
+    <string name="how_no_root">"Virtual kosmik ilovasini o'rnatishingiz kerak. Masalan: __vspace_list__.
+
+Rasmiy __app_name__ saytidan optimallashtirilgan versiyani o'rnatish tavsiya etiladi.
+
+Keyin __app_name__ va o'yinni ushbu virtual maydonga qo'shishingiz kerak.
+
+Shundan so'ng siz virtual maydonda o'yinni va __app_name__ raqamini ishga tushirishingiz kerak."</string>
+    <string name="eperm_error_descr_0">Mumkin sabablar:</string>
+    <string name="eperm_error_descr_1">"O'yinda himoya."</string>
+    <string name="eperm_error_descr_2">"Yana bir disk raskadrovka yoki kraker o'yin bilan bog'liq."</string>
+    <string name="eperm_error_descr_3">"Yetarli ruxsat yo'q. Odatda noto'g'ri konfiguratsiya qilingan __selinux__ uchun. __selinux__ o'chirib qo'ying yoki sozlang."</string>
+    <string name="eperm_error_descr_4">"Yomon yadro yoki bellenim. Boshqa dasturiy ta'minotni yoki boshqa qurilmani ko'ring."</string>
+    <string name="eperm_error_descr_5">"Belleniminizda \"root\" rootizmi ishlamaydi. Boshqa dasturiy ta'minotni yoki boshqa qurilmani ko'ring yoki ildizni oling."</string>
+    <string name="ptrace_bypass_mode">Ptrace himoyasi uchun Bypass rejimi:</string>
+    <string name="mode_restore">tiklash</string>
+    <string name="mode_nothing">hech narsa</string>
+    <string name="mode_freeze">muzlatish</string>
+    <string name="ptrace_bypass_mode_help">"Himoya ulanishni o'chirib qo'yishdan keyin nima qilish kerakligini ko'rsatadi:
+\u0009__mode_restore__ - aloqani tiklash
+\u0009__mode_nothing__ - hech narsa qilmaysiz (odatda himoya o'zini o'zi tiklaydi)
+\u0009__mode_freeze__ - ipni muzlatish (avvalgi versiyalardagidek)
+
+Agar siz himoyani qayta tiklasangiz yoki uni o'zingiz qilishingiz mumkin bo'lsa, __app_name__ raqamidagi qiymatlarni muzlatish doimiy himoyalanganligi / himoyasini o'chirib qo'yish sababli kechikishiga olib kelishi mumkin."</string>
+    <string name="slow_emulator">"Siz \"__s__\" emulyatoridan foydalanmoqdasiz. U sekin va xatodir. Shuning uchun, qo'ng'iroq juda sekin bo'lishi mumkin.
+
+Boshqa emulyatorlardan foydalanish tavsiya etiladi:"</string>
+    <string name="text">Matn</string>
+    <string name="show_debug_info">"Debug ma'lumotlarini ko'rsatish"</string>
+    <string name="mnt_expand">"__app_name__ \"Ichki xotira\" deb nomlangan xotira kartasiga o'rnatilgan.
+Bu virtual bo'shliqlar ishlashiga xalaqit berishi mumkin.
+Bunday holda, qurilma ichki xotirasida __app_name__ raqamini o'rnating.
+Xotira kartasini \"Portativ xotira\" deb qayta formatlashingiz kerak bo'lishi mumkin."</string>
+    <string name="help_game_not_listed_root">"O'yinni tanlash uchun o'yin kerak.
+
+Agar o'yin ishlayotgan bo'lsa-da, lekin u ro'yxatda bo'lmasa, unda ildiz yoki dasturiy ta'minot bilan bog'liq muammolar bo'lishi mumkin.
+Boshqa ildizni yoki boshqa dasturiy ta'minotni ko'ring."</string>
+    <string name="help_game_not_listed_noroot">"O'yinni virtual maydonda tanlab olish uchun ishga tushirish kerak.
+
+Virtual maydonda ishlamayotgan bo'lsa, o'yinni tanlay olmaysiz.
+
+O'yin virtual maydonda ishlayotgan bo'lsa-da, ro'yxatda bo'lmasa-da, yana bir virtual maydonni, boshqa dasturiy ta'minotni, boshqa qurilmani ko'ring yoki ildizni oling."</string>
+    <string name="daemon_killed_oom">"Daemon xotira etishmasligi tufayli tizim tomonidan o'ldirildi.
+
+\"__data_in_ram__\" ni \"__no__\" ga sozlang.
+Agar iloji bo'lsa interfeysning apparat tezlashtirishidan foydalaning.
+Katta ilovalarni ishlatmang.
+Foydalanilmagan barcha boshqa ilovalarni o'chirib qo'ying.
+Qurilmani qayta ishga tushirgandan so'ng __app_name__dan foydalanishga harakat qiling."</string>
+    <string name="selected_as_search_result">Qidiruv natijalari sifatida tanlangan</string>
+    <string name="clear_results_prompt">"Bu joriy qidiruv natijalarini o'zgartiradi. Davom etilsinmi?"</string>
+    <string name="position_in_memory_editor">Xotira muharriridagi joylashuv</string>
+    <string name="script_prompt_internet">"Skript Internetga kirishni xohlaydi. Agar siz kirishga ruxsat bersangiz, skript sizning kirishingiz, parollaringiz, qaydlaringizni va boshqa ma'lumotlarni o'g'irlash imkoniyatiga ega bo'ladi. Bundan tashqari, boshqa skriptlarni o'g'irlash yoki qurilmangizga viruslarni yuklab olish mumkin bo'ladi.
+
+Skriptning Internetga kirishiga ruxsat berilsinmi?"</string>
+    <string name="level">Daraja</string>
+    <string name="float_prompt">"Ichki dasturda __app_name__ to'g'ri ishlashi uchun __s__ uchun tizim sozlamalarida foydalanish uchun ochilgan derazalarga ruxsat berishingiz kerak.
+
+Huawei telefonlarida popup populyatsiyasini ko'rsatilmaydi. __s__ popupni ko'rsatishga ruxsat berishingiz kerak. Iltimos, telefon menejeri, keyin Dropzone menejmentini oching va uni __s__ uchun yoqilganligiga ishonch hosil qiling.
+
+Popup, ba'zi Xiaomi telefonlarida ham ko'rsatilmaydi. Siz Sozlamalar -> O'rnatilgan ilovalar -> __s__ -> Boshqa ruxsatlar -> Displeyni ochish oynasiga o'tishingiz kerak.
+
+Bundan tashqari, boshqa telefonlarda ilovalar Popup oynalarini ko'rsatishga ruxsat berish uchun turli tartiblarga ega bo'lishi mumkin. Barcha bunday ilovalarga, odatda, Google Translator ilovasiga, masalan, \"Tarjima qilish uchun funksiya\" funksiyasiga ta'sir eting. Shuning uchun siz echimni topish uchun Google'ni \"tarjima qilish uchun sizning sensoringiz\" tugmasini bosishingiz mumkin. Misol uchun, Xiaomi Redmi qurilmalari uchun quyidagilar mavjud:"</string>
+    <string name="virtual_space">Virtual maydon ilovasi</string>
+    <string name="prevent_unload_help">"__app_name__ xotiradan tushirishni taqiqlang (kuch yoping).
+
+Har bir keyingi daraja avvalgisiga qaraganda kuchliroq bo'lib, uni o'z ichiga oladi.
+
+Uchinchi daraja ba'zi dasturiy ta'minot va emulyatorlarda muammoga olib kelishi mumkin (tost, reboots yoki cho'kadi).
+
+Faqat uchinchi darajali ildiz ishlamaydi."</string>
+    <string name="integer_type">"Ushbu ma'lumot turi faqat tamsayı qiymatlari uchun va fractional qiymatlarni qo'llab-quvvatlamaydi. Fraksiyonel qadriyatlar uchun __type_float__ yoki __type_double__dan foydalaning."</string>
+    <string name="without_float">Bundan tashqari siz __app_name__ suzuvchi derazalarsiz foydalanishingiz mumkin:</string>
+    <string name="any_value">har qanday qiymat</string>
+    <string name="help_group_search_any_value">"Siz __any__dan kerakli joyga ushbu turdagi har qanday qiymatni ko'rsatish uchun minimal o'lcham bilan birga tartiblangan guruh qidirishida ham foydalanishingiz mumkin."</string>
+    <string name="help_scripts_title">Skriptlar</string>
+    <string name="help_scripts">"* __help_scripts_title__:
+__app_name__ Lua-da yozilgan buyruqlarning bajarilishini qo'llab-quvvatlaydi.
+
+Qidiruv oynasida menyuni bosing va \"__execute_script__\" ni tanlang.
+Bu erda buyruqlar faylini bajarish uchun tanlashingiz mumkin, mavjud __app_name__ API usullariga qarang yoki APIda yordam olishni o'qish yoki tayyor skriptlarni yuklab olish uchun rasmiy saytga o'ting.
+Bundan tashqari, siz internetdan foydalanmasdan o'qish uchun xotira kartasidan APIdan yordam olishingiz mumkin.
+
+Agar siz o'z skriptingizni yozishni istasangiz, u holda siz tashqi matnli fayllarni tahrirlashingiz kerak.
+__app_name__ skriptni tahrirlashga ruxsat bermaydi, ularni faqat ularni bajaradi.
+
+Qo'shimcha ma'lumot uchun API yordamini o'qing."</string>
+    <string name="help_floating_icon_absent">"Agar \"__start__\" tugmachasini bosgandan so'ng suzuvchi ikonani ko'rmasangiz:"</string>
+    <string name="remove_all2">Barchasini olib tashlang</string>
+    <string name="debug_load">"Barcha kod yuklarini to'kib tashlang"</string>
+    <string name="debug_log">"Ko'p buyruqli qo'ng'iroqlarni yozing"</string>
+    <string name="vspace64">"Siz 64-bitli jarayonlarni qo'llab-quvvatlaydigan virtual maydonda __app_name__ raqamiga kirdingiz.
+
+__app_name__ bu bo'shliqda ishlaydigan 32 bitli jarayonlarni ko'rmaydi.
+
+Agar __app_name__-da 32-bitlik jarayonlarda ishlashni istasangiz __app_name__ ikkinchi nusxasini \"__for32__\" rejimida o'rnating."</string>
+    <string name="folder_new">Yangi papka</string>
+    <string name="folder_exists">Ushbu jild allaqachon mavjud</string>
+    <string name="folder_file">Bu nomdagi fayl mavjud</string>
+    <string name="folder_failed">Jild yaratilmadi</string>
+    <string name="force_close">"Oldingi ilovani o'chirib qo'yish bekor qilindi.
+
+Kelajakda oldini olish uchun \"__prevent_unload__\" konfiguratsiya darajasini ko'tarishingiz mumkin."</string>
+    <string name="help_force_close_title">"Kutilmagan o'chirish"</string>
+    <string name="install_mode">"O'rnatish rejimi"</string>
+    <string name="for32">"64-bitli virtual maydonda 32-bitlik o'yinlarni yo'qotish uchun"</string>
+    <string name="for64">"64-bitli virtual maydonda 64-bitli o'yinlarni chetlab o'tish uchun"</string>
+    <string name="reset_ignore">"Barcha dialoglar uchun barcha e'tiborga olinmasin"</string>
+    <string name="allocate_fail">"Xotira sahifasini ajratib bo'lmadi. Xato"</string>
+    <string name="allocated">Ajratilgan xotira sahifasi:</string>
+    <string name="allocate_page">Xotira sahifasini ajratish</string>
+    <string name="prot_read">"O'qilishi mumkin"</string>
+    <string name="prot_write">Yozilishi mumkin</string>
+    <string name="prot_exec">"Qo'lga olinishi mumkin"</string>
+    <string name="install_finished">"O'rnatish muvaffaqiyatli bo'ldi.
+O'rnatilgan nusxani sizning ma'lumotlaringizni ko'chirib o'tkazish uchun qo'l bilan ishlating.
+Shundan so'ng, o'rnatish mumkin."</string>
+    <string name="odd_vspace">__app_name__ virtual muhitda ishga tushirildi?</string>
+    <string name="record_script">Yozib olish skripti</string>
+    <string name="record">Yozib oling</string>
+    <string name="another_record">"Boshqa yozuvlar ham ishlamoqda. To'xtatingmi?"</string>
+    <string name="record_ended">Yozib olish tugallandi:</string>
+    <string name="stop">"To'xta"</string>
+    <string name="could_not_use">"Foydalanib bo'lmadi:"</string>
+    <string name="not_optimized2">"Siz virtual muhitning optimallashmagan versiyasidan foydalanmoqdasiz (\"__s__\").
+Ushbu xatoni tuzatish uchun optimallashmagan \"__s__\" versiyasini olib tashlang va __app_name__ rasmiy saytidan optimallashtirilgan virtual bo'shliqlardan birini o'rnating.
+Optimallashtirilgan virtual bo'shliqlarni tanlash uchun \"__fix_it__\" tugmasini bosing."</string>
+    <string name="fix_path">"Bo'sh joy yoki vaqtinchalik fayllar uchun \"__fix_it__\" tugmasini bosish orqali boshqa yo'lni belgilang."</string>
+    <string name="deep_read">"Chuqur o'qish:"</string>
+    <string name="help_deep_read">"Xotirani barcha mavjud usullar bilan o'qish, agar u o'qilmasa.
+Xotiralarni o'qishni sekinlashtirishi mumkin."</string>
+    <string name="ptrace_fail">"Ptrace orqali xotirani o'zgartirib bo'lmadi."</string>
+    <string name="ptrace_fail_partially">"Ba'zi xususiyatlar, tezkorlik va unga bog'liq barcha narsalar ishlamaydi. Faqat o'qish uchun xotiraga yozish (kodni o'z ichiga oladi) mumkin emas."</string>
+    <string name="ptrace_fail_full">Xususiyatlarning aksariyati ishlamaydi.</string>
+    <string name="ptrace_fail_solve">"Odatda, bu dasturiy ta'minotdagi singan yadrodir.
+Ichki dasturni o'zgartirishni harakat qilib ko'ring. Yaqinda uni yangilagan bo'lsangiz - oldingi versiyani o'rnating.
+
+Agar bu ishlamasa, qurilmani o'zgartiring."</string>
+    <string name="feature_hide_4">"To'rtinchi element \"__hide_from_game__\" da tanlangan bo'lsa, bu xususiyat ishlamaydi."</string>
+    <string name="feature_firmware">"Bu xususiyat ptrace holda ishlamaydi, bu ushbu dasturiy ta'minotda ishlamaydi."</string>
+    <string name="feature_protection">"Bu xususiyat o'yinda ptrace himoyasi tufayli ishlamaydi."</string>
+    <string name="not_file">"Yo'l fayl emas:"</string>
+    <string name="not_execute">Joriy bajarilmaydi:</string>
+    <string name="check_install">"__app_name__ ning to'g'ri o'rnatilganligini tekshiring."</string>
+    <string name="sdcard_install">"Tashqi xotiraga (SD-karta) __app_name__ o'rnatilgan bo'lsa, uni ichki xotiraga qaytaring"</string>
+    <string name="change_address_type">"Manzilni / turini o'zgartiring"</string>
+    <string name="bad_offset">Ofset __d__ raqamli turkum emas.</string>
+    <string name="bad_result_address">Natijada olingan manzil __d__ sonli turkum emas.</string>
+    <string name="correct_types">"__d__ elementlari mumkin bo'lmagan hizalamani to'g'rilash uchun o'z turini o'zgartiradi."</string>
+    <string name="reinstall_fail">"__app_name__ raqamini tasodifiy nom bilan qayta o'rnatib bo'lmadi.
+
+__app_name__ o'yinlari osongina aniqlash mumkin.
+
+O'rnatish vaqtida siz __logcat__ni saqlashingiz va rasmiy forumga murojaat qilishingiz mumkin.
+
+Rad qilish sababi:"</string>
+    <string name="empty_field">"Bo'sh kirish maydoni: aylanadigan raqam yo'q"</string>
+    <string name="need_integer">"Konvertatsiya qilish uchun to'liq raqamni tanlashingiz kerak."</string>
+    <string name="maps_failed">"\"__maps__\" faylini ochib bo'lmadi."</string>
+    <string name="game_protected">"O'yin himoyalangan."</string>
+    <string name="need_root">"Ushbu o'yinni kesish uchun ildiz kerak."</string>
+    <string name="vspace_error">"Virtual maydon yoki dasturiy ta'minot yoki qurilma muammolari.
+
+Sinash:
+\u0009- boshqa virtual maydondan foydalaning
+\u0009- boshqa dasturiy ta'minotdan foydalaning
+\u0009- ildiz otish
+\u0009- boshqa qurilmadan foydalaning"</string>
+    <string name="root_error">"Ichki dastur yoki ildiz yoki qurilma muammolari.
+
+Sinash:
+\u0009- boshqa dasturiy ta'minotdan foydalaning
+\u0009- boshqa ildizdan foydalaning
+\u0009- boshqa qurilmadan foydalaning"</string>
+    <string name="vspace_root">Virtual maydonda ildizni ishlatish:</string>
+    <string name="help_vspace_root">"Virtual maydondan ildizni ishlatish, qurilmada __app_name__ mavjudligini yashirishga yordam beradi.
+
+Barcha virtual bo'shliqlarda emas, balki barcha dasturlarda ishlamaydi.
+
+Virtual kosmik, dasturiy ta'minot va ildiz virtual maydondan ildiz bilan ishlashga ruxsat berish kerak.
+Virtual maydon ilovalarni tizimga o'rnatmasdan ichki o'rnatishga imkon beradi.
+
+Buning hammasi virtual bo'shliqlar bilan ta'minlay olmaydi.
+
+Ushbu rejimda barcha ishlab chiqaruvchi dasturlarda ishlamaydi. Va barcha ildizlar bilan emas.
+
+Ildiz huquqlari butun virtual maydonga berilganligi sababli, boshqa hech narsa o'rnatmasligingiz kerak. Aks holda, virtual maydondan olingan har qanday dasturni oldindan bilib bo'lmas natijalar bilan ildiz huquqlaridan foydalanishi mumkin.
+
+O'yin virtual maydondan tashqarida o'rnatilishi kerak.
+
+__app_name__ faqat tizimga o'rnatmasdan virtual muhitda o'rnatilishi kerak.
+Buni qanday amalga oshirish kerak - muayyan virtual maydonning ko'magiga qarang.
+
+Masalan, __vexp__ uchun __vexp__ da __app_name__ tizimidan klonlashingiz va tizimdan __app_name__ o'chirishingiz mumkin."</string>
+    <string name="help_games_protection_9">"9. Tizimga o'rnatmasdan dasturlarni o'zingizga o'rnatish imkonini beruvchi virtual bo'shliqlarda ildizni ishlatish."</string>
+    <string name="locale_ui">Mahalliy hududingizda</string>
+    <string name="locale_script">Skriptlar har doim ingliz tilidan foydalanadi</string>
+    <string name="locale_desc">"'__s__' - kasrli ajratkich
+'__s__' - minglab ajratuvchi
+'__semicolon__' - guruhni ajratishda raqamlarni ajratuvchi"</string>
+    <string name="help_unaligned_title">Ajralmas qidiruv / katta qidirish</string>
+    <string name="help_unaligned">"Ba'zi ilovalarda (masalan, konsol emulyatorlari kabi), xotiradagi qiymat hizalanishga mos kelmasligi yoki katta endian bayt tartibida berilishi mumkin.
+
+Bunday qiymat normal qidirish orqali topilmaydi.
+
+Ularni topish uchun - rasmiy __app_name__ veb-saytidan maxsus skriptdan foydalaning:"</string>
+    <string name="help_formula_calculator_title">Formula kalkulyatori</string>
+    <string name="help_formula_calculator">"Raqamlarni kiritish uchun deyarli har bir sohada siz teng belgidan keyin matematik formulani kiritishingiz mumkin, masalan, qidirish maydoniga '= 2 + 2 * 3' kiriting va dastur formulaning natijasini qidiradi. , '8'.
+Formula Lua ifodasidir. Lavaning barcha mavjud quvvatidan foydalanishingiz mumkin.
+
+Lua 5.3 barcha arifmetik operatorlariga yo'l qo'yiladi - qo'shish (+), ayirish (-), ko'paytirish (*), bo'linish (/), bo'linish qoldig'i (%), eksponentatsiya (^), butun son (//) va boshqalar.
+Bit bitlari ham mavjud - AND (&amp;), OR (|), Exclusive OR (ikkilik ~), NOT (bir kishilik ~), o'ngga siljish (>>), chapga o'tish (&lt;&lt;). Harakatlar tartibi qavslar tomonidan berilishi mumkin.
+Mavjud operatsiyalarning to'liq ro'yxati uchun Lua qo'llanmasini o'qing.
+
+It is useful if you know how the value is coded in the game. For example, 29 rounds in one game can be found as '= 29 ~ 444444'. This is equivalent to 29 XOR 444444. In the video sample, the price was found 3888 through XOR with 444444, as '= 444444 ~ 3888'. After this, the replacement was made to '= 444444 ~ 1', which set the price to '1'. In another game, 125 gold is like '= 125 * 10'.
+
+Formul kalkulyatorida barcha skript funktsiyalari mavjud emas. Ba'zi funktsiyalar mavjud emas. Agar sizda ularning miqdori etarli bo'lmasa - skriptingizni yozing, formulali kalkulyatordan foydalanish o'rniga, u faqat oddiy hisoblar uchun mo'ljallangan. Mavjud: asosiy funktsiyalarning bir qismi, 'bit32', 'table', 'string', 'utf8', 'matematik', 'os' paketining bir qismi. 'Debug', 'pack', 'gg', 'io' paketlari mavjud emas.
+
+'= 2 + 2 * 3' deb yozganda, formuladan oldin 'return' kalit so'zi qo'shiladi: 'return 2 + 2 * 3'. Ammo, agar siz murakkab formulaga muhtoj bo'lsangiz, ushbu so'zni o'zingiz formulada ko'rsatishingiz mumkin.
+Masalan, '= a = 5; b = 7; a * 4 + b * 8 'qiymatini qaytarish' a = 5; b = 7; a * 4 + b * 8 'qiymatini qaytaring
+
+Formulalar kalkulyatorining natijasi matnli satrdir. Ushbu kiritish maydoni uchun satr har qanday yaroqli satr bo'lishi mumkin.
+Masalan, guruhli qidiruv yoki oraliq qidiruv uchun satr bo'lishi mumkin. '= a = 5; b = 7; qaytish a .. \";\" .. b .. \":: 100\" '5 ga teng; 7 :: 100 '.
+
+Formula kalkulyatori skriptlarda ishlamaydi, u erda siz to'g'ridan-to'g'ri Lua-dan foydalanishingiz mumkin.
+Skriptni yozishda formulani hisoblash natijasi formulaning o'zi emas, balki faylga yoziladi.
+
+Agar formula noto'g'ri bo'lsa, siz formani yuborganingizda xato haqida xabar olasiz.
+
+Hisoblashda siz hisob-kitoblar birinchi operand belgilagan turda amalga oshirilishini hisobga olishingiz kerak. Agar u butun son bo'lsa, natijada butun son bo'ladi.
+Masalan, '= 3/2' - '1', va '= 3.0 / 2' - '1.5'.
+
+Tanlangan tildan qat'i nazar, formulalar ingliz tilida ishlaydi. Bu shuni anglatadiki, o'nlik ajratuvchi har doim nuqta ('.')."</string>
+    <string name="help_faq_32_b">"Ikkita boshlash belgisi. Birinchisi, dastur tezlashuvi bilan - \"__app_short_name_sw__\", ikkinchisi - apparat tezlashtirish bilan - \"__app_short_name_hw__\". Hozir ham shunday bo'ladi.
+Ba'zi firmalarda faqat bitta versiya normal ishlaydi.
+Dasturiy ta'minotni tezlashtirishdan foydalanish yaxshiroq, u kamroq ishlaydi, lekin xotiradan kamroq sarflaydi.
+
+Ilova sozlamalaridagi ikonalardan birini yashirishingiz mumkin: \"__hide_icons__\"."</string>
+    <string name="acceleration_help_">"Uskuna yoki dastur interfeysini tezlashtirish __app_name__.
+O'yin va dasturiy ta'minotga bog'liq ravishda ba'zi variantlar muammolarga olib kelishi mumkin.
+Har ikkisi ham ishlayotgan bo'lsa, dasturiy ta'minot tezlashmasidan foydalaning, chunki u kamroq xotirani iste'mol qiladi.
+
+Ushbu parametr ishga tushirish belgilaridan alohida va faqat __app_name__ interfeysining ekranini ta'sir qiladi.
+Ishga tushirish tugmalari boshlang'ich ekranning tezlashtirish turiga javobgardir.
+
+Uskuna tezlashuvi ko'proq xotirani iste'mol qiladi, ammo u yanada murakkab ishlaydi. Agar sizda kam xotira bo'lsa, har doim dasturiy ta'minotni tezlashtirishdan foydalaning.
+
+Agar apparatning tezlashuvi xatolikka sabab bo'lsa, __app_name__ dasturiy tezlashtirishga o'tishi mumkin."</string>
+    <string name="small_list_items">"Kichik ro'yxat elementlari"</string>
+    <string name="small_list_items_help">"Elementlar ro'yxatida qo'shimcha ma'lumotni ko'rsatishga imkon beradi, ammo kerakli elementni bosish qiyin bo'lishi mumkin."</string>
+    <string name="format_asm_opcodes">__s__ opcodes</string>
+    <string name="no_regions">Hech narsa topilmadi.</string>
+    <string name="cannot_hide_launcher_icon">"Ushbu belgi joriy ishga tushirish uchun ishlatilgan.
+
+Siz joriy ishga tushirish uchun ishlatilgan belgini yashira olmaysiz.
+
+Ushbu ikonani yashirish uchun dasturni boshqa ikonka yordamida qayta ishga tushiring."</string>
+    <string name="screenshot">Ekran rasmini oling</string>
+    <string name="screenshot_prompt">"Ilova __d__ soniyada saqlanib qoladi, shunda ekran tasvirini olishingiz mumkin.
+
+Shundan so'ng, belgi yana paydo bo'ladi."</string>
+    <string name="screenshot_action">Ekran rasmlari</string>
+    <string name="use_visible_type">"Xotirani tahrirlashda ko'rinadigan ma'lumot turini ishlating:"</string>
+    <string name="use_visible_type_help">"Faqat bitta ma'lumot turi ko'rsatilsa, xotira muharriri ma'lumot turini so'ramang."</string>
+    <string name="wrong_float">"Mahalliy tilda \"__s__\" raqami \"__s__\" ga o'xshaydi. Agar bu zarur bo'lmasa - boshlang'ich ekranda boshqa tilni (yoki tilni) tanlang."</string>
+    <string name="wrong_float2">Bundan tashqari, __app_name__ sozlamalarida siz raqamlarni formatlash uchun mahalliyni bekor qilishingiz mumkin.</string>
+    <string name="number_locale">Raqamlarni formatlash uchun joy:</string>
+    <string name="fill">"To'ldiring"</string>
+    <string name="help_text_search">"
+Matnni izlash uchun odatdagidek qidirish oynasida modifikatorlarni kiritishingiz kerak.
+
+Eng ko'p ishlatiladigan kodlamalar - __utf8__ va __utf16le__.
+Odatda, __utf16le__ __java__ ishlatiladi va __utf8__ __c__ da ishlatiladi.
+
+\u0009__utf16le__ ikki baytli kodlashdir. Har bir belgi har doim ikki baytda kodlangan, shuning uchun u __type_word__ orqali ko'rsatiladi.
+\u0009__utf8__ - belgi uchun o'zgarmaydigan bayt hajmini kodlash. __type_byte__ orqali taqdim etiladi.
+\u0009__hex_input__ va uning varianti har doim __type_byte__ orqali ifodalanadi.
+
+O'yin har qanday kodlashni ishlatishi mumkin.
+Muayyan bayt majmui kerak bo'lsa - __hex_input__ rejimini ishlating.
+
+Mavjud prefikslar:
+__text_prefixes__
+
+\"__hex_mixed__\" rejimida __apos__ belgidan __utf8__ matn va __quot__ belgilar orasida __utf16le__ matnni tanlashingiz mumkin.
+
+Misol uchun:
+__text_examples__
+
+Prefiks belgisi qidiruv matnidagi birinchi belgi bo'lishi kerak.
+
+The result of the search will be a __type_byte__ sequence, or a __type_word__ sequence, for the case of __utf16le__.
+
+Natijalar o'zgartirilishi mumkin - barchasini tanlang va \"__edit_selected__\" tugmasini bosing.
+
+Qiymat maydonida yangi qiymatni qidirish satriga o'xshash formatda kiriting.
+
+Siz to'ldirish tugmalaridan foydalanishingiz mumkin. Agar ular ko'rinmasa, \"__more__\" ni bosing.
+
+Qiymat doimiy ravishda quyidagi bandlarning har bir guruhi uchun o'rnatiladi.
+Elementlar orasidagi bo'shliq bo'lsa, u yangi guruh bo'ladi.
+
+Zarur bo'lgandan ko'ra ko'proq baytni belgilasangiz, ulardan faqat bir qismi ishlatiladi.
+Agar kerakli qiymatdan kamroq tanlasangiz, guruhning qolgan qismi nol bayt bilan to'ldiriladi.
+
+Matnni almashtirayotganda, muammolardan qochish uchun asl nusxada bir xil sonli bayt bilan matnni ko'rsatishga harakat qiling.
+"</string>
+    <string name="fast_freeze">Tez muzlatish:</string>
+    <string name="help_fast_freeze">"Oddiy muzlatishdan ko'ra tezroq ishlaydi, lekin hamma xotirada emas.
+
+Muzlatish ishlamasa, ushbu parametrni o'chiring."</string>
+    <string name="debug_disassemble">Ajratish</string>
+    <string name="assembled">"Faylni muvaffaqiyatli to'plash uchun:"</string>
+    <string name="warn_patch_off_prot2">"Agar siz __magisk_hide__ dan foydalanayotgan bo'lsangiz - yamoqni qo'llashdan oldin uni o'chiring. Yamani muvaffaqiyatli qo'llaganingizdan so'ng uni yana yoqishingiz mumkin.
+Agar qilmasangiz, yamoq muvaffaqiyatli bo'lmaydi."</string>
+    <string name="help_games_protection_end">"
+__app_name__-ni virtual makonda o'yindan qanday yashirish kerak
+
+\u00091. Ilovalarni tizimga o'rnatmasdan yashirin o'rnatishga imkon beradigan virtual makonni joylashtiring. Masalan, __vspace_hide__.
+\u00092. __app_name__-ni virtual makonga o'rnating.
+\u00093. __app_name__-da \"__vspace_root__\" rejimini yoqing.
+\u00094. Virtual makonga ildiz huquqlarini bering. Agar siz ildiz huquqlarini berolmasangiz - boshqa virtual maydonni, boshqa ildiz huquqlarini, turli xil dasturlarni sinab ko'ring yoki qurilmani o'zgartiring.
+\u00095. __app_name__-ni tizimdan olib tashlang.
+\u00096. Virtual makondan __app_name__ bilan ishlang.
+
+Qidiruv paytida aniqlanmaslik uchun:
+\u0009\"__hide_from_game__\" sozlamasida 2, 3 va 4-bandlarni tanlang.
+
+Oddiy echim (ildiz talab qiladi, ildizsiz siz muvaffaqiyat qozonolmaysiz):
+\u00091. Virtual makondan ildizdan foydalaning. \"__vspace_root__\" sozlamalari bo'yicha yordamni o'qing.
+\u00092. \"__hide_from_game__\" sozlamasida 2, 3 va 4-bandlardan foydalaning.
+"</string>
+    <string name="force_close_2">"Kelgusida bunday bo'lmasligi uchun \"__data_in_ram__\" -ni \"__no__\" -ga o'rnatishingiz mumkin."</string>
+    <string name="script_wrote">skript __s__ __d__ fayllarni yozgan.</string>
+    <string name="script_exit">Chiqish</string>
+    <string name="script_interrupted">"skript so'zini."</string>
+    <string name="script_error">skript xato</string>
+    <string name="script_oom">xotira Out</string>
+    <string name="script_possible">"Bu siz buyruq fayli sifatida __s__ amalga oshirish uchun harakat qilmoqda kabi ko'rinadi."</string>
+    <string name="script_web">veb-sahifa</string>
+    <string name="script_saved_list">"Saqlangan ro'yxati"</string>
+    <string name="speedhack_no_x86">"Lekin, bu o'yin hech qanday x86 kutubxonalar, shuning balki u ishlamaydi."</string>
+    <string name="help_faq_33_q">"Matn xabarlari (qadah so'zlari) ekranda qoladi, yoki __app_name__ ish bo'lsa qorong'i doira ekranning pastki qismidagi ko'rinadi. Qanday buni tuzatish uchun?"</string>
+    <string name="help_faq_33_a">"Ba'zi dasturiy-uchinchi darajasi \"__prevent_unload__\" Matn xabarlari (qadah so'zlari) ekranda qoladi, yoki qorong'i doira ko'rinib (bo'sh xabar) deb olib keladi. Agar shu bo'lsa, uchinchi darajasini foydalanmang."</string>
+    <string name="invalid_header_1">"Noto'g'ri ikkilik skript header."</string>
+    <string name="unknown_version">"Noma'lum versiyasi."</string>
+    <string name="unknown_format">"Noma'lum format."</string>
+    <string name="unknown_endianness">"Noma'lum endianness."</string>
+    <string name="unknown_size_s">"__s__ noma'lum hajmi."</string>
+    <string name="unknown_size_instr">"yo'riqnomani Noma'lum hajmi."</string>
+    <string name="unknown_size_num">"Lua soni Noma'lum hajmi."</string>
+    <string name="expected_found">Kutilayotgan __s__ lekin __s__ topildi.</string>
+    <string name="or">yoki</string>
+    <string name="invalid_header_2">baribir skriptni ishga tushirish?</string>
+    <string name="invalid_header_3">"__app_name__ kelajagi versiyalarida, bu skript ishlatish mumkin emas.
+Ssenariy muallifi bu haqida yozing."</string>
+    <string name="skip_system_libs">"Tizim kutubxona o'tish"</string>
+    <string name="try_reinstall_x86">"x86 kutubxonalari bilan o'yin qayta harakat qilib ko'ring?
+
+o'yin shundan keyin ishlamay qolishi mumkin. Agar shu bo'lsa, __data_app__ joylashgan APK o'yin qayta o'rnatish."</string>
+    <string name="reinstall_started">Reinstallation boshladi ...</string>
+    <string name="reinstall_failed">"Qayta o'rnatish muvaffaqiyatsiz tugadi:"</string>
+    <string name="reinstall_ended">"Qayta o'rnatish yakunlandi."</string>
+    <string name="help_lasm_title">"Buzib tashlash / skriptlarni yig'ishda"</string>
+    <string name="help_lasm">"__app_name__ Lua skriptlar uchun ajralmas disassembler'a / assembler bor.
+
+Siz \"__more__\" tugmasini bosgandan so'ng, skript ishga tushirilishi oynada \"__debug_disassemble__\" ni tanlashingiz mumkin.
+
+Olingan __ext_lasm__ fayl tahrir va skript ishga tushirilishi oynada tanlangan bo'lishi mumkin. Natijada qilingan o'zgarishlar bilan, ikki tomonlama, bir __ext_lua__ fayl bo'ladi.
+
+Qo'shimcha ma'lumot olish uchun skript API yordam o'qing.
+"</string>
+    <string name="help_hide_gg_title">"Qanday o'yin __app_name__ yashirish uchun"</string>
+    <string name="changed_as_search_result">"Qidiruv natijasida o'zgardi"</string>
+    <string name="changed_not_found">"O'zgartirildi mahsulot topilmadi."</string>
+    <string name="too_far">"Bu qiymatlar bir guruh qo'ng'iroq orqali topib bo'lmaydi, ular ham uzoqda bo'ladi: __d__ bayt. maksimal masofa __d__ bayt hisoblanadi."</string>
+    <string name="new_address">Yangi manzili:</string>
+    <string name="hide_1_warn">"Siz birinchi elementni tanlab oldi. Muzlatish qadriyatlar o'yin shiddatli qolmoqda olib kelishi mumkin."</string>
+    <string name="hide_4_warn">"Siz to'rtinchi ob'ektni tanlab oldi. Ba'zi xususiyatlari ishlamaydi: __speedhack__, __unrandomizer__, __allocate_page__."</string>
+    <string name="asm_failed">"__s__ buyruqlar uchun opcodelar tan bo'lmadi:"</string>
+    <string name="asm_suggestion">buni nazarda tutgandirsiz: __s__?</string>
+    <string name="copy_opcode">__s__ buyruqlar uchun opcodelar nusxalash:</string>
+    <string name="search_nearby">yaqin qidirish</string>
+    <string name="before">oldin</string>
+    <string name="after">"so'ng"</string>
+    <string name="distance">masofa:</string>
+    <string name="nearby">Yaqin:</string>
+    <string name="need_fixer">"A muammo, bu 64-bit virtual makon bilan aniqlandi.
+
+buni tuzatish uchun:
+
+__fixer__ ariza o'rnating 1.. (Bu muloqot, yo qo'lda yo'lidan:
+__s__
+).
+
+virtual makon uchun __fixer__ qo'shish 2..
+
+virtual kosmosda 3. Run __fixer__.
+
+__fixer__ tashlang 4..
+
+5. Restart virtual kosmosda __app_name__."</string>
+    <string name="limit">Faqat birinchi N natijalari:</string>
+</resources>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.fix.LinearLayout
+    android:orientation="vertical"
+    android:paddingLeft="5.0dip"
+    android:paddingRight="5.0dip"
+    android:paddingBottom="5.0dip"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:keepScreenOn="true"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.fix.TextView
+        android:textAppearance="@style/SmallText"
+        android:gravity="center_vertical"
+        android:layout_gravity="center"
+        android:id="@id/message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/loading" />
+    <android.fix.LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15.0dip"
+        android:layout_marginBottom="15.0dip">
+        <android.fix.LinearLayout
+            android:layout_gravity="center"
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <ProgressBar
+                android:layout_gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10.0dip"
+                style="?android:progressBarStyleSmall" />
+            <android.fix.TextView
+                android:textAppearance="@style/MediumText"
+                android:id="@id/progress_bar_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </android.fix.LinearLayout>
+        <android.fix.ProgressBar
+            android:id="@id/progress_bar"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:max="100"
+            android:progress="0"
+            android:indeterminate="true"
+            style="?android:progressBarStyleHorizontal" />
+    </android.fix.LinearLayout>
+    <android.fix.LinearLayout
+        android:orientation="vertical"
+        android:id="@id/stage_layout"
+        android:visibility="gone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15.0dip">
+        <android.fix.TextView
+            android:textAppearance="@style/MediumText"
+            android:gravity="center"
+            android:id="@id/progress_bar_stage_text"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+        <android.fix.ProgressBar
+            android:id="@id/progress_bar_stage"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:max="100"
+            android:progress="0"
+            style="?android:progressBarStyleHorizontal" />
+    </android.fix.LinearLayout>
+    <android.fix.TextView
+        android:textAppearance="@style/SmallText"
+        android:layout_gravity="center_vertical"
+        android:id="@id/found_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <android.fix.TextView
+        android:textAppearance="@style/SmallText"
+        android:layout_gravity="center_vertical"
+        android:id="@id/time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <android.fix.Button
+        android:textAppearance="@style/SmallText"
+        android:layout_gravity="center_vertical"
+        android:id="@id/help_speed_up"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/help_speed_up_title" />
+</android.fix.LinearLayout>

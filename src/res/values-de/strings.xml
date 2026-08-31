@@ -1,0 +1,1393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lang_code">~~~de~~~</string>
+    <string name="front_text">Falls Sie Fragen bezüglich __app_name__ oder der Verwendung haben, besuchen Sie bitte unser Forum unter __forum__</string>
+    <string name="set_path">Temporärer Pfad</string>
+    <string name="number">Zahl:</string>
+    <string name="type">Typ:</string>
+    <string name="name">Name:</string>
+    <string name="reset">Wähle einen Prozess</string>
+    <string name="set_range">Wähle Speicherbereiche</string>
+    <string name="search">Suche</string>
+    <string name="save">Speichern</string>
+    <string name="goto1">Gehe zu</string>
+    <string name="address">Adresse:</string>
+    <string name="edit_all">Alles bearbeiten</string>
+    <string name="filter">Filter</string>
+    <string name="clear">Leeren</string>
+    <string name="max_show_rec">Zeige:</string>
+    <string name="equal">Unverändert</string>
+    <string name="inequal">Verändert</string>
+    <string name="larger">Vergrößert</string>
+    <string name="smaller">Verkleinert</string>
+    <string name="compare_current_last">Wie hat sich der Wert geändert?</string>
+    <string name="write_region_log">Schreibe Regionsprotokoll</string>
+    <string name="old_version">alte Version:</string>
+    <string name="found_old_version">Eine alte Version von __app_name__ gefunden. Möchtest du diese deinstallieren?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="ok">Ok</string>
+    <string name="failed_find_package_name">Der Name des Anwendungspakets konnte nicht gefunden werden!</string>
+    <string name="path_for_temp_files">"Lege einen Pfad für temporäre Dateien, z.b. '__sdcard__' fest. Es kann einige hundert MB freien Speicherplatz erfordern. Aktuelle Suchergebnisse gehen dabei verloren."</string>
+    <string name="confirm">Bestätigen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="found_new_version">Neue Version __s__ gefunden</string>
+    <string name="daemon_failed">Daemon fehlerhaft</string>
+    <string name="failed_run_daemon">Daemon konnte nicht ausgeführt werden. Wurde root installiert?</string>
+    <string name="daemon_unexpected_closed">Daemon wurde unerwartet geschlossen. Info:</string>
+    <string name="daemon_exited">Daemon beendet</string>
+    <string name="failed_load_daemon">Laden von Daemon fehlgeschlagen</string>
+    <string name="is_device_rooted">Es konnte kein Root-Zugang erhalten werden.</string>
+    <string name="collect_data_to_region_log">Sammeln der Daten, um ein Regionsprotokoll zu schreiben, wurde gestartet...</string>
+    <string name="log_saved">Protokoll wurde gespeichert in __s__</string>
+    <string name="failed_save">Speichern in __s__ fehlgeschlagen</string>
+    <string name="region_log">Regionsprotokoll</string>
+    <string name="apply">Anwenden</string>
+    <string name="error">Fehler</string>
+    <string name="load">Laden</string>
+    <string name="delete_prompt">Möchtest du dieses Objekt entfernen?</string>
+    <string name="reset_search">FEHLER entdeckt. Suchliste zurückgesetzt.</string>
+    <string name="unknown_error">Unbekannter Fehler</string>
+    <string name="out_of_memory">Speicher ausgelastet</string>
+    <string name="bug_detected">Fehler entdeckt</string>
+    <string name="disk_full">Speicherplatz voll</string>
+    <string name="io_error">IO Fehler (Eingabe-Ausgabe)</string>
+    <string name="game_dead">Spiel abgestürzt?</string>
+    <string name="exit">Beenden</string>
+    <string name="skip">Ignorieren</string>
+    <string name="unhandled_exception">Unbehandelter Fehler. Die untenstehenden Informationen an das Entwicklungsteam senden?</string>
+    <string name="last_run_failed">Letzter Start ist fehlgeschlagen</string>
+    <string name="thank_you">Dankeschön!</string>
+    <string name="no_application">Es wurde keine Applikation ausgewählt.</string>
+    <string name="increments">Zunahme:</string>
+    <string name="add_not_replace">Füge zum Wert hinzu, nicht ersetzen</string>
+    <string name="eperm_error">PTRACE_ATTACH Fehler: Dieser Vorgang ist nicht erlaubt</string>
+    <string name="load_list">Lade Liste</string>
+    <string name="load_warning">Du hast eine Liste geladen, die aus einer anderen Instanz des Spiels gespeichert wurde. Höchstwahrscheinlich haben sich alle Adressen im Speicher geändert und Daten geladen, die nicht den zuvor gespeicherten Daten entsprechen. Wir empfehlen dir, diese zu überprüfen.</string>
+    <string name="from">Von __d__ zu __d__ abgeschlossen</string>
+    <string name="count_fuzzy_equal_run">"Anzahl der Suchdurchläufe für '__fuzzy_equal__':"</string>
+    <string name="slow">langsam</string>
+    <string name="miui_restart">__app_name__ muss neugestartet werden, damit die Sicherheitszulassungen angewendet werden können.</string>
+    <string name="out_of_memory_error">Speicher aufgebraucht. Aktuelle Ergebnisliste gelöscht. Bitte setze einen kleineren Wert für die Anzahl der anzuzeigenden Ergebnisse.</string>
+    <string name="loading">Laden...</string>
+    <string name="found_count">Gefunden: __d__</string>
+    <string name="fuzzy_equal">Unveränderter Wert</string>
+    <string name="fuzzy_inequal">Wert hat sich geändert</string>
+    <string name="fuzzy_larger">Wert erhöht</string>
+    <string name="fuzzy_smaller">Wert verringert</string>
+    <string name="type_edit_limit">Wähle einen Wert von __s__ bis __s__</string>
+    <string name="number_name">Nummer</string>
+    <string name="step_name">Zunahme</string>
+    <string name="number_less">"Nummer '__s__' ist kleiner als der minimale Wert (__d__) für diesen Datentyp"</string>
+    <string name="number_greater">"Nummer '__s__' ist größer als der maximale Wert (__d__) für diesen Datentyp"</string>
+    <string name="about">Über</string>
+    <string name="owner">Besitzer</string>
+    <string name="design">Chef Designer</string>
+    <string name="pm">Projektmanager</string>
+    <string name="code">Chef Programmierer</string>
+    <string name="tech">technischer Berater</string>
+    <string name="creator">Ersteller (in Rente)</string>
+    <string name="for_translators">Wenn du uns bei der Übersetzungen mithelfen willst, dann kannst du uns unter http://gameguardian.net/forum kontaktieren und deinen Beitrag für die offiziell veröffentlichte Applikation leisten.</string>
+    <string name="version">Version:</string>
+    <string name="developers">Entwickler:</string>
+    <string name="select_language">Wähle Sprache</string>
+    <string name="exit_confirm">__app_name__ muss neugestartet werden, um die Änderungen zu speichern</string>
+    <string name="special_thanks">Besonderen Dank an:</string>
+    <string name="nothing_found">Nichts gefunden. Versuche noch eine Suche.</string>
+    <string name="try_more_ranges">Du kannst auch versuchen, größere Suchreichweiten in den Einstellungen einzustellen.</string>
+    <string name="try_fuzzy_search">Du kannst auch versuchen nach unbekannten Werten zu suchen.</string>
+    <string name="search_hint">"Um bekannte Werte zu suchen drücke \"__search_known_value__\". Wenn der Wert unbekannt oder verschlüsselt ist, drücke \"__search_unknown_value__\" um zu suchen. Suche für Gleitkommazahlen können mit dem Ganzzahlen durchgeführt werden, indem man '__type_auto__' als Suchtyp einstellt. Außerdem kannst du eine Gruppensuche mit '__semicolon__' als Trennzeichen durchführen."</string>
+    <string name="freeze">Einfrieren:</string>
+    <string name="freeze_normal">Normal</string>
+    <string name="freeze_may_increase">kann zunehmen</string>
+    <string name="freeze_may_decrease">kann abnehmen</string>
+    <string name="freeze_in_range">in Reichweite</string>
+    <string name="range_end_fail">"Reichweiten Ende ('__s__') muss höher sein als '__s__'"</string>
+    <string name="failed_add_window">Hinzufügen des Fensters fehlgeschlagen</string>
+    <string name="failed_remove_window">Entfernen des Fensters fehlgeschlagen</string>
+    <string name="system_service_stopped">Die Applikation kann nicht richtig arbeiten, da der System-Service gestoppt wurde. Versuche die Applikation neuzustarten oder starte dein Gerät neu.</string>
+    <string name="value_request">Gebe ein Wert für die Suche ein</string>
+    <string name="type_request">Wähle Datentyp für die Suche</string>
+    <string name="type_change_request">Wähle Datentyp für die Veränderung</string>
+    <string name="value">Wert</string>
+    <string name="save_as">Speichern als:</string>
+    <string name="restart">Neustarten</string>
+    <string name="start">Starten</string>
+    <string name="wait_daemon">Diese Funktion ist nicht verfügbar, wenn Daemon nicht läuft. Warte bis Dameon gestartet ist. (Hast du vergessen root Rechte zu vergeben? Oder ist root nicht installiert?)</string>
+    <string name="daemon_fail">Daemon ist nicht aktiv</string>
+    <string name="config_icon_text">Symbol: transparenz = __d__%%, verstecken - __s__</string>
+    <string name="icon_hide_after">nach __d__ sekunden</string>
+    <string name="icon_hide_never">Niemals</string>
+    <string name="keyboard">Tastatur:</string>
+    <string name="internal">Interne</string>
+    <string name="external">Externe</string>
+    <string name="failed_copy_text">Fehler beim Kopieren des Textes</string>
+    <string name="copied">Kopiert</string>
+    <string name="copy_value">Kopiere den Wert:</string>
+    <string name="copy_address">Kopiere die Adresse:</string>
+    <string name="goto_address">Gehe zu der Adresse:</string>
+    <string name="search_unknown_value">Unbekannte (fuzzy) suche</string>
+    <string name="search_known_value">Bekannte (exakte) Suche</string>
+    <string name="speedhack_hint">Um die Geschwindigkeit des Spieles zu ändern, drücke lange auf das schwebende __app_name__ Symbol.</string>
+    <string name="bad_firmware">Deine Firmware enthält Fehler die die Nutzung dieses Features verhindert.</string>
+    <string name="language">Sprache</string>
+    <string name="acceleration">Benutzeroberflächen beschleunigung:</string>
+    <string name="hardware">Hardware</string>
+    <string name="software">Software</string>
+    <string name="speedhack">Speedhack</string>
+    <string name="data_in_ram">Daten im Arbeitsspeicher (RAM):</string>
+    <string name="first_mb">Die ersten __d__ MB</string>
+    <string name="donate">Spenden</string>
+    <string name="speeds">Geschwindigkeiten</string>
+    <string name="floating_window_fail">Nicht fähig, ein schwebendes Symbol anzuzeigen.</string>
+    <string name="check">Bestätigung</string>
+    <string name="check_success">Bestätigung war erfolgreich</string>
+    <string name="enable_draw_perm">Bitte aktiviere die Rechte im nächsten Fenster.</string>
+    <string name="speedhack_fail">Speedhack ist für diesen Prozess nicht unterstützt.</string>
+    <string name="dangerous">gefährlich</string>
+    <string name="difference">Unterschied</string>
+    <string name="old_value">Alter Wert</string>
+    <string name="new_value">Neuer Wert</string>
+    <string name="mode_hacking">Der Wert ist verschlüsselt</string>
+    <string name="union">Gruppensuche</string>
+    <string name="speedhack_open">Du kannst den Speedhack durch langes Halten auf das schwebende __app_name__ Symbol öffnen.</string>
+    <string name="history">Verlauf</string>
+    <string name="history_empty">Verlauf ist leer</string>
+    <string name="allow_suggestions">Erlaube Vorschläge aus dem Wörterbuch:</string>
+    <string name="invalid_area">Gruppengröße muss zwischen __d__ und __d__ liegen:</string>
+    <string name="union_need_two_numbers">Für die Gruppensuche müssen mindestens zwei Nummern eingegeben werden</string>
+    <string name="too_many_union_numbers">Zu viele Zahlen, mehr als:</string>
+    <string name="invalid_number">Ungültige Nummer:</string>
+    <string name="input_number">Nummer eingeben</string>
+    <string name="number_out_of_range">"Nummer '__s__' ausser möglicher Reichweite:"</string>
+    <string name="help_floating_icon">"* Das schwebende Symbol:
+
+* Tippe, um das Fenster zu öffnen.
+
+* Tippe und halte, um auf das Speedhack-Panel umzuschalten.
+
+ * Es kann durch Drag &amp; Drop des Symbols an eine beliebige Stelle verschoben werden.
+
+* Transparenz und verstecke Timer können in den App-Einstellungen angepasst werden.
+"</string>
+    <string name="help_exact_search">"* Genaue Suche:
+1. Wechsle zu __app_name__ von einem Spiel.
+2. Drücke die \"__search_known_value__\" Taste im \"__search__\" Fenster.
+3. Gebe die Nummer ein, welche im Spiel angegeben wird.
+4. Wähle einen passenden Datentyp oder wähle \"__type_auto__\" aus (Falls du dir nicht sicher bist), stelle falls benötigt die anderen Optionen ein und drücke \"__search__\".
+5. Wenn die Suche beendet ist, werden die Ergebnisse in der Liste angezeigt.
+6. Gehe zurück in das Spiel zurück. Nachdem sich der Wert geändert hat, wechsle zurück zu __app_name__.
+7. Suche nach dem Wert, falls er sich geändert hat.
+8. Falls zu viele Ergebnisse aufgelistet wurden, wiederhole Schritt 6.
+9. Falls zu wenige Ergebnisse aufgelistet werden, kannst du versuchen diese Werte zu verändern, speichern oder einzufrieren.
+"</string>
+    <string name="help_speedhack">"* Geschwindigkeits-Hack:
+* Tippe auf das schwebende Symbol und halte es gedrückt, um das Speedhack-Panel anzuzeigen.
+* Tippe auf die Pfeile auf beiden Seiten des Symbols, um die Spielgeschwindigkeit zu ändern.
+* Tippe und halte die aktuelle Geschwindigkeitsnummer, um die Spielgeschwindigkeit zurückzusetzen.
+* Tippe und halte das schwebende Symbol gedrückt, um das Speedhack-Panel auszublenden.
+* Liste der Geschwindigkeiten und der verwendeten Timer können in den App-Einstellungen verändert werden.
+* Wenn das Spiel nicht auf Eingaben reagiert oder der Speedhack nicht funktioniert, versuche es mit anderen grünen Timern in den __app_name__ Einstellungen.
+* Mit \"__time_jump__\" kannst du in der Zeit vorwärts springen. Wähle einfach das Menü auf der Registerkarte Suche und wähle \"__time_jump__\". Du musst angeben, wie viele Sekunden gesprungen werden soll. Der Betrag, um den gesprungen werden soll, kann ein Bruchteil sein.
+"</string>
+    <string name="help_fuzzy_search">"*Fuzzy Suche:
+1. Wechsle zu __app_name__ von einem Spiel aus.
+2. Tippe den  \"__search_unknown_value__\" Knopf in dem  \"__search__\" Feld
+3. Wähle einen passenden Datentypen  (\"__type_auto__\" falls du dir unsicher bist) und drücke auf \"__search__\". 
+4. Wenn du fertig bist mit der Suche, werden die Suchergebnisse in der Liste angezeigt.
+5. Zurück zum Spiel. Nachdem der Wert sich verändert hat (oder nicht), wechsle wieder auf __app_name__
+6. Drücke auf den  \"__search_unknown_value__\" Knopf und wähle den Typ der angibt wie der Wert sich verändert hat.
+7. Falls es zu viele Ergebnisse gibt, wiederhole Schritt 5.
+8. Falls nur noch eine Handvoll Werte übrig sind, kannst du versuchen diese zu verändern, speichern oder einzufrieren.
+
+Du kannst auch die Exakten veränderungen von den Werten machen Beim klicken von \"__more__\" Knopf.
+Dann kannst du eine Reichweite wie eine Akkurate wert Veränderung:
+190__tilde__210
+Zum Wählen der Wert Veränderung außerhalb der Reichweite von Werten, kannst du reinschreiben:
+10__tilde____tilde__4000."</string>
+    <string name="help_group_search">"* Gruppensuche:
+\u00091. Wechseln Sie __app_name__ von einem Spiel.
+\u00092. Tippen Sie auf die „__search_known_value__“ in der „__search__“ aus.
+\u00093. Geben Sie Suchanfrage für Gruppensuche.
+\u0009\u0009Format: Wert 1 __semicolon__ Wert 2 __semicolon__ ... __semicolon__ Wert N __colon__ Gruppengröße
+\u0009\u00092-__max_group__ Werte können gleichzeitig durchsucht werden. Die Standardgruppengröße beträgt 512. Die Gruppengröße zwischen 2 und 65536 sein.
+\u0009\u0009Zum Beispiel, wenn Sie 195 und 6543 suchen, sollten Sie eingeben:
+\u0009\u0009\u0009195 __semicolon__ 6543
+\u0009\u0009Natürlich können Sie die Gruppengröße (300) angeben:
+\u0009\u0009\u0009195 __semicolon__ 6543 __colon__ 300
+\u0009\u0009Sie können aber auch einen oder mehr Datentypen festgelegt:
+\u0009\u0009\u0009195__type_dword_short__ __semicolon__ 6543
+\u0009\u0009Das heißt, Sie wollen einen __type_dword__ Wert suchen, die 195 und einen __type_auto__ Wert ist, die 6543 ist.
+\u0009\u0009Mögliche Datentypen sind die gleichen, wie sie auf der Suche sind:
+\u0009\u0009\u0009__type_byte_short__ bis __type_byte__
+\u0009\u0009\u0009__type_word_short__ bis __type_word__
+\u0009\u0009\u0009__type_dword_short__ bis __type_dword__
+\u0009\u0009\u0009__type_xor_short__ bis __type_xor__
+\u0009\u0009\u0009__type_qword_short__ bis __type_qword__
+\u0009\u0009\u0009__type_float_short__ bis __type_float__
+\u0009\u0009\u0009__type_double_short__ bis __type_double__
+\u0009\u0009\u0009__type_auto_short__ bis __type_auto__
+\u0009\u0009Auch können Sie die Nummer in hex (Little-Endian) Notation schreiben:
+\u0009\u0009\u0009__hex_example____hex__ __semicolon__ 6543
+\u0009\u0009oder in umgekehrter Richtung hex (Big-Endian) Notation:
+\u0009\u0009\u0009__hex_example____rhex__ __semicolon__ 6543
+\u0009\u0009Zur Eingabe von zusätzlichen Zeichen, verwenden Sie die „__btn_hex__“ -Taste auf der internen Tastatur.
+\u0009Wählen Sie den geeigneten Datentyp, oder wählen Sie „__type_auto__“ 4. (wenn Sie sich nicht sicher sind), um die Verwendung als Standard. Andere Optionen sind nicht wichtig für diese Art der Suche. Klicken Sie auf \"__search__\".
+\u00095. Wenn Sie fertig Suche wird Sucher in der Liste angezeigt werden.
+\u00096. Zurück zum Spiel. Nachdem der Wert geändert hat, wechseln Sie in __app_name__ wieder.
+\u00097. Wiederholen Gruppensuche mit entsprechenden Änderungen vor.
+\u00098. Wenn es zu viele Ergebnisse sind, wiederholen Sie die Schritte 6 und 7.
+\u00099. Wenn einige Ergebnisse gelassen werden, können Sie versuchen, zu speichern oder einfrieren, den Wert zu ändern.
+
+\u0009Wenn Sie Werte achten wollen, um dann angeben __colon__ zweimal.
+\u0009Ohne Gruppengröße:
+\u0009\u0009195 __semicolon__ 6543 __colon____colon__
+\u0009Mit Gruppengröße:
+\u0009\u0009195 __semicolon__ 6543 __colon____colon__ 300
+
+\u0009Sie können im Bereich von Werten suchen:
+\u0009\u0009190__tilde__210 __semicolon__ 6543
+\u0009Sie können auch außerhalb des Bereichs von Werten suchen:
+\u0009\u000910__tilde____tilde__4000 __semicolon__ 6543
+"</string>
+    <string name="help_others">"* Verschiedenes/Wissenswertes:
+* Um eine neue Suche zu starten, musst du die vorherige Suchergebnisse löschen indem du den  \"__clear__\" Knopf im Menü drückst. 
+* Um auf ein anderes Spiel umzuschalten drück auf das Symbol des jetzigen Spiels in der Ecke ganz oben links. 
+* Um ein Spiel zu pausieren/starten - Tipp auf den Knopf unter dem Spielesymbol in der Ecke ganz oben links.
+* Wenn du zu einem anderen Spiel wechselst während Pausieren aktiv ist, wir das nächste mal wenn du __app_name__ öffnest, das Spiel automatisch pausiert.. 
+* Alle eingeforerenen Werte werden automatisch gespeichert. Du kannst sie unter dem passendem Feld verwalten.
+* Alle eingegebenen Werte werden hinzugefügt zur \"__history__\" Liste. Du kannst auf sie zugreifen indem du auf den Verlauf Knopf drückst."</string>
+    <string name="help_typical_usage">"* Typische Nutzungsalgorithmen: 
+
+1) Der Wert ist nicht verschlüsselt und bekannt.
+Typischer Fall währe für Geld, Sterne, Münzen, Ressourcen, etc. 
+
+Benutzte die exakte Suche. 
+
+2) Der Wert ist unbekannt und/oder verschlüsselt. 
+Typischer Fall für einen Unbekannten Wert - irgendeine Skala/Balken. Zum beispiel Leben, Mana, Nitro, etc. Die veränderung ist sichtbar, aber kein numerischer Wert ist gegeben. 
+Ein typischer Fall währe Geld, Sterne, Münzen, etc., aber falls die Suche mit einem Algorithmus nichts findet, oder die veränderung der gefundenen Werten nicht dazu bringt, dass die Nummern im Spiel sich verändern,
+
+benutzte die Fuzzy Suche. 
+
+
+3) Der Wert ist verschlüsselt (__mode_hacking__). 
+Typischer Fall für verschlüsselte Werte währe für Geld, Sterne, Münzen, etc., aber falls die Suche mit einem Algorithmus nichts findet, oder die veränderung der gefundenen Werten nicht dazu bringt, dass die Nummern im Spiel sich verändern,
+
+benutzte die exakte Suche, aber setze ein Häkchen an den \"__mode_hacking__\" Knopf. 
+Gefundene Ergebnisse können seltsame Werte haben durch die Verschlüsselung. 
+
+Algorithmus 3 ist viel schneller als 2, jedoch funktioniert es vielleicht nicht für alle Spiele. 
+
+4) Der Wert ist nicht verschlüsselt, bekannt and plaziert neben anderen bekannten Werten. 
+Typischer Fall währe für Preise in Märkten, Heldenstatistiken, etc. 
+
+Benutze die Gruppensuche für alle Nummern gleichzeitig. "</string>
+    <string name="help_hints">"* Tipps:
+
+* Nicht alle Spiele können mit __app_name__ modifiziert werden.
+Typische Liste von Beispielen:
+* Daten sind auf einem Server gespeichert (Server-Spiele)
+* das Spiel benötigt durchgehende Internetverbindung
+* Netzwerkspiel mit anderen Spielern
+* du musst beim Start des Spieles einen Server auswählen
+* du kannst manche Sachen ohne Internet nicht benutzen
+* das Spiel lädt die Daten neu, wenn du irgendwas umänderst
+* Die Werte, welche gesehen werden, müssen nicht immer die gleichen sein,  wie sie gelagert sind. Diese können anders sein. Zum Beispiel auf den Schirm werden 34 angezeigt, aber im Speicher ist es der Wert 34000.
+* Wenn du keine Werte verändern kannst - versuche die Werte umzuändern, welche damit zusammenhängen. Zum Beispiel, statt die Menge von Gold umzuändern, ändere den Preis von diesen Sachen und verkaufe diese. Oder kaufe etwas mit einem negativen Preis.
+"</string>
+    <string name="help">Hilfe</string>
+    <string name="help_floating_icon_title">Das schwebende Symbol</string>
+    <string name="help_exact_search_title">Exakte Suche</string>
+    <string name="help_speedhack_title">Geschwindigkeitshack</string>
+    <string name="help_group_search_title">Gruppensuche</string>
+    <string name="help_others_title">Andere</string>
+    <string name="help_typical_usage_title">Typische Nutzungsalgorithmen</string>
+    <string name="help_hints_title">Tipps</string>
+    <string name="value_format">Wertformat</string>
+    <string name="format_hex">Hex-Notierung (little-endian)</string>
+    <string name="format_rhex">Umgekehrte Hex-Notierung (big-endian)</string>
+    <string name="clear_selection">Lösche die Auswahl</string>
+    <string name="invert_selection">Auswahl umkehren</string>
+    <string name="select_all">Alles auswählen</string>
+    <string name="edit_selected">Ausgewählte bearbeiten</string>
+    <string name="delete_selected">Ausgewählte entfernen</string>
+    <string name="save_selected">Ausgewählte speichern</string>
+    <string name="nothing_selected">Nichts ausgewählt</string>
+    <string name="items_added">Gegenstände (__d__) wurden hinzugefügt zur gespeicherten Liste.</string>
+    <string name="no_items_for_editing">Es gibt keine Gegenstände zum bearbeiten.</string>
+    <string name="edit_info">Bearbeite __s__ als __s__</string>
+    <string name="edit_all_info">Bearbeite __d__ Adressen als __s__</string>
+    <string name="autopause">Spiel automatisch pausieren:</string>
+    <string name="empty_list">"Die gespeicherten Liste ist leer.
+Du kannst Werte aus der suche oder aus dem Speichereditor hinzufügen.
+Markiere einfach die gewünschten Elemente und wähle \"__save_selected__\" im Menü.
+Eine andere Methode - fange mit der Veränderung eines Wertes an und markiere die box \"__save_as__\".
+Ebenso werden alle eingefrorenen Werte automatisch gespeichert."</string>
+    <string name="empty_save">Die Suchliste ist leer. Es gibt nichts zum speichern.</string>
+    <string name="revert_selected">Auswahl rückgängig machen.</string>
+    <string name="nothing_to_revert">Nichts zum zurückkehren.</string>
+    <string name="revert_prompt">Kehre die ausgewählten Gegenstände (__d__) zurück?</string>
+    <string name="download">Die App kann hier runtergeladen werden:</string>
+    <string name="format_string">String darstellung</string>
+    <string name="forgot_h">"Hast du vergessen '__hex__' am Ende einzufügen?"</string>
+    <string name="time_jump">Zeitsprung</string>
+    <string name="time_jump_hint">Gebe die Nummer der Sekunden ein die du nach vorne springen willst:</string>
+    <string name="hide_from_game">"Verstecke __app_name__ vor dem Spiel:
+"</string>
+    <string name="last_stats">Statistiken deiner letzten Suche.</string>
+    <string name="memory_access">Zugriff auf Speicher:</string>
+    <string name="normal">Normal</string>
+    <string name="extended">erweitert</string>
+    <string name="experimental">experimentell</string>
+    <string name="installing">__app_name__ führt eine Neuinstallation von sich selbst mit einem zufälligen Namen durch, um eine Erkennung durch Spiele auszuschließen. Warte.</string>
+    <string name="failed_install">Die Installation der Anwendung ist fehlgeschlagen. Erneut versuchen?</string>
+    <string name="failed_uninstall">Fehler beim Deinstallieren. Nochmal versuchen?</string>
+    <string name="download_it">Download</string>
+    <string name="more">Mehr</string>
+    <string name="less">Weniger</string>
+    <string name="no_space">Auf deinem Gerät ist kein Speicherplatz mehr vorhanden</string>
+    <string name="install_cancel_prompt">__app_name__ kann entdeckt werden, falls du es nicht installierst. Willst du wirklich abbrechen?</string>
+    <string name="intercept">abfangen</string>
+    <string name="need_restart">Die Ziel-App muss neugestartet werden, um diese Änderungen anzuwenden.</string>
+    <string name="must_be_root">"Um dieses Programm auszuführen, benötigst du root-Rechte.
+
+Wie du dein Gerät rooten kannst: http://www.xda-developers.com/root/"</string>
+    <string name="skip_">Überspringen</string>
+    <string name="indent_for_the_status_bar">UI vom oberen Rand des Bildschirms einrücken :</string>
+    <string name="start_collecting_data">Fange an Daten zu sammeln</string>
+    <string name="data_collecting_in_progress">Datensammlung im Gange</string>
+    <string name="copy">Kopieren</string>
+    <string name="show_logcat">Zeige Logcat</string>
+    <string name="path_must_be">Pfad muss mindestens 2 Zeichen lang sein und mit ´/´starten.</string>
+    <string name="fix_it">Reparieren</string>
+    <string name="change_log">Änderungsprotokoll</string>
+    <string name="used_only_first">Nur die ersten __d__ Gegenstände benutzt.</string>
+    <string name="need_select_more">Du musst mindestens __d__ oder mehr Gegenstände auswählen.</string>
+    <string name="offset">Entfernung:</string>
+    <string name="result">Ergebnis:</string>
+    <string name="copy_hex_value">Kopiere den Hexadezimal Wert:</string>
+    <string name="goto_pointer">Gehe zum Zeiger/Pointer:</string>
+    <string name="offset_calculator">Entfernungsberechner</string>
+    <string name="fill_toolbar">Symbolleiste füllen:</string>
+    <string name="from_left">Von links</string>
+    <string name="from_center">Von der Mitte</string>
+    <string name="from_right">Von rechts</string>
+    <string name="unit_years_short">y</string>
+    <string name="unit_days_short">d</string>
+    <string name="unit_hours_short">h</string>
+    <string name="unit_minutes_short">min</string>
+    <string name="unit_seconds_short">Sekunde</string>
+    <string name="speed_info">__s__ in echter Zeit = __s__ in Spielzeit</string>
+    <string name="search_helper">Suchhilfe:</string>
+    <string name="off">Aus</string>
+    <string name="go_to_game">Gehe zurück zum Spiel, wenn viele Werte gefunden wurden</string>
+    <string name="go_to_game_and_restore">Gehe zurück zum Spiel, wenn viele Werte gefunden wurden und öffne den Suchmodus beim nächsten öffnen</string>
+    <string name="nothing">Nichts</string>
+    <string name="sort">Sortiere</string>
+    <string name="sort_and_remove_duplicates">Sortiere und entferne Duplikate</string>
+    <string name="help_basics_title">Grundlegende Information</string>
+    <string name="help_basics">"Nach dem Du Die Applikation gestartet hast,beim Klicken von dem \"__start__\" Knopf wird ein kleines Icon auf dein Bildschirm zu sehen sein.Dieses Icon kann frei auf Den Bildschirm verschoben werden.Kurz Tippen auf Das Icon Wird das Hauptfenster geöffnet,Lange Drauf drücken - wird Ein Fenster erscheinen Indem du die Geschwindigkeit der App ändern kannst.
+
+In dem Hauptfenster kannst du Sehen
+*Oben links - Das Icon der Ausgewählten Spiel.
+Drauf Tippen und du Kannst dort das Ausgewählte Spiel ändern
+*In der Mitte sind Lesezeichen zum navigieren durch die tabs.Drücken auf einen der Tabs wird das angemessene Fenster erscheinen.
+
+Es sind total 4 Tabs: Einstellungen, Suche, Gespeicherte Liste, Und Den Speicher-Editor.
+*Ganz Oben Rechts von dem Interface ist ein Schließ Knopf. Drücken es Und das Interface wird geschlossen, Und das Icon Erscheint wieder auf dein Bildschirm.
+*Unten rechts auf dein Bildschirm ist ein Auge,Das Interface wird dann unsichtbar,Solang du dein Finger nicht loslässt.
+*Der Rest von dem Content auf dein Bildschirm basiert auf dem Tab wo du bist.
+
+In Jeden Tab, Außer die Einstellungen, Ist ein Menü Knopf, Was hat eine Vielfalt von möglichen Aktionen. in denen du die haubt Aktionen Findest in den Tab.
+
+
+Das Einstellungstest Tab enthält eine Vielfalt von einstellungen, Hilfe,  und Informationen der Applikation, und den Beenden Button.
+
+
+Das Such Tab enthält:
+*Pause Knopf, der Name der Ausgewählten Applikation, Die Anzahl der Gefundenen Werte, und Den Aktualisierungs Knopf.
+*Darunter Ist ein Fenster mit Schnell Zugriff Icons und ein Menü Knopf. Alle Icons sind Dupliziert in dem Menü, falls Du was nicht Weißt die Bedeutung von dem Icon, Das kann einfach angeschaut werden mit Klicken auf den Menü Knopf (Ganz Rechts)
+*Darunter von diesen Icons ist Die Liste der Gefundenen Werte.
+
+Gespeicherte Liste enthält:
+*Ein Pause Knopf, der Name Der Ausgewählten Applikation und den Aktualisierungs Knopf.
+*Darunter ist diese Icons Ist die Liste der Gespeicherten Werte
+
+Speicher Editor Tab ist ähnlich wie die letzten, Aber anstatt eine Liste der Gespeicherten Werten wird hier die Speicher Daten im Ram Angezeigt.
+
+In allen drei Listen (die Such Ergebnisse, Gespeicherte Werte und der Speicher Editor), Kannst du lange drücken und die Sachen erscheinen in ein Context Menü."</string>
+    <string name="daemon_killed">"Daemon wurde von etwas getötet.
+
+Normalerweise kann es sein:
+\u00091. Alle Speichermittel oder Optimizern. Sie müssen alle Mörder deaktivieren oder __app_name__ die weiße Liste in den Einstellungen hinzuzufügen.
+\u00092. __daemon_killed_oom__
+\u00093. Die Speicherkarte wurde unmontiert, während __app_name__ auf temporäre Dateien gespeichert. Um zu verhindern, dass dies geschieht, geben Sie einen anderen Pfad zu den temporären Dateien. Zum Beispiel in dem internen Speicher."</string>
+    <string name="bad_settings">Schlechte Einstellungen</string>
+    <string name="freeze_lags">Die Option Einfrieren zusammen mit der Einstellung __hide_from_game__ kann zu Lags im Spiel führen.</string>
+    <string name="improve_translation">Diese Übersetzung wurde von einem automatischen Übersetzer erstellt. Du kannst sie verbessern indem du unseren gemeinschaftlichen Übersetzungsservice benutzt.</string>
+    <string name="freeze_interval">Einfrierintervall:</string>
+    <string name="saved_list_update_interval">Intervall für gespeicherte Listenaktualisierungen:</string>
+    <string name="milliseconds_short">ms</string>
+    <string name="disable_floating_windows">Deaktiviere die schwebenden Fenster und starte die Anwendung neu</string>
+    <string name="enable_floating_windows">Aktiviere die schwebenden Fenster und starte die Anwendung neu</string>
+    <string name="too_many">Zu viele</string>
+    <string name="help_range_search_title">Bereichsuche</string>
+    <string name="help_range_search">"* Reichweite Suche:
+\u00091. Wechseln Sie __app_name__ von einem Spiel.
+\u00092. Tippen Sie auf die „__search_known_value__“ in der „__search__“ aus.
+\u00093. eine Grenze Suchbereich eingeben, getrennt durch „__tilde__“. Zum Beispiel für Werte von 100 bis 150 zu suchen, geben Sie:
+\u0009\u0009\u0009100__tilde__150
+\u0009\u0009Um außerhalb des Bereichs zu suchen, können Sie das Zeichen „__tilde__“ zweimal angeben:
+\u0009\u0009\u0009100__tilde____tilde__150
+\u0009\u0009Alternativ können Sie das Schild „__not_equal__“ wählen und das Zeichen „__tilde__“ einmal angeben.
+\u0009\u0009Zur Eingabe von zusätzlichen Zeichen, verwenden Sie die „__btn_hex__“ -Taste auf der internen Tastatur.
+\u0009Wählen Sie den geeigneten Datentyp, oder wählen Sie „__type_auto__“ 4. (wenn Sie sich nicht sicher sind) und andere Optionen (falls erforderlich) und klicken Sie auf „__search__“.
+\u00095. Wenn Sie fertig Suche, Suchergebnisse werden in der Liste angezeigt werden.
+\u00096. Zurück zum Spiel. Nachdem der Wert geändert hat, wechseln Sie in __app_name__ wieder.
+\u00097. Wiederholen Bereich mit entsprechenden Änderungen suchen.
+\u00098. Wenn es zu viele Ergebnisse sind, wiederholen Sie die Schritte 6 und 7.
+\u00099. Wenn einige Ergebnisse gelassen werden, können Sie versuchen, zu speichern oder einfrieren, den Wert zu ändern.
+
+\u0009Die Grenzen des Bereichs, die in den Suchergebnissen. Sie können die Art der Suche „__not_equal__“ wählen Sie alle Werte zu finden, die dies nicht tun, gehören in den Bereich.
+\u0009Bei dieser Suche werden alle Werte signiert betrachtet.
+"</string>
+    <string name="does_not_support">\"__s__\" Unterstützt nicht \"__s__\"</string>
+    <string name="range_bounds_diff_types">Bereich Grenzen müssen der selbe Typ Sein.</string>
+    <string name="examples">Beispiele</string>
+    <string name="rtfm">Lies die \"Hilfe\" um mehr zu erfahren.</string>
+    <string name="icons_size">Icongröße:</string>
+    <string name="revert_and_remove">Umkehren und entfernen</string>
+    <string name="remove">Entfernen</string>
+    <string name="ordered_group_search">Geordnete Gruppensuche</string>
+    <string name="load_items">Objekte</string>
+    <string name="load_values">Werte</string>
+    <string name="load_freeze">Freeze</string>
+    <string name="video_tutorials">Video-Tutorials und Anleitungen zum Hacken</string>
+    <string name="make_copy">Mache eine Kopie</string>
+    <string name="video">Videos</string>
+    <string name="ordered">Geordnet</string>
+    <string name="toolbars">Werkzeugleisten</string>
+    <string name="saved_list">Gespeichertenliste</string>
+    <string name="memory_editor">Speicher-Editor</string>
+    <string name="restart_game">Starte das Spiel neu.</string>
+    <string name="refine">Verfeinern</string>
+    <string name="internal_storage">Interner Speicher</string>
+    <string name="external_storage">Externer Speicher</string>
+    <string name="new_search">Neue Suche</string>
+    <string name="load_saved_list">Lade die Gespeicherte Liste aus der Datei</string>
+    <string name="save_saved_list">Speichere die gesicherte Liste in die Datei</string>
+    <string name="append">Anhängen</string>
+    <string name="xor_key">XOR Schlüssel:</string>
+    <string name="only_memory">Nur In den Speicher bereich</string>
+    <string name="dump_memory">Speicher ablegen</string>
+    <string name="path">Pfad:</string>
+    <string name="dump_ended">Ablagerung beendet</string>
+    <string name="dump_failed">Ablagerung ist Fehlgeschlagen</string>
+    <string name="eperm_error_defend">Konnte nicht zu Prozess Hinzufügen (PTRACE_ATTACH); Spiel Ist Geschützt</string>
+    <string name="reset_on_exit">Zurücksetzten nach Neustart</string>
+    <string name="kill_game">Beende das Spiel</string>
+    <string name="kill_game_info">Einen Prozess zum Beenden zu erzwingen gibt ihm keine Gelegenheit zum sauberen Herunterfahren und kann zu Datenverlust oder Systeminstabilität führen.</string>
+    <string name="continue_ask">Weiter?</string>
+    <string name="copy_memory">Kopiere Speicher</string>
+    <string name="copy_from">Kopiere von:</string>
+    <string name="paste_to">Einfügen zu:</string>
+    <string name="count_bytes">Zähle Bytes:</string>
+    <string name="copy_ended">Kopieren von Speicher Beendet</string>
+    <string name="copy_failed">Kopieren von Speicher Ist Fehlgeschlagen</string>
+    <string name="help_encrypted_search_title">Suche für Verschlüsselte Werte</string>
+    <string name="help_encrypted_search">"* Suche für verschlüsselte Werte:
+1. Wechsle von einem Spiel zu __app_name__ .
+2. Tippe auf die Schaltfläche __search_known_value__ auf der Registerkarte __search__tab.
+3. Gib die Zahl ein, die im Spiel angezeigt wird.
+4. Wähle den geeigneten Datentyp oder wähle \"__type_auto__\" (wenn du dir nicht sicher bist), ggf. weitere Optionen, markiere \"__mode_hacking__\" und klicke auf \"__search__\".
+5. Nach Abschluss der Suche werden die Suchergebnisse in der Liste angezeigt.
+6. Gehe zurück zum Spiel. Nachdem sich der Wert geändert hat, wechsle wieder zu __app_name__.
+7. Suche nach dem Wert, der sich geändert hat. Das Kontrollkästchen \"__mode_hacking__\" muss aktiviert sein.
+8. 8. Wenn es zu viele Ergebnisse gibt, fahre mit Schritt 6 fort.
+9. Wenn nur noch wenige Ergebnisse vorhanden sind, kannst versuchen, den Wert zu ändern, zu speichern oder einzufrieren.
+"</string>
+    <string name="help_faq_title">FAQ</string>
+    <string name="help_faq_1_q">Warum kann ich keinen Wert eingeben, der größer als 99 oder 60.000 ist?</string>
+    <string name="help_faq_1_a">Du hast den Wert von __type_byte__ oder __type_word__ gefunden. Suche nach __type_dword__, um größere Werte einzugeben.</string>
+    <string name="help_faq_2_q">Wie sucht man nach dezimalen (__type_float__) Werten, ohne den dezimalen Teil des Wertes?</string>
+    <string name="help_faq_2_a">Verwende die Datentyp- oder Bereichssuche \"__type_auto__\". Zum Beispiel kannst du für 11.345 nach \"10__tilde__12\" suchen.</string>
+    <string name="help_faq_3_q">Ich habe den Wert gefunden und ihn geändert, aber im Spiel bewirkt diese Änderung nichts. Ich versuche nur, sie zu nutzen, aber alles kommt zurück. Was mache ich falsch?</string>
+    <string name="help_faq_3_a">"In einigen Spielen sind die Werte geschützt oder verschlüsselt. Bevor der Wert angezeigt wird, wird der Wert in eine andere Variable entschlüsselt. Du hast ihn geändert.
+Da dieser Wert nur zur Anzeige verwendet wird, hat er keinen Einfluss auf die Spielmechanik. Um nicht den angezeigten Wert, sondern den tatsächlichen Wert zu finden, verwende die Suche nach dem verschlüsselten Wert oder die unscharfe Suche.
+Manchmal wird der Wert auf dem Server gespeichert und jedes Mal synchronisiert. In diesem Fall kann er nicht gehackt werden. Wenn das Spiel ohne das Internet nicht funktioniert und die bisherigen Methoden nicht geholfen haben - ist das höchstwahrscheinlich der Fall."</string>
+    <string name="help_faq_4_q">Finde du im Spiel den Wert X. Oder hast du ihn gefunden, aber beim verändern tut es sich nicht verändern. Oder es findet es, aber nach dem Verändern stürtzt das Spiel ab. Wie weiß ich dann was das Problem ist, ist der Wert geschützt im Spiel oder mit __app_name__?</string>
+    <string name="help_faq_4_a">"Benutze ein simples Programm, das definitiv keinen Anti-Cheat hat und versuche es. Ich bevorzuge \"Hill Climb Racing\". Dieses Spiel ist simple, unkompliziert und hat keinen Schutz. Probiere, das Geld in der exakten Suche mit Zahlen zu hacken. Und die fuzzy Suche, wenn der Wert sich verändert.
+
+Wenn das Hacken in diesem einfachen Spiel funktioniert, dann ist es in diesem X-Spiel, das Sie zu hacken versucht haben.  Falls nicht, dann liegt möglicherweise das Problem in __app_name__. Da gibts natürlich Auch eine einfachere Methode downloaden dir mal die App \"Tap Counter\" herunter und führ sie aus. Versuch dort die Zahlen zu hacken. Das wäre sehr leicht werden. Wenn nicht, dann ist das Problem in __app_name__ oder die Einstellungen von __app_name__. Versuch mal eine andere Version von __app_name__. Probier bitte auch nach dem Error im Forum zu suchen oder im Internet. in extremen Fällen, frag dich durchs forum."</string>
+    <string name="help_faq_5_q">Wie sucht man nach der Zeit?</string>
+    <string name="help_faq_5_a">"- Versuche es nach der anzahl an Tagen, Stunden, Minuten oder Sekunden zu suchen. Der Datentyp kann entweder sein __type_byte__, __type_word__, __type_dword__ oder __type_qword__. oder du kannst aber auch __type_auto__ nehmen.
+- Versuche es, in Milli- oder Nanosekunden zu suchen. Der Datentyp wär __type_dword__ oder __type_qword__.
+- Versuche es, das Enddatum als Unix-Zeitstempel zu suchen. benutze dabei __type_dword__. Dies wird als Unterschied zwischen dem aktuellen und dem gespeicherten Unix-Zeitstempel angegeben. Suche mit der Bereichssuche. Wenn du beispielsweise 30 Tage geschrieben sind, suchst du nach 30 +/- 1 Tag ab dem aktuellen Unix-Zeitstempel. Der aktuelle Unix-Zeitstempel kann problemlos im Internet eingesehen werden."</string>
+    <string name="help_faq_6_q">Ist es möglich, Online-Spiele zu hacken?</string>
+    <string name="help_faq_6_a">Ist es möglich die Daten zu hacken die auf dem Client gespeichert sind? Alles was auf dem Server gespeichert ist kann nicht verändert werden. In einpaar Spielen kann es andere wege geben. Sogar in Einzelspieler Spielen, kann es sein das einpaar Daten auf dem Server sind und einpaar nicht.</string>
+    <string name="help_faq_7_q">Wo funktioniert der Speedhack?</string>
+    <string name="help_faq_7_a">"Der Speedhack könnte vielleicht nicht auf x86 Geräte / emulatoren für Spiele die nicht die x86 Biblitotheken haben.
+Und für eine ART Umgebung wird es nicht funktionieren mit Java Timer. Wenn das spiel benutzt sie und du hast eine ART Umgebung (Normalerweise Andriod 5 und höher), dann wird der speedhack nicht funktionieren."</string>
+    <string name="help_faq_8_q">__app_name__ als ganzes arbeitet für mich, aber bei manchen spielen erhalte ich ein PTRACE_ATTACH fehler. Warum und was kann ich dagegen tun?</string>
+    <string name="help_faq_8_a">Dieses spiel ist ausgerüstet mit einem Schutz gegen debuggen von dem typ SecNeo Schutz. __app_name__ kann nicht diesen Schutz umgehen. Aus diesem grund kannst du dieses Spiel nicht hacken.</string>
+    <string name="help_faq_9_q">Warum hat die Anwendung einen so seltsamen Paketnamen? Warum wird die Anwendung nicht aktualisiert, sondern jedes Mal separat installiert? Warum hat jede Version einen anderen Paketnamen?</string>
+    <string name="help_faq_9_a">Zum schützen vor der detektion von anti-cheats vom Packetnamen.</string>
+    <string name="help_faq_10_q">In einigen Spielen reagieren sie beim Ändern der Geschwindigkeit (Speedhack) nicht mehr auf Klicks. Ist das ein Spielschutz oder Programmfehler?</string>
+    <string name="help_faq_10_a">Dies bedeutet, dass Ihr Speedhacking die Timer der Eingabewarteschlange abfängt und sie töten. In der Liste der Timer müssen grüne Häkchen ausgewählt werden (In den einstellungen von __app_name__) so das, das hier nicht passiert.</string>
+    <string name="help_faq_11_q">Warum wird eine durch Kommas getrennte Error liste ausgegeben?</string>
+    <string name="help_faq_11_a">Weil der Begrenzer von Zahlen ein Semikolon ist (\"__semicolon__\")</string>
+    <string name="help_faq_12_q">Wie kann man mehrere suchen gleichzeitig machen?</string>
+    <string name="help_faq_12_a">Momentan lässt die Anwendung das nicht zu, aber Sie können die Anwendung mehrmals installieren und die Kopien zusammen ausführen, wenn genügend Arbeitsspeicher und Speicherplatz vorhanden sind.</string>
+    <string name="help_faq_13_q">Muss ich die App aktualisieren wenn es nicht signifikanntes in den änderungen gibt?</string>
+    <string name="help_faq_13_a">Es ist empfohlen. Support ist aber nur für die Aktuelle Version verfügbar.</string>
+    <string name="help_faq_14_q">Was sind die Symbole \"!\" und \"#\", vor dem Prozessnamen?</string>
+    <string name="help_faq_14_a">"Dies markiert die zurückverfolgten Prozesse.
+\"#\" - vor dem Prozess bedeutet, dass der Prozess von einem anderen Prozess verfolgt wird.
+\"!\" - vor dem Prozess bedeutet, dass dieser Prozess durch einen anderen Prozess zurückverfolgt wird.
+Die Ablaufverfolgung ist typisch für das Debugging oder Hacking. Sie wird auch bei einigen Schutzmaßnahmen verwendet. Typischerweise ist ein Prozess mit einem \"#\"-Zeichen ein geschützter Prozess."</string>
+    <string name="help_faq_15_q">Warum führt die Anwendung nach der Standardinstallation auch eine eigene Installation durch, bei der Root-Rechte angefordert werden?</string>
+    <string name="help_faq_15_a">__app_name__ Installiert sich mit zufälligen Daten/Namen neu, um die Erkennung durch Anti-Cheats zu verhindern. Root-Rechte werden für die \"Unischtbare\" Installation und Deinstallation benötigt. In diesem Fall musst du alle Anforderungen des Systems zur Installation von Anwendungen manuell bestätigen.</string>
+    <string name="help_faq_16_q">Was ist __pkg__? Ist es ein Trojaner oder ein virus? Ist es sicher es Root-Rechte zu geben?</string>
+    <string name="help_faq_16_a">Das ist der Basis name von dem __app_name__ packet. Es Root-Rechte für __app_name__ zu geben ist sicher wenn es von Offiziellen Quellen gedownloaded wurde.</string>
+    <string name="help_faq_17_q">Warum wird __app_name__ in der Liste der installierten Anwendungen als zufälliger Zeichensatz benannt? Warum verlangt dieser Zeichensatz Root-Zugriff? Warum wird beim Start von __app_name__ geschrieben, dass das Root nicht von __app_name__, sondern von einer Art Abrakadabra bereitgestellt wird?</string>
+    <string name="help_faq_17_a">Weil __app_name__ versucht es sich selber zu verstecken das, ein anti-cheat es nicht findet.</string>
+    <string name="help_faq_18_q">Warum wird der __app_name__ der neuesten Versionen manchmal von Anti-Cheats erkannt und manchmal nicht?</string>
+    <string name="help_faq_18_a">Weil __app_name__ verschiedene Methoden benutzt, um sich vor der Entdeckung durch Anti-Cheats zu verbergen. Dazu gehören ein zufälliger Paketname und eine Anwendung. Bei jeder Installation sind sie anders. Versuche eine Neuinstallation von __app_name__, um sie neu zu generieren. __app_name__ wird womöglich von diesem Anti-Cheat danach nicht mehr erkannt.</string>
+    <string name="help_faq_19_q">Warum ist mein Spiel nicht in der App-Liste?</string>
+    <string name="help_faq_19_a">Weil das ist die Liste von den Ausgefürhten Apps, und deine App läuft vielleicht nicht. Start sie, und wähle es wieder aus in __app_name__.</string>
+    <string name="help_faq_20_q">Warum funktionieren apps nicht merh mit dem speedhack auf Andriod 5 und höher?</string>
+    <string name="help_faq_20_a">Weil Speedhack für Spiele mit nativen Bibliotheken konzipiert ist. Deine Anwendung ist es nicht. Und da Android seit Version 5 die Umgebung von ART anstelle von Dalvik verwendet, ist es unmöglich die Java-Timer abzufangen. Tue nichs. Die Situation wird sich auch in Zukunft nicht ändern.</string>
+    <string name="help_faq_21_q">Ich habe unter Android 4 ein anderes Speedhack/Hacking-Tool verwendet und alles hat funktioniert. Jetzt verwende ich __app_name__ unter Android 5 und höher, aber diese Methoden funktionieren nicht. Warum?</string>
+    <string name="help_faq_21_a">"Da viele Dinge haben sich geändert und Ihr Nutzen würde nicht einfach so arbeiten. Erstellen Sie keine Illusionen, dass dieser __app_name__ so schlecht ist, aber wenn es das Dienstprogramm war, dann uh! Das gibt es nicht.
+Um dies zu testen, installieren __app_name__ auf Android 4, und wiederholen Sie alle die gleichen Aktionen wie in diesem Programm. Als Ergebnis, werden Sie Erfolg haben. Aber dies bedeutet nicht, dass diese gleichen Methoden auf Android funktionieren 5 und höher.
+Diese Tatsache wird experimentell bestätigt, wiederholt."</string>
+    <string name="help_faq_22_q">Ich schaue ein video / screenshot und es sind andere daten im Arbeitsspeicher editor. Warum?</string>
+    <string name="help_faq_22_a">Da das Video / Screenshot hat ein anderes Ausgabeformat. Im Speicher-Editor, drücken Sie das Menü - wählen Sie „__value_format__“ und konfigurieren Sie den Ausgang, wie es sollte.</string>
+    <string name="help_faq_23_q">Wenn der Wert ist eingefroren, das Spiel beginnt sich zu Zerstören oder zu laggen. Warum?</string>
+    <string name="help_faq_23_a">Weil du musst die __app_name__ Einstellungen die Option zu \"__hide_from_game__\" aktiviert. Schalte es aus.</string>
+    <string name="help_faq_24_q">Wie kann ich den Update Checker deaktivieren wenn neue versionen rauskommen wenn ich die Appt starte?</string>
+    <string name="help_faq_24_a">Niemals.</string>
+    <string name="help_faq_25_q">Wie die Zeit zurück in der Anwendung zurückspulen? Ist es möglich, eine Zeit, springt nicht nach vorne zu machen, aber nach hinten?</string>
+    <string name="help_faq_25_a">Auf keinen Fall. Du kannst nicht. Zeit muss immer sonst das Spiel erhöhen abstürzen kann. Doch in den neuesten Versionen haben wir die Möglichkeit einer negativen Zeitsprung. Das Ergebnis kann ein Aufhängen des Spiels oder den Verlust von Daten. Sei gewarnt.</string>
+    <string name="help_faq_26_q">Ich habe das Symbol auf und verschwand. Wie kann ich es zurück?</string>
+    <string name="help_faq_26_a">Das Symbol wird transparent, aber man kann auf sie noch klicken. Klicken Sie auf, wo es war, dann ändern Sie die Einstellung über die Schnittstelle.</string>
+    <string name="help_faq_27_q">Wie kann ich nach einem Wert suchen, wenn es in Runden mit dem Spiel angezeigt wird? Zum Beispiel 1.85M.</string>
+    <string name="help_faq_27_a">Suchen Sie den Suchbereich. Die Bereichsgrenzen sind abhängig von den Rundungsregeln. Zum Beispiel: „1845000__tilde__1854999“ für Standardrundung.</string>
+    <string name="help_faq_28_q">Wie kann ich für einen Prozentwert suchen? Zum Beispiel 123__percent__.</string>
+    <string name="help_faq_28_a">Es ist abhängig von der Implementierung. Für jedes Spiel kann alles anders sein. Zum Beispiel 123__percent__. Es kann __type_float__ oder __type_double__ mit einem beliebigen Wert sein. Wie 1,23 oder 123,0. Oder es kann Integer-Typ sein: __type_byte__, __type_word__, __type_dword__. Zum Beispiel 123 oder 12300 Am Ausgang kann es auf einem bestimmten Anzahl unterteilt werden. 100 oder 345 oder irgendetwas anderes. Für jedes Spiel kann es anders sein. Sie können die offensichtlichsten Fälle versuchen. Für 123__percent__ kann es 1,23 oder 123 Typ sein - __type_auto__. Wenn Sie Glück haben, kann es sein, was Sie brauchen.</string>
+    <string name="help_faq_29_q">Was passiert, wenn das Spiel erkennt __app_name__?</string>
+    <string name="help_faq_29_a">"Versuchen Sie, die folgenden Optionen (einzeln oder in beliebiger Kombination):
+\u0009- Aktivieren Sie die „__hide_from_game__“ Optionen. In der Regel genug, um 2, 3 und 4 Optionen.
+\u0009- Do die Neuinstallation __app_name__ mit einem zufälligen Namen nicht abbrechen. Dies ist das erste Mal getan __app_name__ außerhalb des virtuellen Raumes führen.
+\u0009- Verwenden Sie XPrivacy oder ähnliche Werkzeuge. Schauen Sie im Internet, wie dies zu tun.
+\u0009- Wenn Sie root Rechte, Nutzung Wurzel aus dem virtuellen Raum mit versteckter Installation von Anwendungen. Lesen Sie mehr in der Kontexthilfe für die „__vspace_root__“ -Einstellung."</string>
+    <string name="work_without_selinux">Wechseln Sie zu arbeiten, ohne __selinux__ und starten Sie die App</string>
+    <string name="work_with_selinux">Wechseln Sie zu der Arbeit mit __selinux__, und starten Sie die App</string>
+    <string name="file">Datei:</string>
+    <string name="file_not_found">Datei nicht gefunden:</string>
+    <string name="export_selected">Export ausgewählt</string>
+    <string name="failed_list_dir">Fehlgeschlagen Dateiliste zu lesen.</string>
+    <string name="change_float_type">Wählen Sie die Art von Floating-Fenster</string>
+    <string name="reset_float_type">Setzen Sie die Art von schwebenden Fenstern</string>
+    <string name="mask">Maske:</string>
+    <string name="mask_request">Geben Sie eine Adresse suchen</string>
+    <string name="help_mask_search_title">Adresse (Maske) suchen</string>
+    <string name="help_mask_search">"* Adresse (Maske) suchen:
+\u0009Sie können nach Adressen mit Maske suchen oder filtern.
+
+\u0009Ein typisches Beispiel ist die Suche nach Adressen, die Ende mit einem bekannten Wert. Zum Beispiel auf „12E“.
+
+\u0009Die Suchparameter sind die Adresse und Maske.
+\u0009In der Adresse können Platzhalter verwendet werden ( „__question__“). Dieses Symbol bedeutet, dass es jedes Zeichen von „0“ bis „F“ sein kann.
+\u0009Eine zusätzliche Maske wird von der Adresse gebildet, so dass die führenden Nullen wichtig sind. Somit ist die Suche nach „0120“ und die Suche nach „120“ nicht das Gleiche.
+\u0009Im ersten Fall wird gefunden werden: „00010120“, „00020120“, „00030120“ und so weiter. Während in den zweiten: \"00001120\", \"00002120\", \"00003120\" und so weiter.
+
+\u0009Sie können durch die Maske angezeigt sowohl für die Gleichstellung und für die Ungleichheit suchen. Die zweite Option kann für die Beseitigung unnötiger Werte nützlich sein.
+
+\u0009Die Adresse und die Maske sind im Hexadezimalsystem und ohne die Buchstaben „__hex__“ am Ende eingegeben.
+\u0009Die Maske von der Adresse schneidet mit der Maske erhalten, die von Ihnen eingegeben wurde. Dies ist die resultierende Suchmaske.
+
+\u0009Die folgenden Beispiele sind gleichwertig, da die resultierende Maske hat gleich - „FF0“
+__mask_example__
+"</string>
+    <string name="use_sound_effects">Verwenden Soundeffekte:</string>
+    <string name="from_range">Von:</string>
+    <string name="to_range">Zu:</string>
+    <string name="resultant_mask">Resultierende Maske:</string>
+    <string name="show_time_jump_panel">Zeitsprung-Panel:</string>
+    <string name="use_notification">Verwenden Benachrichtigung:</string>
+    <string name="show_gg">zeigen __app_name__</string>
+    <string name="hide_gg">ausblenden __app_name__</string>
+    <string name="time_remaining">Verbleibende Zeit:</string>
+    <string name="help_fill_title">Fill (Zuwachs) Werte</string>
+    <string name="help_fill">"* Fill (Zuwachs) Werte:
+\u0009Oft kommt es vor, dass zu viele Werte gefunden werden, aber sie können nicht aus dem Spiel geändert werden.
+\u0009In diesem Fall kommt die Füllung zur Rettung.
+
+\u0009Ein typisches Beispiel für den Einsatz ist die Suche nach dem Preis eines Artikels mit anschließender Ersetzung durch eine negative.
+
+\u0009Die gewünschten Produkte 1..
+\u00092. Wählen Sie \"__edit_selected__\".
+\u00093. Drücken Sie die Taste „__more__“ „__increments__“ Feld angezeigt werden, wenn dieses Feld nicht vorhanden ist.
+\u00094. Geben Sie in „__increments__“ Feld geben Sie den Inkrementwert. Normalerweise sind diese 1. und klicken Sie auf „__yes__“.
+\u00095. Die ausgewählten Elemente werden neue Werte erhalten.
+\u00096. Gehen Sie auf das Spiel und sehen, wie der gewünschte Wert geändert hat, über Spielschirme bewegen.
+7. Wenn der Wert nicht geändert hat, dann gewünscht das Element nicht unter ausgewählt ist. Zurück zum __app_name__ und mit den „__delete_selected__“ -> „__revert_and_remove__“, entfernen Sie die ausgewählten Elemente, so dass sie den vorherigen Wert zurück. Jetzt können Sie alles von Anfang an mit anderen Elementen versuchen, wenn es welche gibt.
+\u00098. Wenn sich der Wert geändert hat, dann ist das gewünschte Element eines der ausgewählten Elemente. Denken Sie daran, den neuen Wert und zurück zu __app_name__.
+\u00099. In der Liste der ausgewählten Elemente, für den gewünschten Wert suchen. Abzuwählen es. Löschen Sie alle anderen Werte „__delete_selected__“ mit -> „__revert_and_remove__“, so dass sie den vorherigen Wert zurück.
+\u000910. Ändern Sie den gewünschten Elementwert, wie Sie benötigen.
+
+\u0009Typische Fehler sind abziehbar ohne revert. Danach kann das Spiel zum Absturz bringen.
+
+\u0009Wenn Sie eine Menge von Werten, versucht Füllung in kleinen Portionen zu vermeiden Abstürze zu tun.
+"</string>
+    <string name="help_hint_1">* Wenn Sie immer die gewünschten Werte in der gleichen Region (Buchstaben am Ende der Elemente in der Ergebnisliste) finden, können Sie nur diese Bereiche für eine schnellere Suche wählen.</string>
+    <string name="help_faq_30_q">__app_name__ sucht nach Werten sehr langsam und für eine lange Zeit im Android-Emulator auf dem PC.</string>
+    <string name="help_faq_30_a">"Wahrscheinlich haben Sie die Virtualisierung deaktiviert im PC-BIOS. Mach es an.
+__app_name__ verläuft innerhalb des Emulators, so dass die Geschwindigkeit davon hängt von der Geschwindigkeit des Emulators arbeiten.
+Wenn die Virtualisierung aktiviert ist, aber die Geschwindigkeit ist immer noch niedrig ist, überprüfen Sie die Einstellungen Ihres Emulator oder einen anderen Emulator verwenden.
+Sie können auch das ein anderes Werkzeug verwenden - Cheatengine für PC - es wird die Suche schneller und geben Ihnen viele Features, die nie in __app_name__ wird sind."</string>
+    <string name="help_speed_up_title">Wie beschleunigen Suche</string>
+    <string name="help_speed_up">"* Wie die Suche beschleunigt werden kann:
+
+0. Wenn du einen Android-Emulator auf einem PC verwenden (BlueStacks, Droid4X, Andy, NOX, Memu, AMIDuOS, Windroy, AVD, Genymotion, Koplayer, Leapdroid usw.), überprüfe, ob die Virtualisierung (VT-Technik, Vanderpool-Technik, Virtualisierungstechnik, VTx, VT-d, VMX, Virtuelle Technik, Intel-VT, AMD-V, SVM, IOMMU) im PC-BIOS aktiviert ist.
+
+1. Wenn du über viel RAM verfügst, dann kannst du die Daten dort speichern. Dies beschleunigt die Suche erheblich. Setzen Sie die Einstellung \"__data_in_ram__\" auf \"__yes__\". In einem Android-Emulator auf einem PC kann dies die Suche verlangsamen.
+
+2. Wenn du wenig RAM hast, werden die Daten auf der Speicherkarte gespeichert. Verwende eine Speicherkarte mit einer hohen Schreib- und Lesegeschwindigkeit.
+
+3. Du kannst auch die Speicherung der Daten im internen Speicher des Geräts angeben, wenn dieser schneller als die Speicherkarte ist. Setze die Einstellung \"__set_path__\" auf den gewünschten Pfad.
+
+4. Wähle bei der Suche nur die gewünschten Regionen aus. Vermeide langsame (\"__slow__\") und gefährliche (\"__dangerous__\") Regionen.
+
+5. Du kannst auch die Grenzen des Speicherbereichs für die Suche angeben, wenn du diese kennst. Klicke im Suchdialog auf die Schaltfläche \"__more__\" und gib die Grenzen ein.
+
+6. Suche nur nach den gewünschten Datentypen. Der Datentyp \"__type_auto__\" ist langsam.
+
+7. Deaktiviere alle möglichen \"__hide_from_game__\"-Optionen.
+
+8. Versuche, \"__experimental__\" oder \"__extended__\" in \"__memory_access__\" zu verwenden. Diese Optionen können zu einer instabilen Arbeit führen. "</string>
+    <string name="help_faq_31_q">Nach einer Weile verschwindet das Symbol __app_name__ .</string>
+    <string name="help_faq_31_a">"Versuchen Sie an der Stelle klicken, wo das Symbol war sein. Wenn diese offene Schnittstelle __app_name__, dann wird das Symbol in den Einstellungen versteckt oder Firmware hat Fehler mit Display das Symbol.
+Wenn die Schnittstelle nicht geöffnet wird, bedeutet dies, dass __app_name__ aus dem Speicher entfernt wurde.
+Mögliche Gründe:
+
+\u00091. Es ist nicht genügend RAM auf dem Gerät - __app_name__ vom System getötet. Versuchen Sie verbrauchen weniger RAM. In __app_name__ Einstellungen, nicht die Speicherung von Daten im RAM angeben, keine große Anzahl der angezeigten Ergebnisse, Entlade „extra“ Anwendungen aus dem RAM, verwenden Sie „Leichtgewichtler“ Analoga von Anwendungen festlegen, die nicht entladen werden kann (zum Beispiel Launcher ). In besonders schlimmen Fällen, starten Sie das Gerät vor dem Lauf __app_name__ mit dem Spiel. Fast alle der Firmware hat immer Leck RAM. Mehr Zeit nach dem Neustart - die weniger verfügbaren RAM.
+
+\u00092. Sie haben einen Prozess Killer, die __app_name__ tötet.
+
+Deaktivieren Sie die Mörder oder fügen __app_name__ seine Ausnahmen.
+Killer sind auch alle Arten von „Optimizern“ und „Verbesserer“ RAM.
+Im Allgemeinen finden Sie in der Beschreibung für die Software, wenn Sie nicht wissen, ist, dass der Killer oder nicht.
+
+Für FlyMe: __app_name__ aus irgendeinem Grunde nach einigen Minuten Arbeit entladen - Sie brauchen Arbeit im Hintergrund für __app_name__ und Ihren Root-Manager (in der Regel SuperSu) zu ermöglichen.
+
+Sie können auch versuchen, „__use_notification__“ in __app_name__ Einstellungen zu aktivieren. Manchmal verhindern __app_name__ töten."</string>
+    <string name="quick_start_title">Schnellstart</string>
+    <string name="prevent_unload">Entladen verhindern:</string>
+    <string name="hot_key">Hotkey:</string>
+    <string name="hide">Ausblenden</string>
+    <string name="execute_script">Skript ausführen</string>
+    <string name="execute">Ausführen</string>
+    <string name="another_script">Ein anderes Skript wird gerade ausgeführt. Abbrechen?</string>
+    <string name="interrupt">Abbrechen</string>
+    <string name="script">Skript:</string>
+    <string name="script_ended">Skript beendet:</string>
+    <string name="paused">Das Spiel wurde pausiert</string>
+    <string name="by_pause_button">mit der Pause-Taste</string>
+    <string name="by_option">"mit der Option '__s__'"</string>
+    <string name="new_search_short">Neu</string>
+    <string name="speedhack_loading">Speedhack wird geladen...</string>
+    <string name="speedhack_loaded">Speedhack wurde geladen.</string>
+    <string name="busy_dialog_fail">Der Fortschrittsdialog kann nicht angezeigt werden.</string>
+    <string name="site">Webseite</string>
+    <string name="help_xor_search_title">XOR-Suche</string>
+    <string name="help_xor_search">"* XOR Suche:
+\u0009\u0009Wenn Sie wissen, dass der Wert, den Sie brauchen, ist mit einem XOR-Schlüssel verschlüsseln, immer im gleichen Abstand von dem Wert ist, dann können Sie diesen Modus verwenden, indem Sie den entschlüsselten Wert zu suchen.
+\u00091. Wechseln Sie __app_name__ von einem Spiel.
+\u00092. Tippen Sie auf die „__search_known_value__“ in der „__search__“ aus.
+\u00093. Geben Sie nach „__mode_xor__“ eine Suchnummer und XOR Schlüssel Abstand, getrennt. Zum Beispiel 8 für Wert 100 mit einem Schlüssel auf Distanz zu suchen, geben Sie:
+\u0009\u0009\u0009100__mode_xor__8
+\u0009\u0009Zur Eingabe von zusätzlichen Zeichen, verwenden Sie die „__btn_hex__“ -Taste auf der internen Tastatur.
+\u0009Wählen Sie den geeigneten Datentyp, oder wählen Sie „__type_auto__“ 4. (wenn Sie sich nicht sicher sind) und andere Optionen (falls erforderlich) und klicken Sie auf „__search__“.
+\u00095. Wenn Sie fertig Suche, Suchergebnisse werden in der Liste angezeigt werden.
+\u00096. Zurück zum Spiel. Nachdem der Wert geändert hat, wechseln Sie in __app_name__ wieder.
+\u00097. Wiederholen XOR Suche mit entsprechenden Änderungen vor.
+\u00098. Wenn es zu viele Ergebnisse sind, wiederholen Sie die Schritte 6 und 7.
+\u00099. Wenn einige Ergebnisse gelassen werden, können Sie versuchen, zu speichern oder einfrieren, den Wert zu ändern.
+
+\u0009Sie können mit Suche verwendet XOR suchen. Zum Beispiel „100__tilde__150__mode_xor__8“.
+\u0009Normalerweise XOR-Suche ist langsamer als üblich Nummer suchen.
+\u0009Dieser Modus ist nicht in der Gruppe suchen oder in der verschlüsselten Suche unterstützt.
+\u0009Die Entfernung muss 1-4096 inklusive sein.
+\u0009Sie können Eingabe Abstand mit __hex__ Symbol Hexdarstellung am Ende: „100__tilde__150__mode_xor__10h“.
+Die Entfernung müssen Werte align respektieren. Zum Beispiel muss dword an 4-Byte-Grenze ausgerichtet werden. Dieser Mittelwert Suche „40__mode_xor__7“ ist nutzlos für dword weil 7 nicht auf 4 teilen können.
+\u0009Kombinieren Sie diesen Modus mit einem anderen können Probleme auf der schlechten Firmware verursachen. wenn Sie gewohnt Suche zum Beispiel machen und danach refine im XOR-Modus kann dies hängen verursachen oder das Gerät neu starten. Das darf nicht passieren, wenn die erste Suche in diesem Modus.
+\u0009Eine Fuzzy-Suche nach diesem Modus wird nicht unterstützt. Sie können es aber Fuzzy-Arbeit wie gewohnt kombinieren und nicht respektieren Ihren XOR-Schlüssel mit Abstand.
+\u0009Zeichen für Werte eingehalten wird. Es ist mittler Sie Wert sind nicht gleich, größer, kleiner und so weiter.
+\u0009Bei dieser Suche werden alle Werte signiert betrachtet.
+"</string>
+    <string name="help_faq_32_q">Was ist der Unterschied mit der HW / SW-Versionen? Und welche soll ich verwenden?</string>
+    <string name="try_latest">Vielleicht ist dieses Skript muss die neueste Version von __app_name__. Versuchen Sie Update auf die neueste Version.</string>
+    <string name="help_string_search_title">Text (string, HEX, AOB) Suche</string>
+    <string name="download_scripts">Download-Skripten</string>
+    <string name="hide_icons">Ausblenden Launcher Icons</string>
+    <string name="select_mode">Modus auswählen</string>
+    <string name="mode_string">Text</string>
+    <string name="mode_mixed">Gemischt</string>
+    <string name="string_search_prompt">Geben Sie einen Text zu suchen, bis zu __d__ Bytes lang. Zum Beispiel</string>
+    <string name="string_empty">Du musst einen Text eingeben.</string>
+    <string name="string_not_found">Der Text \"__s__\" wurde nicht gefunden.</string>
+    <string name="string_found">Gefunden __d__ Treffer für den Text „__s__“.</string>
+    <string name="string_replace">Möchtest du sie ersetzen?</string>
+    <string name="string_replace_prompt">Geben Sie den Text „__s__“ zu ersetzen. Die Länge ist nicht mehr als __d__ Bytes.</string>
+    <string name="string_replaced">Ersetzt \"__s__\" auf \"__s__\" in __d__ Orten.</string>
+    <string name="need_allow_background">Auf dieser Firmware, müssen Sie arbeiten __app_name__ im Hintergrund ermöglichen, in den Systemeinstellungen.</string>
+    <string name="calculate_offset_xor">Berechnen versetzt, XOR</string>
+    <string name="select_copy_item">Wählen Sie ein Element zu kopieren:</string>
+    <string name="landscape">Landschaft</string>
+    <string name="portrait">Porträt</string>
+    <string name="toolbar_buttons">Symbolleistenelemente</string>
+    <string name="need_update_to">Sie benötigen eine neuere Version von __app_name__ dieses Skript auszuführen. Mindestens Version __s__. Sie haben Version __s__.</string>
+    <string name="default_mark">Standard</string>
+    <string name="default_">Standard:</string>
+    <string name="reset_button">Zurücksetzen</string>
+    <string name="help_hex_colors_title">Farben im Speicher-Editor</string>
+    <string name="help_hex_colors">"* __help_hex_colors_title__:
+Wenn die hexadezimale Darstellung ist nicht weiß, sondern Farbe, dann höchstwahrscheinlich in diesem Wert ist der Zeiger. Die Farbe zeigt an, welche Art von Speicher Dieser Zeiger verweist auf.
+This can be __executable__ memory, __writable__ or __read_only__. In rare cases, it can be __writable_and_executable__ memory."</string>
+    <string name="executable">ausführbar</string>
+    <string name="writable">schreibbar</string>
+    <string name="read_only">nur Lesen</string>
+    <string name="writable_and_executable">Schreib- und Ausführbar</string>
+    <string name="help_extract">Extrahieren Sie die Hilfe</string>
+    <string name="help_extract_done">Die Hilfe wird extrahiert, um __s__</string>
+    <string name="help_extract_fail">Ein Fehler ist aufgetreten, während die Hilfe zu extrahieren:</string>
+    <string name="try_arm_version">Versuchen Sie, die Version von __app_name__ mit Unterstützung für ältere ARM-Prozessoren:</string>
+    <string name="back">Zurück</string>
+    <string name="forward">Vorwärts</string>
+    <string name="no_previous">Keine vorherigen Einträge</string>
+    <string name="no_next">Keine nächsten Einträge</string>
+    <string name="from_item">Aus dem Artikel:</string>
+    <string name="from_context">Aus dem Kontextmenü:</string>
+    <string name="from_boundary">Von der Grenze</string>
+    <string name="from_goto">Rufen Sie goto</string>
+    <string name="from_calc">Aus dem Offset-Rechner:</string>
+    <string name="help_add_to_value_title">Option \"__add_not_replace__\"</string>
+    <string name="help_add_to_value">"* __help_add_to_value_title__:
+Wenn diese Option aktiviert ist, wird der eingegebene Wert an den vorhandenen Wert hinzugefügt werden, und es nicht ersetzen. Zum Beispiel hat das Element einen Wert von 5, und von Ihnen eingegebenen 7, im Wertefeld. Wenn diese Option aktiviert ist, erhalten das Element einen neuen Wert von 5 + 7, die gleich 12. Wenn nicht aktiviert ist, dann 7.
+Sie können sowohl positive als auch negative Werte eingeben.
+Diese Option ist mit dem Einfrieren des Wertes unvereinbar."</string>
+    <string name="check_libs">Schauen Sie sich die Architektur der Spiel Bibliotheken:</string>
+    <string name="arm_libs">"Das Spiel wird mit ARM-Bibliotheken installiert, obwohl in apk gibt es x86-Bibliotheken.
+Speedhack und alles, was damit verbunden ist, wird nicht funktionieren.
+„__skip__“ deaktiviert diese Kontrollen. Sie können es einschalten in den Einstellungen zurück."</string>
+    <string name="manual_install">Sie können die APK-Datei manuell installieren. Es befindet sich auf dem folgenden Pfad:</string>
+    <string name="as_text">Als Text (kann nicht geladen werden)</string>
+    <string name="as_text_help">Speichert die Liste im Textformat, bequem für die menschliche Lese. Laden dieses Format wird nicht unterstützt.</string>
+    <string name="help_pointer_search_title">Pointer Suche</string>
+    <string name="help_pointer_search">Suchen für Werte, die Zeiger auf die gewünschte Adresse sein kann. Sie können eine maximale Grenze für einen möglichen Offset angeben.</string>
+    <string name="all_memory">In allen Speicher</string>
+    <string name="offset_help">Die Höchstgrenze für eine mögliche Offset.</string>
+    <string name="typical_values">Typische Werte</string>
+    <string name="su_command">Super-User-Befehl</string>
+    <string name="starts">Beginnt mit</string>
+    <string name="ends">Endet mit</string>
+    <string name="no_filter">Kein Filter.</string>
+    <string name="help_memory_filter_title">Filterung im Speicher-Editor</string>
+    <string name="help_memory_filter">"* __help_memory_filter_title__:
+Sie können einen Filter im Speicher Editor angeben. Nur die Ergebnisse, die den Filter entsprechen werden angezeigt.
+Der Filter unterstützt Platzhalter:
+\u0009__caret__ - der Beginn der Daten,
+\u0009__dollar__ - das Ende der Daten,
+\u0009__asterisk__ - eine beliebige Anzahl von beliebigen Zeichen,
+\u0009__question__ - die ein beliebiges Zeichen.
+Um zum Beispiel die Nummer 42 zu finden, müssen Sie __caret__42__dollar__ eingeben."</string>
+    <string name="use_sh">Befehlszeile benutzen</string>
+    <string name="backgrounds">Schwarzer Hintergrund</string>
+    <string name="actions">Aktionen:</string>
+    <string name="game_settings">Einstellungen für das Spiel:</string>
+    <string name="global_settings">Globale Einstellungen:</string>
+    <string name="ui_settings">UI-Einstellungen:</string>
+    <string name="others">Andere:</string>
+    <string name="skip_memory">Überspringen Speicherbereiche:</string>
+    <string name="empty_memory">Leere</string>
+    <string name="without_protection">ohne Schutz</string>
+    <string name="help_games_protection_title">Wie man den Schutz in Spielen umgehen kann</string>
+    <string name="help_games_protection">"\u0009Einige Spiele sind mit einem Schutz gegen Speicher Editoren ausgestattet. Sie können versuchen, die folgenden:
+\u00091. \"__kill_game__\", und dann \"__restart_game_without_protection__\".
+\u00092. „__disable_protection__“, und führen Sie (oder Neustart) das Spiel.
+\u00093. Verwenden Sie alle oder einen Teil der Artikel in „__hide_from_game__“. Alle von ihnen langsam die Suche nach unten.
+\u0009Suchen 4. Wenn das Spiel minimiert wird.
+\u0009Suche 5. Wenn das Spiel angehalten wird.
+\u00096. Tötung oder einen Teil der Schutzprozesse des Spiels anhalten, wenn das Spiel mehr Prozesse hat.
+\u00097. Verwendung XPrivacy oder ähnliche Werkzeuge zu Bypass-Schutz.
+\u00098. Verwenden Sie ohne Schutz die Änderung des Spiels.
+"</string>
+    <string name="disable_protection">Deaktiviere Schutz für alle Anwendungen (Neustart erforderlich)</string>
+    <string name="must_restart_if">Wenn du das Spiel vor der Deaktivierung des Schutzes ausführen möchtest, musst du es neu starten.</string>
+    <string name="patch_loading">Lade Patch...</string>
+    <string name="patch_loaded">Patch wurde geladen.</string>
+    <string name="patch_failed">Patch wurde nicht geladen.</string>
+    <string name="history_limit">Begrenzen der Geschichte:</string>
+    <string name="copy_as_search">Kopieren Sie als Gruppensuche</string>
+    <string name="add_types">Add-Typ</string>
+    <string name="add_size">In Gruppengröße</string>
+    <string name="copy_rhex_value">Kopieren Sie den Reverse-Hex-Wert:</string>
+    <string name="mips_arch">Diese Anwendung unterstützt nicht die MIPS-Architektur.</string>
+    <string name="unrandomizer">Unrandomizer</string>
+    <string name="functions">Funktionen</string>
+    <string name="help_unrandomizer">"
+Die unrandomizer ist eine Funktion, bestimmte Funktionen, die üblicherweise in Spielen verwendet ersetzen Zufallswerte zu erzeugen. Bei einem sehr einfachen Niveau dann, für ein Beispiel, kann ein Spiel sein, das eine randomizer Funktion nutzt der Spieler die Belohnung zu bestimmen. die unrandomizer Aktivieren würde dann dazu führen __app_name__ zu versuchen, diesen Zufallswert mit dem angegebenen Wert zu ersetzen, um das Ergebnis (zum Beispiel eine bestimmte Belohnung zu erhalten) zu ändern.
+
+Die unrandomizer wird in allen Fällen nicht funktionieren. Es wird nur Funktionen handhaben, dass sie kennt. In den meisten Fällen und für die meisten Nutzer, wird dies nicht verwendet werden, da es eher eine erweiterte / experimentelle Funktion ist.
+
+Einige Funktionen geben __type_qword__, einige - __type_double__ (selten verwendet).
+
+__type_double__ Werte müssen von 0 auf 1 jedoch im Bereich, können Sie dort alle Werte angeben können, weil __app_name__ automatisch alle die falschen Varianten korrigiert.
+
+Sie können auch einen Zuwachs Schritt angeben. In diesem Fall wird jedes nachfolgendes Ergebnis um diesen Wert zu erhöhen. Beispielsweise ist für Schrittweite 1 und der Anfangswert 0 ist, anstelle einer zufälligen Wert, 0, 1, 2, 3, ... wird zurückgegeben.
+Diese Option kann für eine vollständige Suche aller möglichen zufälligen Ergebnisse nützlich sein.
+
+Sie können in den __app_name__ Einstellungen, welche Funktionen angeben zu ändern.
+"</string>
+    <string name="count_replace">Wie viele erste Ergebnisse zu ersetzen?</string>
+    <string name="unrandomizer_loading">Lade unrandomizer...</string>
+    <string name="unrandomizer_loaded">Unrandomizer wurde geladen.</string>
+    <string name="warn_restart_off_prot">"Diese Option wird versuchen, das Spiel ohne Schutz neu zu starten.
+Doch viele Firmware enthalten Fehler, die das Gerät zum Neustart verursachen können.
+Wenn dies geschieht, versuchen Sie nicht, das Spiel erneut zu starten, da dies wieder das Gerät neu zu starten.
+Führen Sie einfach __app_name__ - es wird die schlechten Einstellungen löschen.
+Sie können auch versuchen, das Gerät in einer regelmäßigen Art und Weise neu zu starten, auch dies sollte das Problem beheben.
+
+Wenn der Neustart aufgetreten ist - diese Funktion nicht verwenden, wird es nicht auf Ihrer Firmware arbeiten."</string>
+    <string name="warn_patch_off_prot">"Diese Option wird versuchen, das System zu patchen (vorübergehend), so dass alle Anwendungen ohne Schutz ausgeführt werden.
+Die Änderungen werden nur für neue Anwendungen starten anzuwenden. Daher muss die Zielanwendung, nach einem erfolgreichen Patch, neu gestartet werden.
+Um den Patch abzubrechen, starten Sie einfach das Gerät.
+Vielleicht gibt es verschiedene Fehler im System, nach diesem Patch sein.
+
+Wenn der Patch erfolgreich ist, wird es nicht empfohlen, diese Funktion wieder laufen, bevor Sie das Gerät neu zu starten.
+
+Wenn Sie Probleme haben, diese Funktion nicht verwenden."</string>
+    <string name="clear_history">Eingabe löschen Geschichte</string>
+    <string name="clear_history_warn">Alle Einträge, einschließlich gemerkt, werden gelöscht.</string>
+    <string name="click_edit">Zum Bearbeiten hier klicken</string>
+    <string name="ignore_unknown_chars">Ignorieren unbekannte Zeichen:</string>
+    <string name="need_root_mode">Diese Funktion erfordert Root-Zugriff. Derzeit __app_name__ ohne Root-Zugriff in einer virtuellen Umgebung Modus ausgeführt wird.</string>
+    <string name="work_without_root_title">Ohne root-Rechte arbeiten</string>
+    <string name="work_without_root">"__app_name__ ohne Wurzel, durch eine virtuelle Umgebung arbeiten. Zum Beispiel durch __vspace_list__ und viele andere.
+__app_name__ muß in einer virtuellen Umgebung installiert werden. Das Spiel muss auch dort installiert werden.
+Nicht alle Funktionen des Programms unterstützt werden, aber die meisten Funktionen funktionieren sollen.
+
+Sie werden in der Lage zu knacken Spiele nicht, die nicht in einer virtuellen Umgebung installiert ist.
+
+Der erste Start von __app_name__, die eine Neu-Installation mit einem zufälligen Paketnamen führt, darf nicht durch eine virtuelle Umgebung durchgeführt werden.
+Dann können Sie __app_name__ an die virtuelle Umgebung und die Verwendung hinzufügen."</string>
+    <string name="help_game_not_listed_title">Warum ist mein Spiel nicht in der Prozessliste?</string>
+    <string name="fractional_hint">"Der Bruchteil von einer reellen Zahl „x“ ist der Überschuß über die ganzzahlige Teil der Zahl.
+Für eine Reihe seines Bruchteil entspricht somit die Ziffern nach dem Radix Punkt erscheinen.
+
+Zum Beispiel:"</string>
+    <string name="pointer">Zeiger:</string>
+    <string name="help_search_filter_title">Gesetzte Suchfilter</string>
+    <string name="help_search_filter">"Sie können die Suchergebnisse filtern.
+Sie können angeben:
+\u0009- die Grenzwerte für die Adresse,
+\u0009- die Grenzen für den Wert,
+\u0009- die erforderlichen Datentypen,
+\u0009- der gewünschte Bruchteil der Zahl,
+\u0009- die gewünschte Art des Zeigers.
+Sie können alle Filter miteinander kombinieren.
+Sie können auch deaktivieren oder eine beliebige der Filter jederzeit.
+
+Wenn jedoch eine große Menge an Daten gefunden wird, können die Filter verlangsamen die Ergebnisse nach unten.
+
+Ein Filter auf den Bruchteil einer Anzahl kann entweder durch die Gleichheit oder Ungleichheit durch sein.
+Für Integer-Typen, ist der Bruchteil gleich Null. Wenn Sie nicht Integer-Typen brauchen, schließen sie eine Art Filter.
+
+Filter nach Zeigertyp ermöglichen in der Ausgabe nur solche Werte zu verlassen, die ein Zeiger auf die gewünschte Art von Speicher sein können.
+Mögliche Speichertypen entsprechen die Farben in dem Speicher-Editor:
+This can be __executable__ memory, __writable__ or __read_only__. In rare cases, it can be __writable_and_executable__ memory.
+
+Die pseudo-Typ „keine Zeiger“ entspricht alle Arten von Daten, die keine Zeiger sein kann, und auch auf solche Werte von Zeigern diesem Punkt zu nicht zugeordneten Speicher."</string>
+    <string name="unmount_kill">"Die Speicherkarte wurde unmontiert, während __app_name__ temporäre Dateien gespeichert. Dies ist auf die Zwangsschließung des Dämons geführt.
+
+Um zu verhindern, dass dies geschieht, geben Sie einen anderen Pfad zu den temporären Dateien. Zum Beispiel in dem internen Speicher.
+Es sollte genügend freier Speicherplatz vorhanden sein."</string>
+    <string name="calls">Modus für Systemaufrufe</string>
+    <string name="alternative">Alternativ</string>
+    <string name="help_calls">"Auf einiger Firmware zum Beispiel Lenovo kann der alternative Modus schneller arbeiten.
+
+Normalerweise brauchen Sie diese Option nicht zu ändern."</string>
+    <string name="help_context_title">Kontexthilfe</string>
+    <string name="help_context">"In der Schnittstelle werden einige Elemente mit einem speziellen Symbol gekennzeichnet, oben rechts, mit dem Symbol __i__ im Kreis.
+Durch Drücken oder langes Drücken auf dieses Element, zeigt Hilfe zu diesem Element."</string>
+    <string name="waitpid_mode">__waitpid__ Modus:</string>
+    <string name="help_waitpid">"Auf einiger Firmware, wird der __waitpid__ Systemaufruf nicht wie erwartet funktionieren. Dies ist in der Regel durch falsche Einstellungen SELinux.
+Dies führt zu einer endlosen Suche in __app_name__.
+Sie können versuchen, einen alternativen Modus. Vielleicht wird dies funktionieren."</string>
+    <string name="microseconds_short">μs</string>
+    <string name="small_is_bad">Zu kleine Werte können eine hohe Last auf den Prozessor und Lags im Spiel verursachen.</string>
+    <string name="freeze_interval_help">Das Intervall, durch die __app_name__ überschreibt die Werte in dem Spiel-Speicher.</string>
+    <string name="saved_list_update_interval_help">Das Intervall, durch die __app_name__ aktualisiert die Werte in der gespeicherten Liste.</string>
+    <string name="icons_size_help">"Die Größe der Symbole in der __app_name__ Schnittstelle.
+Gilt nicht für ein schwimmendes Symbol."</string>
+    <string name="ignore_unknown_chars_help">Kann helfen, Probleme zu lösen, wenn Zahlen aus verschiedenen Orten zu kopieren, wenn Sonderzeichen zusammen mit den Nummern kopiert werden.</string>
+    <string name="use_notification_help">"Verwenden von Benachrichtigungen in der Systembenachrichtigungsbereich von Android.
+Auf einiger Firmware erhöht dies die Priorität der Anwendung und verhindert, dass es zu schließen.
+Auch können Sie die Benachrichtigung verwenden, indem Sie darauf klicken, um __app_name__ oder das Spiel zu gehen.
+Dies kann nützlich sein, wenn Sie nicht auf dem Floating-Symbol klicken."</string>
+    <string name="use_sound_effects_help">"System klingt, wenn Sie Tasten und Elemente drücken.
+Auf einigen Firmware verursachen Geräusche der __app_name__ zum Absturz bringen."</string>
+    <string name="keyboard_help">Die interne Tastatur nimmt weniger Speicher, schneller geladen und ist für die Eingabe von Zahlen optimiert.</string>
+    <string name="allow_suggestions_help">"Hinweise von einer externen Tastatur.
+Auf einigen Firmware Hinweise verursachen die __app_name__ zum Absturz bringen."</string>
+    <string name="autopause_help">Automatisch setzt das Spiel auf Pause, wenn die __app_name__ Schnittstelle zu öffnen.</string>
+    <string name="killed_by">__app_name__ wurde durch die Anwendung „__s__“ gewaltsam geschlossen. Um dies zu vermeiden, löschen Sie diese Anwendung oder konfigurieren Sie es so, dass es nicht die __app_name__ nicht beenden.</string>
+    <string name="killers_found">"Sie haben installierten Anwendungen, die können gewaltsam schließen __app_name__:
+__s__
+Um dies zu vermeiden, löschen Sie sie, oder sie so konfigurieren, dass sie nicht die __app_name__ beenden.
+
+Wenn Sie keine Probleme haben mit dem unerwarteten Schließen der __app_name__, dann ist keine Aktion erforderlich, und Sie können diese Meldung ignorieren."</string>
+    <string name="record_logcat">Die Bilanz __logcat__</string>
+    <string name="record_logcat_info">"__app_name__ wird mit der Aufnahme __logcat__ in die Datei neu gestartet werden:
+\"__s__\".
+
+Zum Beenden der Aufnahme, Austritt aus __app_name__.
+Danach können Sie die Protokolldatei, wo Sie es brauchen senden."</string>
+    <string name="need_uninstall">Sie müssen das Installationsprogramm deinstallieren, da Sie sonst 4 Symbole haben, nicht 2. Auch Spiele wird es erkennen.</string>
+    <string name="need_random_name">"__app_name__ nutzt die Standard-Paketnamen. Spiele finden können.
+
+Um dies zu beheben - laufen __app_name__ außerhalb des virtuellen Raums als normale Anwendung.
+Nachdem die Installation abgeschlossen ist, wird eine Kopie __app_name__ mit einem zufälligen Namen in dem virtuellen Raum hinzuzufügen."</string>
+    <string name="work_mode">Arbeitsmodus</string>
+    <string name="root">root</string>
+    <string name="no_root">ohne root</string>
+    <string name="how_no_root">"Sie müssen die virtuelle Raum Anwendung installieren. Wie zum Beispiel: __vspace_list__.
+
+Es wird empfohlen, optimierten Versionen von der offiziellen Website __app_name__ zu installieren.
+
+Dann müssen Sie __app_name__ und Ihr Spiel zu diesem virtuellen Raum hinzuzufügen.
+
+Danach müssen Sie das Spiel und __app_name__ im virtuellen Raum ausgeführt werden."</string>
+    <string name="eperm_error_descr_0">Mögliche Gründe:</string>
+    <string name="eperm_error_descr_1">Schutz im Spiel.</string>
+    <string name="eperm_error_descr_2">Ein anderer Debugger oder Cracker ist mit dem Spiel verbunden.</string>
+    <string name="eperm_error_descr_3">Nicht ausreichende Berechtigungen. In der Regel durch falsch __selinux__. deaktivieren oder konfigurieren __selinux__ konfiguriert.</string>
+    <string name="eperm_error_descr_4">Bad Kernel oder Firmware. Versuchen Sie eine andere Firmware oder ein anderes Gerät.</string>
+    <string name="eperm_error_descr_5">Auf Ihrer Firmware, wird der „no root“ Modus nicht funktionieren. Versuchen Sie eine andere Firmware oder ein anderes Gerät oder root bekommen.</string>
+    <string name="ptrace_bypass_mode">Bypass-Modus für ptrace-Schutz:</string>
+    <string name="mode_restore">Wiederherstellen</string>
+    <string name="mode_nothing">Nichts</string>
+    <string name="mode_freeze">einfrieren</string>
+    <string name="ptrace_bypass_mode_help">"Gibt an, welche nach dem Deaktivieren des Schutzes Verbindung zu tun:
+\u0009__mode_restore__ - wiederherstellen Verbindung
+\u0009__mode_nothing__ - nichts tun (in der Regel der Schutz selbst stellt die Verbindung)
+\u0009__mode_freeze__ - einzufrieren den Faden (wie in früheren Versionen)
+
+Wenn Sie den Schutz wieder herzustellen, oder kann der Schutz, den es selbst tun, kann das Einfrieren der Werte in __app_name__ Lags führen aufgrund der permanenten Verbindung / Schutz deaktivieren."</string>
+    <string name="slow_emulator">"Sie verwenden den „__s__“ Emulator. Es ist langsam und enthält Fehler. Aus diesem Grunde kann die Suche sehr langsam sein.
+
+Wir empfehlen die Verwendung von anderen Emulatoren:"</string>
+    <string name="text">Text</string>
+    <string name="show_debug_info">Debug-Info anzeigen</string>
+    <string name="mnt_expand">"__app_name__ ist auf einer Speicherkarte installiert, die als „Interner Speicher“ verwendet wird.
+Dies kann mit dem Betrieb von virtuellen Räumen stören.
+Wenn dies geschieht, installiert __app_name__ im internen Speicher des Gerätes.
+Möglicherweise müssen Sie die Speicherkarte als „Portable Storage“ zu formatieren."</string>
+    <string name="help_game_not_listed_root">"Das Spiel muss ausgeführt werden, um es auszuwählen.
+
+Wenn das Spiel läuft, aber noch ist es nicht in der Liste, dann vielleicht haben Sie Probleme mit der Wurzel oder Firmware.
+Versuchen Sie eine andere Wurzel oder andere Firmware."</string>
+    <string name="help_game_not_listed_noroot">"Das Spiel muss im virtuellen Raum ins Leben gerufen werden, damit sie ausgewählt werden können.
+
+Sie können nicht wählen Sie ein Spiel, wenn es nicht im virtuellen Raum ausgeführt wird.
+
+Wenn das Spiel im virtuellen Raum ausgeführt wird, aber noch ist es nicht in der Liste, versuchen Sie einen anderen virtuellen Raum, eine andere Firmware, ein anderes Gerät oder eine Wurzel bekommen."</string>
+    <string name="daemon_killed_oom">"Daemon wurde der Speicher wegen des Mangels vom System getötet.
+
+Set \"__data_in_ram__\" auf \"__no__\".
+Verwenden Sie die Hardware-Beschleunigung der Schnittstelle, wenn möglich.
+Verwenden Sie keine großen Anwendungen.
+Deaktivieren Sie alle anderen nicht verwendeten Anwendungen.
+Versuchen __app_name__ zu verwenden, nachdem Sie das Gerät neu zu starten."</string>
+    <string name="selected_as_search_result">Ausgewählt als Sucher</string>
+    <string name="clear_results_prompt">Dadurch werden die aktuellen Suchergebnisse ersetzen. Fortsetzen?</string>
+    <string name="position_in_memory_editor">Position im Speicher-Editor</string>
+    <string name="script_prompt_internet">"Das Skript möchte auf das Internet zuzugreifen. Wenn Sie den Zugriff ermöglichen, wird das Skript der Lage, Ihre Logins zu stehlen, Passwörter speichert und andere Daten aus dem Spiel. Auch wird es in der Lage sein, Ihre andere Skripten zu stehlen, oder Download Viren auf Ihr Gerät.
+
+Lassen Sie das Skript Zugriff auf das Internet?"</string>
+    <string name="level">Level</string>
+    <string name="float_prompt">"Um richtig __app_name__ auf Ihrer Firmware auszuführen, müssen Sie die Verwendung Popup-Fenster in den Systemeinstellungen für __s__ ermöglichen.
+
+Das Popup zeigt nicht auf Huawei Telefonen standardmäßig. Sie müssen __s__, damit Popup zeigen. Bitte öffnen Sie den Manager Telefon, dann Dropzone-Management und stellen Sie sicher, wird es eingeschaltet für __s__.
+
+Das Popup auch nicht zeigt auf einigen Xiaomi Telefonen. Sie müssen sich den Kopf zu Einstellungen -> Installierte Anwendungen -> __s__ -> Andere Berechtigungen -> Anzeige Popup-Fenster.
+
+Auch andere Telefone können verschiedene Verfahren müssen Anwendungen ermöglichen Popup-Fenster zu zeigen. Alle diese Anwendungen sind in der Regel auf diese Weise betroffen, zum Beispiel des Google Translator App mit der Tap-Funktionalität zu übersetzen. Daher können Sie einfach google „YOUR_PHONE Hahn zu übersetzen“, um die Lösung zu finden. Zum Beispiel für Xiaomi Redmi Geräte ist die Lösung wie folgt:"</string>
+    <string name="virtual_space">Virtual Space App</string>
+    <string name="prevent_unload_help">"Prevent Entladen __app_name__ aus dem Speicher (Kraft schließen).
+
+Jede nachfolgende Ebene ist mächtiger als die vorherige und schließt es in sich.
+
+Die dritte Ebene kann zu Problemen führen, auf einige Firmware und Emulatoren (Toast, Neustarts oder Abstürze hängen).
+
+Ohne root funktioniert nur die dritte Ebene."</string>
+    <string name="integer_type">Dieser Datentyp ist nur für ganzzahlige Werte und unterstützt keine Bruchwerte. Verwenden Sie __type_float__ oder __type_double__ für Spitzenwerte.</string>
+    <string name="without_float">Sie können auch __app_name__ ohne Floating Windows verwenden:</string>
+    <string name="any_value">beliebiger Wert</string>
+    <string name="help_group_search_any_value">Sie können zusammen mit der Mindestgröße __any__ in einer geordneten Gruppe Suche verwenden einen Wert dieses Typs an der gewünschten Position festzulegen.</string>
+    <string name="help_scripts_title">Skripte</string>
+    <string name="help_scripts">"* __help_scripts_title__:
+__app_name__ unterstützt die Ausführung von Skripten in Lua geschrieben.
+
+Auf der Suche Registerkarte klicken Sie auf das Menü und wählen Sie „__execute_script__“.
+Hier können Sie die Skriptdatei für die Ausführung auswählen, finden Sie die vorhandenen __app_name__ API-Methoden, oder auf der offiziellen Seite gehen Hilfe auf dem API zu lesen oder wie Skripte herunterladen.
+Sie können aber auch die Hilfe des API auf der Speicherkarte extrahieren, ohne das Internet zu lesen.
+
+Wenn Sie Ihr eigenes Skript zu schreiben, dann benötigen Sie einen externen Text-Editor.
+__app_name__ erlaubt keine Skripte bearbeiten, führt er sie nur.
+
+Lesen Sie API-Hilfe für weitere Details."</string>
+    <string name="help_floating_icon_absent">Wenn nach dem „__start__“ klicken Sie nicht ein schwebendes Symbol sehen:</string>
+    <string name="remove_all2">Lösche alle</string>
+    <string name="debug_load">Dump alle Code Lasten</string>
+    <string name="debug_log">Melden Sie sich am meisten Skript Anrufe</string>
+    <string name="vspace64">"Sie lief __app_name__ in einem virtuellen Raum, die 64-Bit-Prozesse unterstützt.
+
+__app_name__ werden 32-Bit-Prozesse nicht in diesem Raum laufen sehen.
+
+Installieren Sie die zweite Kopie von __app_name__ im „__for32__“ -Modus, wenn Sie in __app_name__ mit 32-Bit-Prozessen arbeiten wollen."</string>
+    <string name="folder_new">Neuer Ordner</string>
+    <string name="folder_exists">Dieser Ordner existiert bereits</string>
+    <string name="folder_file">Eine Datei mit diesem Namen existiert bereits</string>
+    <string name="folder_failed">Konnte Ordner nicht erstellen</string>
+    <string name="force_close">"Das vorherige Beenden der App war unerwartet.
+
+Du kannst die Konfigurationsebene \"__prevent_unload__\" erhöhen, um dies in Zukunft zu vermeiden."</string>
+    <string name="help_force_close_title">Unerwartetes Beenden</string>
+    <string name="install_mode">Installationsmodus</string>
+    <string name="for32">Hacks für 32-Bit-Spiele im virtuellen 64-Bit-Raum</string>
+    <string name="for64">Hacks für 64-Bit-Spiele im virtuellen 64-Bit-Raum</string>
+    <string name="reset_ignore">Setzen Sie alle ignorieren für alle Dialoge</string>
+    <string name="allocate_fail">Kann nicht Speicherseite zuweisen. Error</string>
+    <string name="allocated">Zugeteilte Speicherseite:</string>
+    <string name="allocate_page">Zuteilen Speicherseite</string>
+    <string name="prot_read">kann gelesen werden</string>
+    <string name="prot_write">kann geschrieben werden</string>
+    <string name="prot_exec">kann ausgeführt werden</string>
+    <string name="install_finished">"Die Installation war erfolgreich.
+
+Führe die installierte Kopie manuell aus, damit sie deine Daten migrieren kann.
+
+Danach kann das Installationsprogramm entfernt werden."</string>
+    <string name="odd_vspace">__app_name__ im virtuellen Raum gestartet?</string>
+    <string name="record_script">Skript aufzeichnen</string>
+    <string name="record">Aufzeichnen</string>
+    <string name="another_record">Eine andere Aufzeichnung läuft gerade. Abbrechen?</string>
+    <string name="record_ended">Aufzeichnung abgeschlossen</string>
+    <string name="stop">Stoppen</string>
+    <string name="could_not_use">Konnte nicht verwendet werden:</string>
+    <string name="not_optimized2">"Du verwendest eine nicht-optimierte Version des virtuellen Raums (\"__s__\").
+
+Um diesen Fehler zu beheben, entferne die nicht-optimierte Version von \"__s__\" und installiere einen der optimierten virtuellen Räume von der offiziellen Website __app_name__.
+
+Klicke auf \"__fix_it__\", um zur Auswahl der optimierten virtuellen Räume zu gelangen."</string>
+    <string name="fix_path">Freier Raum oder geben Sie einen anderen Pfad für temporäre Dateien, indem Sie auf „__fix_it__“.</string>
+    <string name="deep_read">Tief lesen:</string>
+    <string name="help_deep_read">"Lesespeicher mit allen verfügbaren Methoden, wenn es nicht gelesen werden kann.
+verlangsamen Speicherablesungen kann."</string>
+    <string name="ptrace_fail">Es konnte kein Speicher durch ptrace ändern.</string>
+    <string name="ptrace_fail_partially">Einige Funktionen, Speedhack und alles rund um sie, wird nicht funktionieren. Das Schreiben auf Nur-Lese-Speicher (einschließlich Code) ist nicht möglich.</string>
+    <string name="ptrace_fail_full">Die absolute Mehrheit der Funktionen wird nicht funktionieren.</string>
+    <string name="ptrace_fail_solve">"Der typische Grund ist eine gebrochene Kernel in der Firmware.
+Versuchen Sie, die Firmware zu ändern. Wenn Sie es aktualisiert - die vorherige Version installieren.
+
+Wenn dies nicht funktioniert, das Gerät ändern."</string>
+    <string name="feature_hide_4">Diese Funktion kann nicht funktionieren, wenn das vierte Element in „__hide_from_game__“ ausgewählt.</string>
+    <string name="feature_firmware">Diese Funktion kann nicht ohne ptrace arbeiten, was nicht funktioniert auf dieser Firmware.</string>
+    <string name="feature_protection">Diese Funktion kann nicht aufgrund ptrace Schutz arbeitet im Spiel.</string>
+    <string name="not_file">Pfad ist keine Datei:</string>
+    <string name="not_execute">Kann nicht ausgeführt werden:</string>
+    <string name="check_install">Überprüfe, ob __app_name__ korrekt installiert wurde.</string>
+    <string name="sdcard_install">Wenn __app_name__ auf externen Speicher (SD-Karte) installiert ist, kehren sie in den internen Speicher</string>
+    <string name="change_address_type">Adresse/Typ ändern</string>
+    <string name="bad_offset">Der Offset ist nicht ein Vielfaches von __d__.</string>
+    <string name="bad_result_address">Die resultierende Adresse ist nicht ein Vielfaches von __d__.</string>
+    <string name="correct_types">__d__ Elemente seiner Art verändern, das Unmögliche Ausrichtung zu korrigieren.</string>
+    <string name="reinstall_fail">"Unfähig __app_name__ mit zufälligen Namen neu zu installieren.
+
+__app_name__ kann leicht durch Spiele nachgewiesen werden.
+
+Sie können __logcat__, während der Installation aufnehmen und kontaktieren Sie das offizielle Forum um Hilfe.
+
+Ablehnungsgrund:"</string>
+    <string name="empty_field">Leeres Eingabefeld: keine Nummer zu konvertieren</string>
+    <string name="need_integer">Du musst eine ganze Zahl zur Konvertierung auswählen.</string>
+    <string name="maps_failed">Kann nicht geöffnet werden „__maps__“ -Datei.</string>
+    <string name="game_protected">Das Spiel ist geschützt.</string>
+    <string name="need_root">Du benötigst Root-Rechte, um dieses Spiel zu hacken.</string>
+    <string name="vspace_error">"Das Problem des virtuellen Raums oder der Firmware oder des Geräts.
+
+
+Versuche:
+
+ - einen anderen virtuellen Raum zu verwenden
+
+ - eine andere Firmware zu verwenden
+
+ - Root-Rechte zu erlangen
+
+ - ein anderes Gerät zu verwenden"</string>
+    <string name="root_error">"Das Problem der Firmware oder Root oder des Geräts.
+
+
+Versuche:
+
+ - eine andere Firmware zu verwenden
+
+ - einen anderen Root-Benutzer zu verwenden
+
+ - ein anderes Gerät zu verwenden"</string>
+    <string name="vspace_root">Root-Rechte im virtuellen Raum nutzen:</string>
+    <string name="help_vspace_root">"Wurzel aus dem virtuellen Raum verwendet, kann die Tatsache helfen verbergen, dass es eine __app_name__ auf dem Gerät ist.
+
+Es muss nicht auf allen Firmware arbeitet und nicht auf allen virtuellen Räumen.
+
+Der virtuelle Raum, Firmware und Wurzel sollte es ermöglichen, aus dem virtuellen Raum mit root arbeiten.
+Der virtuelle Raum sollte Ihnen ermöglichen, Anwendungen zu installieren, nach innen, ohne sie in das System zu installieren.
+
+Nicht alle virtuellen Räumen kann dies bieten.
+
+Nicht auf allen Firmware wird dieser Modus arbeiten. Und nicht mit allen Wurzel.
+
+Da die Root-Rechten auf den gesamten virtuellen Raum gewährt werden, sollten Sie nichts anderes darin installieren. Andernfalls kann eine beliebige Anwendung aus dem virtuellen Raum Root-Rechten mit unvorhersehbaren Folgen verwenden.
+
+Das Spiel muss außerhalb des virtuellen Raums installiert werden.
+
+__app_name__ sollte nur innerhalb des virtuellen Raumes installiert werden, ohne dass sie in das System zu installieren.
+Wie dies zu tun - die Hilfe eines bestimmten virtuellen Raum sehen.
+
+Zum Beispiel für __vexp__, können Sie __app_name__ aus dem System in __vexp__ klonen und dann __app_name__ aus dem System löschen."</string>
+    <string name="help_games_protection_9">9. Verwenden Sie root in virtuellen Räumen, die Anwendungen in selbst zu installieren, ohne die Installation in das System ermöglichen.</string>
+    <string name="locale_ui">In Ihrem Standort</string>
+    <string name="locale_script">Skripte verwenden immer das englische Gebietsschema.</string>
+    <string name="locale_desc">"'__s__' - Dezimaltrennzeichen
+
+'__s__' - Tausendertrennzeichen
+
+'__semicolon__' - Zahlentrennzeichen in der Gruppensuche"</string>
+    <string name="help_unaligned_title">Unaligned Suche / Big-Endian-Suche</string>
+    <string name="help_unaligned">"In einigen Anwendungen (z. B. Konsolenemulatoren) kann es vorkommen, dass der Wert im Speicher nicht ausgerichtet ist oder in Big-Endian-Byte-Ordnung dargestellt wird.
+
+Ein solcher Wert kann durch eine normale Suche nicht gefunden werden.
+
+Um solche Werte zu finden - verwende ein spezielles Skript von der offiziellen __app_name__-Webseite:"</string>
+    <string name="help_formula_calculator_title">Formelrechner</string>
+    <string name="help_formula_calculator">"Fast in jedem Feld zur Eingabe von Zahlen, können Sie eine mathematische Formel eingeben, nach dem Gleichheitszeichen, zum Beispiel in dem Suchfeld eingeben ‚= 2 + 2 * 3‘, und das Programm wird für das Ergebnis der Formel suchen, dass ist, '8'.
+Die Formel ist ein Lua Ausdruck. Sie können darin alle verfügbare Leistung von Lua verwenden.
+
+Alle arithmetischen Operatoren Lua 5.3 sind zulässig - Addition (+), Subtraktion (-), Multiplikation (*), Division (/), Divisionsrest (%), Potenzierung (^), Integer-Division (//), und so weiter.
+Ebenfalls erhältlich sind Bitoperatoren - UND (&amp;), OR (|), Exklusiv-ODER (binär ~), NOT (einstellige ~), Verschiebung nach rechts (>>), Verschiebung nach links (&lt;&lt;). Die Reihenfolge der Aktion kann durch Klammern angegeben werden.
+Lesen Sie die Lua Handbuch für eine vollständige Liste der verfügbaren Operationen.
+
+Es ist nützlich, wenn Sie wissen, wie sich der Wert im Spiel codiert. Zum Beispiel, 29 Runden in einem Spiel können als ‚= 29 ~ 444444‘ gefunden werden. Dies entspricht 29 XOR 444444. In der Video-Probe wurde der Preis 3888 durch XOR mit 444.444, wie '= 444444 ~ 3888' gefunden. Danach wurde der Ersatz ‚= 444444 ~ 1‘ gemacht, die den Preis auf ‚1‘ gesetzt. In einem anderen Spiel ist 125 Gold wie '= 125 * 10'.
+
+Nicht alle Skriptfunktionen sind in der Formel-Rechner zur Verfügung. Einige Funktionen sind nicht verfügbar. Wenn Sie nicht genug von ihnen haben - schreiben Sie Ihre Skript, stattdessen eine Formel Rechner zu verwenden, ist es beabsichtigt, nur für einfache Berechnungen. Verfügbar: Teil der Grundfunktionen, 'bit32', 'table', 'string', 'utf8', 'Mathematik', Teil des Pakets 'os'. Packages 'Debug', 'Paket', 'gg', 'io' ist nicht verfügbar.
+
+Wenn Sie schreiben '= 2 + 2 * 3', wird das Schlüsselwort 'Rückkehr' vor der Formel angefügt: 'Rückkehr 2 + 2 * 3'. Allerdings können Sie dieses Wort geben, sich in einer Formel, wenn Sie eine komplexe Formel benötigen.
+Zum Beispiel ‚= a = 5; b = 7; Rück a * b * 4 + 8' wird ausgeführt als ‚a = 5; b = 7; Rück a * b * 4 + 8'
+
+Das Ergebnis des Formel-Rechners ist eine Textzeichenfolge. Die Zeichenfolge kann eine beliebige gültige Zeichenfolge für dieses Eingabefeld sein.
+Zum Beispiel kann es sich um eine Zeichenfolge für eine Gruppe suchen oder einen Bereich suchen sein. ‚= A = 5; b = 7; Rückkehr eines .. „;“ .. .. b \":: 100\" 'ist äquivalent zu' 5; 7 :: 100' .
+
+Formel-Rechner funktioniert nicht in Skripten, dort können Sie direkt Lua verwenden.
+Wenn ein Skript zu schreiben, wird das Ergebnis der Formelberechnung in die Datei geschrieben wird, nicht die Formel selbst.
+
+Wenn die Formel falsch ist, erhalten Sie eine Fehlermeldung, wenn Sie das Formular aus.
+
+Bei der Berechnung, müssen Sie berücksichtigen die Tatsache, dass Berechnungen, dass der erste Operand gibt in der Art durchgeführt. Wenn es eine ganze Zahl ist, dann wird das Ergebnis eine ganze Zahl sein.
+Zum Beispiel ‚= 3/2‘ ‚1‘ und ‚= 3,0 / 2‘ ist ‚1,5‘.
+
+Unabhängig von dem gewählten Gebietsschema arbeiten die Formeln in der englischen locale. Dies bedeutet, dass das Dezimalzeichen ist immer ein Punkt ( ‚‘)."</string>
+    <string name="help_faq_32_b">"Zwei Start-Icons. Der erste, mit Software-Beschleunigung - \"__app_short_name_sw__\", den zweiten, mit Hardware-Beschleunigung - \"__app_short_name_hw__\". Jetzt wird es immer so sein.
+Auf einigen Firmwares nur eine Version arbeitet, auf Normalen beiden.
+Es ist besser zu bedienende Software-Beschleunigung, es weniger reibungslos funktioniert, aber verbraucht weniger Speicher.
+
+Sie können auf eines der Symbole in den Anwendungseinstellungen verbergen: „__hide_icons__“."</string>
+    <string name="acceleration_help_">"Hardware- oder Software-Schnittstellenbeschleunigung __app_name__.
+
+Je nach Spiel und Firmware können einige der Optionen Probleme verursachen.
+
+Wenn beide funktionieren, verwende die Software-Beschleunigung, da diese weniger Speicher verbraucht.
+
+
+Diese Option ist von den Startsymbolen getrennt und betrifft nur die Anzeige der Schnittstelle __app_name__.
+
+Die Startsymbole sind für die Art der Beschleunigung des Startbildschirms verantwortlich.
+
+Die Hardware-Beschleunigung verbraucht viel mehr Speicher, aber sie funktioniert reibungsloser. Wenn du wenig RAM hast, solltest du immer Software-Beschleunigung verwenden.
+
+Wenn die Hardware-Beschleunigung Fehler verursacht, kann __app_name__ zur Software-Beschleunigung wechseln."</string>
+    <string name="small_list_items">Kleine Listenelemente</string>
+    <string name="small_list_items_help">Ermöglicht es dir, mehr Informationen in den Listenelementen anzuzeigen, aber es kann schwieriger sein, auf das gewünschte Element zu klicken.</string>
+    <string name="format_asm_opcodes">__s__ Befehlssatz</string>
+    <string name="no_regions">Keine passenden Regionen gefunden.</string>
+    <string name="cannot_hide_launcher_icon">"Dieses Symbol wurde für den aktuellen Start verwendet.
+
+Du kannst das Symbol, das für den aktuellen Start verwendet wurde, nicht ausblenden.
+
+Starte die Anwendung über ein anderes Symbol neu, um dieses Symbol ausblenden zu können."</string>
+    <string name="screenshot">Einen Screenshot erstellen</string>
+    <string name="screenshot_prompt">"Das Symbol wird für __d__ Sekunden ausgeblendet werden, so dass Sie einen Screenshot nehmen.
+
+Danach wird das Symbol wieder sichtbar sein."</string>
+    <string name="screenshot_action">Screenshot</string>
+    <string name="use_visible_type">Verwenden Sie sichtbaren Datentyp im Speicher-Editor:</string>
+    <string name="use_visible_type_help">Nicht für den Datentyp im Speicher Editor fragen, ob nur ein Datentyp angezeigt wird.</string>
+    <string name="wrong_float">In Ihrem Standort, die Nummer „__s__“ sieht aus wie „__s__“. Wenn dies nicht das, was Sie brauchen - wählen Sie eine andere locale (oder Sprache) auf dem Startbildschirm.</string>
+    <string name="wrong_float2">Außerdem kannst du in den Einstellungen für __app_name__ das Gebietsschema für die Formatierung von Zahlen überschreiben.</string>
+    <string name="number_locale">Gebietsschema für die Formatierung von Zahlen:</string>
+    <string name="fill">Füllen</string>
+    <string name="help_text_search">"
+Für die Suche nach Text, müssen Sie Modifikatoren in den üblichen Suchdialog angeben.
+
+Die am häufigsten verwendeten Codierungen sind __utf8__ und __utf16le__.
+Typischerweise wird in __utf16le__ __java__ verwendet und in __utf8__ __c__ verwendet.
+
+\u0009__utf16le__ ist eine Zwei-Byte-Codierung. Jedes Zeichen wird immer in zwei Bytes codiert werden, so dass es über __type_word__ dargestellt wird.
+\u0009__utf8__ - Codieren mit variabler Byte-Größe pro Zeichen. Vertreten durch __type_byte__.
+\u0009__hex_input__ und seine Varianten werden immer über __type_byte__ dargestellt.
+
+Das Spiel kann eine der Codierungen verwenden.
+Wenn Sie einen bestimmten Satz von Bytes müssen - nutzen Sie den __hex_input__ Modus.
+
+Verfügbar Präfixe:
+__text_prefixes__
+
+Für „__hex_mixed__“ Modus können Sie __utf8__ Text zwischen __apos__ Zeichen und __utf16le__ Text zwischen __quot__ Zeichen angeben.
+
+Zum Beispiel:
+__text_examples__
+
+Das Präfix Zeichen muss das erste Zeichen im Suchtext sein.
+
+Das Ergebnis der Suche wird eine __type_byte__ Sequenz oder eine Sequenz __type_word__, für den Fall __utf16le__ sein.
+
+Die Ergebnisse können geändert werden - alle auswählen und klicken Sie auf „__edit_selected__“.
+
+Im Wertefeld, geben Sie den neuen Wert im gleichen Format wie für den Suchbegriff.
+
+Sie können die fill-Tasten verwenden. Klicken Sie auf „__more__“, wenn sie nicht sichtbar sind.
+
+Der Wert wird für jede Gruppe von kontinuierlich folgenden Elemente eingestellt werden.
+Wenn es eine Lücke zwischen den Elementen ist, wird es eine neue Gruppe sein.
+
+Wenn Sie mehr Bytes als nötig angeben, dann wird nur ein Teil von ihnen verwendet werden.
+Wenn Sie angeben, weniger als benötigt wird, dann wird der Rest der Gruppe mit Null-Bytes gefüllt werden.
+
+Wenn der Text zu ersetzen, versuchen Sie Text mit der gleichen Anzahl von Bytes wie das Original zu vermeiden Probleme zu spezifizieren.
+"</string>
+    <string name="fast_freeze">Schnell Frost:</string>
+    <string name="help_fast_freeze">"Es funktioniert viel schneller als normal Einfrieren, aber nicht für alle Speicher.
+
+Wenn das Einfrieren nicht funktioniert, deaktivieren Sie diese Option."</string>
+    <string name="debug_disassemble">Disassemble</string>
+    <string name="assembled">Erfolgreich in der Datei zusammenzugebaut:</string>
+    <string name="warn_patch_off_prot2">"Wenn Sie mit __magisk_hide__ - deaktivieren, bevor Sie den Patch anwenden. Nach der erfolgreichen Anwendung des Patches können Sie es wieder einschalten.
+Wenn Sie dies nicht tun, wird der Patch nicht erfolgreich sein."</string>
+    <string name="help_games_protection_end">"
+Wie zu verbergen __app_name__ aus dem Spiel im virtuellen Raum
+
+\u0009Installieren Sie den virtuellen Raum 1, das die versteckte Installation von Anwendungen ermöglicht, ohne dass sie im System zu installieren. Zum Beispiel __vspace_hide__.
+\u0009Installieren Sie __app_name__ in den virtuellen Raum 2..
+\u00093. In __app_name__, schalten Sie den \"__vspace_root__\" -Modus.
+\u00094. Erteilen Root-Rechten in dem virtuellen Raum. Wenn Sie nicht in der Lage zu tun root Rechte zu gewähren - versuchen Sie einen anderen virtuellen Raum, andere Root-Rechten, andere Firmware oder das Gerät ändern.
+\u00095. Wählen Sie aus dem System entfernen __app_name__.
+\u00096. Arbeiten mit __app_name__ von virtuellen Raum.
+
+Für vermeiden Sie bei der Suche erkennen:
+\u0009Wählen Sie die Elemente 2, 3 und 4 in \"__hide_from_game__\" -Einstellung.
+
+Eine typische Lösung (erfordert Wurzel, ohne root Sie nicht erfolgreich sein wird):
+\u00091. Verwenden Wurzel aus virtuellen Raum. Lesen Sie die Hilfe für die Einstellung „__vspace_root__“.
+\u00092. Verwenden Sie die Elemente 2, 3 und 4 in der \"__hide_from_game__\" -Einstellung.
+"</string>
+    <string name="force_close_2">Sie können „__data_in_ram__“ auf „__no__“ gesetzt, dies in Zukunft zu vermeiden.</string>
+    <string name="script_wrote">Das Skript schrieb __s__ bis __d__ Dateien.</string>
+    <string name="script_exit">Beenden</string>
+    <string name="script_interrupted">Das Skript wurde unterbrochen.</string>
+    <string name="script_error">Skriptfehler.</string>
+    <string name="script_oom">Kein Speicherplatz vorhanden</string>
+    <string name="script_possible">Es sieht so aus, als ob du versuchst, __s__ als Skript auszuführen.</string>
+    <string name="script_web">eine Webseite</string>
+    <string name="script_saved_list">gespeicherte Liste</string>
+    <string name="speedhack_no_x86">Aber in diesem Spiel gibt es keine x86-Bibliotheken, also wird es vielleicht nicht funktionieren.</string>
+    <string name="help_faq_33_q">Textnachrichten (Toast) bleiben auf dem Bildschirm, oder ein dunkler Kreis sichtbar am unteren Rand des Bildschirms, wenn __app_name__ arbeitet. Wie man es repariert?</string>
+    <string name="help_faq_33_a">Mit Hilfe der dritten Ebene „__prevent_unload__“ auf einigen Firmware führt zu der Tatsache, dass Textnachrichten (Toast) bleiben auf dem Bildschirm, oder ein dunkler Kreis sichtbar ist (leere Nachricht). Wenn dies geschieht, nicht die dritte Ebene verwenden.</string>
+    <string name="invalid_header_1">Ungültige Binärskripts-Header.</string>
+    <string name="unknown_version">Unbekannte Version.</string>
+    <string name="unknown_format">Unbekanntes Format.</string>
+    <string name="unknown_endianness">Unbekannt endianness.</string>
+    <string name="unknown_size_s">Unbekannte Größe von __s__.</string>
+    <string name="unknown_size_instr">Unbekannter Umfang der Anweisung.</string>
+    <string name="unknown_size_num">Unbekannte Größe von Lua-Nummer.</string>
+    <string name="expected_found">Erwartet __s__ , aber gefunden __s__.</string>
+    <string name="or">oder</string>
+    <string name="invalid_header_2">Das Skript trotzdem ausführen?</string>
+    <string name="invalid_header_3">"In zukünftigen Versionen von __app_name__ kann dieses Skript nicht mehr ausgeführt werden.
+Informiere darüber den Autor des Skripts."</string>
+    <string name="skip_system_libs">Systembibliotheken überspringen.</string>
+    <string name="try_reinstall_x86">"Soll versucht werden das Spiel mit x86-Bibliotheken neu zu installieren?
+
+Das Spiel funktioniert danach möglicherweise nicht mehr. Installiere in diesem Fall das Spiel von der apk, die sich in __data_app__ befindet, neu."</string>
+    <string name="reinstall_started">Neuinstallation gestartet...</string>
+    <string name="reinstall_failed">Neuinstallation fehlgeschlagen:</string>
+    <string name="reinstall_ended">Neuinstallation abgeschlossen.</string>
+    <string name="help_lasm_title">Skripte disassemblieren / assemblieren</string>
+    <string name="help_lasm">"__app_name__ hat einen eingebauten Disassembler / Assembler für Lua-Skripte.
+
+
+
+Du kannst die Option \"__debug_disassemble__\" im Skript-Startfenster auswählen, nachdem du auf die Schaltfläche \"__more__\" geklickt hast.
+
+
+
+Die resultierende __ext_lasm__-Datei kann im Skript-Startfenster bearbeitet und ausgewählt werden. Das Ergebnis ist eine binäre __ext_lua__ -Datei, in der die Änderungen vorgenommen wurden.
+
+
+Lies bitte die Hilfe zur Skript-API für weitere Einzelheiten. 
+"</string>
+    <string name="help_hide_gg_title">Wie man __app_name__ vor dem Spiel versteckt</string>
+    <string name="changed_as_search_result">Geändert als Suchergebnis</string>
+    <string name="changed_not_found">Geänderte Elemente nicht gefunden.</string>
+    <string name="too_far">Diese Werte können durch eine Gruppensuche nicht gefunden werden, sie liegen zu weit auseinander: __d__ Bytes. Der maximale Abstand beträgt __d__ Bytes.</string>
+    <string name="new_address">Neue Adressierung:</string>
+    <string name="hide_1_warn">Du hast den ersten Artikel ausgewählt. Das Einfrieren von Werten kann zu erheblichen Verzögerungen im Spiel führen.</string>
+    <string name="hide_4_warn">Du hast das vierte Element ausgewählt. Einige Funktionen werden nicht funktionieren: __speedhack__, __unrandomizer__, __allocate_page__.</string>
+    <string name="asm_failed">__s__ Befehlssatz wurde nicht erkannt:</string>
+    <string name="asm_suggestion">Meintest du: __s__?</string>
+    <string name="copy_opcode">Befehlssatz __s__ kopieren:</string>
+    <string name="search_nearby">Suche in der Nähe von</string>
+    <string name="before">Davor</string>
+    <string name="after">Danach</string>
+    <string name="distance">Abstand:</string>
+    <string name="nearby">Annähernde Werte:</string>
+    <string name="need_fixer">"Es wurde ein Problem mit diesem virtuellen 64-Bit-Raum festgestellt.
+
+Um es zu beheben:
+
+1. Installiere die __fixer__ -Anwendung. (Von diesem Dialog aus entweder manuell entlang des Pfades: 
+__s__
+).
+
+2. __fixer__  dem virtuellen Raum hinzufügen.
+
+3. __fixer__ im virtuellen Raum ausführen.
+
+4. __fixer__ entfernen.
+
+5. Starte __app_name__ im virtuellen Raum neu."</string>
+    <string name="limit">Nur die ersten Ergebnisse N:</string>
+</resources>

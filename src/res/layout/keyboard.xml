@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.ext.KeyboardLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.fix.ScrollView
+        android:id="@id/kbd_scroll"
+        android:visibility="gone"
+        android:layout_width="0.0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0" />
+    <android.fix.FrameLayout
+        android:id="@id/kbd_frame"
+        android:visibility="gone"
+        android:layout_width="0.0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0" />
+    <android.fix.HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <android.fix.ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <android.ext.InternalKeyboard
+                android:id="@id/keyboard"
+                android:background="@drawable/keyboard_background_lxx_dark"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:keyBackground="@drawable/btn_keyboard_key_lxx_dark"
+                android:keyTextColor="@color/key_text_color_lxx_dark" />
+        </android.fix.ScrollView>
+    </android.fix.HorizontalScrollView>
+</android.ext.KeyboardLayout>

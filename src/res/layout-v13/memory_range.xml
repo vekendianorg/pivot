@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.fix.LinearLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.fix.Button
+        android:textAppearance="@style/SmallText"
+        android:id="@id/range"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/all_memory"
+        android:textAllCaps="false" />
+    <android.fix.LinearLayout
+        android:orientation="vertical"
+        android:id="@id/range_row"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <android.fix.LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <android.fix.TextView
+                android:textAppearance="@style/SmallText"
+                android:layout_gravity="center_vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/from_range" />
+            <android.ext.EditText
+                android:layout_gravity="center_vertical"
+                android:id="@id/memory_from"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:imeOptions="actionNext" />
+            <android.ext.RegionListFiltered
+                android:layout_gravity="center_vertical"
+                android:id="@id/region_from"
+                android:layout_width="48.0dip"
+                android:layout_height="48.0dip" />
+        </android.fix.LinearLayout>
+        <android.fix.LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <android.fix.TextView
+                android:textAppearance="@style/SmallText"
+                android:layout_gravity="center_vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/to_range" />
+            <android.ext.EditText
+                android:layout_gravity="center_vertical"
+                android:id="@id/memory_to"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:imeOptions="actionNext" />
+            <android.ext.RegionListFiltered
+                android:layout_gravity="center_vertical"
+                android:id="@id/region_to"
+                android:layout_width="48.0dip"
+                android:layout_height="48.0dip" />
+        </android.fix.LinearLayout>
+    </android.fix.LinearLayout>
+    <android.fix.LinearLayout
+        android:orientation="vertical"
+        android:id="@id/nearby_row"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <android.fix.LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <android.fix.TextView
+                android:textAppearance="@style/SmallText"
+                android:layout_gravity="center_vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/address" />
+            <android.ext.EditText
+                android:layout_gravity="center_vertical"
+                android:id="@id/address"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:imeOptions="actionNext" />
+        </android.fix.LinearLayout>
+        <android.fix.LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <android.fix.CheckBox
+                android:textAppearance="@style/SmallText"
+                android:layout_gravity="center_vertical"
+                android:id="@id/before"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:text="@string/before" />
+            <android.fix.CheckBox
+                android:textAppearance="@style/SmallText"
+                android:layout_gravity="center_vertical"
+                android:id="@id/after"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:text="@string/after" />
+        </android.fix.LinearLayout>
+        <android.fix.LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <android.fix.TextView
+                android:textAppearance="@style/SmallText"
+                android:layout_gravity="center_vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/distance" />
+            <android.ext.EditText
+                android:layout_gravity="center_vertical"
+                android:id="@id/distance"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:imeOptions="actionNext" />
+        </android.fix.LinearLayout>
+    </android.fix.LinearLayout>
+</android.fix.LinearLayout>

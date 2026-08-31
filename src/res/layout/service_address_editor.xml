@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.fix.LinearLayout
+    android:orientation="vertical"
+    android:paddingLeft="6.0dip"
+    android:paddingRight="6.0dip"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.fix.LinearLayout
+        android:id="@id/group"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <android.fix.TextView
+            android:layout_gravity="center_vertical"
+            android:id="@id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/offset" />
+        <android.ext.EditText
+            android:layout_gravity="center_vertical"
+            android:id="@id/mem_edit_addr"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:imeOptions="actionGo" />
+    </android.fix.LinearLayout>
+    <android.fix.CheckBox
+        android:id="@id/hex"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:checked="true"
+        android:text="@string/hex_input" />
+    <android.fix.LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <android.fix.TextView
+            android:textAppearance="@style/SmallText"
+            android:gravity="center_vertical"
+            android:layout_gravity="center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/type" />
+        <android.ext.SystemSpinnerType
+            android:textAppearance="@style/SmallText"
+            android:id="@id/type"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+    </android.fix.LinearLayout>
+    <android.fix.CheckBox
+        android:id="@id/make_copy"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/make_copy" />
+    <android.fix.TextView
+        android:id="@id/align_warn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</android.fix.LinearLayout>

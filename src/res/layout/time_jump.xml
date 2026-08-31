@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.fix.ScrollView
+    android:paddingLeft="6.0dip"
+    android:paddingRight="6.0dip"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.fix.LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <android.fix.TextView
+            android:textAppearance="@style/SmallText"
+            android:layout_gravity="center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/time_jump_hint" />
+        <android.fix.LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <android.ext.EditText
+                android:layout_gravity="center_vertical"
+                android:id="@id/time_jump"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="0"
+                android:layout_weight="1.0"
+                android:inputType="text"
+                android:imeOptions="actionDone" />
+            <android.fix.ImageButtonView
+                android:layout_gravity="center_vertical"
+                android:id="@id/examples"
+                android:padding="12.0dip"
+                android:layout_width="48.0dip"
+                android:layout_height="48.0dip"
+                android:src="@drawable/ic_help_circle_outline_white_24dp" />
+        </android.fix.LinearLayout>
+        <android.fix.TextView
+            android:textAppearance="@style/SmallText"
+            android:layout_gravity="center_vertical"
+            android:id="@id/hint"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <android.fix.Button
+            android:textAppearance="@style/SmallText"
+            android:layout_gravity="center_vertical"
+            android:id="@id/config_time_jump_panel"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/show_time_jump_panel" />
+    </android.fix.LinearLayout>
+</android.fix.ScrollView>

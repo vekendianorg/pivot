@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="key_width">40.0dip</dimen>
+    <dimen name="key_height">39.599976dip</dimen>
+    <dimen name="checkbox_item_width">96.0dip</dimen>
+</resources>

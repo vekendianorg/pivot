@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.ext.HotPoint
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.fix.LinearLayout
+        android:layout_gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <android.fix.ImageButtonView
+            android:gravity="center"
+            android:id="@id/speed_dec"
+            android:padding="0.0dip"
+            android:layout_width="48.0dip"
+            android:layout_height="48.0dip"
+            android:layout_marginRight="10.0dip"
+            android:src="@drawable/ic_rewind_white_48dp" />
+        <android.ext.HotFrame
+            android:id="@id/hot_frame"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="24.0dip"
+            android:minHeight="24.0dip">
+            <android.fix.ImageView
+                android:id="@id/hot_point_icon"
+                android:layout_width="48.0dip"
+                android:layout_height="48.0dip"
+                android:src="@drawable/ic_gg_48dp"
+                android:minWidth="24.0dip"
+                android:minHeight="24.0dip" />
+            <android.fix.LinearLayout
+                android:orientation="vertical"
+                android:id="@id/progress_layout"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:minWidth="24.0dip"
+                android:minHeight="24.0dip">
+                <android.fix.TextView
+                    android:textSize="10.0dip"
+                    android:gravity="center"
+                    android:id="@id/progress_bar_text"
+                    android:background="#80000000"
+                    android:padding="0.0dip"
+                    android:layout_width="fill_parent"
+                    android:layout_height="0.0dip"
+                    android:minWidth="24.0dip"
+                    android:minHeight="10.0dip"
+                    android:text="30.9%"
+                    android:layout_weight="10.0" />
+                <android.fix.ProgressBar
+                    android:id="@id/progress_bar"
+                    android:padding="0.0dip"
+                    android:layout_width="fill_parent"
+                    android:layout_height="0.0dip"
+                    android:max="100"
+                    android:progress="30"
+                    android:indeterminate="false"
+                    android:minWidth="24.0dip"
+                    android:minHeight="0.0dip"
+                    android:layout_weight="7.0"
+                    style="?android:progressBarStyleHorizontal" />
+                <android.fix.ProgressBar
+                    android:id="@id/progress_bar_stage"
+                    android:padding="0.0dip"
+                    android:layout_width="fill_parent"
+                    android:layout_height="0.0dip"
+                    android:max="100"
+                    android:progress="60"
+                    android:indeterminate="false"
+                    android:minWidth="24.0dip"
+                    android:minHeight="0.0dip"
+                    android:layout_weight="7.0"
+                    style="?android:progressBarStyleHorizontal" />
+            </android.fix.LinearLayout>
+        </android.ext.HotFrame>
+        <android.fix.ImageButtonView
+            android:gravity="center"
+            android:id="@id/speed_inc"
+            android:padding="0.0dip"
+            android:layout_width="48.0dip"
+            android:layout_height="48.0dip"
+            android:layout_marginLeft="10.0dip"
+            android:src="@drawable/ic_fast_forward_white_48dp" />
+    </android.fix.LinearLayout>
+    <android.fix.TextView
+        android:textAppearance="@style/MediumText"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:id="@id/speed_text"
+        android:background="@drawable/txt_bg"
+        android:paddingLeft="5.0dip"
+        android:paddingRight="5.0dip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="9 000 000 000" />
+</android.ext.HotPoint>

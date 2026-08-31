@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lang_code">~~~lt~~~</string>
+    <string name="front_text">Jei jūs turite kokių nors klausimų apie __app_name__ ar jos naudojimusi, prašome apsilankyti mūsų forumuose __forum__</string>
+    <string name="set_path">Laikinoji direktorija</string>
+    <string name="number">Numeris:</string>
+    <string name="type">Tipas:</string>
+    <string name="name">Vardas</string>
+    <string name="reset">Pasirinkite procesą</string>
+    <string name="set_range">Pasirinkite atminties diapozoną</string>
+    <string name="search">Ieškoti</string>
+    <string name="save">Išsaugoti</string>
+    <string name="goto1">Eiti į</string>
+    <string name="address">Adresas:</string>
+    <string name="edit_all">Redaguoti visus rezultatus</string>
+    <string name="filter">Filtras</string>
+    <string name="clear">Išvalyti</string>
+    <string name="max_show_rec">Rodyti:</string>
+    <string name="equal">Nepakeistas</string>
+    <string name="inequal">Pakeistas</string>
+    <string name="larger">Padidintas</string>
+    <string name="smaller">Sumažintas</string>
+    <string name="compare_current_last">Kaip vertė pasikeitė?</string>
+    <string name="write_region_log">Parašykite regiono registrą</string>
+    <string name="old_version">Senoji versija</string>
+    <string name="found_old_version">Buvo rasta šios aplikacijos senesnė versija, t. y. „__app_name__.“. Ar pageidaujate ją išdiegti?</string>
+    <string name="yes">Taip</string>
+    <string name="no">Ne</string>
+    <string name="ok">Gerai</string>
+    <string name="failed_find_package_name">Nepavyko surasti aplikacijos paketo pavadinimo.</string>
+    <string name="path_for_temp_files">"Nustatyti kelią laikiniesiems failams, pvz. '__sdcard__'. Tai gali reikalauti kelių šimtu MB laisvos vietos. Esamos paieškos rezultatai bus prarasti."</string>
+    <string name="confirm">Patvirtinti</string>
+    <string name="cancel">Atšaukti</string>
+    <string name="found_new_version">Rasta nauja versija __s__</string>
+    <string name="daemon_failed">\"Deamon\" nepavyko</string>
+    <string name="failed_run_daemon">Nepavyko paleisti daemon. Ar root įdiegtas?</string>
+    <string name="daemon_unexpected_closed">Daemon netikėtai užsidarė. Informacija:</string>
+    <string name="daemon_exited">\"Daemon\" sustabdytas</string>
+    <string name="failed_load_daemon">Nepavyko įkelti \"daemon\"</string>
+    <string name="is_device_rooted">Nepavyko gauti \"root\" prieigos.</string>
+    <string name="collect_data_to_region_log">Pradėtas duomenų rinkimas įrašymui į regiono registrą...</string>
+    <string name="log_saved">Registras išsaugotas į __s__</string>
+    <string name="failed_save">Nepavyko išsaugoti į __s__</string>
+    <string name="region_log">Regiono registras</string>
+    <string name="apply">Taikyti</string>
+    <string name="error">Klaida</string>
+    <string name="load">Įkelti</string>
+    <string name="delete_prompt">Ar norite pašalinti šį elementą?</string>
+    <string name="reset_search">KLAIDA aptikta. Atstatyti paieškos sąrašą.</string>
+    <string name="unknown_error">Nežinoma klaida</string>
+    <string name="out_of_memory">Nepakanka atminties</string>
+    <string name="bug_detected">Aptikta klaida</string>
+    <string name="disk_full">Pilnas diskas</string>
+    <string name="io_error">IO klaida</string>
+    <string name="game_dead">Žaidimas išsijungė</string>
+    <string name="exit">Išeiti</string>
+    <string name="skip">Ignoruoti</string>
+    <string name="unhandled_exception">Neapdirbta išimtis. Siųsti žemiau pateiktą informaciją programuotojų komandai?</string>
+    <string name="last_run_failed">Paskutinis paleidimas nepavyko</string>
+    <string name="thank_you">Ačiū!</string>
+    <string name="no_application">Nepasirinkta jokia programa.</string>
+    <string name="increments">Prieaugis:</string>
+    <string name="add_not_replace">Pridėti prie reikšmės, nepakeisti</string>
+    <string name="eperm_error">PTRACE_ATTACH klaida: Operacija neleidžiama</string>
+    <string name="load_list">Įkelti sąrašą</string>
+    <string name="load_warning">Įdėjote sąrašą, kuris buvo išsaugotas kitame žaidimo egzemplioriuje. Labiausiai tikėtina, kad visi atmintyje esantys adresai pasikeitė ir įkėlė duomenis, kurie neatitinka anksčiau išsaugotų duomenų. Rekomenduojame juos patikrinti.</string>
+    <string name="from">Užbaigtas __d__ iš __d__ etapais</string>
+    <string name="count_fuzzy_equal_run">„__fuzzy_equal__“ vykdymo kartų skaičius:</string>
+    <string name="slow">lėtai</string>
+    <string name="miui_restart">__app_name__ reikia iš naujo paleisti, kad būtų galima taikyti saugumo teises.</string>
+    <string name="out_of_memory_error">Iš atminties klaidos. Dabartinis rezultatų sąrašas pašalintas. Nustatykite mažesnę parodytinų rezultatų skaičių.</string>
+    <string name="loading">Įkeliama ...</string>
+    <string name="found_count">Rasta: __d__</string>
+    <string name="fuzzy_equal">Vertė nepakitusi</string>
+    <string name="fuzzy_inequal">Vertė pasikeitė</string>
+    <string name="fuzzy_larger">Vertė padidėjo</string>
+    <string name="fuzzy_smaller">Vertė sumažėjo</string>
+    <string name="type_edit_limit">Įvesties vertė nuo __s__ iki __s__</string>
+    <string name="number_name">numeris</string>
+    <string name="step_name">prieaugis</string>
+    <string name="number_less">Numeris „__s__“ yra mažesnis už minimalią šios rūšies vertę (__d__).</string>
+    <string name="number_greater">Numeris „__s__“ yra didesnis už maksimalią šio tipo vertę (__d__).</string>
+    <string name="about">Apie</string>
+    <string name="owner">savininkas</string>
+    <string name="design">pagrindinis dizaineris</string>
+    <string name="pm">projektų valdymas</string>
+    <string name="code">švino koduotojas</string>
+    <string name="tech">techninis konsultantas</string>
+    <string name="creator">kūrėjas (pensininkas)</string>
+    <string name="for_translators">Jei norite padėti arba atlikti vertimo iš paraiškos vertimą, galite susisiekti su mumis forume http://gameguardian.net/forum, kad gautumėte vertimą į oficialų programos leidimą.</string>
+    <string name="version">Versija:</string>
+    <string name="developers">Kūrėjai:</string>
+    <string name="select_language">Pasirinkite kalbą</string>
+    <string name="exit_confirm">__app_name__ reikia iš naujo paleisti, kad būtų pritaikyti pakeitimai.</string>
+    <string name="special_thanks">Ypač ačiū:</string>
+    <string name="nothing_found">Nieko nerasta. Pabandykite ieškoti dar kartą.</string>
+    <string name="try_more_ranges">Be to, nustatymų skirtuke galite pabandyti pasirinkti daugiau intervalų.</string>
+    <string name="try_fuzzy_search">Taip pat galite pabandyti ieškoti nežinomos vertės.</string>
+    <string name="search_hint">"Jei norite ieškoti žinomos vertės, paspauskite \"__search_known_value__\".
+Jei vertė nežinoma arba užšifruota, spustelėkite „__search_unknown_value__“ ieškoti.
+Plaukiojančių reikšmių paiešką pagal jų skaičių galima atlikti pasirinkus „__type_auto__“ paieškos tipą.
+Taip pat galite naudoti grupės paiešką su „__semicolon__“ kaip separatorių."</string>
+    <string name="freeze">Užšaldyti:</string>
+    <string name="freeze_normal">normalus</string>
+    <string name="freeze_may_increase">gali padidėti</string>
+    <string name="freeze_may_decrease">gali sumažėti</string>
+    <string name="freeze_in_range">diapazone</string>
+    <string name="range_end_fail">Diapazono galas („__s__“) turi būti didesnis nei „__s__“.</string>
+    <string name="failed_add_window">Nepavyko pridėti lango</string>
+    <string name="failed_remove_window">Nepavyko pašalinti lango</string>
+    <string name="system_service_stopped">Programa negali veikti normaliai, nes sistemos paslauga buvo sustabdyta. Pabandykite iš naujo paleisti programą arba iš naujo paleisti įrenginį.</string>
+    <string name="value_request">Įveskite norimą paiešką</string>
+    <string name="type_request">Pasirinkite ieškomų duomenų tipą</string>
+    <string name="type_change_request">Pasirinkite duomenų tipą, kurį norite pakeisti</string>
+    <string name="value">Vertė</string>
+    <string name="save_as">Išsaugoti kaip:</string>
+    <string name="restart">Perkrauti</string>
+    <string name="start">Pradėti</string>
+    <string name="wait_daemon">Ši funkcija neveikia, jei demonas neveikia. Palaukite, kol bus paleistas demonas. (Ar pamiršote suteikti root prieigą? Arba nėra šaknis neįdiegta?)</string>
+    <string name="daemon_fail">„Daemon“ neveikia</string>
+    <string name="config_icon_text">Piktograma: skaidrumas = __d__ %%, slėpti - __s__</string>
+    <string name="icon_hide_after">po __d__ sekundžių</string>
+    <string name="icon_hide_never">niekada</string>
+    <string name="keyboard">Klaviatūra:</string>
+    <string name="internal">Vidinis</string>
+    <string name="external">Išorinis</string>
+    <string name="failed_copy_text">Nepavyko kopijuoti teksto į iškarpinę:</string>
+    <string name="copied">Kopijuota</string>
+    <string name="copy_value">Kopijuoti vertę:</string>
+    <string name="copy_address">Nukopijuokite adresą:</string>
+    <string name="goto_address">Eikite į adresą:</string>
+    <string name="search_unknown_value">Nežinoma (fuzzy) paieška</string>
+    <string name="search_known_value">Žinoma (tiksli) paieška</string>
+    <string name="speedhack_hint">Norėdami pakeisti žaidimo greitį, atlikite ilgą klavišą ant plaukiojančios __app_name__ piktogramos.</string>
+    <string name="bad_firmware">Jūsų firmware turi klaidų, kurios neleido naudoti šios funkcijos.</string>
+    <string name="language">Kalba</string>
+    <string name="acceleration">Sąsajos pagreitis:</string>
+    <string name="hardware">Aparatūra</string>
+    <string name="software">Programinė įranga</string>
+    <string name="speedhack">„Speedhack“</string>
+    <string name="data_in_ram">Duomenys RAM:</string>
+    <string name="first_mb">Pirmasis __d__ MB</string>
+    <string name="donate">Paremkite</string>
+    <string name="speeds">greitis</string>
+    <string name="floating_window_fail">Nepavyko parodyti plūduriuojančio lango</string>
+    <string name="check">Tikrinimas</string>
+    <string name="check_success">Tikrinimas buvo sėkmingas</string>
+    <string name="enable_draw_perm">Prašome įjungti leidimus kitame ekrane.</string>
+    <string name="speedhack_fail">Šiam procesui „Speedhack“ nepalaikoma</string>
+    <string name="dangerous">pavojinga</string>
+    <string name="difference">Skirtumas</string>
+    <string name="old_value">Sena vertė</string>
+    <string name="new_value">Nauja vertė</string>
+    <string name="mode_hacking">Ši vertė yra užšifruota</string>
+    <string name="union">Grupės paieška</string>
+    <string name="speedhack_open">Galite atidaryti spartųjį greitį ilgą laiką paspaudus plūduriuojančią __app_name__ piktogramą.</string>
+    <string name="history">Istorija</string>
+    <string name="history_empty">Istorija yra tuščia</string>
+    <string name="allow_suggestions">Leisti klaviatūros pasiūlymus:</string>
+    <string name="invalid_area">Grupės dydis turi būti nuo __d__ iki __d__:</string>
+    <string name="union_need_two_numbers">Grupinei paieškai turi būti bent du numeriai</string>
+    <string name="too_many_union_numbers">Per daug numerių, daugiau nei:</string>
+    <string name="invalid_number">Neteisingas numeris:</string>
+    <string name="input_number">Įvesties numeris</string>
+    <string name="number_out_of_range">Numeris „__s__“ iš galimo diapazono:</string>
+    <string name="help_floating_icon">"* Plaukiojanti piktograma:
+\u0009* Bakstelėkite, kad atidarytumėte sąsają.
+\u0009* Bakstelėkite ir laikykite nuspaudę, kad perjungtumėte sparčiosios atramos skydelį.
+\u0009* Jis gali būti perkeltas į bet kurią vietą, nuvilkiant piktogramą.
+\u0009* Skaidrumas ir slėpimo laikmatis gali būti pritaikyti programų nustatymuose.
+"</string>
+    <string name="help_exact_search">"* Tiksli paieška:
+\u00091. Perjunkite iš __app_name__ iš žaidimo.
+\u00092. Bakstelėkite \"__search_known_value__\" mygtuką \"__search__\" skirtuke.
+\u00093. Įveskite žaidime rodomą numerį.
+\u00094. Pasirinkite tinkamą duomenų tipą arba pasirinkite „__type_auto__“ (jei nežinote) ir kitas parinktis (jei reikia) ir spustelėkite „__search__“.
+\u00095. Baigę paiešką, paieškos rezultatai bus rodomi sąraše.
+\u00096. Grįžkite į žaidimą. Pasikeitus vertei, vėl įjunkite į __app_name__.
+\u00097. Suraskite pasikeitusią vertę.
+\u00098. Jei yra per daug rezultatų, pereikite prie 6 žingsnio.
+\u00099. Jei liko tik keletas rezultatų, galite pabandyti keisti, saugoti ar užšaldyti vertę.
+"</string>
+    <string name="help_speedhack">"* „Speedhack“:
+\u0009* Bakstelėkite ir laikykite plūduriuojančią piktogramą, kad pamatytumėte sparčiosios atramos skydelį.
+\u0009* Bakstelėkite rodykles abiejose piktogramos pusėse, kad pakeistumėte žaidimo greitį.
+\u0009* Norėdami atstatyti žaidimo greitį, palieskite ir palaikykite dabartinį greičio numerį.
+\u0009* Bakstelėkite ir laikykite plūduriuojančią piktogramą, kad paslėptumėte spartųjį langą.
+* Naudojamų greičių ir laikmačių sąrašas gali būti pritaikytas programos nustatymuose.
+\u0009* Jei žaidimas neatsako į įvestį arba „speedhack“ neveikia, pabandykite naudoti kitus žaliuosius laikmačius __app_name__ nustatymuose.
+\u0009* Galite naudoti „__time_jump__“, jei norite pereiti į priekį. Tiesiog pasirinkite paieškos skirtuko meniu ir pasirinkite „__time_jump__“. Jums reikės nurodyti, kiek sekundžių reikia šokti. Šokinėti suma gali būti dalinė.
+"</string>
+    <string name="help_fuzzy_search">"* „Fuzzy“ paieška:
+\u00091. Perjunkite iš __app_name__ iš žaidimo.
+\u00092. Bakstelėkite \"__search_unknown_value__\" mygtuką \"__search__\" skirtuke.
+\u00093. Pasirinkite tinkamą duomenų tipą arba pasirinkite „__type_auto__“ (jei nesate tikras) ir spustelėkite „__search__“.
+\u00094. Baigę paiešką, paieškos rezultatai bus rodomi sąraše.
+\u00095. Grįžti į žaidimą. Pakeitus vertę (ar ne), vėl įjunkite į __app_name__.
+\u00096. Bakstelėkite mygtuką „__search_unknown_value__“ ir pasirinkite tipo keitimo tipą.
+\u00097. Jei yra per daug rezultatų, atlikite 5 veiksmą.
+\u00098. Jei liko tik keletas rezultatų, galite pabandyti keisti, saugoti ar užšaldyti vertę.
+
+\u0009Galite nurodyti tikslų vertės pasikeitimą spustelėję mygtuką \"__more__\".
+\u0009Galite įvesti diapazoną kaip tikslų vertės pakeitimą:
+\u0009\u0009190__tilde__210
+\u0009Jei norite nustatyti pakeitimus už reikšmių ribų, galite įvesti:
+\u0009\u000910__tilde____tilde__4000
+"</string>
+    <string name="help_group_search">"* Grupės paieška:
+\u00091. Perjunkite iš __app_name__ iš žaidimo.
+\u00092. Bakstelėkite \"__search_known_value__\" mygtuką \"__search__\" skirtuke.
+\u00093. Įveskite paieškos užklausą grupės paieškai.
+\u0009\u0009Formatas: vertė 1 __semicolon__ vertė 2 __semicolon__ ... __semicolon__ vertė N __colon__ grupės dydis
+\u0009\u0009Tuo pačiu metu galima ieškoti 2-__max_group__ reikšmių. Numatytasis grupės dydis yra 512. Grupės dydis turi būti nuo 2 iki 65536.
+\u0009\u0009Pavyzdžiui, jei norite ieškoti 195 ir 6543, turėtumėte įvesti:
+\u0009\u0009\u0009195 __semicolon__ 6543
+\u0009\u0009Žinoma, galite nurodyti grupės dydį (300):
+\u0009\u0009\u0009195 __semicolon__ 6543 __colon__ 300
+\u0009\u0009Taip pat galite nustatyti vieną ar daugiau duomenų tipų:
+\u0009\u0009\u0009195__type_dword_short__ __semicolon__ 6543
+\u0009\u0009Tai reiškia, kad norite ieškoti __type_dword__ vertės, kuri yra 195 ir __type_auto__ vertė yra 6543.
+\u0009\u0009Galimi duomenų tipai yra tokie patys, kaip ir paieškoje:
+\u0009\u0009\u0009__type_byte_short__ - __type_byte__
+\u0009\u0009\u0009__type_word_short__ - __type_word__
+\u0009\u0009\u0009__type_dword_short__ - __type_dword__
+\u0009\u0009\u0009__type_xor_short__ - __type_xor__
+\u0009\u0009\u0009__type_qword_short__ - __type_qword__
+\u0009\u0009\u0009__type_float_short__ - __type_float__
+\u0009\u0009\u0009__type_double_short__ - __type_double__
+\u0009\u0009\u0009__type_auto_short__ - __type_auto__
+\u0009\u0009Taip pat galite įrašyti numerį šešiolikoje (mažai-endian) žymoje:
+\u0009\u0009\u0009__hex_example____hex__ __semicolon__ 6543
+\u0009\u0009arba atvirkštinio šešiakampio (big-endian) žymėjimu:
+\u0009\u0009\u0009__hex_example____rhex__ __semicolon__ 6543
+\u0009\u0009Norėdami įvesti papildomus simbolius, naudokite vidinės klaviatūros mygtuką „__btn_hex__“.
+\u00094. Pasirinkite tinkamą duomenų tipą arba pasirinkite „__type_auto__“ (jei nesate tikras) naudoti kaip numatytąjį. Kitos parinktys nesvarbu šio tipo paieškai. Spustelėkite „__search__“.
+\u00095. Baigę paiešką, paieškos rezultatas bus rodomas sąraše.
+\u00096. Grįžti į žaidimą. Pasikeitus vertei, vėl įjunkite į __app_name__.
+\u00097. Pakartokite grupės paiešką su atitinkamais pakeitimais.
+\u00098. Jei yra per daug rezultatų, pakartokite 6 ir 7 veiksmus.
+\u00099. Jei liko nedaug rezultatų, galite pabandyti modifikuoti, saugoti arba užšaldyti vertę.
+
+\u0009Jei norite gerbti vertybių tvarką, tada nurodykite __colon__ du kartus.
+\u0009Be grupės dydžio:
+\u0009\u0009195 __semicolon__ 6543 __colon____colon__
+\u0009Grupės dydis:
+\u0009\u0009195 __semicolon__ 6543 __colon____colon__ 300
+
+\u0009Galite ieškoti vertybių diapazone:
+\u0009\u0009190__tilde__210 __semicolon__ 6543
+\u0009Taip pat galite ieškoti ne pagal reikšmes:
+\u0009\u000910__tilde____tilde__4000 __semicolon__ 6543
+"</string>
+    <string name="help_others">"* Kiti:
+\u0009* Jei norite ieškoti naujų paieškų, turite išvalyti ankstesnius paieškos rezultatus, pasirinkdami meniu mygtuką „__clear__“.
+\u0009* Norėdami pasirinkti kitą žaidimą bakstelėkite žaidimo piktogramą viršutiniame kairiajame kampe.
+\u0009* Jei norite pristabdyti / tęsti žaidimą, bakstelėkite mygtuką po piktograma viršutiniame kairiajame kampe.
+\u0009* Jei perjungsite į žaidimą, kai pristabdymas yra aktyvus, kitą kartą atidarius __app_name__, šis žaidimas bus automatiškai sustabdytas.
+\u0009* Visos įšaldytos vertės automatiškai įtraukiamos į išsaugotą sąrašą. Juos galite valdyti pagal atitinkamą skirtuką.
+\u0009* Visi įvesties duomenys išsaugomi „__history__“ sąraše. Juos galite naudoti paspausdami istorijos mygtuką.
+"</string>
+    <string name="help_typical_usage">"* Tipiniai naudojimo algoritmai:
+
+1) Vertė nėra užšifruota ir žinoma.
+\u0009Tipiškas atvejis būtų pinigai, žvaigždės, monetos, ištekliai ir kt.
+
+\u0009Naudokite tikslią paiešką.
+
+2) Vertė nežinoma ir / arba užšifruota.
+Tipiškas nežinomos vertės atvejis - bet kuri skalė / baras. Pavyzdžiui, sveikata, mana, nitro ir kt. Matomi pokyčiai, bet skaitinių reikšmių nėra.
+\u0009A typical case for encrypted values would be money, stars, coins, etc., but when searching with 1 algorithm does not find anything, or change of found values does not lead to numbers changing in the game.
+
+\u0009Naudokite „fuzzy“ paiešką.
+
+
+3) Ši vertė yra užšifruota (__mode_hacking__).
+\u0009A typical case for encrypted values would be money, stars, coins, etc., but when searching with 1 algorithm does not find anything, or change of found values does not lead to numbers changing in the game.
+
+\u0009Naudokite tikslią paiešką, tačiau visada pasirinkite žymės langelį „__mode_hacking__“.
+\u0009Gauti rezultatai gali turėti keistų verčių dėl šifravimo.
+
+3 algoritmas yra daug greitesnis nei 2, bet jis gali neveikti visiems žaidimams.
+
+4) Ši vertė nėra užšifruota, žinoma ir pateikiama šalia kitų žinomų vertybių.
+\u0009Tipiškas atvejis būtų kaina parduotuvėje, herojaus statistika ir kt.
+
+\u0009Vienu metu naudokite visų numerių paiešką.
+"</string>
+    <string name="help_hints">"* Patarimai:
+
+\u0009* Ne visus žaidimus galima keisti __app_name__. Tipinis pavyzdžių sąrašas:
+\u0009\u0009* serveryje saugomi duomenys (serverio pusės žaidimai)
+\u0009\u0009* žaidimui reikia nuolatinio interneto ryšio
+\u0009\u0009* tinklo žaidimas su kitais žaidėjais
+\u0009\u0009* žaidimo pradžioje turite pasirinkti serverį, kurį norite prisijungti
+\u0009\u0009* Jūs negalite naudoti kai kurių dalykų be interneto
+\u0009\u0009* žaidimas iš naujo įkelia duomenis iš serverio, jei ką nors pakeisite
+\u0009* Rodomos vertės ne visada yra tokios pačios, kaip ir jų saugojimo būdas. Jie gali būti skirtingi. Pavyzdžiui, ekrane matome 34, bet atmintyje vertė yra 34000.
+\u0009* Jei negalite keisti vertės - pabandykite keisti vertes, kurios paveikė šią vertę. Pavyzdžiui, vietoj to, kad pakeistumėte aukso kiekį, galite keisti daiktą ir jį parduoti. Arba pirkti su neigiama kaina.
+"</string>
+    <string name="help">Pagalba</string>
+    <string name="help_floating_icon_title">Plaukiojanti piktograma</string>
+    <string name="help_exact_search_title">Tiksli paieška</string>
+    <string name="help_speedhack_title">„Speedhack“</string>
+    <string name="help_group_search_title">Grupės paieška</string>
+    <string name="help_others_title">Kiti</string>
+    <string name="help_typical_usage_title">Tipiniai naudojimo algoritmai</string>
+    <string name="help_hints_title">Patarimai</string>
+    <string name="value_format">Vertės formatas</string>
+    <string name="format_hex">Šešiasdešimt (mažai endianų) žymėjimas</string>
+    <string name="format_rhex">„Reverse hex“ („big-endian“) žymėjimas</string>
+    <string name="clear_selection">Išvalykite pasirinkimą</string>
+    <string name="invert_selection">Apverskite pasirinkimą</string>
+    <string name="select_all">Pasirinkti viską</string>
+    <string name="edit_selected">Pasirinktas redagavimas</string>
+    <string name="delete_selected">Pašalinti pasirinktą</string>
+    <string name="save_selected">Išsaugoti pasirinktą</string>
+    <string name="nothing_selected">Nieko nepasirinkta</string>
+    <string name="items_added">Elementai (__d__) įtraukti į išsaugotą sąrašą</string>
+    <string name="no_items_for_editing">Nėra elementų, kuriuos norite redaguoti.</string>
+    <string name="edit_info">__s__ redaguoti kaip __s__</string>
+    <string name="edit_all_info">Redaguokite __d__ adresus kaip __s__</string>
+    <string name="autopause">Automatinio paleidimo žaidimas:</string>
+    <string name="empty_list">"Išsaugotas sąrašas yra tuščias.
+Į jį galite įtraukti elementus iš paieškos rezultatų sąrašo arba iš atminties redaktoriaus.
+Tiesiog pasirinkite norimus elementus ir meniu pasirinkite „__save_selected__“.
+Kitas metodas - pradėkite redaguoti vertę ir pažymėkite žymės langelį „__save_as__“.
+Taip pat automatiškai įtraukiamos visos užšaldytos vertės."</string>
+    <string name="empty_save">Išsaugotas sąrašas yra tuščias. Nėra nieko sutaupyti.</string>
+    <string name="revert_selected">Atšaukti pasirinktą</string>
+    <string name="nothing_to_revert">Nieko negrįžti</string>
+    <string name="revert_prompt">Grąžinti pasirinktus elementus (__d__)?</string>
+    <string name="download">Šią programą galima atsisiųsti iš:</string>
+    <string name="format_string">Styginių atstovavimas</string>
+    <string name="forgot_h">Ar pamiršote „__hex__“ pabaigoje?</string>
+    <string name="time_jump">Laiko šuolis</string>
+    <string name="time_jump_hint">Įveskite sekundžių skaičių, per kurį norite pereiti:</string>
+    <string name="hide_from_game">Paslėpti __app_name__ iš žaidimo:</string>
+    <string name="last_stats">Paskutinės paieškos statistika</string>
+    <string name="memory_access">Prieiga prie atminties:</string>
+    <string name="normal">Normalus</string>
+    <string name="extended">Išplėstas</string>
+    <string name="experimental">Eksperimentinis</string>
+    <string name="installing">__app_name__ atlieka iš naujo įdiegimą atsitiktiniu pavadinimu, kad pašalintų aptikimą žaidimais. Laukti.</string>
+    <string name="failed_install">Nepavyko įdiegti programos. Bandykite dar kartą?</string>
+    <string name="failed_uninstall">Nepavyko pašalinti programos. Bandykite dar kartą?</string>
+    <string name="download_it">parsisiųsti</string>
+    <string name="more">Daugiau</string>
+    <string name="less">Mažiau</string>
+    <string name="no_space">Jūsų prietaise nėra vietos</string>
+    <string name="install_cancel_prompt">__app_name__ galima aptikti, kai neįdiegta. Ar tikrai norite atšaukti?</string>
+    <string name="intercept">perimti</string>
+    <string name="need_restart">Norint taikyti šiuos pakeitimus, taikomoji programa turi būti paleista iš naujo.</string>
+    <string name="must_be_root">"Šios programos veikimui jūsų įrenginys turi turėti šaknį.
+
+__app_name__ gali dirbti ribotą režimą be šaknies per virtualią aplinką. Pavyzdžiui, per __vspace_list__ ir daugelį kitų.
+Išsamesnės informacijos skaitykite.
+
+Kaip įjungti bet kurį įrenginį: http://www.xda-developers.com/root/"</string>
+    <string name="skip_">Praleisti</string>
+    <string name="indent_for_the_status_bar">Įtraukti UI iš ekrano viršaus:</string>
+    <string name="start_collecting_data">Pradėkite rinkti duomenis</string>
+    <string name="data_collecting_in_progress">Duomenų rinkimas vyksta</string>
+    <string name="copy">Kopijuoti</string>
+    <string name="show_logcat">Rodyti logcat</string>
+    <string name="path_must_be">Kelias turi būti ne trumpesnis kaip 2 simboliai ir prasideda „/“.</string>
+    <string name="fix_it">Pataisyk tai</string>
+    <string name="change_log">Keisti žurnalą</string>
+    <string name="used_only_first">Naudojami tik pirmieji __d__ elementai.</string>
+    <string name="need_select_more">Reikia pasirinkti __d__ ar daugiau elementų.</string>
+    <string name="offset">Atsparumas:</string>
+    <string name="result">Rezultatas:</string>
+    <string name="copy_hex_value">Kopijuoti šešioliktainę vertę:</string>
+    <string name="goto_pointer">Eiti į rodyklę:</string>
+    <string name="offset_calculator">Ofsetinė skaičiuoklė</string>
+    <string name="fill_toolbar">Užpildykite įrankių juostą:</string>
+    <string name="from_left">Iš kairės</string>
+    <string name="from_center">Iš centro</string>
+    <string name="from_right">Iš dešinės</string>
+    <string name="unit_years_short">y</string>
+    <string name="unit_days_short">d</string>
+    <string name="unit_hours_short">h</string>
+    <string name="unit_minutes_short">min</string>
+    <string name="unit_seconds_short">sek</string>
+    <string name="speed_info">__s__ realiu laiku = __s__ žaidimo metu</string>
+    <string name="search_helper">Ieškoti pagalbininko:</string>
+    <string name="off">Išjungta</string>
+    <string name="go_to_game">Grįžkite į žaidimą, jei yra daug vertybių</string>
+    <string name="go_to_game_and_restore">Grįžkite į žaidimą, jei randama daug vertybių ir atkurkite paieškos režimą kitame atidaryme</string>
+    <string name="nothing">Nieko</string>
+    <string name="sort">Rūšiuoti</string>
+    <string name="sort_and_remove_duplicates">Rūšiuoti ir pašalinti dublikatus</string>
+    <string name="help_basics_title">Pagrindinė informacija</string>
+    <string name="help_basics">"Paleidus programą, spustelėję mygtuką „__start__“ ekrane pasirodys plūduriuojantis simbolis. Jį galima vilkti į bet kurią vietą.
+Trumpas piktogramos bakstelėjimas atvers pagrindinę programos sąsają, ilgą bakstelėjimą - parodys žaidimo spartos keitimo skydelį.
+
+Pagrindiniame ekrane galite matyti:
+\u0009* Viršutiniame kairiajame kampe - žaidimo piktograma. Paspaudus jį galite pasirinkti kitą žaidimą.
+\u0009* Įsikūręs centre, yra žymės, leidžiančios naršyti skirtukus. Spustelėjus norimą žymę, rodomas atitinkamas skirtukas.
+
+Iš viso yra 4 skirtukai: nustatymai, paieška, išsaugotas sąrašas ir atminties redaktorius.
+\u0009* Viršutiniame dešiniajame sąsajos kampe yra uždarymo mygtukas. Paspauskite jį ir sąsaja bus paslėpta, o ekrane pasirodys plūduriuojantis simbolis.
+\u0009* Ekrano apačioje yra būsenos juosta ir akies piktograma. Jei paspausite ir palaikysite akies piktogramą, sąsaja tampa skaidri, kol neatleisite piršto.
+\u0009* Likęs ekrano turinys priklauso nuo to, kurį skirtuką esate.
+
+Kiekviename skirtuke, išskyrus nustatymų skirtuką, yra meniu mygtukas, kuriame yra įvairių galimų veiksmų. Jame rasite pagrindinius šio skirtuko veiksmus.
+
+Skirtuke „Nustatymai“ yra įvairūs nustatymai, pagalba ir informacija apie programą ir išėjimo mygtukas.
+
+Paieška skirtuke yra:
+\u0009* Pauzės mygtukas, pasirinkto žaidimo pavadinimas, rastų rezultatų skaičius ir atnaujinimo mygtukas.
+\u0009* Žemiau yra skydelis su greita prieiga piktogramomis ir meniu mygtuku. Visos piktogramos yra dubliuojamos meniu, taigi, jei nežinote piktogramos reikšmės, jis visada gali būti peržiūrėtas paspaudus meniu mygtuką (dešinėje).
+\u0009* Žemiau šios piktogramos bus paieškos rezultatų sąrašas.
+
+Išsaugoto sąrašo skirtuke yra:
+\u0009* Pauzės mygtukas, pasirinktos programos pavadinimas, meniu mygtukas ir atnaujinimo mygtukas.
+\u0009* Po šiomis piktogramomis bus išsaugotų vertybių sąrašas.
+
+Atminties redaktoriaus skirtukas yra panašus į ankstesnį, tik čia, o ne išsaugotų vertybių sąraše, jis rodo atminties turinį.
+
+Visuose trijuose sąrašuose (paieškos rezultatai, išsaugotos vertės ir atminties redaktorius) galite ilgai paliesti elementus, kad būtų rodomas kontekstinis meniu."</string>
+    <string name="daemon_killed">"Daemon buvo nužudytas kažkuo.
+
+Paprastai tai gali būti:
+\u00091. Bet kokie atminties žudikai ar optimizatoriai. Turite išjungti bet kokius žudikus arba įtraukti į __app_name__ baltąjį sąrašą jo nustatymuose.
+\u00092. __daemon_killed_oom__
+\u00093. Atminties kortelė buvo išmontuota, o __app_name__ saugojo laikinus failus. Norėdami išvengti šio įvykio, nurodykite kitą kelią į laikinus failus. Pavyzdžiui, vidinėje atmintyje."</string>
+    <string name="bad_settings">Netinkami nustatymai</string>
+    <string name="freeze_lags">Naudojant užšaldymo reikšmes kartu su nustatymu __hide_from_game__, žaidime gali būti vėluojama.</string>
+    <string name="improve_translation">Šį vertimą sukūrė automatinis vertėjas. Jūs galite ją pagerinti naudodami mūsų kolektyvinio vertimo tarnybą.</string>
+    <string name="freeze_interval">Užšaldymo intervalas:</string>
+    <string name="saved_list_update_interval">Išsaugoto sąrašo atnaujinimo intervalas:</string>
+    <string name="milliseconds_short">ms</string>
+    <string name="disable_floating_windows">Išjunkite plaukiojančius langus ir iš naujo paleiskite programą</string>
+    <string name="enable_floating_windows">Įjunkite plaukiojančius langus ir paleiskite programą iš naujo</string>
+    <string name="too_many">Per daug</string>
+    <string name="help_range_search_title">Diapazono paieška</string>
+    <string name="help_range_search">"* Diapazono paieška:
+\u00091. Perjunkite iš __app_name__ iš žaidimo.
+\u00092. Bakstelėkite \"__search_known_value__\" mygtuką \"__search__\" skirtuke.
+\u00093. Įveskite pasienio paieškos diapazoną, atskirtą „__tilde__“. Pavyzdžiui, jei norite ieškoti reikšmes nuo 100 iki 150, įveskite:
+\u0009\u0009\u0009100__tilde__150
+\u0009\u0009Norėdami ieškoti už diapazono ribų, du kartus galite nurodyti simbolį \"__tilde__\":
+\u0009\u0009\u0009100__tilde____tilde__150
+\u0009\u0009Arba galite pasirinkti ženklą \"__not_equal__\" ir vieną kartą nurodyti simbolį \"__tilde__\".
+\u0009\u0009Norėdami įvesti papildomus simbolius, naudokite vidinės klaviatūros mygtuką „__btn_hex__“.
+\u00094. Pasirinkite tinkamą duomenų tipą arba pasirinkite „__type_auto__“ (jei nežinote) ir kitas parinktis (jei reikia) ir spustelėkite „__search__“.
+\u00095. Baigę paiešką, paieškos rezultatai bus rodomi sąraše.
+\u00096. Grįžti į žaidimą. Pasikeitus vertei, vėl įjunkite į __app_name__.
+\u00097. Pakartokite diapazono paiešką atitinkamais pakeitimais.
+\u00098. Jei yra per daug rezultatų, pakartokite 6 ir 7 veiksmus.
+\u00099. Jei liko nedaug rezultatų, galite pabandyti modifikuoti, saugoti arba užšaldyti vertę.
+
+\u0009Paieškos rezultatų ribos. Galite pasirinkti paieškos tipą \"__not_equal__\", kad rastumėte visas vertes, kurios nepriklauso diapazonui.
+\u0009Šioje paieškoje visos vertės laikomos pasirašytomis.
+"</string>
+    <string name="does_not_support">\"__s__\" nepalaiko \"__s__\".</string>
+    <string name="range_bounds_diff_types">Diapazono ribos turi būti tokios pačios.</string>
+    <string name="examples">Pavyzdžiai</string>
+    <string name="rtfm">Išsamesnės informacijos ieškokite pagalbos.</string>
+    <string name="icons_size">Piktogramų dydis:</string>
+    <string name="revert_and_remove">Grįžkite ir pašalinkite</string>
+    <string name="remove">Pašalinti</string>
+    <string name="ordered_group_search">Užsakytos grupės paieška</string>
+    <string name="load_items">Elementai</string>
+    <string name="load_values">Vertės</string>
+    <string name="load_freeze">Užšaldyti</string>
+    <string name="video_tutorials">Video samouczków ir gidai, kaip nulaužti</string>
+    <string name="make_copy">Padaryti kopiją</string>
+    <string name="video">Vaizdo įrašai</string>
+    <string name="ordered">Užsakyta</string>
+    <string name="toolbars">Įrankių juostos</string>
+    <string name="saved_list">Išsaugotas sąrašas</string>
+    <string name="memory_editor">Atminties redaktorius</string>
+    <string name="restart_game">Iš naujo paleiskite žaidimą</string>
+    <string name="refine">Tobulinti</string>
+    <string name="internal_storage">Vidinė atmintis</string>
+    <string name="external_storage">Išorinė saugykla</string>
+    <string name="new_search">Nauja paieška</string>
+    <string name="load_saved_list">Įdėkite išsaugotą sąrašą iš failo</string>
+    <string name="save_saved_list">Išsaugokite išsaugotą sąrašą į failą</string>
+    <string name="append">Pridėkite</string>
+    <string name="xor_key">XOR raktas:</string>
+    <string name="only_memory">Tik atminties diapazone:</string>
+    <string name="dump_memory">Dump atmintis</string>
+    <string name="path">Kelias:</string>
+    <string name="dump_ended">Dump baigėsi</string>
+    <string name="dump_failed">Dump nepavyko</string>
+    <string name="eperm_error_defend">Nepavyko pridėti prie proceso (PTRACE_ATTACH): Žaidimas yra apsaugotas</string>
+    <string name="reset_on_exit">Atstatyti išeinant:</string>
+    <string name="kill_game">Nužudyk žaidimą</string>
+    <string name="kill_game_info">Priverstinai nutraukiant procesą procesas nesuteikia galimybės išjungti grynai ir gali sukelti duomenų praradimą ar sistemos nestabilumą.</string>
+    <string name="continue_ask">Tęsti?</string>
+    <string name="copy_memory">Kopijuoti atmintį</string>
+    <string name="copy_from">Kopijuoti iš:</string>
+    <string name="paste_to">Įklijuoti į:</string>
+    <string name="count_bytes">Skaičių baitai:</string>
+    <string name="copy_ended">Baigta kopijavimo atmintis</string>
+    <string name="copy_failed">Nepavyko kopijuoti atminties</string>
+    <string name="help_encrypted_search_title">Ieškokite užšifruotų reikšmių</string>
+    <string name="help_encrypted_search">"* Ieškoti užšifruotų reikšmių:
+\u00091. Perjunkite iš __app_name__ iš žaidimo.
+\u00092. Bakstelėkite \"__search_known_value__\" mygtuką \"__search__\" skirtuke.
+\u00093. Įveskite žaidime rodomą numerį.
+\u00094. Pasirinkite tinkamą duomenų tipą arba pasirinkite „__type_auto__“ (jei nežinote), kitas parinktis (jei reikia), pažymėkite „__mode_hacking__“ ir spustelėkite „__search__“.
+\u00095. Baigę paiešką, paieškos rezultatai bus rodomi sąraše.
+\u00096. Grįžkite į žaidimą. Pasikeitus vertei, vėl įjunkite į __app_name__.
+\u00097. Suraskite pasikeitusią vertę. Pažymėkite žymės langelį „__mode_hacking__“.
+\u00098. Jei yra per daug rezultatų, pereikite prie 6 žingsnio.
+\u00099. Jei liko tik keletas rezultatų, galite pabandyti keisti, saugoti ar užšaldyti vertę.
+"</string>
+    <string name="help_faq_title">Dažnai užduodami klausimai</string>
+    <string name="help_faq_1_q">Kodėl negaliu įvesti vertės, didesnės nei 99 arba 60 000?</string>
+    <string name="help_faq_1_a">Jūs nustatėte __type_byte__ arba __type_word__ reikšmę. Ieškokite didesnės reikšmės __type_dword__.</string>
+    <string name="help_faq_2_q">Kaip ieškoti dalinių (__type_float__) reikšmių be dalinės vertės dalies?</string>
+    <string name="help_faq_2_a">Naudokite „__type_auto__“ duomenų tipą arba diapazono paiešką. Pavyzdžiui, 11.345 galite ieškoti „10__tilde__12“.</string>
+    <string name="help_faq_3_q">Radau vertę ir ją pakeitiau, tačiau žaidime šis pakeitimas nieko nedaro. Aš tiesiog bandau jį naudoti, bet viskas grįžta. Ką aš darau neteisingai?</string>
+    <string name="help_faq_3_a">"Kai kuriuose žaidimuose vertės yra saugomos arba užšifruotos. Prieš rodant vertę, ši reikšmė iššifruojama į kitą kintamąjį. Jūs jį pakeitėte.
+Kadangi ši vertė naudojama tik ekranui, ji neturi įtakos žaidimų mechanikai. Norėdami rasti tikrąją vertę, o ne rodomą vertę, naudokite šifruotos vertės paiešką arba fuzzy paiešką.
+Kartais vertė išsaugoma serveryje ir sinchronizuojama kiekvieną kartą. Šiuo atveju jis negali būti nulaužtas. Jei žaidimas neveikia be interneto ir ankstesni būdai nepadėjo - greičiausiai taip yra."</string>
+    <string name="help_faq_4_q">Nepavyksta rasti vertės žaidime X. Arba jis randamas, bet kai pasikeičia, nieko neįvyksta. Arba ji randa, bet po to, kai ji pakeitė žaidimo avarijas. Kaip sužinoti, kokia yra problema, ar tai yra apsauga žaidime ar su __app_name__?</string>
+    <string name="help_faq_4_a">"Turite imtis paprastos programos, kuri garantuoja, kad neturės apsaugos ir išbandys. Norėčiau naudoti „Hill Climb Racing“. Žaidimas yra paprastas, nesudėtingas ir jame nėra jokių gynybos priemonių. Galite patikrinti pinigų įsilaužimą kaip tiesioginę paiešką pagal skaičių ir fuzzy ieškoti pokyčių.
+Jei įsilaužėte į šį paprastą žaidimą, tai šiame X žaidime bandėte nulaužti. Jei ne, tuomet problema yra __app_name__.
+Yra net paprastesnis variantas: „Bakstelėkite skaitiklį“. Įdiekite. Vykdyti. Pabandykite įveikti ekrane rodomų juostų skaičių. Tai turėtų būti labai paprasta. Jei ne, tuomet problema yra __app_name__ arba jo nustatymai.
+Išbandykite kitą __app_name__ versiją, pabandykite ieškoti forume esančios klaidos aprašymo atitinkamoje temoje arba internete. Ypatingais atvejais forume galite paklausti."</string>
+    <string name="help_faq_5_q">Kaip ieškoti laiko?</string>
+    <string name="help_faq_5_a">"\u0009- Pabandykite ieškoti kaip dienų, valandų, minučių ar sekundžių skaičių. Duomenų tipas gali būti __type_byte__, __type_word__, __type_dword__ arba __type_qword__. Taip pat galite naudoti __type_auto__ tipą.
+\u0009- Pabandykite ieškoti kaip milimetrų ar nanosekundžių. Duomenų tipas yra __type_dword__ arba __type_qword__.
+\u0009- Pabandykite ieškoti kaip unix laiko žymos pabaigos data. Tipas - __type_dword__. Tai laikoma skirtumu tarp dabartinio unix laiko įrašo ir išsaugoto. Ieškoti per diapazono paiešką.
+Pavyzdžiui, jei parašyta 30 dienų, jūs ieškote 30 +/- 1 dienos nuo dabartinio unix laiko žymos. Dabartinį unix laiko žymą galima lengvai peržiūrėti internete."</string>
+    <string name="help_faq_6_q">Ar galima įsilaužti internetinius žaidimus?</string>
+    <string name="help_faq_6_a">Galima nulaužti klientui saugomus duomenis. Negalima nulaužti bet kokio serverio. Įvairiuose žaidimuose gali būti skirtingi būdai. Net ir vieno žaidėjo žaidime, kai kurie duomenys gali būti serveryje, o kai kurie ne.</string>
+    <string name="help_faq_7_q">Kur veikia greitaeigė veikla?</string>
+    <string name="help_faq_7_a">"„Speedhack“ gali neveikti x86 įrenginiuose / emuliatoriuose žaidimams, kuriuose nėra x86 bibliotekų.
+„ART“ aplinkoje „Speedhack“ neveikia su „Java“ laikmačiais. Jei žaidimas naudoja juos ir turite ART aplinką (dažniausiai „Android“ 5 ir daugiau), tada „Speedhack“ neveiks."</string>
+    <string name="help_faq_8_q">__app_name__, kaip visuma, veikia man, bet kai kuriuose žaidimuose gaunu PTRACE_ATTACH klaidą. Kodėl ir ką daryti?</string>
+    <string name="help_faq_8_a">Šis žaidimas yra aprūpintas apsauga nuo derinimo pagal SecNeo apsaugos tipą. __app_name__ negali apeiti šios apsaugos. Per jį negalite įsilaužti šio žaidimo.</string>
+    <string name="help_faq_9_q">Kodėl programa turi tokį keistą paketo pavadinimą? Kodėl programa nėra atnaujinama, tačiau kiekvieną kartą atskirai įdiegus? Kodėl kiekvienoje versijoje yra kitoks paketo pavadinimas?</string>
+    <string name="help_faq_9_a">Siekiant užkirsti kelią aptikimui, naudojant pakuotės pavadinimą.</string>
+    <string name="help_faq_10_q">Kai kuriuose žaidimuose, keičiant greitį (greitis), jie nustoja reaguoti į paspaudimus. Ar tai yra žaidimo apsauga ar programos klaida?</string>
+    <string name="help_faq_10_a">Tai reiškia, kad jūsų greičio perkėlimas perima įvesties eilės laikmačius ir jis miršta. Laikmačių sąraše (__app_name__ nustatymuose) reikia pasirinkti žaliąsias žymes, kad tai neįvyktų.</string>
+    <string name="help_faq_11_q">Kodėl jis pateikia kableliais atskirtą klaidų sąrašą?</string>
+    <string name="help_faq_11_a">Kadangi skaičių ribotuvas yra kabliataškis (\"__semicolon__\").</string>
+    <string name="help_faq_12_q">Kaip vienu metu atlikti kelias paieškas?</string>
+    <string name="help_faq_12_a">Šiuo metu ši programa neleidžia, tačiau galite įdiegti programą kelis kartus ir kartu kopijuoti, jei yra pakankamai atminties ir vietos diske.</string>
+    <string name="help_faq_13_q">Ar reikia atnaujinti programą, jei pakeitimuose nėra nieko reikšmingo?</string>
+    <string name="help_faq_13_a">Siūloma. Parama teikiama tik naujausią versiją.</string>
+    <string name="help_faq_14_q">Kas yra simboliai \"!\" ir „#“, prieš proceso pavadinimą?</string>
+    <string name="help_faq_14_a">"Tai žymi atsekamuosius procesus.
+\u0009\"#\" - prieš procesą reiškia, kad jis atsekamas kitu būdu.
+\u0009\"!\" - prieš šį procesą šis procesas seka kitą procesą.
+Atsekamumas yra būdingas derinant arba įsilaužimui. Taip pat jis naudojamas kai kuriose apsaugose. Paprastai procesas „#“ ženklu yra apsaugotas procesas."</string>
+    <string name="help_faq_15_q">Kodėl taikomoji programa, kai standartinis diegimas taip pat atlieka savo įrenginį, pateikia užklausas dėl root teisių?</string>
+    <string name="help_faq_15_a">__app_name__ iš naujo įdiegia atsitiktinius duomenis, kad būtų išvengta jo aptikimo anti-cheats. „Silent“ diegimui ir pašalinimui reikalingos pagrindinės teisės. Jūs negalite jų suteikti. Tokiu atveju turėsite rankiniu būdu atsakyti į visus sistemos diegimo prašymus.</string>
+    <string name="help_faq_16_q">Kas yra __pkg__? Ar tai Trojos ar virusas? Ar saugu suteikti šios programos šakninę prieigą?</string>
+    <string name="help_faq_16_a">Tai yra __app_name__ paketo bazinis pavadinimas. Įgalinti šaknį yra saugus, jei __app_name__ atsisiunčiamas iš patikimų šaltinių.</string>
+    <string name="help_faq_17_q">Kodėl __app_name__ įdiegtų programų sąraše, pavadintame atsitiktiniu simbolių rinkiniu? Kodėl šis simbolių rinkinys prašo root? Kodėl, pradėdamas __app_name__, rašo, kad šaknis nėra teikiamas __app_name__, bet kažkoks abracadabra?</string>
+    <string name="help_faq_17_a">__app_name__ naudoja jį paslėpti nuo aptikimo anti-cheats.</string>
+    <string name="help_faq_18_q">Kodėl __app_name__ iš naujausių versijų kartais aptinka anticheats, o kartais ne?</string>
+    <string name="help_faq_18_a">__app_name__ naudoja skirtingus dalykus, kad paslėptų nuo aptikimo anti-cheats. Tai apima atsitiktinio paketo pavadinimą ir taikymą. Kiekviename įrenginyje jie skiriasi. Pabandykite iš naujo įdiegti __app_name__. Galbūt po šio anti-cheat nustos matyti __app_name__.</string>
+    <string name="help_faq_19_q">Kodėl mano žaidimas nėra paraiškų sąraše?</string>
+    <string name="help_faq_19_a">Kadangi tai yra veikiančių programų sąrašas, o jūsų programa neveikia. Paleiskite jį ir pasirinkite ją __app_name__.</string>
+    <string name="help_faq_20_q">Kodėl „Java“ programos nereaguoja į „Android“ 5 ir naujesnę spartą?</string>
+    <string name="help_faq_20_a">Kadangi „Speedhack“ yra sukurtas žaidimams su vietinėmis bibliotekomis. Jūsų paraiška nėra. Ir kadangi „Android 5“ vietoj „Dalvik“ naudojo „ART“ aplinką, todėl neįmanoma perimti „Java“ laikmačių. Nieko nedaryk. Padėtis ateityje nepasikeis.</string>
+    <string name="help_faq_21_q">„Android 4“ naudoju kitą greitojo įsilaužimo / įsilaužimo įrankį ir viskas dirbo. Dabar aš įdėjau __app_name__ „Android“ 5 ir naujesnėse versijose, tačiau šie metodai neveikia. Kodėl?</string>
+    <string name="help_faq_21_a">"Kadangi daugelis dalykų pasikeitė ir jūsų įrankis neveiks taip. Nesukurkite savo iliuzijų, kad šis __app_name__ yra toks blogas, bet jei tai buvo naudinga, tada uh! Nėra tokio dalyko.
+Norėdami tai išbandyti, „Android 4“ įdiegkite „__app_name__“ ir pakartokite visus tuos pačius veiksmus, kaip ir toje programoje. Todėl jums pavyks. Tačiau tai nereiškia, kad tie patys metodai veiks „Android“ 5 ir naujesnėse versijose.
+Šis faktas pakartotinai patvirtinamas eksperimentiškai."</string>
+    <string name="help_faq_22_q">Žiūriu vaizdo mėginį / ekrano kopijas ir atminties redaktoriuje yra ir kitų duomenų. Kodėl?</string>
+    <string name="help_faq_22_a">Kadangi vaizdo įrašas / ekrano kopija yra kitokio formato. Atminties redaktoriuje paspauskite meniu - pasirinkite „__value_format__“ ir konfigūruokite išvestį taip, kaip turėtų.</string>
+    <string name="help_faq_23_q">Kai vertė užšaldoma, žaidimas pradeda stabdyti arba atsilieka. Kodėl?</string>
+    <string name="help_faq_23_a">Kadangi __app_name__ nustatymuose turite galimybę įjungti „__hide_from_game__“. Išjunk.</string>
+    <string name="help_faq_24_q">Kaip galima išjungti naujų versijų tikrinimą, kai paleidžiu programą?</string>
+    <string name="help_faq_24_a">Negali būti.</string>
+    <string name="help_faq_25_q">Kaip vėl sugrąžinti laiką programoje? Ar įmanoma padaryti laiko šuolį ne į priekį, bet atgal?</string>
+    <string name="help_faq_25_a">Negali būti. Tu negali. Laikas visada turi didėti, kitaip žaidimas gali nulūžti. Tačiau naujausiose versijose pridėjome neigiamo laiko šuolio galimybę. Rezultatas gali būti žaidimo pakabinimas arba duomenų praradimas. Būti įspėtam.</string>
+    <string name="help_faq_26_q">Įdėjau piktogramą ir ji dingo. Kaip aš galiu jį grąžinti?</string>
+    <string name="help_faq_26_a">Piktograma tampa skaidri, bet vis tiek galite jį spustelėti. Spustelėkite, kur jis buvo, tada pakeiskite nustatymą per sąsają.</string>
+    <string name="help_faq_27_q">Kaip ieškoti vertės, jei ji rodoma suapvalinant su žaidimu? Pavyzdžiui, 1,85M.</string>
+    <string name="help_faq_27_a">Ieškokite paieškos diapazono. Diapazono ribos priklauso nuo apvalinimo taisyklių. Pavyzdžiui, „1845000__tilde__1854999“ standartinis apvalinimas.</string>
+    <string name="help_faq_28_q">Kaip ieškoti procentinės vertės? Pavyzdžiui, 123__percent__.</string>
+    <string name="help_faq_28_a">Tai priklauso nuo įgyvendinimo. Kiekvienam žaidimui tai gali būti skirtingi. Pavyzdžiui, 123__percent__. Tai gali būti __type_float__ arba __type_double__ bet kokia verte. Kaip 1.23 arba 123.0. Arba jis gali būti sveikasis skaičius: __type_byte__, __type_word__, __type_dword__. Pavyzdžiui, 123 arba 12300. Išvestyje jis gali būti suskirstytas į tam tikrą skaičių. 100 arba 345 arba kas nors kitas. Kiekvienam žaidimui jis gali būti skirtingas. Galite išbandyti akivaizdžiausius atvejus. 123__percent__ gali būti 1,23 arba 123. Tipas - __type_auto__. Jei esate laimingas, tai gali būti tai, ko jums reikia.</string>
+    <string name="help_faq_29_q">Ką daryti, jei žaidimas aptinka __app_name__?</string>
+    <string name="help_faq_29_a">"Pabandykite vieną iš šių pasirinkčių (atskirai arba bet kartu):
+\u0009- Įgalinti \"__hide_from_game__\" galimybes. paprastai pakanka 2, 3 ir 4 variantai.
+\u0009- Negalima atšaukti iš naujo įdiegti __app_name__ su atsitiktiniu pavadinimu. Tai daroma pirmą kartą __app_name__ yra paleisti už virtualioje erdvėje.
+\u0009- naudojimas XPrivacy arba panašūs komunalinių paslaugų. Pažvelkite dėl, kaip tai padaryti internetu.
+\u0009- Jeigu turite root teises, naudokitės šaknį iš virtualioje erdvėje su paslėptą įrengimo programas. Skaitykite daugiau kontekstinio pagalba už \"__vspace_root__\" aplinkoje."</string>
+    <string name="work_without_selinux">Perjunkite į darbą be __selinux__ ir paleiskite programą iš naujo</string>
+    <string name="work_with_selinux">Perjunkite į darbą su __selinux__ ir iš naujo paleiskite programą</string>
+    <string name="file">Failas:</string>
+    <string name="file_not_found">Failas nerastas:</string>
+    <string name="export_selected">Pasirinkta eksportuoti</string>
+    <string name="failed_list_dir">Nepavyko perskaityti failų sąrašo.</string>
+    <string name="change_float_type">Pasirinkite plaukiojančių langų tipą</string>
+    <string name="reset_float_type">Iš naujo nustatyti plaukiojančių langų tipą</string>
+    <string name="mask">Kaukė:</string>
+    <string name="mask_request">Įveskite ieškomą adresą</string>
+    <string name="help_mask_search_title">Adreso (kaukės) paieška</string>
+    <string name="help_mask_search">"* Adreso (kaukės) paieška:
+\u0009Galite ieškoti arba filtruoti pagal adresą, naudodami kaukę.
+
+\u0009Tipiškas pavyzdys - ieškoti adresų, kurie baigiasi žinoma verte. Pavyzdžiui, „12E“.
+
+\u0009Paieškos parametrai yra adresas ir kaukė.
+\u0009Adresas gali būti naudojamas pakaitomis (\"__question__\"). Šis simbolis reiškia, kad jis gali būti bet koks simbolis nuo „0“ iki „F“.
+\u0009Iš adreso sukuriama papildoma kaukė, todėl svarbūs nuliai yra svarbūs. Taigi „0120“ paieška ir „120“ paieška nėra tas pats.
+\u0009Pirmuoju atveju bus rastas: \"00010120\", \"00020120\", \"00030120\" ir pan. Antrajame: \"00001120\", \"00002120\", \"00003120\" ir pan.
+
+\u0009Galite ieškoti tiek dėl lygybės, tiek dėl nelygybės, kurią nurodo kaukė. Antrasis variantas gali būti naudingas pašalinant nereikalingas vertes.
+
+\u0009Adresas ir kaukė įrašomi į šešioliktainę sistemą ir be raidės „__hex__“.
+\u0009Kaukė, gauta iš adreso, susikerta su jūsų įvesta kaukė. Tai yra paieškos kaukė.
+
+\u0009Šie pavyzdžiai yra lygiaverčiai, nes gauta kaukė turi tą patį - „FF0“
+__mask_example__
+"</string>
+    <string name="use_sound_effects">Naudokite garso efektus:</string>
+    <string name="from_range">Nuo:</string>
+    <string name="to_range">Į:</string>
+    <string name="resultant_mask">Gauta kaukė:</string>
+    <string name="show_time_jump_panel">Rodyti laiko šuolio skydelį:</string>
+    <string name="use_notification">Naudoti pranešimą:</string>
+    <string name="show_gg">Rodyti __app_name__</string>
+    <string name="hide_gg">Slėpti __app_name__</string>
+    <string name="time_remaining">Likęs laikas:</string>
+    <string name="help_fill_title">Užpildykite (prieaugio) reikšmes</string>
+    <string name="help_fill">"* Užpildykite (prieaugio) reikšmes:
+\u0009Dažnai atsitinka, kad randama per daug vertybių, tačiau jų negalima pakeisti iš žaidimo.
+\u0009Tokiu atveju užpildymas ateina į gelbėjimą.
+
+\u0009Tipiškas naudojimo pavyzdys yra elemento kainos paieška, vėliau pakeičiant neigiamą.
+
+\u00091. Pasirinkite norimus elementus.
+\u00092. Pasirinkite „__edit_selected__“.
+\u00093. Paspauskite mygtuką \"__more__\", kad būtų rodomas \"__increments__\" laukas, jei šis laukas nėra.
+\u00094. Lauke „__increments__“ įveskite prieaugio vertę. Paprastai tai yra 1. Ir spustelėkite „__yes__“.
+\u00095. Pasirinkti elementai gaus naujas vertes.
+\u00096. Eikite į žaidimą ir pažiūrėkite, kaip pasikeitė norima vertė, judėdama per žaidimo ekranus.
+7. Jei reikšmė nepasikeitė, tada norimas elementas nėra pasirinktas. Grįžkite į __app_name__ ir naudodami \"__delete_selected__\" -> \"__revert_and_remove__\", pašalinkite pasirinktus elementus, grąžindami juos ankstesnę vertę. Dabar jūs galite išbandyti viską nuo pat pradžių su kitais elementais, jei tokių yra.
+\u00098. Jei vertė pasikeitė, norimas elementas yra vienas iš pasirinktų elementų. Prisiminkite naują vertę ir grįžkite į __app_name__.
+\u00099. Pasirinktų elementų sąraše ieškokite norimos vertės. Pažymėkite jį. Ištrinkite visas kitas reikšmes, naudodami \"__delete_selected__\" -> \"__revert_and_remove__\", grąžindami ankstesnę vertę.
+\u000910. Pakeiskite norimą elemento reikšmę.
+
+\u0009Tipinės klaidos yra pašalinimas be grąžinimo. Po to žaidimas gali nulūžti.
+
+\u0009Jei radote daug vertybių, pabandykite užpildyti mažas porcijas, kad išvengtumėte avarijų.
+"</string>
+    <string name="help_hint_1">* Jei visada surasite norimas vertes tame pačiame regione (raidės rezultatų sąrašo elementų pabaigoje), galite greičiau ieškoti tik šiuos regionus.</string>
+    <string name="help_faq_30_q">__app_name__ „Android“ emuliatoriuje kompiuteryje ieško vertybių labai lėtai ir ilgą laiką.</string>
+    <string name="help_faq_30_a">"Labiausiai tikėtina, kad kompiuteryje BIOS yra išjungta virtualizacija. Įjunkite jį.
+__app_name__ veikia emuliatoriaus viduje, todėl jo veikimo greitis priklauso nuo emuliatoriaus greičio.
+Jei įjungta virtualizacija, tačiau greitis vis dar mažas, patikrinkite emuliatoriaus nustatymus arba naudokite kitą emuliatorių.
+Taip pat galite naudoti kitą įrankį - „CheatEngine“ kompiuteriui - jis greičiau ieškos ir suteiks jums daug funkcijų, kurios niekada nebus __app_name__."</string>
+    <string name="help_speed_up_title">Kaip pagreitinti paiešką</string>
+    <string name="help_speed_up">"* Kaip paspartinti paiešką:
+\u00090. Jei naudojate „Android“ emuliatorių kompiuteryje („BlueStacks“, „Droid4X“, „Andy“, „NOX“, „Memu“, „AMIDuOS“, „Windroy“, „AVD“, „Genymotion“, „Koplayer“, „Leapdroid“ ir kt.), Patikrinkite, ar virtualizacija („VT Technology“, „Vanderpool“ technologija, virtualizavimo technologija) , „VTx“, „VT-d“, „VMX“, „Virtual Technology“, „Intel-VT“, „AMD-V“, „SVM“, „IOMMU“) yra įjungta kompiuterio BIOS.
+\u00091. Jei turite daug RAM, galite ten saugoti duomenis. Tai labai pagreitina paiešką. Nustatykite nustatymą „__data_in_ram__“ į „__yes__“. „Android“ emuliatoriuje kompiuteryje tai gali sulėtinti paiešką.
+\u00092. Jei turite mažai RAM, duomenys bus saugomi atminties kortelėje. Naudokite atminties kortelę su dideliu rašymo ir skaitymo greičiu.
+\u00093. Taip pat galite nurodyti duomenų saugojimą vidinėje įrenginio atmintyje, jei ji greičiau nei atminties kortelė. Nustatykite nustatymą „__set_path__“ norimam keliui.
+\u00094. Ieškodami pasirinkite tik norimus regionus. Venkite lėto (\"__slow__\") ir pavojingų (\"__dangerous__\") regionų.
+\u00095. Taip pat galite nurodyti atminties diapazono ribas, kad galėtumėte ieškoti, jei žinote juos. Spustelėkite mygtuką \"__more__\" paieškos dialoge ir įveskite ribas.
+\u00096. Ieškokite tik norimų duomenų tipų. Duomenų tipas \"__type_auto__\" yra lėtas.
+\u00097. Išjunkite visas galimas „__hide_from_game__“ parinktis.
+\u00098. Pabandykite „__experimental__“ arba „__extended__“ naudoti „__memory_access__“. Šios parinktys gali sukelti nestabilų darbą.
+"</string>
+    <string name="help_faq_31_q">Po kurio laiko išnyksta __app_name__ piktograma.</string>
+    <string name="help_faq_31_a">"Try clicking in the place where the icon was be. If this open __app_name__ interface, then the icon is hidden in the settings or your firmware has bugs with display the icon.
+Jei sąsaja neatidaroma, tai reiškia, kad __app_name__ buvo iškrautas iš atminties.
+Galimos priežastys:
+
+\u00091. Įrenginyje nėra pakankamai RAM - sistema nužudė __app_name__. Pabandykite naudoti mažiau RAM. __app_name__ nustatymuose nenurodykite duomenų saugojimo RAM, nenustatykite didelio skaičiaus rodomų rezultatų, iškrauti „papildomas“ programas iš RAM, naudokite „lengvas“ analogų programas, kurių negalima iškrauti (pvz., Paleidėjas ). Ypač blogais atvejais iš naujo paleiskite įrenginį prieš paleisdami __app_name__ su žaidimu. Beveik visose firmware visada turi nutekėjimo RAM. Daugiau laiko po perkrovimo - kuo mažiau RAM.
+
+\u00092. Jūs turite procesų žudikus, kurie žudo __app_name__.
+
+Išjunkite žudikus arba pridėkite __app_name__ išimčių.
+Žudikai taip pat yra visų rūšių „optimizatoriai“ ir „gerintojai“.
+Apskritai, žr. Programinės įrangos aprašymą, jei nežinote, kad žudikas ar ne.
+
+„FlyMe“: __app_name__ dėl tam tikrų priežasčių po kelių minučių iškraunamų darbų - jums reikia leisti dirbti __app_name__ ir jūsų šakninio vadovo (paprastai „SuperSu“) fone.
+
+Taip pat galite pabandyti įjungti „__use_notification__“ __app_name__ nustatymuose. Kartais tai užkerta kelią nužudyti __app_name__."</string>
+    <string name="quick_start_title">Greitas Paleidimas</string>
+    <string name="prevent_unload">Neleisti iškrauti:</string>
+    <string name="hot_key">Spartusis klavišas:</string>
+    <string name="hide">Slėpti</string>
+    <string name="execute_script">Vykdyti scenarijų</string>
+    <string name="execute">Vykdyti</string>
+    <string name="another_script">Vyksta kitas scenarijus. Nutraukti?</string>
+    <string name="interrupt">Nutraukti</string>
+    <string name="script">Scenarijus:</string>
+    <string name="script_ended">Scenarijaus pabaiga:</string>
+    <string name="paused">Žaidimas sustabdytas:</string>
+    <string name="by_pause_button">pauzės mygtuku</string>
+    <string name="by_option">pagal parinktį „__s__“</string>
+    <string name="new_search_short">Naujas</string>
+    <string name="speedhack_loading">Įkeliama greitis ...</string>
+    <string name="speedhack_loaded">Įkelta „Speedhack“.</string>
+    <string name="busy_dialog_fail">Nepavyko parodyti progreso dialogo.</string>
+    <string name="site">Svetainė</string>
+    <string name="help_xor_search_title">XOR paieška</string>
+    <string name="help_xor_search">"* XOR paieška:
+\u0009\u0009Jei žinote, kad reikalinga vertė yra užšifruota su XOR klavišu, kuris visada yra tame pačiame atstumu nuo vertės, tada galite naudoti šį režimą, kad galėtumėte ieškoti pagal iššifruotą vertę.
+\u00091. Perjunkite iš __app_name__ iš žaidimo.
+\u00092. Bakstelėkite \"__search_known_value__\" mygtuką \"__search__\" skirtuke.
+\u00093. Įveskite paieškos numerį ir XOR raktų atstumą, atskirtą „__mode_xor__“. Pvz., Norėdami ieškoti vertės 100 su 8 klavišu, įveskite:
+\u0009\u0009\u0009100__mode_xor__8
+\u0009\u0009Norėdami įvesti papildomus simbolius, naudokite vidinės klaviatūros mygtuką „__btn_hex__“.
+\u00094. Pasirinkite tinkamą duomenų tipą arba pasirinkite „__type_auto__“ (jei nežinote) ir kitas parinktis (jei reikia) ir spustelėkite „__search__“.
+\u00095. Baigę paiešką, paieškos rezultatai bus rodomi sąraše.
+\u00096. Grįžti į žaidimą. Pasikeitus vertei, vėl įjunkite į __app_name__.
+\u00097. Pakartokite XOR paiešką su atitinkamais pakeitimais.
+\u00098. Jei yra per daug rezultatų, pakartokite 6 ir 7 veiksmus.
+\u00099. Jei liko nedaug rezultatų, galite pabandyti modifikuoti, saugoti arba užšaldyti vertę.
+
+\u0009Galite naudoti XOR paiešką su diapazono paieška. Pavyzdžiui, \"100__tilde__150__mode_xor__8\".
+\u0009Paprastai XOR paieška yra lėtesnė nuo įprastinės numerio paieškos.
+\u0009Šis režimas nepalaikomas grupės paieškoje arba šifruotoje paieškoje.
+\u0009Atstumas turi būti nuo 1 iki 4096 imtinai.
+\u0009Jūs galite įvesti atstumą šešiakampiu formatu su __hex__ simboliu pabaigoje: \"100__tilde__150__mode_xor__10h\".
+\u0009Atstumas turi atitikti vertes, suderintas. Pavyzdžiui, dword turi būti suderintas su 4 baitų riba. Tai reiškia, kad „40__mode_xor__7“ yra nenaudinga dword'ui, nes 7 negali suskirstyti į 4.
+\u0009Šio režimo sujungimas su kita gali sukelti problemų dėl blogos programinės įrangos. Pavyzdžiui, jei atliekate įprastą paiešką ir po to patobulinkite XOR režimu, tai gali sukelti pakabinimą arba iš naujo paleisti įrenginį. Tai neturi atsitikti, jei pirmoji paieška bus atlikta šiame režime.
+\u0009Šio režimo neskaidrus paieška nepalaikoma. Jūs galite jį derinti, bet fuzzy dirbti kaip įprasta ir nepaisykite XOR rakto su atstumu.
+\u0009Gerbiama ženklų reikšmė. Tai reiškia, kad galite ieškoti vertės, kuri nėra lygi, didesnė, mažesnė ir pan.
+\u0009Šioje paieškoje visos vertės laikomos pasirašytomis.
+"</string>
+    <string name="help_faq_32_q">Kuo skiriasi HW / SW versijos? O kurį turėčiau naudoti?</string>
+    <string name="try_latest">Galbūt šiam scenarijui reikia naujausios versijos __app_name__. Pabandykite atnaujinti naujausią versiją.</string>
+    <string name="help_string_search_title">Teksto (eilutės, HEX, AoB) paieška</string>
+    <string name="download_scripts">Atsisiųsti scenarijus</string>
+    <string name="hide_icons">Slėpti paleidimo piktogramas</string>
+    <string name="select_mode">Pasirinkite režimą</string>
+    <string name="mode_string">Tekstas</string>
+    <string name="mode_mixed">Mišrus</string>
+    <string name="string_search_prompt">Įveskite ieškomą tekstą iki __d__ baitų ilgio. Pavyzdžiui</string>
+    <string name="string_empty">Turite įvesti tekstą.</string>
+    <string name="string_not_found">Tekstas „__s__“ nerastas.</string>
+    <string name="string_found">Rasta __d__ atitikmenų tekstui \"__s__\".</string>
+    <string name="string_replace">Ar norite juos pakeisti?</string>
+    <string name="string_replace_prompt">Įveskite tekstą, kuris pakeistų \"__s__\". Ilgis yra ne didesnis kaip __d__ baitų.</string>
+    <string name="string_replaced">Replaced \"__s__\" to \"__s__\" in __d__ places.</string>
+    <string name="need_allow_background">Šioje programinėje įrangoje turite leisti sistemoje __app_name__ dirbti fone.</string>
+    <string name="calculate_offset_xor">Apskaičiuokite nuokrypį, XOR</string>
+    <string name="select_copy_item">Pasirinkite elementą, kurį norite kopijuoti:</string>
+    <string name="landscape">Kraštovaizdis</string>
+    <string name="portrait">Portretas</string>
+    <string name="toolbar_buttons">Įrankių juostos mygtukai</string>
+    <string name="need_update_to">Kad paleistumėte šį scenarijų, reikia naujos versijos __app_name__. Bent jau versija __s__. Turite __s__ versiją.</string>
+    <string name="default_mark">numatytas</string>
+    <string name="default_">Numatytas:</string>
+    <string name="reset_button">Atstatyti</string>
+    <string name="help_hex_colors_title">Spalvos atminties redaktoriuje</string>
+    <string name="help_hex_colors">"* __help_hex_colors_title__:
+Jei šešioliktainis atvaizdavimas yra ne baltas, bet spalvotas, tuomet greičiausiai ši vertė yra rodyklė. Spalva nurodo, kokio tipo atmintį šis žymeklis nurodo.
+Tai gali būti __executable__ atmintis, __writable__ arba __read_only__. Retais atvejais tai gali būti __writable_and_executable__ atmintis."</string>
+    <string name="executable">vykdomąjį</string>
+    <string name="writable">rašomas</string>
+    <string name="read_only">Tik skaitymui</string>
+    <string name="writable_and_executable">rašoma ir vykdoma</string>
+    <string name="help_extract">Ištraukite pagalbą</string>
+    <string name="help_extract_done">Pagalba išgaunama į __s__</string>
+    <string name="help_extract_fail">Gavusi pagalbą, įvyko klaida:</string>
+    <string name="try_arm_version">Pabandykite naudoti __app_name__ versiją naudodami senesnius ARM procesorius:</string>
+    <string name="back">Atgal</string>
+    <string name="forward">Persiųsti</string>
+    <string name="no_previous">Ankstesnių įrašų nėra</string>
+    <string name="no_next">Nėra kitų įrašų</string>
+    <string name="from_item">Iš elemento:</string>
+    <string name="from_context">Iš kontekstinio meniu:</string>
+    <string name="from_boundary">Nuo ribos</string>
+    <string name="from_goto">Skambinkite</string>
+    <string name="from_calc">Nuo ofsetinės skaičiuoklės:</string>
+    <string name="help_add_to_value_title">Parinktis \"__add_not_replace__\"</string>
+    <string name="help_add_to_value">"* __help_add_to_value_title__:
+Jei ši parinktis yra pažymėta, įvesta vertė bus pridėta prie esamos vertės, o ne ją pakeis. Pavyzdžiui, elemento reikšmė vertės lauke yra 5, o jūs įvedėte 7. Jei ši parinktis yra pažymėta, elementas gaus naują 5 + 7 reikšmę, lygią 12. Jei nebus pažymėta, tada 7.
+Galite įvesti ir teigiamas, ir neigiamas reikšmes.
+Ši parinktis yra nesuderinama su vertės užšaldymu."</string>
+    <string name="check_libs">Patikrinkite žaidimų bibliotekų architektūrą:</string>
+    <string name="arm_libs">"Žaidimas yra įdiegtas su ARM bibliotekomis, nors „apk“ yra x86 bibliotekos.
+Speedhack ir viskas, kas su juo susijusi, neveiks.
+„__skip__“ išjungia šiuos patikrinimus. Galite jį vėl įjungti nustatymuose."</string>
+    <string name="manual_install">.Apk failą galite įdiegti rankiniu būdu. Jis yra tokiame kelyje:</string>
+    <string name="as_text">Kaip tekstas (negali būti įkeltas)</string>
+    <string name="as_text_help">Įrašo teksto formatą, patogų žmonėms skaityti. Šio formato įkėlimas nepalaikomas.</string>
+    <string name="help_pointer_search_title">Rodyklės paieška</string>
+    <string name="help_pointer_search">Ieškoma vertybių, kurios gali būti nukreipiamos į norimą adresą. Galite nurodyti maksimalią galimo kompensavimo ribą.</string>
+    <string name="all_memory">Visoje atmintyje</string>
+    <string name="offset_help">Didžiausia galimo kompensavimo riba.</string>
+    <string name="typical_values">Tipinės vertės</string>
+    <string name="su_command">„Superuser“ komanda</string>
+    <string name="starts">Prasideda su</string>
+    <string name="ends">Baigiasi</string>
+    <string name="no_filter">Nėra filtro.</string>
+    <string name="help_memory_filter_title">Filtravimas atminties redaktoriuje</string>
+    <string name="help_memory_filter">"* __help_memory_filter_title__:
+Atminties redaktoriuje galite nurodyti filtrą. Bus rodomi tik tie rezultatai, kurie atitinka filtrą.
+Filtras palaiko pakaitos simbolius:
+\u0009__caret__ - duomenų pradžia,
+\u0009__dollar__ - duomenų pabaiga,
+\u0009__asterisk__ - bet koks simbolių skaičius
+\u0009__question__ - tai bet kuris simbolis.
+Pavyzdžiui, norėdami rasti numerį 42, turite įvesti __caret__42__dollar__."</string>
+    <string name="use_sh">Naudokite komandų apvalkalą</string>
+    <string name="backgrounds">Juodas fonas</string>
+    <string name="actions">Veiksmai:</string>
+    <string name="game_settings">Žaidimo nustatymai:</string>
+    <string name="global_settings">Visuotiniai nustatymai:</string>
+    <string name="ui_settings">UI nustatymai:</string>
+    <string name="others">Kiti:</string>
+    <string name="skip_memory">Praleisti atminties sritis:</string>
+    <string name="empty_memory">Tuščia</string>
+    <string name="without_protection">be apsaugos</string>
+    <string name="help_games_protection_title">Kaip gauti apsaugą žaidimuose</string>
+    <string name="help_games_protection">"\u0009Kai kurie žaidimai yra apsaugoti nuo atminties redaktorių. Galite pabandyti:
+\u00091. \"__kill_game__\", tada \"__restart_game_without_protection__\".
+\u00092. \"__disable_protection__\", tada paleiskite (arba paleiskite) žaidimą.
+\u00093. Naudokite visas arba dalį elementų „__hide_from_game__“. Visi jie sulėtina paiešką.
+\u00094. Ieškoti, kai žaidimas yra minimalus.
+\u00095. Ieškoti, kai žaidimas yra sustabdytas.
+\u00096. Nužudykite arba sustabdykite kai kuriuos žaidimo apsaugos procesus, jei žaidime yra keli procesai.
+\u00097. Naudokite XPrivacy arba panašius įrankius, kad apeitumėte apsaugą.
+\u00098. Naudokite žaidimo modifikavimą be apsaugos.
+"</string>
+    <string name="disable_protection">Išjungti visų programų apsaugą (iki perkrovimo)</string>
+    <string name="must_restart_if">Jei prieš paleisdami apsaugą paleisite žaidimą, turite jį paleisti iš naujo.</string>
+    <string name="patch_loading">Įkeliamas pleistras ...</string>
+    <string name="patch_loaded">Įkelta pataisa.</string>
+    <string name="patch_failed">Patch nėra įkeltas.</string>
+    <string name="history_limit">Istorijos riba:</string>
+    <string name="copy_as_search">Kopijuoti kaip grupės paiešką</string>
+    <string name="add_types">Pridėti tipų</string>
+    <string name="add_size">Pridėti grupės dydį</string>
+    <string name="copy_rhex_value">Kopijuoti atvirkštinio šešiakampio vertę:</string>
+    <string name="mips_arch">Ši programa nepalaiko MIPS architektūros.</string>
+    <string name="unrandomizer">Unrandomizer</string>
+    <string name="functions">funkcijos</string>
+    <string name="help_unrandomizer">"
+Unrandomizer yra funkcija, skirta pakeisti tam tikras funkcijas, paprastai naudojamas žaidimuose, kad būtų sukurtos atsitiktinės vertės. Labai paprastu lygiu, pavyzdžiui, gali būti žaidimas, kuriame atsitiktinės atrankos funkcija naudojama siekiant nustatyti žaidėjo atlygį. Įjungus unrandomizatorių, __app_name__ būtų bandoma pakeisti šią atsitiktinę vertę su nurodyta verte, kad būtų pakeistas rezultatas (pvz., Norint gauti tam tikrą atlygį).
+
+Unrandomizer neveiks visais atvejais. Jis tvarkys tik tas funkcijas, apie kurias jis žino. Daugeliu atvejų ir daugumai vartotojų tai nebus naudojama, nes tai labiau išplėstinė / eksperimentinė funkcija.
+
+Kai kurios funkcijos grąžina __type_qword__, kai kurios - __type_double__ (retai naudojamos).
+
+__type_double__ reikšmės turi būti nuo 0 iki 1. Tačiau galite nurodyti bet kokias reikšmes, nes __app_name__ automatiškai ištaisys visus neteisingus variantus.
+
+Taip pat galite nurodyti prieaugio žingsnį. Tokiu atveju kiekvienas paskesnis rezultatas padidės pagal šią vertę. Pavyzdžiui, 1 ir pradinės vertės 0 atveju, vietoj atsitiktinės vertės, bus grąžinta 0, 1, 2, 3, ....
+Ši parinktis gali būti naudinga, jei norite ieškoti visų galimų atsitiktinių rezultatų.
+
+Galite nurodyti, kurias funkcijas keisti __app_name__ nustatymuose.
+"</string>
+    <string name="count_replace">Kiek pirmųjų rezultatų reikia pakeisti?</string>
+    <string name="unrandomizer_loading">Įkeliama unrandomizer ...</string>
+    <string name="unrandomizer_loaded">Įkelta Unrandomizer.</string>
+    <string name="warn_restart_off_prot">"Ši parinktis bandys iš naujo paleisti žaidimą be apsaugos.
+Tačiau daugelyje programinės įrangos yra klaidų, dėl kurių prietaisas gali paleisti iš naujo.
+Jei taip atsitiks, nebandykite paleisti žaidimo dar kartą, nes tai vėl bus paleistas iš naujo.
+Tiesiog paleiskite __app_name__ - tai pašalins blogus nustatymus.
+Taip pat galite pabandyti iš naujo paleisti įrenginį reguliariai, tai taip pat turėtų išspręsti problemą.
+
+Jei įvyko perkrovimas - nenaudokite šios funkcijos, ji neveiks jūsų firmware."</string>
+    <string name="warn_patch_off_prot">"Ši parinktis bandys pataisyti sistemą (laikinai), kad visos programos veiktų be apsaugos.
+Pakeitimai bus taikomi tik naujoms programoms. Todėl tikslinga taikomoji programa, po sėkmingo pleistro, turi būti paleista iš naujo.
+Jei norite atšaukti pleistrą, tiesiog paleiskite prietaisą iš naujo.
+Galbūt po šio pleistro sistemoje bus įvairių klaidų.
+
+Jei pleistras sėkmingas, prieš pakartotinį įrenginio paleidimą nerekomenduojama vėl paleisti šios funkcijos.
+
+Jei turite problemų, nenaudokite šios funkcijos."</string>
+    <string name="clear_history">Išvalyti įvesties istoriją</string>
+    <string name="clear_history_warn">Visi įrašai, įskaitant priklijuotus, bus ištrinti.</string>
+    <string name="click_edit">Jei norite redaguoti, spustelėkite čia</string>
+    <string name="ignore_unknown_chars">Ignoruoti nežinomus simbolius:</string>
+    <string name="need_root_mode">Šiai funkcijai reikia root prieigos. Šiuo metu __app_name__ veikia virtualios aplinkos režime be root prieigos.</string>
+    <string name="work_without_root_title">Darbas be šaknų</string>
+    <string name="work_without_root">"__app_name__ gali dirbti be šaknies per virtualią aplinką. Pavyzdžiui, per __vspace_list__ ir daugelį kitų.
+__app_name__ turi būti įdiegta virtualioje aplinkoje. Žaidimas taip pat turi būti įrengtas ten.
+Ne visos programos funkcijos yra palaikomos, tačiau dauguma funkcijų turėtų veikti.
+
+Jūs negalėsite įveikti žaidimų, kurie nėra įdiegti virtualioje aplinkoje.
+
+Pirmasis __app_name__ leidimas, atliekantis pakartotinį diegimą su atsitiktinio paketo pavadinimu, neturi būti vykdomas virtualioje aplinkoje.
+Tada galite pridėti __app_name__ virtualioje aplinkoje ir naudoti."</string>
+    <string name="help_game_not_listed_title">Kodėl mano žaidimas nėra proceso sąraše?</string>
+    <string name="fractional_hint">"Realaus skaičiaus „x“ dalinė dalis yra perteklius, viršijantis šio skaičiaus sveikosios dalies dalį.
+Taigi skaičiui jo dalinė dalis atitinka skaitmenis, rodomus po radix taško.
+
+Pavyzdžiui:"</string>
+    <string name="pointer">Rodyklė:</string>
+    <string name="help_search_filter_title">Paieškos filtrai</string>
+    <string name="help_search_filter">"Galite filtruoti paieškos rezultatus.
+Galite nurodyti:
+\u0009- adreso ribos,
+\u0009- vertės ribos,
+\u0009- reikalingus duomenų tipus, t
+\u0009- pageidaujama dalinė skaičiaus dalis,
+\u0009- norimą žymeklio tipą.
+Bet kuriuos filtrus galite sujungti tarpusavyje.
+Taip pat galite bet kuriuo metu išjungti vieną ar bet kurį filtrą.
+
+Tačiau, jei randama daug duomenų, filtrai gali sulėtinti rezultatus.
+
+Filtras skaičiaus dalinei daliai gali būti arba lygiateisiškumas, arba nelygybė.
+Visų skaičių tipams dalinė dalis yra nulis. Jei nereikia sveiko skaičiaus tipų, pašalinkite juos naudodami tipo filtrą.
+
+Filtras pagal rodyklės tipą leidžia palikti išvestyje tik tas vertes, kurios gali būti rodyklė norimam atminties tipui.
+Galimi atminties tipai atitinka atminties redaktoriaus spalvas:
+Tai gali būti __executable__ atmintis, __writable__ arba __read_only__. Retais atvejais tai gali būti __writable_and_executable__ atmintis.
+
+Pseudo tipo \"nėra rodyklė\" atitinka visų tipų duomenis, kurie negali būti rodyklės, ir taip pat tų rodiklių reikšmių, kurios nukreiptos į nepaskirstytą atmintį."</string>
+    <string name="unmount_kill">"Atminties kortelė buvo išmontuota, o __app_name__ saugojo laikinus failus. Tai lėmė priverstinį demono uždarymą.
+
+Norėdami išvengti šio įvykio, nurodykite kitą kelią į laikinus failus. Pavyzdžiui, vidinėje atmintyje.
+Turėtų būti pakankamai laisvos vietos."</string>
+    <string name="calls">Sistemos skambučių režimas:</string>
+    <string name="alternative">Alternatyva</string>
+    <string name="help_calls">"Kai kuriose firmware, pvz., „Lenovo“, alternatyvus režimas gali veikti greičiau.
+
+Paprastai nereikia keisti šios parinkties."</string>
+    <string name="help_context_title">Kontekstinė pagalba</string>
+    <string name="help_context">"Sąsajoje kai kurie elementai yra pažymėti specialiąja piktograma, viršutiniame dešiniajame kampe, simboliu __i__.
+Šio elemento paspaudimas arba ilgas paspaudimas rodo pagalbą šiame elemente."</string>
+    <string name="waitpid_mode">__waitpid__ režimas:</string>
+    <string name="help_waitpid">"Kai kuriose firmware __waitpid__ sistemos skambutis neveikia taip, kaip tikėtasi. Paprastai tai yra dėl neteisingų „SeLinux“ nustatymų.
+Tai veda prie begalinės paieškos __app_name__.
+Galite pabandyti naudoti alternatyvų režimą. Galbūt tai veiks."</string>
+    <string name="microseconds_short">μs</string>
+    <string name="small_is_bad">Per mažos vertės gali sukelti didelę apkrovą procesoriui ir atsilieka žaidime.</string>
+    <string name="freeze_interval_help">Intervalas, per kurį __app_name__ perrašo žaidimo atminties reikšmes.</string>
+    <string name="saved_list_update_interval_help">Intervalas, per kurį __app_name__ atnaujina išsaugotos sąrašo reikšmes.</string>
+    <string name="icons_size_help">"__app_name__ sąsajos piktogramų dydis.
+Netaikoma plūduriuojančiai piktogramai."</string>
+    <string name="ignore_unknown_chars_help">Gali padėti išspręsti problemas, kai kopijuojate numerius iš skirtingų vietų, jei kartu su numeriais nukopijuojami specialūs simboliai.</string>
+    <string name="use_notification_help">"Pranešimų naudojimas „Android“ sistemos pranešimo srityje.
+Kai kuriose firmware tai padidina programos prioritetą ir neleidžia jam uždaryti.
+Taip pat galite naudoti pranešimą, kad galėtumėte pereiti į __app_name__ arba žaidimą spustelėdami jį.
+Tai gali būti naudinga, jei negalite paspausti ant plaukiojančios piktogramos."</string>
+    <string name="use_sound_effects_help">"Sistema skamba, kai paspausite mygtukus ir elementus.
+Kai kuriose programinės įrangos programose skamba __app_name__."</string>
+    <string name="keyboard_help">Vidinė klaviatūra užima mažiau atminties, įkeliama greičiau ir yra optimizuota įvesti numerius.</string>
+    <string name="allow_suggestions_help">"Patarimai iš išorinės klaviatūros.
+Kai kuriose programinės įrangos programose patarimai sukelia __app_name__ gedimą."</string>
+    <string name="autopause_help">Atidarant __app_name__ sąsają automatiškai įjungiamas žaidimas pertraukoje.</string>
+    <string name="killed_by">__app_name__ priverstinai uždarė paraišką \"__s__\". Norėdami to išvengti, ištrinkite šią programą arba sukonfigūruokite taip, kad jis nesibaigtų __app_name__.</string>
+    <string name="killers_found">"Įdiegėte programas, kurios gali priversti uždaryti __app_name__:
+__s__
+Norėdami to išvengti, juos ištrinkite arba sukonfigūruokite taip, kad jie nesibaigtų __app_name__.
+
+Jei neturite problemų su netikėtu __app_name__ uždarymu, tada nereikia jokių veiksmų ir galite ignoruoti šį pranešimą."</string>
+    <string name="record_logcat">Įrašai __logcat__</string>
+    <string name="record_logcat_info">"__app_name__ bus paleistas iš naujo su įrašu __logcat__ į failą:
+\"__s__\".
+
+Norėdami baigti įrašymą, išeikite iš __app_name__.
+Po to galite siųsti žurnalo failą ten, kur to reikia."</string>
+    <string name="need_uninstall">Jums reikia pašalinti diegimo programą, priešingu atveju turėsite 4 piktogramas, o ne 2.</string>
+    <string name="need_random_name">"__app_name__ naudoja standartinį paketo pavadinimą. Žaidimai gali jį aptikti.
+
+Norėdami išspręsti šią - paleisti __app_name__ ne virtualioje erdvėje kaip įprastą programą.
+Baigę diegti, pridėkite __app_name__ kopiją su atsitiktiniu pavadinimu į virtualią erdvę."</string>
+    <string name="work_mode">Darbo režimas</string>
+    <string name="root">šaknis</string>
+    <string name="no_root">nėra šaknies</string>
+    <string name="how_no_root">"Turite įdiegti virtualiosios erdvės programą. Pavyzdžiui: __vspace_list__.
+
+Rekomenduojama įdiegti optimizuotas versijas iš oficialaus __app_name__ svetainės.
+
+Tada turite pridėti __app_name__ ir savo žaidimą į šią virtualią erdvę.
+
+Po to turite paleisti žaidimą ir __app_name__ virtualioje erdvėje."</string>
+    <string name="eperm_error_descr_0">Galimos priežastys:</string>
+    <string name="eperm_error_descr_1">Apsauga žaidime.</string>
+    <string name="eperm_error_descr_2">Kitas žaidimo atkūrėjas arba krekingo įrenginys.</string>
+    <string name="eperm_error_descr_3">Nepakankami leidimai. Paprastai dėl neteisingai sukonfigūruoto __selinux__. Išjunkite arba sukonfigūruokite __selinux__.</string>
+    <string name="eperm_error_descr_4">Netinkamas branduolys arba firmware. Išbandykite kitą programinę įrangą arba kitą įrenginį.</string>
+    <string name="eperm_error_descr_5">„Firmware“ programoje „be šaknų“ neveikia. Išbandykite kitą programinę įrangą arba kitą įrenginį arba gaukite šaknį.</string>
+    <string name="ptrace_bypass_mode">Apsaugos nuo aplenkimo režimas:</string>
+    <string name="mode_restore">atkurti</string>
+    <string name="mode_nothing">nieko</string>
+    <string name="mode_freeze">užšaldyti</string>
+    <string name="ptrace_bypass_mode_help">"Nurodo, ką daryti, kai išjungsite apsaugos ryšį:
+\u0009__mode_restore__ - atkurti ryšį
+\u0009__mode_nothing__ - nieko nedarykite (paprastai apsauga pati atkuria ryšį)
+\u0009__mode_freeze__ - užšaldyti siūlą (kaip ir ankstesnėse versijose)
+
+Jei atkursite apsaugą arba leisite apsaugai tai padaryti, __app_name__ reikšmių užšaldymas gali sukelti vėlavimą dėl nuolatinio ryšio sujungimo / išjungimo."</string>
+    <string name="slow_emulator">"Jūs naudojate „__s__“ emuliatorių. Tai lėta ir jame yra klaidų. Dėl šios priežasties paieška gali būti labai lėta.
+
+Rekomenduojame naudoti kitus emuliatorius:"</string>
+    <string name="text">Tekstas</string>
+    <string name="show_debug_info">Rodyti derinimo informaciją</string>
+    <string name="mnt_expand">"__app_name__ yra įdiegta atminties kortelėje, kuri naudojama kaip „vidinė atmintis“.
+Tai gali trukdyti virtualių erdvių veikimui.
+Jei taip nutinka, įrenginį įdėkite į vidinę atmintį __app_name__.
+Atminties kortelę gali tekti pertvarkyti kaip „Nešiojama saugykla“."</string>
+    <string name="help_game_not_listed_root">"Kad pasirinktumėte, žaidimas turi būti paleistas.
+
+Jei žaidimas veikia, bet jis vis dar nėra sąraše, galbūt turite problemų su šaknimi arba programine įranga.
+Išbandykite kitą šaknį arba kitą programinę įrangą."</string>
+    <string name="help_game_not_listed_noroot">"Žaidimas turi būti paleistas virtualioje erdvėje, kad jį būtų galima pasirinkti.
+
+Neįmanoma pasirinkti žaidimo, jei jis neveikia virtualioje erdvėje.
+
+Jei žaidimas veikia virtualioje erdvėje, bet jis vis tiek nėra sąraše, pabandykite kitą virtualų erdvę, kitą programinę įrangą, kitą įrenginį arba gauti šaknį."</string>
+    <string name="daemon_killed_oom">"Dėl atminties trūkumo sistema nužudė demoną.
+
+Nustatykite \"__data_in_ram__\" į \"__no__\".
+Jei įmanoma, naudokite sąsajos aparatūros pagreitį.
+Nenaudokite didelių programų.
+Išjungti visas kitas nenaudojamas programas.
+Pabandykite iš naujo paleisti įrenginį naudodami __app_name__."</string>
+    <string name="selected_as_search_result">Pasirinkta kaip paieškos rezultatas</string>
+    <string name="clear_results_prompt">Tai pakeis dabartinius paieškos rezultatus. Tęsti?</string>
+    <string name="position_in_memory_editor">Vieta atminties redaktoriuje</string>
+    <string name="script_prompt_internet">"Scenarijus nori pasiekti internetą. Jei leisite prieigą, scenarijus galės pavogti jūsų prisijungimus, slaptažodžius, įrašytus ir kitus duomenis iš žaidimo. Be to, jis galės pavogti kitus jūsų scenarijus arba atsisiųsti įrenginius į virusus.
+
+Leisti scenarijui naudotis internetu?"</string>
+    <string name="level">Lygis</string>
+    <string name="float_prompt">"Norint tinkamai paleisti programinę įrangą __app_name__, turite įjungti __s__ sistemos nustatymų naudojimo langų langus.
+
+Numatyta, kad „Huawei“ telefonuose rodomas iššokantis langas. Jums reikės leisti __s__ rodyti iššokantį langą. Atidarykite „Phone Manager“, tada „Dropzone“ valdymą ir įsitikinkite, kad jis įjungtas, jei norite naudoti __s__.
+
+Popup taip pat nerodo kai kurių „Xiaomi“ telefonų. Jūs turite eiti į „Settings“ -> Įdiegtos programos -> __s__ -> Kiti leidimai -> Rodyti iškylantį langą.
+
+Be to, kiti telefonai gali turėti skirtingas procedūras, leidžiančias programoms rodyti iškylančius langus. Tokiu būdu paprastai veikia visos tokios programos, pvz., „Google“ vertėjo programa su funkcija „Tap To Translate“. Todėl galite paprasčiausiai „Google“ „YOUR_PHONE bakstelėkite, jei norite versti“, kad rastumėte sprendimą. Pavyzdžiui, „Xiaomi Redmi“ įrenginiams sprendimas yra toks:"</string>
+    <string name="virtual_space">„Virtual Space App“</string>
+    <string name="prevent_unload_help">"Neleiskite __app_name__ iškrauti iš atminties (uždarykite jėgą).
+
+Kiekvienas vėlesnis lygis yra galingesnis nei ankstesnis ir įtraukia jį pats.
+
+Trečiasis lygis gali sukelti problemų (pakabinti skrudintą duoną, iš naujo paleisti ar sugriauti) kai kuriose firmware ir emuliatoriuose.
+
+Be šaknies veikia tik trečiasis lygis."</string>
+    <string name="integer_type">Šis duomenų tipas skirtas tik sveikiesiems skaičiams ir nepalaiko dalinių verčių. Naudokite __type_float__ arba __type_double__ frakcinėms vertėms.</string>
+    <string name="without_float">Taip pat galite naudoti __app_name__ be plaukiojančių langų:</string>
+    <string name="any_value">bet kokia vertė</string>
+    <string name="help_group_search_any_value">__any__ galite naudoti užsakytos grupės paieškoje kartu su minimaliu dydžiu, norėdami nurodyti bet kokią tokio tipo vertę norimoje padėtyje.</string>
+    <string name="help_scripts_title">Skriptai</string>
+    <string name="help_scripts">"* __help_scripts_title__:
+__app_name__ palaiko scenarijų, parašytų „Lua“, vykdymą.
+
+Ieškos skirtuke spustelėkite meniu ir pasirinkite „__execute_script__“.
+Čia galite pasirinkti scenarijaus failą, kurį norite atlikti, žr. Esamus __app_name__ API metodus, arba eikite į oficialią svetainę, kad perskaitytumėte pagalbos API arba atsisiųskite paruoštus scenarijus.
+Be to, galite iš atminties kortelėje esančią API išgauti pagalbą, kad ją perskaitytumėte be interneto.
+
+Jei norite parašyti savo scenarijų, jums reikia išorinio teksto failo redaktoriaus.
+__app_name__ neleidžia redaguoti scenarijų, jis atlieka tik juos.
+
+Daugiau informacijos skaitykite API."</string>
+    <string name="help_floating_icon_absent">Jei spustelėjus mygtuką „__start__“, nematote plūduriuojančios piktogramos:</string>
+    <string name="remove_all2">Pašalinti visus</string>
+    <string name="debug_load">Išmeskite visus kodo krovinius</string>
+    <string name="debug_log">Prisijungti daugeliu scenarijų skambučių</string>
+    <string name="vspace64">"Vyko __app_name__ virtualioje erdvėje, palaikančioje 64 bitų procesus.
+
+__app_name__ nematys 32 bitų procesų, veikiančių šioje erdvėje.
+
+Jei norite dirbti __app_name__ su 32 bitų procesais, įdėkite antrą __app_name__ kopiją į „__for32__“ režimą."</string>
+    <string name="folder_new">Naujas aplankas</string>
+    <string name="folder_exists">Šis aplankas jau yra</string>
+    <string name="folder_file">Yra failas su šiuo pavadinimu</string>
+    <string name="folder_failed">Nepavyko sukurti aplanko</string>
+    <string name="force_close">"Ankstesnis programos sustabdymas buvo netikėtas.
+
+„__prevent_unload__“ konfigūracijos lygį galite padidinti, kad tai būtų išvengta ateityje."</string>
+    <string name="help_force_close_title">Netikėtas išjungimas</string>
+    <string name="install_mode">Įdiegimo režimas</string>
+    <string name="for32">Hack 32-bit žaidimai 64 bitų virtualioje erdvėje</string>
+    <string name="for64">64 bitų žaidimams 64 bitų virtualioje erdvėje</string>
+    <string name="reset_ignore">Atkurti visus ignoruojamus dialogus</string>
+    <string name="allocate_fail">Nepavyko priskirti atminties puslapio. Klaida</string>
+    <string name="allocated">Paskirtas atminties puslapis:</string>
+    <string name="allocate_page">Paskirti atminties puslapį</string>
+    <string name="prot_read">Gali būti skaitoma</string>
+    <string name="prot_write">Gali būti parašyta</string>
+    <string name="prot_exec">Gali būti įvykdyta</string>
+    <string name="install_finished">"Diegimas buvo sėkmingas.
+Įdiekite įdiegtą kopiją rankiniu būdu, kad jis galėtų perkelti duomenis.
+Po to montuotojas gali būti pašalintas."</string>
+    <string name="odd_vspace">__app_name__ paleista virtualioje erdvėje?</string>
+    <string name="record_script">Įrašų scenarijus</string>
+    <string name="record">Įrašai</string>
+    <string name="another_record">Vyksta dar vienas įrašas. Sustabdyti?</string>
+    <string name="record_ended">Įrašymas baigtas:</string>
+    <string name="stop">Sustabdyti</string>
+    <string name="could_not_use">Nepavyko naudoti:</string>
+    <string name="not_optimized2">"Jūs naudojate neoptimalią virtualios erdvės versiją (\"__s__\").
+Norėdami išspręsti šią klaidą, pašalinkite neoptimalią „__s__“ versiją ir įdiegite vieną iš optimizuotų virtualių erdvių iš oficialios svetainės __app_name__.
+Spustelėkite „__fix_it__“, kad pasirinktumėte optimizuotas virtualias erdves."</string>
+    <string name="fix_path">Laisva erdvė arba nurodykite kitą kelią laikiniesiems failams spustelėję „__fix_it__“.</string>
+    <string name="deep_read">Giliai skaityti:</string>
+    <string name="help_deep_read">"Atminties skaitymas naudojant visus galimus metodus, jei jo negalima skaityti.
+Gali sulėtinti atminties rodmenis."</string>
+    <string name="ptrace_fail">Nepavyko pakeisti atminties per ptrace.</string>
+    <string name="ptrace_fail_partially">Kai kurios funkcijos, greitis ir viskas, kas su juo susijusi, neveiks. Rašymas tik skaitymui (įskaitant kodą) neįmanomas.</string>
+    <string name="ptrace_fail_full">Absoliuti dauguma funkcijų neveiks.</string>
+    <string name="ptrace_fail_solve">"Tipiška priežastis yra sugedusi branduolys firmware.
+Pabandykite keisti programinę įrangą. Jei neseniai ją atnaujinote, įdiekite ankstesnę versiją.
+
+Jei tai neveikia, pakeiskite įrenginį."</string>
+    <string name="feature_hide_4">Ši funkcija neveikia, jei ketvirtas elementas yra pasirinktas „__hide_from_game__“.</string>
+    <string name="feature_firmware">Ši funkcija neveikia be ptrace, kuri neveikia šia programine įranga.</string>
+    <string name="feature_protection">Ši funkcija neveikia dėl to, kad žaidime užtikrinama apsauga.</string>
+    <string name="not_file">Kelias nėra failas:</string>
+    <string name="not_execute">Negalima vykdyti:</string>
+    <string name="check_install">Patikrinkite, ar tinkamai įdėta __app_name__.</string>
+    <string name="sdcard_install">Jei __app_name__ įdiegta išorinėje atmintinėje (SD kortelėje), grąžinkite ją į vidinę atmintį</string>
+    <string name="change_address_type">Pakeisti adresą / tipą</string>
+    <string name="bad_offset">Kompensacija nėra __d__ kartotinis.</string>
+    <string name="bad_result_address">Gautas adresas nėra __d__ kartotinis.</string>
+    <string name="correct_types">__d__ elementai pakeis jo tipą, kad ištaisytų neįmanoma.</string>
+    <string name="reinstall_fail">"Nepavyko iš naujo įdiegti __app_name__ atsitiktinio pavadinimo.
+
+__app_name__ galima lengvai atpažinti žaidimais.
+
+Įdiegimo metu galite įrašyti __logcat__ ir susisiekti su pagalbos forumu.
+
+Atmetimo priežastis:"</string>
+    <string name="empty_field">Tuščias įvesties laukas: nėra skaičiaus konvertuoti</string>
+    <string name="need_integer">Turite pasirinkti sveikąjį skaičių, kurį norite konvertuoti.</string>
+    <string name="maps_failed">Nepavyko atidaryti failo „__maps__“.</string>
+    <string name="game_protected">Žaidimas yra apsaugotas.</string>
+    <string name="need_root">Reikia šaknų, kad nulaužtumėte šį žaidimą.</string>
+    <string name="vspace_error">"Virtualios erdvės ar programinės įrangos ar įrenginio problema.
+
+Bandyti:
+\u0009- naudoti kitą virtualią erdvę
+\u0009- naudoti kitą programinę įrangą
+\u0009- gauti šaknį
+\u0009- naudokite kitą įrenginį"</string>
+    <string name="root_error">"Programinės įrangos arba šaknies arba įrenginio problema.
+
+Bandyti:
+\u0009- naudoti kitą programinę įrangą
+\u0009- naudokite kitą šaknį
+\u0009- naudokite kitą įrenginį"</string>
+    <string name="vspace_root">Naudokite root virtualioje erdvėje:</string>
+    <string name="help_vspace_root">"Naudojant šaknį iš virtualios erdvės, galima paslėpti faktą, kad įrenginyje yra __app_name__.
+
+Jis neveikia visose firmware, o ne visose virtualiosiose erdvėse.
+
+Virtuali erdvė, programinė įranga ir šaknis turi leisti dirbti su šaknimi iš virtualios erdvės.
+Virtuali erdvė turėtų leisti jums įdiegti programas į vidų be jų įdiegimo į sistemą.
+
+Ne visos virtualios erdvės gali tai suteikti.
+
+Ne visose programinės įrangos programose šis režimas veiks. Ir ne su visais šaknimis.
+
+Kadangi pagrindinės teisės bus suteiktos visai virtualiai erdvei, neturėtumėte įdiegti nieko kito. Priešingu atveju, bet kokia virtualios erdvės programa gali naudoti šaknines teises su nenuspėjamais padariniais.
+
+Žaidimas turi būti įdiegtas ne virtualioje erdvėje.
+
+__app_name__ turėtų būti įdiegta tik virtualios erdvės viduje, neįdiegiant jos į sistemą.
+Kaip tai padaryti - pamatyti konkrečios virtualios erdvės pagalbą.
+
+Pavyzdžiui, __vexp__ galite __app_name__ klonuoti iš sistemos __vexp__, tada ištrinti __app_name__ iš sistemos."</string>
+    <string name="help_games_protection_9">9. Virtualiose vietose naudokite šaknį, kuri leidžia įdiegti programas į save be diegimo į sistemą.</string>
+    <string name="locale_ui">Vietoje</string>
+    <string name="locale_script">Skriptai visada naudoja anglų kalbą</string>
+    <string name="locale_desc">"„__s__“ - dešimtainis separatorius
+'__s__' - tūkstančiai separatorių
+„__semicolon__“ - grupių paieškų skaičius"</string>
+    <string name="help_unaligned_title">Neregistruota paieška / big-endian paieška</string>
+    <string name="help_unaligned">"Kai kuriose taikomosiose programose (pvz., Konsolės emuliatoriuose) atminties reikšmė gali nesilaikyti derinimo arba būti pateikta didžiojo baito tvarka.
+
+Tokia vertė negali būti nustatyta per įprastą paiešką.
+
+Norėdami juos rasti - naudokite specialų scenarijų iš oficialios __app_name__ svetainės:"</string>
+    <string name="help_formula_calculator_title">Formulės skaičiuoklė</string>
+    <string name="help_formula_calculator">"Beveik kiekviename skaičių įvedimo lauke galite įvesti matematinę formulę. Po lygybės ženklo, pavyzdžiui, paieškos lauke įveskite „= 2 + 2 * 3“, o programa ieškos tokios formulės rezultato: yra „8“.
+Formulė yra Lua išraiška. Jame galite panaudoti visą turimą „Lua“ galią.
+
+Visi aritmetiniai operatoriai Lua 5.3 yra priimtini - sudėjimas (+), atimtis (-), daugyba (*), dalijimas (/), dalijimasis likutis (%), eksponentikacija (^), sveikasis skaičius (//) ir pan.
+Taip pat galimi bitų operatoriai - IR (ir), ARBA (|), išskirtiniai ARBA (dvejetainiai ~), NE (vieningi ~), „Shift“ į dešinę (>>), „Shift“ į kairę (&lt;&lt;). Veiksmų eiliškumą galima nurodyti skliausteliuose.
+Perskaitykite „Lua“ vadovą, kad pateiktumėte visą galimų operacijų sąrašą.
+
+Tai naudinga, jei žinote, kaip vertė koduojama žaidime. Pavyzdžiui, 29 raundus viename žaidime galima rasti kaip '= 29 ~ 444444'. Tai prilygsta 29 XOR 444444. Vaizdo imtyje kaina buvo rasta 3888 per XOR su 444444, kaip '= 444444 ~ 3888'. Po to pakeitimas buvo '= 444444 ~ 1', kuris nustatė kainą '1'. Kitame žaidime 125 auksas yra '= 125 * 10'.
+
+Ne visos scenarijų funkcijos pasiekiamos formulės skaičiuoklėje. Kai kurios funkcijos negalimos. Jei jų nepakanka - parašykite scenarijų, o ne naudokite formulės skaičiuoklę. Jis skirtas tik paprastiems skaičiavimams. Galimos: dalis pagrindinių funkcijų, „bit32“, „lentelė“, „eilutė“, „utf8“, „matematika“, dalis „os“ paketo. Paketai 'derinimo', 'paketas', 'gg', 'io' nėra.
+
+Kai rašote '= 2 + 2 * 3', prieš formulę bus pridėtas raktinis žodis 'return': 'return 2 + 2 * 3'. Tačiau šį žodį galite patys nurodyti formulėje, jei jums reikia sudėtingos formulės.
+Pavyzdžiui, '= a = 5; b = 7; grąžinti a * 4 + b * 8 'bus vykdomas kaip' a = 5; b = 7; grąžinti * 4 + b * 8 '
+
+Formulės skaičiuoklės rezultatas yra teksto eilutė. Eilutė gali būti bet kokia tinkama šio įvesties lauko eilutė.
+Pvz., Tai gali būti grupės ar eilutės paieškos eilutė. '= a = 5; b = 7; grąžinti a .. \";\" .. b .. \":: 100\" 'yra lygus' 5; 7: 100 '.
+
+Formulės skaičiuoklė neveikia scenarijų, ten galite tiesiogiai naudotis „Lua“.
+Rašant scenarijų, į formulę bus įrašytas formulės apskaičiavimo rezultatas, o ne pati formulė.
+
+Jei formulė neteisinga, pateikdami formą gausite klaidos pranešimą.
+
+Skaičiuodami turite atsižvelgti į tai, kad skaičiavimai atliekami tokio tipo, kokį nurodo pirmasis operandas. Jei tai yra sveikas skaičius, tada rezultatas bus sveikas skaičius.
+Pvz., „= 3/2“ yra „1“, o „= 3,0 / 2“ yra „1,5“.
+
+Nepriklausomai nuo pasirinktos lokalės, formulės veikia angliškai. Tai reiškia, kad dešimtainis skyriklis visada yra taškas ('.')."</string>
+    <string name="help_faq_32_b">"Dvi paleisties piktogramos. Pirmasis, su programinės įrangos pagreitis - \"__app_short_name_sw__\", antrasis - su aparatūros pagreitis - \"__app_short_name_hw__\". Dabar tai visada bus.
+Kai kuriose firmose veikia tik viena versija, tiek įprastomis, tiek abiem.
+Geriau naudoti programinės įrangos pagreitį, jis veikia mažiau sklandžiai, bet sunaudoja mažiau atminties.
+
+Galite paslėpti vieną iš piktogramų programų nustatymuose: \"__hide_icons__\"."</string>
+    <string name="acceleration_help_">"Techninės įrangos ar programinės įrangos sąsajos pagreitis __app_name__.
+Priklausomai nuo žaidimo ir programinės įrangos, kai kurios parinktys gali sukelti problemų.
+Jei abu dirbate, naudokite programinės įrangos pagreitį, nes jis sunaudoja mažiau atminties.
+
+Ši parinktis yra atskirta nuo paleidimo piktogramų ir veikia tik __app_name__ sąsajos ekraną.
+Paleidimo piktogramos yra atsakingos už pradinio ekrano pagreičio tipą.
+
+Aparatūros pagreitinimas sunaudoja daug daugiau atminties, tačiau jis veikia sklandžiau. Jei turite mažai RAM, visada naudokite programinės įrangos pagreitį.
+
+Jei aparatūros pagreitis sukelia klaidų, __app_name__ gali pereiti prie programinės įrangos pagreičio."</string>
+    <string name="small_list_items">Maži sąrašo elementai</string>
+    <string name="small_list_items_help">Leidžia rodyti daugiau informacijos elementų sąrašuose, tačiau gali būti sunkiau spustelėti norimą elementą.</string>
+    <string name="format_asm_opcodes">__s__ opcodes</string>
+    <string name="no_regions">Nerastas tinkamas regionas.</string>
+    <string name="cannot_hide_launcher_icon">"Ši piktograma buvo naudojama dabartiniam paleidimui.
+
+Jūs negalite paslėpti piktogramos, kuri buvo naudojama dabartiniam paleidimui.
+
+Jei norite paslėpti šią piktogramą, iš naujo paleiskite programą per kitą piktogramą."</string>
+    <string name="screenshot">Imtis ekrano</string>
+    <string name="screenshot_prompt">"Piktograma bus paslėpta už __d__ sekundžių, kad galėtumėte fotografuoti.
+
+Po to piktograma vėl bus matoma."</string>
+    <string name="screenshot_action">Ekranas</string>
+    <string name="use_visible_type">Naudokite matomą duomenų tipą atminties redaktoriuje:</string>
+    <string name="use_visible_type_help">Jei rodomas tik vienas duomenų tipas, atminties rengyklėje neprašykite duomenų tipo.</string>
+    <string name="wrong_float">Jūsų lokalėje skaičius \"__s__\" atrodo kaip \"__s__\". Jei ne tai, ko jums reikia - pradžios ekrane pasirinkite kitą lokalę (arba kalbą).</string>
+    <string name="wrong_float2">Be to, __app_name__ nustatymuose galite panaikinti formatavimo numerių lokalę.</string>
+    <string name="number_locale">Formatavimo numerių lokalė:</string>
+    <string name="fill">Užpildykite</string>
+    <string name="help_text_search">"
+Jei norite ieškoti teksto, įprastiniame paieškos dialoge turite nurodyti modifikatorius.
+
+Dažniausiai naudojami kodai yra __utf8__ ir __utf16le__.
+Paprastai __utf16le__ naudojamas __java__, o __utf8__ naudojamas __c__.
+
+\u0009__utf16le__ yra dviejų baitų kodavimas. Kiekvienas simbolis visada yra koduojamas dviem baitais, todėl jis pateikiamas per __type_word__.
+\u0009__utf8__ - kodavimas su kintamu baito dydžiu vienam simboliui. Atstovaujama per __type_byte__.
+\u0009__hex_input__ ir jo variantai visada pateikiami per __type_byte__.
+
+Žaidime gali būti naudojamas bet koks kodavimas.
+Jei reikia tam tikro baitų rinkinio - naudokite __hex_input__ režimą.
+
+Galimi prefiksai:
+__text_prefixes__
+
+\"__hex_mixed__\" režimui galite nurodyti __utf8__ tekstą tarp __apos__ simbolių ir __utf16le__ teksto tarp __quot__ simbolių.
+
+Pavyzdžiui:
+__text_examples__
+
+Priedo simbolis turi būti pirmasis paieškos teksto simbolis.
+
+Paieškos rezultatas bus __type_byte__ seka arba __type_word__ seka __utf16le__ atveju.
+
+Rezultatai gali būti pakeisti - pasirinkite visus ir spustelėkite „__edit_selected__“.
+
+Vertės lauke įveskite naują vertę ta pačia forma kaip ir paieškos eilutėje.
+
+Galite naudoti užpildymo mygtukus. Spustelėkite „__more__“, jei jie nėra matomi.
+
+Reikšmė bus nustatyta kiekvienai grupei, kuri nuolat stebi toliau nurodytus elementus.
+Jei tarp elementų yra atotrūkis, tai bus nauja grupė.
+
+Jei nurodysite daugiau baitų nei reikia, bus naudojama tik dalis jų.
+Jei nurodysite mažiau nei reikia, likusi grupės dalis bus užpildyta nuliniu baitu.
+
+Keičiant tekstą, pabandykite nurodyti tekstą su tuo pačiu baitų skaičiumi, kaip ir originalas, kad išvengtumėte problemų.
+"</string>
+    <string name="fast_freeze">Greitas užšaldymas:</string>
+    <string name="help_fast_freeze">"Jis veikia daug greičiau nei įprastas užšalimas, bet ne visa atmintis.
+
+Jei užšaldymas neveikia, išjunkite šią parinktį."</string>
+    <string name="debug_disassemble">Išardykite</string>
+    <string name="assembled">Sėkmingai surinkta į failą:</string>
+    <string name="warn_patch_off_prot2">"Jei naudojate __magisk_hide__ - prieš naudodami pleistrą, jį išjunkite. Sėkmingai pritaikius pleistrą, galite jį vėl įjungti.
+Jei to nepadarysite, pleistras nebus sėkmingas."</string>
+    <string name="help_games_protection_end">"
+Kaip paslėpti __app_name__ nuo žaidimo virtualioje erdvėje
+
+\u00091. Įdiekite virtualią erdvę, kuri leidžia paslėptai įdiegti programas, neįdiegdami jų sistemoje. Pavyzdžiui, __vspace_hide__.
+\u00092. Įdiekite __app_name__ virtualioje erdvėje.
+\u00093. __app_name__ įjunkite režimą „__vspace_root__“.
+\u00094. Suteikite pagrindines teises į virtualią erdvę. Jei negalite suteikti šakninių teisių - išbandykite kitą virtualią erdvę, kitas pagrindines teises, kitą programinę-aparatinę įrangą arba pakeiskite įrenginį.
+\u00095. Pašalinkite __app_name__ iš sistemos.
+\u00096. Dirbkite su __app_name__ iš virtualiosios erdvės.
+
+Kad išvengtumėte aptikimo per paiešką:
+\u0009Pasirinkite 2, 3 ir 4 elementus „__hide_from_game__“ nustatyme.
+
+Tipiškas sprendimas (reikia šaknies, be šaknies jums nepavyks padaryti):
+\u00091. Naudokite šaknį iš virtualios erdvės. Perskaitykite nustatymo „__vspace_root__“ žinyną.
+\u00092. Naudokite parametrus „__hide_from_game__“ 2, 3 ir 4.
+"</string>
+    <string name="force_close_2">Norėdami to išvengti ateityje, galite nustatyti „__data_in_ram__“ į „__no__“.</string>
+    <string name="script_wrote">Scenarijus rašo __s__ į __d__ failus.</string>
+    <string name="script_exit">išeiti</string>
+    <string name="script_interrupted">Scenarijus nutrauktas.</string>
+    <string name="script_error">scenarijaus klaidos</string>
+    <string name="script_oom">Nepakanka atminties</string>
+    <string name="script_possible">Atrodo, jūs bandote atlikti __s__ kaip scenarijų.</string>
+    <string name="script_web">interneto puslapis</string>
+    <string name="script_saved_list">išsaugota sąrašas</string>
+    <string name="speedhack_no_x86">Tačiau šiame žaidime yra ne x86 bibliotekos, tai gal ji neveiks.</string>
+    <string name="help_faq_33_q">Tekstiniai prane¹imai (skrebučiai) lieka ekrane, arba tamsus apskritimas yra matomas ekrano apačioje, kai __app_name__ dirba. Kaip ją išspręsti?</string>
+    <string name="help_faq_33_a">Naudojant trečiąjį lygį \"__prevent_unload__\" Dėl kai kurių firmware veda prie to, kad teksto pranešimus (skrebučiai) lieka ekrane, arba tamsus apskritimas yra matomas (tuščia žinutė). Jei taip atsitinka, nenaudokite trečią lygį.</string>
+    <string name="invalid_header_1">Neteisingas dvejetainis scenarijų antraštės.</string>
+    <string name="unknown_version">Nežinoma versija.</string>
+    <string name="unknown_format">Nėra formatas.</string>
+    <string name="unknown_endianness">Nėra Baitų eiliškumas.</string>
+    <string name="unknown_size_s">Nėra dydis __s__.</string>
+    <string name="unknown_size_instr">Nėra dydis instrukcija.</string>
+    <string name="unknown_size_num">Nėra dydis Lua skaičius.</string>
+    <string name="expected_found">Tikimasi, __s__, tačiau rado __s__.</string>
+    <string name="or">arba</string>
+    <string name="invalid_header_2">Paleisti scenarijų vistiek?</string>
+    <string name="invalid_header_3">"Ateityje versijų __app_name__, šis scenarijus negali būti paleisti.
+Parašykite apie tai scenarijaus autorius."</string>
+    <string name="skip_system_libs">Pereiti sistemos bibliotekas</string>
+    <string name="try_reinstall_x86">"Pabandykite iš naujo įdiegti žaidimą su x86 bibliotekose?
+
+Žaidimas gali nustoti veikti po to. Jei taip atsitinka, įdiegti žaidimą iš APK esančio __data_app__."</string>
+    <string name="reinstall_started">Iš naujo įdiegti prasidėjo ...</string>
+    <string name="reinstall_failed">Iš naujo įdiegti nepavyko:</string>
+    <string name="reinstall_ended">Iš naujo įdiegti baigtas.</string>
+    <string name="help_lasm_title">Išardykite / surinkti scenarijus</string>
+    <string name="help_lasm">"__app_name__ turi įmontuotą išspaudimui / montuotojo už Lua scenarijus.
+
+Galite pasirinkti \"__debug_disassemble__\" parinktį scenarijų paleidimo lange paspaudę mygtuką \"__more__\" mygtuką.
+
+Gautas __ext_lasm__ failas gali būti redaguojama ir pasirinktas scenarijus paleidimo lange. Rezultatas bus dvejetainis __ext_lua__ failą, su padarytus pakeitimus.
+
+Skaityti scenarijų API pagalbos daugiau informacijos.
+"</string>
+    <string name="help_hide_gg_title">Kaip paslėpti __app_name__ iš žaidimo</string>
+    <string name="changed_as_search_result">Pasikeitė paieškos rezultatus</string>
+    <string name="changed_not_found">Pakeisti daiktų nerasta.</string>
+    <string name="too_far">Šios vertybės negali būti nustatyta per grupės paieškoje, jie yra per toli vienas nuo kito: __d__ baitai. Maksimalus atstumas yra __d__ baitų.</string>
+    <string name="new_address">Naujas adresas:</string>
+    <string name="hide_1_warn">Jūs pasirinkote pirmąjį elementą. Šaldymo vertybės gali sukelti sunkių VVG žaidimą.</string>
+    <string name="hide_4_warn">Pasirinkote ketvirtą elementą. Kai kurios funkcijos neveiks: __speedhack__, __unrandomizer__, __allocate_page__.</string>
+    <string name="asm_failed">Nepavyko atpažinti __s__ operacijos kodą:</string>
+    <string name="asm_suggestion">Ar Jūs turėjote galvoje: __s__?</string>
+    <string name="copy_opcode">Kopijuoti __s__ operacijos kodą:</string>
+    <string name="search_nearby">Paieška netoliese</string>
+    <string name="before">prieš</string>
+    <string name="after">po</string>
+    <string name="distance">atstumas:</string>
+    <string name="nearby">Netoliese:</string>
+    <string name="need_fixer">"Problema buvo aptiktas su šiuo 64-bit virtualioje erdvėje.
+
+Siekiant ją išspręsti:
+
+1. Įdiekite __fixer__ taikymą. (Iš šio dialogo, arba rankiniu būdu, palei kelią:
+__s__
+).
+
+2. Pridėti __fixer__ į virtualią erdvę.
+
+3. Vykdyti __fixer__ virtualioje erdvėje.
+
+4. Nuimkite __fixer__.
+
+5. Iš naujo paleiskite virtualioje erdvėje __app_name__."</string>
+    <string name="limit">Tik pirmas N rezultatai:</string>
+</resources>

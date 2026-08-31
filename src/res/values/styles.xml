@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="LargeText" parent="@android:style/TextAppearance.Large">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="MediumText" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="SmallText" parent="@android:style/TextAppearance.Small">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="Separator" parent="@android:style/TextAppearance.Small">
+        <item name="android:textColor">#ffaaaaaa</item>
+    </style>
+    <style name="FixTheme" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:buttonStyle">@style/Modern.Button</item>
+        <item name="android:listPreferredItemHeight">48.0dip</item>
+        <item name="android:windowBackground">@color/modern_background</item>
+        <item name="android:colorBackground">@color/modern_background</item>
+        <item name="android:textColorPrimary">@color/modern_text_primary</item>
+        <item name="android:textColorSecondary">@color/modern_text_secondary</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:editTextStyle">@style/Modern.EditText</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="DarkFixTheme" parent="@style/FixTheme">
+        <item name="android:alertDialogStyle">@style/DarkAlertDialog</item>
+    </style>
+    <style name="DarkAlertDialog">
+        <item name="android:fullDark">@drawable/popup_full_dark</item>
+        <item name="android:topDark">@drawable/popup_top_dark</item>
+        <item name="android:centerDark">@drawable/popup_center_dark</item>
+        <item name="android:bottomDark">@drawable/popup_bottom_dark</item>
+        <item name="android:fullBright">@drawable/popup_full_dark</item>
+        <item name="android:topBright">@drawable/popup_top_dark</item>
+        <item name="android:centerBright">@drawable/popup_center_dark</item>
+        <item name="android:bottomBright">@drawable/popup_bottom_dark</item>
+        <item name="android:bottomMedium">@drawable/popup_bottom_dark</item>
+        <item name="android:centerMedium">@drawable/popup_center_dark</item>
+    </style>
+    <style name="ListItemText" parent="@style/MediumText" />
+    <style name="Modern.Button" parent="@android:style/Widget.Button">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:background">@drawable/bg_modern_button</item>
+        <item name="android:paddingLeft">@dimen/spacing_medium</item>
+        <item name="android:paddingRight">@dimen/spacing_medium</item>
+        <item name="android:minHeight">@dimen/modern_button_min_height</item>
+    </style>
+    <style name="Modern.EditText" parent="@android:style/Widget.EditText">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:textColorHint">@color/modern_text_secondary</item>
+        <item name="android:background">@drawable/bg_modern_edittext</item>
+    </style>
+    <style name="Modern.SectionHeader" parent="@style/Separator">
+        <item name="android:textColor">@color/modern_text_secondary</item>
+        <item name="android:background">@drawable/bg_modern_section_header</item>
+        <item name="android:paddingLeft">@dimen/spacing_medium</item>
+        <item name="android:paddingTop">@dimen/spacing_small</item>
+        <item name="android:paddingBottom">@dimen/spacing_small</item>
+    </style>
+    <!-- Pivot Modern UI v2 styles -->
+    <style name="Modern.Card">
+        <item name="android:background">@drawable/bg_modern_card</item>
+        <item name="android:paddingLeft">@dimen/spacing_medium</item>
+        <item name="android:paddingTop">@dimen/spacing_medium</item>
+        <item name="android:paddingRight">@dimen/spacing_medium</item>
+        <item name="android:paddingBottom">@dimen/spacing_medium</item>
+    </style>
+    <style name="Modern.MenuRow">
+        <item name="android:background">@drawable/bg_modern_menu_row</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:minHeight">@dimen/menu_row_height</item>
+        <item name="android:paddingLeft">@dimen/spacing_medium</item>
+        <item name="android:paddingRight">@dimen/spacing_medium</item>
+        <item name="android:paddingTop">@dimen/spacing_small</item>
+        <item name="android:paddingBottom">@dimen/spacing_small</item>
+    </style>
+    <style name="Modern.ListRow">
+        <item name="android:background">@drawable/bg_modern_menu_row</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:minHeight">@dimen/list_item_height</item>
+        <item name="android:paddingLeft">@dimen/spacing_medium</item>
+        <item name="android:paddingRight">@dimen/spacing_medium</item>
+    </style>
+    <style name="Modern.Button.Primary" parent="@style/Modern.Button">
+        <item name="android:textColor">@color/modern_on_accent</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/bg_modern_primary_button</item>
+    </style>
+    <style name="Modern.Button.Ghost" parent="@style/Modern.Button">
+        <item name="android:textColor">@color/modern_text_secondary</item>
+    </style>
+    <style name="Modern.Button.Destructive" parent="@style/Modern.Button">
+        <item name="android:textColor">@color/modern_error</item>
+    </style>
+    <style name="Modern.Title" parent="@style/MediumText">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">@color/modern_text_primary</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Modern.ListText" parent="@style/SmallText">
+        <item name="android:textColor">@color/modern_text_primary</item>
+    </style>
+</resources>

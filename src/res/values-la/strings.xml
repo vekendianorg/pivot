@@ -1,0 +1,1366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lang_code">~~~la~~~</string>
+    <string name="front_text">"__improve_translation_hint__
+
+Si quis quaestiones circa usum __app_name__ vel, commodo at fora visere nostris, __forum__"</string>
+    <string name="set_path">tempus semita</string>
+    <string name="number">Number:</string>
+    <string name="type">Type:</string>
+    <string name="name">Name:</string>
+    <string name="reset">Lego processus</string>
+    <string name="set_range">Lego memoria septa templi,</string>
+    <string name="search">Quaerere</string>
+    <string name="save">salvare</string>
+    <string name="goto1">Maccius,</string>
+    <string name="address">oratio:</string>
+    <string name="edit_all">Edit omnia</string>
+    <string name="filter">filter</string>
+    <string name="clear">liquet</string>
+    <string name="max_show_rec">show:</string>
+    <string name="equal">integris scribebat</string>
+    <string name="inequal">mutata</string>
+    <string name="larger">auctus</string>
+    <string name="smaller">decrescebat</string>
+    <string name="compare_current_last">Quam habet in valore mutata est?</string>
+    <string name="write_region_log">Iniuriarum scribam regionis</string>
+    <string name="old_version">vetus poema</string>
+    <string name="found_old_version">Vetus versio reperitur __app_name__. vis fac ut uninstall eam?</string>
+    <string name="yes">Ita</string>
+    <string name="no">nullum</string>
+    <string name="ok">Bene</string>
+    <string name="failed_find_package_name">Deficio applicationem sarcina invenire in nomine!</string>
+    <string name="path_for_temp_files">"Set a semita in temp files, exempli causa '__sdcard__. Ut eget libero spatio paucis centum MB. Quaero praecessi in current et perdidit."</string>
+    <string name="confirm">Constituo</string>
+    <string name="cancel">Cancel</string>
+    <string name="found_new_version">Invenit novus poema __s__</string>
+    <string name="daemon_failed">daemon defuit</string>
+    <string name="failed_run_daemon">Deficio currere daemon. Radix est installed?</string>
+    <string name="daemon_unexpected_closed">Daemon praeter spem clausis. Info:</string>
+    <string name="daemon_exited">egrederetur daemonem</string>
+    <string name="failed_load_daemon">Deficio ad daemonem load</string>
+    <string name="is_device_rooted">Radix accessum adempto rerum omnium usu.</string>
+    <string name="collect_data_to_region_log">De notitia collectio coepi scribere regionem iniuriarum ...</string>
+    <string name="log_saved">Iniuriarum ut salvus __s__</string>
+    <string name="failed_save">Non nisi __s__</string>
+    <string name="region_log">regio iniuriarum</string>
+    <string name="apply">Applicare</string>
+    <string name="error">Error</string>
+    <string name="load">onus</string>
+    <string name="delete_prompt">Vis transfer item</string>
+    <string name="reset_search">ERROR conscenderunt. Reset quaerere album.</string>
+    <string name="unknown_error">Ignotis error</string>
+    <string name="out_of_memory">De memoria</string>
+    <string name="bug_detected">nequiquam detecta fraude bug</string>
+    <string name="disk_full">orbis plenus</string>
+    <string name="io_error">o error</string>
+    <string name="game_dead">ludus mortuis</string>
+    <string name="exit">exitus</string>
+    <string name="skip">ignore</string>
+    <string name="unhandled_exception">Unhandled exceptio. Deorsum autem ad progressionem bigas mittere info?</string>
+    <string name="last_run_failed">Run tandem defecit</string>
+    <string name="thank_you">Gratias tibi!</string>
+    <string name="no_application">Application est non lectus.</string>
+    <string name="increments">incrementum:</string>
+    <string name="add_not_replace">Addere ad valorem, non reponere</string>
+    <string name="eperm_error">Potuerunt isti ideae adjicere aliquid (PTRACE_ATTACH): non licet operatic</string>
+    <string name="load_list">onus album</string>
+    <string name="load_warning">Et posuit in album de ludum exempli gratia, quae servatae sunt ab alia. Fere omnes memoriae adhortationes mutata onusto notitia data non respondere prius quam fierent. Nos commendo reprehendo his.</string>
+    <string name="from">__d__ __d__ ex complebitur tempus</string>
+    <string name="count_fuzzy_equal_run">"Multis temporibus currere '__fuzzy_equal__';"</string>
+    <string name="slow">tarda</string>
+    <string name="miui_restart">__app_name__ necessitates restarted in ut applicare securitatem concessiones.</string>
+    <string name="out_of_memory_error">Memoria de errore. Current eventum list mundatum inuenies. Pone quaeso sit minor numerus ad valorem eventus ostendere.</string>
+    <string name="loading">... loading</string>
+    <string name="found_count">Found: __d__</string>
+    <string name="fuzzy_equal">immutatus valorem</string>
+    <string name="fuzzy_inequal">mutata pretii</string>
+    <string name="fuzzy_larger">valorem auctus</string>
+    <string name="fuzzy_smaller">valorem minuatur</string>
+    <string name="type_edit_limit">Initus ad valorem de __s__ __s__</string>
+    <string name="number_name">numerus</string>
+    <string name="step_name">incrementum</string>
+    <string name="number_less">"Numerus '__s__, minus est quam minimum valorem (__d__) quaestionibus huius generis."</string>
+    <string name="number_greater">"Numerus '__s__, major est maximum valorem (__d__) quaestionibus huius generis."</string>
+    <string name="about">circa</string>
+    <string name="owner">dominus</string>
+    <string name="design">plumbum excogitatoris</string>
+    <string name="pm">project administratione</string>
+    <string name="code">plumbum coder</string>
+    <string name="tech">technica consultant</string>
+    <string name="creator">creator (secreto)</string>
+    <string name="for_translators">Si vis ad auxilium facere vel applicationem et translationem in, vos can contact us in foro http://gameguardian.net/forum ut adepto vestri translationem includitur in eunuchorum remissionis de application.</string>
+    <string name="version">Version:</string>
+    <string name="developers">developers,</string>
+    <string name="select_language">Lego lingua</string>
+    <string name="exit_confirm">Ut necessitates __app_name__ restarted adhibere mutationes.</string>
+    <string name="special_thanks">Specialis gratias egerunt:</string>
+    <string name="nothing_found">Nihil Found. Try ad quaerere iterum.</string>
+    <string name="try_more_ranges">Vos can quoque tendo iugis magis eligere in occasus tab.</string>
+    <string name="try_fuzzy_search">Vos can quoque tendo ut quaeram magis quam in ignotis valorem.</string>
+    <string name="search_hint">"Ut quaeram magis notum sit pretii, torcular \"__search_known_value__\".
+Quod si in valore est, aut ignotum encrypted - click in \"__search_unknown_value__\" ut quaeram.
+Search for values ​​missi a quibus fiant per lectio pars integra est, __type_auto__, quaerere genus.
+Vos can etiam utor a coetus investigationem, __semicolon__, ut separator."</string>
+    <string name="freeze">rigescunt indutae,</string>
+    <string name="freeze_normal">normalem</string>
+    <string name="freeze_may_increase">ut crescat</string>
+    <string name="freeze_may_decrease">ut pauci numero</string>
+    <string name="freeze_in_range">in range</string>
+    <string name="range_end_fail">"Finis range ( '__s__') debet esse major, __s__."</string>
+    <string name="failed_add_window">Deficio addere fenestra</string>
+    <string name="failed_remove_window">Deficio ad removendum fenestra</string>
+    <string name="system_service_stopped">Unde scientia potest operari opera Northmanni ratio est quia in genitalibus cessavitque. Fabrica experimentum restarting application vel reboot.</string>
+    <string name="value_request">Intra ut quaeram magis quam ad valorem</string>
+    <string name="type_request">Select a notitia rationem quaerere</string>
+    <string name="type_change_request">Select a notitia mutare genus</string>
+    <string name="value">valorem</string>
+    <string name="save_as">Ut Servo:</string>
+    <string name="restart">Sileo</string>
+    <string name="start">initium</string>
+    <string name="wait_daemon">Haec munus est, si praesto non est daemoniaco generaliter signatum est currit. Genio versetur incipit state ut consulam est. (Ut det radix obliviscaris utrum aditum? Aut non est radix installed?)</string>
+    <string name="daemon_fail">Non daemoniaco generaliter signatum est currit</string>
+    <string name="config_icon_text">Icon: Perspicuum = __d__ %%: constiterant - __s__</string>
+    <string name="icon_hide_after">Post __d__ seconds</string>
+    <string name="icon_hide_never">numquam</string>
+    <string name="keyboard">Keyboard:</string>
+    <string name="internal">Internum</string>
+    <string name="external">external</string>
+    <string name="failed_copy_text">Deficio ad effingo ut clipboard textu:</string>
+    <string name="copied">copied</string>
+    <string name="copy_value">Effingo ad valorem:</string>
+    <string name="copy_address">Effingo inscriptione:</string>
+    <string name="goto_address">Ad inscriptione:</string>
+    <string name="search_unknown_value">Ignotum (quamquam) quaerere</string>
+    <string name="search_known_value">Nota (Cicero) quaerere</string>
+    <string name="speedhack_hint">Ad mutare celeritas ludum, in torcular praestare longam fluctuantur __app_name__ icon.</string>
+    <string name="bad_firmware">Firmware est tuus error existit, qui impedimento ad rem uti hoc pluma.</string>
+    <string name="language">Lingua</string>
+    <string name="acceleration">Accelerationis interface:</string>
+    <string name="hardware">hardware</string>
+    <string name="software">Software</string>
+    <string name="speedhack">speedhack</string>
+    <string name="data_in_ram">Data apud ram</string>
+    <string name="first_mb">Primum __d__ MB</string>
+    <string name="donate">Donate</string>
+    <string name="speeds">celeritatibus ferentur</string>
+    <string name="floating_window_fail">"'Non ostenderet fluens fenestram"</string>
+    <string name="check">sunt comprobatio</string>
+    <string name="check_success">Felix fuit sunt comprobatio</string>
+    <string name="enable_draw_perm">Placere enable permissiones in proximo screen.</string>
+    <string name="speedhack_fail">Hoc processus est non valet speedhack</string>
+    <string name="dangerous">periculo</string>
+    <string name="difference">difference</string>
+    <string name="old_value">vetus pretii</string>
+    <string name="new_value">novum pretii</string>
+    <string name="mode_hacking">De valore est encrypted</string>
+    <string name="union">Group quaerere</string>
+    <string name="speedhack_open">Te possit a tempore urgeat super speedhack aperire natantes __app_name__ icon.</string>
+    <string name="history">Historia</string>
+    <string name="history_empty">Historia inanis</string>
+    <string name="allow_suggestions">Suggestiones patitur a keyboard:</string>
+    <string name="invalid_area">Group debet esse inter mole et __d__ __d__,</string>
+    <string name="union_need_two_numbers">Quia non oportet quaerere coetus duo saltem numero</string>
+    <string name="too_many_union_numbers">Quoque plures numero quam:</string>
+    <string name="invalid_number">Aliquam numero:</string>
+    <string name="input_number">initus est numerus</string>
+    <string name="number_out_of_range">"Numerus '__s__, de range potest:"</string>
+    <string name="help_floating_icon">"* In natantis icon:
+\u0009ICTUS * aperire interface.
+\u0009ICTUS * et tenere ut toggle speedhack panel.
+\u0009* Non potest ad aliquem locum per distracta et stilla ad icon.
+\u0009Perspicuus * et abscondere potest nativus in lupanar visitat app occasus.
+"</string>
+    <string name="help_exact_search">"Exige * search:
+\u00091. ex __app_name__ Transibit ad ludum.
+\u00092. ICTUS in \"__search_known_value__\" puga pyga in \"__search__\" tab.
+\u00093. potenti est numerus ut ostendi in ludo.
+\u00094. Select idoneam ad genus notitia, vel eligere '__type_auto__ \"(Si vos es non certus), et alia (si opus fuerit) and click\" __search__ \".
+\u00095 Postquam complevit investigatione, quaero praecessi ero propono in album.
+\u00096 vade ad ludum. Mutata post pretii: __app_name__ vertas, iterum.
+\u00097. Search se vertit ad valorem.
+\u00098. If there are too many results, continue to step 6.
+\u00099. Quod si pauci sunt derelicti eventus, te potest experiri ad mutari, aut frigore copia valorem.
+"</string>
+    <string name="help_speedhack">"* Speedhack:
+\u0009* Ostende SPISSAMENTUM, et arripuerit fluitantis icon est in speedhack panel.
+\u0009ICTUS * et affer mihi sagittas, vel ex parte icon ad mutare ludum celeritate.
+\u0009ICTUS hodiernam * et tenere numerus celeritas ad celeritatem reset ludum.
+\u0009ICTUS * et tenere fluitantis icon est celare speedhack panel.
+\u0009Index * et celeritate uti possunt timers nativus in app occasus.
+\u0009* Si ludum non Respondeo dicendum initus est vel speedhack non operatur, tentant usura timers in altera viridis __app_name__ occasus.
+\u0009* Vos can utor «__time_jump__\" praemisit ut salire in tempus. Iustus lego tab quod sumo menu quaero per \"__time_jump__\". Vos mos postulo ut salire specificare quot minuta secunda. Ut salire possint moles fracta est.
+"</string>
+    <string name="help_fuzzy_search">"Fuzzy * search:
+\u00091. ex __app_name__ Transibit ad ludum.
+\u00092. ICTUS in \"__search_unknown_value__\" puga pyga in \"__search__\" tab.
+\u00093. Select idoneam ad genus notitia, vel eligere '__type_auto__ \"(si vos non certo) and click\" __search__ \".
+\u00094. Cum complevit investigatione, quaero praecessi ero propono in album.
+\u00095. Ad ludum. Post mutata ad valorem (vel non), __app_name__ vertas, iterum.
+\u00096. ICTUS in \"__search_unknown_value__\" puga pyga quod lego typus de valore pro quo mutatum est.
+\u00097. If there are too many results, continue step to 5.
+\u00098. si pauci sunt derelicti eventus, te potest experiri ad mutari, aut frigore copia valorem.
+
+\u0009Si vis mutare opus diei in valore strepitando in \"__more__ 'deprimendo.
+\u0009Vos can range ut ad accurate intrare ad valorem mutationem:
+\u0009\u0009190__tilde__210
+\u0009Ut specificare mutatio extra range of valorem, vos can initus:
+\u0009\u000910__tilde____tilde__4000
+"</string>
+    <string name="help_group_search">"Quaerere * Group:
+\u00091. ex __app_name__ Transibit ad ludum.
+\u00092. ICTUS in \"__search_known_value__\" puga pyga in \"__search__\" tab.
+\u0009Petentibus coetus potenti 3. quaero quaero.
+\u0009\u0009Format: value 1 __semicolon__ value 2 __semicolon__ ... __semicolon__ value N __colon__ group size
+\u0009\u00092-__max_group__ values can be searched at the same time. The default group size is 512. The group size must be between 2 and 65536.
+\u0009\u0009For example, if you want to search 195 and 6543, you should input:
+\u0009\u0009\u0009195 __semicolon__ 6543
+\u0009\u0009Of course you can specify the group size (300):
+\u0009\u0009\u0009195 __semicolon__ 6543 __colon__ 300
+\u0009\u0009Item, notitia typus vos can vel posuit:
+\u0009\u0009\u0009195__type_dword_short__ __semicolon__ 6543
+\u0009\u0009This means you want to search a __type_dword__ value that is 195 and an __type_auto__ value that is 6543.
+\u0009\u0009Posse eadem data sunt rationes quaerere:
+\u0009\u0009\u0009__type_byte_short__ - __type_byte__
+\u0009\u0009\u0009__type_word_short__ - __type_word__
+\u0009\u0009\u0009__type_dword_short__ - __type_dword__
+\u0009\u0009\u0009__type_xor_short__ - __type_xor__
+\u0009\u0009\u0009__type_qword_short__ - __type_qword__
+\u0009\u0009\u0009__type_float_short__ - __type_float__
+\u0009\u0009\u0009__type_double_short__ - __type_double__
+\u0009\u0009\u0009__type_auto_short__ - __type_auto__
+\u0009\u0009Etiam vos potestis scribere numero in hexagonis traversa (minus-endian) notatio:
+\u0009\u0009\u0009__hex_example____hex__ __semicolon__ 6543
+\u0009\u0009hexagonem illustratum movetur in principio, aut (magna-endian) notatio:
+\u0009\u0009\u0009__hex_example____rhex__ __semicolon__ 6543
+\u0009\u0009Ad initus additional characteres, uti «__btn_hex__\" tange bullam RURSUM internum eorum magister loquitur.
+\u00094. Select idoneam ad genus notitia, vel eligere '__type_auto__ \"(Si vos es certus non est) utor ut default. Alia options quia in quaestionibus huius generis non refert. Click \"__search__\".
+\u00095 Postquam complevit investigatione, quaero praecessi ero propono in album.
+\u00096. Ad ludum. Mutata post pretii: __app_name__ vertas, iterum.
+\u00097. Repeat coetus investigationem oportet mutationes.
+\u00098. If there are too many results, repeat steps 6 and 7.
+\u00099. Quod si pauci sunt derelicti eventus, te potest experiri ad mutari, aut frigore copia valorem.
+
+\u0009Si vis ergo reverebuntur praestantiorum bonorum ordo bis __colon__ specificare.
+\u0009Sine coetus magnitudine:
+\u0009\u0009195 __semicolon__ 6543 __colon____colon__
+\u0009Cum coetus magnitudine:
+\u0009\u0009195 __semicolon__ 6543 __colon____colon__ 300
+
+\u0009Potes in range of artificiales exhibere:
+\u0009\u0009190__tilde__210 __semicolon__ 6543
+\u0009Te potest etiam extra range of quaerere artificiales exhibere:
+\u0009\u000910__tilde____tilde__4000 __semicolon__ 6543
+"</string>
+    <string name="help_others">"* Alii:
+\u0009* Searches enim novum, oportet purgare prior quaero praecessi per lectio \"__clear__\" in menu menu sub deprimendo.
+\u0009* Eligere ludum se in ludum icon ICTUS in sinistra superioris anguli.
+\u0009* Ut piis / resumere ludi - ICTUS in puga pyga in icon sub sinistra superioris anguli.
+\u0009* Si vos switch ut a dum pause ludum est, facit enim tunc vicis vos aperire __app_name__, ut statim satus et ludus.
+\u0009* Omnes gelida quae values ​​notorum additum est, ut salvus list. Vos can administrare tab illis in opportunitate.
+\u0009Omnes initus * data, ut salvet per \"__history__ 'album. Vos can utor in historia se deprimendo deprimendo.
+"</string>
+    <string name="help_typical_usage">"Typicam * usus algorithms,
+
+1) The value is not encrypted and known.
+\u0009Pretium fore in consistat sidera nummos opes etc.
+
+\u0009Exige uti quaero.
+
+2) The value is unknown and/or encrypted.
+\u0009Causa quod ignota est valorem A typicam - quis scale / talea. Eg salutem: mana, nitro, etc. Quod mutationes quae videntur, sed quae non est visibilis datorum numerales valores.
+\u0009A typical case for encrypted values would be money, stars, coins, etc., but when searching with 1 algorithm does not find anything, or change of found values does not lead to numbers changing in the game.
+
+\u0009Quamquam uti quaero.
+
+
+3) The value is encrypted (__mode_hacking__).
+\u0009A typical case for encrypted values would be money, stars, coins, etc., but when searching with 1 algorithm does not find anything, or change of found values does not lead to numbers changing in the game.
+
+\u0009Quaerere Utere exigere, sed semper eligere reprehendo \"__mode_hacking__\".
+\u0009Invenisti enim eventus potest ex novis values ​​encryption.
+
+Algorithm 3 is much faster than 2, but it may not work for all games.
+
+4) The value is not encrypted, known and placed near other known values.
+\u0009A typicam causa quia pretium fore in copia, heros civitas, etc.
+
+\u0009Uti omnibus quaerere coetus in unum numero est.
+"</string>
+    <string name="help_hints">"* Innuit:
+
+\u0009* Non omnia possumus ludos album est Typical __app_name__. immutabile per exempla;
+\u0009\u0009* Notitia repono in a servo (servo postesque ludos)
+\u0009\u0009* Ludum requirit constans conexio
+\u0009\u0009* Ludere network cum aliis players
+\u0009\u0009* Vos postulo ut servo eligere ad coniungere ludum ad initium
+\u0009\u0009* Non uti penitus non sunt aliqui
+\u0009\u0009* Reloads notitia de ludum server, si mutare aliquid,
+\u0009* Values that are seen are not always the same as the way they are stored. They can be different. For example on screen we see 34, but in memory the value is 34000.
+\u0009* Si mutare potest de valore - affectus hoc experiri mutare valores praebent qui magis valorem. Eg pro mutantur moles aurum, vos potest mutare res ac vendere pretium est. Aut emere pretio cum negans.
+"</string>
+    <string name="help">auxilium</string>
+    <string name="help_floating_icon_title">Natantes in icon</string>
+    <string name="help_exact_search_title">exige quaerere</string>
+    <string name="help_speedhack_title">speedhack</string>
+    <string name="help_group_search_title">Group quaerere</string>
+    <string name="help_others_title">alii</string>
+    <string name="help_typical_usage_title">Typical usus algorithms</string>
+    <string name="help_hints_title">innuit</string>
+    <string name="value_format">forma pretii</string>
+    <string name="format_hex">Rex (minus-endian) notatio</string>
+    <string name="format_rhex">Contra, omnis hexagonis traversa (magna-endian) notatio</string>
+    <string name="clear_selection">Non optare</string>
+    <string name="invert_selection">Index renominationum usorum</string>
+    <string name="select_all">Desumo omnes</string>
+    <string name="edit_selected">recensere electus</string>
+    <string name="delete_selected">Remove electus</string>
+    <string name="save_selected">nisi lectus</string>
+    <string name="nothing_selected">Nihil electus</string>
+    <string name="items_added">Items (__d__) addiderunt ad album salvus</string>
+    <string name="no_items_for_editing">Nulla ut emendo items.</string>
+    <string name="edit_info">Recensere quod __s__ __s__</string>
+    <string name="edit_all_info">Emendo quod oratio __d__ __s__</string>
+    <string name="autopause">Autopause ludum,</string>
+    <string name="empty_list">"Quod salvus erit album vacua remansit.
+Te potest addere items in album ut a investigationis eventus vel ex memoria author.
+Et eligere elementa eligere simpliciter ad desideravit \"__save_selected__\" in menu.
+Alius modus - edere incipiunt ad reprehendo reprehendo, et valore '__save_as__ \".
+Omnes gelida quae values ​​etiam hic statim addidit."</string>
+    <string name="empty_save">Quod salvus erit album vacua remansit. Nihil nisi.</string>
+    <string name="revert_selected">electus reverti</string>
+    <string name="nothing_to_revert">Nihil est reverti</string>
+    <string name="revert_prompt">Delectae reverti items (__d__)?</string>
+    <string name="download">Hoc app downloaded from potest:</string>
+    <string name="format_string">representation filum</string>
+    <string name="forgot_h">Nonne vos oblivisci, __hex__, in finem?</string>
+    <string name="time_jump">Tempus jump</string>
+    <string name="time_jump_hint">Intra numerum minutorum secundorum ad salire praemisit:</string>
+    <string name="hide_from_game">__app_name__ de ludum celare:</string>
+    <string name="last_stats">Found in novissimo quaerere</string>
+    <string name="memory_access">Aditus ad memoriam:</string>
+    <string name="normal">normalem</string>
+    <string name="extended">extenditur</string>
+    <string name="experimental">experimentalem</string>
+    <string name="installing">__app_name__ réinstallation faciat ex se, cum per ludos ab temere nomen suum excludere deprehendatur. Manere.</string>
+    <string name="failed_install">Deficio ad install app. Retry?</string>
+    <string name="failed_uninstall">Deficio ut amoveas app. Retry?</string>
+    <string name="download_it">download</string>
+    <string name="more">More</string>
+    <string name="less">minus</string>
+    <string name="no_space">Non reliquit in vestri locus fabrica</string>
+    <string name="install_cancel_prompt">__app_name__ non posse deprehendi solet installed. Tu vere volo ut destruant?</string>
+    <string name="intercept">Lentem intercipias;</string>
+    <string name="need_restart">In app scopum esse restarted adhibere has mutationes.</string>
+    <string name="must_be_root">"Nam operatio hoc progressio, ut esse radix tuom.
+
+__app_name__ modus non potest operari in stricto radix, in a rectum environment. Eg per __vspace_list__ multi alii.
+Read more details de ope.
+
+Quam ut evellerem, nullo fabrica, http://www.xda-developers.com/root/"</string>
+    <string name="skip_">Skip</string>
+    <string name="indent_for_the_status_bar">Maius Impelle III de vertice quod ante illud oppanditur:</string>
+    <string name="start_collecting_data">Colligendis notitia incipere</string>
+    <string name="data_collecting_in_progress">Progressus in notitia collectio</string>
+    <string name="copy">exemplum</string>
+    <string name="show_logcat">show logcat</string>
+    <string name="path_must_be">"Path must be at least 2 characters long and starts with '/'."</string>
+    <string name="fix_it">ut fix</string>
+    <string name="change_log">mutare iniuriarum</string>
+    <string name="used_only_first">Tantum __d__ primus items.</string>
+    <string name="need_select_more">__d__ oportet eligere vel pluribus elementis.</string>
+    <string name="offset">offset:</string>
+    <string name="result">effectus:</string>
+    <string name="copy_hex_value">Effingo valorem eum unitas eat:</string>
+    <string name="goto_pointer">Ad monstratorem:</string>
+    <string name="offset_calculator">offset calculator</string>
+    <string name="fill_toolbar">Imple toolbar:</string>
+    <string name="from_left">Ex sinistram</string>
+    <string name="from_center">Ex centro</string>
+    <string name="from_right">Ab dextro</string>
+    <string name="unit_years_short">y</string>
+    <string name="unit_days_short">d</string>
+    <string name="unit_hours_short">h</string>
+    <string name="unit_minutes_short">min</string>
+    <string name="unit_seconds_short">sec</string>
+    <string name="speed_info">In tempore ludum, in realis tempore = __s__ __s__</string>
+    <string name="search_helper">Quaerere a tribulatione peccatoris</string>
+    <string name="off">off</string>
+    <string name="go_to_game">Ad ad ludum si multum values ​​sunt inventi</string>
+    <string name="go_to_game_and_restore">Ad ad ludum si multum values ​​inventi sunt quod restituo in quaero tunc aperta est modus</string>
+    <string name="nothing">Nihil</string>
+    <string name="sort">Sort</string>
+    <string name="sort_and_remove_duplicates">Sort et removere effingo</string>
+    <string name="help_basics_title">Basic notitia</string>
+    <string name="help_basics">"Post applicationem ad vos satus per clicking per \"__start__\" puga pyga, fluctuetur stabunt in icon screen. Potest esse trahebatur ad locum.
+Aperi brevis percussoque in icon in application pelagus interface, dum ICTUS - panel de a ostende mutantur celeritas ludum.
+
+In pelagus screen possis videre:
+\u0009* In superiore sinistro - in icon in ludum. Percussoque in illo concedit se non eligere ludus.
+\u0009Sita in media * est bookmarks ut navigare per tabs. Percussoque in Top desideravit exhibeat oportet tab.
+
+In total there are 4 tabs: settings, search, saved list and the memory editor.
+\u0009* In iure superius est enim anguli ex interface deprimendo. Sequor autem, si quomodo abscondamini et interface et icon apparebit motis nitantur in screen.
+\u0009* Et in imo bar et oculi icon screen ibi est status. Si torcular et tenere in oculis icon, in interface erit transparent, sicut dimittere cunctis diebus vitae tuae ne digito tuo.
+\u0009Reliqua * et super contentis in screen tab quod positum est in te.
+
+Pro singulis praeter loca tab puga menu est, quae contingit diversitate actionum. Principalis actus in illo et invenies in hoc tab.
+
+Continet variis occasus Occasus tab, ope et de application notitia, et exitus deprimendo.
+
+Quaerere continet tab:
+\u0009* Die Jovis button: nomen lectus ludum, in eventus numerus inventus est et Renovare deprimendo.
+\u0009* Infra panel et velox accessum est, et icones menu puga pyga. Omnia idola in duplicata menu, ergo si non vult in icon, quod can exsisto visum per clicking semper in menu puga pyga (rightmost).
+\u0009* Infra eorum album of icons erit sint.
+
+Salvus erit album continet tab:
+\u0009* Die Jovis button: nomen lectus application, quod menu puga pyga et Renovare deprimendo.
+\u0009* Infra eorum album of icons salvus erit animationem.
+
+Memoria Editor tab prior est similis, non hic salvus values ​​ostendit memoriam de loco album contentis in eodem.
+
+In omnibus lists Tres (investigationis eventus, salvus bonorum memoria Editor), te potest ICTUS in longum praestare ostendere contineo contigi menu items."</string>
+    <string name="daemon_killed">"Daemon occisus est ab aliqua.
+
+Plerumque non potest esse;
+\u00091. Quaecumque memoria interfectores et optimizers. Vos oportet disable, aut addere nihil interfectores __app_name__ ad album album in occasus.
+\u00092. __daemon_killed_oom__
+\u00093. In memoria card et equites uirique obtinentes: __app_name__ dum tempus files condideris in ea. Id ne fieri, alia specificare viam ad tempus files. Ut memoriae internae."</string>
+    <string name="bad_settings">occasus malum</string>
+    <string name="freeze_lags">Frigidus values ​​uti simul cum occasu __hide_from_game__ sequi possit facere in ludo.</string>
+    <string name="improve_translation">Conventum creatum ab ipso interpres est. Vos can amplio nostri collective translatione usus est in ministerio.</string>
+    <string name="freeze_interval">Frigidus spatium;</string>
+    <string name="saved_list_update_interval">Album tempus updates salvus erit:</string>
+    <string name="milliseconds_short">MS</string>
+    <string name="disable_floating_windows">Et fenestras sileo app ad disable fluitantis</string>
+    <string name="enable_floating_windows">Admitte fluitantis ad fenestras, et sileo app</string>
+    <string name="too_many">Etiam multis</string>
+    <string name="help_range_search_title">investigatio scriptulos</string>
+    <string name="help_range_search">"* Investigatio scriptulos:
+\u00091. ex __app_name__ Transibit ad ludum.
+\u00092. ICTUS in \"__search_known_value__\" puga pyga in \"__search__\" tab.
+\u00093. Enter a border search range, separated by \"__tilde__\". For example, to search for values from 100 to 150, enter:
+\u0009\u0009\u0009100__tilde__150
+\u0009\u0009Extra telorum investigare potest determinare naturam \"__tilde__\" bis
+\u0009\u0009\u0009100__tilde____tilde__150
+\u0009\u0009Vel vos can signum \"__not_equal__\" speciem et rationem \"__tilde__« semel.
+\u0009\u0009Ad initus additional characteres, uti «__btn_hex__\" tange bullam RURSUM internum eorum magister loquitur.
+\u00094. Select idoneam ad genus notitia, vel eligere '__type_auto__ \"(Si vos es non certus), et alia (si opus fuerit) and click\" __search__ \".
+\u00095 Postquam complevit investigatione, quaero praecessi ero propono in album.
+\u00096. Ad ludum. Mutata post pretii: __app_name__ vertas, iterum.
+\u00097. Repeat est investigatio scriptulos oportet mutationes.
+\u00098. If there are too many results, repeat steps 6 and 7.
+\u00099. Quod si pauci sunt derelicti eventus, te potest experiri ad mutari, aut frigore copia valorem.
+
+\u0009Mete includitur in range de sint. Vos can lego typus of quaero '__not_equal__ \"ut omnia bona, quae non pertinent ad range.
+\u0009In hoc quaero, omnes valores signatum considerentur.
+"</string>
+    <string name="does_not_support">"'__s__' non support '__s__ \"."</string>
+    <string name="range_bounds_diff_types">Range fines debent esse eiusdem generis.</string>
+    <string name="examples">exempla</string>
+    <string name="rtfm">Auxilium Read pro magis details.</string>
+    <string name="icons_size">Icones mole;</string>
+    <string name="revert_and_remove">Removere et reverti</string>
+    <string name="remove">Remove</string>
+    <string name="ordered_group_search">Coetus iubet quaerere</string>
+    <string name="load_items">items</string>
+    <string name="load_values">values</string>
+    <string name="load_freeze">rigescunt indutae</string>
+    <string name="video_tutorials">Video quomodo ducibus tutorials et trucidabunt</string>
+    <string name="make_copy">Exemplum ad Fac</string>
+    <string name="video">videos</string>
+    <string name="ordered">Iussit</string>
+    <string name="toolbars">toolbars</string>
+    <string name="saved_list">salvus erit album</string>
+    <string name="memory_editor">memoria Editor</string>
+    <string name="restart_game">Sileo ludum</string>
+    <string name="refine">refine</string>
+    <string name="internal_storage">internum repono</string>
+    <string name="external_storage">externi repono</string>
+    <string name="new_search">nova quaerere</string>
+    <string name="load_saved_list">Load lima ex a album salvus</string>
+    <string name="save_saved_list">Servo lima in a album salvus</string>
+    <string name="append">Append</string>
+    <string name="xor_key">XOR key:</string>
+    <string name="only_memory">Sed memoria range</string>
+    <string name="dump_memory">memoria TUBER</string>
+    <string name="path">semita:</string>
+    <string name="dump_ended">finita TUBER</string>
+    <string name="dump_failed">defecit TUBER</string>
+    <string name="eperm_error_defend">Non est attach processus (PTRACE_ATTACH): Ludus munita Suspendisse</string>
+    <string name="reset_on_exit">Reset in exitus:</string>
+    <string name="kill_game">Occidere ludum</string>
+    <string name="kill_game_info">Ratio terminandi extorqueri non potest munde et clausa via data occasione damnum ratio instabilitatem.</string>
+    <string name="continue_ask">Permanere?</string>
+    <string name="copy_memory">memoriae exemplum</string>
+    <string name="copy_from">A effingo:</string>
+    <string name="paste_to">Crustulum est:</string>
+    <string name="count_bytes">Numerare bytes:</string>
+    <string name="copy_ended">Finita memoriae exemplum</string>
+    <string name="copy_failed">Defecit memoriae exemplum</string>
+    <string name="help_encrypted_search_title">Search for encrypted values</string>
+    <string name="help_encrypted_search">"Search for encrypted * artificiales exhibere:
+\u00091. ex __app_name__ Transibit ad ludum.
+\u00092. ICTUS in \"__search_known_value__\" puga pyga in \"__search__\" tab.
+\u00093. potenti est numerus ut ostendi in ludo.
+\u00094. Select idoneam ad genus notitia, vel eligere '__type_auto__ \"(Si vos es non certus), alia options (si opus fuerit), reprehendo\" __mode_hacking__ \"and click\" __search__ \".
+\u00095 Postquam complevit investigatione, quaero praecessi ero propono in album.
+\u00096 vade ad ludum. Mutata post pretii: __app_name__ vertas, iterum.
+\u00097. Search se vertit ad valorem. Reprehendo \"__mode_hacking__\" reprimendus.
+\u00098. If there are too many results, continue to step 6.
+\u00099. Quod si pauci sunt derelicti eventus, te potest experiri ad mutari, aut frigore copia valorem.
+"</string>
+    <string name="help_faq_title">Frequenter interrogavit quaestiones</string>
+    <string name="help_faq_1_q">Why can not I enter a value greater than 99 or 60,000?</string>
+    <string name="help_faq_1_a">Et inventus est in valore vel __type_word__. __type_byte__ __type_dword__ Quaerite intrare maior values.</string>
+    <string name="help_faq_2_q">Quam ut quaeram magis quam fractorum (__type_float__) values ​​sine partibus, in pretii?</string>
+    <string name="help_faq_2_a">"Utere '__type_auto__' notitia vel genus investigatio scriptulos. Enim, te potest quaerere ad 11,345 '10__tilde__12 \"."</string>
+    <string name="help_faq_3_q">"Mutata in valore et inveni eam: sed in ludo mutatio haec non est aliquid. Im 'iustus trying ut ea autem quae retro est. Quid facio iniuriam?"</string>
+    <string name="help_faq_3_a">"Et alii ludos, bona defendantur vel encrypted. Ante ostentans: se pretii et alia variabilis in valore est decrypted. Mutata tibi est.
+Quae cum tantum ad ostentationem valore est, non afficit ludo Mechanica. Ad invenire realis valore, quam ostendi valorem magis utere propter encrypted investigationis valorem, vel Visne ullas peritias quaero.
+Interdum enim pretii est repono sulum vicis synchronized et concedebatur in calculonis servi. Hic est, non detruncati. Si Internet ludum NIHIL AGIT SINE LAGUNCULAE et priorem via non auxilium - maxime est verisimile ad causam."</string>
+    <string name="help_faq_4_q">"Non est in ludo invenire valorem X aut non invenit, nisi cum fit nihil mutatum. Aut non invenit eam, sed post ludum mutata suus 'fragosus. Quomodo scio quid sit quaestio est quod ludo in tutela aut cum __app_name__?"</string>
+    <string name="help_faq_4_a">"You must take a simplex progressio, certo habere praesidium et non experiri. Malo non utor 'Hill Climb Racing \". De ludo est simplex, simplex, et non habet aliquam defensiones. Vos can reprehendo ad caesim pecuniam pro numero recta Quaere, et Si uteris huic mutationi quaerere.
+Si habitant in hoc ludo simplex operatur, tum illud in eo quod conatus X ludum ut caballus. Si non, tunc quaestio est __app_name__.
+Est etiam facilius quod optio: \"Video ICTUS\". Quod install. Curre. Try ad tapes resiliunt in pluribus ostendi in screen. Facillimum foret. Si non, tunc est quaestio __app_name__ eius et occasus.
+Inspice investigationem aliam versionem __app_name__, conare ut quaeram magis quam accepit a description de errore in foro aut in topic pertinet ad Internet. Maxime quidem circum in foro petere potes."</string>
+    <string name="help_faq_5_q">Quam ut quaeram magis quam tempus?</string>
+    <string name="help_faq_5_a">"\u0009- Conare quaerere numerus dierum, horarum, mutorum, vel seconds. Quod notitia potest esse genus vel __type_byte__, __type_word__, __type_dword__ __type_auto__ generis vel __type_qword__. etiam uti potes.
+\u0009- Conare quaerere aut pro multis milli- nanoseconds. Et data est genus vel __type_dword__ __type_qword__.
+\u0009- Conare quaerere date quod unix timestamp in finem. Type - __type_dword__. considerandum est quod hec est differentia inter current unix timestamp et salvus unum. Per quaerere investigatio scriptulos.
+For example, if 30 days are written, then you are looking for 30 +/- 1 day from the current unix timestamp. The current unix timestamp can be easily viewed on the Internet."</string>
+    <string name="help_faq_6_q">Numquid non potest trucidabunt online ludos?</string>
+    <string name="help_faq_6_a">Est potest trucidabunt in notitia, quae est repono in client. Quidquid amputabuntur non concedebatur in calculonis servi. Ludos potest esse in diversis diversimode attribuatur. Unius ludio ludius in ludum et etiam aliqui ex data sit concedebatur in calculonis servi et quidam non.</string>
+    <string name="help_faq_7_q">Ubi speedhack opus?</string>
+    <string name="help_faq_7_a">"Speedhack opus non est inventa X86 / X86 libraries aemulatores ad ludos non habent esse.
+Also for an ART environment, speedhack does not work with Java timers. If the game uses them and you have an ART environment (usually Android 5 and above), then speedhack will not work."</string>
+    <string name="help_faq_8_q">"__app_name__ quam operatur in me in toto, sed de aliqua ludos Im 'questus PTRACE_ATTACH errore. Quare et de ea quid facies?"</string>
+    <string name="help_faq_8_a">Hoc ludo indutus sit tutela contra rationem SecNeo debugging ad praesidium. __app_name__ hoc praesidium non praetermittant. Per eam: et hoc non potest trucidabunt ludum.</string>
+    <string name="help_faq_9_q">Cur autem per applicationem sarcina tam mirabilem vocaris? Cur non updated per applicationem; sed omni tempore install seorsum? Cur utroque Scripto alia sarcina non vocaris?</string>
+    <string name="help_faq_9_a">Ne ut deprehensio a sarcina per anti-defraudat nomine.</string>
+    <string name="help_faq_10_q">Et quidam ludos cum velocitate mutantur (speedhack) Respondens autem nolite clicks. Ludum vel progressio quod praesidio est error?</string>
+    <string name="help_faq_10_a">Hæc est enim vestra speedhacking laudem intercipit queue timers initus et moritur. Necesse est eligere viridi checkmarks timers ad a album (in a occasus __app_name__) et hoc non factum.</string>
+    <string name="help_faq_11_q">Quid enim sicut Comma Diatonicum normam separata album, et risu digna?</string>
+    <string name="help_faq_11_a">Quia delimiter semicolon est ex numeris ( \"__semicolon__\").</string>
+    <string name="help_faq_12_q">Quam multa possum praestare searches simul?</string>
+    <string name="help_faq_12_a">Nunc applicatio non patitur, potes institutionem usus exempla aliquot simul currunt memoria si suffecerit orbis tractus.</string>
+    <string name="help_faq_13_q">Non opus ad update ad applicationem si quae nihil significant, in easdem?</string>
+    <string name="help_faq_13_a">Suggesserant est. Firmamentum est tantum ad tardus poema.</string>
+    <string name="help_faq_14_q">"Quae sunt symbola \"\" et \"# ', antequam processus vocaris?"</string>
+    <string name="help_faq_14_a">"Hoc signat quod genus continet quaestionem.
+\u0009\"#\" - quod est super lineam rectum in conspectu processus processus ab alia.
+\u0009\"\" - ante processus, processus est secundum carnem aliquis processus.
+Tracing est typical quoniam debugging, sive caesim. Aliqui etiam id in custodiis. De more sit processum cum \"#\" signum processus est a conservanda."</string>
+    <string name="help_faq_15_q">Cur post applicationem ad institutionem vexillum suum et praestare institutionem, fiebant petitiones enim radix ius?</string>
+    <string name="help_faq_15_a">__app_name__ reinstalls temere data est ipsum ne et deprehendatur ab anti-defraudat. Radix enim iura necesse sunt, \"tacere\" quod uninstallation installation. Non licet de eis. In hoc casu, vos mos have ut manually Respondeo dicendum quod in omnibus petitiones ratio est installing applications.</string>
+    <string name="help_faq_16_q">Quod __pkg__? An hoc vel virus Troianorum? Et applicationem huius radix accessum ad tutum est?</string>
+    <string name="help_faq_16_a">Hoc est nomen basi __app_name__ sarcina. Fiebant aditus est tutum si radix est: __app_name__ downloaded from fontes confidebat.</string>
+    <string name="help_faq_17_q">Quid est album of installed __app_name__ in nomine applications quasi temere characterum seriei? Cur hanc petitionem ingenii profectus obvius radix? Quare, cum scribit quod radix non provisum est a launching __app_name__ __app_name__, sed quaedam abracadabra?</string>
+    <string name="help_faq_17_a">Quia __app_name__ utitur ad abscondere se a deprehendatur ab anti-defraudat.</string>
+    <string name="help_faq_18_q">Cur nunc nequiquam detecta fraude in latest versions de __app_name__ anticheats et interdum non?</string>
+    <string name="help_faq_18_a">Quia __app_name__ utitur diversis ex rebus deprehendatur per se celare anti-defraudat. Hoc includit temere a sarcina nomen et application. Installation invicem differunt. Try reinstalling __app_name__ Se regenerare possunt. Post haec fortasse anti-seductorem ad __app_name__ cessabunt sive scientia destruetur.</string>
+    <string name="help_faq_19_q">Cur non ludo est per applicationem album?</string>
+    <string name="help_faq_19_a">Quia hoc est a album of applications currit et non currit tua application. Curre, et tunc __app_name__ in eligere.</string>
+    <string name="help_faq_20_q">Why can Java applications not respond to speedhack on Android 5 and above?</string>
+    <string name="help_faq_20_a">Because speedhack is designed for games with native libraries. Your application is not. And since Android 5 used the environment of ART, instead of Dalvik, which makes it impossible to intercept Java timers. Do not do anything. The situation will not change in the future.</string>
+    <string name="help_faq_21_q">I used a different speedhack / hacking tool on Android 4 and everything worked. Now I put __app_name__ on Android 5 and above, but those methods do not work. Why?</string>
+    <string name="help_faq_21_a">"Quia multa utilitate mutavit tuum sicut facere illud. Non est creata __app_name__ quod falsa mali quae est utilitas Si igitur uh! Illic 'haud talis res.
+To test this, install __app_name__ on Android 4, and repeat all the same actions as in that utility. As a result, you will succeed. But this does not mean that these same methods will work on Android 5 and above.
+Et hoc est quod confirmavit ab experientia, saepe."</string>
+    <string name="help_faq_22_q">"Im 'vigilo a video sample / eenshotsscray et aliis data sunt ad memoriam author. Quare?"</string>
+    <string name="help_faq_22_a">Quia video / tortor output aliud est forma. In memoriam Editor: sequor autem menu - eligere «__value_format__\" et configurare in output quod debet.</string>
+    <string name="help_faq_23_q">Cum hoc valore gelu constringi, ut fregit ludum incipit aut TARDO. Quare?</string>
+    <string name="help_faq_23_a">"Quia habetis in ambitu in lucem optionem ad __app_name__ \"__hide_from_game__ 'enabled. Turn est."</string>
+    <string name="help_faq_24_q">Ut disable possum reprehendo pro novus versions cum application satus est?</string>
+    <string name="help_faq_24_a">Ergo nullo modo.</string>
+    <string name="help_faq_25_q">Ut ad applicationem ad tergum rewind tempus? An fieri potest ut ea non salire in tempus ante et retrorsum?</string>
+    <string name="help_faq_25_a">Ergo nullo modo. Non tibi licet. Tempus est semper can fragosus proventus aliter ludum. Autem, addita facultatem erimus in latest versions of a jump nunc negans. Suspendisse sit ex detrimento elit elit. Et monuit.</string>
+    <string name="help_faq_26_q">Et posuit illud in icon in quod prima abierunt. Quomodo possum eam?</string>
+    <string name="help_faq_26_a">Quod fit icon transparent; sed tamen vos can click in ea. Click ubi est ergo via ad mutare suadentque cadentia interface.</string>
+    <string name="help_faq_27_q">Quomodo si quaerere ad valorem ludo est in flectendis promunturiis ostendi? Eg 1.85M.</string>
+    <string name="help_faq_27_a">Nam quaero quaerere range. Veram pendeat extrema iuga regulas. Eg \"1845000__tilde__1854999\" vexillum in Veram ea.</string>
+    <string name="help_faq_28_q">Quomodo quaerere recipis valorem? Eg 123__percent__.</string>
+    <string name="help_faq_28_a">It is depends on the implementation. For each game it can all be different. For example 123__percent__. It can be __type_float__ or __type_double__ with any value. Like 1.23 or 123.0. Or it can be integer types: __type_byte__, __type_word__, __type_dword__. For example 123 or 12300. On output it can be divided on some number. 100 or 345 or anything else. For each game it can be different. You can try the most obvious cases. For 123__percent__ it can be 1.23 or 123. Type - __type_auto__. If you are lucky it can be what you need.</string>
+    <string name="help_faq_29_q">Quod si deprehenderit __app_name__ ludum?</string>
+    <string name="help_faq_29_a">"Conare sequenti options (dispersi aut nec, orci)
+\u0009- Enable the \"__hide_from_game__\" options. Usually enough 2, 3 and 4 options.
+\u0009- non auferunt réinstallation __app_name__ cum temere nomine. Fit primum __app_name__ curritur spatium extra rectum.
+\u0009- aut usus XPrivacy similis utilitates. Respice ad in Internet quam ut hoc facere.
+\u0009- Si radix ius ab usu radix in virtualis spatium est occultatum installation of applications. Amplius Read in context auxilium ad '__vspace_root__ \"occasum."</string>
+    <string name="work_without_selinux">Ut switch non operatur ad sileo et app __selinux__</string>
+    <string name="work_with_selinux">Switch ad opus ad sileo et app __selinux__</string>
+    <string name="file">file:</string>
+    <string name="file_not_found">Non reperit File:</string>
+    <string name="export_selected">export electus</string>
+    <string name="failed_list_dir">Deficio ad album lego lima.</string>
+    <string name="change_float_type">Ad eligere natantes genus fenestras</string>
+    <string name="reset_float_type">Reset genus natantum in fenestras</string>
+    <string name="mask">persona;</string>
+    <string name="mask_request">Intra talis oratio in quaerere</string>
+    <string name="help_mask_search_title">Oratio (persona) quaerere</string>
+    <string name="help_mask_search">"* Oratio (persona) search:
+\u0009Potes vel ab filter in persona oratio.
+
+\u0009A typicam exemplum est terminus illius investigatione oratio cum nota valorem. Eg on \"12E\".
+
+\u0009Et quaero parameters sunt et persona oratio.
+\u0009In oratio potest esse wildcards ( \"__question__\"). Et hoc signum est ingenii, qui non potest esse a \"0\" et \"F\".
+\u0009An additional mask is formed from the address, so the leading zeros are important. Thus, the search for \"0120\" and the search for \"120\" is not the same thing.
+\u0009In the first case will be found: \"00010120\", \"00020120\", \"00030120\" and so on. While in the second: \"00001120\", \"00002120\", \"00003120\" and so on.
+
+\u0009Potes et, quia omnes pares sumus propter aequalitatem et indicavit a persona. Secundum optio potest esse utile ad eliminare necesse values.
+
+Et ingressi sunt in persona inscriptio et ratio et veste hexadecimali ostendentur sine litteris '__hex__ «in finem.
+\u0009Quod adeptus persona a persona oratio concurrat cum esset ingressus est a vobis. Hoc est compositus ex persona quaerere.
+
+\u0009Hoc est equivalent exempla sunt, quod fit larva habeat same - \"FF0\"
+__mask_example__
+"</string>
+    <string name="use_sound_effects">Uti sonus effectus,</string>
+    <string name="from_range">from:</string>
+    <string name="to_range">Ad:</string>
+    <string name="resultant_mask">Inde persona,</string>
+    <string name="show_time_jump_panel">Ostende tempore, jump panel:</string>
+    <string name="use_notification">Uti notitia;</string>
+    <string name="show_gg">Ostende __app_name__</string>
+    <string name="hide_gg">celare __app_name__</string>
+    <string name="time_remaining">Temporis;</string>
+    <string name="help_fill_title">Imple (incrementum) values</string>
+    <string name="help_fill">"* Reple (incrementum) values:
+\u0009Saepe etiam multi alii atque alii valores inventi sunt, sed non mutata sit, ex ludo.
+\u0009Hic est, ad liberandum satiata est.
+
+\u0009A typicam exemplum est de usu quaerere quia pretium est item, cum subsequent suffectus sit negativa.
+
+\u00091. Select a desideravit items.
+\u00092. Select \"__edit_selected__\".
+\u00093. premere puga pyga '__more__ \"ut propono\" __increments__ \"ager, agri, si hoc non est praesens.
+\u00094. In \"__increments__\" agris intra celeritatis incrementum pretii. 1. dixitque Usually est click \"__yes__\".
+\u0009Electus meus items 5. accipere novum animationem.
+\u00096. Ad ludum quod vides quomodo desideravit valorem mutata, movere per ludum screens.
+\u00097. Quod si mutavit valorem non, tunc inter desideravit non elementum lectus. Ad __app_name__, et quod per \"__delete_selected__\" -> '__revert_and_remove__ \"removere delectae items, prior illis reversus valorem. Iam a principio cum aliis conemur, si adsint.
+\u00098. Si mutavit valorem habet, tunc desideravit lectus elementum est ex elementis. Memento quod ad valorem __app_name__ novi.
+\u00099. In lectus album de items, est investigare desideravit valorem. Unselect est. Delere omnia alia bona complectitur: per \"__delete_selected__\" -> '__revert_and_remove__ \", reversus est ad eos prior valorem.
+\u000910. Temperare sicut desideravit elementum valorem postulo vos.
+
+\u0009Typical vitia sine remotionem reverti. Post hoc ludus can fragosus.
+
+\u0009Si vos reperio multus of uber est non experiri ad vitare tempora discussit claro replete in parvis portionibus.
+"</string>
+    <string name="help_hint_1">* Si tu semper invenire in eadem regione desideravit values ​​(literis ad items in finem eventus electronicarum), vos potest tantum eligere in regiones has citius quaerere.</string>
+    <string name="help_faq_30_q">And values ​​tardius ad searches __app_name__ admodum diu apud aemulatorem Android in PC.</string>
+    <string name="help_faq_30_a">"Plurimus amo vos have virtualization erret in Bios PC. Vertere.
+__app_name__ fugit intra aemulatorem, ita celeritas in celeritatem aemula eius operis pendeat.
+Si possit virtualisatio sed etiam celeritate humilitas reprehendo vestri occasus aemulus aemulator aut alterius.
+Vos can quoque utor aliud instrumentum - PC CheatEngine enim - quod plures features quae erit quaerere citius et vos mos non __app_name__ in."</string>
+    <string name="help_speed_up_title">Ut acceleraretur quaerere</string>
+    <string name="help_speed_up">"* Ut accelerare search:
+\u00090, quae si in te aemulatorem Android an uti PC (BlueStacks, Droid4X, Andy, NOX, Memu, AMIDuOS, Windroy, avd, Genymotion, Koplayer, Leapdroid etc.), non reprehendo virtualization (VT Technology, Vanderpool Technology, Virtualfocus | , vTX, CA, d, VMX, Virtual Technology, MN, Intel, Pentium II, V, priez, IOMMU) ad PC Bios est enabled.
+\u00091. Si vos have multus of RAM, tunc vos can reponunt data est. Hoc est quaerere valde velociter. Occasum profectus \"__data_in_ram__\" ad \"__yes__\". In Android aemulatorem in PC, hoc est quaerere possumus morabor.
+\u0009Ram 2. Si parum est, et notitia repono in memoria card. Uti memoria card in vir summus celeritate scribere et legere.
+\u00093. repono de notitia vos potest etiam specificare per internum in memoriam in fabrica, si citius quam memoria card. Constitue suadentque cadentia \"__set_path__\" desideravit est ad iter.
+\u00094. De quaerere, eligere solum desideravit regionum. Ne pigri ( \"__slow__ ') et periculo (\" __dangerous__ \") pervenerat.
+\u00095. et specificare potest in range fines et memoria; nam quaerere, si nescis illos. Click a button '__more__ \"in quaero alternis sermonibus et fines intrare.
+\u0009Search for 6 tantum desideravit genera data. Quod genus notitia '__type_auto__ «lentum est.
+\u00097. Disable omnia possibilia sunt \"__hide_from_game__\" optiones.
+\u00098. Utere \"__experimental__\" vel \"__extended__\" in \"__memory_access__\". Opus instabile hiis potest ducere.
+"</string>
+    <string name="help_faq_31_q">Post a dum, __app_name__ icon eius.</string>
+    <string name="help_faq_31_a">"Try clicking in eum locum ubi erat icon est. Si apertum __app_name__ interface, tunc icon, trahere in prodigium vestrum firmware vel occasus est icon bugs cum ad ostentationem.
+Si non aperta interface: __app_name__, ut dictum est enim memoria portubus vendicioni exposuerunt.
+De causis fieri potest;
+
+\u00091. Est non satis ram ex fabrica - __app_name__ occisus est ratio. Try minus utor RAM. In __app_name__ occasus, non dat speciem in repono de notitia in RAM, ut non numerus ostendi eventus, indiviso transferuntur \"extra\" applications de RAM, uti «lux pondus« analoga sunt de applications, quod non exonerandam curaturum (exempli gratia, Launcher ). In maxime casibus malum: __app_name__ reboot machinam currere per ludum ante. Fere semper habet rimis fatiscere omnia firmware Ram. Post reboot plures vicis - minus praesto Ram.
+
+\u00092. Et processum habere interfectores __app_name__ mortificans.
+
+__app_name__ addere vel disable interfectores eius in paucioribus.
+Interfectores et omnium copia rerum est \"optimizers\" et \"improvers 'de RAM.
+Fere videatur descriptio per software, si nescis, aut non est interfectorem.
+
+Nam FlyMe: __app_name__ propter aliquam causam operis expositae de nauibus post paucos minutes - vos postulo pro background in patitur operis vestri et radix amet __app_name__ (plerumque SuperSu).
+
+Vos can quoque tendo ut enable '__use_notification__' __app_name__ in occasus. Interdum haec prohibet __app_name__ occidere."</string>
+    <string name="quick_start_title">Curabitur Nulla consequat tincidunt</string>
+    <string name="prevent_unload">Ne unload:</string>
+    <string name="hot_key">Calidum key:</string>
+    <string name="hide">celare</string>
+    <string name="execute_script">Judicium scriptor</string>
+    <string name="execute">Judicium</string>
+    <string name="another_script">Alius est scriptor currit. Non adiicias loqui?</string>
+    <string name="interrupt">PRAECIDO</string>
+    <string name="script">Scriptor:</string>
+    <string name="script_ended">Scriptor finita:</string>
+    <string name="paused">In ludo est: curato</string>
+    <string name="by_pause_button">button per temporis spatium interpositum</string>
+    <string name="by_option">per optionem, __s__,</string>
+    <string name="new_search_short">novus</string>
+    <string name="speedhack_loading">Speedhack Loading ...</string>
+    <string name="speedhack_loaded">Speedhack sit onusta.</string>
+    <string name="busy_dialog_fail">A alternis sermonibus profectum non esse proponendum.</string>
+    <string name="site">Site</string>
+    <string name="help_xor_search_title">XOR quaerere</string>
+    <string name="help_xor_search">"* XOR search:
+\u0009\u0009Si vos postulo scio valorem quod est encrypted quod semper cum XOR clavis ad idem spatium de valorem, vos can uti hoc modus et quaerere decrypted ad valorem.
+\u00091. ex __app_name__ Transibit ad ludum.
+\u00092. ICTUS in \"__search_known_value__\" puga pyga in \"__search__\" tab.
+\u00093. Enter a search number and XOR key distance, separated by \"__mode_xor__\". For example, to search for value 100 with a key on distance 8, enter:
+\u0009\u0009\u0009100__mode_xor__8
+\u0009\u0009Ad initus additional characteres, uti «__btn_hex__\" tange bullam RURSUM internum eorum magister loquitur.
+\u00094. Select idoneam ad genus notitia, vel eligere '__type_auto__ \"(Si vos es non certus), et alia (si opus fuerit) and click\" __search__ \".
+\u00095 Postquam complevit investigatione, quaero praecessi ero propono in album.
+\u00096. Ad ludum. Mutata post pretii: __app_name__ vertas, iterum.
+\u00097. Repeat XOR investigationem oportet mutationes.
+\u00098. If there are too many results, repeat steps 6 and 7.
+\u00099. Quod si pauci sunt derelicti eventus, te potest experiri ad mutari, aut frigore copia valorem.
+
+\u0009Vos can utor XOR investigationem investigatio scriptulos. Eg \"100__tilde__150__mode_xor__8\".
+\u0009De pluribus fit tardior XOR quaerere solet quaerere.
+\u0009Hoc modus non valet ad coetus vel in encrypted quaero quaero.
+\u0009Distance must be from 1 to 4096 inclusive.
+\u0009Vos can initus procul in hexagone habeat formam et figuram __hex__ in fine: \"100__tilde__150__mode_xor__10h\".
+\u0009Distance must respect values align. For example, dword must be aligned to 4-bytes boundary. This mean search \"40__mode_xor__7\" is useless for dword because 7 can not divide to 4.
+\u0009Alio modo potest simul cum malis firmware problems. Vel si hoc modo XOR frequentate quaerere post conflator in Suspendisse vel reboot potest tuom. Si autem non quaero primo huius ero.
+\u0009A Visne ullas peritias quaerere hoc modus est non praesto est. Visne ullas peritias vos can certamen esse, sed opere solito nec respexissem XOR clavem ad spatium.
+\u0009Sign in values ​​reputavit homines. Id est valor aequalis Potes maior minorem in.
+\u0009In hoc quaero, omnes valores signatum considerentur.
+"</string>
+    <string name="help_faq_32_q">Quid est differentia HW / Magis Eurus quam Aquilo versions? Et quo quis debet uti?</string>
+    <string name="try_latest">Experiri legere ad hoc forsitan his opus ad tardus version de update __app_name__. ad tardus poema.</string>
+    <string name="help_string_search_title">Text (filum, Rex, Quaesito AOB) quaerere</string>
+    <string name="download_scripts">download scriptor</string>
+    <string name="hide_icons">Iconibus celare Launcher</string>
+    <string name="select_mode">Lego modus</string>
+    <string name="mode_string">text</string>
+    <string name="mode_mixed">mixta</string>
+    <string name="string_search_prompt">Ut quaeram magis quam intrare in illud, est in longitudinem usque ad __d__ bytes. eg</string>
+    <string name="string_empty">Vos intrabit in illud.</string>
+    <string name="string_not_found">"In textu '__s__ \"non inventum est."</string>
+    <string name="string_found">"Matches Found __d__ ad textum '__s__ \"."</string>
+    <string name="string_replace">Vis pro eis</string>
+    <string name="string_replace_prompt">"Intrabit in illud reponere '__s__ \". Longitudo plus __d__ bytes."</string>
+    <string name="string_replaced">"Pro '__s__' est '__s__' __d__ in locis."</string>
+    <string name="need_allow_background">Firmware hoc facere background __app_name__ patitur operatur in ratio occasus.</string>
+    <string name="calculate_offset_xor">Adice offset: XOR</string>
+    <string name="select_copy_item">Eligere item est ad effingo:</string>
+    <string name="landscape">Orbis Terrarum</string>
+    <string name="portrait">effigies</string>
+    <string name="toolbar_buttons">bullarum Toolbar</string>
+    <string name="need_update_to">Vos postulo ut navigatro recentiore versionem __app_name__ currere hic scriptor. At certe tibi poema poema __s__ __s__..</string>
+    <string name="default_mark">default</string>
+    <string name="default_">default:</string>
+    <string name="reset_button">Reset</string>
+    <string name="help_hex_colors_title">Editor memoria colorum</string>
+    <string name="help_hex_colors">"* __help_hex_colors_title__:
+Si hexagonem ostensa sunt, non alba, sed color, tum in hoc maxime verisimile est, valorem indicatorum. Quod color indicat quam genus memoriae isve index refers to.
+Haec possunt esse memoriae __executable__, __writable__ vel __read_only__. In rara casibus non potest esse __writable_and_executable__ memoria."</string>
+    <string name="executable">exsecutabile</string>
+    <string name="writable">writable</string>
+    <string name="read_only">tantum legere</string>
+    <string name="writable_and_executable">et writable exsecutabile</string>
+    <string name="help_extract">Eliciunt auxilium</string>
+    <string name="help_extract_done">Auxilium telum extrahendum ad __s__</string>
+    <string name="help_extract_fail">Error occurrit extractionem auxilium,</string>
+    <string name="try_arm_version">Conare verbis per versionem ad subsidium __app_name__ senior BELLUM PARO processors,</string>
+    <string name="back">Back</string>
+    <string name="forward">ante</string>
+    <string name="no_previous">Nulla prior entries</string>
+    <string name="no_next">Nulla deinde entries</string>
+    <string name="from_item">Ex Item:</string>
+    <string name="from_context">Ex contineo contigi menu,</string>
+    <string name="from_boundary">Ex terminus</string>
+    <string name="from_goto">vocationem gata</string>
+    <string name="from_calc">Ex calculator offset:</string>
+    <string name="help_add_to_value_title">Optio \"__add_not_replace__\"</string>
+    <string name="help_add_to_value">"* __help_add_to_value_title__:
+If this option is checked, the entered value will be added to the existing value, and not replace it. For example, the element has a value of 5, and you entered 7, in the value field. If this option is checked, the element will get a new value of 5 + 7, equal to 12. If not checked, then 7.
+Vos potestis intrare et bona ac non bona.
+Hanc optionem non patitur congelatio est ad valorem."</string>
+    <string name="check_libs">Reprehendo ex architecture of ludo libraries:</string>
+    <string name="arm_libs">"In ludo est installed in brachio libraries, quamquam sunt apud rar x86 libraries.
+Connexa omnia speedhack non operari.
+\"__skip__\" priuat haec compescit. Vos potest convertam super eam in occasus."</string>
+    <string name="manual_install">.Apk ad install lima manually vos can. Eam sita est ad viam quae sequuntur:</string>
+    <string name="as_text">Sicut illud (saeuitiam non mors noxiorum, non potest)</string>
+    <string name="as_text_help">Album enim salvet illud in forma, pro hominibus convenient legere. Hoc est loading forma non valet.</string>
+    <string name="help_pointer_search_title">Indicium quaerere</string>
+    <string name="help_pointer_search">Values ​​exquirit, quae potest esse desideravit indicium electronica est. Si vis fieri a maximum terminum in offset.</string>
+    <string name="all_memory">In omnibus memoria</string>
+    <string name="offset_help">Quod maximum terminum in offset potest.</string>
+    <string name="typical_values">typical values</string>
+    <string name="su_command">superuser imperium</string>
+    <string name="starts">cum animi</string>
+    <string name="ends">ad finem</string>
+    <string name="no_filter">Non filter.</string>
+    <string name="help_memory_filter_title">Editor percolando memoriae</string>
+    <string name="help_memory_filter">"* __help_memory_filter_title__:
+Si vis filtrum in memoria author. Solum eventus illi par esse proponendum et filter.
+Et filter wildcards sustinet:
+\u0009__caret__ - initium notitia,
+\u0009__dollar__ - notitia in fine,
+\u0009__asterisk__ - nec ullus numerus characteres,
+\u0009__question__ - any unus character.
+For example, to find the number 42, you need to enter __caret__42__dollar__."</string>
+    <string name="use_sh">Utere imperio testa</string>
+    <string name="backgrounds">nigra background</string>
+    <string name="actions">actus:</string>
+    <string name="game_settings">Optiones ad ludum;</string>
+    <string name="global_settings">Global occasus;</string>
+    <string name="ui_settings">III occasus;</string>
+    <string name="others">alii;</string>
+    <string name="skip_memory">Skip memoria locis:</string>
+    <string name="empty_memory">inanis</string>
+    <string name="without_protection">sine praesidio</string>
+    <string name="help_games_protection_title">Quam impetro in praesidio circa ludos</string>
+    <string name="help_games_protection">"\u0009Ludis instructi scientia editoribus contra. Te potest experiri sequenti:
+\u00091. \"__kill_game__ ', et' __restart_game_without_protection__\".
+\u00092. \"__disable_protection__\", et currere (non sileo) ludum.
+\u0009Seu omne usus items 3. pars in \"__hide_from_game__\". Tardus quaero omnia.
+\u00094. Quaerere cum ludum est minimized.
+\u00095. Search ludum est cum paulum reticuisset.
+\u00096 Ne interficias seu moram aliquam tutela processus in ludum, ludum habet, si complures actiones.
+\u00097. XPrivacy Use tools, aut similes fiunt in praesidio.
+\u00098. uti modificatione ludo sine tutela.
+"</string>
+    <string name="disable_protection">Disable tutela pro omnibus applications (usque ad reboot)</string>
+    <string name="must_restart_if">Si vis currere ludum inactivare in conspectu praesidii, oportet vos sileo eam.</string>
+    <string name="patch_loading">Lacus Loading ...</string>
+    <string name="patch_loaded">Lacus est, vehicula onusta.</string>
+    <string name="patch_failed">Lacus est non oneratus.</string>
+    <string name="history_limit">Finis ad historia,</string>
+    <string name="copy_as_search">Ut effingo coetus quaerere</string>
+    <string name="add_types">addere types</string>
+    <string name="add_size">Addere coetus magnitudine</string>
+    <string name="copy_rhex_value">Effingo unitas eat valorem e converso;</string>
+    <string name="mips_arch">MIPS architectura hanc applicationem non sustinent.</string>
+    <string name="unrandomizer">Unrandomizer</string>
+    <string name="functions">munera</string>
+    <string name="help_unrandomizer">"
+Quod est a pluma unrandomizer disposito reponere munera aliqua communiter in ludos producendum temere ad animationem. Simplex et plana ad exemplum, sit amet pretium ludio utentis Randomizer determinet actum. Tum ex causa, ut enabling unrandomizer __app_name__ temptare valorem cum muliere hac pro fenore temere mutare effectus certa valorem ut (exempli gratia ad praemium quadam).
+
+Et non operatur in omnibus casibus unrandomizer. Hoc modo tractamus munera, ut sciat de ea. Ut in pluribus, et plus users, hoc est non usum, quod suus 'magis of an provectus / pluma experimentum.
+
+Quidam munera revertetur __type_qword__ aliqui - __type_double__ (raro usus est).
+
+__type_double__ values ​​est in range a 0 usque ad 1. Sed si te potest specificare valores est, quia omnia falsa __app_name__ corrigere non statim alte cadere.
+
+You can also specify an increment step. In this case, each subsequent result will increase by this value. For example, for increment 1 and the initial value 0, instead of a random value, 0, 1, 2, 3, ... will be returned.
+Haec optio potest esse utile quaerere in cunctis completum temere eventus potest.
+
+Si vis mutare ad quod gerentem ut __app_name__ occasus.
+"</string>
+    <string name="count_replace">Prius quam plures eventus, ad reponere?</string>
+    <string name="unrandomizer_loading">Unrandomizer Loading ...</string>
+    <string name="unrandomizer_loaded">Unrandomizer sit onusta.</string>
+    <string name="warn_restart_off_prot">"Haec optio probabile sileo ludum sine tutela.
+Autem, plures fabrica quod firmware continet bugs quod potest facere ut reboot.
+Si hoc ipsum mauris non experiri iterum iterumque consilium hoc sileo.
+Iustus run __app_name__ - purgare sic erit malus occasus.
+Etiam ratio potest experiri reboot iusto modo haereret hoc problema.
+
+Si reboot inciderunt - munus quod non uti, non operari in vestri firmware."</string>
+    <string name="warn_patch_off_prot">"Haec optio ut repeciare systema conabitur (tempus) ut run applications omnibus sine tutela.
+Quod mutationes erit novum applicare nisi ad animi applications. Unde in scopum applicationem post lacus felix indiget ad hoc quod restarted.
+Ut remittant eis praestitum lacus, iustus sileo a fabrica.
+Erit fortasse in variis bugs ratio post id lacus.
+
+Commissura si placet, hac etiam non commendata currerent ante rebooting cogitatus.
+
+Si vos have problems, ne hoc munus."</string>
+    <string name="clear_history">Historia patet initus</string>
+    <string name="clear_history_warn">Omnes entries, inter ferrum emineret, ut delevit.</string>
+    <string name="click_edit">Click hic recensore eget</string>
+    <string name="ignore_unknown_chars">Ignore ignotis characteres:</string>
+    <string name="need_root_mode">Hoc pluma radix aditum postulat. Currently __app_name__ est modus currit in a rectum environment sine radix accessum.</string>
+    <string name="work_without_root_title">Sine radix Opus</string>
+    <string name="work_without_root">"__app_name__ possunt operari sine radix, in a rectum environment. Eg per __vspace_list__ multi alii.
+__app_name__ debet installed in a rectum environment. In ludo est quoque installed est.
+Non omnibus features of progressio sustinere et munera maxima opus sit.
+
+Et non possit resiliunt ludos, qui non sunt installed in a rectum environment.
+
+Primum Lorem __app_name__ est qui faciat réinstallation cum temere sarcina nomen tuum, non debet fieri per manus a rectum environment.
+Tunc vos can adde __app_name__ est virtualis elit et usus."</string>
+    <string name="help_game_not_listed_title">Quid mihi est in processus album ludum?</string>
+    <string name="fractional_hint">"In partibus, verum numeri 'x', qui numerus est pars integra est ultra modum.
+Nam multis partibus eius inde conjunctus est ei quæ post adventum radix numeri punctum.
+
+For example:"</string>
+    <string name="pointer">Indicium:</string>
+    <string name="help_search_filter_title">Filtra sunt in quaerere</string>
+    <string name="help_search_filter">"Filter a te non sint.
+Si vis:
+\u0009- oratio autem ad fines,
+\u0009- ad terminum ad valorem,
+\u0009- requiritur notitia typus,
+\u0009- ex partibus, numerus desideravit,
+\u0009- monstratorem type est desideravit.
+Vos can coniungere cum invicem quis Filtra.
+Vos can quoque disable aliquis vel aliqua ex quando Filtra.
+
+Sed si inventum est: magna moles notitia, eventus per Filtra non morabor.
+
+Filtrum in pluribus partibus aut aequalitatem vel inaequalitatem esse.
+Nam Integer types, ex partibus nulla sit. Si tibi non opus est integrum rationibus excludere illa usus genus filter.
+
+Filter a monstratorem typus concedit ut relinquam nisi ea bona, quae in output potest esse desideravit monstratorem genus memoriae.
+Genera colorum respondere possint memoriae memoriae eget
+Haec possunt esse memoriae __executable__, __writable__ vel __read_only__. In rara casibus non potest esse __writable_and_executable__ memoria.
+
+Quod genus falsi nominis 'non monstratorem' correspondeat omni typus of notitia quia non potest esse indicium atque ipsarum quoque illis ut argumentis quae ad memoriam unallocated."</string>
+    <string name="unmount_kill">"In memoria card et equites uirique obtinentes: __app_name__ dum tempus files condideris in ea. Hinc tributa daemon claudetur.
+
+Id ne fieri, alia specificare viam ad tempus files. Ut memoriae internae.
+Non sufficit liberum sit spatium."</string>
+    <string name="calls">Ratio vocat modus:</string>
+    <string name="alternative">Alternative</string>
+    <string name="help_calls">"De quaedam firmware, exempli gratia Lenovo, alterum citius modus potest operari.
+
+Northmanni, hanc optionem non opus est mutare."</string>
+    <string name="help_context_title">contextual auxilium</string>
+    <string name="help_context">"In interface, quibusdam elementis peculiari icon notata sunt, at summo iure: __i__ sub siglis in circulo.
+Instaret instaret, aut tempore, hoc est elementum, quod elementum in auxilium ostendit."</string>
+    <string name="waitpid_mode">__waitpid__ modus:</string>
+    <string name="help_waitpid">"De quaedam firmware, in vocationem __waitpid__ ratio non operatur, sicut expectata. Hoc plerumque debitum ad falsa SeLinux occasus.
+Hic quaeri __app_name__ ad infinitum.
+Vos can tendo per an alternative modus. Maybe hoc opus."</string>
+    <string name="microseconds_short">μs</string>
+    <string name="small_is_bad">Values ​​potes facere processus in angustus est summus onus, et defecerit in ludo.</string>
+    <string name="freeze_interval_help">Quo spatio venatus __app_name__ overwrites bonorum memoria.</string>
+    <string name="saved_list_update_interval_help">Intersectio, quae per valores __app_name__ updates in album salvus erit.</string>
+    <string name="icons_size_help">"__app_name__ magnitudinem imaginum, in interface.
+Sed hoc non est ad truncum arboris fluitantem icon."</string>
+    <string name="ignore_unknown_chars_help">Solve problems potest auxilium cum de numero librorum diversis locis, nisi per specialem ingenia sunt, copied cum numeris.</string>
+    <string name="use_notification_help">"Uti ex notificationes ratio in Notification area of ​​Android.
+De quaedam firmware, is augetur per applicationem ad prius et posterius, et impedit quominus hae claudunt.
+Vos can etiam utor notitia strepitando in ludum ire __app_name__, aut illud.
+Hoc potest esse utilis si vos potest click in icon tristique."</string>
+    <string name="use_sound_effects_help">"Ratio sonat, ubi tu premere puga pyga items.
+De quaedam firmware, __app_name__ in altum faciam ut fragosus."</string>
+    <string name="keyboard_help">Tincidunt suscipit magis interna memoria numerorum summas velocius et ingressus dolor.</string>
+    <string name="allow_suggestions_help">"Innuit exterioris tincidunt.
+De quaedam firmware, __app_name__ indiciaque actorum causa est ut fragosus."</string>
+    <string name="autopause_help">Ludum automatically puts in mora quo aperire __app_name__ interface.</string>
+    <string name="killed_by">"__app_name__ erat clausus fortiter per applicationem '__s__ \". Ad vitare hoc vel delete is application est ut suus non terminatur ad configurare __app_name__."</string>
+    <string name="killers_found">"Vos have installed applications potest claudere __app_name__ fortiter:
+__s__
+Ne id dui vel configurare __app_name__ de illis ne desinant.
+
+Si experitur difficultates ad inopinatum __app_name__ clauditur, tunc non opus est, et vos ignorare potest nuntio."</string>
+    <string name="record_logcat">record __logcat__</string>
+    <string name="record_logcat_info">"__app_name__ __logcat__ gestum est restarted et in tabella:
+'__s__ \".
+
+Terminus ad incisionem muniat, __app_name__ de exitus.
+Deinde, vos can lima iniuriarum ut mittat quo opus est."</string>
+    <string name="need_uninstall">You need to uninstall the installer, otherwise you will have 4 icons, not 2. Also games will detect it.</string>
+    <string name="need_random_name">"Vexillum uses the __app_name__ sarcina nomine. Ludi non est prudentia in eo.
+
+Ad hoc figere - currere extra __app_name__ in virtualis spatium quasi normalis application.
+Deinde ad institutionem efficitur, cum temere nomen suum __app_name__ addere exemplum virtutis in spatio."</string>
+    <string name="work_mode">opus modus</string>
+    <string name="root">radix</string>
+    <string name="no_root">non radix</string>
+    <string name="how_no_root">"Vos postulo ut install in virtualis spatium application. Ut: __vspace_list__.
+
+Suadetur ut install publica __app_name__ Optimised versiones est a site.
+
+Deinde oportet addere ad ludum et __app_name__ ilia virtualis spatium.
+
+__app_name__ ludum currere postea in virtualis spatium."</string>
+    <string name="eperm_error_descr_0">De causis fieri potest;</string>
+    <string name="eperm_error_descr_1">Praesidio in ludum.</string>
+    <string name="eperm_error_descr_2">Alius debugger cracker, vel pertinet ad ludum.</string>
+    <string name="eperm_error_descr_3">Satis permissions. Plerumque debitum ad configurare __selinux__ vel male set __selinux__. inactivare.</string>
+    <string name="eperm_error_descr_4">Kernel firmware vel malum. Inspice investigationem aliam firmware vel fabrica.</string>
+    <string name="eperm_error_descr_5">"In firmware, quod 'non radix' mode non operatur. Inspice investigationem aliam firmware vel radix fabrica et adepto."</string>
+    <string name="ptrace_bypass_mode">Bypass quia modus ptrace praesidium:</string>
+    <string name="mode_restore">restituere</string>
+    <string name="mode_nothing">nihil</string>
+    <string name="mode_freeze">rigescunt indutae</string>
+    <string name="ptrace_bypass_mode_help">"Indicat quid post eum inactivare tutela nexu:
+\u0009__mode_restore__ - restituere nexu
+\u0009__mode_nothing__ - nihil (plerumque in se tutelam restituit connexionem)
+\u0009__mode_freeze__ - rigescunt indutae sequela (ut in praevius versions)
+
+Restituere Si tutelae aut patitur tutela ad id ipsum, quod facere potest, ille tardus __app_name__ immensis avidos satiate valoris, quem ex nexu permanent / dehabilitationem praesidium."</string>
+    <string name="slow_emulator">"Vos es usura in \"__s__\" aemulator. Est ea errores continent trabe lentus irrumasti. Propter hoc non erit ad quaero tardissimum.
+
+Te admonemus ut alia aemulatores:"</string>
+    <string name="text">text</string>
+    <string name="show_debug_info">Show CIMICO info</string>
+    <string name="mnt_expand">"__app_name__ installed is in a memoria card usus est id quod est «Internus repono.\"
+Haec autem operatio non est secundum virtualem intermixti spatia.
+Si hoc cogitatus install __app_name__ memoriae internae.
+Vos may postulo reformat in memoria card pro \"repono Portable\"."</string>
+    <string name="help_game_not_listed_root">"Ludum currit debet illud eligere.
+
+Si ludum quod currit, sed non usque ad List ergo maybe habetis problems cum radix vel firmware.
+Conare aliis verbis aut alia radix firmware."</string>
+    <string name="help_game_not_listed_noroot">"Ipsum esse velut spatium possit eligi patefecerunt.
+
+Te potest eligere ludum currit non si in virtualis spatium.
+
+Quod si hoc ludum currit prope est in spatio, sed est etiam in album, virtualis spatium experiri alius, alia firmware, vel ut a radix fabrica se."</string>
+    <string name="daemon_killed_oom">"Daemon interfectus est propter indigentiam ratio memoriae.
+
+Set '__data_in_ram__ \"ut\" __no__ \".
+Uti hardware acceleratio interface, si fieri potest.
+Ne magnum apps.
+Insueta omnia disable alius apps.
+Try ut __app_name__ post rebooting tuom."</string>
+    <string name="selected_as_search_result">Quod effectus lectus quaerere</string>
+    <string name="clear_results_prompt">Et hoc erit quod reponere current sint. Permanere?</string>
+    <string name="position_in_memory_editor">Positus in memoria Editor</string>
+    <string name="script_prompt_internet">"Scriptum vult accedere ad Internet. Si aditum permittere, poterit furantur vestra scriptum logins, passwords, salvet et alia notitia de ludum. Item poterit esse alia furantur vestra scripta vel virus download tuom est.
+
+Patitur scriptor accessum ad Internet?"</string>
+    <string name="level">Level</string>
+    <string name="float_prompt">"Ut bene currunt __app_name__ in firmware, vos postulo ad patitur populus usus ad fenestras __s__ in ratio occasus.
+
+Et populus non est in Huawei phones ostendere per default. Vos mos postulo ut ostenderet populus __s__ patitur. Placere aperire Phone Manager, tunc Management Dropzone eam et amabo fac ut supra __s__ est.
+
+Popup et quoque non in aliqua Xiaomi phones ostendere. Vos postulo ut caput Occasus -> Installed apps -> __s__ -> cepit ocellis -> Display-pop sursum fenestra.
+
+Item, alia ratio est patitur diversis apps ut habeatis phones ostendere Popup fenestras. Omnes apps sunt plerumque ita affectus est sic, exempli gratia in Latin Google Vertere ad ICTUS functionality de app. Ideo vos can tantum google \"transferendum est ad ICTUS YOUR_PHONE\" et solutionem inuenire. Eg pro Xiaomi Redmi inventa est solutio, ut sequitur:"</string>
+    <string name="virtual_space">Tractus virtual App</string>
+    <string name="prevent_unload_help">"Ne memoria exonerandas __app_name__ (agmine).
+
+Quodlibet sequens prioris gradus includit in se potior.
+
+Tertio gradu elit potest (tosti pendent, aut fragore reboots) et aemulatores firmware aliquam.
+
+Tertio modo operatur sine radice."</string>
+    <string name="integer_type">Hoc genus notitia est solum bonorum est numerus integer neque si fractus support values. __type_float__ __type_double__ in valoribus fractis aut uti.</string>
+    <string name="without_float">Item possis uti sine __app_name__ fenestras natantes:</string>
+    <string name="any_value">nihil pretii</string>
+    <string name="help_group_search_any_value">Vos can utor per __any__ iubet quaerere coetus una cum minimum est specificare mole cuiuslibet generis, quae ad valorem de loco desideravit.</string>
+    <string name="help_scripts_title">scriptor</string>
+    <string name="help_scripts">"* __help_scripts_title__,
+__app_name__ sustinet supplicium scripta est in Luae Matri.
+
+Quaero de tab, click in menu et ad \"__execute_script__\".
+Hic potest eligere ad supplicium scriptor file: __app_name__ API modi videre existentium, aut ad publica situm in auxilium legere download an API paratus scriptor.
+Item, vos can auxilium eliciunt ex API in memoria card ad legere non sine Internet.
+
+Si vis scribere legere poterat, tunc vos postulo text externum file an author.
+__app_name__ non accipit emendo scriptor, ea modo exequitur eos.
+
+API Read auxilium pro magis details."</string>
+    <string name="help_floating_icon_absent">Quod si postquam clicking in \"__start__\" puga pyga non video volitare icon:</string>
+    <string name="remove_all2">Quod omnes amotae</string>
+    <string name="debug_load">TUBER omnia codice onerat</string>
+    <string name="debug_log">Log scriptor maxime vocat</string>
+    <string name="vspace64">"You ran __app_name__ in a virtual space that supports 64-bit processes.
+
+__app_name__ will not see 32-bit processes running in this space.
+
+Install the second copy of __app_name__ in the \"__for32__\" mode if you want to work in __app_name__ with 32-bit processes."</string>
+    <string name="folder_new">Collectorium novum</string>
+    <string name="folder_exists">Hoc etiam existit folder</string>
+    <string name="folder_file">Est cum lima nomen eius</string>
+    <string name="folder_failed">Deficio creare folder</string>
+    <string name="force_close">"Superiore repentina shutdown App.
+
+Potes enim \"__prevent_unload__\" figura plana futura vitare."</string>
+    <string name="help_force_close_title">inopinatum shutdown</string>
+    <string name="install_mode">install modus</string>
+    <string name="for32">For hack 32-bit games in 64-bit virtual space</string>
+    <string name="for64">For hack 64-bit games in 64-bit virtual space</string>
+    <string name="reset_ignore">Reset ignorare omnibus alternis sermonibus tota</string>
+    <string name="allocate_fail">Non placeat page memoriam. Error</string>
+    <string name="allocated">RELATUM memoria pagina:</string>
+    <string name="allocate_page">Deducendae agroque diuidundo memoria page</string>
+    <string name="prot_read">Sit ut legitur</string>
+    <string name="prot_write">Sit enim potest</string>
+    <string name="prot_exec">Ut sit</string>
+    <string name="install_finished">"Valuitque institutionem.
+Curre ad exemplum manually installed vestri notitia ut possit commeare.
+Deinde, qui possit installer remotum est."</string>
+    <string name="odd_vspace">__app_name__ launched in virtualis spatium?</string>
+    <string name="record_script">scriptor record</string>
+    <string name="record">record</string>
+    <string name="another_record">Aliud recordum est currens. Hiberent?</string>
+    <string name="record_ended">Memoria perficitur:</string>
+    <string name="stop">prohibere</string>
+    <string name="could_not_use">Non utuntur:</string>
+    <string name="not_optimized2">"Tu es optimized version of usura a non-virtualis spatium ( \"__s__\").
+Ad hunc errorem figere, optimized removere a non-versio «__s__\" et unus de optimized install a rectum spatia __app_name__ publica situm.
+Click \"__fix_it__\" Lorem ipsum ire rectum spatia."</string>
+    <string name="fix_path">Liberum iter in alium specificare spatium vel tempus clicking lima per \"__fix_it__\".</string>
+    <string name="deep_read">Altum legere:</string>
+    <string name="help_deep_read">"Ab omni memoria praesto modi legis, si non legitur.
+Ut moram lectionis memoria."</string>
+    <string name="ptrace_fail">Deficio mutare ptrace per memoriam.</string>
+    <string name="ptrace_fail_partially">Quidam features, quae speedhack et ad eam non operatur. Scribo legere-tantum memoria (including codice) non potest.</string>
+    <string name="ptrace_fail_full">Quod non opus absolutum maioris habitum oris lineamentaque intueri.</string>
+    <string name="ptrace_fail_solve">"Rationem ordinis in summa firmware contribulatus.
+Experiri firmware mutantur. Si recens sit updated - install prior version.
+
+Si non operatur, convertere ad machinam."</string>
+    <string name="feature_hide_4">Quod si facere non pluma seligantur quartum \"__hide_from_game__\".</string>
+    <string name="feature_firmware">Hoc pluma non potest operari sine ptrace qui non operatur in hac firmware.</string>
+    <string name="feature_protection">Hoc pluma non possunt operari propter ptrace praesidio in ludum.</string>
+    <string name="not_file">Non est iter file:</string>
+    <string name="not_execute">Testamentum facere non potest;</string>
+    <string name="check_install">Reprehendo __app_name__, ut bene sit installed.</string>
+    <string name="sdcard_install">Si externa adipiscing installed __app_name__ (SD card) redde interna</string>
+    <string name="change_address_type">Mutare oratio / genus</string>
+    <string name="bad_offset">Et non multiplices __d__ offset.</string>
+    <string name="bad_result_address">Fit oratio et non multiplices __d__.</string>
+    <string name="correct_types">Ad genus autem mutare elementa __d__ suum corrigere posse Gratia diei et noctis.</string>
+    <string name="reinstall_fail">"'Non temere restituo __app_name__ ex nomine.
+
+__app_name__ ludos potest facile deprehenditur.
+
+Vos can recordarentur __logcat__, durante installation et contact in foro publica auxilium.
+
+Reprobatio rationem:"</string>
+    <string name="empty_field">Initus inanis agrum: nihil numerus converto</string>
+    <string name="need_integer">Ad convertendum oportet eligere unum integrum.</string>
+    <string name="maps_failed">"Non aperiam '__maps__ \"lima."</string>
+    <string name="game_protected">Ludus servatur.</string>
+    <string name="need_root">Hoc opus est ad trucidabunt radix ludum.</string>
+    <string name="vspace_error">"Firmware vel quaestionem in virtualis spatium et fabrica.
+
+Try:
+\u0009- uti alius locus virtual
+\u0009- uti se firmware
+\u0009- radix possidebit
+\u0009- uti alius fabrica"</string>
+    <string name="root_error">"Radix problema est quod firmware vel machinasque.
+
+Try:
+\u0009- uti se firmware
+\u0009- alius radix utere
+\u0009- uti alius fabrica"</string>
+    <string name="vspace_root">Use virtualem radix est in spatio,</string>
+    <string name="help_vspace_root">"Virtual radix de spatio usura possunt iuvare ad hoc quod sit abscondere et __app_name__ in fabrica.
+
+Omne opus non firmware nec virtualiter omnes aequaliter.
+
+Prope locorum intervallo prope firmware radix radix cooperante sinant.
+Intus et extra institutionem usus virtutis insertis spatio sinebat ea ratio.
+
+Non possunt haec virtualis spatia.
+
+Omnia Firmware iste modus non erit opus. Et non est radix omnium.
+
+Totum prope radicem iure concessum fuerit spatium institutionem ne quicquam inest. Alioquin si spatium applicationem virtutis ad uti radix de iure et unpredictable.
+
+In ludo debet installed in virtualis spatium extra.
+
+__app_name__ debet installed potest solum velut interius spatium, sine ratio est installing in ea.
+Quam ut hoc facere - vide rectum ope certo spatio.
+
+Eg __vexp__ quoniam potes ex clone: ​​__app_name__ __vexp__ in systema, et delere ex __app_name__ ratio."</string>
+    <string name="help_games_protection_9">9. Use virtualem spatia, quae radix est in te non patitur ut install applications in installing in systematis.</string>
+    <string name="locale_ui">In fronte tegunt,</string>
+    <string name="locale_script">Scriptor Latina uti semper in fronte tegunt,</string>
+    <string name="locale_desc">"'__s__' - decimales separator
+'__s__' - millia separator
+'__semicolon__' - in coetus numero separator quaerere"</string>
+    <string name="help_unaligned_title">Unaligned quaerere / endian magnus, quaerere</string>
+    <string name="help_unaligned">"Et de applications, (exempli gratia, sicut solare aemulatores), et in memoria non respiciendum dam valorem, aut in ordine presented in magna-byte endian.
+
+Tales valorem inveniri potest non per normalis quaero.
+
+Ut eos inveniamus - uti specialis scriptor officialis __app_name__ a website:"</string>
+    <string name="help_formula_calculator_title">FORMULA calculator</string>
+    <string name="help_formula_calculator">"Almost in each field for entering numbers, you can enter a mathematical formula, after the equal sign, for example, in the search field enter '= 2 + 2 * 3', and the program will search for the result of the formula, that is, '8'.
+In formula est Luae Matri expressio. Vos can utor in ea Luae Matri omnibus praesto est potestas.
+
+Omnes autem nobis consilium de numeris operators Luae Matri 5.3 - praeter (+), detractione (-): multiplicationem exsurgunt (*) division (/) division residuum (%) exponentiation (^), integer division (//), and so on.
+Item sunt praesto frenum operators - et (&amp;) OR (|) VEL exclusiva (binarii ~), NE (unary ~), inclinatis ad dextram (>>), inclinatis ad sinistram (&lt;&lt;). Ordinem detur actio uncis.
+Luae Matri Read in manual pro completum album of res praesto.
+
+It is useful if you know how the value is coded in the game. For example, 29 rounds in one game can be found as '= 29 ~ 444444'. This is equivalent to 29 XOR 444444. In the video sample, the price was found 3888 through XOR with 444444, as '= 444444 ~ 3888'. After this, the replacement was made to '= 444444 ~ 1', which set the price to '1'. In another game, 125 gold is like '= 125 * 10'.
+
+Non praesto sunt munera scriptor formula omnis calculator. Quidam praesto sunt munera. Si non ex illis satis - scribere script, pro usura est quaedam calculator, nisi quia in animo qui illud simplex temptaris numeros. Available: pars basic munera, 'bit32', 'mensa', 'linea,' utf8 ',' math ', pars' os, 'sarcina. Packages, CIMICO ',' sarcina ',' G ',' i 'non available.
+
+When you write '= 2 + 2 * 3', the keyword 'return' will be added before the formula: 'return 2 + 2 * 3'. However, you can specify this word yourself in a formula if you need a complex formula.
+For example, '= a = 5; b = 7; return a * 4 + b * 8' will be executed as 'a = 5; b = 7; return a * 4 + b * 8'
+
+Et propter formam calculator sit a linea illud. Quod non potest esse verum linea filum initus hoc agro.
+For example, it may be a string for a group search or a range search. '= a = 5; b = 7; return a .. \";\" .. b .. \":: 100\"' is equivalent to '5; 7 :: 100'.
+
+NIHIL AGIT scriptor opus in formula, ibi potest directe uti Luae Matri.
+Cum scribo et scriptum est, ut scriptum est propter formam calculation file: Ne formula ipsa.
+
+Formula si recte vos recipietis subire formam erroris nuntius.
+
+Quando calculandum oportet considerare quod genus numeros primos operand specificat peraguntur. Si fuerit numerus integer, tum effectus erit numerus integer.
+For example, '= 3/2' is '1', and '= 3.0 / 2' is '1.5'.
+
+Pro electi locus, loci inventis formulis sacrario operantur quae de Anglis. Hoc est punctum, quod semper est separator A: inpacatum Madvig (. ')."</string>
+    <string name="help_faq_32_b">"Duo Lorem icons. Primum, cum acceleratione software - '__app_short_name_sw__ \", secundo, cum hardware accelerationis -' __app_short_name_hw__\". Sic autem hoc semper fiat.
+Firmwares de aliquo modo operatur, secundum aliam litteram, in uidentibus tam.
+Est melius uti software accelerato feratur, minus operatur aequaliter, sed aliquis minus memoriae.
+
+Abscondere potes unum application icons in occasus \"__hide_icons__\"."</string>
+    <string name="acceleration_help_">"Hardware aut software interface __app_name__ acceleratio.
+Fretus ludum quod firmware, options potest aliquam de causa problems.
+Et si opus esse accelerationis utor software, quod aliquis minus memoriae.
+
+Haec optio tantum motum esse separatum a Lorem icones et ad ostentationem __app_name__ interface.
+Lorem icons es responsible pro satus genus potentiarum acceleratrices in screen.
+
+Tanto consumit vim memoriae odio sed aequaliter operatur. Si parum RAM, acceleratio semper utor software.
+
+Si acceleratio hardware fit erroribus universis, __app_name__ software possunt flectendum est ad accelerato."</string>
+    <string name="small_list_items">Album parva items</string>
+    <string name="small_list_items_help">Display concedit te magis notitia item in album, tamen illud potest esse difficilis magis ad click in item cum desideravit.</string>
+    <string name="format_asm_opcodes">__s__ opcodes</string>
+    <string name="no_regions">Matching regionum non inveni.</string>
+    <string name="cannot_hide_launcher_icon">"Et hoc icon est ad hodiernam Lorem.
+
+Et non abscondam a icon quae ad hodiernam Lorem.
+
+Alius autem per applicationem ad sileo icon icon id celare posse."</string>
+    <string name="screenshot">Take a screenshot</string>
+    <string name="screenshot_prompt">"Quod ut icon __d__ seconds occultatum est ut vos can sumo a screenshot.
+
+Post hoc icon est iterum erit visibilis."</string>
+    <string name="screenshot_action">Screenshot</string>
+    <string name="use_visible_type">Uti notitia type visibilis in memoria recensore eget</string>
+    <string name="use_visible_type_help">Creator generis notitia memoriae ne repetas solo notitia typus ostenditur.</string>
+    <string name="wrong_float">"In locus, numerus '__s__' vultus amo '__s__ \". Si non est quod tibi necessarium est - eligere diversis locus (vel lingua) satus in screen."</string>
+    <string name="wrong_float2">Item: __app_name__ in occasus, vos can locus delendi antiquitus in forma numeri.</string>
+    <string name="number_locale">Locus est forma numero;</string>
+    <string name="fill">imple</string>
+    <string name="help_text_search">"
+Ut quaeram magis quam illud, non opus est solito Immutationes in quaero alternis sermonibus.
+
+Maxime plerumque adsuesco assuesco encodings et __utf16le__ __utf8__ sunt.
+De more sit __utf16le__ __java__ usus est: et in hoc __utf8__ __c__.
+
+\u0009Duo-byte modum translitterandi __utf16le__ est. Quisque semper ingenium bytes encoded in duo, sic ad hoc significatur per __type_word__.
+\u0009__utf8__ - modum translitterandi byte magnitudinem variabilis in mores per. Represented __type_byte__ via.
+\u0009Semper sint repraesentatur per __type_byte__ __hex_input__ atque alte cadere.
+
+In ludo uti potes si in encodings.
+Si vos postulo a paro of specifica bytes - __hex_input__ uti modus.
+
+Available praemittit:
+__text_prefixes__
+
+Nam «__hex_mixed__\" modus, vos potest specificare __utf8__ illud inter indolem et __apos__ __utf16le__ __quot__ illud inter ingenia.
+
+For example:
+__text_examples__
+
+Solon dixit se senem fieri debet primo mores ingenium illud scribe in quaestionis.
+
+In eventum in quaerere __type_byte__ erit seriei et __type_word__ a serie, nam apud __utf16le__ est.
+
+Eventus potest mutavit - select all and click \"__edit_selected__\".
+
+In valore agris intra novum valorem, in eadem forma est per filum quaerere.
+
+Vos can utor satiata bullarum. Click \"__more__\" si non sunt visibilia.
+
+De valore et posuit items pro sulum group continue sequentibus.
+Si elementa inter gap est non, erit novum coetus.
+
+Si bytes plus quam necesse specificare, tunc tantum pars illorum erit utendum.
+Si minus est necesse specificare, deinde reliquum coetus et repleti nulla bytes.
+
+Quo loco illud dare operam ut textum originalem vitare totidem bytes volutpat.
+"</string>
+    <string name="fast_freeze">Frigidus Fast:</string>
+    <string name="help_fast_freeze">"Frigore multo citius rectum facit, non memoria.
+
+Si quis sustinebit non operatur, hanc optionem disable."</string>
+    <string name="debug_disassemble">deservit navifactivae;</string>
+    <string name="assembled">Feliciter convenerunt to file:</string>
+    <string name="warn_patch_off_prot2">"Si vos es usura __magisk_hide__ - disable is qui antea applicandis lacus. Post feliciter applicare rugoso potes reportavit.
+Si non, lacus sit amet neque."</string>
+    <string name="help_games_protection_end">"
+Quomodo __app_name__ abscondam a ludo in virtualis spatium
+
+\u00091. Install in virtualis spatium, quod absconditum concedit installation of applications, non installing in systema. Eg __vspace_hide__.
+\u00092. Install __app_name__ portasse in virtualis spatium.
+\u00093. In __app_name__, conversus ad '__vspace_root__ \"modus.
+\u00094. dona radix ius virtualis spatium. Si non potest ut det radix ius - virtualis spatium experiri alius, alia radix ius aliud quod firmware vel mutare fabrica.
+\u00095. __app_name__ remove ab ratio.
+\u00096. Opus in spatio __app_name__ ex virtual.
+
+Nam in deprehendere fuge quaerere:
+\u0009Select items 2, 3 and 4 in \"__hide_from_game__\" setting. 
+
+A typicam solution (requirit radix, radix et non obtinuit absque)
+\u00091. Use virtualem radix de spatio. Read auxilium ad occasum '__vspace_root__ \".
+\u00092. Use items 2, 3 and 4 in the \"__hide_from_game__\" setting.
+"</string>
+    <string name="force_close_2">"Vos can set '__data_in_ram__ \"ut\" __no__ \"quod vitare in futurum."</string>
+    <string name="script_wrote">Scriptum est scribit __s__ __d__ files.</string>
+    <string name="script_exit">exitus</string>
+    <string name="script_interrupted">Scriptum cum interruptione currit.</string>
+    <string name="script_error">Scriptor error</string>
+    <string name="script_oom">De memoria</string>
+    <string name="script_possible">Is vultus amo vos es trying ut exsequor __s__ scriptor.</string>
+    <string name="script_web">Paginam</string>
+    <string name="script_saved_list">a album salvus</string>
+    <string name="speedhack_no_x86">Sed in hoc ludum est x86 libraries, sic maybe non operatur.</string>
+    <string name="help_faq_33_q">Text nuntiis (semel bibunt) manent in screen, circulus aut obscura sit visibilis ad fundum screen cum de __app_name__ laborat. Quam ut fix it!</string>
+    <string name="help_faq_33_a">Sub tertio \"__prevent_unload__\" ad aliquid quod firmware text perferentes (bibunt) reliqua elit vel circulo opaco patet (vide verba). Si hoc non utor tertio.</string>
+    <string name="invalid_header_1">Aliquam script binarii header.</string>
+    <string name="unknown_version">Ignotum version.</string>
+    <string name="unknown_format">Forma ignota.</string>
+    <string name="unknown_endianness">Endianness ignotum.</string>
+    <string name="unknown_size_s">Magnitudinem __s__ ignotum.</string>
+    <string name="unknown_size_instr">Ignota de magnitudo disciplinam.</string>
+    <string name="unknown_size_num">Luae Matri numerus ignotus magnitudinem.</string>
+    <string name="expected_found">__s__ __s__ expectata non inveni.</string>
+    <string name="or">uel</string>
+    <string name="invalid_header_2">Curre scriptor removes?</string>
+    <string name="invalid_header_3">"In posterus versions of __app_name__, hoc legere non potest currere.
+Haec scribo, ut auctor est scriptor."</string>
+    <string name="skip_system_libs">Skip ratio libraries</string>
+    <string name="try_reinstall_x86">"Try reinstalling ludum cum x86 libraries?
+
+Post ludum potest prohibere opus. Si hoc fit, restituo a rar sita est in ludo __data_app__."</string>
+    <string name="reinstall_started">Réinstallation coepi ...</string>
+    <string name="reinstall_failed">Réinstallation defecit:</string>
+    <string name="reinstall_ended">Réinstallation perficitur.</string>
+    <string name="help_lasm_title">Disassemble / convenire scriptor</string>
+    <string name="help_lasm">"__app_name__ habet constructum-in Disassembler / TRDOS et Luae Matri scriptor.
+
+Vos can lego \"__debug_disassemble__ 'launch fenestra optio: et scriptum est, post clicking in\" __more__' deprimendo.
+
+Quod unde fieri potest edited by __ext_lasm__ file: et scriptum est, et lectus launch fenestra. Et eventum erit binarii __ext_lua__ file: mutationes factae sunt.
+
+API auxilium legere scriptionem pro magis details.
+"</string>
+    <string name="help_hide_gg_title">Quomodo autem abscondam a ludo __app_name__</string>
+    <string name="changed_as_search_result">Quod effectus quaerere mutata</string>
+    <string name="changed_not_found">Suosque mutatae adgnoscunt items non invenitur.</string>
+    <string name="too_far">Haec values ​​inveniri non possunt per coetus quaerere, Separati sunt nimis: __d__ bytes. __d__ bytes maximam distantiam.</string>
+    <string name="new_address">Novum inscriptio:</string>
+    <string name="hide_1_warn">Tu item primus electus. Glacians values ​​potest esse causa severus lags in ludo.</string>
+    <string name="hide_4_warn">Et quartus item lectus. Quidam features opus non erit: __speedhack__, __unrandomizer__, __allocate_page__.</string>
+    <string name="asm_failed">Populus ignorabat __s__ opcode:</string>
+    <string name="asm_suggestion">Nonne: __s__?</string>
+    <string name="copy_opcode">Effingo __s__ opcode:</string>
+    <string name="search_nearby">prope quaerere</string>
+    <string name="before">Ante</string>
+    <string name="after">Post</string>
+    <string name="distance">Loginquitas:</string>
+    <string name="nearby">prope;</string>
+    <string name="need_fixer">"A problem was detected with this 64-bit virtual space.
+
+Ad illud figere:
+
+1. __fixer__ Install application. (Ex alternis sermonibus, manually aut per semita:
+__s__
+).
+
+2. __fixer__ Add to virtualis spatium.
+
+3. Run __fixer__ in virtualis spatium.
+
+4. __fixer__ Remove.
+
+5. __app_name__ Sileo quod rectum est in spatio."</string>
+    <string name="limit">Tantum eventus primum N:</string>
+</resources>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.fix.ScrollView
+    android:paddingLeft="6.0dip"
+    android:paddingRight="6.0dip"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.fix.LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <android.fix.TextView
+            android:textAppearance="@style/SmallText"
+            android:layout_gravity="center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/copy_from" />
+        <android.fix.LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <android.ext.EditText
+                android:layout_gravity="center_vertical"
+                android:id="@id/memory_from"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:imeOptions="actionNext" />
+            <android.ext.RegionList
+                android:layout_gravity="center_vertical"
+                android:id="@id/region_from"
+                android:layout_width="48.0dip"
+                android:layout_height="48.0dip" />
+        </android.fix.LinearLayout>
+        <android.fix.TextView
+            android:textAppearance="@style/SmallText"
+            android:layout_gravity="center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/paste_to" />
+        <android.fix.LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <android.ext.EditText
+                android:layout_gravity="center_vertical"
+                android:id="@id/memory_dst"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:imeOptions="actionNext" />
+            <android.ext.RegionList
+                android:layout_gravity="center_vertical"
+                android:id="@id/region_dst"
+                android:layout_width="48.0dip"
+                android:layout_height="48.0dip" />
+        </android.fix.LinearLayout>
+        <android.fix.TextView
+            android:textAppearance="@style/SmallText"
+            android:layout_gravity="center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/count_bytes" />
+        <android.fix.LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <android.ext.EditText
+                android:layout_gravity="center_vertical"
+                android:id="@id/count_bytes"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:imeOptions="actionGo" />
+            <android.ext.HexConverter
+                android:layout_gravity="center_vertical"
+                android:id="@id/bytes_converter"
+                android:layout_width="48.0dip"
+                android:layout_height="48.0dip" />
+        </android.fix.LinearLayout>
+    </android.fix.LinearLayout>
+</android.fix.ScrollView>

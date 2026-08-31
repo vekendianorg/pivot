@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.fix.ScrollView
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.fix.LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <android.fix.TextView
+            android:textAppearance="@style/MediumText"
+            android:id="@id/message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/speedhack_speeds" />
+        <android.ext.EditTextSpeeds
+            android:layout_gravity="center_vertical"
+            android:id="@id/speeds"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="0.000000001;0.00000001;0.0000001;0.000001;0.00001;0.0001;0.001;0.002;0.005;0.01;0.02;0.05;0.1;0.2;0.5;0.66;0.75;0.9;1;1.2;1.3;1.5;2;3;4;5;6;7;8;9;10;20;50;100;200;500;1000;5000;10000;100000;1000000;10000000;100000000;1000000000"
+            android:hint="0.05;0.2;1;20;500"
+            android:scrollHorizontally="false"
+            android:imeOptions="actionDone" />
+        <android.fix.TextView
+            android:textAppearance="@style/MediumText"
+            android:layout_gravity="center_vertical"
+            android:id="@id/hint"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <android.fix.TextButtonView
+            android:textAppearance="@style/SmallText"
+            android:gravity="center_vertical"
+            android:layout_gravity="center_vertical"
+            android:id="@id/default_"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/default_" />
+    </android.fix.LinearLayout>
+</android.fix.ScrollView>

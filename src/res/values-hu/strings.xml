@@ -1,0 +1,1362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lang_code">~~~hu~~~</string>
+    <string name="front_text">Ha bármi kérdésed van az __app_name__-ról vagy a használatáról, kérjük látogasd meg a fórumuainkat itt: __forum__.</string>
+    <string name="set_path">Ideiglenes útvonal.</string>
+    <string name="number">Szám/érték:</string>
+    <string name="type">Típus:</string>
+    <string name="name">Név:</string>
+    <string name="reset">Válaszd ki a folyamatot.</string>
+    <string name="set_range">Válaszd ki a memóriatartományokat.</string>
+    <string name="search">Keresd!</string>
+    <string name="save">Mentés.</string>
+    <string name="goto1">Ugorj a</string>
+    <string name="address">Cím:</string>
+    <string name="edit_all">Mindet módosít.</string>
+    <string name="filter">Szűrő.</string>
+    <string name="clear">Töröl.</string>
+    <string name="max_show_rec">Mutat:</string>
+    <string name="equal">Változatlan.</string>
+    <string name="inequal">Változott.</string>
+    <string name="larger">Nőtt.</string>
+    <string name="smaller">Csökkent.</string>
+    <string name="compare_current_last">Hogyan változott az érték?</string>
+    <string name="write_region_log">Helyi naplózás írása.</string>
+    <string name="old_version">Régi verzió:</string>
+    <string name="found_old_version">__app_name__ régi verziója immáron feleslegesen van telepítve. Szeretnéd törölni?</string>
+    <string name="yes">Igen.</string>
+    <string name="no">Nem.</string>
+    <string name="ok">Rendben.</string>
+    <string name="failed_find_package_name">Nem található ez az alkalmazás!</string>
+    <string name="path_for_temp_files">"Állítsd be az útvonalat az ideiglenes fájlokhoz, pl. '__sdcard__. Szükség van pár száz MB szabad területre ezek tárolásához. Jelenlegi keresési találatok el fognak veszni."</string>
+    <string name="confirm">Megerősít.</string>
+    <string name="cancel">Mégsem.</string>
+    <string name="found_new_version">Új verziót találtam __s__!</string>
+    <string name="daemon_failed">Daemon nem fut!</string>
+    <string name="failed_run_daemon">Nem sikerült a daemon futtatása. Van root jogosultságod?</string>
+    <string name="daemon_unexpected_closed">Daemon váratlanul leállt. Info:</string>
+    <string name="daemon_exited">A démon kilépett</string>
+    <string name="failed_load_daemon">Nem sikerült a daemon betöltése</string>
+    <string name="is_device_rooted">Nem sikerült root hozzáférést szerezni.</string>
+    <string name="collect_data_to_region_log">Adatgyűjtés elindult a helyi naplózás írásához.</string>
+    <string name="log_saved">Naplózás mentve ide: __s__.</string>
+    <string name="failed_save">Nem sikerült ide menteni: __s__.</string>
+    <string name="region_log">Helyi naplózás.</string>
+    <string name="apply">Alkalmaz</string>
+    <string name="error">Hiba</string>
+    <string name="load">Betölt</string>
+    <string name="delete_prompt">Szeretnéd ezt eltávolítani?</string>
+    <string name="reset_search">Valamilyen HIBA merült fel. Állítsd vissza (töröld) a kereséseket.</string>
+    <string name="unknown_error">Ismeretlen hiba.</string>
+    <string name="out_of_memory">Kevés a memória.</string>
+    <string name="bug_detected">Alkalmazás hibát észleltem.</string>
+    <string name="disk_full">A lemez (belső/külső memória) megtelt.</string>
+    <string name="io_error">IO interfész hiba.</string>
+    <string name="game_dead">A játék leállt/bezártad.</string>
+    <string name="exit">Kilépés</string>
+    <string name="skip">Mellőz</string>
+    <string name="unhandled_exception">Nem kezelt kivétel. Elküldöd az alábbi információt a fejlesztő csapatnak kivizsgálásra?</string>
+    <string name="last_run_failed">Legutóbbi indítás sikertelen volt.</string>
+    <string name="thank_you">Köszönöm!</string>
+    <string name="no_application">Nem választottál ki egy alkalmazást se.</string>
+    <string name="increments">Növekedés mértéke:</string>
+    <string name="add_not_replace">Értékhez add hozzá, de ne cseréld ki vele</string>
+    <string name="eperm_error">PTRACE_ATTACH hiba: Ez a művelet nem engedélyezett.</string>
+    <string name="load_list">Lista betöltése.</string>
+    <string name="load_warning">A betöltött lista a játék egy máskori (régebbi) adatait, értékeit tartalmazza. A memóriatartományok valószínűleg megváltoztak ez idő alatt, ezért ezek az értékek már nem helytállók. Kérem nézd át ezeket figyelmesen.</string>
+    <string name="from">__d__ a __d__-ból/-ből</string>
+    <string name="count_fuzzy_equal_run">"Hányszor futtassam le a '__fuzzy_equal__'-t:"</string>
+    <string name="slow">Lassú</string>
+    <string name="miui_restart">__app_name__-t újra kell indítani, hogy a biztonsági engedélyek érvénybe lépjenek.</string>
+    <string name="out_of_memory_error">Túl kevés a memória. Jelenleg keresett elemek elvesztek. Kérlek kevesebb elemet állíts be mutatásra.</string>
+    <string name="loading">Betöltés...</string>
+    <string name="found_count">Talált egyezés: __d__</string>
+    <string name="fuzzy_equal">Változatlan érték</string>
+    <string name="fuzzy_inequal">Módosult érték</string>
+    <string name="fuzzy_larger">Az érték nőtt</string>
+    <string name="fuzzy_smaller">Az érték csökkent</string>
+    <string name="type_edit_limit">Beviteli érték __s__-tól/től __s__-ig</string>
+    <string name="number_name">szám</string>
+    <string name="step_name">növekedés mértéke</string>
+    <string name="number_less">"'__s__' túl alacsony érték ehhez az adattípushoz, minimális elfogadható érték: (__d__)."</string>
+    <string name="number_greater">"'__s__' túl nagy érték ehhez az adattípushoz, maximális elfogadható érték: (__d__)."</string>
+    <string name="about">Az appról pár információ.</string>
+    <string name="owner">tulajdonos</string>
+    <string name="design">vezető tervező</string>
+    <string name="pm">projektvezetőség</string>
+    <string name="code">vezető/fő programozó</string>
+    <string name="tech">technikai szaktanácsadó</string>
+    <string name="creator">készítő (visszavonult)</string>
+    <string name="for_translators">Ha szeretnél segíteni az app lefordításában, kapcsolatba léphetsz velünk itt: http://gameguardian.net/forum, és amennyiben a fordítások megfelelők, bekerülnek az appba.</string>
+    <string name="version">Verzió:</string>
+    <string name="developers">Fejlesztők:</string>
+    <string name="select_language">Válaszd ki a nyelvet.</string>
+    <string name="exit_confirm">__app_name__: újra kell indítanod, hogy a módosítások érvénybe lépjenek.</string>
+    <string name="special_thanks">Külön köszönet nekik:</string>
+    <string name="nothing_found">Nincs találat. Próbáld meg újra a keresést.</string>
+    <string name="try_more_ranges">Megpróbálhatod több tartomány engedélyezésével is, amelyet a beállításokban állíthatsz be.</string>
+    <string name="try_fuzzy_search">Megpróbáltatod úgy is, hogy ismeretlennek állítod be az értéket.</string>
+    <string name="search_hint">"Egy ismert érték megkereséséhez nyomja meg a \"__search_known_value__\" gombot.
+Ha az érték ismeretlen vagy titkosított, kattintson a \"__search_unknown_value__\" gombra a kereséshez.
+A lebegő értékek egész rész szerinti keresése a „__type_auto__” keresési típus kiválasztásával végezhető el.
+A „__semicolon__” csoportos keresést is használhatja szeparátorként."</string>
+    <string name="freeze">Érték fagyasztása:</string>
+    <string name="freeze_normal">átlagosan</string>
+    <string name="freeze_may_increase">az érték nőhet</string>
+    <string name="freeze_may_decrease">az érték csökkenhet</string>
+    <string name="freeze_in_range">ebben az értéktartományban</string>
+    <string name="range_end_fail">"A tartomány végének ('__s__') nagyobbnak kell lennie, mint a \"__s__\"."</string>
+    <string name="failed_add_window">Nem sikerült az ablak hozzáadása.</string>
+    <string name="failed_remove_window">Nem sikerült az ablak eltávolítása.</string>
+    <string name="system_service_stopped">AZ alkalmazás nem tud megfelelően működni, mert a rendszerszolgáltatás leállt. Próbáld meg újraindítani az appot, ha továbbra sem jó, akkor a telefonodat is indítsd újra.</string>
+    <string name="value_request">Érték, amit keressek:</string>
+    <string name="type_request">Válaszd ki az értéktípust a kereséshez.</string>
+    <string name="type_change_request">Válaszd ki azt az értéktípust, amelyiket módosítani szeretnéd.</string>
+    <string name="value">Érték:</string>
+    <string name="save_as">Mentés mint:</string>
+    <string name="restart">Újraindít.</string>
+    <string name="start">Indítás.</string>
+    <string name="wait_daemon">Ez a funkció nem elérhető, ha a daemon nem fut. Várd meg, hogy a daemon elinduljon. (Biztosítottál root hozzáférést az appnak? Van egyáltalán root jogosultságod?)</string>
+    <string name="daemon_fail">Daemon nem fut.</string>
+    <string name="config_icon_text">Ikon: átlátszóság = __d__%%, elrejtés - __s__</string>
+    <string name="icon_hide_after">__d__ másodperc után</string>
+    <string name="icon_hide_never">soha</string>
+    <string name="keyboard">Billentyűzet:</string>
+    <string name="internal">Belső</string>
+    <string name="external">Külső</string>
+    <string name="failed_copy_text">Nem sikerült e szöveg vágólapra másolása:</string>
+    <string name="copied">Másolva.</string>
+    <string name="copy_value">Érték másolása:</string>
+    <string name="copy_address">Cím másolása:</string>
+    <string name="goto_address">Ugorj erre a címre:</string>
+    <string name="search_unknown_value">Ismeretlen (\"ködös\") keresés.</string>
+    <string name="search_known_value">Ismert (\"pontos\") keresés.</string>
+    <string name="speedhack_hint">Az app sebességének megváltoztatásához, a \"speekhack\" használatához, hosszan nyomj a lebegő __app_name__ ikonra.</string>
+    <string name="bad_firmware">A firmware-d hibáiból adódóan nem használhatod ezt a funkciót.</string>
+    <string name="language">Nyelv:</string>
+    <string name="acceleration">Illesztőegység gyorsítása:</string>
+    <string name="hardware">Hardver</string>
+    <string name="software">Szoftver</string>
+    <string name="speedhack">Speedhack (játékmenet gyorsítás)</string>
+    <string name="data_in_ram">Adatok a RAM-ban:</string>
+    <string name="first_mb">Az első __d__ MB</string>
+    <string name="donate">Adomány/támogatás.</string>
+    <string name="speeds">sebesség</string>
+    <string name="floating_window_fail">Nem sikerül a lebegő ablakot megjeleníteni.</string>
+    <string name="check">Hitelesítés (jól működik-e az app).</string>
+    <string name="check_success">Sikeres hitelesítés.</string>
+    <string name="enable_draw_perm">Kérjük hagyd jóvá az engedélyeket a következő képernyőn.</string>
+    <string name="speedhack_fail">Ez a folyamat nem támogatja a speedhack-et.</string>
+    <string name="dangerous">veszélyes</string>
+    <string name="difference">Különbség</string>
+    <string name="old_value">Régi érték</string>
+    <string name="new_value">Új érték</string>
+    <string name="mode_hacking">Az érték titkosított.</string>
+    <string name="union">Csoportos keresés.</string>
+    <string name="speedhack_open">A speedhack megnyitásához nyomj hosszan a/az __app_name__ ikojára.</string>
+    <string name="history">Előzmények.</string>
+    <string name="history_empty">Nincsenek előzmények.</string>
+    <string name="allow_suggestions">A billentyűzet adhat javaslatokat:</string>
+    <string name="invalid_area">A csoport méretének __d__ és __d__ között kell lennie:</string>
+    <string name="union_need_two_numbers">A csoportos kereséshez legalább 2 számot kell beírnod.</string>
+    <string name="too_many_union_numbers">Túl sok szám, több mint:</string>
+    <string name="invalid_number">Érvénytelen szám:</string>
+    <string name="input_number">Beviteli szám</string>
+    <string name="number_out_of_range">"'__s__' nincs a lehetságes tartományban."</string>
+    <string name="help_floating_icon">"* A lebegő ikon:
+* Nyomd meg, a felhasználói felület megnyitásához.
+* Tartsd lenyomva, és megjelenik a speedhack.
+* Bárhová húzhatod az ikont.
+* Átlátszóság és ikon elrejtés-időzítés a beállításokban állítható be.
+"</string>
+    <string name="help_exact_search">"* Pontos keresés:
+1. Válaszd ki a megfelelő folyamatot a jelenlegi apphoz: __app_name__.
+2. Nyomd meg a \"__search_known_value__\" gombot a \"__search__\" fülnél.
+3. Írd be a keresett értéket.
+4. Válaszd ki a kívánt értéktípust, ha nem tudod melyiket kéne, akkor használd ezt: \"__type_auto__\". Ezen felül még állíthatsz be más szűrőket is, ha szükséges. Nyomj a \"__search__\"-re.
+5. Keresés befejeztével megjelennek az értékek az értéklistán.
+6. Menj vissza a játékba. Miután az érték megváltozott, válaszd ki újra az appot: __app_name__ 
+7. Keress rá a megváltozott értékre.
+8. Ha túl sok találat van az értékre, menj vissza a 6. lépésre.
+9. Ha viszonylag kevés találat van, szerkesztheted, tárolhatod és/vagy fagyaszthatod őket."</string>
+    <string name="help_speedhack">"* Speedhack:
+* Tarts lenyomva a lebegő ikont a speedhack eléréséhez.
+* A nyilakkal (jobb és bal oldalt) állíthatod be a játékmenet sebességét.
+* Miután beállítottál egy sebességet, és lenyomva tartod azt (magát a számot), visszáll a játékmenet eredeti sebességre (1).
+* A lebegő ikon lenyomva tartásával nem csak megjeleníteni, de elrejteni is el tudod a speedhack-et.
+* A sebességek listáját és az időzítők listáját a beállításokban tudod személyre szabni.
+* Ha az app nem válaszol a bevitt értékekre, vagy a speedhack nem működik, próbálj más zöld időzítőket használni a/az __app_name__ beállításaiban.
+* Időugráshoz használhatod a \"__time_jump__\"-ot. Ehhez a keresés fülnél válaszd a \"menü\" opciót, majd a \"__time_jump__\"-ot. Meg kell majd adnod az ugrás mértékét másodperc(ek)ben. Az ugrás mértéke lehet tört alakú is. (pl. 1/2)"</string>
+    <string name="help_fuzzy_search">"* Fuzzy keresés:
+\u00091. Váltson __app_name__-re egy játékból.
+\u00092. Érintse meg a \"__search_unknown_value__\" gombot a \"__search__\" fülön.
+\u00093. Válassza ki a megfelelő adattípust, vagy válassza a \"__type_auto__\" (ha nem biztos) és kattintson a \"__search__\" gombra.
+\u00094. A keresés befejezése után a keresési eredmények a listában jelennek meg.
+\u00095. Vissza a játékhoz. Miután az érték megváltozott (vagy nem), váltson újra a __app_name__-re.
+\u00096. Érintse meg a \"__search_unknown_value__\" gombot, és válassza ki az érték változásának típusát.
+\u00097. Ha túl sok eredmény van, folytassa a 5. lépést.
+\u00098. Ha csak néhány eredmény maradt, megpróbálhatja módosítani, tárolni vagy befagyasztani az értéket.
+
+\u0009Az érték pontos változását a \"__more__\" gombra kattintva adhatja meg.
+\u0009A pontos értékváltozásként megadhat egy tartományt:
+\u0009\u0009190__tilde__210
+\u0009Az értéktartományon kívüli módosítások megadásához:
+\u0009\u000910__tilde____tilde__4000
+"</string>
+    <string name="help_group_search">"* Csoportos keresés:
+\u00091. Váltson __app_name__-re egy játékból.
+\u00092. Érintse meg a \"__search_known_value__\" gombot a \"__search__\" fülön.
+\u00093. Adja meg a keresési kérelmet a csoportos kereséshez.
+\u0009\u0009Formátum: érték 1 __semicolon__ érték 2 __semicolon__ ... __semicolon__ érték N __colon__ csoportméret
+\u0009\u0009Egyidejűleg 2-__max_group__ értékek kereshetők. Az alapértelmezett csoportméret 512. A csoportméretnek 2 és 65536 között kell lennie.
+\u0009\u0009Például, ha 195 és 6543-at szeretne keresni, meg kell adnia:
+\u0009\u0009\u0009195 __semicolon__ 6543
+\u0009\u0009Természetesen megadhatja a csoport méretét (300):
+\u0009\u0009\u0009195 __semicolon__ 6543 __colon__ 300
+\u0009\u0009Egy vagy több adattípust is beállíthat:
+\u0009\u0009\u0009195__type_dword_short__ __semicolon__ 6543
+\u0009\u0009Ez azt jelenti, hogy egy __type_dword__ értéket akar keresni, ami 195 és __type_auto__ értéke 6543.
+\u0009\u0009A lehetséges adattípusok megegyeznek a keresési adatokkal:
+\u0009\u0009\u0009__type_byte_short__ - __type_byte__
+\u0009\u0009\u0009__type_word_short__ - __type_word__
+\u0009\u0009\u0009__type_dword_short__ - __type_dword__
+\u0009\u0009\u0009__type_xor_short__ - __type_xor__
+\u0009\u0009\u0009__type_qword_short__ - __type_qword__
+\u0009\u0009\u0009__type_float_short__ - __type_float__
+\u0009\u0009\u0009__type_double_short__ - __type_double__
+\u0009\u0009\u0009__type_auto_short__ - __type_auto__
+\u0009\u0009A számot a hex (kis-endiális) jelölésben is írhatja:
+\u0009\u0009\u0009__hex_example____hex__ __semicolon__ 6543
+\u0009\u0009vagy fordított hex (big-endian) jelöléssel:
+\u0009\u0009\u0009__hex_example____rhex__ __semicolon__ 6543
+\u0009\u0009További szimbólumok beviteléhez használja a \"__btn_hex__\" gombot a belső billentyűzeten.
+\u00094. Válassza ki a megfelelő adattípust, vagy válassza a \"__type_auto__\" (ha nem biztos benne), hogy alapértelmezettként használja. Más opciók nem számítanak az ilyen típusú keresésnek. Kattintson a \"__search__\" gombra.
+\u00095. A keresés befejezése után a keresési eredmény megjelenik a listában.
+\u00096. Vissza a játékhoz. Az érték megváltoztatása után váltson újra a __app_name__-re.
+\u00097. Ismételje meg a csoportkeresést megfelelő módosításokkal.
+\u00098. Ha túl sok eredmény van, ismételje meg a 6. és 7. lépést.
+\u00099. Ha kevés eredmény van, megpróbálhatja módosítani, tárolni vagy befagyasztani az értéket.
+
+\u0009Ha az értékek sorrendjét szeretné, akkor adja meg kétszer a __colon__ értéket.
+\u0009Csoportméret nélkül:
+\u0009\u0009195 __semicolon__ 6543 __colon____colon__
+\u0009Csoportmérettel:
+\u0009\u0009195 __semicolon__ 6543 __colon____colon__ 300
+
+\u0009Kereshet az értéktartományban:
+\u0009\u0009190__tilde__210 __semicolon__ 6543
+\u0009Szintén az értéktartományon kívül is kereshet:
+\u0009\u000910__tilde____tilde__4000 __semicolon__ 6543
+"</string>
+    <string name="help_others">"* Egyéb:
+\u0009* Új keresés esetén törölni kell az előző keresési eredményeket a \"__clear__\" kiválasztásával a menü gomb alatt.
+\u0009* Egy másik játék kiválasztásához érintse meg a játék ikonját a bal felső sarokban.
+\u0009* A játék szüneteltetéséhez / folytatásához érintse meg a bal felső sarokban lévő ikon alatt található gombot.
+\u0009* Ha a játék szüneteltetése közben egy játékra vált, a következő alkalommal, amikor megnyitja a __app_name__-et, a játék automatikusan szünetel.
+\u0009* Az összes befagyott érték automatikusan hozzáadódik a mentett listához. Ezeket a megfelelő fül alatt kezelheti.
+* Minden bemeneti adat a \"__history__\" listába ment. Használhatja őket a történelem gomb megnyomásával.
+"</string>
+    <string name="help_typical_usage">"* Tipikus használati algoritmusok:
+
+1) Az érték nem titkosított és ismert.
+\u0009Egy tipikus eset lenne pénz, csillag, érme, erőforrás stb.
+
+\u0009Használja a pontos keresést.
+
+2) Az érték ismeretlen és / vagy titkosított.
+\u0009Egy tipikus, ismeretlen értékű eset - bármilyen skála / bar. Például az egészségügy, a mana, a nitro, stb. A változások láthatók, de numerikus értékek nem láthatók.
+\u0009A typical case for encrypted values would be money, stars, coins, etc., but when searching with 1 algorithm does not find anything, or change of found values does not lead to numbers changing in the game.
+
+\u0009Használja a fuzzy keresést.
+
+
+3) Az érték titkosítva van (__mode_hacking__).
+\u0009A typical case for encrypted values would be money, stars, coins, etc., but when searching with 1 algorithm does not find anything, or change of found values does not lead to numbers changing in the game.
+
+\u0009Használja a pontos keresést, de mindig jelölje be a \"__mode_hacking__\" jelölőnégyzetet.
+\u0009A talált eredmények furcsa értékekkel rendelkezhetnek a titkosítás miatt.
+
+A 3. algoritmus sokkal gyorsabb, mint 2, de nem minden játéknál működik.
+
+4) Az érték nem titkosított, ismert és más ismert értékek közelében van elhelyezve.
+\u0009Egy tipikus eset az ár a boltban, hős statisztikákban stb.
+
+\u0009Egyszer használjon csoportos keresést minden számhoz.
+"</string>
+    <string name="help_hints">"* Tippek:
+
+\u0009* Nem minden játék __app_name__ által módosítható. Tipikus példák:
+\u0009\u0009* a szerveren tárolt adatok (szerveroldalú játékok)
+\u0009\u0009* A játéknak állandó internetkapcsolatra van szüksége
+\u0009\u0009* hálózati játék más játékosokkal
+\u0009\u0009* ki kell választania egy kiszolgálót, amely a játék elején csatlakozik
+\u0009\u0009* Nem használhat néhány dolgot internet nélkül
+\u0009\u0009* A játék újratölti az adatokat a szerverről, ha valamit megváltoztat
+\u0009* A látható értékek nem mindig azonosak a tárolás módjával. Különbözőek lehetnek. Például a képernyőn látható 34, de a memóriában az érték 34000.
+\u0009* Ha nem tudja módosítani az értéket - próbálja meg módosítani az értéket, ami befolyásolta ezt az értéket. Például az arany mennyiségének megváltoztatása helyett megváltoztathatja a dolog árát és eladhatja azt. Vagy vásároljon negatív áron.
+"</string>
+    <string name="help">Súgó</string>
+    <string name="help_floating_icon_title">Az úszó ikon</string>
+    <string name="help_exact_search_title">Pontos keresés</string>
+    <string name="help_speedhack_title">Speedhack</string>
+    <string name="help_group_search_title">Csoportos keresés</string>
+    <string name="help_others_title">Egyebek</string>
+    <string name="help_typical_usage_title">Tipikus használati algoritmusok</string>
+    <string name="help_hints_title">Tippek</string>
+    <string name="value_format">Értékformátum</string>
+    <string name="format_hex">Hex (kis végű) jelölés</string>
+    <string name="format_rhex">Fordított hex (big-endian) jelölés</string>
+    <string name="clear_selection">Tiszta kiválasztás</string>
+    <string name="invert_selection">Fordított kijelölés</string>
+    <string name="select_all">Mindet kiválaszt</string>
+    <string name="edit_selected">A kiválasztott szerkesztés</string>
+    <string name="delete_selected">A kiválasztott eltávolítása</string>
+    <string name="save_selected">Mentés kiválasztva</string>
+    <string name="nothing_selected">Nincs kiválasztva</string>
+    <string name="items_added">A mentett listához hozzáadott elemek (__d__)</string>
+    <string name="no_items_for_editing">Nincsenek szerkeszthető elemek.</string>
+    <string name="edit_info">__s__-es szerkesztés: __s__</string>
+    <string name="edit_all_info">__d__ cím szerkesztése: __s__</string>
+    <string name="autopause">Autopause játék:</string>
+    <string name="empty_list">"A mentett lista üres.
+Elemeket adhat hozzá a keresési eredménylistából vagy a memóriaszerkesztőből.
+Egyszerűen válassza ki a kívánt elemeket, és válassza a \"__save_selected__\" menüpontot.
+Egy másik módszer - egy érték szerkesztése és a \"__save_as__\" jelölőnégyzet bejelölése.
+Az összes fagyasztott érték automatikusan hozzáadódik ide."</string>
+    <string name="empty_save">A mentett lista üres. Semmi sem menthető.</string>
+    <string name="revert_selected">A visszaállítás kiválasztva</string>
+    <string name="nothing_to_revert">Semmi sem tér vissza</string>
+    <string name="revert_prompt">Visszaállítja a kiválasztott elemeket (__d__)?</string>
+    <string name="download">Az alkalmazás letölthető innen:</string>
+    <string name="format_string">String-ábrázolás</string>
+    <string name="forgot_h">"Végül elfelejtette a '__hex__' szót?"</string>
+    <string name="time_jump">Idő ugrás</string>
+    <string name="time_jump_hint">Adja meg az előreugró másodpercek számát:</string>
+    <string name="hide_from_game">__app_name__ elrejtése a játékból:</string>
+    <string name="last_stats">Az utolsó keresés statisztikája</string>
+    <string name="memory_access">Hozzáférés a memóriához:</string>
+    <string name="normal">Normál</string>
+    <string name="extended">Kiterjedt</string>
+    <string name="experimental">Kísérleti</string>
+    <string name="installing">A __app_name__ újratelepíti önmagát egy véletlenszerű névvel, hogy kizárja a játékok által történő felismerést. Várjon.</string>
+    <string name="failed_install">Nem sikerült telepíteni az alkalmazást. Próbálja újra?</string>
+    <string name="failed_uninstall">Nem sikerült eltávolítani az alkalmazást. Próbálja újra?</string>
+    <string name="download_it">Letöltés</string>
+    <string name="more">Több</string>
+    <string name="less">Kevésbé</string>
+    <string name="no_space">Nincs hely a készüléken</string>
+    <string name="install_cancel_prompt">__app_name__ érzékelhető, ha nincs telepítve. Tényleg törölni akarja?</string>
+    <string name="intercept">feltartóztat</string>
+    <string name="need_restart">A változások alkalmazásához a célalkalmazást újra kell indítani.</string>
+    <string name="must_be_root">"A program működéséhez a készüléknek gyökérnek kell lennie.
+
+A __app_name__ virtuális környezetben korlátozott módban működhet root nélkül. Például a __vspace_list__ és még sokan mások.
+További információkért olvassa el a súgót.
+
+Bármely eszköz gyökere: http://www.xda-developers.com/root/"</string>
+    <string name="skip_">Skip</string>
+    <string name="indent_for_the_status_bar">UI beillesztése a képernyő felső részéből:</string>
+    <string name="start_collecting_data">Indítsa el az adatok gyűjtését</string>
+    <string name="data_collecting_in_progress">Folyamatban lévő adatgyűjtés</string>
+    <string name="copy">Másolat</string>
+    <string name="show_logcat">Logcat megjelenítése</string>
+    <string name="path_must_be">Az útvonalnak legalább 2 karakter hosszúnak kell lennie, és a \"/\" jelzéssel kezdődik.</string>
+    <string name="fix_it">Javítsd meg</string>
+    <string name="change_log">Változási napló</string>
+    <string name="used_only_first">Csak az első __d__ tételt használták.</string>
+    <string name="need_select_more">Válassza ki a __d__ vagy több elemet.</string>
+    <string name="offset">Eltolt:</string>
+    <string name="result">Eredmény:</string>
+    <string name="copy_hex_value">A hex érték másolása:</string>
+    <string name="goto_pointer">Ugrás a mutatóra:</string>
+    <string name="offset_calculator">Offset számológép</string>
+    <string name="fill_toolbar">Töltse ki az eszköztárat:</string>
+    <string name="from_left">Balról</string>
+    <string name="from_center">Központtól</string>
+    <string name="from_right">Jobbról</string>
+    <string name="unit_years_short">y</string>
+    <string name="unit_days_short">d</string>
+    <string name="unit_hours_short">h</string>
+    <string name="unit_minutes_short">min</string>
+    <string name="unit_seconds_short">sec</string>
+    <string name="speed_info">__s__ valós időben = __s__ játékidő alatt</string>
+    <string name="search_helper">Segítő keresése:</string>
+    <string name="off">Ki</string>
+    <string name="go_to_game">Menj vissza a játékba, ha sok értéket találsz</string>
+    <string name="go_to_game_and_restore">Menj vissza a játékhoz, ha sok értéket találsz, és visszaállítod a következő keresési módot</string>
+    <string name="nothing">Semmi</string>
+    <string name="sort">Fajta</string>
+    <string name="sort_and_remove_duplicates">Rendezés és eltávolítás</string>
+    <string name="help_basics_title">Alapinformációk</string>
+    <string name="help_basics">"Az alkalmazás elindítása után a \"__start__\" gombra kattintva egy lebegő ikon jelenik meg a képernyőn. Bármilyen helyre húzható.
+Az ikon rövid megnyomásával megnyithatja a fő alkalmazási felületet, a hosszú érintse meg a panelt a játék sebességének megváltoztatásához.
+
+A főképernyőn látható:
+\u0009* A bal felső sarokban - a játék ikonja. A gomb megnyomásával kiválaszthat egy másik játékot.
+\u0009* A központban található könyvjelzők a lapok közötti navigáláshoz. A kívánt könyvjelző megérintésével megjelenik a megfelelő lap.
+
+Összesen 4 lap van: beállítások, keresés, mentett lista és a memóriaszerkesztő.
+\u0009* A felület jobb felső sarkában található a záró gomb. Nyomja meg, és az interfész rejtett lesz, és egy lebegő ikon jelenik meg a képernyőn.
+\u0009* A képernyő alján egy állapotsor és a szem ikon látható. Ha megnyomja és tartsa lenyomva a szem ikonját, az interfész átláthatóvá válik, amíg nem engedi el az ujját.
+\u0009* A képernyő többi tartalma attól függ, hogy melyik lapon van.
+
+Minden lapon, a beállítások lap kivételével van egy menü gomb, amely számos lehetséges műveletet tartalmaz. Ebben a lapon megtalálja a fő műveleteket.
+
+A Beállítások lap számos beállítást, segítséget és információt tartalmaz az alkalmazásról, valamint a kilépés gombot.
+
+A Keresés lap a következőket tartalmazza:
+\u0009* Szünet gomb, a kiválasztott játék neve, a találatok száma és a frissítési gomb.
+\u0009* Az alábbiakban egy gyors hozzáférési ikonok és egy menü gomb található. Minden ikon átmásolódik a menüben, így ha nem ismeri az ikon jelentését, akkor azt mindig a menügombra kattintva (jobbra) lehet megtekinteni.
+\u0009* Ezen ikonok alatt a keresési eredmények listája lesz.
+
+A mentett lista lap a következőket tartalmazza:
+\u0009* Szünet gomb, a kiválasztott alkalmazás neve, a menü gomb és a frissítési gomb.
+\u0009* Ezen ikonok alatt a mentett értékek listája lesz.
+
+A memóriaszerkesztő lap hasonló az előzőhöz, csak itt, a mentett értékek listájának helyett a memória tartalmát jeleníti meg.
+
+Mindhárom listában (a keresési eredmények, a mentett értékek és a memóriaszerkesztő) hosszú elemet érhetünk el az elemek megjelenítéséhez a helyi menü megjelenítéséhez."</string>
+    <string name="daemon_killed">"A démonot valami megölte.
+
+Általában ez lehet:
+\u00091. Minden memóriagyilkos vagy optimalizáló. Le kell tiltania a gyilkosokat, vagy hozzá kell adnia a __app_name__ fehér listáját a beállításaihoz.
+\u00092. __daemon_killed_oom__
+\u00093. A memóriakártyát lekapcsolták, míg a __app_name__ ideiglenes fájlokat tárolt rajta. Ennek megakadályozása érdekében adjon meg egy másik utat az ideiglenes fájlokhoz. Például a belső memóriában."</string>
+    <string name="bad_settings">Rossz beállítások</string>
+    <string name="freeze_lags">A fagyasztási értékek használata a __hide_from_game__ beállítással együtt késleltetést okozhat a játékban.</string>
+    <string name="improve_translation">Ezt a fordítást egy automatikus fordító hozta létre. A kollektív fordítási szolgáltatásunk segítségével javíthatod.</string>
+    <string name="freeze_interval">Fagyasztási idő:</string>
+    <string name="saved_list_update_interval">Mentett lista frissítése:</string>
+    <string name="milliseconds_short">Kisasszony</string>
+    <string name="disable_floating_windows">Kapcsolja ki az úszó ablakokat, és indítsa újra az alkalmazást</string>
+    <string name="enable_floating_windows">Engedélyezze az úszó ablakokat és indítsa újra az alkalmazást</string>
+    <string name="too_many">Túl sok</string>
+    <string name="help_range_search_title">Tartománykeresés</string>
+    <string name="help_range_search">"* Tartományi keresés:
+\u00091. Váltson __app_name__-re egy játékból.
+\u00092. Érintse meg a \"__search_known_value__\" gombot a \"__search__\" fülön.
+\u00093. Adjon meg egy határkeresési tartományt, amelyet \"__tilde__\" elválaszt. Például a 100 és 150 közötti értékek kereséséhez írja be:
+\u0009\u0009\u0009100__tilde__150
+\u0009\u0009A tartományon kívüli kereséshez a \"__tilde__\" karaktert kétszer adhatja meg:
+\u0009\u0009\u0009100__tilde____tilde__150
+\u0009\u0009Alternatívaként kiválaszthatja a \"__not_equal__\" jelet, és egyszer megadhatja a \"__tilde__\" karaktert.
+\u0009\u0009További szimbólumok beviteléhez használja a \"__btn_hex__\" gombot a belső billentyűzeten.
+\u00094. Válassza ki a megfelelő adattípust, vagy válassza ki a \"__type_auto__\" (ha nem biztos) és más opciókat (ha szükséges), majd kattintson a \"__search__\" gombra.
+\u00095. A keresés befejezése után a keresési eredmények a listában jelennek meg.
+\u00096. Vissza a játékhoz. Az érték megváltoztatása után váltson újra a __app_name__-re.
+\u00097. Ismételje meg a tartománykeresést megfelelő változtatásokkal.
+\u00098. Ha túl sok eredmény van, ismételje meg a 6. és 7. lépést.
+\u00099. Ha kevés eredmény van, megpróbálhatja módosítani, tárolni vagy befagyasztani az értéket.
+
+\u0009A keresési eredmények között található tartomány határa. Kiválaszthatja a \"__not_equal__\" keresés típusát, hogy megtalálja azokat az értékeket, amelyek nem tartoznak a tartományba.
+\u0009Ebben a keresésben minden érték aláírásnak tekintendő.
+"</string>
+    <string name="does_not_support">A \"__s__\" nem támogatja a \"__s__\" -t.</string>
+    <string name="range_bounds_diff_types">A tartományhatároknak ugyanolyan típusúnak kell lenniük.</string>
+    <string name="examples">Példák</string>
+    <string name="rtfm">További információkért olvassa el a segítséget.</string>
+    <string name="icons_size">Ikonok mérete:</string>
+    <string name="revert_and_remove">Visszatérés és eltávolítás</string>
+    <string name="remove">eltávolít</string>
+    <string name="ordered_group_search">Rendezett csoportkeresés</string>
+    <string name="load_items">példány</string>
+    <string name="load_values">értékek</string>
+    <string name="load_freeze">fagy</string>
+    <string name="video_tutorials">Videó oktatóanyagok és útmutatók a hackeléshez</string>
+    <string name="make_copy">Készíteni egy másolatot</string>
+    <string name="video">Videók</string>
+    <string name="ordered">Rendezett</string>
+    <string name="toolbars">Eszköztárak</string>
+    <string name="saved_list">Mentett lista</string>
+    <string name="memory_editor">Memóriaszerkesztő</string>
+    <string name="restart_game">Indítsa újra a játékot</string>
+    <string name="refine">Finomítsa</string>
+    <string name="internal_storage">Belső tároló</string>
+    <string name="external_storage">Külső tárhely</string>
+    <string name="new_search">Új keresés</string>
+    <string name="load_saved_list">Töltse be a mentett listát a fájlból</string>
+    <string name="save_saved_list">Mentse el a mentett listát a fájlba</string>
+    <string name="append">mellékel</string>
+    <string name="xor_key">XOR kulcs:</string>
+    <string name="only_memory">Csak a memória tartományon belül:</string>
+    <string name="dump_memory">Dump memória</string>
+    <string name="path">Pálya:</string>
+    <string name="dump_ended">Dump véget ért</string>
+    <string name="dump_failed">A dump meghibásodott</string>
+    <string name="eperm_error_defend">Nem sikerült csatolni a folyamathoz (PTRACE_ATTACH): A játék védett</string>
+    <string name="reset_on_exit">Visszaállítás a kilépéskor:</string>
+    <string name="kill_game">Öld meg a játékot</string>
+    <string name="kill_game_info">A folyamat erőszakos megszüntetése nem ad lehetőséget a folyamat leállítására, és adatvesztést vagy rendszerstabilitást okozhat.</string>
+    <string name="continue_ask">Folytatni?</string>
+    <string name="copy_memory">Memória másolása</string>
+    <string name="copy_from">Másolás:</string>
+    <string name="paste_to">Beillesztés:</string>
+    <string name="count_bytes">Bájtok száma:</string>
+    <string name="copy_ended">A másolási memória befejeződött</string>
+    <string name="copy_failed">A memóriamásolás sikertelen</string>
+    <string name="help_encrypted_search_title">Keressen titkosított értékeket</string>
+    <string name="help_encrypted_search">"* Titkosított értékek keresése:
+\u00091. Váltson __app_name__-re egy játékból.
+\u00092. Érintse meg a \"__search_known_value__\" gombot a \"__search__\" fülön.
+\u00093. Adja meg a játékban megjelenő számot.
+\u00094. Válassza ki a megfelelő adattípust, vagy válassza a \"__type_auto__\" (ha nem biztos benne), bármilyen más opciót (ha szükséges), jelölje be a \"__mode_hacking__\" -t, majd kattintson a \"__search__\" gombra.
+\u00095. A keresés befejezése után a keresési eredmények a listában jelennek meg.
+\u00096. Menj vissza a játékba. Az érték megváltoztatása után váltson újra a __app_name__-re.
+\u00097. Keresse meg a megváltozott értéket. A \"__mode_hacking__\" jelölőnégyzetet ellenőrizni kell.
+\u00098. Ha túl sok eredmény van, folytassa a 6. lépéssel.
+\u00099. Ha csak néhány eredmény maradt, megpróbálhatja módosítani, tárolni vagy befagyasztani az értéket.
+"</string>
+    <string name="help_faq_title">Gyakran Ismételt Kérdések</string>
+    <string name="help_faq_1_q">Miért nem adhatok meg 99 vagy 60 000-nél nagyobb értéket?</string>
+    <string name="help_faq_1_a">__type_byte__ vagy __type_word__ értéket talált. Keresse meg a __type_dword__-et, hogy nagyobb értékeket adjon meg.</string>
+    <string name="help_faq_2_q">Hogyan keressük a frakcionált (__type_float__) értékeket az érték frakcionált része nélkül?</string>
+    <string name="help_faq_2_a">Használja a \"__type_auto__\" adattípust vagy tartománykeresést. Például a 11.345-re \"10__tilde__12\" kereshet.</string>
+    <string name="help_faq_3_q">Megtaláltam az értéket és megváltoztattam, de a játékban ez a változás nem tesz semmit. Csak azt próbálom használni, de minden jön vissza. Mit csinálok rosszul?</string>
+    <string name="help_faq_3_a">"Egyes játékokban az értékek védettek vagy titkosítva vannak. Az érték megjelenítése előtt az értéket egy másik változóvá tesszük. Megváltoztatta.
+Mivel ezt az értéket csak megjelenítésre használják, ez nem befolyásolja a játékszerkezetet. A megjelenített érték helyett a reális érték megtalálásához használja a titkosított érték keresését vagy a fuzzy keresést.
+Néha az érték a szerveren tárolódik, és minden alkalommal szinkronizálódik. Ebben az esetben nem lehet szaggatni. Ha a játék nem működik az internet nélkül, és a korábbi módszerek nem segítettek - valószínűleg ez a helyzet."</string>
+    <string name="help_faq_4_q">Nem találja meg az értéket az X játékban. Vagy úgy találja, de ha megváltozik, semmi nem történik. Vagy találja meg, de miután megváltoztatta a játék összeomlását. Honnan tudhatom, mi a probléma, a védelem a játékban vagy a __app_name__-ben van?</string>
+    <string name="help_faq_4_a">"Egy egyszerű programot kell vennie, amely garantáltan nem rendelkezik védelemmel és próbálja ki. Én inkább a \"Hill Climb Racing\" -et szeretném használni. A játék egyszerű, egyszerű és nem tartalmaz védelmet. Ellenőrizheti a pénz hackelését, mint közvetlen számot, és a fuzzy keresést a változásokra.
+Ha ez az egyszerű játék hacker, akkor ebben az X-es játékban megpróbálták csapkodni. Ha nem, akkor a probléma __app_name__-ben van.
+Van még egy egyszerűbb lehetőség: \"Tap Counter\". Telepítse. Fuss. Próbáld meg kitörni a képernyőn megjelenő szalagok számát. Nagyon egyszerűnek kell lennie. Ha nem, akkor a probléma __app_name__-ben vagy annak beállításaiban van.
+Próbáljon meg egy másik __app_name__-es verziót, próbáljon meg keresni a fórumon megjelenő hiba leírását az adott témakörben vagy az interneten. Szélsőséges esetekben a fórumon kérdezhet."</string>
+    <string name="help_faq_5_q">Hogyan kereshetünk időt?</string>
+    <string name="help_faq_5_a">"\u0009- Próbálja meg a napok, órák, percek vagy másodpercek számát keresni. Az adattípus lehet __type_byte__, __type_word__, __type_dword__ vagy __type_qword__. __type_auto__ típus is használható.
+\u0009- Próbálj meg több milli- vagy nanoszekundumot keresni. Az adat típusa __type_dword__ vagy __type_qword__.
+\u0009- Próbálkozzon az unix időbélyegzővel való keresés végéig. Típus - __type_dword__. Ez az aktuális unix időbélyeg és a mentett különbség. Keresés a tartománykeresésen.
+Például, ha 30 nap van írva, akkor 30 +/- 1 napot keres az aktuális unix időbélyegzőtől. Az aktuális unix időbélyeg könnyen megtekinthető az interneten."</string>
+    <string name="help_faq_6_q">Lehet-e hackelni az online játékokat?</string>
+    <string name="help_faq_6_a">Lehetőség van a kliensen tárolt adatok hackelésére. A kiszolgálón semmit nem lehet szaggatni. A különböző játékok lehetnek különböző módon. Még az egyjátékos játékban is lehet, hogy néhány adat a szerveren található, és néhány nem.</string>
+    <string name="help_faq_7_q">Hol működik a gyorshajtás?</string>
+    <string name="help_faq_7_a">"Előfordulhat, hogy a Speedhack nem működik x86 eszközökön / emulátorokon olyan játékokhoz, amelyek nem rendelkeznek x86 könyvtárral.
+Az ART környezetben a speedhack nem működik a Java időzítőkkel. Ha a játék ezeket használja, és van egy ART környezet (általában Android 5 és újabb), akkor a gyorshajtás nem fog működni."</string>
+    <string name="help_faq_8_q">__app_name__ mint egész működik számomra, de néhány játékban megkapom a PTRACE_ATTACH hibát. Miért és mit kell tenni vele?</string>
+    <string name="help_faq_8_a">Ez a játék védelmet nyújt a SecNeo védelem típusú hibakeresés ellen. A __app_name__ nem tudja megkerülni ezt a védelmet. Ezzel nem tudod megragadni ezt a játékot.</string>
+    <string name="help_faq_9_q">Miért van egy ilyen furcsa csomagnév? Miért nem frissül az alkalmazás, de minden alkalommal külön telepítve? Miért van minden verzió más csomagnévvel?</string>
+    <string name="help_faq_9_a">Annak megakadályozására, hogy a csalás által okozott felismerés a csomag neve alapján történik.</string>
+    <string name="help_faq_10_q">Néhány játékban a sebesség megváltoztatásakor (gyorshajtás) nem válaszolnak a kattintásokra. Ez a játékvédelem vagy a programhiba?</string>
+    <string name="help_faq_10_a">Ez azt jelenti, hogy a gyorshajtás elfogja a bemeneti várakozási időzítőket, és meghal. Szükséges a zöld jelölőnégyzetek kiválasztása az időzítők listájában (a __app_name__ beállításaiban), hogy ez ne történjen meg.</string>
+    <string name="help_faq_11_q">Miért ad ki vesszővel elválasztott listát a hibákról?</string>
+    <string name="help_faq_11_a">Mivel a számok határolója pontosvessző (\"__semicolon__\").</string>
+    <string name="help_faq_12_q">Hogyan végezhetem egyszerre több keresést?</string>
+    <string name="help_faq_12_a">Jelenleg az alkalmazás ezt nem teszi lehetővé, de az alkalmazást többször is telepítheti és a másolatokat együtt futtathatja, ha elegendő memória és lemezterület áll rendelkezésre.</string>
+    <string name="help_faq_13_q">Kell-e frissíteni az alkalmazást, ha nincs semmi jelentős a változásokban?</string>
+    <string name="help_faq_13_a">Javasolt. A támogatás csak a legújabb verzióra vonatkozik.</string>
+    <string name="help_faq_14_q">Mik azok a szimbólumok? és a # a folyamat neve előtt?</string>
+    <string name="help_faq_14_a">"Ez jelzi a nyomon követett folyamatokat.
+\u0009\"#\" - mielőtt a folyamat azt jelenti, hogy más folyamat nyomon követi.
+\u0009\"!\" - a folyamat előtt ez a folyamat más folyamatot követ.
+A nyomkövetés tipikus a hibakereséshez vagy a hackeléshez. Néhány védelemben is használják. A \"#\" jelzésű folyamat általában védett folyamat."</string>
+    <string name="help_faq_15_q">Miért hajtja végre az alkalmazás a szokásos telepítést követően a saját telepítését, és a root jogosultságokat kéri?</string>
+    <string name="help_faq_15_a">A __app_name__ véletlenszerű adatokkal visszahelyezi magát, hogy megakadályozza a csalás elleni detektálást. A \"csendes\" telepítéshez és eltávolításhoz gyökér jogokra van szükség. Nem adhatod ki őket. Ebben az esetben manuálisan kell választ adnia a rendszer minden kérésére az alkalmazások telepítésére.</string>
+    <string name="help_faq_16_q">Mi az a __pkg__? Ez egy trójai vagy vírus? Biztonságos-e ez az alkalmazás root hozzáférése?</string>
+    <string name="help_faq_16_a">Ez a __app_name__ csomag alapneve. A root hozzáférés engedélyezése biztonságos, ha a __app_name__-et megbízható forrásból tölti le.</string>
+    <string name="help_faq_17_q">Miért van a __app_name__ a telepített alkalmazások listájában, amelyeket véletlenszerű karakterkészletnek neveznek? Miért kér ez a karakterkészlet hozzáférést? Miért írja le a __app_name__ elindításakor, hogy a gyökeret nem biztosítja a __app_name__, hanem valamilyen abracadabra?</string>
+    <string name="help_faq_17_a">Mivel a __app_name__ azt használja, hogy elrejtse magát az anti-csalások észlelésétől.</string>
+    <string name="help_faq_18_q">Miért van a __app_name__ a legújabb verziók, amelyeket néha anticheats, és néha nem?</string>
+    <string name="help_faq_18_a">Mivel a __app_name__ különböző dolgokat használ, hogy elrejtse magát az anti-csalások észlelésétől. Ez magában foglalja a véletlenszerű csomag nevét és alkalmazását. Minden telepítésnél különbözőek. Próbálkozzon újra a __app_name__ újratelepítésével. Talán ezután az anti-cheat megszűnik __app_name__.</string>
+    <string name="help_faq_19_q">Miért nem szerepel a játék az alkalmazáslistában?</string>
+    <string name="help_faq_19_a">Mivel ez a futó alkalmazások listája, és az alkalmazás nem fut. Futtassa, majd válassza ki azt a __app_name__-ben.</string>
+    <string name="help_faq_20_q">Miért nem válaszolnak a Java alkalmazások az Android 5-ös és annál magasabb szintű gyorshívásra?</string>
+    <string name="help_faq_20_a">Mivel a speedhack célja a natív könyvtárakkal rendelkező játékok. Az alkalmazás nem. És mivel az Android 5 a Dalvik helyett az ART környezetét használja, ami lehetetlenné teszi a Java időzítők elfogadását. Ne csinálj semmit. A helyzet nem változik a jövőben.</string>
+    <string name="help_faq_21_q">Az Android 4-en egy másik gyorshack / hacking eszközt használtam, és minden működött. Most __app_name__-et tettem az Android 5-ös és annál magasabb verzióra, de ezek a módszerek nem működnek. Miért?</string>
+    <string name="help_faq_21_a">"Mert sok dolog megváltozott, és a segédprogram nem fog működni. Ne hozza létre az illúziókat, hogy ez a __app_name__ olyan rossz, de ha van ilyen segédprogram, akkor uh! Nincs ilyen dolog.
+Ennek teszteléséhez telepítse a __app_name__-et Android 4-re, és ismételje meg ugyanazokat a műveleteket, mint az adott segédprogramban. Ennek eredményeként sikerül. De ez nem jelenti azt, hogy ugyanezek a módszerek az Android 5-ös és újabb verzióin is működnek.
+Ezt a tényt ismételten megerősítik."</string>
+    <string name="help_faq_22_q">Videómintát / screenshotokat nézek, és vannak más adatok a memóriaszerkesztőben. Miért?</string>
+    <string name="help_faq_22_a">Mivel a videó / képernyőkép más formátumú. A memóriaszerkesztőben nyomja meg a menüt - válassza a \"__value_format__\" opciót, és állítsa be a kimenetet úgy, ahogy kell.</string>
+    <string name="help_faq_23_q">Ha az érték befagyott, a játék elkezd fékezni vagy késleltetni. Miért?</string>
+    <string name="help_faq_23_a">Mivel a __app_name__ beállításaiban a \"__hide_from_game__\" opció engedélyezve van. Kapcsold ki.</string>
+    <string name="help_faq_24_q">Hogyan lehet letiltani az új verziók ellenőrzését az alkalmazás indításakor?</string>
+    <string name="help_faq_24_a">Semmiképpen.</string>
+    <string name="help_faq_25_q">Hogyan kell visszafelé visszaállítani az időt az alkalmazásban? Lehetséges, hogy egy idő nem ugrik előre, hanem hátra?</string>
+    <string name="help_faq_25_a">Semmiképpen. Nem tudsz. Az időnek mindig növekednie kell, különben a játék összeomlik. A legújabb verziókban azonban a negatív időugrás lehetőségét adtuk hozzá. Az eredmény lehet a játék elvesztése vagy az adatok elvesztése. Figyelmeztetni kell.</string>
+    <string name="help_faq_26_q">Bekapcsoltam az ikont, és eltűnt. Hogyan kaphatom vissza?</string>
+    <string name="help_faq_26_a">Az ikon átláthatóvá válik, de még rá is kattinthat. Kattintson ide, ahol volt, majd módosítsa a beállítást az interfészen keresztül.</string>
+    <string name="help_faq_27_q">Hogyan keressek egy értéket, ha azt a játékban kerekítjük? Például: 1,85M.</string>
+    <string name="help_faq_27_a">Keresse meg a keresési tartományt. A tartományhatárok a kerekítési szabályoktól függnek. Például a \"1845000__tilde__1854999\" szabványos kerekítéshez.</string>
+    <string name="help_faq_28_q">Hogyan keressek százalékos értéket? Például: 123__percent__.</string>
+    <string name="help_faq_28_a">Ez a végrehajtástól függ. Minden játék esetében mindegyik más lehet. Például 123__percent__. __type_float__ vagy __type_double__ lehet bármilyen értékkel. Mint 1.23 vagy 123.0. Vagy egész számok lehetnek: __type_byte__, __type_word__, __type_dword__. Például 123 vagy 12300. A kimeneten bizonyos számokra osztható. 100 vagy 345 vagy bármi más. Minden játék esetében más lehet. Megpróbálhatja a legnyilvánvalóbb eseteket. 123__percent__ esetében ez lehet 1,23 vagy 123. Típus - __type_auto__. Ha szerencséje van, akkor szükség lehet rá.</string>
+    <string name="help_faq_29_q">Mi van, ha a játék __app_name__ érzékeli?</string>
+    <string name="help_faq_29_a">"Próbálja ki a következő lehetőségek (önmagukban vagy bármilyen kombinációban):
+\u0009- Engedélyezze a „__hide_from_game__” lehetőségeket. Általában elég 2., 3. és 4. lehetőség.
+\u0009- Nem vonom vissza az újratelepítés __app_name__ véletlenszerű nevet. Ez úgy történik, először __app_name__ fut kívül virtuális térben.
+\u0009- A XPrivacy vagy hasonló segédprogramok. Nézni az interneten, hogy hogyan kell ezt csinálni.
+\u0009- Ha root jogokkal, felhasználással gyökér a virtuális térben rejtett alkalmazások telepítését. Bővebben keretében segítséget a „__vspace_root__” beállítást."</string>
+    <string name="work_without_selinux">Kapcsolja be a __selinux__-es munkát és indítsa újra az alkalmazást</string>
+    <string name="work_with_selinux">Váltás a __selinux__-es alkalmazáshoz és az alkalmazás újraindítása</string>
+    <string name="file">fájl:</string>
+    <string name="file_not_found">Fájl nem található:</string>
+    <string name="export_selected">Kiválasztott export</string>
+    <string name="failed_list_dir">A fájllistát nem sikerült elolvasni.</string>
+    <string name="change_float_type">Válassza ki a lebegő ablakok típusát</string>
+    <string name="reset_float_type">Állítsa vissza a lebegő ablakok típusát</string>
+    <string name="mask">Maszk:</string>
+    <string name="mask_request">Adja meg a keresendő címet</string>
+    <string name="help_mask_search_title">Cím (maszk) keresés</string>
+    <string name="help_mask_search">"* Cím (maszk) keresés:
+\u0009A cím alapján kereshet vagy szűrhet ki maszkot.
+
+\u0009Egy tipikus példa az ismert értékkel rendelkező címek keresése. Például: \"12E\".
+
+\u0009A keresési paraméterek a cím és a maszk.
+\u0009A címben használhatunk helyettesítő karaktereket (\"__question__\"). Ez a szimbólum azt jelenti, hogy bármely karakter \"0\" - tól \"F\" -ig terjedhet.
+\u0009Egy további maszk képződik a címből, így a vezető nullák fontosak. Így a \"0120\" keresés és a \"120\" keresés nem ugyanaz.
+\u0009Az első esetben: \"00010120\", \"00020120\", \"00030120\" és így tovább. Míg a másodikban: \"00001120\", \"00002120\", \"00003120\" és így tovább.
+
+\u0009Kereshet mind az egyenlőség, mind a maszk által jelzett egyenlőtlenség érdekében. A második lehetőség hasznos lehet a felesleges értékek kiküszöbölésére.
+
+\u0009A cím és a maszk be van írva a hexadecimális rendszerbe és a \"__hex__\" betű nélkül.
+\u0009A címből nyert maszk metszi az Ön által beírt maszkot. Ez a kapott keresőmaszk.
+
+\u0009Az alábbi példák egyenértékűek, mert az eredményül kapott maszk ugyanaz - \"FF0\"
+__mask_example__
+"</string>
+    <string name="use_sound_effects">Hanghatások használata:</string>
+    <string name="from_range">Tól től:</string>
+    <string name="to_range">Nak nek:</string>
+    <string name="resultant_mask">Következő maszk:</string>
+    <string name="show_time_jump_panel">Idő ugrás panel megjelenítése:</string>
+    <string name="use_notification">Értesítés használata:</string>
+    <string name="show_gg">__app_name__</string>
+    <string name="hide_gg">__app_name__ elrejtése</string>
+    <string name="time_remaining">Hátralevő idő:</string>
+    <string name="help_fill_title">Töltse ki (növekszik) értékeit</string>
+    <string name="help_fill">"* Töltse ki (növekmény) értékeit:
+\u0009Gyakran előfordul, hogy túl sok érték található, de nem változtathatók meg a játékból.
+\u0009Ebben az esetben a töltés a mentésre kerül.
+
+\u0009A használat tipikus példája az elem árának keresése, egy későbbi helyettesítésével negatív.
+
+\u00091. Válassza ki a kívánt elemeket.
+\u00092. Válassza a \"__edit_selected__\" lehetőséget.
+\u00093. Nyomja meg a \"__more__\" gombot a \"__increments__\" mező megjelenítéséhez, ha ez a mező nincs jelen.
+\u00094. A \"__increments__\" mezőben adja meg a növekmény értékét. Általában ez az 1. És kattintson a \"__yes__\" gombra.
+\u00095. A kiválasztott elemek új értékeket kapnak.
+\u00096. Lépjen a játékra, és nézze meg, hogyan változott a kívánt érték, a játék képernyőn haladva.
+7. Ha az érték nem változott, akkor a kívánt elem nem a kiválasztott. Visszatérés a __app_name__-re és a \"__delete_selected__\" -> \"__revert_and_remove__\" használatával távolítsa el a kijelölt elemeket, és adja vissza az előző értéket. Most már a kezdetektől mindent meg lehet próbálni más elemekkel, ha vannak ilyenek.
+\u00098. Ha az érték megváltozott, akkor a kívánt elem az egyik kiválasztott elem. Ne feledje az új értéket, és térjen vissza a __app_name__-re.
+\u00099. A kiválasztott elemek listájában keresse meg a kívánt értéket. Jelölje ki azt. Törölje az összes többi értéket a \"__delete_selected__\" -> \"__revert_and_remove__\" használatával, és adja vissza az előző értéket.
+\u000910. Módosítsa a kívánt elemértéket, amennyire szüksége van.
+
+\u0009A tipikus hibák a visszavonás nélküli eltávolítás. Ezt követően a játék összeomlik.
+
+\u0009Ha sok értéket talál, próbáljon kis adagokat kitölteni, hogy elkerülje az összeomlásokat.
+"</string>
+    <string name="help_hint_1">* Ha mindig a kívánt értékeket találja ugyanabban a régióban (az eredménylistában lévő elemek végén levő betűk), akkor a gyorsabb kereséshez csak ezeket a régiókat választhatja ki.</string>
+    <string name="help_faq_30_q">__app_name__ nagyon lassan és hosszú ideig keres a számítógépen az Android emulátorban.</string>
+    <string name="help_faq_30_a">"Valószínűleg a virtualizáció le van tiltva a PC BIOS-ban. Kapcsolja be.
+A __app_name__ az emulátor belsejében fut, így a sebessége az emulátor sebességétől függ.
+Ha a virtualizáció engedélyezve van, de a sebesség még mindig alacsony, ellenőrizze az emulátor beállításait, vagy használjon másik emulátort.
+Használhatja a másik eszközt - a CheatEngine for PC-t - gyorsabban fog keresni, és számos olyan funkciót keres, amely soha nem lesz a __app_name__-ben."</string>
+    <string name="help_speed_up_title">Hogyan lehet gyorsítani a keresést</string>
+    <string name="help_speed_up">"* A keresés gyorsítása:
+\u00090. Ha Android-emulátort használ egy számítógépen (BlueStacks, Droid4X, Andy, NOX, Memu, AMIDuOS, Windroy, AVD, Genymotion, Koplayer, Leapdroid stb.), Ellenőrizze, hogy a virtualizáció (VT technológia, Vanderpool technológia, virtualizációs technológia) , VTx, VT-d, VMX, virtuális technológia, Intel-VT, AMD-V, SVM, IOMMU) engedélyezve van a PC BIOS-ban.
+\u00091. Ha sok RAM van, akkor az adatokat ott tárolhatja. Ez nagyban felgyorsítja a keresést. Állítsa a \"__data_in_ram__\" beállítást a \"__yes__\" értékre. A számítógépen lévő Android emulátorban ez lassíthatja a keresést.
+\u00092. Ha kevés RAM van, az adatok a memóriakártyán tárolódnak. Használjon nagy írási és olvasási sebességű memóriakártyát.
+\u00093. Megadhatja az adatok belső memóriájában tárolt adatait is, ha gyorsabb, mint a memóriakártya. Állítsa a \"__set_path__\" beállítást a kívánt útvonalra.
+\u00094. A keresésnél válassza ki a kívánt régiókat. Kerülje a lassú (\"__slow__\") és veszélyes (\"__dangerous__\") régiókat.
+\u00095. Megadhatja a memóriatartomány határait a kereséshez, ha ismeri őket. Kattintson a \"__more__\" gombra a keresési párbeszédablakban, és írja be a határokat.
+\u00096. Keressen csak a kívánt típusú adatokat. A \"__type_auto__\" adattípus lassú.
+\u00097. Tiltsa le az összes lehetséges \"__hide_from_game__\" opciót.
+\u00098. Próbálkozzon a \"__experimental__\" vagy \"__extended__\" használatával a \"__memory_access__\" -ben. Ezek az opciók instabil munkához vezethetnek.
+"</string>
+    <string name="help_faq_31_q">Egy idő elteltével eltűnik a __app_name__ ikon.</string>
+    <string name="help_faq_31_a">"Próbálj meg rákattintni az ikonra. Ha ez a megnyitott __app_name__ interfész, akkor az ikon elrejtve van a beállításokban, vagy a firmware hibákat tartalmaz az ikon megjelenítésével.
+Ha az interfész nem nyílik meg, azt jelenti, hogy a __app_name__-et a memóriából eltávolították.
+Lehetséges okok:
+
+\u00091. Nincs elegendő RAM a készüléken - __app_name__ megölte a rendszer. Próbáljon kevesebb RAM-ot használni. A __app_name__-es beállításoknál ne adjuk meg a RAM-ban tárolt adatok tárolását, ne állítsunk be nagy számú megjelenített eredményt, ne töltsük ki az \"extra\" alkalmazásokat a RAM-ból, használjunk \"könnyű súlyú\" analógokat azokról az alkalmazásokról, amelyek nem tölthetők le (pl. ). Különösen rossz esetekben indítsa újra a készüléket a __app_name__ futtatása előtt. Szinte minden firmware mindig szivárgó RAM-ot tartalmaz. Több idő az újraindítás után - minél kevesebb RAM van.
+
+\u00092. Van egy olyan folyamatgyilkos, amely megöli a __app_name__-et.
+
+Tiltsa le a gyilkosokat, vagy adjon hozzá __app_name__-et a kivételekhez.
+A gyilkosok is mindenféle \"optimalizáló\" és \"javító\" a RAM.
+Általában lásd a szoftver leírását, ha nem tudja, hogy a gyilkos vagy sem.
+
+A FlyMe esetében: __app_name__ valamilyen oknál fogva, néhány perc után a terhelés után - engedélyeznie kell a munkát a háttérben a __app_name__ és a gyökérkezelő (általában a SuperSu) számára.
+
+You can also try to enable \"__use_notification__\" in __app_name__ settings. Sometimes this prevent kill __app_name__."</string>
+    <string name="quick_start_title">Gyors indítás</string>
+    <string name="prevent_unload">A kirakodás megakadályozása:</string>
+    <string name="hot_key">Gyorsbillentyű:</string>
+    <string name="hide">Elrejt</string>
+    <string name="execute_script">Végezze el a parancsfájlt</string>
+    <string name="execute">kivégez</string>
+    <string name="another_script">Egy másik szkript fut. Megszakítja?</string>
+    <string name="interrupt">Megszakítás</string>
+    <string name="script">Forgatókönyv:</string>
+    <string name="script_ended">Script befejeződött:</string>
+    <string name="paused">A játék szünetel:</string>
+    <string name="by_pause_button">a szünet gomb segítségével</string>
+    <string name="by_option">"a '__s__' opcióval"</string>
+    <string name="new_search_short">Új</string>
+    <string name="speedhack_loading">Speedhack betöltése ...</string>
+    <string name="speedhack_loaded">A Speedhack betöltődik.</string>
+    <string name="busy_dialog_fail">A haladás párbeszédablakot nem lehetett megjeleníteni.</string>
+    <string name="site">Webhely</string>
+    <string name="help_xor_search_title">XOR keresés</string>
+    <string name="help_xor_search">"* XOR keresés:
+\u0009\u0009Ha tudja, hogy a szükséges értéket egy olyan XOR gombbal titkosítjuk, amely mindig az értéktől távol van, akkor ezt az üzemmódot használhatja a dekódolt érték keresésére.
+\u00091. Váltson __app_name__-re egy játékból.
+\u00092. Érintse meg a \"__search_known_value__\" gombot a \"__search__\" fülön.
+\u00093. Adja meg a keresési számot és az XOR-kulcs távolságot, a \"__mode_xor__\" elválasztásával. Például, ha a 100-as értéket a 8-as távolságú kulcs segítségével kívánja keresni, írja be:
+\u0009\u0009\u0009100__mode_xor__8
+\u0009\u0009További szimbólumok beviteléhez használja a \"__btn_hex__\" gombot a belső billentyűzeten.
+\u00094. Válassza ki a megfelelő adattípust, vagy válassza ki a \"__type_auto__\" (ha nem biztos) és más opciókat (ha szükséges), majd kattintson a \"__search__\" gombra.
+\u00095. A keresés befejezése után a keresési eredmények a listában jelennek meg.
+\u00096. Vissza a játékhoz. Az érték megváltoztatása után váltson újra a __app_name__-re.
+\u00097. Ismételje meg a XOR keresést megfelelő módosításokkal.
+\u00098. Ha túl sok eredmény van, ismételje meg a 6. és 7. lépést.
+\u00099. Ha kevés eredmény van, megpróbálhatja módosítani, tárolni vagy befagyasztani az értéket.
+
+\u0009Az XOR keresést tartománytartományú keresés segítségével használhatja. Például \"100__tilde__150__mode_xor__8\".
+\u0009Általában az XOR keresés lassabb a szokásos számkeresésnél.
+\u0009Ez a mód nem támogatott a csoportkeresésben vagy a titkosított keresésben.
+\u0009A távolságnak 1 és 4096 között kell lennie.
+\u0009A hatótávolságot hatszög formában adhatja meg a __hex__ szimbólummal: \"100__tilde__150__mode_xor__10h\".
+\u0009A távolságnak tiszteletben kell tartania az értékeket. Például a dword-t 4 bájtos határhoz kell igazítani. Ez azt jelenti, hogy a \"40__mode_xor__7\" keresés dword számára haszontalan, mert 7 nem osztható 4-re.
+\u0009Ezt a módot kombinálhatja egy másik problémával, ami a rossz firmware-t okozhatja. Például, ha szokásos keresést végez, és ezt követően finomítja az XOR módot, ez a készüléket megszakíthatja vagy újraindíthatja. Ez nem történhet meg, ha az első keresés ebben az üzemmódban lesz.
+\u0009E mód fuzzy keresése nem támogatott. Kombinálhatja, de a fuzzy a szokásos módon működik, és ne tartsa tiszteletben az XOR-kulcsot távolsággal.
+\u0009Az értékek jeleit tiszteletben tartják. Ez azt jelenti, hogy nem lehet egyenlő, nagyobb, kisebb és így tovább keresni.
+\u0009Ebben a keresésben minden érték aláírásnak tekintendő.
+"</string>
+    <string name="help_faq_32_q">Mi a különbség a HW / SW változatban? És melyiket kell használni?</string>
+    <string name="try_latest">Talán ez a szkript a __app_name__ legújabb verzióját igényli. Próbálja meg frissíteni a legújabb verzióra.</string>
+    <string name="help_string_search_title">Szöveg (string, HEX, AoB) keresés</string>
+    <string name="download_scripts">Szkriptek letöltése</string>
+    <string name="hide_icons">Elrejtése indító ikonok</string>
+    <string name="select_mode">Válassza ki a módot</string>
+    <string name="mode_string">Szöveg</string>
+    <string name="mode_mixed">Vegyes</string>
+    <string name="string_search_prompt">Adjon meg egy keresendő szöveget, akár __d__ bájt hosszú. Például</string>
+    <string name="string_empty">Meg kell adnia egy szöveget.</string>
+    <string name="string_not_found">A \"__s__\" szöveg nem található.</string>
+    <string name="string_found">Talált __d__ találat a \"__s__\" szöveghez.</string>
+    <string name="string_replace">Ki akarja cserélni őket?</string>
+    <string name="string_replace_prompt">Adja meg a \"__s__\" helyettesítő szöveget. A hossza legfeljebb __d__ bájt.</string>
+    <string name="string_replaced">Replaced \"__s__\" to \"__s__\" in __d__ places.</string>
+    <string name="need_allow_background">Ebben a firmware-ben engedélyeznie kell a __app_name__-es munkát a háttérben, a rendszerbeállításokban.</string>
+    <string name="calculate_offset_xor">Számolja ki az eltolást, XOR</string>
+    <string name="select_copy_item">Válassza ki a másolni kívánt elemet:</string>
+    <string name="landscape">Tájkép</string>
+    <string name="portrait">portré</string>
+    <string name="toolbar_buttons">Eszköztár gombok</string>
+    <string name="need_update_to">A parancsfájl futtatásához a __app_name__-es újabb verzióra van szükség. Legalább __s__-es verzió. __s__-es verziója van.</string>
+    <string name="default_mark">alapértelmezett</string>
+    <string name="default_">Alapértelmezett:</string>
+    <string name="reset_button">Visszaállítás</string>
+    <string name="help_hex_colors_title">Színek a memóriaszerkesztőben</string>
+    <string name="help_hex_colors">"* __help_hex_colors_title__:
+Ha a hex reprezentáció nem fehér, hanem szín, akkor valószínűleg ebben az értékben a mutató. A szín azt jelzi, hogy a memória melyik típusára utal.
+Ez __executable__ memória, __writable__ vagy __read_only__ lehet. Ritkán __writable_and_executable__ memória lehet."</string>
+    <string name="executable">végrehajtható</string>
+    <string name="writable">írható</string>
+    <string name="read_only">csak olvasható</string>
+    <string name="writable_and_executable">írható és végrehajtható</string>
+    <string name="help_extract">Kivonja a segítséget</string>
+    <string name="help_extract_done">A segítséget __s__-re emelik</string>
+    <string name="help_extract_fail">Hiba történt a segítség kinyerésekor:</string>
+    <string name="try_arm_version">Próbálkozzon a __app_name__-es verzió használatával az idősebb ARM-processzorok támogatásával:</string>
+    <string name="back">Hát</string>
+    <string name="forward">Előre</string>
+    <string name="no_previous">Nincsenek korábbi bejegyzések</string>
+    <string name="no_next">Nincs következő bejegyzés</string>
+    <string name="from_item">Az elemből:</string>
+    <string name="from_context">A helyi menüből:</string>
+    <string name="from_boundary">A határtól</string>
+    <string name="from_goto">Hívás kezdeményezése</string>
+    <string name="from_calc">Az ofszet kalkulátorból:</string>
+    <string name="help_add_to_value_title">\"__add_not_replace__\" opció</string>
+    <string name="help_add_to_value">"* __help_add_to_value_title__:
+If this option is checked, the entered value will be added to the existing value, and not replace it. For example, the element has a value of 5, and you entered 7, in the value field. If this option is checked, the element will get a new value of 5 + 7, equal to 12. If not checked, then 7.
+Pozitív és negatív értékeket is megadhat.
+Ez az opció összeegyeztethetetlen az érték befagyasztásával."</string>
+    <string name="check_libs">Ellenőrizze a játékkönyvtárak architektúráját:</string>
+    <string name="arm_libs">"A játék ARM könyvtárakkal van telepítve, bár a apk-ban x86 könyvtárak vannak.
+A Speedhack és a vele kapcsolatos minden nem fog működni.
+A \"__skip__\" letiltja ezeket az ellenőrzéseket. A beállításokat újra be lehet kapcsolni."</string>
+    <string name="manual_install">A .apk fájlt manuálisan is telepítheti. A következő útvonalon található:</string>
+    <string name="as_text">Szövegként (nem tölthető be)</string>
+    <string name="as_text_help">Elmenti a listát szöveges formátumban, amely kényelmes az emberi olvasáshoz. A formátum betöltése nem támogatott.</string>
+    <string name="help_pointer_search_title">Mutató keresés</string>
+    <string name="help_pointer_search">Olyan értékeket keres, amelyek mutatók lehetnek a kívánt címre. Megadhatja a lehetséges eltolás maximális határértékét.</string>
+    <string name="all_memory">Minden memóriában</string>
+    <string name="offset_help">A lehetséges eltolás maximális határértéke.</string>
+    <string name="typical_values">Tipikus értékek</string>
+    <string name="su_command">Superuser parancs</string>
+    <string name="starts">Kezdődik</string>
+    <string name="ends">Végződik</string>
+    <string name="no_filter">Nincs szűrő.</string>
+    <string name="help_memory_filter_title">Szűrés a memóriaszerkesztőben</string>
+    <string name="help_memory_filter">"* __help_memory_filter_title__:
+Megadhat szűrőt a memóriaszerkesztőben. Csak azok a találatok jelennek meg, amelyek megfelelnek a szűrőnek.
+A szűrő a helyettesítő karaktereket támogatja:
+\u0009__caret__ - az adatok kezdete,
+\u0009__dollar__ - az adatok vége,
+\u0009__asterisk__ - bármilyen számú karakter,
+\u0009__question__ - az egyetlen karakter.
+Például a 42-es szám megkereséséhez be kell írnia a __caret__42__dollar__-et."</string>
+    <string name="use_sh">Használja a parancsfájlt</string>
+    <string name="backgrounds">Fekete háttér</string>
+    <string name="actions">Hozzászólások:</string>
+    <string name="game_settings">A játék beállításai:</string>
+    <string name="global_settings">Általános beállítások:</string>
+    <string name="ui_settings">UI-beállítások:</string>
+    <string name="others">Egyéb:</string>
+    <string name="skip_memory">Memóriaterületek átugrása:</string>
+    <string name="empty_memory">Üres</string>
+    <string name="without_protection">védelem nélkül</string>
+    <string name="help_games_protection_title">Hogyan lehet megvédeni a játékokat</string>
+    <string name="help_games_protection">"\u0009Néhány játék védelmet nyújt a memóriaszerkesztőkkel szemben. Próbálja meg a következőket:
+\u00091. \"__kill_game__\", majd \"__restart_game_without_protection__\".
+\u00092. \"__disable_protection__\", majd futtassa (vagy indítsa újra) a játékot.
+\u00093. Használja a \"__hide_from_game__\" tétel összes elemét vagy egy részét. Mindegyikük lassítja a keresést.
+\u00094. Keresés, amikor a játék minimalizálva van.
+\u00095. Keresés, ha a játék szünetel.
+\u00096. Öld meg vagy szüneteltessük a játék néhány védelmi folyamatát, ha a játéknak több folyamata van.
+\u00097. Használja az XPrivacy vagy hasonló eszközöket a védelem megkerüléséhez.
+\u00098. Használja a játék módosítását védelem nélkül.
+"</string>
+    <string name="disable_protection">Az összes alkalmazás védelme letiltása (újraindításig)</string>
+    <string name="must_restart_if">Ha a játékot a védelem letiltása előtt futtatja, újra kell indítania.</string>
+    <string name="patch_loading">A patch betöltése ...</string>
+    <string name="patch_loaded">A javítás betöltődik.</string>
+    <string name="patch_failed">A javítás nincs betöltve.</string>
+    <string name="history_limit">A történelem korlátja:</string>
+    <string name="copy_as_search">Másolás csoportos keresésként</string>
+    <string name="add_types">Típusok hozzáadása</string>
+    <string name="add_size">Csoportméret hozzáadása</string>
+    <string name="copy_rhex_value">Másolja a fordított hex értéket:</string>
+    <string name="mips_arch">Ez az alkalmazás nem támogatja a MIPS architektúrát.</string>
+    <string name="unrandomizer">Unrandomizer</string>
+    <string name="functions">funkciók</string>
+    <string name="help_unrandomizer">"
+Az unrandomizer egy olyan funkció, amely a játékokban általánosan használt bizonyos funkciók helyettesítésére szolgál véletlenszerű értékek előállításához. Egy nagyon egyszerű szinten például egy játék lehet, hogy egy randomizáló funkciót használ a játékos jutalmának meghatározására. Az unrandomizátor bekapcsolása a __app_name__-et arra készteti, hogy megpróbálja helyettesíteni ezt a véletlen értéket a megadott értékkel, hogy megváltoztassa az eredményt (például egy bizonyos jutalom megszerzéséhez).
+
+Az unrandomizer nem minden esetben fog működni. Csak azokat a funkciókat fogja kezelni, amelyekről ismer. A legtöbb esetben és a legtöbb felhasználó esetében ez nem használható, mivel ez inkább egy fejlett / kísérleti funkció.
+
+Néhány funkció __type_qword__, néhány - __type_double__ (ritkán használt) visszatér.
+
+A __type_double__ értékeknek 0-tól 1-ig kell lenniük. Bármilyen értéket is megadhat, mert a __app_name__ automatikusan korrigálja az összes hibás változatot.
+
+Megadhat egy lépést is. Ebben az esetben minden további eredmény ezzel az értékkel növekszik. Például az 1. növekmény és a 0 kezdeti érték helyett véletlenszerű érték helyett 0, 1, 2, 3, ... vissza fog térni.
+Ez az opció hasznos lehet az összes lehetséges véletlen eredmény teljes kereséséhez.
+
+Megadhatja, hogy mely funkciókat módosítsa a __app_name__ beállításokban.
+"</string>
+    <string name="count_replace">Hány első eredményt kell cserélni?</string>
+    <string name="unrandomizer_loading">Unrandomizer betöltése ...</string>
+    <string name="unrandomizer_loaded">Unrandomizer van betöltve.</string>
+    <string name="warn_restart_off_prot">"Ez az opció megpróbálja újraindítani a játékot védelem nélkül.
+Sok firmware azonban olyan hibákat tartalmaz, amelyek a készülék újraindítását okozhatják.
+Ha ez megtörténik, ne próbálja újra elindítani a játékot, mivel ez újraindítja az eszközt.
+Csak futtassa a __app_name__-et - törli a rossz beállításokat.
+Azt is megpróbálhatja újraindítani az eszközt rendszeresen, ez is megoldja a problémát.
+
+Ha az újraindítás megtörtént - ne használja ezt a funkciót, akkor nem fog működni a firmware-en."</string>
+    <string name="warn_patch_off_prot">"Ez az opció megpróbálja javítani a rendszert (ideiglenesen), hogy minden alkalmazás védelem nélkül futhasson.
+A módosítások csak az új alkalmazásokra vonatkoznak. Ezért a sikeres alkalmazást a sikeres javítás után újra kell indítani.
+A javítás törléséhez indítsa újra a készüléket.
+Talán különböző hibák lesznek a rendszerben, a javítás után.
+
+Ha a javítás sikeres, a készülék újraindítása előtt nem ajánlott újra futtatni ezt a funkciót.
+
+Ha problémája van, ne használja ezt a funkciót."</string>
+    <string name="clear_history">Tiszta bemeneti előzmények</string>
+    <string name="clear_history_warn">Minden bejegyzés, beleértve a rögzített adatokat is, törlődik.</string>
+    <string name="click_edit">Kattintson ide a szerkesztéshez</string>
+    <string name="ignore_unknown_chars">Az ismeretlen karakterek figyelmen kívül hagyása:</string>
+    <string name="need_root_mode">Ez a funkció root hozzáférést igényel. Jelenleg __app_name__ virtuális környezetben fut root hozzáférés nélkül.</string>
+    <string name="work_without_root_title">Gyökér nélkül</string>
+    <string name="work_without_root">"A __app_name__ képes virtuális környezetben root nélkül működni. Például a __vspace_list__ és még sokan mások.
+A __app_name__-et virtuális környezetben kell telepíteni. A játékot ott is telepíteni kell.
+A program minden funkciója nem támogatott, de a legtöbb funkciónak működnie kell.
+
+Nem lesz képes olyan virtuális környezetben nem telepített játékokat feltörni.
+
+A __app_name__ első indítását, amely újratelepítést hajt végre véletlenszerű csomagnévvel, nem szabad virtuális környezetben végrehajtani.
+Ezután hozzáadhat __app_name__-et a virtuális környezethez és a használathoz."</string>
+    <string name="help_game_not_listed_title">Miért nem szerepel a játék a folyamatlistában?</string>
+    <string name="fractional_hint">"Az \"x\" valós szám töredéke az a szám, amely túlmutat a szám egész részén.
+Egy szám esetében a töredékrész tehát a radix pont után megjelenő számjegyek.
+
+Például:"</string>
+    <string name="pointer">Mutató:</string>
+    <string name="help_search_filter_title">Szűrők a keresésben</string>
+    <string name="help_search_filter">"Szűrheti a keresési eredményeket.
+Megadhatja:
+\u0009- a cím korlátozása,
+\u0009- az értékhatárok,
+\u0009- a szükséges adattípusok,
+\u0009- a szám kívánt része,
+\u0009- a kívánt mutatótípus.
+Bármely szűrőt egymással kombinálhat.
+Az egyik vagy bármelyik szűrőt bármikor letilthatja.
+
+Ha azonban nagy mennyiségű adatot találunk, a szűrők lassíthatják az eredményeket.
+
+Egy szám frakcionális részén lévő szűrő lehet egyenlőség vagy egyenlőtlenség.
+Az egész számoknál a frakcionális rész nulla. Ha nem kell egész számtípusokat használni, akkor ne használjon típusú szűrőt.
+
+A pointer típus szerinti szűrő lehetővé teszi, hogy a kimenetbe csak azokat az értékeket hagyja, amelyek a kívánt memória típusra mutató mutatónak tekinthetők.
+A lehetséges memória típusok megfelelnek a memóriaszerkesztő színeinek:
+Ez __executable__ memória, __writable__ vagy __read_only__ lehet. Ritkán __writable_and_executable__ memória lehet.
+
+A pszeudo-típusú \"nincs mutató\" minden olyan adattípusnak felel meg, amely nem lehet mutatók, valamint azoknak a mutatóknak az értékeihez, amelyek a fel nem osztott memóriára mutatnak."</string>
+    <string name="unmount_kill">"A memóriakártya lekerült, míg a __app_name__ ideiglenes fájlokat tárolt rajta. Ez a démon kényszer bezárásához vezetett.
+
+Ennek megakadályozása érdekében adjon meg egy másik utat az ideiglenes fájlokhoz. Például a belső memóriában.
+Legyen elég szabad hely."</string>
+    <string name="calls">Rendszerhívási mód:</string>
+    <string name="alternative">Alternatív</string>
+    <string name="help_calls">"Egyes firmware-ek, például a Lenovo, az alternatív mód gyorsabban működhet.
+
+Általában nem kell módosítania ezt az opciót."</string>
+    <string name="help_context_title">Kontextusos segítség</string>
+    <string name="help_context">"Az interfészben egyes elemek egy speciális ikonnal vannak jelölve, a jobb felső sarokban, a __i__ szimbólummal a körben.
+Ha megnyomja vagy megnyomja ezt az elemet, ez az elem segítséget nyújt."</string>
+    <string name="waitpid_mode">__waitpid__ mód:</string>
+    <string name="help_waitpid">"Néhány firmware esetében a __waitpid__ rendszerhívás nem működik a várt módon. Ez általában a helytelen SeLinux beállítások miatt következik be.
+Ez végtelen keresést eredményez a __app_name__-ben.
+Megpróbálhat alternatív módot használni. Talán ez fog működni."</string>
+    <string name="microseconds_short">us</string>
+    <string name="small_is_bad">Túl kicsi értékek nagy terhelést okozhatnak a processzoron és késleltethetik a játékot.</string>
+    <string name="freeze_interval_help">A __app_name__ közötti időköz felülírja a játék memóriájában lévő értékeket.</string>
+    <string name="saved_list_update_interval_help">A __app_name__ által frissített intervallum a mentett listában.</string>
+    <string name="icons_size_help">"A __app_name__ interfész ikonjainak mérete.
+Nem vonatkozik úszó ikonra."</string>
+    <string name="ignore_unknown_chars_help">Segít megoldani a problémákat a számok különböző helyeken történő másolásakor, ha a számokkal együtt speciális karaktereket másol.</string>
+    <string name="use_notification_help">"Értesítések használata az Android rendszer értesítési területén.
+Néhány firmware-nél ez növeli az alkalmazás prioritását, és megakadályozza annak bezárását.
+Használhatja a bejelentést a __app_name__-re vagy a játékra kattintva.
+Ez akkor hasznos lehet, ha nem tud a lebegő ikonra kattintani."</string>
+    <string name="use_sound_effects_help">"A gombok és elemek megnyomásakor a rendszer hangzik.
+Néhány firmware-n a hangok a __app_name__-es készülék összeomlásához vezetnek."</string>
+    <string name="keyboard_help">A belső billentyűzet kevesebb memóriát vesz fel, gyorsabban tölt be, és a számok bevitelére optimalizált.</string>
+    <string name="allow_suggestions_help">"Tippek egy külső billentyűzetről.
+Néhány firmware-ben a tippek a __app_name__-es készülék összeomlását okozják."</string>
+    <string name="autopause_help">A __app_name__ interfész megnyitásakor a játék automatikusan szünetel.</string>
+    <string name="killed_by">A __app_name__ számú szabadalmi bejelentést \"__s__\" alkalmazás zárta. Ennek elkerülése érdekében törölje ezt az alkalmazást, vagy úgy konfigurálja, hogy ne szüntesse meg a __app_name__-et.</string>
+    <string name="killers_found">"Telepítette azokat az alkalmazásokat, amelyek kényszeresen bezárhatják a __app_name__-et:
+__s__
+Ennek elkerülése érdekében törölje őket, vagy konfigurálja azokat úgy, hogy ne szüntessék meg a __app_name__-et.
+
+Ha nem tapasztal problémát a __app_name__ váratlan bezárásával, akkor semmilyen művelet nem szükséges, és figyelmen kívül hagyhatja ezt az üzenetet."</string>
+    <string name="record_logcat">__logcat__ rekord</string>
+    <string name="record_logcat_info">"A __app_name__ fájl újraindul a __logcat__-es felvételre a fájlba:
+\"__s__\".
+
+A felvétel befejezéséhez lépjen ki a __app_name__-ből.
+Ezután elküldheti a naplófájlt, ahol szüksége van rá."</string>
+    <string name="need_uninstall">El kell távolítania a telepítőt, különben 4 ikonra lesz szükség, nem pedig 2-re.</string>
+    <string name="need_random_name">"A __app_name__ szabványos csomagnevet használ. A játékok észlelhetik.
+
+A __app_name__-es futás megszüntetése a virtuális téren kívül normál alkalmazásként.
+A telepítés befejezése után adjon hozzá egy __app_name__-es példányt egy véletlenszerű névvel a virtuális térhez."</string>
+    <string name="work_mode">Munka mód</string>
+    <string name="root">gyökér</string>
+    <string name="no_root">nincs gyökér</string>
+    <string name="how_no_root">"Telepítenie kell a virtuális tér alkalmazást. Például: __vspace_list__.
+
+Ajánlott az optimális verziók telepítése a hivatalos __app_name__ webhelyről.
+
+Ezután hozzá kell adnia a __app_name__-et és a játékot ehhez a virtuális térhez.
+
+Ezt követően a játékot és a __app_name__-et futtatni kell a virtuális térben."</string>
+    <string name="eperm_error_descr_0">Lehetséges okok:</string>
+    <string name="eperm_error_descr_1">Védelem a játékban.</string>
+    <string name="eperm_error_descr_2">Egy másik hibakereső vagy krakkoló is kapcsolódik a játékhoz.</string>
+    <string name="eperm_error_descr_3">Nem megfelelő engedélyek. Általában a __selinux__ helytelenül konfigurált. A __selinux__ letiltása vagy beállítása.</string>
+    <string name="eperm_error_descr_4">Rossz rendszermag vagy firmware. Próbáljon meg másik firmware-t vagy más eszközt.</string>
+    <string name="eperm_error_descr_5">A firmware-en a \"nem root\" mód nem működik. Próbáljon meg másik firmware-t vagy más eszközt vagy gyökeret.</string>
+    <string name="ptrace_bypass_mode">Kerülési mód a nyomkövetés védelméhez:</string>
+    <string name="mode_restore">visszaállítás</string>
+    <string name="mode_nothing">semmi</string>
+    <string name="mode_freeze">fagy</string>
+    <string name="ptrace_bypass_mode_help">"Azt jelzi, hogy mit kell tennie a védelmi kapcsolat letiltása után:
+\u0009__mode_restore__ - kapcsolat visszaállítása
+\u0009__mode_nothing__ - nem tesz semmit (általában a védelem maga helyreállítja a kapcsolatot)
+\u0009__mode_freeze__ - a fonal befagyasztása (mint a korábbi verziókban)
+
+Ha visszaállítja a védelmet, vagy megengedi, hogy a védelem önmagában történjen, a __app_name__ számú értékek befagyasztása késleltetést okozhat a védelem állandó kapcsolása / letiltása miatt."</string>
+    <string name="slow_emulator">"A \"__s__\" emulátort használja. Ez lassú és hibákat tartalmaz. Emiatt a keresés nagyon lassú lehet.
+
+Javasoljuk más emulátorok használatát:"</string>
+    <string name="text">Szöveg</string>
+    <string name="show_debug_info">A hibakeresési információ megjelenítése</string>
+    <string name="mnt_expand">"A __app_name__ egy memóriakártyára van telepítve, amelyet \"belső tároló\" -ként használnak.
+Ez zavarhatja a virtuális terek működését.
+Ilyen esetben telepítse a __app_name__ készüléket a készülék belső memóriájába.
+Előfordulhat, hogy a memóriakártyát \"hordozható tárolónak\" kell formázni."</string>
+    <string name="help_game_not_listed_root">"A játéknak úgy kell futnia, hogy kiválasztja azt.
+
+Ha a játék fut, de mégsem szerepel a listában, akkor talán problémái vannak a gyökérrel vagy a firmware-sel.
+Próbáljon meg másik gyökér vagy más firmware-t."</string>
+    <string name="help_game_not_listed_noroot">"A játékot a virtuális térben kell elindítani úgy, hogy azt ki lehessen választani.
+
+Nem választhatja ki a játékot, ha nem fut a virtuális térben.
+
+Ha a játék a virtuális térben fut, de mégsem szerepel a listában, próbáljon ki egy másik virtuális helyet, egy másik firmware-t, egy másik eszközt, vagy kap egy gyökeret."</string>
+    <string name="daemon_killed_oom">"A démon meggyilkolta a rendszer a memória hiánya miatt.
+
+Állítsa a \"__data_in_ram__\" értéket a \"__no__\" értékre.
+Ha lehetséges, használja az interfész hardveres gyorsítását.
+Ne használjon nagy alkalmazásokat.
+Az összes többi nem használt alkalmazás letiltása.
+A készülék újraindítása után próbálja meg használni a __app_name__-et."</string>
+    <string name="selected_as_search_result">Kiválasztott keresési eredményként</string>
+    <string name="clear_results_prompt">Ez helyettesíti az aktuális keresési eredményeket. Folytatni?</string>
+    <string name="position_in_memory_editor">Pozíció a memóriaszerkesztőben</string>
+    <string name="script_prompt_internet">"A szkript az internethez kíván hozzáférni. Ha engedélyezi a hozzáférést, a parancsfájl képes lesz elfelejteni a bejelentkezéseket, jelszavakat, mentéseket és egyéb adatokat a játékból. Azt is képes lesz ellopni a többi szkriptet, vagy letöltheti a vírusokat a készülékre.
+
+Hagyja, hogy a szkript hozzáférjen az internethez?"</string>
+    <string name="level">Szint</string>
+    <string name="float_prompt">"A __app_name__ megfelelő működéséhez a __s__ rendszerbeállításoknál engedélyeznie kell a használati felugró ablakokat.
+
+A felugró ablak nem jelenik meg alapértelmezés szerint a Huawei telefonokon. __s__-nek engedélyeznie kell a felugró ablak megjelenítését. Kérjük, nyissa meg a Telefonkezelőt, majd a Dropzone menedzsmentet, és győződjön meg róla, hogy be van kapcsolva a __s__-re.
+
+A felugró ablak nem jelenik meg néhány Xiaomi telefonon. A Beállítások -> Telepített alkalmazások -> __s__ -> Egyéb jogosultságok -> Előugró ablak megjelenítése.
+
+Más telefonoknál különböző eljárások is lehetnek, amelyek lehetővé teszik, hogy az alkalmazások megjelenítsék a felugró ablakokat. Az ilyen alkalmazások általában ilyen módon érintik, például a Google Fordító alkalmazást a Tap To Translate funkcióval. Ezért egyszerűen megoldhatja a megoldást a Google \"YOUR_PHONE megérintésével\". Például a Xiaomi Redmi készülékek esetében a megoldás a következő:"</string>
+    <string name="virtual_space">Virtuális tér alkalmazás</string>
+    <string name="prevent_unload_help">"Megakadályozza a __app_name__ kirakodást a memóriából (szoros zárás).
+
+Minden további szint erősebb, mint az előző, és magában foglalja azt.
+
+A harmadik szint problémákat okozhat (lóg a pirítós, újraindítás vagy összeomlás) néhány firmware-en és emulátoron.
+
+Gyökér nélkül csak a harmadik szint működik."</string>
+    <string name="integer_type">Ez az adattípus csak egész értékekre vonatkozik, és nem támogatja a részleges értékeket. Használja a __type_float__ vagy a __type_double__ értéket frakcionális értékekre.</string>
+    <string name="without_float">A __app_name__-et lebegő ablakok nélkül is használhatja:</string>
+    <string name="any_value">bármilyen értéket</string>
+    <string name="help_group_search_any_value">A __any__-et egy rendezett csoportkeresésben használhatja a minimális méret mellett, hogy megadja az adott típusú értéket a kívánt pozícióban.</string>
+    <string name="help_scripts_title">Scripts</string>
+    <string name="help_scripts">"* __help_scripts_title__:
+__app_name__ támogatja a Lua-ban írt szkriptek végrehajtását.
+
+A keresési lapon kattintson a menüre, és válassza a \"__execute_script__\" lehetőséget.
+Itt kiválaszthatja a végrehajtásra szkriptfájlt, lásd a meglévő __app_name__ API-módszereket, vagy lépjen a hivatalos webhelyre az API-s segítségért vagy a kész parancsfájlok letöltéséhez.
+Továbbá kiválaszthat segítséget a memóriakártyán lévő API-ról az internet nélkül történő olvasásához.
+
+Ha saját szkriptet szeretne írni, akkor szüksége lesz egy külső szövegfájl-szerkesztőre.
+A __app_name__ nem teszi lehetővé a szkriptek szerkesztését, csak végrehajtja őket.
+
+További részletekért olvassa el az API-s segítséget."</string>
+    <string name="help_floating_icon_absent">Ha a \"__start__\" gombra kattintva nem látsz úszó ikon:</string>
+    <string name="remove_all2">Összes eltávolítása</string>
+    <string name="debug_load">Töltse le az összes kódterhelést</string>
+    <string name="debug_log">Jelentkezzen be a legtöbb szkripthívásra</string>
+    <string name="vspace64">"__app_name__-et futott egy virtuális térben, amely támogatja a 64 bites folyamatokat.
+
+A __app_name__ nem fogja látni a 32 bites folyamatokat ezen a helyen.
+
+Telepítse a __app_name__ második példányát a \"__for32__\" módba, ha __app_name__-ben szeretne dolgozni 32 bites folyamatokkal."</string>
+    <string name="folder_new">Új mappa</string>
+    <string name="folder_exists">Ez a mappa már létezik</string>
+    <string name="folder_file">Van egy ilyen nevű fájl</string>
+    <string name="folder_failed">A mappa létrehozása nem sikerült</string>
+    <string name="force_close">"Az előző alkalmazás leállása váratlan volt.
+
+A \"__prevent_unload__\" konfigurációs szintet a jövőben elkerülheti."</string>
+    <string name="help_force_close_title">Váratlan leállás</string>
+    <string name="install_mode">Telepítési mód</string>
+    <string name="for32">A 64 bites virtuális tér 32 bites játékainak hackeléséhez</string>
+    <string name="for64">64 bites játék 64 bites virtuális térben</string>
+    <string name="reset_ignore">Az összes párbeszédablak alaphelyzetbe állítása figyelmen kívül marad</string>
+    <string name="allocate_fail">Nem sikerült kiosztani a memória oldalt. Hiba</string>
+    <string name="allocated">Elosztott memóriaoldal:</string>
+    <string name="allocate_page">Memóriaoldal hozzárendelése</string>
+    <string name="prot_read">Lehet olvasni</string>
+    <string name="prot_write">Lehet írni</string>
+    <string name="prot_exec">Végrehajtható</string>
+    <string name="install_finished">"A telepítés sikeres volt.
+A telepített másolatot manuálisan futtassa úgy, hogy az adatokat át tudja vinni.
+Ezt követően a telepítő eltávolítható."</string>
+    <string name="odd_vspace">__app_name__ indult a virtuális térben?</string>
+    <string name="record_script">Felvétel szkript</string>
+    <string name="record">Rekord</string>
+    <string name="another_record">Egy másik rekord fut. Hagyd abba?</string>
+    <string name="record_ended">Felvétel kész:</string>
+    <string name="stop">Állj meg</string>
+    <string name="could_not_use">Nem használható:</string>
+    <string name="not_optimized2">"A virtuális tér nem optimalizált változatát használja (\"__s__\").
+A hiba javításához távolítsa el a \"__s__\" nem optimalizált változatát, és telepítse az egyik optimalizált virtuális teret a __app_name__ hivatalos oldalról.
+Kattintson a \"__fix_it__\" gombra az optimalizált virtuális terek kiválasztásához."</string>
+    <string name="fix_path">A \"__fix_it__\" gombra kattintva szabad helyet adhat meg, vagy más útvonalat adhat meg az ideiglenes fájlok számára.</string>
+    <string name="deep_read">Mélyen olvasott:</string>
+    <string name="help_deep_read">"A memória olvasása minden rendelkezésre álló módszerrel, ha nem olvasható.
+Lelassíthatja a memóriaolvasásokat."</string>
+    <string name="ptrace_fail">Nem sikerült megváltoztatni a memóriát a ptrace segítségével.</string>
+    <string name="ptrace_fail_partially">Egyes funkciók, a gyorshajtás és az ahhoz kapcsolódó minden nem fog működni. Az írásvédett memóriába (beleértve a kódot is) történő írás nem lehetséges.</string>
+    <string name="ptrace_fail_full">A funkciók abszolút többsége nem fog működni.</string>
+    <string name="ptrace_fail_solve">"A tipikus ok egy törött kernel a firmware-ben.
+Próbálja meg módosítani a firmware-t. Ha nemrég frissítette, telepítse az előző verziót.
+
+Ha ez nem működik, cserélje ki az eszközt."</string>
+    <string name="feature_hide_4">Ez a funkció nem működik, ha a negyedik elem a __hide_from_game__-ben van kiválasztva.</string>
+    <string name="feature_firmware">Ez a funkció nem működhet ptrace nélkül, ami nem működik ezen a firmware-en.</string>
+    <string name="feature_protection">Ez a funkció nem működik a játékban lévő védelem miatt.</string>
+    <string name="not_file">Az út nem fájl:</string>
+    <string name="not_execute">Nem hajtható végre:</string>
+    <string name="check_install">Ellenőrizze, hogy a __app_name__ megfelelően van-e telepítve.</string>
+    <string name="sdcard_install">Ha a __app_name__ telepítve van külső tárolóeszközön (SD-kártya), küldje vissza a belső memóriába</string>
+    <string name="change_address_type">Cím / típus módosítása</string>
+    <string name="bad_offset">Az eltolás nem __d__-es többszöröse.</string>
+    <string name="bad_result_address">Az ebből eredő cím nem __d__ többszöröse.</string>
+    <string name="correct_types">A __d__ elem megváltoztatja annak típusát, hogy korrigálja a lehetséges beállítást.</string>
+    <string name="reinstall_fail">"Nem lehet újra telepíteni a __app_name__-et véletlenszerű névvel.
+
+A __app_name__-es játékok könnyen felismerhetők.
+
+A telepítés során __logcat__-et rögzíthet, és forduljon a hivatalos fórumhoz.
+
+Elutasítási ok:"</string>
+    <string name="empty_field">Üres beviteli mező: nincs szám konvertálni</string>
+    <string name="need_integer">Meg kell adnia egy konvertálandó egész számot.</string>
+    <string name="maps_failed">Nem sikerült megnyitni a \"__maps__\" fájlt.</string>
+    <string name="game_protected">A játék védett.</string>
+    <string name="need_root">Szükségem van gyökérre, hogy ezt a játékot szaggassuk.</string>
+    <string name="vspace_error">"A virtuális tér vagy a firmware vagy az eszköz problémája.
+
+Próbáld ki:
+\u0009- használjon másik virtuális teret
+\u0009- használjon másik firmware-t
+\u0009- gyökér
+\u0009- használjon másik eszközt"</string>
+    <string name="root_error">"A firmware vagy a root vagy az eszköz problémája.
+
+Próbáld ki:
+\u0009- használjon másik firmware-t
+\u0009- használjon másik gyökeret
+\u0009- használjon másik eszközt"</string>
+    <string name="vspace_root">Gyökér használata virtuális térben:</string>
+    <string name="help_vspace_root">"A gyökér használata a virtuális térből segíthet elrejteni azt a tényt, hogy __app_name__ van a készüléken.
+
+Nem működik minden firmware-en, és nem minden virtuális helyen.
+
+A virtuális térnek, a firmware-nek és a gyökérnek lehetővé kell tennie, hogy a virtuális térből gyökeret használjon.
+A virtuális térnek lehetővé kell tennie, hogy az alkalmazásokat befelé telepítse, anélkül, hogy azokat a rendszerbe telepítené.
+
+Nem minden virtuális teret biztosíthat ez.
+
+Nem minden firmware-en működik ez az üzemmód. És nem minden gyökérrel.
+
+Mivel a root jogosultságok a teljes virtuális térre kerülnek, nem telepíthetünk semmit másba. Ellenkező esetben a virtuális tér bármely alkalmazásában a kiszámíthatatlan következményekkel rendelkező root jogosultságok használhatók.
+
+A játékot a virtuális téren kívül kell telepíteni.
+
+A __app_name__-et csak a virtuális térbe kell telepíteni, anélkül, hogy a rendszerbe telepítené.
+Hogyan kell ezt megtenni - lásd egy adott virtuális tér segítségét.
+
+Például a __vexp__ esetében __app_name__-et klónozhat a rendszerből a __vexp__-ben, majd törölje a __app_name__-et a rendszerből."</string>
+    <string name="help_games_protection_9">9. A virtuális terekben gyökeret használjon, amely lehetővé teszi az alkalmazások telepítését magadba a rendszerbe való telepítés nélkül.</string>
+    <string name="locale_ui">A helyszínen</string>
+    <string name="locale_script">A parancsfájlok mindig angol nyelvet használnak</string>
+    <string name="locale_desc">"'__s__' - tizedes elválasztó
+'__s__' - ezer elválasztó
+'__semicolon__' - a számkijelölő a csoportkeresésben"</string>
+    <string name="help_unaligned_title">Nincs hozzárendelt keresés / big-endian keresés</string>
+    <string name="help_unaligned">"Néhány alkalmazásban (például a konzol emulátorokban) a memóriában lévő érték nem felel meg az illesztésnek, vagy nagy-endi byte-sorrendben jelenik meg.
+
+Az ilyen érték nem található meg egy normál keresés segítségével.
+
+Megtalálni őket - használjon speciális parancsfájlt a hivatalos __app_name__ webhelyről:"</string>
+    <string name="help_formula_calculator_title">Formula számológép</string>
+    <string name="help_formula_calculator">"Szinte minden számbeviteli mezőbe beírhat egy matematikai képletet, például az egyenlőségjel után, például a keresési mezőbe írja be '= 2 + 2 * 3', és a program megkeresi a képlet eredményét: jelentése '8'.
+A képlet Lua kifejezés. Használhatja a Lua összes elérhető erejét.
+
+Valamennyi Lua 5.3 számtani operátor elfogadható - összeadás (+), kivonás (-), szorzás (*), osztás (/), megmaradó rész (%), exponálás (^), egész osztás (//) és így tovább.
+A bit operátorok szintén elérhetők - AND (&amp;), OR (|), Exclusive VAGY (bináris ~), NEM (unary ~), jobbra tolás (>>), balra váltás (&lt;&lt;). A műveletek sorrendje zárójelben adható meg.
+Olvassa el a Lua kézikönyvet az elérhető műveletek teljes felsorolásához.
+
+Hasznos, ha tudja, hogyan kódolják az értéket a játékban. Például, egy játékban 29 forduló található '= 29 ~ 444444' formában. Ez megegyezik a 29 XOR 444444 értékkel. A videomintában az ár 3888-tól XOR-ig talált, 444444-rel, azaz '= 444444 ~ 3888'. Ezután a csere '= 444444 ~ 1' értékre történt, amely az árat '1' értékre állította. Egy másik játékban a 125 arany olyan, mint '= 125 * 10'.
+
+A képletszámolóban nem minden szkriptfunkció érhető el. Egyes funkciók nem érhetők el. Ha nincs elég ezekből - írja be a szkriptet, és a képletszámológép használata helyett csak egyszerű számításokra szolgál. Elérhető: az alapfunkciók egy része, „bit32”, „tábla”, „karakterlánc”, „utf8”, „math”, az „os” csomag része. A 'debug', 'package', 'gg', 'io' csomagok nem érhetők el.
+
+Amikor '= 2 + 2 * 3' -t ír, a 'return' kulcsszó kerül a következő képlet elé: 'return 2 + 2 * 3'. Ezt a szót azonban ön is megadhatja egy képletben, ha komplex képletre van szüksége.
+Például '= a = 5; b = 7; a * 4 + b * 8 visszaadása 'a = 5-ként lesz végrehajtva; b = 7; visszatér a * 4 + b * 8 '
+
+A képletszámológép eredménye egy szöveges karakterlánc. A karakterlánc bármilyen érvényes karakterlánc lehet ennek a beviteli mezőnek.
+Például lehet egy csoportkeresés vagy tartománykeresés karakterlánca. '= a = 5; b = 7; vissza a .. \";\" .. b .. \":: 100\" \"egyenértékű\" 5-gyel; 7 :: 100 '.
+
+A képletszámológép nem működik szkriptekben, közvetlenül használhatja a Lua-t.
+A szkript írásakor a képlet kiszámításának eredményét a fájlba írják, nem maga a képlet.
+
+Ha a képlet nem megfelelő, akkor az űrlap benyújtásakor hibaüzenet jelenik meg.
+
+A számítás során figyelembe kell vennie azt a tényt, hogy a számításokat az első operandus által megadott módon végzik. Ha egész szám, akkor az eredmény egész szám lesz.
+Például '= 3/2' jelentése '1', '= 3,0 / 2' pedig '1,5'.
+
+A választott területi beállításoktól függetlenül a képletek az angol nyelven működnek. Ez azt jelenti, hogy a tizedes elválasztó mindig pont ('.')."</string>
+    <string name="help_faq_32_b">"Két indító ikon. Az első, a \"__app_short_name_sw__\" szoftvergyorsítással, a második a \"__app_short_name_hw__\" hardveres gyorsítással. Most már mindig így lesz.
+Egyes cégeknél csak egy változat működik, mindkettő normál.
+Jobb a szoftvergyorsítás használata, kevésbé működik, de kevesebb memóriát fogyaszt.
+
+Az alkalmazásbeállítások egyik ikonját elrejtheti: \"__hide_icons__\"."</string>
+    <string name="acceleration_help_">"Hardver vagy szoftver interfész gyorsítása __app_name__.
+A játéktól és a firmware-től függően néhány opció problémát okozhat.
+Ha mindkettő működik, használja a szoftvergyorsítást, mert kevesebb memóriát fogyaszt.
+
+Ez az opció elkülönül az indítási ikonoktól, és csak a __app_name__ interfész megjelenítését érinti.
+Az indítási ikonok felelősek a kezdőképernyő gyorsulásának típusáért.
+
+A hardvergyorsítás sokkal több memóriát fogyaszt, de jobban működik. Ha kevés RAM van, mindig használja a szoftver gyorsítását.
+
+Ha a hardveres gyorsítás hibákat okoz, a __app_name__ képes a szoftvergyorsításra váltani."</string>
+    <string name="small_list_items">Kis listaelemek</string>
+    <string name="small_list_items_help">Lehetővé teszi, hogy több információt jelenítsen meg az elemlistákban, de nehezebb kattintani a kívánt elemre.</string>
+    <string name="format_asm_opcodes">__s__ opcodes</string>
+    <string name="no_regions">Nem található megfelelő régió.</string>
+    <string name="cannot_hide_launcher_icon">"Ezt az ikont használtuk az aktuális indításhoz.
+
+Nem lehet elrejteni az aktuális indításhoz használt ikont.
+
+Indítsa újra az alkalmazást egy másik ikonon keresztül, hogy elrejtse ezt az ikont."</string>
+    <string name="screenshot">Vegyen egy képet</string>
+    <string name="screenshot_prompt">"Az ikon __d__ másodpercre lesz elrejtve, így egy képernyőképet készíthet.
+
+Ezután ismét megjelenik az ikon."</string>
+    <string name="screenshot_action">Pillanatkép</string>
+    <string name="use_visible_type">Használjon látható adattípust a memóriaszerkesztőben:</string>
+    <string name="use_visible_type_help">Ne kérje az adattípust a memóriaszerkesztőben, ha csak egy adattípus jelenik meg.</string>
+    <string name="wrong_float">A \"__s__\" szám a \"__s__\" számban jelenik meg. Ha ez nem az, amire szüksége van - válasszon másik helyet (vagy nyelvet) a kezdőképernyőn.</string>
+    <string name="wrong_float2">A __app_name__ beállításaiban felülírhatja a formázási számok helyét.</string>
+    <string name="number_locale">A formázási számok helye:</string>
+    <string name="fill">Tölt</string>
+    <string name="help_text_search">"
+Szöveg kereséséhez meg kell adnia a módosítókat a szokásos keresési párbeszédablakban.
+
+A leggyakrabban használt kódolások: __utf8__ és __utf16le__.
+Jellemzően __utf16le__-et használunk a __java__-ben, és a __utf8__-et a __c__-ben használjuk.
+
+\u0009A __utf16le__ kétbájtos kódolás. Mindegyik karaktert két bájtban kódolják, így a __type_word__-en keresztül jelenik meg.
+\u0009__utf8__ - kódolás változó bájtmérettel karakterenként. A __type_byte__-en keresztül képviselteti magát.
+\u0009__hex_input__ és annak változatai mindig a __type_byte__ számon jelennek meg.
+
+A játék bármilyen kódolást használhat.
+Ha egy bizonyos bájtkészletre van szüksége - használja a __hex_input__ módot.
+
+Elérhető előtagok:
+__text_prefixes__
+
+\"__hex_mixed__\" üzemmódban __utf8__ szöveget adhat meg __apos__ karakter és __utf16le__ szöveg között __quot__ karakter között.
+
+Például:
+__text_examples__
+
+Az előtag karakterének a keresési szöveg első karakterének kell lennie.
+
+A keresés eredménye __type_byte__ vagy __type_word__ szekvencia lesz a __utf16le__ eset esetében.
+
+Az eredmények megváltoztathatók - válassza ki az összeset, majd kattintson a \"__edit_selected__\" gombra.
+
+Az érték mezőbe írja be az új értéket a keresési karaktersorozathoz hasonló formátumban.
+
+Használhatja a kitöltés gombokat. Kattintson a \"__more__\" gombra, ha nem láthatóak.
+
+Az értéket minden egyes csoport számára folyamatosan követjük.
+Ha van egy rés az elemek között, akkor új csoport lesz.
+
+Ha több bájtot ad meg, mint amennyire szükséges, akkor csak egy részét használja.
+Ha kevesebbet ad meg, mint a szükséges, akkor a csoport többi része nulla bájtokkal lesz kitöltve.
+
+Szövegcsere esetén próbálja meg az eredeti szövegével azonos számú bájtot megadni a problémák elkerülése érdekében.
+"</string>
+    <string name="fast_freeze">Gyors fagyasztás:</string>
+    <string name="help_fast_freeze">"Ez sokkal gyorsabban működik, mint a normál fagyasztás, de nem minden memória esetében.
+
+Ha a befagyasztás nem működik, kapcsolja ki ezt az opciót."</string>
+    <string name="debug_disassemble">Szétszerelni</string>
+    <string name="assembled">Sikeresen összeszerelve fájlba:</string>
+    <string name="warn_patch_off_prot2">"Ha __magisk_hide__-et használ - tiltsa le azt a tapasz alkalmazása előtt. A tapasz sikeres alkalmazása után újra bekapcsolhatja.
+Ha nem, a tapasz nem lesz sikeres."</string>
+    <string name="help_games_protection_end">"
+Hogyan rejtsük el a __app_name__ játékot a virtuális térben
+
+\u00091. Telepítse a virtuális helyet, amely lehetővé teszi az alkalmazások rejtett telepítését anélkül, hogy a rendszerbe telepítenék őket. Például: __vspace_hide__.
+\u00092. Telepítse a __app_name__-et a virtuális térbe.
+\u00093. A __app_name__-ben kapcsolja be a \"__vspace_root__\" módot.
+\u00094. Adjon root jogokat a virtuális térhez. Ha nem tudja megadni a root jogokat - próbáljon ki egy másik virtuális helyet, más root jogokat, más firmware-t, vagy cserélje ki az eszközt.
+\u00095. Távolítsa el a __app_name__-et a rendszerből.
+\u00096. Dolgozzon a __app_name__-rel virtuális űrből.
+
+A keresés során történő észlelés elkerülése érdekében:
+\u0009Válassza a 2., 3. és 4. elemet a \"__hide_from_game__\" beállításban.
+
+Egy tipikus megoldás (gyökérkövet igényel, gyökér nélkül nem sikerül):
+\u00091. Használja a gyökér virtuális térből. Olvassa el a \"__vspace_root__\" beállítás súgóját.
+\u00092. Használja a 2., 3. és 4. elemet a \"__hide_from_game__\" beállításnál.
+"</string>
+    <string name="force_close_2">A \"__data_in_ram__\" beállítást \"__no__\" értékre állíthatja, hogy elkerülje ezt a jövőben.</string>
+    <string name="script_wrote">A szkript írt __s__-__d__ fájlokat.</string>
+    <string name="script_exit">Kijárat</string>
+    <string name="script_interrupted">A szkript megszakadt.</string>
+    <string name="script_error">szkripthiba</string>
+    <string name="script_oom">Elfogyott a memória</string>
+    <string name="script_possible">Úgy tűnik, hogy próbál végrehajtani __s__, mint egy forgatókönyvet.</string>
+    <string name="script_web">egy weboldal</string>
+    <string name="script_saved_list">egy mentett lista</string>
+    <string name="speedhack_no_x86">De ez a játék nem x86 könyvtárak, így talán nem fog működni.</string>
+    <string name="help_faq_33_q">Szöveges üzenetek (köszöntők) marad a képernyőn, vagy egy sötét kör alján látható a képernyőn, amikor __app_name__ dolgozik. Hogyan megjavítani?</string>
+    <string name="help_faq_33_a">A harmadik szint „__prevent_unload__” néhány firmware vezet az a tény, hogy a szöveges üzenetek (köszöntők) marad a képernyőn, vagy egy sötét kör látható (üres üzenet). Ha ez megtörténik, akkor ne használja a harmadik szintre.</string>
+    <string name="invalid_header_1">Érvénytelen bináris script fejlécet.</string>
+    <string name="unknown_version">Ismeretlen verzió.</string>
+    <string name="unknown_format">Ismeretlen formátum.</string>
+    <string name="unknown_endianness">Ismeretlen végződést.</string>
+    <string name="unknown_size_s">Ismeretlen méret __s__.</string>
+    <string name="unknown_size_instr">Ismeretlen méret oktatás.</string>
+    <string name="unknown_size_num">Ismeretlen méret Lua számát.</string>
+    <string name="expected_found">Várható __s__ __s__ de nem talált.</string>
+    <string name="or">vagy</string>
+    <string name="invalid_header_2">Futtatni a szkriptet egyébként?</string>
+    <string name="invalid_header_3">"A jövőbeli verziói __app_name__, ezt a forgatókönyvet nem lehet futtatni.
+Írja erről a szerző a forgatókönyvet."</string>
+    <string name="skip_system_libs">Skip rendszer könyvtárak</string>
+    <string name="try_reinstall_x86">"Próbálja meg újratelepíteni a játékot x86 könyvtárak?
+
+A játék nem működik utána. Ha ez történik, telepítse újra a játékot az apk található __data_app__."</string>
+    <string name="reinstall_started">Újratelepítés kezdődött ...</string>
+    <string name="reinstall_failed">Újratelepítés nem sikerült:</string>
+    <string name="reinstall_ended">Újratelepítés befejeződött.</string>
+    <string name="help_lasm_title">Szétszedni / összerakni scriptek</string>
+    <string name="help_lasm">"__app_name__ rendelkezik egy beépített bontó / szerelő Lua szkripteket.
+
+Akkor válassza a „__debug_disassemble__” opciót a script elindítása ablakban, miután rákattint a „__more__” gombra.
+
+A kapott __ext_lasm__ fájl szerkeszthető, és a kiválasztott a script dob ​​ablakot. Az eredmény az lesz bináris __ext_lua__ fájlt, a változások.
+
+Elolvasta a forgatókönyvet API segítségével további részletekért.
+"</string>
+    <string name="help_hide_gg_title">Hogyan lehet elrejteni __app_name__ a játékból</string>
+    <string name="changed_as_search_result">Megváltozott a találati</string>
+    <string name="changed_not_found">Megváltozott példány nem található.</string>
+    <string name="too_far">Ezek az értékek nem találhatók csoportja révén kereső, azok túl messze vannak egymástól: __d__ bájt. A maximális távolság __d__ bájt.</string>
+    <string name="new_address">Új cím:</string>
+    <string name="hide_1_warn">Azt választotta, az első tételt. Fagyasztás értékeket okozhat súlyos elmaradásokat a játékban.</string>
+    <string name="hide_4_warn">Azt választotta, a negyedik tétel. Egyes funkciók nem működnek: __speedhack__, __unrandomizer__, __allocate_page__.</string>
+    <string name="asm_failed">Nem sikerült felismerni __s__ műveleti kód:</string>
+    <string name="asm_suggestion">Erre gondolt: __s__?</string>
+    <string name="copy_opcode">Másolás __s__ műveleti kód:</string>
+    <string name="search_nearby">Keresés a közelben</string>
+    <string name="before">Előtt</string>
+    <string name="after">Után</string>
+    <string name="distance">Távolság:</string>
+    <string name="nearby">Közeli:</string>
+    <string name="need_fixer">"A probléma az volt kimutatható ezzel a 64 bites virtuális térben.
+
+Megjavítani:
+
+1. Telepítse a __fixer__ alkalmazást. (Ebben az ablakban, akár manuálisan az úton:
+__s__
+).
+
+2. Add __fixer__ a virtuális térben.
+
+3. Run __fixer__ a virtuális térben.
+
+4. Vegye __fixer__.
+
+5. Indítsa újra a __app_name__ a virtuális térben."</string>
+    <string name="limit">Csak az első N eredmények:</string>
+</resources>

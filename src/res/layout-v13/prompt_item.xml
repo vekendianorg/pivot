@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.fix.LinearLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <View
+        android:background="@color/modern_divider"
+        android:layout_width="fill_parent"
+        android:layout_height="1.0dip" />
+    <android.fix.TextView
+        android:textAppearance="@style/SmallText"
+        android:layout_gravity="center_vertical"
+        android:id="@id/prompt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="/please/do/not.remove.this/if/you/do/not/want/pro/version" />
+    <android.fix.LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <android.fix.CheckBox
+            android:textAppearance="@style/SmallText"
+            android:layout_gravity="center_vertical"
+            android:id="@id/check"
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:text="/please/do/not.remove.this/if/you/do/not/want/pro/version"
+            android:layout_weight="1.0" />
+        <android.ext.EditTextMulti
+            android:layout_gravity="center_vertical"
+            android:id="@id/edit"
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:imeOptions="actionNext" />
+        <android.ext.EditTextPath
+            android:layout_gravity="center_vertical"
+            android:id="@id/path"
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:imeOptions="actionNext" />
+        <android.ext.PathSelector
+            android:textSize="@dimen/button_text_size"
+            android:layout_gravity="center"
+            android:id="@id/path_selector"
+            android:layout_width="48.0dip"
+            android:layout_height="48.0dip"
+            android:textAllCaps="false" />
+        <android.ext.HexConverter
+            android:layout_gravity="center"
+            android:id="@id/number_converter"
+            android:layout_width="48.0dip"
+            android:layout_height="48.0dip" />
+    </android.fix.LinearLayout>
+    <android.fix.TextView
+        android:textAppearance="@style/MediumText"
+        android:layout_gravity="center"
+        android:id="@id/seek"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="50" />
+    <android.fix.SeekBar
+        android:id="@id/seekbar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+</android.fix.LinearLayout>

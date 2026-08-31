@@ -1,0 +1,1366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lang_code">~~~ur~~~</string>
+    <string name="front_text">"__improve_translation_hint__
+
+اگر آپ کے پاس __app_name__ یا اس کے استعمال کے بارے میں کوئی سوال موجود ہے تو، براہ مہربانی ہمارے فورموں پر __forum__ پر جائیں"</string>
+    <string name="set_path">عارضی راستہ</string>
+    <string name="number">نمبر:</string>
+    <string name="type">قسم:</string>
+    <string name="name">نام:</string>
+    <string name="reset">عمل کا انتخاب کریں</string>
+    <string name="set_range">میموری حدود منتخب کریں</string>
+    <string name="search">تلاش کریں</string>
+    <string name="save">محفوظ کریں</string>
+    <string name="goto1">کے پاس جاؤ</string>
+    <string name="address">ایڈریس:</string>
+    <string name="edit_all">سب کو ترمیم کریں</string>
+    <string name="filter">فلٹر</string>
+    <string name="clear">واضح کریں</string>
+    <string name="max_show_rec">دکھائیں:</string>
+    <string name="equal">غیر تبدیل شدہ</string>
+    <string name="inequal">تبدیل ہوگیا</string>
+    <string name="larger">اضافہ ہوا</string>
+    <string name="smaller">کمی</string>
+    <string name="compare_current_last">قیمت کس طرح بدل گئی ہے؟</string>
+    <string name="write_region_log">علاقائی لاگ لکھیں</string>
+    <string name="old_version">پرانی صورت</string>
+    <string name="found_old_version">__app_name__ کا ایک پرانے ورژن ملا. کیا آپ اسے انسٹال کرنا چاہتے ہیں؟</string>
+    <string name="yes">جی ہاں</string>
+    <string name="no">نہیں</string>
+    <string name="ok">ٹھیک ہے</string>
+    <string name="failed_find_package_name">درخواست کے پیکیج کا نام تلاش کرنے میں ناکام</string>
+    <string name="path_for_temp_files">"طے شدہ فائلوں کے لئے راستہ مقرر کریں، مثلا '__sdcard__'. یہ چند سو سے زائد مفت جگہ کی ضرورت ہوسکتی ہے. موجودہ تلاش کے نتائج کھو جائیں گے."</string>
+    <string name="confirm">تصدیق کریں</string>
+    <string name="cancel">منسوخ کریں</string>
+    <string name="found_new_version">نیا ورژن __s__ ملا</string>
+    <string name="daemon_failed">ڈیمون ناکام ہوگیا</string>
+    <string name="failed_run_daemon">ڈیمون کو چلانے میں ناکام جڑ نصب کیا ہے؟</string>
+    <string name="daemon_unexpected_closed">ڈیمونون غیر متوقع طور پر بند کر دیا. معلومات:</string>
+    <string name="daemon_exited">ڈیمونین سے باہر نکل گیا</string>
+    <string name="failed_load_daemon">ڈیمون کو لوڈ کرنے میں ناکام</string>
+    <string name="is_device_rooted">جڑ تک رسائی حاصل کرنے میں قاصر.</string>
+    <string name="collect_data_to_region_log">علاقائی لاگ لاگ ان کرنے کے لئے اعداد و شمار کا مجموعہ شروع کیا ...</string>
+    <string name="log_saved">لاگ ان __s__ پر محفوظ</string>
+    <string name="failed_save">__s__ کو محفوظ کرنے میں ناکام</string>
+    <string name="region_log">علاقائی لاگ ان</string>
+    <string name="apply">درخواست دیں</string>
+    <string name="error">خرابی</string>
+    <string name="load">لوڈ</string>
+    <string name="delete_prompt">کیا آپ اس شے کو ہٹانا چاہتے ہیں؟</string>
+    <string name="reset_search">خرابی کا پتہ چلا تلاش کی فہرست دوبارہ ترتیب دیں.</string>
+    <string name="unknown_error">نامعلوم خامی</string>
+    <string name="out_of_memory">میموری سے باہر</string>
+    <string name="bug_detected">بگ پتہ چلا</string>
+    <string name="disk_full">ڈسک مکمل</string>
+    <string name="io_error">IO غلطی</string>
+    <string name="game_dead">کھیل ہی کھیل میں مردہ کھیل</string>
+    <string name="exit">باہر نکلیں</string>
+    <string name="skip">نظر انداز کریں</string>
+    <string name="unhandled_exception">غیر لامحدود استثناء. درج ذیل معلومات کو ترقی ٹیم میں بھیجیں؟</string>
+    <string name="last_run_failed">آخری رن ناکام ہوگئی</string>
+    <string name="thank_you">آپ کا شکریہ!</string>
+    <string name="no_application">کوئی درخواست منتخب نہیں کی گئی ہے.</string>
+    <string name="increments">اضافہ:</string>
+    <string name="add_not_replace">قیمت میں شامل کریں، تبدیل نہ کریں</string>
+    <string name="eperm_error">عمل میں منسلک نہیں کیا جا سکتا (PTRACE_ATTACH): آپریشن کی اجازت نہیں ہے</string>
+    <string name="load_list">لوڈ کی فہرست</string>
+    <string name="load_warning">آپ نے اس فہرست کو لوڈ کیا ہے جو کھیل کے دوسرے مثال سے محفوظ کردی گئی ہے. زیادہ تر ممکنہ طور پر، میموری میں تمام پتے تبدیل کردیئے گئے ہیں اور ڈیٹا کو لوڈ کر چکے ہیں جو اعداد و شمار سے متعلق نہیں ہے جو پہلے سے بچا گیا تھا. ہم آپ کو یہ چیک کرنے کی سفارش کرتے ہیں.</string>
+    <string name="from">__d__ مراحل سے مکمل __d__</string>
+    <string name="count_fuzzy_equal_run">"'__fuzzy_equal__' چلانے کے لئے کئی بار:"</string>
+    <string name="slow">سست</string>
+    <string name="miui_restart">سیکورٹی اجازتوں کو لاگو کرنے کے لئے __app_name__ کو دوبارہ شروع کرنے کی ضرورت ہے.</string>
+    <string name="out_of_memory_error">میموری کی غلطی سے باہر. موجودہ نتیجہ کی فہرست صاف ہوگئی. براہ کرم نتائج دکھانے کے لۓ ایک چھوٹا سا قدر مقرر کریں.</string>
+    <string name="loading">لوڈ کر رہا ہے ...</string>
+    <string name="found_count">ملا: __d__</string>
+    <string name="fuzzy_equal">قدر غیر منحصر ہے</string>
+    <string name="fuzzy_inequal">قدر بدل گیا</string>
+    <string name="fuzzy_larger">قیمت میں اضافہ</string>
+    <string name="fuzzy_smaller">قیمت کم ہوگئی</string>
+    <string name="type_edit_limit">__s__ سے __s__ تک ان پٹ کی قیمت</string>
+    <string name="number_name">نمبر</string>
+    <string name="step_name">اضافہ</string>
+    <string name="number_less">"نمبر '__s__' اس قسم کے لئے کم سے کم قیمت (__d__) سے بھی کم ہے."</string>
+    <string name="number_greater">"نمبر '__s__' اس قسم کے لئے زیادہ سے زیادہ قیمت (__d__) سے زیادہ ہے."</string>
+    <string name="about">کے بارے میں</string>
+    <string name="owner">مالک</string>
+    <string name="design">لیڈ ڈیزائنر</string>
+    <string name="pm">کام کی ترتیب لگانا</string>
+    <string name="code">لیڈر کوڈر</string>
+    <string name="tech">تکنیکی مشیر</string>
+    <string name="creator">خالق (ریٹائرڈ)</string>
+    <string name="for_translators">اگر آپ درخواست کے ساتھ یا اس کی مدد کرنا چاہتے ہیں، تو آپ فورم پر http://gameguardian.net/forum پر ہم سے رابطہ کرسکتے ہیں، درخواست کے سرکاری رہائی میں شامل ہونے کے لۓ.</string>
+    <string name="version">ورژن:</string>
+    <string name="developers">ڈویلپرز:</string>
+    <string name="select_language">زبان منتخب کریں</string>
+    <string name="exit_confirm">__app_name__ تبدیلیوں کو لاگو کرنے کے لئے دوبارہ شروع کرنے کی ضرورت ہے.</string>
+    <string name="special_thanks">خصوصی شکریہ:</string>
+    <string name="nothing_found">کچھ نہیں ملا. دوبارہ تلاش کرنے کی کوشش کریں.</string>
+    <string name="try_more_ranges">آپ ترتیبات کے ٹیب میں زیادہ حدود منتخب کرنے کی بھی کوشش کرسکتے ہیں.</string>
+    <string name="try_fuzzy_search">آپ نامعلوم نامعلوم قیمت تلاش کرنے کی کوشش کر سکتے ہیں.</string>
+    <string name="search_hint">"ایک مشہور قیمت تلاش کرنے کے لئے، \"__search_known_value__\" پریس کریں.
+اگر قیمت نامعلوم یا خفیہ ہے تو - تلاش کرنے کیلئے \"__search_unknown_value__\" پر کلک کریں.
+انوائزر کے حصول کے ذریعے فلوٹ اقدار کے لئے تلاش کی تلاش کی قسم '__type_auto__' کی قسم کی طرف سے کارکردگی کا مظاہرہ کیا جا سکتا ہے.
+اس کے علاوہ آپ الگ الگ کے طور پر '__semicolon__' کے ساتھ گروپ کی تلاش کا استعمال کرسکتے ہیں."</string>
+    <string name="freeze">منجمد:</string>
+    <string name="freeze_normal">عام</string>
+    <string name="freeze_may_increase">اضافہ ہوسکتا ہے</string>
+    <string name="freeze_may_decrease">کم ہوسکتی ہے</string>
+    <string name="freeze_in_range">رینج میں</string>
+    <string name="range_end_fail">"رینج اختتام ('__s__') '__s__' سے زیادہ ہونا ضروری ہے."</string>
+    <string name="failed_add_window">کھڑکی کو شامل کرنے میں ناکام</string>
+    <string name="failed_remove_window">کھڑکی کو دور کرنے میں ناکام</string>
+    <string name="system_service_stopped">درخواست عام طور پر کام نہیں کر سکتا کیونکہ سسٹم سروس بند کردی گئی تھی. ایپلیکیشن کو دوبارہ شروع کرنے یا آلہ دوبارہ ربوٹ کرنے کی کوشش کریں.</string>
+    <string name="value_request">تلاش کرنے کے لئے ایک قدر درج کریں</string>
+    <string name="type_request">تلاش کرنے کے لئے ڈیٹا کا قسم منتخب کریں</string>
+    <string name="type_change_request">تبدیل کرنے کے لئے ڈیٹا کی قسم منتخب کریں</string>
+    <string name="value">قدر</string>
+    <string name="save_as">ایسے محفوظ کریں:</string>
+    <string name="restart">دوبارہ شروع کریں</string>
+    <string name="start">شروع کریں</string>
+    <string name="wait_daemon">ڈیمون چل رہا ہے تو یہ کام دستیاب نہیں ہے. انتظار کرو جب تک ڈیمونز شروع ہوجائے. (کیا آپ کو جڑ تک رسائی فراہم کرنا بھول گیا؟ یا جڑ نصب نہیں ہے؟)</string>
+    <string name="daemon_fail">ڈیمون نہیں چل رہا ہے</string>
+    <string name="config_icon_text">آئکن: شفافیت = __d__ ٪٪، چھپائیں - __s__</string>
+    <string name="icon_hide_after">__d__ سیکنڈ کے بعد</string>
+    <string name="icon_hide_never">کبھی نہیں</string>
+    <string name="keyboard">کی بورڈ:</string>
+    <string name="internal">اندرونی</string>
+    <string name="external">بیرونی</string>
+    <string name="failed_copy_text">کلپ بورڈ میں متن کاپی کرنے میں ناکام</string>
+    <string name="copied">کاپی</string>
+    <string name="copy_value">قیمت کاپی کریں:</string>
+    <string name="copy_address">پتہ کاپی کریں:</string>
+    <string name="goto_address">ایڈریس پر جائیں</string>
+    <string name="search_unknown_value">نامعلوم (فجی) تلاش</string>
+    <string name="search_known_value">مشہور (عین مطابق) تلاش</string>
+    <string name="speedhack_hint">کھیل کی رفتار کو تبدیل کرنے کے لئے، فلوٹنگ __app_name__ آئکن پر ایک طویل پریس انجام دیں.</string>
+    <string name="bad_firmware">آپ فرم ویئر میں غلطیاں ہیں جو اس خصوصیت کے استعمال کو روکتے ہیں.</string>
+    <string name="language">زبان</string>
+    <string name="acceleration">انٹرفیس کی تیز رفتار:</string>
+    <string name="hardware">ہارڈ ویئر</string>
+    <string name="software">سافٹ ویئر</string>
+    <string name="speedhack">تیز رفتار</string>
+    <string name="data_in_ram">رام میں ڈیٹا:</string>
+    <string name="first_mb">پہلے __d__ ایم بی</string>
+    <string name="donate">عطیہ</string>
+    <string name="speeds">رفتار</string>
+    <string name="floating_window_fail">فلوٹنگ ونڈو کو دکھانے کے قابل نہیں</string>
+    <string name="check">تصدیق</string>
+    <string name="check_success">توثیق کامیاب ہوگئی</string>
+    <string name="enable_draw_perm">براہ مہربانی اگلے اسکرین پر اجازتیں فعال کریں.</string>
+    <string name="speedhack_fail">اس عمل کے لئے رفتار ہیک سپورٹ نہیں ہے</string>
+    <string name="dangerous">خطرناک</string>
+    <string name="difference">فرق</string>
+    <string name="old_value">پرانی قیمت</string>
+    <string name="new_value">نئی قدر</string>
+    <string name="mode_hacking">قیمت خفیہ ہے</string>
+    <string name="union">گروپ کی تلاش</string>
+    <string name="speedhack_open">آپ کو سچل __app_name__ آئکن پر طویل عرصہ سے تیز رفتار سے کھول سکتے ہیں.</string>
+    <string name="history">ہسٹری</string>
+    <string name="history_empty">تاریخ خالی ہے</string>
+    <string name="allow_suggestions">کی بورڈ سے تجاویز کی اجازت دیں:</string>
+    <string name="invalid_area">گروپ کا سائز __d__ اور __d__ کے درمیان ہونا ضروری ہے:</string>
+    <string name="union_need_two_numbers">گروہ کی تلاش کے لئے کم سے کم دو نمبر ہونا لازمی ہے</string>
+    <string name="too_many_union_numbers">بہت سے نمبر، اس سے زیادہ</string>
+    <string name="invalid_number">ناموزوں نمبر:</string>
+    <string name="input_number">ان پٹ نمبر</string>
+    <string name="number_out_of_range">"ممکنہ حد سے باہر نمبر '__s__':"</string>
+    <string name="help_floating_icon">"* سچل آئکن:
+\u0009* انٹرفیس کھولنے کے لئے ٹیپ.
+\u0009* تیز ہیک پینل ٹوگل کرنے کے لۓ پکڑو اور پکڑو.
+* اس آئکن کو گھسیٹنے اور گرنے سے کسی بھی جگہ منتقل کیا جا سکتا ہے.
+\u0009* ٹرانسمیشن اور پوشیدہ ٹائمر کو اے پی پی کی ترتیبات میں اپنی مرضی کے مطابق کیا جاسکتا ہے.
+"</string>
+    <string name="help_exact_search">"* بالکل تلاش:
+\u00091. کھیل سے __app_name__ پر سوئچ کریں.
+\u00092. \"__search__\" ٹیب میں \"__search_known_value__\" کے بٹن کو تھپتھپائیں.
+\u00093. اس کھیل میں درج کردہ نمبر ان پٹ.
+\u00094. مناسب ڈیٹا کی قسم منتخب کریں، یا \"__type_auto__\" (اگر آپ کو یقین نہیں ہے) اور دوسرے اختیارات (اگر ضرورت ہو تو) کا انتخاب کریں اور \"__search__\" پر کلک کریں.
+\u00095. تلاش ختم ہونے پر، تلاش کے نتائج کو فہرست میں پیش کیا جائے گا.
+\u00096. کھیل میں واپس جائیں. قدر تبدیل ہونے کے بعد، دوبارہ __app_name__ پر سوئچ کریں.
+\u00097. تبدیل کردہ قیمت کے لئے تلاش کریں.
+\u00098. اگر بہت سے نتائج ہیں تو، 6 تک جاری رہیں.
+\u00099. اگر صرف چند نتائج باقی ہیں تو، آپ کو قیمت، ترمیم یا ذخیرہ کرنے کی کوشش کر سکتے ہیں.
+"</string>
+    <string name="help_speedhack">"* تیز رفتار:
+\u0009* تیز رفتار پینل کو دکھانے کے لئے فلوٹ آئکن پر ٹیپ اور پکڑو.
+\u0009* کھیل کی رفتار کو تبدیل کرنے کے لئے، آئکن کے کسی بھی طرف تیر تیر.
+\u0009* کھیل کی رفتار کو دوبارہ ترتیب دینے کے لئے موجودہ رفتار نمبر کو پکڑ اور پکڑو.
+\u0009* تیز رفتار پینل کو چھپانے کے لئے فلوٹنگ آئکن کو تھپتھپائیں اور پکڑو.
+\u0009* استعمال کردہ رفتار اور ٹائمر کی فہرست اے پی پی کی ترتیبات میں اپنی مرضی کے مطابق کیا جاسکتا ہے.
+\u0009* اگر کھیل ان پٹ یا تیز رفتار کا جواب نہیں دیتا تو کام نہیں کرتا، دوسرے __app_name__ ترتیبات میں سبز ٹائمر استعمال کرنے کی کوشش کریں.
+\u0009* آپ استعمال کر سکتے ہیں \"__time_jump__\" وقت میں آگے کودنے کے لئے. صرف تلاش کے ٹیب پر مینو کو منتخب کریں اور \"__time_jump__\" کا انتخاب کریں. آپ کو یہ بتانا ہوگا کہ کتنے سیکنڈ کودنے کے لئے. چھلانگ کی رقم جزوی طور پر ہوسکتی ہے.
+"</string>
+    <string name="help_fuzzy_search">"* فجی تلاش:
+\u00091. کھیل سے __app_name__ پر سوئچ کریں.
+\u00092. \"__search__\" ٹیب میں \"__search_unknown_value__\" کے بٹن کو تھپتھپائیں.
+\u00093. مناسب ڈیٹا کی قسم منتخب کریں، یا \"__type_auto__\" کا انتخاب کریں (اگر آپ کو یقین نہیں ہے) اور \"__search__\" پر کلک کریں.
+\u00094. تلاش ختم ہونے پر، تلاش کے نتائج کی فہرست میں دکھائے جائیں گے.
+\u00095. کھیل پر واپس. قیمت تبدیل کرنے کے بعد (یا نہیں)، پھر __app_name__ پر سوئچ کریں.
+\u00096. \"__search_unknown_value__\" کے بٹن کو تھپتھپائیں اور اس قسم کا انتخاب کریں کہ قیمت کس طرح بدل گئی ہے.
+\u00097. اگر بہت سے نتائج ہیں تو، 5 تک قدم جاری رکھیں.
+\u00098. اگر صرف چند نتائج باقی ہیں تو، آپ کو قیمت، ترمیم یا ذخیرہ کرنے کی کوشش کر سکتے ہیں.
+
+\u0009آپ \"__more__\" کے بٹن پر کلک کرکے قیمت کی صحیح تبدیلی کی وضاحت کرسکتے ہیں.
+\u0009آپ درست قیمت تبدیلی کے طور پر ایک حد درج کر سکتے ہیں:
+\u0009\u0009190__tilde__210
+\u0009اقدار کی حد کے باہر تبدیلی کی وضاحت کرنے کے لئے، آپ ان پٹ سکتے ہیں:
+\u0009\u000910__tilde____tilde__4000
+"</string>
+    <string name="help_group_search">"* گروپ کی تلاش:
+\u00091. کھیل سے __app_name__ پر سوئچ کریں.
+\u00092. \"__search__\" ٹیب میں \"__search_known_value__\" کے بٹن کو تھپتھپائیں.
+\u00093. گروپ کی تلاش کے لئے ان پٹ تلاش کی درخواست.
+\u0009\u0009شکل: قیمت 1 __semicolon__ قیمت 2 __semicolon__ ... __semicolon__ قیمت N __colon__ گروپ کا سائز
+\u0009\u00092-__max_group__ اقدار کو اسی وقت تلاش کیا جاسکتا ہے. ڈیفالٹ گروپ کا سائز 512 ہے. گروپ کا سائز 2 اور 65536 کے درمیان ہوگا.
+\u0009\u0009مثال کے طور پر، اگر آپ 195 اور 6543 کو تلاش کرنا چاہتے ہیں تو، آپ کو ان پٹ کرنا چاہئے:
+\u0009\u0009\u0009195 __semicolon__ 6543
+\u0009\u0009یقینا آپ گروپ سائز (300) کی وضاحت کر سکتے ہیں:
+\u0009\u0009\u0009195 __semicolon__ 6543 __colon__ 300
+\u0009\u0009اس کے علاوہ، آپ ایک یا زیادہ ڈیٹا کی اقسام مقرر کرسکتے ہیں:
+\u0009\u0009\u0009195__type_dword_short__ __semicolon__ 6543
+\u0009\u0009اس کا مطلب ہے کہ آپ کو __type_dword__ قیمت جو 195 اور ایک __type_auto__ قیمت 6543 ہے.
+\u0009\u0009ممکنہ اعداد و شمار کی اقسام وہی ہیں جیسے وہ تلاش میں ہیں:
+\u0009\u0009\u0009__type_byte_short__ - __type_byte__
+\u0009\u0009\u0009__type_word_short__ - __type_word__
+\u0009\u0009\u0009__type_dword_short__ - __type_dword__
+\u0009\u0009\u0009__type_xor_short__ - __type_xor__
+\u0009\u0009\u0009__type_qword_short__ - __type_qword__
+\u0009\u0009\u0009__type_float_short__ - __type_float__
+\u0009\u0009\u0009__type_double_short__ - __type_double__
+\u0009\u0009\u0009__type_auto_short__ - __type_auto__
+\u0009\u0009اس کے ساتھ ساتھ آپ ہییکس (چھوٹی-اینڈینان) کی تشخیص میں نمبر لکھ سکتے ہیں:
+\u0009\u0009\u0009__hex_example____hex__ __semicolon__ 6543
+\u0009\u0009یا ریورس ہیکس میں (بڑے - endian) کی تشخیص:
+\u0009\u0009\u0009__hex_example____rhex__ __semicolon__ 6543
+\u0009\u0009اضافی علامات انضمام کرنے کے لئے داخلی کی بورڈ پر \"__btn_hex__\" کے بٹن کا استعمال کریں.
+\u00094. مناسب ڈیٹا کی قسم منتخب کریں، یا \"ڈیفالٹ کے طور پر استعمال کرنے کے لئے\" اگر آپ کو یقین نہیں ہے \"__type_auto__\" کا انتخاب کریں. دیگر اختیارات اس قسم کی تلاش کے لئے متفق نہیں ہیں. \"__search__\" پر کلک کریں.
+\u00095. تلاش ختم ہونے پر، تلاش کا نتیجہ فہرست میں دکھایا جائے گا.
+\u00096. واپس کھیل. قدر تبدیل ہونے کے بعد، دوبارہ __app_name__ پر سوئچ کریں.
+\u00097. مناسب تبدیلیوں کے ساتھ گروپ کی تلاش کو دوبارہ کریں.
+\u00098. اگر بہت سے نتائج ہیں تو، 6 اور 7 مرحلے کو دوبارہ کریں.
+\u00099. اگر کچھ نتائج باقی ہیں تو، آپ کو قیمت، ترمیم یا ذخیرہ کرنے کی کوشش کر سکتے ہیں.
+
+\u0009اگر آپ احترام کا احترام آرڈر چاہتے ہیں تو پھر __colon__ دو مرتبہ بیان کریں.
+\u0009گروپ کے سائز کے بغیر:
+\u0009\u0009195 __semicolon__ 6543 __colon____colon__
+\u0009گروپ کے سائز کے ساتھ:
+195 __semicolon__ 6543 __colon____colon__ 300
+
+\u0009آپ اقدار کی حد میں تلاش کر سکتے ہیں:
+\u0009\u0009190__tilde__210 __semicolon__ 6543
+\u0009اس کے ساتھ آپ اقدار کی حد سے باہر تلاش کر سکتے ہیں:
+\u0009\u000910__tilde____tilde__4000 __semicolon__ 6543
+"</string>
+    <string name="help_others">"* دیگر:
+\u0009* نئی تلاشوں کیلئے، مینو مینو کے نیچے مینو میں \"__clear__\" کو منتخب کرکے پچھلے تلاش کے نتائج کو صاف کرنا ضروری ہے.
+\u0009* اوپری بائیں کونے میں کھیل آئیکن پر دوسرا کھیل منتخب کرنے کے لئے.
+\u0009* کھیل روکنے / دوبارہ شروع کرنے کے لئے - اوپری بائیں کونے کے آئکن کے نیچے بٹن پر نلیں.
+\u0009* اگر آپ روکنے کے دوران کھیل میں سوئچ کریں تو، اگلے وقت جب آپ __app_name__ کھولتے ہیں تو اس کھیل کو خود کار طریقے سے روک دیا جائے گا.
+\u0009* تمام منجمد اقدار خود بخود محفوظ کردہ فہرست میں شامل ہیں. آپ انہیں مناسب ٹیب کے تحت منظم کرسکتے ہیں.
+\u0009* تمام ان پٹ کے اعداد و شمار کو \"__history__\" فہرست میں بچاتا ہے. آپ کو تاریخ کے بٹن کو دباؤ کرکے ان کا استعمال کر سکتے ہیں.
+"</string>
+    <string name="help_typical_usage">"* عام استعمال الگورتھم:
+
+1) قیمت خفیہ اور معلوم نہیں ہے.
+\u0009ایک عام کیس پیسہ، ستاروں، سککوں، وسائل، وغیرہ کے لئے ہوگا.
+
+\u0009عین مطابق تلاش کا استعمال کریں.
+
+2) قیمت نامعلوم اور / یا خفیہ کاری ہے.
+\u0009نامعلوم نامعلوم قیمت کا ایک عام کیس - کسی بھی پیمانے / بار. مثال کے طور پر صحت، مانا، نائٹرو، وغیرہ. تبدیلیوں کو دیکھا جاتا ہے، لیکن کوئی عددی اقدار نظر آتی ہیں.
+\u0009خفیہ کردہ اقدار کے لئے ایک عام کیس، پیسہ، ستارے، سککوں وغیرہ وغیرہ ہوں گے، لیکن 1 الگورتھم کے ساتھ تلاش کرنے کے بعد کچھ بھی نہیں ملتا، یا پایا جانے والی اقدار میں تبدیلی کھیل میں تبدیل کرنے کی تعداد کی قیادت نہیں کرتا.
+
+\u0009فجی تلاش کا استعمال کریں.
+
+
+3) قیمت خفیہ ہے (__mode_hacking__).
+\u0009خفیہ کردہ اقدار کے لئے ایک عام کیس، پیسہ، ستارے، سککوں وغیرہ وغیرہ ہوں گے، لیکن 1 الگورتھم کے ساتھ تلاش کرنے کے بعد کچھ بھی نہیں ملتا، یا پایا جانے والی اقدار میں تبدیلی کھیل میں تبدیل کرنے کی تعداد کی قیادت نہیں کرتا.
+
+\u0009عین مطابق تلاش کا استعمال کریں، لیکن چیک باکس \"__mode_hacking__\" کو ہمیشہ منتخب کریں.
+\u0009خفیہ نتائج کی وجہ سے پایا کے نتیجے میں عجیب اقدار ہوسکتے ہیں.
+
+الگورتھم 3 2 سے زیادہ تیز ہے، لیکن یہ تمام کھیلوں کے لئے کام نہیں کر سکتا.
+
+4) قیمت خفیہ کاری نہیں ہے، جانا جاتا ہے اور دوسرے معروف اقدار کے قریب رکھی جاتی ہے.
+\u0009ایک عام کیس قیمت میں دکان، ہیرو کے اعداد و شمار وغیرہ کے لئے ہو گی.
+
+\u0009ایک وقت میں تمام نمبروں کے لئے گروپ کی تلاش کا استعمال کریں.
+"</string>
+    <string name="help_hints">"* اشارے:
+
+\u0009* تمام کھیلوں کو __app_name__ کی طرف سے نظر ثانی نہیں کیا جا سکتا. مثال کے عام فہرست:
+\u0009\u0009* سرور پر ذخیرہ کردہ ڈیٹا (سرور رخا کھیل)
+\u0009\u0009* کھیل مسلسل انٹرنیٹ کنکشن کی ضرورت ہے
+\u0009\u0009* دوسرے کھلاڑیوں کے ساتھ نیٹ ورک کھیلیں
+\u0009\u0009* آپ کو کھیل کے آغاز میں منسلک کرنے کے لئے ایک سرور کو منتخب کرنے کی ضرورت ہے
+\u0009\u0009* آپ انٹرنیٹ کے بغیر کچھ چیزیں استعمال نہیں کر سکتے ہیں
+\u0009\u0009* اگر آپ کسی چیز کو تبدیل کرتے ہیں تو کھیل سرور سے ڈیٹا دوبارہ لوڈ کرتا ہے
+\u0009* قیمتیں جو دیکھا جاتا ہے وہ ہمیشہ اسی طرح کے طور پر نہیں ہیں جس طرح وہ ذخیرہ کر رہے ہیں. وہ مختلف ہوسکتے ہیں. مثال کے طور پر اسکرین پر ہم 34 دیکھیں گے، لیکن یاد رہے ہیں کہ قیمت 34000 ہے.
+\u0009* اگر آپ کسی قدر میں ترمیم نہیں کر سکتے ہیں - اس قیمت کو متاثر کرنے والے اقدار کو تبدیل کرنے کی کوشش کریں. مثال کے طور پر، سونے کی رقم کو تبدیل کرنے کی بجائے، آپ چیز کی قیمت کو تبدیل کر سکتے ہیں اور اسے بیچ سکتے ہیں. یا منفی قیمت کے ساتھ خریدیں.
+"</string>
+    <string name="help">مدد</string>
+    <string name="help_floating_icon_title">سچل آئکن</string>
+    <string name="help_exact_search_title">بالکل تلاش</string>
+    <string name="help_speedhack_title">تیز رفتار</string>
+    <string name="help_group_search_title">گروپ کی تلاش</string>
+    <string name="help_others_title">دیگر</string>
+    <string name="help_typical_usage_title">عام استعمال الگورتھم</string>
+    <string name="help_hints_title">اشارہ</string>
+    <string name="value_format">ویلیو فارمیٹ</string>
+    <string name="format_hex">ہیکس (تھوڑی دیر) کی اطلاع</string>
+    <string name="format_rhex">ریورس ہیکس (بڑے-اینڈینین) کی اطلاع</string>
+    <string name="clear_selection">انتخاب صاف کریں</string>
+    <string name="invert_selection">انتخاب کو تبدیل کریں</string>
+    <string name="select_all">تمام منتخب کریں</string>
+    <string name="edit_selected">منتخب کردہ ترمیم</string>
+    <string name="delete_selected">منتخب کریں ہٹا دیں</string>
+    <string name="save_selected">منتخب کریں محفوظ کریں</string>
+    <string name="nothing_selected">کچھ بھی نہیں منتخب</string>
+    <string name="items_added">اشیا (__d__) محفوظ کردہ فہرست میں شامل</string>
+    <string name="no_items_for_editing">ترمیم کرنے کیلئے کوئی چیز نہیں ہیں.</string>
+    <string name="edit_info">__s__ __s__ کے طور پر ترمیم کریں</string>
+    <string name="edit_all_info">__d__ __s__ کے طور پر پتے میں ترمیم کریں</string>
+    <string name="autopause">آٹوپن کھیل:</string>
+    <string name="empty_list">"محفوظ فہرست خالی ہے.
+آپ تلاش کے نتائج کی فہرست سے یا میموری ایڈیٹر سے اس میں اشیاء شامل کرسکتے ہیں.
+صرف مطلوبہ عناصر کو منتخب کریں اور مینو میں \"__save_selected__\" کا انتخاب کریں.
+ایک اور طریقہ - ایک قدر میں ترمیم شروع کریں اور چیک باکس چیک کریں \"__save_as__\".
+اس کے ساتھ ساتھ تمام منجمد اقدار خود بخود خود بخود شامل ہیں."</string>
+    <string name="empty_save">محفوظ فہرست خالی ہے. بچانے کے لئے کچھ بھی نہیں ہے.</string>
+    <string name="revert_selected">منتخب کریں واپس</string>
+    <string name="nothing_to_revert">واپس کرنے کے لئے کچھ نہیں</string>
+    <string name="revert_prompt">منتخب اشیاء (__d__) کو واپس لو؟</string>
+    <string name="download">اس اپلی کیشن سے ڈاؤن لوڈ کیا جاسکتا ہے:</string>
+    <string name="format_string">سٹرنگ نمائندگی</string>
+    <string name="forgot_h">"کیا آپ آخر میں '__hex__' بھول گئے؟"</string>
+    <string name="time_jump">وقت چھلانگ</string>
+    <string name="time_jump_hint">آگے کودنے کے لئے سیکنڈ کی تعداد درج کریں:</string>
+    <string name="hide_from_game">کھیل سے __app_name__ چھپائیں:</string>
+    <string name="last_stats">آپ کی آخری تلاش کے لئے اعداد و شمار</string>
+    <string name="memory_access">میموری تک رسائی:</string>
+    <string name="normal">عمومی</string>
+    <string name="extended">توسیع</string>
+    <string name="experimental">تجرباتی</string>
+    <string name="installing">__app_name__ خود بے ترتیب نام کے ساتھ کھیلوں کی طرف سے پتہ لگانے کے لئے خود کو دوبارہ بحال کرتا ہے. رکو.</string>
+    <string name="failed_install">اے پی پی انسٹال کرنے میں ناکام دوبارہ کوشش کریں؟</string>
+    <string name="failed_uninstall">ایپ کو انسٹال کرنے میں ناکام دوبارہ کوشش کریں؟</string>
+    <string name="download_it">ڈاؤن لوڈ کریں</string>
+    <string name="more">مزید</string>
+    <string name="less">کم</string>
+    <string name="no_space">آپ کے آلے پر کوئی جگہ باقی نہیں ہے</string>
+    <string name="install_cancel_prompt">نصب نہ ہونے پر __app_name__ پتہ چلا جا سکتا ہے. کیا آپ واقعی میں منسوخ کرنا چاہتے ہیں؟</string>
+    <string name="intercept">راہ میں روکنا</string>
+    <string name="need_restart">ان تبدیلیوں کو لاگو کرنے کیلئے ہدف اے پی پی کو دوبارہ شروع کرنا لازمی ہے.</string>
+    <string name="must_be_root">"اس پروگرام کے آپریشن کے لئے، آپ کا آلہ جڑنا ہوگا.
+
+__app_name__ مجازی ماحول کے ذریعہ جڑ کے بغیر محدود موڈ میں کام کرسکتا ہے. مثال کے طور پر، __vspace_list__ اور بہت سے دوسرے کے ذریعے.
+مزید تفصیلات کے لئے مدد پڑھیں.
+
+کسی بھی آلہ کو کیسے جڑنا: http://www.xda-developers.com/root/"</string>
+    <string name="skip_">چھوڑ دو</string>
+    <string name="indent_for_the_status_bar">اسکرین کے اوپر سے اندرونی UI:</string>
+    <string name="start_collecting_data">ڈیٹا جمع کرنا شروع کریں</string>
+    <string name="data_collecting_in_progress">ڈیٹا کی مجموعی ترقی میں ہے</string>
+    <string name="copy">کاپی کریں</string>
+    <string name="show_logcat">لاگٹ دکھائیں</string>
+    <string name="path_must_be">"راستہ کم سے کم 2 حروف ہونا چاہئے اور '/' کے ساتھ شروع ہوتا ہے."</string>
+    <string name="fix_it">اسے درست کرو</string>
+    <string name="change_log">لاگ ان تبدیل کریں</string>
+    <string name="used_only_first">صرف پہلے ہی __d__ اشیاء استعمال کیے گئے ہیں.</string>
+    <string name="need_select_more">__d__ یا اس سے زیادہ اشیاء منتخب کریں.</string>
+    <string name="offset">آفسیٹ:</string>
+    <string name="result">نتیجہ:</string>
+    <string name="copy_hex_value">ہیکس قیمت کاپی کریں:</string>
+    <string name="goto_pointer">پوائنٹر پر جائیں:</string>
+    <string name="offset_calculator">آفسیٹ کیلکولیٹر</string>
+    <string name="fill_toolbar">ٹول بار بھریں:</string>
+    <string name="from_left">بائیں سے</string>
+    <string name="from_center">مرکز سے</string>
+    <string name="from_right">دائیں سے</string>
+    <string name="unit_years_short">y</string>
+    <string name="unit_days_short">د</string>
+    <string name="unit_hours_short">h</string>
+    <string name="unit_minutes_short">منٹ</string>
+    <string name="unit_seconds_short">سیکنڈ</string>
+    <string name="speed_info">__s__ اصلی وقت = __s__ کھیل کے وقت میں</string>
+    <string name="search_helper">تلاش مددگار:</string>
+    <string name="off">بند</string>
+    <string name="go_to_game">اگر بہت سے اقدار پایا جاتا ہے، تو کھیل میں واپس جائیں</string>
+    <string name="go_to_game_and_restore">بہت سے اقدار مل جاتے ہیں اور اگلے کھلے کھلے تلاش کے موڈ کو بحال کرنے کے بعد کھیل میں واپس جائیں</string>
+    <string name="nothing">کچھ نہیں</string>
+    <string name="sort">ترتیب دیں</string>
+    <string name="sort_and_remove_duplicates">ڈپلیکیٹز کو ترتیب دیں اور ہٹا دیں</string>
+    <string name="help_basics_title">بنیادی معلومات</string>
+    <string name="help_basics">"آپ کو درخواست شروع کرنے کے بعد، \"__start__\" کے بٹن پر کلک کرکے، سکرین پر ایک فلوٹنگ آئکن ظاہر ہوگی. یہ کسی بھی جگہ پر گھسیٹ لیا جا سکتا ہے.
+آئکن پر مختصر ٹیپنگ اہم ایپلی کیشنز کے انٹرفیس کو کھول دے گا، کھیل کی رفتار کو تبدیل کرنے کے لئے لمبا نل - ایک پینل دکھائیں.
+
+اہم اسکرین میں آپ دیکھ سکتے ہیں:
+\u0009* اوپری بائیں کونے میں - کھیل کا آئکن. اس پر ٹپنگ آپ کو ایک اور کھیل کا انتخاب کرنے کی اجازت دیتا ہے.
+\u0009* مرکز میں واقع ٹیب کے ذریعے تشریف لے جانے کے لئے بک مارک ہیں. مطلوب بک مارک پر ٹپنگ مناسب ٹیب دکھاتا ہے.
+
+مجموعی طور پر 4 ٹیبز ہیں: ترتیبات، تلاش، محفوظ کردہ فہرست اور میموری ایڈیٹر.
+\u0009* انٹرفیس کے اوپری دائیں کونے میں قریبی بٹن ہے. اس پر دبائیں اور انٹرفیس کو چھپا رکھا جائے گا، اور اسکرین پر ایک فلوٹنگ آئکن ظاہر ہوگی.
+\u0009* اسکرین کے نچلے حصے میں ایک حیثیت کی بار اور آنکھ کی آئکن ہے. اگر آپ آنکھ کی آئکن پر دبائیں اور رکھے تو، انٹرفیس شفاف ہو جاتا ہے، جب تک کہ آپ اپنی انگلی نہیں رہیں.
+\u0009* اسکرین پر باقی مواد پر منحصر ہے جس پر آپ ٹیب پر ہیں.
+
+ہر ٹیب پر، ترتیبات کے ٹیب کے سوا، ایک مینو بٹن ہے، جس میں مختلف قسم کے ممکنہ اعمال ہوتے ہیں. اس میں آپ اس ٹیب کے لئے اہم کام ملیں گے.
+
+ترتیبات ٹیب میں مختلف ترتیبات، مدد، اور درخواست کے بارے میں معلومات، اور باہر نکلنے کے بٹن پر مشتمل ہے.
+
+تلاش ٹیب پر مشتمل ہے:
+\u0009* روک دیں بٹن، منتخب کردہ کھیل کا نام، پایا پایا نتائج، اور ریفریش بٹن.
+\u0009* ذیل میں ایک پینل فوری رسائی کی شبیہیں اور مینو بٹن کے ساتھ ہے. تمام شبیہیں مینو پر نقل کی جاتی ہیں، لہذا اگر آپ آئیکن کے معنی نہیں جانتے تو، ہمیشہ مینو بٹن پر کلک کرکے دیکھا جا سکتا ہے.
+\u0009* ان شبیہیں کے نیچے تلاش کے نتائج کی فہرست ہوگی.
+
+محفوظ فہرست ٹیب پر مشتمل ہے:
+\u0009* روک دیں بٹن، منتخب کردہ درخواست کا نام، مینو بٹن اور تازہ ترین بٹن.
+\u0009* ان شبیہیں کے نیچے محفوظ قیمتوں کی فہرست ہوگی.
+
+میموری ایڈیٹر ٹیب پچھلے، صرف محفوظ شدہ اقدار کی ایک فہرست کے بجائے ہے جیسے میموری مواد کو دکھاتا ہے.
+
+تمام تین فہرستوں میں (تلاش کے نتائج، محفوظ اقدار اور میموری ایڈیٹر)، آپ کو سیاحت کے مینو کو ظاہر کرنے کے لئے اشیاء پر ایک لمبا نل کر سکتا ہے."</string>
+    <string name="daemon_killed">"ڈیمونین نے کچھ کی طرف سے مارا تھا.
+
+عام طور پر یہ ہوسکتا ہے:
+\u00091. کسی بھی میموری قاتل یا اصلاح کار. آپ کو کسی قاتلین کو غیر فعال کرنا ضروری ہے یا اپنی ترتیبات میں __app_name__ سفید فہرست شامل کریں.
+\u00092. __daemon_killed_oom__
+\u00093. میموری کارڈ غیر مسدود کیا گیا تھا، جبکہ __app_name__ اس پر عارضی فائلوں کو محفوظ کیا گیا تھا. ہو رہا ہے اس سے روکنے کے لئے، عارضی فائلوں پر ایک مختلف راستہ کی وضاحت کریں. مثال کے طور پر، داخلی میموری میں."</string>
+    <string name="bad_settings">غلط ترتیبات</string>
+    <string name="freeze_lags">ترتیب __hide_from_game__ کے ساتھ ساتھ منجمد اقدار کا استعمال کرتے ہوئے کھیل میں رکاوٹ بن سکتا ہے.</string>
+    <string name="improve_translation">یہ ترجمہ خود کار طریقے سے مترجم کی طرف سے پیدا کیا گیا تھا. آپ کو ہماری اجتماعی ترجمہ کی خدمت کا استعمال کرکے اسے بہتر بنا سکتے ہیں.</string>
+    <string name="freeze_interval">منجمد وقفہ:</string>
+    <string name="saved_list_update_interval">محفوظ فہرست اپ ڈیٹس وقفہ:</string>
+    <string name="milliseconds_short">محترمہ</string>
+    <string name="disable_floating_windows">فلوٹنگ ونڈوز کو غیر فعال کریں اور اپلی کیشن کو دوبارہ شروع کریں</string>
+    <string name="enable_floating_windows">فلوٹنگ ونڈوز کو فعال کریں اور اپلی کیشن کو دوبارہ شروع کریں</string>
+    <string name="too_many">بہت زیادہ</string>
+    <string name="help_range_search_title">رینج کی تلاش</string>
+    <string name="help_range_search">"* رینج کی تلاش:
+\u00091. کھیل سے __app_name__ پر سوئچ کریں.
+\u00092. \"__search__\" ٹیب میں \"__search_known_value__\" کے بٹن کو تھپتھپائیں.
+\u00093. \"__tilde__\" کی طرف سے الگ سرحد سرحد کی حد درج کریں. مثال کے طور پر، 100 سے 150 سے اقدار تلاش کرنے کے لئے درج کریں:
+\u0009\u0009\u0009100__tilde__150
+\u0009\u0009رینج کے باہر تلاش کرنے کے لئے، آپ کردار \"__tilde__\" دو مرتبہ بیان کر سکتے ہیں:
+\u0009\u0009\u0009100__tilde____tilde__150
+\u0009\u0009متبادل طور پر، آپ کو \"__not_equal__\" نشان منتخب کر سکتے ہیں اور ایک بار \"__tilde__\" کردار کی وضاحت کرسکتے ہیں.
+\u0009\u0009اضافی علامات انضمام کرنے کے لئے داخلی کی بورڈ پر \"__btn_hex__\" کے بٹن کا استعمال کریں.
+\u00094. مناسب ڈیٹا کی قسم منتخب کریں، یا \"__type_auto__\" (اگر آپ کو یقین نہیں ہے) اور دوسرے اختیارات (اگر ضرورت ہو تو) کا انتخاب کریں اور \"__search__\" پر کلک کریں.
+\u00095. تلاش ختم ہونے پر، تلاش کے نتائج کو فہرست میں پیش کیا جائے گا.
+\u00096. واپس کھیل. قدر تبدیل ہونے کے بعد، دوبارہ __app_name__ پر سوئچ کریں.
+\u00097. مناسب تبدیلیوں کے ساتھ رینج کی تلاش دوبارہ کریں.
+\u00098. اگر بہت سے نتائج ہیں تو، 6 اور 7 مرحلے کو دوبارہ کریں.
+\u00099. اگر کچھ نتائج باقی ہیں تو، آپ کو قیمت، ترمیم یا ذخیرہ کرنے کی کوشش کر سکتے ہیں.
+
+\u0009تلاش کے نتائج میں شامل رینج کی حدود. آپ کی تمام قسموں کو تلاش کرنے کیلئے \"__not_equal__\" کی تلاش کی قسم منتخب کر سکتے ہیں جو رینج سے متعلق نہیں ہیں.
+\u0009اس تلاش میں، تمام اقدار دستخط کئے جاتے ہیں.
+"</string>
+    <string name="does_not_support">\"__s__\" کی حمایت نہیں کرتا \"__s__\".</string>
+    <string name="range_bounds_diff_types">رینج کی حد ایک ہی قسم کے ہونا ضروری ہے.</string>
+    <string name="examples">مثال</string>
+    <string name="rtfm">مزید تفصیلات کے لئے مدد پڑھیں.</string>
+    <string name="icons_size">شبیہیں کا سائز:</string>
+    <string name="revert_and_remove">واپس اور ہٹا دیں</string>
+    <string name="remove">دور</string>
+    <string name="ordered_group_search">آرڈر گروپ کی تلاش</string>
+    <string name="load_items">اشیاء</string>
+    <string name="load_values">قیمتیں</string>
+    <string name="load_freeze">منجمد</string>
+    <string name="video_tutorials">ویڈیو سبق اور رہنماؤں کو ہیک کرنے کا طریقہ</string>
+    <string name="make_copy">ایک کاپی بنائیں</string>
+    <string name="video">ویڈیوز</string>
+    <string name="ordered">حکم دیا</string>
+    <string name="toolbars">ٹول بار</string>
+    <string name="saved_list">محفوظ فہرست</string>
+    <string name="memory_editor">میموری ایڈیٹر</string>
+    <string name="restart_game">کھیل کو دوبارہ شروع کریں</string>
+    <string name="refine">بہتر کریں</string>
+    <string name="internal_storage">اندرونی سٹوریج</string>
+    <string name="external_storage">بیرونی ذخیرہ</string>
+    <string name="new_search">نئی تلاش</string>
+    <string name="load_saved_list">فائل سے محفوظ کردہ فہرست لوڈ کریں</string>
+    <string name="save_saved_list">محفوظ کردہ فائل کو فائل میں محفوظ کریں</string>
+    <string name="append">شامل کریں</string>
+    <string name="xor_key">XOR کلید:</string>
+    <string name="only_memory">صرف میموری کی حد کے اندر:</string>
+    <string name="dump_memory">میموری ڈمپ</string>
+    <string name="path">راہ:</string>
+    <string name="dump_ended">ڈمپ ختم ہوگیا</string>
+    <string name="dump_failed">ڈمپ ناکام ہوگیا</string>
+    <string name="eperm_error_defend">عمل میں منسلک نہیں کیا جا سکتا (PTRACE_ATTACH): کھیل محفوظ ہے</string>
+    <string name="reset_on_exit">باہر نکلنے پر ری سیٹ کریں:</string>
+    <string name="kill_game">کھیل کو مار ڈالو</string>
+    <string name="kill_game_info">جب تک کسی عمل کو ختم کرنے سے عمل صاف نہیں ہوسکتا ہے اور اس سے ڈیٹا نقصان یا نظام کے عدم استحکام کا سبب بن سکتا ہے.</string>
+    <string name="continue_ask">جاری رہے؟</string>
+    <string name="copy_memory">میموری کاپی کریں</string>
+    <string name="copy_from">سے کاپی کریں:</string>
+    <string name="paste_to">پیسٹ کریں:</string>
+    <string name="count_bytes">بٹس شمار کریں:</string>
+    <string name="copy_ended">میموری کا اختتام ختم</string>
+    <string name="copy_failed">میموری کاپی ناکام ہوگیا</string>
+    <string name="help_encrypted_search_title">خفیہ کردہ اقدار کے لئے تلاش کریں</string>
+    <string name="help_encrypted_search">"* خفیہ کردہ اقدار کے لئے تلاش کریں:
+\u00091. کھیل سے __app_name__ پر سوئچ کریں.
+\u00092. \"__search__\" ٹیب میں \"__search_known_value__\" کے بٹن کو تھپتھپائیں.
+\u00093. اس کھیل میں درج کردہ نمبر ان پٹ.
+\u00094. مناسب ڈیٹا کی قسم منتخب کریں، یا \"__type_auto__\" (اگر آپ کو یقین نہیں ہے)، کسی بھی دوسرے اختیارات (اگر ضرورت ہو تو) \"__mode_hacking__\" کو چیک کریں اور \"__search__\" پر کلک کریں.
+\u00095. تلاش ختم ہونے پر، تلاش کے نتائج کو فہرست میں پیش کیا جائے گا.
+\u00096. کھیل میں واپس جائیں. قدر تبدیل ہونے کے بعد، دوبارہ __app_name__ پر سوئچ کریں.
+\u00097. تبدیل کردہ قیمت کے لئے تلاش کریں. چیک باکس \"__mode_hacking__\" کو چیک کیا جائے گا.
+\u00098. اگر بہت سے نتائج ہیں تو، 6 تک جاری رہیں.
+\u00099. اگر صرف چند نتائج باقی ہیں تو، آپ کو قیمت، ترمیم یا ذخیرہ کرنے کی کوشش کر سکتے ہیں.
+"</string>
+    <string name="help_faq_title">اکثر پوچھے گئے سوالات</string>
+    <string name="help_faq_1_q">میں 99 یا 60،000 سے زائد قدر میں داخل کیوں نہیں کر سکتا؟</string>
+    <string name="help_faq_1_a">آپ نے __type_byte__ یا __type_word__ کی قیمت ملائی. __type_dword__ کو بڑے اقدار میں داخل کرنے کے لئے دیکھو.</string>
+    <string name="help_faq_2_q">قیمت کے جزوی حصہ کے بغیر، جزوی (__type_float__) اقدار کے لئے تلاش کرنے کے لئے کس طرح؟</string>
+    <string name="help_faq_2_a">\"__type_auto__\" ڈیٹا کی قسم یا رینج کا استعمال کریں. مثال کے طور پر، 11.345 کے لئے آپ \"10__tilde__12\" تلاش کرسکتے ہیں.</string>
+    <string name="help_faq_3_q">مجھے قدر مل گیا اور اسے تبدیل کر دیا، لیکن کھیل میں یہ تبدیلی کچھ نہیں کرتا. میں صرف اس کا استعمال کرنے کی کوشش کر رہا ہوں لیکن سب کچھ واپس آتا ہے. میں کیا کر رہا ہوں غلطی؟</string>
+    <string name="help_faq_3_a">"کچھ کھیلوں میں، اقدار محفوظ یا خفیہ کردہ ہیں. قیمت کی نمائش سے پہلے، قیمت کسی دوسرے متغیر میں خراب ہے. تم نے اسے تبدیل کیا.
+چونکہ یہ قیمت صرف ڈسپلے کے لئے استعمال کی جاتی ہے، یہ کھیل میکانکس کو متاثر نہیں کرتا. ظاہر کردہ قیمت کے بجائے حقیقی قدر تلاش کرنے کے لئے، خفیہ کاری قیمت کے لئے تلاش کا استعمال کریں، یا فجی تلاش.
+کبھی کبھی قیمت پر سرور کو ذخیرہ کیا جاتا ہے اور ہر وقت مطابقت پذیر ہوتا ہے. اس صورت میں، یہ ہیک نہیں کیا جا سکتا. اگر کھیل انٹرنیٹ کے بغیر کام نہیں کرتا ہے اور پچھلے طریقوں سے مدد نہیں کی جاتی ہے - اس کا امکان یہ ہے کہ یہ معاملہ ہے."</string>
+    <string name="help_faq_4_q">کھیل ایکس میں قدر نہیں ملتی ہے یا اسے ڈھونڈتا ہے، لیکن جب کچھ بھی نہیں بدل جاتا ہے. یا یہ اسے ڈھونڈتا ہے، لیکن اس کے بعد کھیل کے حادثے کو تبدیل کر دیا گیا ہے. میں کیسے جانتا ہوں کہ کیا مسئلہ ہے، کیا یہ کھیل میں تحفظ یا __app_name__ کے ساتھ ہے؟</string>
+    <string name="help_faq_4_a">"آپ کو ایک آسان پروگرام لازمی ہے جس کی کوئی ضمانت نہیں ہے اور اس کی کوشش کی جائے گی. میں \"ہل چڑھنے کی دوڑ\" استعمال کرنا پسند کرتا ہوں. کھیل آسان ہے، غیر معمولی ہے اور اس میں کوئی دفاع نہیں ہے. آپ رقم کی ہیکنگ کو نمبر کی طرف سے براہ راست تلاش کے طور پر چیک کر سکتے ہیں، اور تبدیلی کے لئے فجی تلاش کر سکتے ہیں.
+اگر اس سادہ کھیل پر کام کرنا ہیکنگ ہو تو، اس میں اس کھیل کا کھیل ہے جس نے آپ کو ہیک کرنے کی کوشش کی. اگر نہیں، تو مسئلہ __app_name__ میں ہے.
+یہاں تک کہ ایک آسان اختیار بھی ہے: \"انسداد ٹیپ\". انسٹال کریں. رن. اسکرین پر دکھایا گیا ٹیپ کی تعداد کو کچلنے کی کوشش کریں. یہ بہت آسان ہونا چاہئے. اگر نہیں، تو مسئلہ __app_name__ یا اس کی ترتیبات میں ہے.
+__app_name__ کا دوسرا ورژن آزمائیں، متعلقہ موضوع یا انٹرنیٹ پر فورم پر موصول ہونے والی غلطی کی وضاحت کرنے کی کوشش کریں. انتہائی صورتوں میں، آپ کو فورم میں تقریبا پوچھ سکتے ہیں."</string>
+    <string name="help_faq_5_q">وقت کی تلاش کیسے کریں؟</string>
+    <string name="help_faq_5_a">"\u0009- دن، گھنٹے، منٹ یا سیکنڈ کی تعداد کے طور پر تلاش کرنے کی کوشش کریں. ڈیٹا کی قسم یا تو __type_byte__، __type_word__، __type_dword__ یا __type_qword__ ہوسکتا ہے. اس کے علاوہ آپ __type_auto__ کی قسم استعمال کرسکتے ہیں.
+\u0009- کئی ملٹی یا نانوسیکنڈ کے طور پر تلاش کرنے کی کوشش کریں. ڈیٹا کی قسم __type_dword__ یا __type_qword__ ہے.
+\u0009- اختتام تاریخ کے یونیکس ٹائمسٹیمپ کے طور پر تلاش کرنے کی کوشش کریں. ٹائپ - __type_dword__. یہ موجودہ یونیسی ٹائسٹسٹیمپ اور محفوظ کردہ کے درمیان فرق کے طور پر سمجھا جاتا ہے. رینج کی تلاش کے ذریعہ تلاش کریں.
+مثال کے طور پر، اگر 30 دن لکھے جاتے ہیں، تو آپ موجودہ یونیسی ٹائسٹسٹیمپ سے 30 +/- 1 دن تلاش کر رہے ہیں. موجودہ یونیکس ٹائمسٹیمپ کو آسانی سے انٹرنیٹ پر دیکھا جا سکتا ہے."</string>
+    <string name="help_faq_6_q">کیا یہ آن لائن گیمز ہیک کرنے کے لئے ممکن ہے؟</string>
+    <string name="help_faq_6_a">کلائنٹ پر ذخیرہ کردہ ڈیٹا کو ہیک کرنا ممکن ہے. سرور پر کچھ بھی ہیک نہیں کیا جا سکتا. مختلف کھیلوں میں مختلف طریقے سے ہوسکتے ہیں. یہاں تک کہ ایک کھلاڑی کھیل کے اندر اندر، کچھ اعداد و شمار سرور پر ہوسکتے ہیں، اور کچھ نہیں ہوسکتا.</string>
+    <string name="help_faq_7_q">تیز رفتار کام کہاں ہے؟</string>
+    <string name="help_faq_7_a">"SpeedHack x86 لائسنسوں / ایمولیوٹروں پر کھیلوں کے ساتھ کام نہیں کرسکتے جن کے پاس x86 لائبریری نہیں ہیں.
+اس کے علاوہ اے آر ٹی کے ماحول کے لئے، تیز رفتار جاوا ٹائمر کے ساتھ کام نہیں کرتا. اگر کھیل ان کا استعمال کرتا ہے اور آپ کے پاس اے آر ٹی ماحول (عام طور پر لوڈ، اتارنا Android 5 اور اس سے اوپر) ہے، تو تیز رفتار کام نہیں کرے گا."</string>
+    <string name="help_faq_8_q">__app_name__ میرے لئے ایک مکمل کام کے طور پر، لیکن کچھ کھیلوں میں مجھے PTRACE_ATTACH کی غلطی مل رہی ہے. اس کے بارے میں اور کیا کرنا ہے؟</string>
+    <string name="help_faq_8_a">یہ کھیل سیفیویو تحفظ کی قسم کی طرف سے ڈیبگنگ کے خلاف تحفظ سے لیس ہے. __app_name__ اس تحفظ کو با پاس نہیں کر سکتا. اس کے ذریعے، آپ اس کھیل کو ہیک نہیں کر سکتے ہیں.</string>
+    <string name="help_faq_9_q">درخواست کیوں اس طرح کے ایک عجیب پیکج کا نام ہے؟ درخواست کیوں اپ ڈیٹ نہیں کی جاتی ہے، لیکن ہر وقت الگ الگ انسٹال ہے؟ ہر نسخے میں مختلف پیکج کا نام کیوں ہے؟</string>
+    <string name="help_faq_9_a">پیکیج نام کے ذریعہ اینٹی دھوکہ دہی سے پتہ لگانے کے لۓ.</string>
+    <string name="help_faq_10_q">کچھ کھیلوں میں، رفتار کو تبدیل کرتے وقت (تیز)، وہ کلکس کو جواب دینا بند کر دیتے ہیں. کیا یہ کھیل کی حفاظت یا پروگرام کی غلطی ہے؟</string>
+    <string name="help_faq_10_a">اس کا مطلب یہ ہے کہ آپ کا تیز رفتار ان پٹ ٹائمز میں مداخلت کرتا ہے اور یہ مر جاتا ہے. ٹائمروں کی فہرست میں سبز چیک نشان منتخب کرنے کے لئے ضروری ہے (__app_name__ کی ترتیبات میں) تاکہ ایسا نہ ہو.</string>
+    <string name="help_faq_11_q">غلطیوں کی ایک کوما علیحدہ فہرست کیوں جاری کرتی ہے؟</string>
+    <string name="help_faq_11_a">کیونکہ اعداد و شمار کی قطع نظر ایک سیمکول (\"__semicolon__\") ہے.</string>
+    <string name="help_faq_12_q">میں ایک ہی وقت میں ایک سے زیادہ تلاشوں کو کیسے انجام دیتا ہوں؟</string>
+    <string name="help_faq_12_a">فی الحال، درخواست اس کی اجازت نہیں دیتا ہے، لیکن آپ کو کافی میموری اور ڈسک کی جگہ موجود ہے تو آپ کو کئی بار اپلی کیشن انسٹال کر سکتے ہیں اور کاپیاں چلائیں.</string>
+    <string name="help_faq_13_q">کیا مجھے اپ ڈیٹ کی اپ ڈیٹ کرنے کی ضرورت ہے اگر تبدیلیوں میں کچھ اہم نہیں ہے؟</string>
+    <string name="help_faq_13_a">یہ تجویز کی گئی ہے. سپورٹ صرف تازہ ترین ورژن کے لئے ہے.</string>
+    <string name="help_faq_14_q">علامات کیا ہیں \"!\" اور \"#\"، عمل کے نام سے پہلے؟</string>
+    <string name="help_faq_14_a">"یہ پتہ چلتا ہے کہ عمل.
+\u0009\"#\" - اس عمل سے پہلے اس کا مطلب یہ ہے کہ اسے کسی دوسرے عمل سے پتہ چلتا ہے.
+\u0009\"!\" - اس عمل سے پہلے، یہ عمل کچھ دوسرے عمل کا پتہ چلا ہے.
+ڈیبگنگ یا ہیکنگ کے لئے ٹرننگ عام ہے. اس کے علاوہ کچھ تحفظات میں بھی استعمال ہوتا ہے. عام طور پر، \"#\" نشان کے ساتھ ایک عمل ایک محفوظ عمل ہے."</string>
+    <string name="help_faq_15_q">معیار کی تنصیب کے بعد درخواست خود کی تنصیب کو انجام دیتا ہے، جڑ کے حقوق کی درخواست جاری کیوں کرتی ہے؟</string>
+    <string name="help_faq_15_a">__app_name__ خود کو دھوکہ دہی سے روکنے کے لئے بے ترتیب ڈیٹا کے ساتھ خود کو بحال کرتا ہے. \"خاموش\" تنصیب اور انسٹال کرنے کے لئے روٹ حقوق کی ضرورت ہوتی ہے. آپ انہیں باہر نہیں نکال سکتے. اس صورت میں، آپ کو ایپلی کیشنز کو انسٹال کرنے کے لئے نظام کے تمام درخواستوں کو دستی طور پر جواب دینا ہوگا.</string>
+    <string name="help_faq_16_q">__pkg__ کیا ہے؟ کیا یہ ٹراجن یا وائرس ہے؟ کیا یہ ایپلی کیشن جڑ تک رسائی دینے کے لئے محفوظ ہے؟</string>
+    <string name="help_faq_16_a">یہ __app_name__ پیکج کا بنیادی نام ہے. __app_name__ قابل اعتماد ذرائع سے ڈاؤن لوڈ کی جاتی ہے تو جڑ تک رسائی جاری رکھنا محفوظ ہے.</string>
+    <string name="help_faq_17_q">بے ترتیب حروف سیٹ کے طور پر نامزد کردہ ایپلی کیشنز کی فہرست میں __app_name__ کیوں ہے؟ یہ کردار کیوں جڑ تک رسائی کی درخواست کرتا ہے؟ جب __app_name__ کو شروع کرتے ہوئے لکھتے ہیں کہ جڑ کو __app_name__ کی طرف سے فراہم نہیں کی گئی ہے، لیکن کسی قسم کے abracadabra کی طرف سے؟</string>
+    <string name="help_faq_17_a">کیونکہ __app_name__ خود کو دھوکہ دہی سے خود کو چھپانے کے لئے استعمال کرتا ہے.</string>
+    <string name="help_faq_18_q">کبھی کبھی anticheats کی طرف سے پتہ چلا تازہ ترین ورژن __app_name__ کیوں ہے، اور کبھی کبھی نہیں؟</string>
+    <string name="help_faq_18_a">کیونکہ __app_name__ اینٹی دھوکہ دہی کے ذریعے خود کش کو چھپانے کے لئے مختلف چیزیں استعمال کرتی ہیں. اس میں بے ترتیب پیکیج کا نام اور درخواست شامل ہے. ہر تنصیب میں وہ مختلف ہیں. دوبارہ شروع کرنے کیلئے __app_name__ دوبارہ انسٹال کرنے کی کوشش کریں. شاید اس انسداد دھوکہ دہی کے بعد __app_name__ کو دیکھنے کے لئے جاری رہیں گے.</string>
+    <string name="help_faq_19_q">میرا کھیل درخواست کی فہرست میں کیوں نہیں ہے؟</string>
+    <string name="help_faq_19_a">کیونکہ یہ چلانے والے ایپلی کیشنز کی ایک فہرست ہے، اور آپ کی درخواست چل رہی نہیں ہے. اسے چلائیں، اور پھر اسے __app_name__ میں منتخب کریں.</string>
+    <string name="help_faq_20_q">جاوا ایپلی کیشنز لوڈ، اتارنا Android 5 اور اس سے اوپر تیز رفتار کیوں نہیں جواب دے سکتے ہیں؟</string>
+    <string name="help_faq_20_a">چونکہ جلد ہی مقامی لائبریریوں کے کھیلوں کے لئے ڈیزائن کیا گیا ہے. آپ کی درخواست نہیں ہے. اور چونکہ Android 5 نے آرٹ کے ماحول کو Dalvik کی بجائے استعمال کیا، جو جاوا ٹائمروں کو مداخلت کرنے میں ناممکن بناتا ہے. کچھ بھی نہ کرو. صورتحال میں مستقبل میں تبدیلی نہیں ہوگی.</string>
+    <string name="help_faq_21_q">میں لوڈ، اتارنا Android 4 پر ایک مختلف تیز ہیک / ہیکنگ کے آلے کا استعمال کیا اور سب کچھ کام کیا. اب میں __app_name__ پر لوڈ، اتارنا Android 5 اور اس پر، لیکن ان طریقوں کو کام نہیں کرتے. کیوں؟</string>
+    <string name="help_faq_21_a">"کیونکہ بہت سے چیزیں بدل گئی ہیں اور آپ کی افادیت اس طرح کام نہیں کرے گی. اپنے دلوں کو نہ بنائیں کہ یہ __app_name__ بہت برا ہے، لیکن اگر اس کی افادیت تھی، تو پھر! ایسی بات نہیں ہے.
+اس کی جانچ کرنے کے لئے، Android 4 پر __app_name__ انسٹال کریں، اور اسی افعال کے طور پر اس افادیت میں دوبارہ کریں. نتیجے کے طور پر، آپ کامیاب ہو جائیں گے. لیکن اس کا مطلب یہ نہیں ہے کہ ان طریقوں سے لوڈ، اتارنا Android 5 اور اس سے اوپر کام کریں گے.
+اس حقیقت کو بار بار استعمال ہونے کی تصدیق کی جاتی ہے."</string>
+    <string name="help_faq_22_q">میں ایک ویڈیو نمونہ / اسکرین شاٹس دیکھ رہا ہوں اور میموری ایڈیٹر میں دیگر ڈیٹا موجود ہیں. کیوں؟</string>
+    <string name="help_faq_22_a">کیونکہ ویڈیو / اسکرین شاٹ میں مختلف پیداوار کی شکل ہے. میموری ایڈیٹر میں، مینو پریس کریں - \"__value_format__\" کو منتخب کریں اور آؤٹ لک کو تشکیل دیں جیسا کہ یہ ہونا چاہئے.</string>
+    <string name="help_faq_23_q">جب قدر منجمد ہوجاتا ہے، تو اس کھیل کو بریک یا لپیٹ کرنا شروع ہوتا ہے. کیوں؟</string>
+    <string name="help_faq_23_a">کیونکہ آپ __app_name__ ترتیبات میں \"__hide_from_game__\" کرنے کے قابل ہیں. اسے بند کر دیں.</string>
+    <string name="help_faq_24_q">جب میں درخواست شروع کروں تو میں کس طرح نئے ورژن کیلئے جانچ پڑتال کرسکتا ہوں؟</string>
+    <string name="help_faq_24_a">ہرگز نہیں.</string>
+    <string name="help_faq_25_q">ایپلی کیشن میں وقت کی باری کو کس طرح جاننا ہے؟ کیا ممکن ہے کہ آگے وقت چھلانگ نہ ہو، لیکن پسماندہ ہو؟</string>
+    <string name="help_faq_25_a">ہرگز نہیں. تم نہیں کرسکتے. وقت ہمیشہ بڑھ جانا چاہئے ورنہ کھیل حادثے کر سکتا ہے. تاہم، تازہ ترین ورژن میں ہم نے منفی وقت کی چھلانگ کا امکان بھی شامل کیا. نتیجے میں اس کھیل کا ہار ہو سکتا ہے یا اعداد و شمار کے نقصان سے ہو سکتا ہے. خبردار کیا جائے</string>
+    <string name="help_faq_26_q">میں نے آئکن ڈال دیا اور اسے غائب ہوگیا. میں اسے کیسے حاصل کر سکتا ہوں؟</string>
+    <string name="help_faq_26_a">آئکن شفاف ہو جاتا ہے، لیکن آپ اب بھی اس پر کلک کر سکتے ہیں. جہاں یہ تھا پر کلک کریں، پھر انٹرفیس کے ذریعے ترتیب کو تبدیل کریں.</string>
+    <string name="help_faq_27_q">اگر یہ کھیل کے ساتھ راؤنڈنگ میں ظاہر ہوتا ہے تو میں کس قدر قدر کی تلاش کروں؟ مثال کے طور پر، 1.85M.</string>
+    <string name="help_faq_27_a">تلاش کی حد کے لئے تلاش کریں. حد کی حدود راؤنڈنگ کے قوانین پر منحصر ہے. مثال کے طور پر، معیاری راؤنڈنگ کے لئے \"1845000__tilde__1854999\".</string>
+    <string name="help_faq_28_q">میں فی صد قیمت کی تلاش کیسے کروں؟ مثال کے طور پر، 123__percent__.</string>
+    <string name="help_faq_28_a">It is depends on the implementation. For each game it can all be different. For example 123__percent__. It can be __type_float__ or __type_double__ with any value. Like 1.23 or 123.0. Or it can be integer types: __type_byte__, __type_word__, __type_dword__. For example 123 or 12300. On output it can be divided on some number. 100 or 345 or anything else. For each game it can be different. You can try the most obvious cases. For 123__percent__ it can be 1.23 or 123. Type - __type_auto__. If you are lucky it can be what you need.</string>
+    <string name="help_faq_29_q">کیا کھیل __app_name__ کا پتہ لگاتا ہے؟</string>
+    <string name="help_faq_29_a">"درج ذیل اختیارات (اکیلے یا کسی بھی مجموعہ میں) آزمائیں:
+\u0009- \"__hide_from_game__\" اختیارات کو فعال کریں. عام طور پر کافی 2، 3 اور 4 کے اختیارات.
+\u0009- کیا ایک بے ترتیب کے نام کے ساتھ دوبارہ تقرر __app_name__ منسوخ نہیں. یہ پہلی بار __app_name__ مجازی خلا سے باہر چلایا جاتا ہے ہو گیا ہے.
+\u0009- استعمال XPrivacy یا اسی طرح کی افادیت. ایسا کرنے کے لئے کس طرح کے لئے انٹرنیٹ پر دیکھو.
+\u0009- اگر آپ کو جڑ حقوق، ایپلی کیشنز کی پوشیدہ تنصیب کے ساتھ مجازی خلا سے استعمال جڑ ہے تو. \"__vspace_root__\" ترتیب کے لئے سیاق و سباق کی مدد میں مزید پڑھیں."</string>
+    <string name="work_without_selinux">__selinux__ کے بغیر کام پر سوئچ کریں اور اپلی کیشن کو دوبارہ شروع کریں</string>
+    <string name="work_with_selinux">__selinux__ کے ساتھ کام پر سوئچ کریں اور اپلی کیشن کو دوبارہ شروع کریں</string>
+    <string name="file">فائل:</string>
+    <string name="file_not_found">فائل نہیں ملی:</string>
+    <string name="export_selected">منتخب کردہ برآمد</string>
+    <string name="failed_list_dir">فائل کی فہرست کو پڑھنے میں ناکام</string>
+    <string name="change_float_type">فلوٹنگ ونڈوز کی قسم منتخب کریں</string>
+    <string name="reset_float_type">فلوٹنگ ونڈوز کی قسم کو دوبارہ ترتیب دیں</string>
+    <string name="mask">ماسک:</string>
+    <string name="mask_request">تلاش کرنے کے لئے ایک ایڈریس درج کریں</string>
+    <string name="help_mask_search_title">پتہ (ماسک) تلاش</string>
+    <string name="help_mask_search">"* ایڈریس (ماسک) تلاش:
+\u0009ماسک کے ساتھ ایڈریس کے ذریعے آپ تلاش یا فلٹر کرسکتے ہیں.
+
+\u0009ایک عام مثال پتے کے لئے تلاش کر رہا ہے جو ایک مشہور قیمت کے ساتھ ختم ہو جاتا ہے. مثال کے طور پر، \"12 ای\" پر.
+
+\u0009تلاش کے پیرامیٹرز ایڈریس اور ماسک ہیں.
+\u0009ایڈریس میں وائلڈ کارڈز استعمال کیے جا سکتے ہیں (\"__question__\"). اس علامت کا مطلب یہ ہے کہ یہ \"0\" سے \"F\" کرنے کا کوئی کردار ہو سکتا ہے.
+\u0009ایڈریس سے ایک اضافی ماسک تشکیل دیا جاتا ہے، لہذا معروف ظہر اہم ہے. اس طرح، \"0120\" کی تلاش اور \"120\" کی تلاش ایک ہی چیز نہیں ہے.
+\u0009پہلی صورت میں مل جائے گا: \"00010120\"، \"00020120\"، \"00030120\" اور اسی طرح. جبکہ دوسری میں: \"00001120\"، \"00002120\"، \"00003120\" اور اسی طرح.
+
+\u0009ماسک کے ذریعہ آپ کو مساوات اور مساوات کے لئے دونوں کی تلاش کر سکتے ہیں. غیر ضروری اقدار کو ختم کرنے کا دوسرا اختیار مفید ہوسکتا ہے.
+
+\u0009ایڈریس اور ماسک ہیلکسڈیکیٹل سسٹم میں داخل ہو چکا ہے اور آخر میں \"__hex__\" خط کے بغیر.
+\u0009ایڈریس سے موصول ماسک آپ کے ذریعے داخل کیا گیا ماسک کے ساتھ intersects. یہ نتیجے میں تلاش ماسک ہے.
+
+مندرجہ بالا مثالیں برابر ہیں، کیونکہ نتیجے میں ماسک ایک ہی ہے - \"FF0\"
+__mask_example__
+"</string>
+    <string name="use_sound_effects">صوتی اثرات کا استعمال کریں:</string>
+    <string name="from_range">سے:</string>
+    <string name="to_range">کرنے کے لئے:</string>
+    <string name="resultant_mask">نتائج کا ماسک:</string>
+    <string name="show_time_jump_panel">ٹائم پینل دکھائیں:</string>
+    <string name="use_notification">نوٹیفیکیشن استعمال کریں:</string>
+    <string name="show_gg">__app_name__ دکھائیں</string>
+    <string name="hide_gg">__app_name__ چھپائیں</string>
+    <string name="time_remaining">بقیہ وقت:</string>
+    <string name="help_fill_title">بھریں (اضافہ) اقدار</string>
+    <string name="help_fill">"* بھرتی (اضافہ) اقدار:
+\u0009یہ اکثر ہوتا ہے کہ بہت سے اقدار پایا جاتا ہے، لیکن وہ کھیل سے تبدیل نہیں ہوسکتے ہیں.
+\u0009اس صورت میں، بھرتی بچاؤ کے لئے آتا ہے.
+
+\u0009استعمال کا ایک عام مثال کسی شے کی قیمت کے لئے تلاش ہے، منفی ایک کے بعد بعد میں تبدیلی.
+
+\u00091. مطلوبہ اشیاء کو منتخب کریں.
+\u00092. \"__edit_selected__\" منتخب کریں.
+\u00093. \"__increments__\" فیلڈ کو \"__more__\" فیلڈ کو ظاہر کرنے کیلئے بٹن پریس کریں \"اگر یہ فیلڈ موجود نہیں ہے.
+\u00094. \"__increments__\" فیلڈ میں، اضافہ قیمت درج کریں. عام طور پر یہ ہے 1. اور \"__yes__\" پر کلک کریں.
+\u00095. منتخب کردہ اشیاء کو نئی اقدار مل جائے گی.
+\u00096. کھیل میں جاؤ اور دیکھنا چاہتے ہو کہ کس طرح مطلوب قدر تبدیل ہوگئی ہے، کھیل اسکرینوں میں منتقل.
+\u00097. اگر قیمت تبدیل نہیں ہوئی تو، مطلوبہ عنصر منتخب نہیں میں. __app_name__ پر واپس جائیں اور \"__delete_selected__\" -> \"__revert_and_remove__\" کا استعمال کرتے ہوئے، منتخب شدہ اشیاء کو ہٹا دیں، انہیں پچھلے قدر واپس لو. اب آپ شروع سے دوسرے عناصر کے ساتھ سب کچھ کوشش کر سکتے ہیں، اگر کوئی ہو.
+\u00098. اگر قیمت بدل گیا ہے، تو مطلوبہ عنصر منتخب عناصر میں سے ایک ہے. نئی قدر یاد رکھیں اور __app_name__ پر واپس جائیں.
+\u00099. منتخب کردہ اشیاء کی فہرست میں، مطلوب قیمت کی تلاش کریں. اسے منتخب کریں. \"__delete_selected__\" -> \"__revert_and_remove__\" کا استعمال کرتے ہوئے تمام دیگر اقدار کو حذف کریں، انہیں پچھلے قدر واپس لو.
+\u000910. آپ کی ضرورت کے مطابق مطلوبہ عنصر کی قدر میں ترمیم کریں.
+
+\u0009عام غلطیوں کو بغاوٹ کے بغیر ہٹا دیں. اس کے بعد، کھیل حادثہ کر سکتا ہے.
+
+\u0009اگر آپ بہت سے اقدار تلاش کرتے ہیں تو، حادثے سے بچنے کے لئے چھوٹے حصوں میں بھرنے کی کوشش کریں.
+"</string>
+    <string name="help_hint_1">* اگر آپ ہمیشہ اسی علاقہ میں مطلوبہ اقدار کو تلاش کریں (نتائج کی فہرست میں اشیاء کے اختتام پر خط)، آپ صرف تیزی سے تلاش کیلئے ان علاقوں کو منتخب کرسکتے ہیں.</string>
+    <string name="help_faq_30_q">__app_name__ تلاش کے اقدار بہت آہستہ آہستہ اور پی سی پر لوڈ، اتارنا Android emulator میں ایک طویل وقت کے لئے تلاش.</string>
+    <string name="help_faq_30_a">"زیادہ سے زیادہ امکان ہے کہ آپ PC BIOS میں مجازی کاری کو معذور ہو. اس کو چلاؤ.
+__app_name__ ایمولیٹر کے اندر چلتا ہے، لہذا اس کی رفتار تیز رفتار پر منحصر ہے.
+اگر ورچوئلائزیشن کو فعال کیا جاتا ہے، لیکن رفتار اب بھی کم ہے، آپ کے ایمولیٹر کی ترتیبات کی جانچ پڑتال کریں، یا کسی دوسرے ایمولیٹر کا استعمال کریں.
+آپ کو ایک دوسرے کا آلہ بھی استعمال کر سکتے ہیں - CheatEngine PC کے لئے - یہ تیزی سے تلاش کریں اور آپ کو بہت سے خصوصیات دے گا جو کبھی کبھی __app_name__ میں نہیں ہوں گے."</string>
+    <string name="help_speed_up_title">تلاش کس طرح تیز رفتار</string>
+    <string name="help_speed_up">"* تلاش کس طرح تیز رفتار:
+\u00090. اگر آپ ایک پی سی پر لوڈ، اتارنا Android emulator استعمال کرتے ہیں (BlueStacks، Droid4X، اینڈی، NOX، میمو، AMIDUOS، Windroy، AVD، Genymotion، Koplayer، LeDDroid وغیرہ)، کہ ورچوئلائزیشن کی جانچ پڑتال (VT ٹیکنالوجی، Vanderpool ٹیکنالوجی، ورچوئلائزیشن ٹیکنالوجی ، VTx، VT-D، VMX، ورچوئل ٹیکنالوجی، انٹیل- VT، AMD-V، SVM، IOMMU) PC BIOS میں فعال ہے.
+\u00091. اگر آپ کے پاس بہت زیادہ ریم ہے تو آپ وہاں ڈیٹا ذخیرہ کرسکتے ہیں. یہ بہت تیزی سے تلاش کرتا ہے. ترتیب \"__data_in_ram__\" کو \"__yes__\" پر مقرر کریں. ایک پی سی پر لوڈ، اتارنا Android ایمولیٹر میں، یہ تلاش کو سست کر سکتا ہے.
+\u00092. اگر آپ کے پاس تھوڑا سا رام ہے، تو ڈیٹا کو میموری کارڈ پر ذخیرہ کیا جائے گا. اعلی درجے کے ساتھ ایک میموری کارڈ کا استعمال کریں اور رفتار پڑھائیں.
+\u00093. اگر آپ میموری کارڈ سے کہیں زیادہ تیزی سے ڈیٹا کے اندرونی میموری میں ڈیٹا کی اسٹوریج کی وضاحت کرسکتے ہیں. مطلوبہ راہ پر \"__set_path__\" کی ترتیب قائم کریں.
+\u00094. تلاش پر، صرف مطلوبہ علاقے کو منتخب کریں. سست سے بچیں (\"__slow__\") اور خطرناک (\"__dangerous__\") علاقوں.
+\u00095. آپ تلاش کے لئے، میموری رینج کی حدود کو بھی وضاحت کر سکتے ہیں، اگر آپ انہیں جانتے ہیں. تلاش ڈائیلاگ میں بٹن \"__more__\" پر کلک کریں اور حدود درج کریں.
+\u00096. اعداد و شمار کے مطلوبہ مطلوبہ اقسام کے لئے تلاش کریں. ڈیٹا کی قسم \"__type_auto__\" سست ہے.
+\u00097. تمام ممکنہ \"__hide_from_game__\" کے اختیارات کو غیر فعال کریں.
+\u00098. \"__experimental__\" یا \"__extended__\" \"__memory_access__\" میں استعمال کرنے کی کوشش کریں. یہ اختیارات غیر مستحکم کام کی قیادت کرسکتے ہیں.
+"</string>
+    <string name="help_faq_31_q">تھوڑی دیر کے بعد، __app_name__ آئکن کو غائب ہو گیا ہے.</string>
+    <string name="help_faq_31_a">"اس جگہ پر کلک کرنے کی کوشش کریں جہاں آئیکن ہو. اگر یہ کھلا __app_name__ انٹرفیس ہے، تو آئکن ترتیبات میں چھپی ہوئی ہے یا آپ کے فرم ویئر میں آئیکم ڈسپلے کے ساتھ کیڑے ہیں.
+اگر انٹرفیس کھلی نہیں ہے تو، اس کا مطلب یہ ہے کہ __app_name__ میموری سے اتار دیا گیا ہے.
+ممنوع وجوہات:
+
+\u00091. آلہ پر کافی ریموٹ نہیں ہے - __app_name__ نظام کی طرف سے ہلاک. کم رام استعمال کرنے کی کوشش کریں. __app_name__ ترتیبات میں، رام میں ڈیٹا کی اسٹوریج کی وضاحت نہ کریں، بڑی مقدار میں ظاہر شدہ نتائج قائم نہ کریں، رام سے \"اضافی\" ایپلی کیشنز کو اجاگر نہ کریں، ایپلیکیشنز کے \"ہلکے وزن\" کا استعمال کریں جو غیر فعال نہیں ہوسکتے ہیں. مثال کے طور پر، لانچر ). خاص طور پر خراب معاملات میں، کھیل کے ساتھ __app_name__ چلانے سے قبل آلے کو ریبوٹ. تقریبا تمام فرم ویئر ہمیشہ لیک ریم ہے. ریبوٹ کے بعد زیادہ وقت - کم دستیاب رام.
+
+\u00092. آپ کے پاس ایک قاتل قاتل ہیں جو __app_name__ کو مارتے ہیں.
+
+قاتلوں کو غیر فعال کریں یا __app_name__ کو اپنی استثناء میں شامل کریں.
+قاتلوں نے \"اصلاح کار\" اور \"اصلاحات\" کے تمام قسم کے رام بھی ہیں.
+عام طور پر، سافٹ ویئر کی وضاحت دیکھیں، اگر آپ نہیں جانتے تو قاتل یا نہیں.
+
+FlyMe کے لئے: __app_name__ کام کے چند منٹ کے بعد کسی بھی وجہ کے لئے - آپ کو پس منظر میں __app_name__ اور آپ کے جڑ مینیجر (عام طور پر SuperSu) کے لئے اجازت دینے کی ضرورت ہے.
+
+آپ __app_name__ ترتیبات میں \"__use_notification__\" کو فعال کرنے کی کوشش کر سکتے ہیں. کبھی کبھی یہ __app_name__ کو مارنے سے روکتا ہے."</string>
+    <string name="quick_start_title">فورا شروع کرنا</string>
+    <string name="prevent_unload">انوائس کو روکنے کے لئے</string>
+    <string name="hot_key">گرم کلید:</string>
+    <string name="hide">چھپائیں</string>
+    <string name="execute_script">اسکرپٹ پر عمل کریں</string>
+    <string name="execute">چلائیں</string>
+    <string name="another_script">ایک اور سکرپٹ چل رہا ہے. اس میں مداخلت</string>
+    <string name="interrupt">مداخلت</string>
+    <string name="script">سکرپٹ:</string>
+    <string name="script_ended">اسکرپٹ ختم ہوگیا:</string>
+    <string name="paused">کھیل روک دیا گیا ہے:</string>
+    <string name="by_pause_button">روکنے کے بٹن کی طرف سے</string>
+    <string name="by_option">"اختیاری '__s__' کے ذریعہ"</string>
+    <string name="new_search_short">نئی</string>
+    <string name="speedhack_loading">تیز رفتار لوڈ ہو رہا ہے ...</string>
+    <string name="speedhack_loaded">Speedhack بھرا ہوا ہے.</string>
+    <string name="busy_dialog_fail">پیش رفت کا اظہار نہیں کیا جا سکتا.</string>
+    <string name="site">سائٹ</string>
+    <string name="help_xor_search_title">XOR تلاش</string>
+    <string name="help_xor_search">"* XOR تلاش:
+\u0009\u0009اگر آپ جانتے ہیں کہ آپ کی ضرورت کی قیمت ایک XOR کی کلید کے ساتھ خفیہ ہے جسے ہمیشہ قدر سے ہی فاصلے پر ہے، تو آپ کو ڈس آرڈر قیمت کی طرف سے تلاش کرنے کے لئے اس موڈ کا استعمال کرسکتے ہیں.
+\u00091. کھیل سے __app_name__ پر سوئچ کریں.
+\u00092. \"__search__\" ٹیب میں \"__search_known_value__\" کے بٹن کو تھپتھپائیں.
+\u00093. \"__mode_xor__\" کی طرف سے علیحدہ تلاش نمبر اور XOR کلیدی فاصلے درج کریں. مثال کے طور پر، فاصلہ 8 پر کلید کے ساتھ قیمت 100 تلاش کرنے کے لئے، درج کریں:
+\u0009\u0009\u0009100__mode_xor__8
+\u0009\u0009اضافی علامات انضمام کرنے کے لئے داخلی کی بورڈ پر \"__btn_hex__\" کے بٹن کا استعمال کریں.
+\u00094. مناسب ڈیٹا کی قسم منتخب کریں، یا \"__type_auto__\" (اگر آپ کو یقین نہیں ہے) اور دوسرے اختیارات (اگر ضرورت ہو تو) کا انتخاب کریں اور \"__search__\" پر کلک کریں.
+\u00095. تلاش ختم ہونے پر، تلاش کے نتائج کو فہرست میں پیش کیا جائے گا.
+\u00096. واپس کھیل. قدر تبدیل ہونے کے بعد، دوبارہ __app_name__ پر سوئچ کریں.
+\u00097. مناسب تبدیلیوں کے ساتھ XOR تلاش دوبارہ کریں.
+\u00098. اگر بہت سے نتائج ہیں تو، 6 اور 7 مرحلے کو دوبارہ کریں.
+\u00099. اگر کچھ نتائج باقی ہیں تو، آپ کو قیمت، ترمیم یا ذخیرہ کرنے کی کوشش کر سکتے ہیں.
+
+\u0009آپ XOR تلاش رینج کی تلاش کے ساتھ استعمال کر سکتے ہیں. مثال کے طور پر \"100__tilde__150__mode_xor__8\".
+\u0009عام طور پر XOR کی تلاش معمولی نمبر تلاش سے تیز ہے.
+\u0009اس موڈ گروپ کی تلاش میں یا خفیہ کردہ تلاش میں نہیں کی حمایت کی ہے.
+\u0009فاصلہ 1 سے 4096 پر مشتمل ہونا ضروری ہے.
+\u0009آپ اختتام پر __hex__ علامت کے ساتھ ہییکس فارم میں ان پٹ فاصلے کرسکتے ہیں: \"100__tilde__150__mode_xor__10h\".
+\u0009فاصلے کو اقدار کے مطابق احترام کرنا چاہئے. مثال کے طور پر، ڈومین 4 بائٹ کی حد تک منسلک ہونا ضروری ہے. اس کا مطلب \"40__mode_xor__7\" ڈومین کے لئے بیکار ہے کیونکہ 7 کو تقسیم نہیں کر سکتا 4.
+\u0009اس موڈ کو یکجا کے ساتھ کسی دوسرے کو برا فرم ویئر پر مسائل پیدا ہوسکتی ہے. مثال کے طور پر، اگر آپ عام طور پر تلاش کرتے ہیں اور اس کے بعد XOR موڈ میں ترمیم کرتے ہیں تو یہ آپ کے آلہ کو پھانسی یا ریبوٹ بن سکتا ہے. ایسا نہیں ہوگا اگر پہلی تلاش اس موڈ میں ہوگی.
+\u0009اس موڈ کی ایک فجی تلاش کی حمایت نہیں کی جاتی ہے. آپ اسے معمولی طور پر فجی کام کو یکجا کر سکتے ہیں اور فاصلے سے اپنے XOR کلی کا احترام نہیں کرتے ہیں.
+\u0009قیمتوں کے لئے سائن ان کا احترام کیا جاتا ہے. اس کا مطلب یہ ہے کہ آپ کو قدر کی تلاش نہیں کر سکتے ہیں، برابر، زیادہ، چھوٹے اور اسی طرح.
+\u0009اس تلاش میں، تمام اقدار دستخط کئے جاتے ہیں.
+"</string>
+    <string name="help_faq_32_q">HW / SW ورژن کے ساتھ کیا فرق ہے؟ اور میں کون سا استعمال کروں؟</string>
+    <string name="try_latest">شاید یہ سکرپٹ __app_name__ کے تازہ ترین ورژن کی ضرورت ہے. تازہ ترین ورژن کو اپ ڈیٹ کرنے کی کوشش کریں.</string>
+    <string name="help_string_search_title">متن (تار، HEX، ABB) تلاش</string>
+    <string name="download_scripts">سکرپٹ ڈاؤن لوڈ کریں</string>
+    <string name="hide_icons">لانچر شبیہیں چھپائیں</string>
+    <string name="select_mode">منتخب کریں موڈ</string>
+    <string name="mode_string">متن</string>
+    <string name="mode_mixed">ملا ہوا</string>
+    <string name="string_search_prompt">تلاش کرنے کیلئے ایک متن درج کریں، لمبائی تک __d__ بائٹس تک. مثال کے طور پر</string>
+    <string name="string_empty">آپ کو متن درج کرنا ضروری ہے.</string>
+    <string name="string_not_found">متن \"__s__\" نہیں ملا.</string>
+    <string name="string_found">Found __d__ matches for the text \"__s__\".</string>
+    <string name="string_replace">کیا آپ انہیں تبدیل کرنا چاہتے ہیں؟</string>
+    <string name="string_replace_prompt">\"__s__\" کو تبدیل کرنے کیلئے متن درج کریں. لمبائی __d__ بائٹس سے زیادہ نہیں ہے.</string>
+    <string name="string_replaced">Replaced \"__s__\" to \"__s__\" in __d__ places.</string>
+    <string name="need_allow_background">اس فرم ویئر پر، آپ کو نظام کی ترتیبات میں، __app_name__ پر پس منظر میں کام کرنے کی اجازت دینا ضروری ہے.</string>
+    <string name="calculate_offset_xor">آفسیٹ، XOR</string>
+    <string name="select_copy_item">کاپی کرنے کیلئے ایک آئٹم منتخب کریں:</string>
+    <string name="landscape">زمین کی تزئین</string>
+    <string name="portrait">پورٹریٹ</string>
+    <string name="toolbar_buttons">ٹول بار بٹن</string>
+    <string name="need_update_to">آپ اس سکرپٹ کو چلانے کیلئے __app_name__ کا ایک نیا ورژن کی ضرورت ہے. کم سے کم ورژن __s__. آپ کے پاس ورژن __s__ ہے.</string>
+    <string name="default_mark">پہلے سے طے شدہ</string>
+    <string name="default_">پہلے سے طے شدہ:</string>
+    <string name="reset_button">ری سیٹ کریں</string>
+    <string name="help_hex_colors_title">میموری ایڈیٹر میں رنگ</string>
+    <string name="help_hex_colors">"* __help_hex_colors_title__:
+اگر ہیکس کی نمائندگی سفید نہیں ہے، لیکن رنگ، تو اس قیمت میں سب سے زیادہ امکان پوائنٹر ہے. رنگ کی طرف اشارہ کرتا ہے کہ اس قسم کی یادداشت اس پوائنٹر سے مراد ہے.
+یہ __executable__ میموری، __writable__ یا __read_only__ ہوسکتا ہے. نادر معاملات میں، یہ __writable_and_executable__ میموری ہوسکتی ہے."</string>
+    <string name="executable">عملدرآمد</string>
+    <string name="writable">لکھنا قابل</string>
+    <string name="read_only">صرف پڑھو</string>
+    <string name="writable_and_executable">قابل تحریر اور قابل عمل</string>
+    <string name="help_extract">مدد نکالیں</string>
+    <string name="help_extract_done">مدد __s__ تک نکال دی گئی ہے</string>
+    <string name="help_extract_fail">مدد نکالنے کے دوران ایک خرابی واقع ہوئی:</string>
+    <string name="try_arm_version">پرانے ARM پروسیسرز کی حمایت کے ساتھ __app_name__ کے ورژن کا استعمال کرنے کی کوشش کریں:</string>
+    <string name="back">پیچھے</string>
+    <string name="forward">آگے</string>
+    <string name="no_previous">پچھلا اندراج نہیں</string>
+    <string name="no_next">اگلا اندراج نہیں</string>
+    <string name="from_item">آئٹم سے:</string>
+    <string name="from_context">سیاحت کے مینو سے:</string>
+    <string name="from_boundary">حد سے</string>
+    <string name="from_goto">تصویر کو کال کریں</string>
+    <string name="from_calc">آفسیٹ کیلکولیٹر سے:</string>
+    <string name="help_add_to_value_title">اختیاری \"__add_not_replace__\"</string>
+    <string name="help_add_to_value">"* __help_add_to_value_title__:
+If this option is checked, the entered value will be added to the existing value, and not replace it. For example, the element has a value of 5, and you entered 7, in the value field. If this option is checked, the element will get a new value of 5 + 7, equal to 12. If not checked, then 7.
+آپ مثبت اور منفی اقدار دونوں درج کر سکتے ہیں.
+یہ اختیار قیمت کی منجمد سے مطابقت رکھتا ہے."</string>
+    <string name="check_libs">کھیل لائبریریوں کی تعمیر کی جانچ پڑتال کریں:</string>
+    <string name="arm_libs">"کھیل آرم لائبریریوں کے ساتھ نصب ہے، اگرچہ apk میں وہاں x86 لائبریری ہیں.
+رفتار اور اس سے منسلک سب کچھ، کام نہیں کرے گا.
+\"__skip__\" ان چیکوں کو غیر فعال کرتا ہے. آپ ترتیبات میں اسے واپس کر سکتے ہیں."</string>
+    <string name="manual_install">آپ دستی طور پر .APK فائل انسٹال کر سکتے ہیں. مندرجہ ذیل راستے میں واقع ہے:</string>
+    <string name="as_text">متن کے طور پر (لوڈ نہیں کیا جا سکتا)</string>
+    <string name="as_text_help">انسانی پڑھنے کے لئے آسان متن کی شکل میں فہرست محفوظ کرتا ہے. اس شکل کی لوڈنگ کی حمایت نہیں کی جاتی ہے.</string>
+    <string name="help_pointer_search_title">پوائنٹر کی تلاش</string>
+    <string name="help_pointer_search">اقدار کے لئے تلاش مطلوبہ مطلوبہ ایڈریس پر اشارہ کیا جا سکتا ہے. آپ ممکنہ آفسیٹ کے لئے زیادہ سے زیادہ حد کی وضاحت کرسکتے ہیں.</string>
+    <string name="all_memory">تمام میموری میں</string>
+    <string name="offset_help">ممکنہ آفسیٹ کے لئے زیادہ سے زیادہ حد.</string>
+    <string name="typical_values">عام اقدار</string>
+    <string name="su_command">سپرسیر کمانڈ</string>
+    <string name="starts">کے ساتھ شروع ہوتا ہے</string>
+    <string name="ends">کے ساتھ ختم ہوتا ہے</string>
+    <string name="no_filter">فلٹر نہیں</string>
+    <string name="help_memory_filter_title">میموری ایڈیٹر میں فلٹرنگ</string>
+    <string name="help_memory_filter">"* __help_memory_filter_title__:
+آپ میموری ایڈیٹر میں فلٹر کی وضاحت کرسکتے ہیں. فلٹر سے ملنے والی صرف ان کے نتائج دکھایا جائے گا.
+فلٹر جنگلی کارڈ کی حمایت کرتا ہے:
+\u0009__caret__ - اعداد و شمار کا آغاز،
+\u0009__dollar__ - ڈیٹا کا اختتام،
+\u0009__asterisk__ - کسی بھی حروف کی کسی بھی تعداد،
+\u0009__question__ - ایک ہی کردار.
+مثال کے طور پر، نمبر 42 کو تلاش کرنے کے لئے، آپ کو __caret__42__dollar__ درج کرنے کی ضرورت ہے."</string>
+    <string name="use_sh">کمانڈ شیل کا استعمال کریں</string>
+    <string name="backgrounds">بلیک پس منظر</string>
+    <string name="actions">اعمال:</string>
+    <string name="game_settings">کھیل کے لئے ترتیبات:</string>
+    <string name="global_settings">عالمی ترتیبات:</string>
+    <string name="ui_settings">UI کی ترتیبات:</string>
+    <string name="others">دیگر:</string>
+    <string name="skip_memory">میموری علاقوں کو چھوڑ دو</string>
+    <string name="empty_memory">خالی</string>
+    <string name="without_protection">بغیر تحفظ</string>
+    <string name="help_games_protection_title">کھیلوں میں قابو پانے کے لئے کس طرح</string>
+    <string name="help_games_protection">"\u0009کچھ کھیل میموری ایڈیٹرز کے خلاف تحفظ سے لیس ہیں. آپ مندرجہ ذیل کوشش کر سکتے ہیں:
+\u00091. \"__kill_game__\"، اور پھر \"__restart_game_without_protection__\".
+\u00092. \"__disable_protection__\"، اور پھر کھیل (یا دوبارہ شروع) چلائیں.
+\u00093. \"__hide_from_game__\" میں اشیاء کے تمام یا حصے کا استعمال کریں. ان سب کو تلاش کو سست.
+\u00094. تلاش کریں جب کھیل کم سے کم ہے.
+\u00095. کھیل روکنے پر تلاش کریں.
+\u00096. کھیل کے کئی عملوں کو، اگر کھیل کے کچھ حفاظتی عمل کو مار ڈالو یا بند کردیں تو.
+\u00097. Use XPrivacy or similar tools to bypass protection.
+\u00098. تحفظ کے بغیر کھیل کے ترمیم کا استعمال کریں.
+"</string>
+    <string name="disable_protection">تمام ایپلی کیشنز کے لئے تحفظ کو غیر فعال کریں (ریبوٹ تک تک)</string>
+    <string name="must_restart_if">اگر آپ کو غیر فعال کرنے سے پہلے کھیل چلاتے ہیں، تو آپ اسے دوبارہ شروع کرنا لازمی ہے.</string>
+    <string name="patch_loading">پیچ لوڈ ہو رہا ہے ...</string>
+    <string name="patch_loaded">پیچ بھرا ہوا ہے.</string>
+    <string name="patch_failed">پیچ لوڈ نہیں ہوا ہے.</string>
+    <string name="history_limit">تاریخ کی حد:</string>
+    <string name="copy_as_search">گروپ کی تلاش کے طور پر کاپی کریں</string>
+    <string name="add_types">اقسام شامل کریں</string>
+    <string name="add_size">گروپ کا سائز شامل کریں</string>
+    <string name="copy_rhex_value">ریورس ہیکس قیمت کاپی کریں:</string>
+    <string name="mips_arch">یہ درخواست MIPS فن تعمیر کی حمایت نہیں کرتا.</string>
+    <string name="unrandomizer">انڈرڈومائزر</string>
+    <string name="functions">افعال</string>
+    <string name="help_unrandomizer">"
+انڈرڈومائزر ایک ایسی خصوصیت ہے جس میں عام طور پر بے ترتیب اقدار پیدا کرنے کے لئے کھیلوں میں عام طور پر استعمال ہونے والے کاموں کو تبدیل کرنے کے لئے ڈیزائن کیا گیا ہے. ایک بہت آسان سطح پر، ایک مثال کے طور پر، اس کھیل کا ایک ایسا کھیل ہو سکتا ہے جو کھلاڑی کے اجزاء کا تعین کرنے کے لئے بے ترتیب ترتیب کا استعمال کرتا ہے. انڈرانڈومائزر کو فعال کرنے کے نتیجے میں __app_name__ کو تبدیل کرنے کے لئے مخصوص قیمت کے ساتھ اس بے ترتیب قیمت کو تبدیل کرنے کی کوشش کریں گے (مثال کے طور پر، ایک خاص ثواب حاصل کرنے کے لئے).
+
+انڈرڈومائزر تمام معاملات میں کام نہیں کرے گا. یہ صرف افعال کو سنبھالا گا جو اسے جانتا ہے. زیادہ تر مقدمات اور سب سے زیادہ صارفین کے لئے، یہ استعمال نہیں کیا جائے گا، کیونکہ یہ اعلی درجے کی / تجرباتی خصوصیت میں سے زیادہ ہے.
+
+کچھ افعال __type_qword__، کچھ - __type_double__ (کم از کم استعمال ہوتے ہیں) واپس آتے ہیں.
+
+__type_double__ اقدار کو 0 سے 1 کی حد میں ہونا ضروری ہے تاہم، آپ وہاں کسی بھی اقدار کی وضاحت کرسکتے ہیں، کیونکہ __app_name__ خود بخود تمام غلط متغیرات کو خود بخود درست کرے گا.
+
+آپ ایک اضافی قدم کی وضاحت بھی کر سکتے ہیں. اس صورت میں، ہر ایک کے نتیجے میں نتیجہ اس قدر سے بڑھ جائے گا. مثال کے طور پر، بے ترتیب قدر، 0، 1، 2، 3 کے بجائے اضافہ 1 اور ابتدائی قدر 0 کے لئے ... واپس آ جائے گا.
+یہ اختیار ہر ممکنہ بے ترتیب نتائج کے مکمل تلاش کے لئے مفید ثابت ہوسکتا ہے.
+
+آپ کو __app_name__ ترتیبات میں ترمیم کرنے کے لئے کون سا افعال کی وضاحت کر سکتا ہے.
+"</string>
+    <string name="count_replace">تبدیل کرنے کا کتنا پہلا نتیجہ؟</string>
+    <string name="unrandomizer_loading">unrandomizer لوڈ کر رہا ہے ...</string>
+    <string name="unrandomizer_loaded">انڈرانڈومائزر بھرا ہوا ہے.</string>
+    <string name="warn_restart_off_prot">"اس اختیار کے بغیر کھیل کے بغیر کھیل کو دوبارہ شروع کرنے کی کوشش کرے گی.
+تاہم، بہت سے فرم ویئر کیڑے شامل ہیں جو آلہ ریبوٹ بن سکتا ہے.
+اگر ایسا ہوتا ہے تو، کھیل کو دوبارہ شروع کرنے کی کوشش نہ کریں، کیونکہ یہ آلہ دوبارہ دوبارہ شروع کرے گا.
+صرف __app_name__ چلائیں - یہ بری ترتیبات صاف کردیں گی.
+اس کے علاوہ آپ آلہ کو باقاعدہ طور پر ریبوٹ کرنے کی کوشش کر سکتے ہیں، یہ بھی مسئلہ کو حل کرنا چاہئے.
+
+اگر ریبوٹ ہوا ہے تو - اس فنکشن کا استعمال نہ کریں، یہ آپ کے فرم ویئر پر کام نہیں کرے گا."</string>
+    <string name="warn_patch_off_prot">"یہ اختیار نظام (عارضی طور پر) کو پیچھا کرنے کی کوشش کرے گا تاکہ تمام اطلاقات کو تحفظ کے بغیر چلائے جائیں.
+تبدیلیوں کو صرف نئے ایپلی کیشنز شروع ہونے پر لاگو ہوگی. لہذا، کامیاب مہم کے بعد ہدف کی درخواست، دوبارہ شروع کرنے کی ضرورت ہے.
+پیچ منسوخ کرنے کے لئے، صرف آلہ دوبارہ شروع کریں.
+شاید اس پیچ کے بعد، نظام میں مختلف کیڑے ہو گی.
+
+اگر پیچ کامیاب ہے تو، آلہ کو دوبارہ دوبارہ کرنے سے پہلے، اس فنکشن کو دوبارہ چلانے کی سفارش نہیں کی جاتی ہے.
+
+اگر آپ کے پاس مسئلہ ہے تو، اس فنکشن کا استعمال نہ کریں."</string>
+    <string name="clear_history">ان پٹ کی سرگزشت صاف کریں</string>
+    <string name="clear_history_warn">پینٹ سمیت تمام اندراجات کو حذف کردیا جائے گا.</string>
+    <string name="click_edit">ترمیم کرنے کے لئے یہاں کلک کریں</string>
+    <string name="ignore_unknown_chars">نامعلوم حروف کو نظر انداز کریں:</string>
+    <string name="need_root_mode">یہ خصوصیت جڑ تک رسائی کی ضرورت ہے. فی الحال __app_name__ جڑ تک رسائی کے بغیر ایک مجازی ماحول موڈ میں چل رہا ہے.</string>
+    <string name="work_without_root_title">جڑ کے بغیر کام</string>
+    <string name="work_without_root">"__app_name__ مجازی ماحول کے ذریعہ جڑ کے بغیر کام کرسکتا ہے. مثال کے طور پر، __vspace_list__ اور بہت سے دوسرے کے ذریعے.
+__app_name__ ایک مجازی ماحول میں نصب ہونا ضروری ہے. اس کھیل کو بھی نصب کیا جانا چاہئے.
+پروگرام کی تمام خصوصیات کی حمایت نہیں کی جاتی ہے، لیکن سب سے زیادہ افعال کام کرنا چاہئے.
+
+آپ اس کھیل کو توڑنے کے قابل نہیں ہوں گے جو مجازی ماحول میں نصب نہیں ہوتے ہیں.
+
+__app_name__ کا پہلا لانچ، جو بے ترتیب پیکج کا نام دوبارہ چلاتا ہے، مجازی ماحول کے ذریعے نہیں کیا جانا چاہئے.
+اس کے بعد آپ __app_name__ مجازی ماحول میں استعمال کرسکتے ہیں."</string>
+    <string name="help_game_not_listed_title">کیوں میرا کھیل عمل کی فہرست میں نہیں ہے؟</string>
+    <string name="fractional_hint">"ایک حقیقی نمبر \"x\" کا جزوی حصہ اس تعداد کے انوزر حصہ سے زیادہ زیادہ ہے.
+ایک بڑی تعداد کے لئے اس کا جزوی حصہ اس وجہ سے ہے کہ ریڈکس پوائنٹ کے بعد ظاہر ہوتا ہے.
+
+مثال کے طور پر:"</string>
+    <string name="pointer">اشارہ:</string>
+    <string name="help_search_filter_title">تلاش میں فلٹرز</string>
+    <string name="help_search_filter">"آپ تلاش کے نتائج کو فلٹر کرسکتے ہیں.
+آپ وضاحت کر سکتے ہیں:
+\u0009- ایڈریس کے حدود،
+\u0009- قیمت کی حد،
+\u0009ضروری ڈیٹا کی اقسام،
+\u0009نمبر کی مطلوبہ جزوی حصہ،
+\u0009- پوائنٹر کی مطلوب قسم.
+آپ ایک دوسرے کے ساتھ کسی بھی فلٹر کو جمع کر سکتے ہیں.
+آپ کسی بھی وقت کسی یا فلٹر کو غیر فعال کرسکتے ہیں.
+
+تاہم، اگر بہت سے اعداد و شمار پایا جاتا ہے تو، فلٹر نتائج کو سست کرسکتے ہیں.
+
+ایک نمبر کے جزوی حصہ پر ایک فلٹر یا تو برابر یا مساوات کی طرف سے ہو سکتا ہے.
+عددی قسم کے لئے، جزوی حصہ صفر ہے. اگر آپ کو لازمی اقسام کی ضرورت نہیں ہے، تو انہیں فلٹر کا استعمال کرتے ہوئے خارج کریں.
+
+پوائنٹر کی قسم کی طرف سے فلٹر صرف ان اقدار میں آؤٹ ہونے کی اجازت دیتا ہے جو میموری کی مطلوب قسم کے لئے ایک پوائنٹر ہوسکتا ہے.
+ممنوع میموری کی اقسام میموری ایڈیٹر میں رنگوں کے مطابق ہے:
+یہ __executable__ میموری، __writable__ یا __read_only__ ہوسکتا ہے. نادر معاملات میں، یہ __writable_and_executable__ میموری ہوسکتی ہے.
+
+چھاسو قسم \"نہیں پوائنٹر\" تمام قسم کے اعداد و شمار سے متعلق ہے جو اشارہ نہیں ہوسکتا ہے، اور اشارہ کے ان اقدار کو بھی شامل ہے جو غیر رسمی میموری کی طرف اشارہ کرتے ہیں."</string>
+    <string name="unmount_kill">"میموری کارڈ غیرمعروف تھا، جبکہ __app_name__ اس پر عارضی فائلوں کو ذخیرہ کیا. اس نے ڈیمون کے زبردست بندش کی وجہ سے.
+
+ہو رہا ہے اس سے روکنے کے لئے، عارضی فائلوں پر ایک مختلف راستہ کی وضاحت کریں. مثال کے طور پر، داخلی میموری میں.
+کافی مفت جگہ ہونا چاہئے."</string>
+    <string name="calls">نظام کال موڈ:</string>
+    <string name="alternative">متبادل</string>
+    <string name="help_calls">"کچھ firmware پر، مثال کے طور پر لینووو، متبادل موڈ تیزی سے کام کر سکتا ہے.
+
+عام طور پر، آپ کو اس اختیار کو تبدیل کرنے کی ضرورت نہیں ہے."</string>
+    <string name="help_context_title">متعلقہ مدد</string>
+    <string name="help_context">"انٹرفیس میں، کچھ عناصر ایک خاص آئکن سے نشان زدہ ہیں، سب سے اوپر دائیں جانب، اس حلقے میں __i__ کے دائرے میں.
+پریس یا طویل دباؤ، اس عنصر پر، اس عنصر پر مدد ظاہر کرتا ہے."</string>
+    <string name="waitpid_mode">__waitpid__ موڈ:</string>
+    <string name="help_waitpid">"کچھ فرم ویئر پر، __waitpid__ سسٹم کال توقع نہیں کرتا. یہ عام طور پر غلط SeLinux ترتیبات کی وجہ سے ہے.
+یہ __app_name__ میں لامتناہی تلاش کی طرف جاتا ہے.
+آپ ایک متبادل موڈ کا استعمال کرتے ہوئے کوشش کر سکتے ہیں. شاید یہ کام کرے گا."</string>
+    <string name="microseconds_short">μs</string>
+    <string name="small_is_bad">بہت کم اقدار پروسیسر پر ایک زیادہ بوجھ بن سکتی ہیں اور کھیل میں لگی ہیں.</string>
+    <string name="freeze_interval_help">وقفہ جس میں __app_name__ گیم میموری میں اقدار کو زیادہ کر دیتا ہے.</string>
+    <string name="saved_list_update_interval_help">وقفہ کے ذریعے __app_name__ قیمتوں میں محفوظ کردہ فہرست میں اپ ڈیٹ کرتا ہے.</string>
+    <string name="icons_size_help">"__app_name__ انٹرفیس میں شبیہیں کا سائز.
+سچل آئیکن پر لاگو نہیں ہوتا."</string>
+    <string name="ignore_unknown_chars_help">مختلف جگہوں سے نمبرز کاپی کرتے وقت مسائل کو حل کرنے میں مدد کرسکتے ہیں، اگر تعداد کے ساتھ خاص حروف کا کاپی کیا جاتا ہے.</string>
+    <string name="use_notification_help">"لوڈ، اتارنا Android کے نظام نوٹیفیکیشن کے علاقے میں اطلاعات کا استعمال.
+کچھ فرم ویئر پر، یہ درخواست کی ترجیح کو بڑھا دیتا ہے اور اسے بند کرنے سے روکتا ہے.
+اس کے ساتھ آپ __app_name__ یا اس پر کلک کرکے کھیل جانے کیلئے نوٹیفیکیشن استعمال کرسکتے ہیں.
+اگر یہ ایرر برقرار رہے تو ہمارے ہیلپ ڈیسک سے رابطہ کریں. غلط استعمال کی اطلاع دیتے ہوئے ایرر آ گیا ہے."</string>
+    <string name="use_sound_effects_help">"جب آپ بٹن اور اشیاء کو دبائیں تو سسٹم کی آوازیں.
+کچھ فرم ویئر پر، آواز __app_name__ کی وجہ سے حادثے میں پڑتی ہے."</string>
+    <string name="keyboard_help">اندرونی کی بورڈ کم میموری، بوجھ تیز ہو جاتا ہے اور تعداد میں داخل ہونے کے لئے مرضی کے مطابق ہے.</string>
+    <string name="allow_suggestions_help">"بیرونی کی بورڈ سے اشارے.
+کچھ فرم ویئر پر، اشارے __app_name__ کی وجہ سے حادثے میں ہیں."</string>
+    <string name="autopause_help">__app_name__ انٹرفیس کھولنے پر کھیل کو خود بخود کھیل پر رکھتا ہے.</string>
+    <string name="killed_by">__app_name__ درخواست \"__s__\" کی طرف سے زور سے بند کر دیا گیا تھا. اس سے بچنے کے لئے، اس ایپلی کیشن کو حذف یا اسے ترتیب دیں تاکہ یہ __app_name__ ختم نہ ہو.</string>
+    <string name="killers_found">"آپ نے ایپلی کیشنز کو انسٹال کر دیا ہے جو قابو پانے کیلئے __app_name__ کر سکتے ہیں:
+__s__
+اس سے بچنے کے لئے، ان کو حذف یا انہیں تشکیل دیں تاکہ وہ __app_name__ کو ختم نہ کردیں.
+
+اگر آپ __app_name__ کے غیر متوقع اختتام کے ساتھ مسائل کا سامنا نہیں کرتے ہیں تو، کوئی کارروائی کی ضرورت نہیں ہے، اور آپ اس پیغام کو نظر انداز کر سکتے ہیں."</string>
+    <string name="record_logcat">ریکارڈ __logcat__</string>
+    <string name="record_logcat_info">"__app_name__ فائل میں __logcat__ ریکارڈنگ کے ساتھ دوبارہ شروع کیا جائے گا:
+\"__s__\".
+
+ریکارڈنگ ختم کرنے کے لئے، __app_name__ سے نکلیں.
+اس کے بعد، آپ لاگ ان فائل بھیج سکتے ہیں جہاں آپ کی ضرورت ہے."</string>
+    <string name="need_uninstall">آپ انسٹالر کو انسٹال کرنے کی ضرورت ہے، دوسری صورت میں آپ کو 4 شبیہیں پڑے گا، نہیں. 2. اس کے علاوہ کھیل بھی اس کا پتہ لگائیں گے.</string>
+    <string name="need_random_name">"__app_name__ معیاری پیکیج کا نام استعمال کرتا ہے. گیمز اسے تلاش کر سکتے ہیں.
+
+اسے ٹھیک کرنے کے لئے - ایک عام درخواست کے طور پر مجازی خلائی کے باہر __app_name__ چلائیں.
+تنصیب مکمل ہونے کے بعد، __app_name__ کی نقل کو بے ترتیب نام کے ساتھ مجازی خلائی میں شامل کریں."</string>
+    <string name="work_mode">کام کا طریقہ</string>
+    <string name="root">جڑ</string>
+    <string name="no_root">جڑ نہیں</string>
+    <string name="how_no_root">"آپ کو مجازی خلائی درخواست کو انسٹال کرنے کی ضرورت ہے. اس طرح کے طور پر: __vspace_list__.
+
+یہ سرکاری __app_name__ سائٹ سے مرضی کے ورژن کو انسٹال کرنے کی سفارش کی جاتی ہے.
+
+اس کے بعد آپ کو __app_name__ اور آپ کا کھیل اس مجازی جگہ میں شامل کرنا ہوگا.
+
+اس کے بعد آپ کو کھیل اور __app_name__ کو مجازی جگہ میں چلانا ضروری ہے."</string>
+    <string name="eperm_error_descr_0">ممنوع وجوہات:</string>
+    <string name="eperm_error_descr_1">کھیل میں تحفظ.</string>
+    <string name="eperm_error_descr_2">ایک اور ڈیگر یا کریکر کھیل سے منسلک ہے.</string>
+    <string name="eperm_error_descr_3">ناکافی اجازت. عام طور پر __selinux__ غلط ترتیب کی وجہ سے. __selinux__ کو غیر فعال یا ترتیب دیں.</string>
+    <string name="eperm_error_descr_4">برا کنی یا فرم ویئر. کسی دوسرے firmware یا دوسرے آلہ کی کوشش کریں.</string>
+    <string name="eperm_error_descr_5">آپ کے فرم ویئر پر، \"کوئی جڑ\" موڈ کام نہیں کرتا. کسی دوسرے firmware یا دوسرے آلہ کی کوشش کریں یا جڑ حاصل کریں.</string>
+    <string name="ptrace_bypass_mode">ptrace تحفظ کے لئے بائپ موڈ:</string>
+    <string name="mode_restore">بحال کریں</string>
+    <string name="mode_nothing">کچھ بھی نہیں</string>
+    <string name="mode_freeze">منجمد</string>
+    <string name="ptrace_bypass_mode_help">"تحفظ کنکشن کو غیر فعال کرنے کے بعد کیا کرنا ہے:
+\u0009__mode_restore__ - کنکشن بحال کریں
+\u0009__mode_nothing__ - کچھ بھی نہ کریں (عام طور پر تحفظ خود کو کنکشن کو بحال کرتا ہے)
+\u0009__mode_freeze__ - دھاگے کو منجمد کریں (جیسے پچھلے ورژن میں)
+
+اگر آپ تحفظ کو بحال کرتے ہیں، یا تحفظ خود کو ایسا کرنے کی اجازت دیتے ہیں تو، __app_name__ میں اقدار کی منجمد تحفظ کے مستقل کنکشن / غیر فعال ہونے کی وجہ سے ہوسکتی ہے."</string>
+    <string name="slow_emulator">"آپ \"__s__\" ایمولیٹر استعمال کر رہے ہیں. یہ سست ہے اور غلطیوں پر مشتمل ہے. اس کی وجہ سے، تلاش بہت سست ہو سکتی ہے.
+
+ہم دیگر emulators کا استعمال کرتے ہیں کی سفارش کرتے ہیں:"</string>
+    <string name="text">متن</string>
+    <string name="show_debug_info">ڈیبگ کی معلومات دکھائیں</string>
+    <string name="mnt_expand">"__app_name__ ایک میموری کارڈ پر نصب کیا جاتا ہے جو \"اندرونی اسٹوریج\" کے طور پر استعمال کیا جاتا ہے.
+یہ مجازی خالی جگہوں کے آپریشن سے مداخلت کر سکتا ہے.
+اگر ایسا ہوتا ہے تو، آلے کے داخلی میموری میں __app_name__ انسٹال کریں.
+آپ کو میموری کارڈ کو \"پورٹ ایبل اسٹوریج\" کے طور پر اصلاح کرنے کی ضرورت ہوسکتی ہے."</string>
+    <string name="help_game_not_listed_root">"کھیل اسے منتخب کرنے کے لئے چل رہا ہے.
+
+اگر کھیل چل رہا ہے، لیکن اب بھی اس فہرست میں نہیں ہے، تو شاید آپ کو جڑ، یا فرم ویئر کے ساتھ مشکلات ہیں.
+کسی دوسرے جڑ یا دوسرے فرم ویئر کی کوشش کریں."</string>
+    <string name="help_game_not_listed_noroot">"اس کھیل کو مجازی خلائی میں شروع کرنا لازمی ہے تاکہ اسے منتخب کیا جا سکے.
+
+آپ کھیل کا انتخاب نہیں کرسکتے ہیں اگر یہ مجازی جگہ میں نہیں چل رہا ہے.
+
+اگر کھیل مجازی جگہ میں چل رہا ہے، لیکن اب بھی اس فہرست میں نہیں ہے، ایک دوسرے مجازی جگہ، ایک دوسرے فرم ویئر، ایک دوسرے آلہ کی کوشش کریں یا جڑ حاصل کریں."</string>
+    <string name="daemon_killed_oom">"میموری کی کمی کی وجہ سے ڈیمون کو نظام کی طرف سے ہلاک کردیا گیا تھا.
+
+\"__data_in_ram__\" کو \"__no__\" پر مقرر کریں.
+اگر ممکن ہو تو انٹرفیس کی ہارڈویئر تیز رفتار کا استعمال کریں.
+بڑی اطلاقات استعمال نہ کریں.
+دیگر غیر استعمال شدہ اطلاقات کو غیر فعال کریں.
+اپنے آلے کو ریبوٹ کرنے کے بعد __app_name__ استعمال کرنے کی کوشش کریں."</string>
+    <string name="selected_as_search_result">تلاش کے نتائج کے طور پر منتخب کیا گیا ہے</string>
+    <string name="clear_results_prompt">یہ موجودہ تلاش کے نتائج کو تبدیل کرے گا. جاری رہے؟</string>
+    <string name="position_in_memory_editor">میموری ایڈیٹر میں مقام</string>
+    <string name="script_prompt_internet">"اسکرپٹ انٹرنیٹ تک رسائی حاصل کرنا چاہتا ہے. اگر آپ رسائی کی اجازت دیتے ہیں تو، اسکرپٹ آپ کے لاگ ان، پاس ورڈ، بچاتا ہے اور کھیل سے دوسرے اعداد و شمار چوری کرنے میں کامیاب ہوسکتا ہے. اس کے علاوہ یہ آپ کے دیگر سکرپٹ چوری کرنے یا آپ کے آلے پر وائرس ڈاؤن لوڈ کرنے میں کامیاب ہوسکتا ہے.
+
+سکرپٹ کو انٹرنیٹ تک رسائی کی اجازت دیں؟"</string>
+    <string name="level">سطح</string>
+    <string name="float_prompt">"اپنے فرم ویئر پر __app_name__ کو مناسب طریقے سے چلانے کے لئے، آپ کو __s__ کے لئے سسٹم کی ترتیبات میں استعمال پاپ اپ ونڈوز کی اجازت دینے کی ضرورت ہے.
+
+پاپ اپ ڈیفالٹ کے ذریعہ حواوی فون پر ظاہر نہیں کرتا. آپ کو __s__ پاپ اپ دکھانے کی اجازت دینی ہوگی. براہ کرم فون مینیجر کو کھولیں، پھر ڈراپ زون مینجمنٹ اور براہ کرم یقینی بنائیں کہ یہ __s__ کے لئے جاری ہے.
+
+پاپ اپ کچھ جیونی فونز پر بھی دکھائی نہیں دیتا ہے. آپ کو ترتیبات -> انسٹال کردہ ایپس -> __s__ -> دیگر اجازتوں کے سربراہ کرنے کی ضرورت ہے -> پاپ اپ ونڈو دکھائیں.
+
+اس کے علاوہ، اطلاقات کو پوپ اپ کھڑکیوں کو دکھانے کے لئے اجازت دینے کے لئے مختلف طریقہ کار ہوسکتے ہیں. اس طرح کے تمام اطلاقات عام طور پر اس طرح متاثر ہوتے ہیں، مثال کے طور پر Google Translator ایپ ٹیپ کے ساتھ فعالیت کو ترجمہ کرنے کے لۓ. لہذا، حل تلاش کرنے کیلئے آپ صرف \"YOUR_PHONE ترجمہ کرنے کیلئے نل\" ٹیپ کرسکتے ہیں. مثال کے طور پر، ضیا رمیمی کے آلات کے حل کے طور پر مندرجہ ذیل حل ہے:"</string>
+    <string name="virtual_space">مجازی خلائی ایپ</string>
+    <string name="prevent_unload_help">"یاد رکھنا __app_name__ میموری سے بند کردیں (قریبی قریبی).
+
+ہر ایک کی سطح پچھلے ایک سے زیادہ طاقتور ہے اور اس میں خود بھی شامل ہے.
+
+تیسری سطح کچھ firmware اور emulators پر مسائل (پھانسی پھانسی، ریبو بوٹ یا حادثات) کر سکتے ہیں.
+
+جڑ کے بغیر صرف تیسرے سطح پر کام کرتا ہے."</string>
+    <string name="integer_type">یہ ڈیٹا کی قسم صرف عددی اقدار کے لئے ہے اور جزوی اقدار کی حمایت نہیں کرتا ہے. جزوی اقدار کے لئے __type_float__ یا __type_double__ استعمال کریں.</string>
+    <string name="without_float">اس کے علاوہ آپ فلو ونڈوز کے بغیر __app_name__ استعمال کرسکتے ہیں:</string>
+    <string name="any_value">کوئی قدر</string>
+    <string name="help_group_search_any_value">آپ مطلوبہ نمبر پر __any__ استعمال کردہ گروپ کی تلاش میں کم سے کم سائز کے ساتھ مطلوبہ پوزیشن پر اس قسم کے کسی بھی قدر کی وضاحت کرنے کے لئے استعمال کرسکتے ہیں.</string>
+    <string name="help_scripts_title">سکرپٹ</string>
+    <string name="help_scripts">"* __help_scripts_title__:
+__app_name__ لوا میں تحریر سکرپٹ کی پھانسی کی حمایت کرتا ہے.
+
+تلاش کے ٹیب پر مینو پر کلک کریں اور \"__execute_script__\" منتخب کریں.
+یہاں آپ پھانسی کے لئے اسکرپٹ فائل کا انتخاب کرسکتے ہیں، موجودہ __app_name__ API طریقوں کو دیکھ سکتے ہیں، یا API پر مدد پڑھنے یا تیار سکرپٹ ڈاؤن لوڈ کرنے کے لئے سرکاری سائٹ پر جائیں.
+اس کے علاوہ، آپ انٹرنیٹ کے بغیر پڑھنے کے لئے میموری کارڈ پر API سے مدد نکال سکتے ہیں.
+
+اگر آپ اپنی اپنی سکرپٹ لکھنا چاہتے ہیں، تو آپ کو بیرونی ٹیکسٹ ایڈیٹر کی ضرورت ہے.
+__app_name__ ایڈریس سکرپٹ کی اجازت نہیں دیتا، یہ صرف ان پر عمل کرتا ہے.
+
+مزید تفصیلات کے لئے API کی مدد پڑھیں."</string>
+    <string name="help_floating_icon_absent">اگر \"__start__\" کے بٹن پر کلک کرنے کے بعد آپ کو ایک سچل آئکن نہیں ملتا ہے:</string>
+    <string name="remove_all2">سب کو ہٹا دیں</string>
+    <string name="debug_load">تمام کوڈ بوجھ ڈمپ کریں</string>
+    <string name="debug_log">سب سے زیادہ سکرپٹ کال لاگ ان کریں</string>
+    <string name="vspace64">"آپ __app_name__ بھاگ گئے جو ایک مجازی جگہ میں 64 بٹ کے عمل کی حمایت کرتا ہے.
+
+__app_name__ اس خلا میں چلنے والی 32 بٹ کے عمل کو نہیں ملیں گے.
+
+__app_name__ کی دوسری کاپی انسٹال کریں \"__for32__\" موڈ اگر آپ __app_name__ میں 32 بٹ کے عمل کے ساتھ کام کرنا چاہتے ہیں."</string>
+    <string name="folder_new">نیا فولڈر</string>
+    <string name="folder_exists">یہ فولڈر پہلے ہی موجود ہے</string>
+    <string name="folder_file">اس نام کے ساتھ ایک فائل ہے</string>
+    <string name="folder_failed">فولڈر تخلیق کرنے میں ناکام</string>
+    <string name="force_close">"پچھلے ایپ بند غیر متوقع تھا.
+
+مستقبل میں اس سے بچنے کے لئے آپ \"__prevent_unload__\" ترتیب سطح کو بڑھا سکتے ہیں."</string>
+    <string name="help_force_close_title">غیر متوقع بند</string>
+    <string name="install_mode">انسٹال موڈ</string>
+    <string name="for32">64 بٹ مجازی خلا میں 32 بٹ کھیل ہیک کے لئے</string>
+    <string name="for64">64 بٹ مجازی جگہ میں 64 بٹ کھیل ہیک کے لئے</string>
+    <string name="reset_ignore">سبھی ڈائیلاگ کے لئے تمام نظر انداز کریں</string>
+    <string name="allocate_fail">میموری صفحہ مختص نہیں کیا جا سکا. خرابی</string>
+    <string name="allocated">اختصاص شدہ میموری صفحہ:</string>
+    <string name="allocate_page">میموری صفحہ مختص کریں</string>
+    <string name="prot_read">پڑھا جا سکتا ہے</string>
+    <string name="prot_write">لکھا جائے گا</string>
+    <string name="prot_exec">پھانسی دی جائے گی</string>
+    <string name="install_finished">"تنصیب کامیاب تھا.
+نصب شدہ کاپی دستی طور پر چلائیں تاکہ وہ آپ کے ڈیٹا کو منتقل کرسکیں.
+اس کے بعد، انسٹالر کو ہٹا دیا جا سکتا ہے."</string>
+    <string name="odd_vspace">__app_name__ مجازی جگہ میں شروع ہوا؟</string>
+    <string name="record_script">ریکارڈ سکرپٹ</string>
+    <string name="record">ریکارڈ</string>
+    <string name="another_record">ایک اور ریکارڈ چل رہا ہے. روکو اسے؟</string>
+    <string name="record_ended">ریکارڈنگ مکمل</string>
+    <string name="stop">بند کرو</string>
+    <string name="could_not_use">استعمال نہیں کر سکا</string>
+    <string name="not_optimized2">"آپ مجازی جگہ کا ایک غیر مرضی شدہ ورژن استعمال کر رہے ہیں (\"__s__\").
+اس غلطی کو درست کرنے کے لئے، \"__s__\" کے غیر مرضی کے مطابق ورژن کو ہٹا دیں اور سرکاری ویب سائٹ __app_name__ سے مرضی کے مطابق مجازی خالی جگہوں میں سے ایک انسٹال کریں.
+مرضی کے مطابق مجازی خالی جگہوں کے انتخاب پر جانے کیلئے \"__fix_it__\" پر کلک کریں."</string>
+    <string name="fix_path">مفت جگہ یا \"__fix_it__\" پر کلک کرکے عارضی فائلوں کے لئے مختلف راستے کی وضاحت کریں.</string>
+    <string name="deep_read">گہرے پڑھتے ہیں:</string>
+    <string name="help_deep_read">"تمام دستیاب طریقوں سے میموری پڑھنا، اگر یہ پڑھا نہیں جا سکے.
+میموری ریڈنگ کو سست کر سکتے ہیں."</string>
+    <string name="ptrace_fail">ptrace کے ذریعے میموری کو تبدیل کرنے میں ناکام</string>
+    <string name="ptrace_fail_partially">کچھ خصوصیات، تیز رفتار اور اس سے متعلق سب کچھ، کام نہیں کرے گا. صرف پڑھنے والی میموری (کوڈ بھی شامل ہے) لکھنے کے لئے ممکن نہیں ہے.</string>
+    <string name="ptrace_fail_full">خصوصیات کی مطلق اکثریت کام نہیں کریں گے.</string>
+    <string name="ptrace_fail_solve">"عام وجہ firmware میں ایک ٹوٹا ہوا دانا ہے.
+فرم ویئر کو تبدیل کرنے کی کوشش کریں. اگر آپ نے حال ہی میں اسے اپ ڈیٹ کیا ہے - پچھلے ورژن انسٹال کریں.
+
+اگر یہ کام نہیں کرتا تو، آلہ تبدیل کریں."</string>
+    <string name="feature_hide_4">This feature cannot work if the fourth item is selected in \"__hide_from_game__\".</string>
+    <string name="feature_firmware">یہ سہولت ptrace کے بغیر کام نہیں کر سکتا، جو اس فرم ویئر پر کام نہیں کرتا.</string>
+    <string name="feature_protection">اس خصوصیت کو کھیل میں پاؤڈر تحفظ کی وجہ سے کام نہیں کر سکتا.</string>
+    <string name="not_file">راستہ فائل نہیں ہے:</string>
+    <string name="not_execute">عملدرآمد نہیں کر سکتا</string>
+    <string name="check_install">چیک کریں کہ __app_name__ صحیح طریقے سے نصب کیا گیا ہے.</string>
+    <string name="sdcard_install">اگر __app_name__ بیرونی اسٹوریج (ایسڈی کارڈ) پر نصب ہوجائے تو اسے اندرونی میموری میں واپس آنا ہے</string>
+    <string name="change_address_type">ایڈریس / قسم تبدیل کریں</string>
+    <string name="bad_offset">آفسیٹ __d__ کی ایک سے زیادہ نہیں ہے.</string>
+    <string name="bad_result_address">نتیجے کا پتہ __d__ کی ایک سے زیادہ نہیں ہے.</string>
+    <string name="correct_types">__d__ عناصر ناممکن سیدھ کو درست کرنے کے لۓ اس کی قسم کو تبدیل کردیں گے.</string>
+    <string name="reinstall_fail">"بے ترتیب نام کے ساتھ __app_name__ دوبارہ انسٹال کرنے سے قاصر.
+
+__app_name__ آسانی سے کھیلوں کی طرف سے پتہ چلا جا سکتا ہے.
+
+آپ تنصیب کے دوران، __logcat__ ریکارڈ کر سکتے ہیں، اور مدد کے لئے سرکاری فورم سے رابطہ کریں.
+
+ردعمل کی وجہ:"</string>
+    <string name="empty_field">خالی ان پٹ میدان: تبدیل کرنے کے لئے کوئی نمبر نہیں</string>
+    <string name="need_integer">تبدیل کرنے کے لئے آپ کو لازمی طور پر منتخب کرنا لازمی ہے.</string>
+    <string name="maps_failed">\"__maps__\" فائل نہیں کھول سکی.</string>
+    <string name="game_protected">کھیل محفوظ ہے.</string>
+    <string name="need_root">اس کھیل کو ہیک کرنے کے لئے جڑ کی ضرورت ہے.</string>
+    <string name="vspace_error">"مجازی جگہ یا فرم ویئر یا آلہ کا مسئلہ.
+
+کوشش کریں:
+\u0009دوسری مجازی جگہ کا استعمال کریں
+\u0009ایک اور فرم ویئر کا استعمال کریں
+\u0009جڑ حاصل کرو
+\u0009دوسرے آلات کا استعمال کریں"</string>
+    <string name="root_error">"فرم ویئر یا جڑ یا آلہ کا مسئلہ.
+
+کوشش کریں:
+\u0009ایک اور فرم ویئر کا استعمال کریں
+\u0009ایک اور جڑ کا استعمال کریں
+\u0009دوسرے آلات کا استعمال کریں"</string>
+    <string name="vspace_root">مجازی جگہ میں جڑ کا استعمال کریں:</string>
+    <string name="help_vspace_root">"مجازی جگہ سے جڑ کا استعمال اس حقیقت کو چھپانے میں مدد دے سکتا ہے کہ آلہ پر __app_name__ موجود ہے.
+
+یہ تمام firmware پر کام نہیں کرتا اور نہ ہی تمام مجازی خالی جگہوں پر.
+
+مجازی خلائی، فرم ویئر اور جڑ مجازی جگہ سے جڑ کے ساتھ کام کرنے کی اجازت دیتا ہے.
+مجازی جگہ کو آپ کو نظام میں نصب کرنے کے بغیر اندرونی ایپلی کیشنز انسٹال کرنے کی اجازت دیتا ہے.
+
+تمام مجازی خالی جگہیں یہ فراہم نہیں کر سکتے ہیں.
+
+تمام firmware پر یہ موڈ کام نہیں کرے گا. اور ہر جڑ کے ساتھ نہیں.
+
+چونکہ جڑ حقوق پوری مجازی جگہ پر دی جائے گی، آپ کو اس میں کسی اور کو انسٹال نہیں کرنا چاہئے. دوسری صورت میں، مجازی جگہ سے کسی بھی درخواست غیر متوقع نتائج کے ساتھ جڑ حقوق استعمال کرسکتے ہیں.
+
+اس کھیل کو مجازی خلائی کے باہر نصب کرنا لازمی ہے.
+
+__app_name__ صرف اسے سسٹم میں نصب کرنے کے بغیر مجازی خلائی کے اندر نصب کیا جانا چاہئے.
+یہ کیسے کریں - ایک خاص مجازی جگہ کی مدد دیکھیں.
+
+For example, for __vexp__, you can clone __app_name__ from the system in __vexp__, and then delete __app_name__ from the system."</string>
+    <string name="help_games_protection_9">9. جڑ مجازی خالی جگہوں میں استعمال کریں جو سسٹم میں انسٹال کئے بغیر اپنے آپ کو ایپلی کیشنز کو انسٹال کرنے کی اجازت دیتا ہے.</string>
+    <string name="locale_ui">آپ کے علاقہ میں</string>
+    <string name="locale_script">سکرپٹ ہمیشہ انگریزی لوکل کا استعمال کرتے ہیں</string>
+    <string name="locale_desc">"'__s__' - بیزاری الگ الگ
+'__s__' - ہزاروں الگ الگ
+'__semicolon__' - گروپ کی تلاش میں نمبر الگ الگ"</string>
+    <string name="help_unaligned_title">غیر منظم کردہ تلاش / بڑے - endian تلاش</string>
+    <string name="help_unaligned">"کچھ ایپلی کیشنز میں، (مثال کے طور پر، جیسے کنسول ایمولیوٹرز)، میموری میں قیمت قطار کی عزت نہیں کر سکتے ہیں، یا بڑے-اینڈین بائٹ آرڈر میں پیش کی جاسکتی ہے.
+
+اس قدر کی قدر عام تلاش کے ذریعے نہیں ملسکتی ہے.
+
+انہیں تلاش کرنے کے لئے - سرکاری __app_name__ ویب سائٹ سے ایک خاص سکرپٹ کا استعمال کریں:"</string>
+    <string name="help_formula_calculator_title">فارمولا کیلکولیٹر</string>
+    <string name="help_formula_calculator">"اعداد میں داخل ہونے کے ل each تقریبا field ہر فیلڈ میں ، آپ مساوی علامت کے بعد ، ریاضی کا فارمولا درج کرسکتے ہیں ، مثال کے طور پر ، تلاش کے میدان میں '= 2 + 2 * 3' درج کریں ، اور پروگرام اس فارمولے کے نتیجے میں تلاش کرے گا ، ہے ، '8'۔
+فارمولا ایک Lua اظہار ہے. آپ اس میں لوا کی تمام دستیاب طاقت استعمال کرسکتے ہیں۔
+
+تمام ریاضی کے آپریٹرز لوا 5.3 قابل قبول ہیں۔ اس کے علاوہ (+) ، گھٹائو (-) ، ضرب (*) ، تقسیم (/) ، ڈویژن باقی (٪) ، ایکسپونٹیشن (^) ، انٹیجر ڈویژن (//) ، اور اسی طرح کی۔
+بٹ آپریٹرز بھی دستیاب ہیں۔ اور (اور) ، اور (|) ، خصوصی یا (بائنری ~) ، نہیں (ایکریری ~) ، شفٹ دائیں (>>) ، بائیں طرف شفٹ (&lt;&lt;)۔ کارروائی کا حکم بریکٹ کے ذریعے دیا جاسکتا ہے۔
+دستیاب کاروائیوں کی مکمل فہرست کے ل the Lua دستی کو پڑھیں۔
+
+اگر آپ جانتے ہو کہ کھیل میں قیمت کوڈت کی گئی ہے تو یہ مفید ہے۔ مثال کے طور پر ، ایک کھیل میں 29 راؤنڈ '= 29 ~ 444444' کے بطور مل سکتے ہیں۔ یہ 29 XOR 444444 کے برابر ہے۔ ویڈیو نمونے میں ، قیمت 444444 کے ساتھ XOR کے ذریعے 3888 پائی گئی ، جس کی قیمت '= 444444 ~ 3888' ہے۔ اس کے بعد ، متبادل '= 444444 ~ 1' کر دیا گیا ، جس نے قیمت '1' پر مقرر کردی۔ ایک اور کھیل میں ، 125 سونا '= 125 * 10' کی طرح ہے۔
+
+تمام اسکرپٹ افعال فارمولہ کیلکولیٹر میں دستیاب نہیں ہیں۔ کچھ افعال دستیاب نہیں ہیں۔ اگر آپ کے پاس ان میں کافی نہیں ہے تو - اپنے اسکرپٹ کو لکھیں ، فارمولہ کیلکولیٹر استعمال کرنے کے بجائے ، یہ صرف عام حساب کتاب کے لئے ہے۔ دستیاب: بنیادی افعال کا حصہ ، 'بٹ 32' ، 'ٹیبل' ، 'تار' ، 'utf8' ، 'ریاضی' ، 'OS' پیکیج کا حصہ۔ پیکیجز 'ڈیبگ' ، 'پیکیج' ، 'جی جی' ، 'آئو' دستیاب نہیں ہیں۔
+
+جب آپ '= 2 + 2 * 3' لکھتے ہیں تو ، فارمولے سے پہلے 'ریٹرن' مطلوبہ الفاظ کا اضافہ ہوجائے گا: '2 + 2 * 3' واپس کریں۔ تاہم ، اگر آپ کو کسی پیچیدہ فارمولے کی ضرورت ہو تو آپ اپنے آپ کو ایک فارمولے میں اس لفظ کی وضاحت کرسکتے ہیں۔
+مثال کے طور پر ، '= a = 5؛ b = 7؛ a * 4 + b * 8 'کو بطور' a = 5 'پھانسی دی جائے گی؛ b = 7؛ * 4 + b * 8 'واپس کریں
+
+فارمولہ کیلکولیٹر کا نتیجہ ایک ٹیکسٹ تار ہے۔ اس پٹ فیلڈ کیلئے سٹرنگ کوئی بھی درست تار ہوسکتی ہے۔
+مثال کے طور پر ، یہ کسی گروپ کی تلاش یا رینج کی تلاش کے ل a تار ہوسکتا ہے۔ '= a = 5؛ b = 7؛ واپسی ایک .. \" .. b .. \":: 100\" '' 5 کے برابر ہے؛ 7 :: 100 '۔
+
+فارمولہ کیلکولیٹر اسکرپٹ میں کام نہیں کرتا ہے ، وہاں آپ براہ راست لوا استعمال کرسکتے ہیں۔
+اسکرپٹ لکھتے وقت ، فارمولہ حساب کتاب کا نتیجہ فائل میں لکھا جائے گا ، فارمولہ ہی نہیں۔
+
+اگر فارمولا غلط ہے تو ، فارم جمع کرواتے وقت آپ کو ایک غلطی کا پیغام موصول ہوگا۔
+
+حساب کتاب کرتے وقت ، آپ کو اس حقیقت کو دھیان میں رکھنا چاہئے کہ حسابات اس نوعیت میں کیے جاتے ہیں جس میں پہلے اوپرینڈ نے وضاحت کی ہے۔ اگر یہ عدد ہے تو ، نتیجہ نتیجہ ہوگا۔
+مثال کے طور پر ، '= 3/2' '1' ہے ، اور '= 3.0 / 2' '1.5' ہے۔
+
+قطع نظر منتخب کردہ مقامی مقامات پر ، انگریزی لوکل میں فارمولے کام کرتے ہیں۔ اس کا مطلب یہ ہے کہ اعشاریہ جدا کرنے والا ہمیشہ ڈاٹ ('.') ہوتا ہے۔"</string>
+    <string name="help_faq_32_b">"دو لانچ شبیہیں. سب سے پہلے، سافٹ ویئر کی تیز رفتار کے ساتھ - \"__app_short_name_sw__\"، دوسرا، ہارڈویئر کی تیز رفتار کے ساتھ - \"__app_short_name_hw__\". اب یہ ہمیشہ ہو گا.
+کچھ firmwares پر صرف ایک ورژن کام کرتا ہے، عام طور پر دونوں.
+سافٹ ویئر کی تیز رفتار کا استعمال کرنا بہتر ہے، یہ کم آسانی سے کام کرتا ہے، لیکن کم میموری استعمال کرتی ہے.
+
+آپ کو درخواست کی ترتیبات میں شبیہیں میں سے ایک کو چھپا سکتے ہیں: \"__hide_icons__\"."</string>
+    <string name="acceleration_help_">"ہارڈ ویئر یا سافٹ ویئر انٹرفیس کی تیز رفتار __app_name__.
+کھیل اور فرم ویئر پر منحصر ہے، کچھ اختیارات میں مسائل پیدا ہوسکتے ہیں.
+اگر دونوں کام کرتے ہیں تو، سافٹ ویئر کی تیز رفتار کا استعمال کریں کیونکہ اس میں کم میموری استعمال ہوتی ہے.
+
+یہ اختیار لانچ شبیہیں سے الگ ہے اور صرف __app_name__ انٹرفیس کے ڈسپلے کو متاثر کرتا ہے.
+شروع کی اسکرین کی تیز رفتار کی قسم کے لئے لانچ شبیہیں ذمہ دار ہیں.
+
+ہارڈ ویئر کی تیز رفتار زیادہ میموری کو استعمال کرتی ہے، لیکن یہ زیادہ آسانی سے کام کرتا ہے. اگر آپ کے پاس تھوڑا سا رام ہے تو، ہمیشہ سافٹ ویئر کی تیز رفتار کا استعمال کریں.
+
+اگر ہارڈ ویئر کی تیز رفتار غلطیوں کا باعث بنتا ہے تو، __app_name__ سافٹ ویئر کی تیز رفتار میں سوئچ کر سکتے ہیں."</string>
+    <string name="small_list_items">چھوٹی فہرست کی اشیاء</string>
+    <string name="small_list_items_help">آپ کو اشیاء کی فہرستوں میں زیادہ معلومات ظاہر کرنے کی اجازت دیتا ہے، لیکن مطلوبہ چیز پر کلک کرنا مشکل ہے.</string>
+    <string name="format_asm_opcodes">__s__ آپکوڈس</string>
+    <string name="no_regions">کوئی مماثل علاقوں نہیں ملا.</string>
+    <string name="cannot_hide_launcher_icon">"یہ آئکن موجودہ لانچ کو استعمال کیا گیا تھا.
+
+آپ اس آئکن کو چھپا نہیں سکتے جو موجودہ لانچ میں استعمال کیا گیا تھا.
+
+اس آئکن کو چھپانے کے قابل ہونے کے لئے ایک اور آئکن کے ذریعے درخواست کو دوبارہ شروع کریں."</string>
+    <string name="screenshot">ایک اسکرین شاٹ لے لو</string>
+    <string name="screenshot_prompt">"آئکن __d__ سیکنڈ تک چھپے گا تاکہ آپ اسکرین شاٹ لے سکیں.
+
+اس کے بعد، آئکن دوبارہ نظر آئے گا."</string>
+    <string name="screenshot_action">اسکرین شاٹ</string>
+    <string name="use_visible_type">میموری ایڈیٹر میں دکھائے گئے ڈیٹا کی قسم کا استعمال کریں:</string>
+    <string name="use_visible_type_help">میموری ایڈیٹر میں ڈیٹا کی قسم کے لئے مت پوچھو اگر صرف ایک ڈیٹا کی قسم ظاہر کی جائے.</string>
+    <string name="wrong_float">آپ کے مقامی علاقے میں، \"__s__\" نمبر \"__s__\" کی طرح لگتی ہے. اگر یہ آپ کی ضرورت نہیں ہے تو - شروع کی سکرین پر مختلف مقامی (یا زبان) کا انتخاب کریں.</string>
+    <string name="wrong_float2">اس کے علاوہ، __app_name__ کی ترتیبات میں، آپ کو فارمیٹنگ نمبروں کے لئے مقامی طور پر زیادہ سے زیادہ کر سکتے ہیں.</string>
+    <string name="number_locale">فارمیٹنگ نمبروں کے لئے علاقہ:</string>
+    <string name="fill">بھریں</string>
+    <string name="help_text_search">"
+متن تلاش کرنے کے لئے، آپ معمول کی تلاش کے ڈائیلاگ میں ترمیم کی وضاحت کرنا ضروری ہے.
+
+سب سے زیادہ عام طور پر استعمال کردہ انکوڈنگ __utf8__ اور __utf16le__ ہیں.
+عام طور پر، __utf16le__ __java__ میں استعمال کیا جاتا ہے، اور __utf8__ __c__ میں استعمال کیا جاتا ہے.
+
+\u0009__utf16le__ دو بائیں انکوڈنگ ہے. ہر کردار ہمیشہ دو بائٹس میں انکوڈ کیا جاتا ہے، لہذا یہ __type_word__ کے ذریعے نمائندگی کی جاتی ہے.
+\u0009__utf8__ - فی حروف متغیر بائٹ سائز کے ساتھ انکوڈنگ. __type_byte__ کے ذریعہ دوبارہ پیش کیا گیا.
+\u0009__hex_input__ اور اس کے متغیرات ہمیشہ __type_byte__ کے ذریعے نمائندگی کی جاتی ہیں.
+
+اس کھیل کو کسی بھی کوڈ کو استعمال کر سکتا ہے.
+اگر آپ کو بائٹس کی مخصوص سیٹ کی ضرورت ہو تو - __hex_input__ موڈ کا استعمال کریں.
+
+دستیاب پیش نظارہ:
+__text_prefixes__
+
+For \"__hex_mixed__\" mode, you can specify __utf8__ text between __apos__ characters and __utf16le__ text between __quot__ characters.
+
+مثال کے طور پر:
+__text_examples__
+
+تلاش کے متن میں پہلے خط کا کردار ہونا ضروری ہے.
+
+The result of the search will be a __type_byte__ sequence, or a __type_word__ sequence, for the case of __utf16le__.
+
+نتائج تبدیل کیے جا سکتے ہیں - سبھی منتخب کریں اور \"__edit_selected__\" پر کلک کریں.
+
+قیمت کے میدان میں، تلاش کی سٹرنگ کے لئے ایک ہی شکل میں نئی ​​قدر درج کریں.
+
+آپ بھرے ہوئے بٹن استعمال کر سکتے ہیں. \"__more__\" پر کلک کریں اگر وہ نظر انداز نہیں ہوتے ہیں.
+
+قیمت مندرجہ ذیل اشیاء کے ہر گروپ کے لئے مقرر کی جائے گی.
+اگر عناصر کے درمیان فرق ہے، تو یہ ایک نیا گروپ ہوگا.
+
+اگر آپ ضرورت سے زیادہ زیادہ بائٹس کی وضاحت کرتے ہیں تو پھر ان کا صرف ایک حصہ استعمال کیا جائے گا.
+اگر آپ کو ضرورت سے کم کی ضرورت ہے، تو باقی گروپ صفر بٹس سے بھرا جائے گی.
+
+متن کو تبدیل کرتے وقت، مشکلات سے بچنے کے لئے اصل میں بٹس کے اسی نمبر کے ساتھ متن کی وضاحت کرنے کی کوشش کریں.
+"</string>
+    <string name="fast_freeze">تیز رفتار منجمد:</string>
+    <string name="help_fast_freeze">"یہ عام منجمد کرنے سے زیادہ تیزی سے کام کرتا ہے، لیکن سبھی میموری کے لئے نہیں.
+
+اگر منجمد کام نہیں کرتا تو، اس اختیار کو غیر فعال کریں."</string>
+    <string name="debug_disassemble">ختم کریں</string>
+    <string name="assembled">فائل کو کامیابی سے جمع کیا گیا:</string>
+    <string name="warn_patch_off_prot2">"اگر آپ __magisk_hide__ استعمال کررہے ہیں - پیچ کو درخواست دینے سے پہلے اسے غیر فعال کریں. کامیابی سے پیچ کو لاگو کرنے کے بعد، آپ اسے واپس کر سکتے ہیں.
+اگر آپ ایسا نہیں کرتے ہیں تو پیچ کامیاب نہیں ہوگا."</string>
+    <string name="help_games_protection_end">"
+ورچوئل اسپیس میں کھیل سے __app_name__ کیسے چھپائیں۔
+
+\u00091. ورچوئل اسپیس انسٹال کریں ، جو نظام میں انسٹال کیے بغیر ، ایپلی کیشنز کی پوشیدہ تنصیب کی اجازت دیتا ہے۔ مثال کے طور پر ، __vspace_hide__۔
+\u00092. ورچوئل اسپیس میں __app_name__ انسٹال کریں۔
+\u00093. __app_name__ میں ، \"__vspace_root__\" موڈ آن کریں۔
+\u00094. Grant root rights to virtual space. If you do not able to grant root rights - try another virtual space, other root rights, different firmware or change the device.
+\u00095. سسٹم سے __app_name__ کو ہٹا دیں۔
+\u00096. ورچوئل اسپیس سے __app_name__ کے ساتھ کام کریں۔
+
+تلاش کے دوران پتہ لگانے سے بچنے کے ل::
+\u0009\"__hide_from_game__\" ترتیب میں آئٹمز 2 ، 3 اور 4 منتخب کریں۔
+
+ایک عام حل (جڑ کی ضرورت ہوتی ہے ، جڑوں کے بغیر آپ کامیاب نہیں ہوسکتے ہیں):
+\u00091. ورچوئل اسپیس سے جڑ کا استعمال کریں۔ \"__vspace_root__\" کی ترتیب کے لئے مدد پڑھیں۔
+\u00092. \"__hide_from_game__\" ترتیب میں آئٹمز 2 ، 3 اور 4 استعمال کریں۔
+"</string>
+    <string name="force_close_2">مستقبل میں اس سے بچنے کے ل You آپ \"__data_in_ram__\" کو \"__no__\" پر سیٹ کرسکتے ہیں۔</string>
+    <string name="script_wrote">سکرپٹ __s__ __d__ پر فائلوں کو لکھا.</string>
+    <string name="script_exit">باہر نکلیں</string>
+    <string name="script_interrupted">سکرپٹ خلل پیدا ہوگیا.</string>
+    <string name="script_error">اسکرپٹ کی خرابی</string>
+    <string name="script_oom">میموری سے باہر</string>
+    <string name="script_possible">ایسا لگتا ہے کہ آپ کو ایک سکرپٹ کے طور پر __s__ پر عمل کرنے کی کوشش کر رہے ہیں کی طرح.</string>
+    <string name="script_web">ایک ویب پیج</string>
+    <string name="script_saved_list">ایک محفوظ کردہ فہرست</string>
+    <string name="speedhack_no_x86">لیکن اس کھیل میں کوئی ایک x86 لائبریریوں ہے، تو شاید یہ کام نہیں کرے گا.</string>
+    <string name="help_faq_33_q">ٹیکسٹ پیغامات (toasts) سکرین پر رہیں، یا __app_name__ کام کر رہا ہے جب ایک سیاہ دائرے کی سکرین کے نچلے حصے میں نظر آتا ہے. کس طرح اس کو ٹھیک کرنے کے لئے؟</string>
+    <string name="help_faq_33_a">تیسری سطح \"__prevent_unload__\" کچھ فرم ویئر پر استعمال کرتے ہوئے اس حقیقت ٹیکسٹ پیغامات (toasts) سکرین پر رہیں کہ، یا ایک سیاہ دائرے دستیاب (خالی پیغام) ہے کی طرف جاتا ہے. اگر ایسا ہوتا ہے، تیسری سطح کا استعمال نہیں کرتے.</string>
+    <string name="invalid_header_1">غلط بائنری سکرپٹ ہیڈر.</string>
+    <string name="unknown_version">نامعلوم ورژن.</string>
+    <string name="unknown_format">نامعلوم فارمیٹ.</string>
+    <string name="unknown_endianness">نامعلوم endianness.</string>
+    <string name="unknown_size_s">__s__ کی نامعلوم سائز.</string>
+    <string name="unknown_size_instr">ہدایات کے نامعلوم سائز.</string>
+    <string name="unknown_size_num">سے Lua تعداد کے نامعلوم سائز.</string>
+    <string name="expected_found">متوقع __s__ لیکن __s__ پایا.</string>
+    <string name="or">یا</string>
+    <string name="invalid_header_2">ویسے سکرپٹ چلائیں؟</string>
+    <string name="invalid_header_3">"__app_name__ کے مستقبل کے ورژن میں، اس اسکرپٹ کو چلانے نہیں کیا جا سکتا.
+اسکرپٹ کے مصنف اس بارے میں لکھیں."</string>
+    <string name="skip_system_libs">نظام لائبریریوں جائیں</string>
+    <string name="try_reinstall_x86">"ایک x86 لائبریریوں کے ساتھ کھیل دوبارہ کوشش کریں؟
+
+کھیل اس کے بعد کام کرنا بند کر سکتا ہے. اگر ایسا ہوتا ہے، __data_app__ میں واقع APK سے کھیل دوبارہ انسٹال."</string>
+    <string name="reinstall_started">دوبارہ تقرر کرنا شروع کر دیا ...</string>
+    <string name="reinstall_failed">دوبارہ تقرر میں ناکام رہے:</string>
+    <string name="reinstall_ended">دوبارہ تقرر مکمل کیا.</string>
+    <string name="help_lasm_title">بے ترکیب / سکرپٹ کو جمع</string>
+    <string name="help_lasm">"__app_name__ Lua پٹکتاین کے لئے ایک بلٹ میں disassembler / کوڈانترک ہے.
+
+آپ \"__more__\" کے بٹن پر کلک کرنے کے بعد، \"__debug_disassemble__\" سکرپٹ لانچ ونڈو میں اختیار کو منتخب کر سکتے ہیں.
+
+نتیجے __ext_lasm__ فائل ترمیم اور سکرپٹ لانچ ونڈو میں منتخب کیا جا سکتا ہے. نتیجہ گئی تبدیلیوں کے ساتھ، ایک بائنری __ext_lua__ فائل ہو جائے گا.
+
+مزید تفصیلات کے لئے سکرپٹ API مدد کی پڑھیں.
+"</string>
+    <string name="help_hide_gg_title">کس طرح کھیل سے __app_name__ کو چھپانے کے لئے</string>
+    <string name="changed_as_search_result">تلاش کے نتیجے کے طور پر تبدیل کر دیا گیا</string>
+    <string name="changed_not_found">تبدیل شدہ اشیاء نہیں ملا.</string>
+    <string name="too_far">ان اقدار ایک گروپ تلاش کے ذریعے نہیں پایا جا سکتا ہے، وہ بھی دور ہیں: __d__ بائٹس. زیادہ سے زیادہ فاصلے __d__ بائٹس ہے.</string>
+    <string name="new_address">نیا پتہ:</string>
+    <string name="hide_1_warn">آپ سب سے پہلے شے کو منتخب کیا. برفیلی اقدار کھیل میں شدید lags کے پیدا کر سکتا ہے.</string>
+    <string name="hide_4_warn">آپ چوتھے شے کو منتخب کیا. کچھ خصوصیات کام نہیں کریں گے: __speedhack__، __unrandomizer__، __allocate_page__.</string>
+    <string name="asm_failed">__s__ opcode کو تسلیم کرنے میں ناکام:</string>
+    <string name="asm_suggestion">آپ کا مطلب تھا: __s__؟</string>
+    <string name="copy_opcode">کاپی __s__ opcode:</string>
+    <string name="search_nearby">قریبی تلاش</string>
+    <string name="before">اس سے پہلے کہ</string>
+    <string name="after">بعد</string>
+    <string name="distance">فاصلے:</string>
+    <string name="nearby">قریبی:</string>
+    <string name="need_fixer">"ایک مسئلہ یہ 64 بٹ مجازی خلا سے پتہ چلا تھا.
+
+اسے ٹھیک کرنے کے لئے:
+
+1. __fixer__ درخواست انسٹال کریں. (اس ڈائیلاگ سے، یا تو دستی طور پر راستے:
+__s__
+).
+
+2. مجازی خلا پر __fixer__ شامل کریں.
+
+3. چلائیں مجازی خلا میں __fixer__.
+
+4. __fixer__ کو ہٹا دیں.
+
+5. دوبارہ چالو مجازی خلا میں __app_name__."</string>
+    <string name="limit">صرف پہلے N نتائج:</string>
+</resources>

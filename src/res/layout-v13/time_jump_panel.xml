@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.ext.TimeJumpPanel
+    android:orientation="horizontal"
+    android:background="@drawable/txt_bg"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.fix.Button
+        android:textSize="@dimen/button_text_size"
+        android:id="@id/time_jump_last"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minWidth="24.0dip"
+        android:text="1"
+        android:textAllCaps="false" />
+    <android.fix.Button
+        android:textSize="@dimen/button_text_size"
+        android:id="@id/time_jump"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minWidth="24.0dip"
+        android:text="..."
+        android:textAllCaps="false" />
+</android.ext.TimeJumpPanel>

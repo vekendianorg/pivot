@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lang_code">~~~ro~~~</string>
+    <string name="front_text">Dacă ai vreo întrebare despre __app_name__ sau folosință ei, va rugăm vizitați forumul nostru la __forum__</string>
+    <string name="set_path">Cale Temporară</string>
+    <string name="number">Număr:</string>
+    <string name="type">Tip:</string>
+    <string name="name">Nume:</string>
+    <string name="reset">Selectare Proces</string>
+    <string name="set_range">Selectare Intervale de Memorie</string>
+    <string name="search">Căutare</string>
+    <string name="save">Salvare</string>
+    <string name="goto1">Du-te</string>
+    <string name="address">Adresă:</string>
+    <string name="edit_all">Editează tot</string>
+    <string name="filter">Filtru</string>
+    <string name="clear">Șterge</string>
+    <string name="max_show_rec">Arată</string>
+    <string name="equal">Neschimbat</string>
+    <string name="inequal">Schimbat</string>
+    <string name="larger">Crescut</string>
+    <string name="smaller">"Scăzut "</string>
+    <string name="compare_current_last">Cum s-a schimbat valoarea ?</string>
+    <string name="write_region_log">Scrie Log-ul Regiunii</string>
+    <string name="old_version">Versiune veche</string>
+    <string name="found_old_version">S-a găsit o versiune __app_name__ mai veche. Doresti să o dezintalezi ?</string>
+    <string name="yes">Da</string>
+    <string name="no">Nu</string>
+    <string name="ok">Ok</string>
+    <string name="failed_find_package_name">Căutarea numelui pachetului a eșuat.</string>
+    <string name="path_for_temp_files">"Setați o cale pentru fișierele temporare , (ex:. '__sdcard__'). Aceasta poate necesita câteva sute de MB de spațiu liber. Rezultatele căutării vor fi pierdute."</string>
+    <string name="confirm">Confirmă</string>
+    <string name="cancel">Anulează</string>
+    <string name="found_new_version">S-a găsit o versiune noua __s__</string>
+    <string name="daemon_failed">Daemon eșuat.</string>
+    <string name="failed_run_daemon">Rularea Daemon a eșuat. Root - ul este instalat?</string>
+    <string name="daemon_unexpected_closed">Daemon s-a oprit în mod neașteptat. Informații:</string>
+    <string name="daemon_exited">Daemon închis</string>
+    <string name="failed_load_daemon">Încărcarea Daemon a eșuat</string>
+    <string name="is_device_rooted">Nu se poate obține accesul Root</string>
+    <string name="collect_data_to_region_log">S-a început colectarea de date pentru a se scrie in Log-ul de regiune...</string>
+    <string name="log_saved">Log salvat în __s__</string>
+    <string name="failed_save">Salvare eșuată în __s__</string>
+    <string name="region_log">Log de regiune</string>
+    <string name="apply">Aplică</string>
+    <string name="error">Eroare.</string>
+    <string name="load">Încarcă</string>
+    <string name="delete_prompt">Vrei sa stergi acest item ?</string>
+    <string name="reset_search">Eroare detectată . Resetare lista de căutare</string>
+    <string name="unknown_error">Eroare necunoscută</string>
+    <string name="out_of_memory">Fără memorie</string>
+    <string name="bug_detected">BUG detectat</string>
+    <string name="disk_full">Memorie Plină</string>
+    <string name="io_error">Eroare IO</string>
+    <string name="game_dead">Joc mort</string>
+    <string name="exit">Ieșire</string>
+    <string name="skip">Ignoră</string>
+    <string name="unhandled_exception">Excepție neașteptată. Trimiteți informații către echipele de dezvoltare?</string>
+    <string name="last_run_failed">"Ultima rulare eșuată "</string>
+    <string name="thank_you">Mulțumesc!</string>
+    <string name="no_application">Nicio aplicație nu a fost selectată.</string>
+    <string name="increments">Creștere :</string>
+    <string name="add_not_replace">Adaugă la valoare, dar nu o înlocui</string>
+    <string name="eperm_error">Eroare PTRACE_ATTACH: Operațiune Nepermisă</string>
+    <string name="load_list">Lista încărcări</string>
+    <string name="load_warning">Ați încărcat o listă care a fost salvată de la o altă instanță a jocului. Cel mai probabil, toate adresele din memorie s-au schimbat și datele încărcate care nu corespund datelor care au fost salvate anterior. Vă recomandăm să le verificați.</string>
+    <string name="from">Completat __d__ de la __d__ stagii</string>
+    <string name="count_fuzzy_equal_run">"Numărul de ori pentru a rula '__fuzzy_equal__':"</string>
+    <string name="slow">Încet</string>
+    <string name="miui_restart">__app_name__ trebuie să repornească ca permisiunile de securitate sa fie aplicate</string>
+    <string name="out_of_memory_error">Eroare de memorie. Lista de rezultate curente ștearsă. Vă rugăm să setați o valoare mai mică pentru numărul de rezultate de afișat.</string>
+    <string name="loading">Încărcare...</string>
+    <string name="found_count">Găsit :__d__</string>
+    <string name="fuzzy_equal">Valoare neschimbată</string>
+    <string name="fuzzy_inequal">Valoare schimbată</string>
+    <string name="fuzzy_larger">Valoare crescută</string>
+    <string name="fuzzy_smaller">Valoare scăzută</string>
+    <string name="type_edit_limit">Valoarea de intrare de la __s__ la __s__</string>
+    <string name="number_name">Număr</string>
+    <string name="step_name">Crescut</string>
+    <string name="number_less">Numărul \"__s__\" este mai mic decât valoarea minimă (__d__) pentru acest tip.</string>
+    <string name="number_greater">Numărul \"__s__\" este mai mare decât valoarea maximă (__d__) pentru acest tip.</string>
+    <string name="about">Despre</string>
+    <string name="owner">proprietar</string>
+    <string name="design">designer de plumb</string>
+    <string name="pm">management de proiect</string>
+    <string name="code">plumb coder</string>
+    <string name="tech">consultant tehnic</string>
+    <string name="creator">creator (pensionar)</string>
+    <string name="for_translators">Dacă doriți să vă ajutați sau să faceți o traducere a aplicației, ne puteți contacta pe forumul http://gameguardian.net/forum, pentru a include traducerea dvs. în versiunea oficială a aplicației.</string>
+    <string name="version">Versiune:</string>
+    <string name="developers">Dezvoltatori:</string>
+    <string name="select_language">Selecteaza limba</string>
+    <string name="exit_confirm">__app_name__ trebuie să fie repornit pentru a aplica modificări.</string>
+    <string name="special_thanks">Multumiri speciale:</string>
+    <string name="nothing_found">Nimic gasit. Încercați să căutați din nou.</string>
+    <string name="try_more_ranges">De asemenea, puteți încerca să alegeți mai multe intervale în fila Setări.</string>
+    <string name="try_fuzzy_search">De asemenea, puteți încerca să căutați o valoare necunoscută.</string>
+    <string name="search_hint">"Pentru a căuta o valoare cunoscută, apăsați \"__search_known_value__\".
+Dacă valoarea este necunoscută sau criptată - faceți clic pe \"__search_unknown_value__\" pentru a căuta.
+Căutarea valorilor de tip float pe baza întregii lor părți poate fi efectuată selectând tipul de căutare \"__type_auto__\".
+De asemenea, puteți utiliza o căutare în grup cu \"__semicolon__\" ca separator."</string>
+    <string name="freeze">Îngheţa:</string>
+    <string name="freeze_normal">normal</string>
+    <string name="freeze_may_increase">poate crește</string>
+    <string name="freeze_may_decrease">poate scădea</string>
+    <string name="freeze_in_range">în gamă</string>
+    <string name="range_end_fail">Limita finalității (\"__s__\") trebuie să fie mai mare decât \"__s__\".</string>
+    <string name="failed_add_window">Fereastra nu a putut fi adăugată</string>
+    <string name="failed_remove_window">Nu s-a putut elimina fereastra</string>
+    <string name="system_service_stopped">Aplicația nu poate funcționa normal deoarece serviciul de sistem a fost oprit. Încercați să reporniți aplicația sau să reporniți dispozitivul.</string>
+    <string name="value_request">Introduceți o valoare pentru a căuta</string>
+    <string name="type_request">Selectați tipul de date pe care doriți să le căutați</string>
+    <string name="type_change_request">Selectați tipul de date pe care să îl modificați</string>
+    <string name="value">Valoare</string>
+    <string name="save_as">Salvează ca:</string>
+    <string name="restart">Repornire</string>
+    <string name="start">start</string>
+    <string name="wait_daemon">Această funcție nu este disponibilă dacă daemonul nu rulează. Așteptați până când demararea daemonului. (Ați uitat să acordați accesul root sau nu este instalat root?)</string>
+    <string name="daemon_fail">Daemonul nu se execută</string>
+    <string name="config_icon_text">Pictogramă: transparență = __d__ %%, ascunde - __s__</string>
+    <string name="icon_hide_after">după __d__ secunde</string>
+    <string name="icon_hide_never">nu</string>
+    <string name="keyboard">Tastatură:</string>
+    <string name="internal">Intern</string>
+    <string name="external">Extern</string>
+    <string name="failed_copy_text">Copierea textului în clipboard nu a reușit:</string>
+    <string name="copied">Copiată</string>
+    <string name="copy_value">Copiați valoarea:</string>
+    <string name="copy_address">Copiați adresa:</string>
+    <string name="goto_address">Mergeți la adresa:</string>
+    <string name="search_unknown_value">Căutarea necunoscută (fuzzy)</string>
+    <string name="search_known_value">Cunoscută (exact) căutarea</string>
+    <string name="speedhack_hint">Pentru a schimba viteza jocului, efectuați o apăsare lungă pe pictograma floating __app_name__.</string>
+    <string name="bad_firmware">Firmware-ul dvs. are erori care au împiedicat utilizarea acestei caracteristici.</string>
+    <string name="language">Limba</string>
+    <string name="acceleration">Accelerarea interfeței:</string>
+    <string name="hardware">Hardware</string>
+    <string name="software">Software-ul</string>
+    <string name="speedhack">Speedhack</string>
+    <string name="data_in_ram">Datele din memoria RAM:</string>
+    <string name="first_mb">Primele __d__ MB</string>
+    <string name="donate">Dona</string>
+    <string name="speeds">viteze</string>
+    <string name="floating_window_fail">Imposibil de afișat fereastra plutitoare</string>
+    <string name="check">Verificare</string>
+    <string name="check_success">Verificarea a avut succes</string>
+    <string name="enable_draw_perm">Activați permisiunile pe ecranul următor.</string>
+    <string name="speedhack_fail">Speedhack pentru acest proces nu este acceptat</string>
+    <string name="dangerous">periculos</string>
+    <string name="difference">Diferență</string>
+    <string name="old_value">Valoare veche</string>
+    <string name="new_value">Noua valoare</string>
+    <string name="mode_hacking">Valoarea este criptată</string>
+    <string name="union">Căutare în grup</string>
+    <string name="speedhack_open">Aveți posibilitatea să deschideți hărțile Speedhack apăsând lung pe pictograma flotantă __app_name__.</string>
+    <string name="history">Istorie</string>
+    <string name="history_empty">Istoria este goală</string>
+    <string name="allow_suggestions">Permiteți sugestiile de la tastatură:</string>
+    <string name="invalid_area">Dimensiunea grupului trebuie să fie între __d__ și __d__:</string>
+    <string name="union_need_two_numbers">Pentru căutarea în grup trebuie să existe cel puțin două numere</string>
+    <string name="too_many_union_numbers">Prea multe numere, mai mult decât:</string>
+    <string name="invalid_number">Numar invalid:</string>
+    <string name="input_number">Numărul de intrare</string>
+    <string name="number_out_of_range">Numărul \"__s__\" din intervalul posibile:</string>
+    <string name="help_floating_icon">"* Pictograma plutitoare:
+\u0009* Atingeți pentru a deschide interfața.
+\u0009* Atingeți și mențineți apăsat pentru a comuta panoul Speedhack.
+\u0009* Poate fi mutat în orice loc trăgând și lăsând pictograma.
+\u0009* Transparența și ascunderea cronometrului pot fi personalizate în setările aplicației.
+"</string>
+    <string name="help_exact_search">"* Căutare exactă:
+\u00091. Treceți la __app_name__ dintr-un joc.
+\u00092. Atingeți butonul \"__search_known_value__\" din fila \"__search__\".
+\u00093. Introduceți numărul care este afișat în joc.
+\u00094. Selectați tipul de date potrivit sau alegeți \"__type_auto__\" (dacă nu sunteți sigur) și alte opțiuni (dacă este necesar) și faceți clic pe \"__search__\".
+\u00095. Când ați terminat căutarea, rezultatele căutării vor fi afișate în listă.
+\u00096. Du-te înapoi la joc. După ce valoarea sa schimbat, treceți din nou la __app_name__.
+\u00097. Căutați valoarea care sa schimbat.
+\u00098. Dacă sunt prea multe rezultate, continuați cu pasul 6.
+\u00099. Dacă sunt lăsate doar câteva rezultate, puteți încerca modificarea, stocarea sau înghețarea valorii.
+"</string>
+    <string name="help_speedhack">"* Speedhack:
+\u0009* Atingeți și țineți apăsată pictograma plutitoare pentru a afișa panoul Speedhack.
+\u0009* Atingeți săgețile de pe ambele părți ale pictogramei, pentru a schimba viteza jocului.
+\u0009* Atingeți și mențineți apăsat numărul de viteză curent pentru a reseta viteza jocului.
+\u0009* Atingeți și țineți apăsată pictograma plutitoare pentru a ascunde panoul Speedhack.
+\u0009* Lista de viteze și cronometre utilizate pot fi personalizate în setările aplicației.
+\u0009* În cazul în care jocul nu răspunde la intrare sau viteza nu funcționează, încercați să utilizați alte cronometre verzi în setările __app_name__.
+\u0009* Puteți utiliza \"__time_jump__\" pentru a sari înainte în timp. Doar selectați meniul din fila de căutare și alegeți \"__time_jump__\". Va trebui să specificați câte secunde să sari. Suma pentru a sari poate fi fracționată.
+"</string>
+    <string name="help_fuzzy_search">"* Căutarea fuzzy:
+\u00091. Treceți la __app_name__ dintr-un joc.
+\u00092. Atingeți butonul \"__search_unknown_value__\" din fila \"__search__\".
+3. Selectați tipul de date potrivit sau alegeți \"__type_auto__\" (dacă nu sunteți sigur) și faceți clic pe \"__search__\".
+\u00094. Când ați terminat căutarea, rezultatele căutării vor fi afișate în listă.
+\u00095. Înapoi la joc. După ce valoarea sa schimbat (sau nu), treceți din nou la __app_name__.
+\u00096. Apăsați butonul \"__search_unknown_value__\" și selectați tipul pentru modificarea valorii.
+\u00097. Dacă sunt prea multe rezultate, continuați pasul la 5.
+\u00098. Dacă sunt lăsate doar câteva rezultate, puteți încerca modificarea, stocarea sau înghețarea valorii.
+
+\u0009Puteți specifica modificarea exactă a valorii făcând clic pe butonul \"__more__\".
+\u0009Puteți introduce o gamă ca o schimbare precisă a valorii:
+\u0009\u0009190__tilde__210
+\u0009Pentru a specifica modificarea în afara intervalului de valori, puteți introduce:
+\u0009\u000910__tilde____tilde__4000
+"</string>
+    <string name="help_group_search">"* Cautare grup:
+\u00091. Treceți la __app_name__ dintr-un joc.
+\u00092. Atingeți butonul \"__search_known_value__\" din fila \"__search__\".
+\u00093. Cerere de căutare de intrare pentru căutare în grup.
+\u0009\u0009Format: valoare 1 __semicolon__ valoare 2 __semicolon__ ... __semicolon__ valoare N __colon__ mărimea grupului
+\u0009\u0009Valorile 2-__max_group__ pot fi căutate în același timp. Dimensiunea implicită a grupului este 512. Dimensiunea grupului trebuie să fie cuprinsă între 2 și 65536.
+\u0009\u0009De exemplu, dacă doriți să căutați 195 și 6543, trebuie să introduceți:
+\u0009\u0009\u0009195 __semicolon__ 6543
+\u0009\u0009Desigur, puteți specifica dimensiunea grupului (300):
+\u0009\u0009\u0009195 __semicolon__ 6543 __colon__ 300
+\u0009\u0009De asemenea, puteți seta unul sau mai multe tipuri de date:
+\u0009\u0009\u0009195__type_dword_short__ __semicolon__ 6543
+\u0009\u0009Aceasta înseamnă că doriți să căutați o valoare __type_dword__ care este 195 și o valoare __type_auto__ care este 6543.
+\u0009\u0009Posibilele tipuri de date sunt aceleași ca în căutare:
+\u0009\u0009\u0009__type_byte_short__ - __type_byte__
+\u0009\u0009\u0009__type_word_short__ - __type_word__
+\u0009\u0009\u0009__type_dword_short__ - __type_dword__
+\u0009\u0009\u0009__type_xor_short__ - __type_xor__
+\u0009\u0009\u0009__type_qword_short__ - __type_qword__
+\u0009\u0009\u0009__type_float_short__ - __type_float__
+\u0009\u0009\u0009__type_double_short__ - __type_double__
+\u0009\u0009\u0009__type_auto_short__ - __type_auto__
+\u0009\u0009De asemenea, puteți scrie numărul în notație hexagonală (puțin-endiană):
+\u0009\u0009\u0009__hex_example____hex__ __semicolon__ 6543
+\u0009\u0009sau în notație hexagonală inversă (big-endian):
+\u0009\u0009\u0009__hex_example____rhex__ __semicolon__ 6543
+\u0009\u0009Pentru a introduce simboluri suplimentare, utilizați butonul \"__btn_hex__\" de pe tastatura internă.
+\u00094. Selectați tipul de date potrivit sau alegeți \"__type_auto__\" (dacă nu sunteți sigur) pentru a utiliza ca implicit. Alte opțiuni nu contează pentru acest tip de căutare. Faceți clic pe \"__search__\".
+\u00095. Când ați terminat căutarea, rezultatul căutării va fi afișat în listă.
+\u00096. Înapoi la joc. După ce valoarea sa schimbat, treceți din nou la __app_name__.
+\u00097. Repetați căutarea de grup cu modificările corespunzătoare.
+\u00098. Dacă sunt prea multe rezultate, repetați pașii 6 și 7.
+\u00099. Dacă sunt lăsate puține rezultate, puteți încerca modificarea, stocarea sau înghețarea valorii.
+
+\u0009Dacă doriți să respectați ordinea valorilor, specificați de două ori __colon__.
+\u0009Fără dimensiunea grupului:
+\u0009\u0009195 __semicolon__ 6543 __colon____colon__
+\u0009Cu dimensiunea grupului:
+\u0009\u0009195 __semicolon__ 6543 __colon____colon__ 300
+
+\u0009Puteți căuta în intervalul de valori:
+\u0009\u0009190__tilde__210 __semicolon__ 6543
+\u0009De asemenea, puteți căuta în afara gamei de valori:
+\u0009\u000910__tilde____tilde__4000 __semicolon__ 6543
+"</string>
+    <string name="help_others">"* Alții:
+\u0009* Pentru căutări noi, trebuie să ștergeți rezultatele căutării anterioare selectând \"__clear__\" din meniul de sub butonul meniu.
+\u0009* Pentru a selecta un alt joc atingeți pictograma jocului din colțul din stânga sus.
+\u0009* Pentru a întrerupe / relua un joc - atingeți butonul de sub pictograma din colțul din stânga sus.
+\u0009* Dacă treceți la un joc în timp ce este activă pauza, data viitoare când deschideți __app_name__, jocul va fi întrerupt automat.
+\u0009* Toate valorile înghețate sunt adăugate automat în lista salvată. Puteți să le gestionați sub fila corespunzătoare.
+\u0009* Toate datele de intrare se salvează în lista \"__history__\". Puteți să le folosiți apăsând butonul Istoric.
+"</string>
+    <string name="help_typical_usage">"* Algoritmi tipici de utilizare:
+
+1) Valoarea nu este criptată și cunoscută.
+\u0009Un caz tipic ar fi pentru bani, stele, monede, resurse etc.
+
+\u0009Utilizați căutarea exactă.
+
+2) Valoarea este necunoscută și / sau criptată.
+\u0009Un caz tipic de valoare necunoscută - orice scară / bară. De exemplu, sănătatea, mana, nitro, etc. Modificările sunt văzute, dar nu sunt vizibile valori numerice.
+\u0009A typical case for encrypted values would be money, stars, coins, etc., but when searching with 1 algorithm does not find anything, or change of found values does not lead to numbers changing in the game.
+
+\u0009Utilizează căutarea fuzzy.
+
+
+3) Valoarea este criptată (__mode_hacking__).
+\u0009A typical case for encrypted values would be money, stars, coins, etc., but when searching with 1 algorithm does not find anything, or change of found values does not lead to numbers changing in the game.
+
+\u0009Utilizați căutarea exactă, dar selectați întotdeauna caseta de selectare \"__mode_hacking__\".
+\u0009Rezultatele găsite pot avea valori ciudate datorită criptării.
+
+Algoritmul 3 este mult mai rapid decât 2, dar este posibil să nu funcționeze pentru toate jocurile.
+
+4) Valoarea nu este criptată, cunoscută și plasată în apropierea altor valori cunoscute.
+\u0009Un caz tipic ar fi prețul în magazin, statisticile eroilor etc.
+
+\u0009Utilizați căutarea de grup pentru toate numerele dintr-o dată.
+"</string>
+    <string name="help_hints">"* Sugestii:
+
+\u0009* Nu toate jocurile pot fi modificate prin __app_name__. Lista tipică de exemple:
+\u0009\u0009* datele stocate pe un server (jocuri pe server-side)
+\u0009\u0009* jocul are nevoie de conexiune la Internet
+\u0009\u0009* jucați în rețea cu alți jucători
+\u0009\u0009* trebuie să selectați un server care să se conecteze la începutul jocului
+\u0009\u0009* nu puteți folosi anumite lucruri fără internet
+\u0009\u0009* jocul reîncarcă datele de pe server dacă schimbați ceva
+\u0009* Valorile care sunt văzute nu sunt întotdeauna aceleași cu modul în care sunt stocate. Ele pot fi diferite. De exemplu, pe ecran vedem 34, dar în memorie valoarea este de 34000.
+\u0009* Dacă nu puteți modifica o valoare - încercați modificarea valorilor care au afectat această valoare. De exemplu, în loc să schimbați cantitatea de aur, puteți schimba prețul produsului și îl puteți vinde. Sau cumpărați cu un preț negativ.
+"</string>
+    <string name="help">Ajutor</string>
+    <string name="help_floating_icon_title">Pictograma plutitoare</string>
+    <string name="help_exact_search_title">Căutați exact</string>
+    <string name="help_speedhack_title">Speedhack</string>
+    <string name="help_group_search_title">Căutare în grup</string>
+    <string name="help_others_title">Alții</string>
+    <string name="help_typical_usage_title">Algoritmi de utilizare tipice</string>
+    <string name="help_hints_title">sugestii</string>
+    <string name="value_format">Formatul valorii</string>
+    <string name="format_hex">Notă hex (puțin-endian)</string>
+    <string name="format_rhex">Inversarea hexazecimalului (big-endian)</string>
+    <string name="clear_selection">Selecție clară</string>
+    <string name="invert_selection">Inverseaza selectia</string>
+    <string name="select_all">Selectează tot</string>
+    <string name="edit_selected">Editați selectat</string>
+    <string name="delete_selected">Sterge selectia</string>
+    <string name="save_selected">Salvați selectat</string>
+    <string name="nothing_selected">Nimic nu a fost selectat</string>
+    <string name="items_added">Articole (__d__) adăugate la lista salvată</string>
+    <string name="no_items_for_editing">Nu există elemente de editat.</string>
+    <string name="edit_info">Editați __s__ ca __s__</string>
+    <string name="edit_all_info">Editați __d__ adrese ca __s__</string>
+    <string name="autopause">Joc Autopauză:</string>
+    <string name="empty_list">"Lista salvată este goală.
+Puteți adăuga elemente din lista de rezultate ale căutării sau din editorul de memorie.
+Trebuie doar să selectați elementele dorite și să alegeți \"__save_selected__\" din meniu.
+O altă metodă - începeți editarea unei valori și bifați caseta de selectare \"__save_as__\".
+De asemenea, toate valorile înghețate sunt adăugate aici automat."</string>
+    <string name="empty_save">Lista salvată este goală. Nu este nimic de salvat.</string>
+    <string name="revert_selected">Reveniți selectat</string>
+    <string name="nothing_to_revert">Nimic pentru a reveni</string>
+    <string name="revert_prompt">Reveniți elementele selectate (__d__)?</string>
+    <string name="download">Această aplicație poate fi descărcată de la:</string>
+    <string name="format_string">Reprezentarea șirului</string>
+    <string name="forgot_h">"Ai uitat să '__hex__' la sfârșit?"</string>
+    <string name="time_jump">Salt în timp</string>
+    <string name="time_jump_hint">Introduceți numărul de secunde pentru a sari înainte:</string>
+    <string name="hide_from_game">Ascunde __app_name__ din joc:</string>
+    <string name="last_stats">Statistici pentru ultima dvs. căutare</string>
+    <string name="memory_access">Accesul la memorie:</string>
+    <string name="normal">Normal</string>
+    <string name="extended">Extins</string>
+    <string name="experimental">Experimental</string>
+    <string name="installing">__app_name__ efectuează o reinstalare de sine cu un nume aleatoriu pentru a exclude detectarea prin jocuri. Aștepta.</string>
+    <string name="failed_install">Instalarea nu a reușit. Reîncercați?</string>
+    <string name="failed_uninstall">Apelul nu a putut fi dezinstalat. Reîncercați?</string>
+    <string name="download_it">Descarca</string>
+    <string name="more">Mai Mult</string>
+    <string name="less">Mai puțin</string>
+    <string name="no_space">Nu mai rămâne spațiu pe dispozitiv</string>
+    <string name="install_cancel_prompt">__app_name__ poate fi detectat când nu este instalat. Chiar vrei să anulezi?</string>
+    <string name="intercept">intercepta</string>
+    <string name="need_restart">Aplicația vizată trebuie să fie repornit pentru a aplica aceste modificări.</string>
+    <string name="must_be_root">"Pentru funcționarea acestui program, dispozitivul dvs. trebuie să aibă root.
+
+__app_name__ poate funcționa în mod limitat fără rădăcină, printr-un mediu virtual. De exemplu, prin __vspace_list__ și multe altele.
+Citiți ajutorul pentru mai multe detalii.
+
+Cum de a rădăcina orice dispozitiv: http://www.xda-developers.com/root/"</string>
+    <string name="skip_">Ocolire</string>
+    <string name="indent_for_the_status_bar">Indentul UI din partea de sus a ecranului:</string>
+    <string name="start_collecting_data">Începeți colectarea datelor</string>
+    <string name="data_collecting_in_progress">Colectarea datelor în curs</string>
+    <string name="copy">Copie</string>
+    <string name="show_logcat">Arată logcat</string>
+    <string name="path_must_be">"Calea trebuie să aibă cel puțin 2 caractere și începe cu '/'."</string>
+    <string name="fix_it">Repara-l</string>
+    <string name="change_log">Schimbați jurnalul</string>
+    <string name="used_only_first">Folosit doar prima __d__ elemente.</string>
+    <string name="need_select_more">Trebuie să selectați __d__ sau mai multe elemente.</string>
+    <string name="offset">Offset:</string>
+    <string name="result">Rezultat:</string>
+    <string name="copy_hex_value">Copiați valoarea hex:</string>
+    <string name="goto_pointer">Du-te la pointer:</string>
+    <string name="offset_calculator">Calculator offset</string>
+    <string name="fill_toolbar">Completați bara de instrumente:</string>
+    <string name="from_left">Din stânga</string>
+    <string name="from_center">Din centru</string>
+    <string name="from_right">De la dreapta</string>
+    <string name="unit_years_short">y</string>
+    <string name="unit_days_short">d</string>
+    <string name="unit_hours_short">h</string>
+    <string name="unit_minutes_short">min</string>
+    <string name="unit_seconds_short">sec</string>
+    <string name="speed_info">__s__ în timp real = __s__ în timpul jocului</string>
+    <string name="search_helper">Ajutor pentru căutare:</string>
+    <string name="off">de pe</string>
+    <string name="go_to_game">Du-te înapoi la joc, dacă se găsesc o mulțime de valori</string>
+    <string name="go_to_game_and_restore">Du-te înapoi la joc, dacă se găsesc o mulțime de valori și restabiliți modul de căutare pe următoarea fereastră deschisă</string>
+    <string name="nothing">Nimic</string>
+    <string name="sort">Fel</string>
+    <string name="sort_and_remove_duplicates">Sortați și eliminați duplicatele</string>
+    <string name="help_basics_title">Informatii de baza</string>
+    <string name="help_basics">"După ce porniți aplicația, făcând clic pe butonul \"__start__\", pe ecran va apărea o pictogramă plutitoare. Acesta poate fi tras în orice locație.
+Apăsarea scurtă a pictogramei va deschide interfața principală a aplicației, atingeți lung - afișați un panou pentru a schimba viteza jocului.
+
+În ecranul principal puteți vedea:
+\u0009* În colțul din stânga sus - pictograma jocului. Atingerea pe aceasta vă permite să selectați un alt joc.
+* Situate în centru sunt marcaje pentru a naviga prin file. Atingerea marcajului dorit afișează fila corespunzătoare.
+
+În total, există 4 file: setări, căutare, lista salvată și editorul de memorie.
+\u0009* În colțul din dreapta sus al interfeței este butonul de închidere. Apăsați și interfața va fi ascunsă, iar pe ecran va apărea o pictogramă plutitoare.
+\u0009* În partea de jos a ecranului există o bară de stare și pictograma ochi. Dacă apăsați și țineți apăsată pictograma pentru ochi, interfața devine transparentă, atâta timp cât nu eliberați degetul.
+\u0009* Restul conținutului de pe ecran depinde de tab-ul în care vă aflați.
+
+În fiecare filă, cu excepția filei de setări, există un buton de meniu, care conține o varietate de acțiuni posibile. În acesta veți găsi acțiunile principale pentru această filă.
+
+Fila Setări conține o varietate de setări, ajutor și informații despre aplicație și butonul de ieșire.
+
+Fila Căutare conține:
+\u0009* Butonul Pauză, numele jocului selectat, numărul de rezultate găsite și butonul de reîmprospătare.
+\u0009* Mai jos este un panou cu pictograme de acces rapid și un buton de meniu. Toate pictogramele sunt duplicate în meniu, deci dacă nu cunoașteți semnificația pictogramei, acesta poate fi vizualizat întotdeauna făcând clic pe butonul din meniu (cel din dreapta).
+\u0009* Sub aceste pictograme va fi lista rezultatelor căutării.
+
+Fila listei salvate conține:
+\u0009* Butonul Pauză, numele aplicației selectate, butonul meniu și butonul de reîmprospătare.
+\u0009* Sub aceste pictograme va fi lista de valori salvate.
+
+Fila editorului de caractere este similară cu cea anterioară, numai aici, în loc de o listă de valori salvate, afișează conținutul memoriei.
+
+În cele trei liste (rezultatele căutării, valorile salvate și editorul de memorie), puteți efectua o atingere lungă pe elemente pentru a afișa meniul contextual."</string>
+    <string name="daemon_killed">"Daemon a fost ucis de ceva.
+
+De obicei, poate fi:
+\u00091. Orice criminali de memorie sau optimizatori. Trebuie să dezactivați orice ucigași sau să adăugați __app_name__ lista albă în setările sale.
+\u00092. __daemon_killed_oom__
+\u00093. Cardul de memorie a fost demontat, în timp ce __app_name__ au stocat fișiere temporare pe acesta. Pentru a preveni acest lucru, specificați o altă cale către fișierele temporare. De exemplu, în memoria internă."</string>
+    <string name="bad_settings">Setări nepotrivite</string>
+    <string name="freeze_lags">Utilizarea valorilor înghețului împreună cu setarea __hide_from_game__ poate provoca o întârziere în joc.</string>
+    <string name="improve_translation">Această traducere a fost creată de un traducător automat. Îl puteți îmbunătăți utilizând serviciul nostru de traducere colectivă.</string>
+    <string name="freeze_interval">Interval de înghețare:</string>
+    <string name="saved_list_update_interval">Intervalul actualizărilor listei salvate:</string>
+    <string name="milliseconds_short">Domnișoară</string>
+    <string name="disable_floating_windows">Dezactivați ferestrele plutitoare și reporniți aplicația</string>
+    <string name="enable_floating_windows">Activați ferestrele plutitoare și reporniți aplicația</string>
+    <string name="too_many">Prea multe</string>
+    <string name="help_range_search_title">Cercetarea pe gama</string>
+    <string name="help_range_search">"Căutare în gama:
+\u00091. Treceți la __app_name__ dintr-un joc.
+\u00092. Atingeți butonul \"__search_known_value__\" din fila \"__search__\".
+\u00093. Introduceți un interval de căutare de frontieră, separat de \"__tilde__\". De exemplu, pentru a căuta valori de la 100 la 150, introduceți:
+\u0009\u0009\u0009100__tilde__150
+\u0009\u0009Pentru a căuta în afara intervalului, puteți specifica de două ori caracterul \"__tilde__\":
+\u0009\u0009\u0009100__tilde____tilde__150
+\u0009\u0009Alternativ, puteți selecta semnul \"__not_equal__\" și puteți specifica o dată caracterul \"__tilde__\".
+\u0009\u0009Pentru a introduce simboluri suplimentare, utilizați butonul \"__btn_hex__\" de pe tastatura internă.
+\u00094. Selectați tipul de date potrivit sau alegeți \"__type_auto__\" (dacă nu sunteți sigur) și alte opțiuni (dacă este necesar) și faceți clic pe \"__search__\".
+\u00095. Când ați terminat căutarea, rezultatele căutării vor fi afișate în listă.
+\u00096. Înapoi la joc. După ce valoarea sa schimbat, treceți din nou la __app_name__.
+\u00097. Repetați căutarea în intervalul cu modificările corespunzătoare.
+\u00098. Dacă sunt prea multe rezultate, repetați pașii 6 și 7.
+\u00099. Dacă sunt lăsate puține rezultate, puteți încerca modificarea, stocarea sau înghețarea valorii.
+
+\u0009Limitele domeniului incluse în rezultatele căutării. Puteți selecta tipul de căutare \"__not_equal__\" pentru a găsi toate valorile care nu aparțin domeniului.
+\u0009În această căutare, toate valorile sunt considerate semnate.
+"</string>
+    <string name="does_not_support">\"__s__\" nu acceptă \"__s__\".</string>
+    <string name="range_bounds_diff_types">Limitele de interval trebuie să fie de același tip.</string>
+    <string name="examples">Exemple</string>
+    <string name="rtfm">Citiți ajutorul pentru mai multe detalii.</string>
+    <string name="icons_size">Dimensiuni de pictograme:</string>
+    <string name="revert_and_remove">Reveniți și eliminați</string>
+    <string name="remove">Elimina</string>
+    <string name="ordered_group_search">Căutarea de grup ordonată</string>
+    <string name="load_items">Articole</string>
+    <string name="load_values">valori</string>
+    <string name="load_freeze">Îngheţa</string>
+    <string name="video_tutorials">Tutoriale video și ghiduri de hack</string>
+    <string name="make_copy">Fa o copie</string>
+    <string name="video">Videoclipuri</string>
+    <string name="ordered">Ordonat</string>
+    <string name="toolbars">Bare de instrumente</string>
+    <string name="saved_list">Lista salvată</string>
+    <string name="memory_editor">Editor de memorie</string>
+    <string name="restart_game">Reporniți jocul</string>
+    <string name="refine">Rafina</string>
+    <string name="internal_storage">Stocare internă</string>
+    <string name="external_storage">Stocare externă</string>
+    <string name="new_search">O nouă căutare</string>
+    <string name="load_saved_list">Încărcați lista salvată din fișier</string>
+    <string name="save_saved_list">Salvați lista salvată în fișier</string>
+    <string name="append">Adăuga</string>
+    <string name="xor_key">Tasta XOR:</string>
+    <string name="only_memory">Doar în intervalul de memorie:</string>
+    <string name="dump_memory">Dump memorie</string>
+    <string name="path">Cale:</string>
+    <string name="dump_ended">Dump sa încheiat</string>
+    <string name="dump_failed">Dump a eșuat</string>
+    <string name="eperm_error_defend">Nu s-a putut atașa procesul (PTRACE_ATTACH): Jocul este protejat</string>
+    <string name="reset_on_exit">Resetați la ieșire:</string>
+    <string name="kill_game">Omoara jocul</string>
+    <string name="kill_game_info">Terminarea forțată a unui proces nu oferă procesului posibilitatea de a se opri în mod curat și poate provoca pierderea de date sau instabilitatea sistemului.</string>
+    <string name="continue_ask">Continua?</string>
+    <string name="copy_memory">Copiați memoria</string>
+    <string name="copy_from">Copiați din:</string>
+    <string name="paste_to">Lipiți la:</string>
+    <string name="count_bytes">Numărătoarea octeților:</string>
+    <string name="copy_ended">Copierea memoriei sa terminat</string>
+    <string name="copy_failed">Copierea memoriei a eșuat</string>
+    <string name="help_encrypted_search_title">Căutați valori criptate</string>
+    <string name="help_encrypted_search">"* Căutați valori criptate:
+\u00091. Treceți la __app_name__ dintr-un joc.
+\u00092. Atingeți butonul \"__search_known_value__\" din fila \"__search__\".
+\u00093. Introduceți numărul care este afișat în joc.
+\u00094. Selectați tipul de date potrivit sau alegeți \"__type_auto__\" (dacă nu sunteți sigur), alte opțiuni (dacă este necesar), bifați \"__mode_hacking__\" și faceți clic pe \"__search__\".
+\u00095. Când ați terminat căutarea, rezultatele căutării vor fi afișate în listă.
+\u00096. Du-te înapoi la joc. După ce valoarea sa schimbat, treceți din nou la __app_name__.
+\u00097. Căutați valoarea care sa schimbat. Rubrica de verificare \"__mode_hacking__\" trebuie verificată.
+\u00098. Dacă sunt prea multe rezultate, continuați cu pasul 6.
+\u00099. Dacă sunt lăsate doar câteva rezultate, puteți încerca modificarea, stocarea sau înghețarea valorii.
+"</string>
+    <string name="help_faq_title">Întrebări frecvente</string>
+    <string name="help_faq_1_q">De ce nu pot introduce o valoare mai mare de 99 sau 60.000?</string>
+    <string name="help_faq_1_a">Ați găsit valoarea de __type_byte__ sau __type_word__. Căutați __type_dword__ pentru a introduce valori mai mari.</string>
+    <string name="help_faq_2_q">Cum se caută valori fracționare (__type_float__), fără o parte fracționată din valoare?</string>
+    <string name="help_faq_2_a">Utilizați tipul de date sau intervalul de căutare \"__type_auto__\". De exemplu, pentru 11.345 puteți căuta \"10__tilde__12\".</string>
+    <string name="help_faq_3_q">Am găsit valoarea și l-am schimbat, dar în joc această schimbare nu face nimic. Încerc doar să o folosesc, dar totul se întoarce. ce fac greșit?</string>
+    <string name="help_faq_3_a">"În unele jocuri, valorile sunt protejate sau criptate. Înainte de a afișa valoarea, valoarea este decriptată într-o altă variabilă. Ai schimbat-o.
+Deoarece această valoare este utilizată doar pentru afișare, aceasta nu afectează mecanica jocului. Pentru a găsi valoarea reală, mai degrabă decât valoarea afișată, utilizați căutarea pentru valoarea criptată sau căutarea fuzzy.
+Uneori, valoarea este stocată pe server și sincronizată de fiecare dată. În acest caz, nu poate fi hacked. Dacă jocul nu funcționează fără Internet și căile anterioare nu au ajutat - cel mai probabil acest lucru este cazul."</string>
+    <string name="help_faq_4_q">Nu găsește valoarea în jocul X. Sau îl găsește, dar când nu se schimbă nimic se întâmplă. Sau îl găsește, dar după ce sa schimbat jocul se prăbușește. De unde știu care este problema, este protecția în joc sau cu __app_name__?</string>
+    <string name="help_faq_4_a">"Trebuie să luați un program simplu care este garantat că nu are protecție și să-l încercați. Prefer sa folosesc \"Hill Climb Racing\". Jocul este simplu, necomplicat și nu conține nici o apărare. Puteți verifica hacking-ul de bani ca o căutare directă pe număr și căutarea fuzzy pentru schimbare.
+Dacă funcționează hacking pe acest joc simplu, atunci este în jocul X pe care ați încercat să-l faceți. Dacă nu, atunci problema este în __app_name__.
+Există chiar și o opțiune mai ușoară: \"Apăsați Counter\". Instalați-l. Alerga. Încercați să spargeți numărul de casete afișate pe ecran. Ar trebui să fie foarte ușor. Dacă nu, atunci problema este în __app_name__ sau setările sale.
+Încercați o altă versiune de __app_name__, încercați să căutați o descriere a erorii primite pe forum în subiectul respectiv sau pe Internet. În cazuri extreme, puteți întreba pe forum."</string>
+    <string name="help_faq_5_q">Cum de a căuta timp?</string>
+    <string name="help_faq_5_a">"\u0009- Încercați să căutați ca număr de zile, ore, minute sau secunde. Tipul de date poate fi fie __type_byte__, __type_word__, __type_dword__ sau __type_qword__. De asemenea, puteți utiliza tipul __type_auto__.
+\u0009- Încercați să căutați în număr de milioane sau nanosecunde. Tipul de date este __type_dword__ sau __type_qword__.
+\u0009- Încercați să căutați ca dată de încheiere unix data de încheiere. Tip - __type_dword__. Este considerat ca fiind diferența dintre timestampul curent unix și cel memorat. Căutați prin căutarea în funcție de domeniu.
+De exemplu, dacă sunt scrise 30 de zile, atunci sunteți în căutarea de 30 +/- 1 zi din actualul timestamp unix. Actuala timestamp unix poate fi vizualizată cu ușurință pe Internet."</string>
+    <string name="help_faq_6_q">Este posibil să hack jocuri online?</string>
+    <string name="help_faq_6_a">Este posibilă hacking datele stocate pe client. Orice pe server nu poate fi hacked. În diferite jocuri pot fi diferite moduri. Chiar și în cadrul unui singur joc de jucător, unele date pot fi pe server, iar unele nu pot.</string>
+    <string name="help_faq_7_q">Unde funcționează speedhack-ul?</string>
+    <string name="help_faq_7_a">"Este posibil ca Speedhack să nu funcționeze pe dispozitive / emulatori x86 pentru jocuri care nu au biblioteci x86.
+De asemenea, pentru un mediu ART, speedhack nu funcționează cu cronometrele Java. Dacă jocul le folosește și aveți un mediu ART (de obicei Android 5 și mai recent), atunci speedhack nu va funcționa."</string>
+    <string name="help_faq_8_q">__app_name__ ca un întreg funcționează pentru mine, dar în unele jocuri primesc eroarea PTRACE_ATTACH. De ce și ce să facem?</string>
+    <string name="help_faq_8_a">Acest joc este echipat cu protecție împotriva depanării de către tipul de protecție SecNeo. __app_name__ nu poate ocoli această protecție. Prin ea nu poți să spargi acest joc.</string>
+    <string name="help_faq_9_q">De ce aplicația are un nume de pachet atât de ciudat? De ce nu se actualizează aplicația, dar de fiecare dată când se instalează separat? De ce fiecare versiune are un alt nume de pachet?</string>
+    <string name="help_faq_9_a">Pentru a preveni detectarea de către anti-cheat de numele pachetului.</string>
+    <string name="help_faq_10_q">În unele jocuri, când se schimbă viteza (speedhack), acestea nu mai răspund la clicuri. Este o eroare de joc sau eroare de program?</string>
+    <string name="help_faq_10_a">Aceasta înseamnă că hack-ul tău interceptează cronometrele de coadă de intrare și moare. Este necesar să selectați marcajele verzi din lista de cronometre (în setările de la __app_name__) astfel încât să nu se întâmple acest lucru.</string>
+    <string name="help_faq_11_q">De ce emite o listă de erori separate prin virgulă?</string>
+    <string name="help_faq_11_a">Deoarece delimitatorul de numere este un punct și virgulă (\"__semicolon__\").</string>
+    <string name="help_faq_12_q">Cum efectuez mai multe căutări în același timp?</string>
+    <string name="help_faq_12_a">În prezent, aplicația nu permite acest lucru, dar puteți instala aplicația de mai multe ori și puteți rula copiile împreună dacă există suficient spațiu de memorie și spațiu pe disc.</string>
+    <string name="help_faq_13_q">Trebuie să actualizez aplicația dacă nu există nimic semnificativ în schimbări?</string>
+    <string name="help_faq_13_a">Este sugerat. Suportul este valabil numai pentru ultima versiune.</string>
+    <string name="help_faq_14_q">Care sunt simbolurile \"!\" și \"#\", înainte de numele procesului?</string>
+    <string name="help_faq_14_a">"Aceasta marchează procesele trasate.
+\u0009\"#\" - înainte de procesul înseamnă că este urmărită de un alt proces.
+\u0009\"!\" - înainte de proces, acest proces este urmărit de un alt proces.
+Urmărirea este tipică pentru depanare sau hacking. De asemenea, este folosit în unele protecții. De obicei, un proces cu semnul \"#\" este un proces protejat."</string>
+    <string name="help_faq_15_q">De ce cererea după instalarea standard efectuează de asemenea o instalare proprie, care emite cereri de drepturi root?</string>
+    <string name="help_faq_15_a">__app_name__ se reinstalează cu date aleatorii pentru a preveni detectarea sa de către anti-ieftini. Drepturile root sunt necesare pentru instalarea și dezinstalarea \"silențioasă\". Nu le poți da afară. În acest caz, va trebui să răspundeți manual tuturor solicitărilor sistemului pentru instalarea aplicațiilor.</string>
+    <string name="help_faq_16_q">Ce este __pkg__? Este un troian sau un virus? Este sigur să dați acces la această aplicație root?</string>
+    <string name="help_faq_16_a">Acesta este numele de bază al pachetului __app_name__. Emiterea accesului la root este sigură dacă __app_name__ este descărcat din surse de încredere.</string>
+    <string name="help_faq_17_q">De ce este __app_name__ în lista de aplicații instalate numite ca set de caractere aleatorii? De ce acest set de caractere cere accesul root? De ce când lansarea __app_name__ scrie că rădăcina nu este furnizată de __app_name__, ci de un fel de abracadabra?</string>
+    <string name="help_faq_17_a">Deoarece __app_name__ îl folosește pentru a se ascunde de detecție de către anti-ieftini.</string>
+    <string name="help_faq_18_q">De ce este __app_name__ din cele mai recente versiuni uneori detectate de antichete și uneori nu?</string>
+    <string name="help_faq_18_a">Deoarece __app_name__ folosește lucruri diferite pentru a se ascunde de la detectarea de anti-ieftini. Aceasta include un nume și o aplicație aleatorie a pachetului. La fiecare instalare sunt diferite. Încercați să reinstalați __app_name__ pentru regenerare. Poate după ce acest anti-ieftin va înceta să vadă __app_name__.</string>
+    <string name="help_faq_19_q">De ce nu jocul meu este în lista de aplicații?</string>
+    <string name="help_faq_19_a">Deoarece aceasta este o listă cu aplicațiile care rulează, iar aplicația dvs. nu rulează. Porniți-l și apoi selectați-l în __app_name__.</string>
+    <string name="help_faq_20_q">De ce aplicațiile Java nu răspund la viteza rapidă pe Android 5 și mai mult?</string>
+    <string name="help_faq_20_a">Deoarece Speedhack este proiectat pentru jocuri cu biblioteci native. Cererea dvs. nu este. Și din moment ce Android 5 a folosit mediul ART, în loc de Dalvik, ceea ce face imposibilă interceptarea cronometrelor Java. Nu fă nimic. Situația nu se va schimba în viitor.</string>
+    <string name="help_faq_21_q">Am folosit un alt instrument de viteză / hacking pe Android 4 și totul a funcționat. Acum am pus __app_name__ pe Android 5 și mai sus, dar aceste metode nu funcționează. De ce?</string>
+    <string name="help_faq_21_a">"Deoarece multe lucruri s-au schimbat și utilitatea dvs. nu ar funcționa așa. Nu creați-vă iluzia că acest __app_name__ este atât de rău, dar dacă a existat acea utilitate, atunci uh! Nu exista asa ceva.
+Pentru a testa acest lucru, instalați __app_name__ pe Android 4 și repetați toate aceleași acțiuni ca în acel utilitar. Ca rezultat, veți reuși. Dar acest lucru nu înseamnă că aceleași metode vor funcționa pe Android 5 și mai sus.
+Acest fapt este confirmat experimental, în mod repetat."</string>
+    <string name="help_faq_22_q">Mă uit la o probă video / capturi de ecran și există și alte date în editorul de memorie. De ce?</string>
+    <string name="help_faq_22_a">Deoarece videoclipul / captura de ecran are un format de ieșire diferit. În editorul de memorie, apăsați meniul - selectați \"__value_format__\" și configurați ieșirea așa cum ar trebui.</string>
+    <string name="help_faq_23_q">Când valoarea este înghețată, jocul începe să frâneze sau să rămână în urmă. De ce?</string>
+    <string name="help_faq_23_a">Deoarece aveți în setările __app_name__ opțiunea \"__hide_from_game__\" activată. Opreste-l.</string>
+    <string name="help_faq_24_q">Cum pot dezactiva verificarea versiunilor noi când pornesc aplicația?</string>
+    <string name="help_faq_24_a">În nici un caz.</string>
+    <string name="help_faq_25_q">Cum să derulați înapoi timpul în aplicație? Este posibil să faci un salt de timp nu înainte, dar înapoi?</string>
+    <string name="help_faq_25_a">În nici un caz. Nu poți. Timpul trebuie să crească mereu, altfel jocul se poate prăbuși. Cu toate acestea, în cele mai recente versiuni am adăugat posibilitatea unui salt negativ în timp. Rezultatul poate fi o întârziere a jocului sau pierderea de date. Fi avertizat.</string>
+    <string name="help_faq_26_q">Am pus pictograma și a dispărut. Cum pot să-l recuperez?</string>
+    <string name="help_faq_26_a">Pictograma devine transparentă, dar puteți să faceți clic pe ea. Faceți clic acolo unde este, apoi schimbați setarea prin interfață.</string>
+    <string name="help_faq_27_q">Cum pot căuta o valoare dacă este afișată în rotunjire cu jocul? De exemplu, 1,85M.</string>
+    <string name="help_faq_27_a">Căutați gama de căutare. Limitele domeniului depind de regulile de rotunjire. De exemplu, \"1845000__tilde__1854999\" pentru rotunjirea standard.</string>
+    <string name="help_faq_28_q">Cum caut o valoare procentuală? De exemplu, 123__percent__.</string>
+    <string name="help_faq_28_a">Aceasta depinde de implementare. Pentru fiecare joc, toate pot fi diferite. De exemplu, 123__percent__. Acesta poate fi __type_float__ sau __type_double__ cu orice valoare. Ca 1.23 sau 123.0. Sau poate fi un număr întreg: __type_byte__, __type_word__, __type_dword__. De exemplu 123 sau 12300. La ieșire se poate împărți pe un număr. 100 sau 345 sau altceva. Pentru fiecare joc poate fi diferit. Puteți încerca cele mai evidente cazuri. Pentru 123__percent__ poate fi 1,23 sau 123. Tip - __type_auto__. Dacă sunteți norocos, poate fi ceea ce aveți nevoie.</string>
+    <string name="help_faq_29_q">Ce se întâmplă dacă jocul detectează __app_name__?</string>
+    <string name="help_faq_29_a">"Încercați următoarele opțiuni (singuri sau în orice combinație):
+\u0009- activați „__hide_from_game__“ opțiuni. suficient de obicei, 2, 3 și 4 opțiuni.
+\u0009- Nu anulați reinstalării __app_name__ cu un nume aleator. Acest lucru se face prima dată __app_name__ se execută în afara spațiului virtual.
+\u0009- Utilizați XPrivacy sau utilități similare. Uita-te pe Internet pentru modul de a face acest lucru.
+\u0009- Dacă aveți drepturi de root, rădăcină din spațiul virtual cu instalarea ascunsă de aplicații. Citiți mai multe în ajutorul context pentru setarea „__vspace_root__“."</string>
+    <string name="work_without_selinux">Treceți la lucru fără __selinux__ și reporniți aplicația</string>
+    <string name="work_with_selinux">Treceți la locul de muncă cu __selinux__ și reporniți aplicația</string>
+    <string name="file">Fişier:</string>
+    <string name="file_not_found">Fișierul nu a fost găsit:</string>
+    <string name="export_selected">Exportul selectat</string>
+    <string name="failed_list_dir">Nu a putut fi citită lista fișierelor.</string>
+    <string name="change_float_type">Selectați tipul de ferestre plutitoare</string>
+    <string name="reset_float_type">Resetați tipul de ferestre plutitoare</string>
+    <string name="mask">Masca:</string>
+    <string name="mask_request">Introduceți o adresă pentru a căuta</string>
+    <string name="help_mask_search_title">Căutați adresa (mască)</string>
+    <string name="help_mask_search">"* Căutare (mască):
+\u0009Puteți căuta sau filtra după adresă cu mască.
+
+\u0009Un exemplu tipic este căutarea adreselor care se termină cu o valoare cunoscută. De exemplu, pe \"12E\".
+
+\u0009Parametrii de căutare sunt adresa și masca.
+\u0009În adresa pot fi folosite metacaractere (\"__question__\"). Acest simbol înseamnă că poate fi orice caracter de la \"0\" la \"F\".
+\u0009O mască suplimentară este formată de la adresă, deci zerourile principale sunt importante. Astfel, căutarea pentru \"0120\" și căutarea pentru \"120\" nu este același lucru.
+\u0009În primul caz se vor găsi: \"00010120\", \"00020120\", \"00030120\" și așa mai departe. În timp ce în al doilea: \"00001120\", \"00002120\", \"00003120\" și așa mai departe.
+
+\u0009Puteți căuta atât egalitatea cât și inegalitatea indicată de mască. A doua opțiune poate fi utilă pentru eliminarea valorilor inutile.
+
+\u0009Adresa și masca sunt introduse în sistemul hexazecimal și fără litera \"__hex__\" la sfârșit.
+\u0009Masca obținută de la adresa se intersectează cu masca introdusă de dvs. Aceasta este masca de căutare rezultată.
+
+\u0009Următoarele exemple sunt echivalente, deoarece masca rezultată are aceeași valoare - \"FF0\"
+__mask_example__
+"</string>
+    <string name="use_sound_effects">Utilizați efecte sonore:</string>
+    <string name="from_range">Din:</string>
+    <string name="to_range">La:</string>
+    <string name="resultant_mask">Masca rezultată:</string>
+    <string name="show_time_jump_panel">Afișează panoul de salt al timpului:</string>
+    <string name="use_notification">Utilizare notificare:</string>
+    <string name="show_gg">Afișați __app_name__</string>
+    <string name="hide_gg">Ascunde __app_name__</string>
+    <string name="time_remaining">Timp ramas:</string>
+    <string name="help_fill_title">Umpleți valorile (incrementare)</string>
+    <string name="help_fill">"* Valori umplere (incrementare):
+\u0009Se întâmplă deseori să se găsească prea multe valori, dar acestea nu pot fi schimbate din joc.
+\u0009În acest caz, umplerea vine la salvare.
+
+\u0009Un exemplu tipic de utilizare este căutarea unui preț pentru un element, cu o înlocuire ulterioară cu una negativă.
+
+\u00091. Selectați elementele dorite.
+\u00092. Selectați \"__edit_selected__\".
+\u00093. Apăsați butonul \"__more__\" pentru a afișa câmpul \"__increments__\", dacă acest câmp nu este prezent.
+\u00094. În câmpul \"__increments__\", introduceți valoarea incrementului. De obicei, acesta este 1. Faceți clic pe \"__yes__\".
+\u00095. Elementele selectate vor primi noi valori.
+\u00096. Du-te la joc și a vedea cum a schimbat valoarea dorită, trecând prin ecrane de joc.
+\u00097. Dacă valoarea nu sa schimbat, atunci elementul dorit nu este selectat. Reveniți la __app_name__ și folosiți \"__delete_selected__\" -> \"__revert_and_remove__\", eliminați elementele selectate, returnându-le valoarea anterioară. Acum puteți încerca totul de la început cu alte elemente, dacă există.
+\u00098. Dacă valoarea sa schimbat, atunci elementul dorit este unul dintre elementele selectate. Amintiți-vă noua valoare și reveniți la __app_name__.
+\u00099. În lista elementelor selectate, căutați valoarea dorită. Deselectați-l. Ștergeți toate celelalte valori utilizând \"__delete_selected__\" -> \"__revert_and_remove__\", returnându-le valoarea anterioară.
+10. Modificați valoarea elementului dorit după cum doriți.
+
+\u0009Erorile tipice sunt îndepărtarea fără a reveni. După asta, jocul se poate prăbuși.
+
+\u0009Dacă găsiți o mulțime de valori, încercați să completați porțiuni mici pentru a evita accidentele.
+"</string>
+    <string name="help_hint_1">* Dacă găsiți întotdeauna valorile dorite în aceeași regiune (literele de la sfârșitul articolelor din lista de rezultate), puteți selecta numai aceste regiuni pentru o căutare mai rapidă.</string>
+    <string name="help_faq_30_q">__app_name__ caută valori foarte lent și mult timp în emulatorul Android de pe PC.</string>
+    <string name="help_faq_30_a">"Cel mai probabil aveți virtualizarea dezactivată în BIOS-ul PC-ului. Porniți-l.
+__app_name__ rulează în interiorul emulatorului, deci viteza de lucru depinde de viteza emulatorului.
+Dacă virtualizarea este activată, dar viteza este încă scăzută, verificați setările emulatorului sau utilizați un alt emulator.
+Puteți utiliza, de asemenea, un alt instrument - CheatEngine pentru PC - acesta va căuta mai repede și vă va oferi multe caracteristici care nu vor fi niciodată în __app_name__."</string>
+    <string name="help_speed_up_title">Cum să accelerați căutarea</string>
+    <string name="help_speed_up">"* Cum să accelerați căutarea:
+\u00090. If you are use an Android emulator on a PC (BlueStacks, Droid4X, Andy, NOX, Memu, AMIDuOS, Windroy, AVD, Genymotion, Koplayer, Leapdroid etc.), check that virtualization (VT Technology, Vanderpool Technology, Virtualization Technology, VTx, VT-d, VMX, Virtual Technology, Intel-VT, AMD-V, SVM, IOMMU) is enabled in the PC BIOS.
+\u00091. Dacă aveți o mulțime de memorie RAM, atunci puteți stoca datele acolo. Acest lucru accelerează foarte mult căutarea. Setați setarea \"__data_in_ram__\" la \"__yes__\". Într-un emulator Android pe un PC, acest lucru poate încetini căutarea.
+\u00092. Dacă aveți un RAM mic, datele vor fi stocate pe cartela de memorie. Utilizați un card de memorie cu o viteză mare de scriere și citire.
+\u00093. De asemenea, puteți specifica stocarea datelor în memoria internă a dispozitivului, dacă este mai rapidă decât cardul de memorie. Setați setarea \"__set_path__\" pe calea dorită.
+\u00094. În căutarea, selectați numai regiunile dorite. Evitați regiunile lente (\"__slow__\") și cele periculoase (\"__dangerous__\").
+\u00095. De asemenea, puteți specifica limitele domeniului de memorie, pentru căutare, dacă îi cunoașteți. Faceți clic pe butonul \"__more__\" din dialogul de căutare și introduceți limitele.
+\u00096. Căutați doar tipurile de date dorite. Tipul de date \"__type_auto__\" este lent.
+\u00097. Dezactivați toate opțiunile posibile \"__hide_from_game__\".
+\u00098. Încercați să utilizați \"__experimental__\" sau \"__extended__\" în \"__memory_access__\". Aceste opțiuni pot duce la o muncă instabilă.
+"</string>
+    <string name="help_faq_31_q">După un timp, pictograma __app_name__ dispare.</string>
+    <string name="help_faq_31_a">"Încercați să faceți clic în locul unde a fost pictograma. Dacă această interfață deschisă __app_name__, atunci pictograma este ascunsă în setări sau firmware-ul dvs. are erori, cu afișarea pictogramei.
+Dacă interfața nu se deschide, înseamnă că __app_name__ a fost descărcată din memorie.
+Motive posibile:
+
+\u00091. Nu există suficientă memorie RAM pe dispozitiv - __app_name__ ucis de sistem. Încercați să utilizați mai puțin RAM. În setările __app_name__ nu specificați stocarea datelor în memoria RAM, nu stabiliți un număr mare de rezultate afișate, descărcați aplicațiile \"extra\" din memoria RAM, utilizați analogii \"ușoare\" ale aplicațiilor care nu pot fi descărcate (de exemplu, lansatorul ). În cazuri foarte proaste, reporniți dispozitivul înainte de a rula __app_name__ cu jocul. Aproape toată firmware-ul are întotdeauna RAM de scurgere. Mai mult timp după repornire - cea mai mică RAM disponibilă.
+
+\u00092. Ai un ucigas de proces care ucide __app_name__.
+
+Dezactivați crimele sau adăugați __app_name__ la excepțiile sale.
+Killers sunt tot felul de \"optimizatori\" și \"amelioratori\" ai RAM.
+În general, consultați descrierea software-ului, dacă nu știți că este criminalul sau nu.
+
+Pentru FlyMe: __app_name__ dintr-un motiv oarecare după câteva minute de lucru descărcate - trebuie să permiteți lucrul în fundal pentru __app_name__ și managerul dvs. de root (de obicei SuperSu).
+
+De asemenea, puteți încerca să activați \"__use_notification__\" în setările __app_name__. Uneori acest lucru împiedică ucide __app_name__."</string>
+    <string name="quick_start_title">Pornire rapidă</string>
+    <string name="prevent_unload">Preveniți descărcarea:</string>
+    <string name="hot_key">Tasta rapidă:</string>
+    <string name="hide">Ascunde</string>
+    <string name="execute_script">Executați scriptul</string>
+    <string name="execute">A executa</string>
+    <string name="another_script">Un alt script rulează. Intrerupe?</string>
+    <string name="interrupt">Întrerupe</string>
+    <string name="script">script:</string>
+    <string name="script_ended">Scrierea sa terminat:</string>
+    <string name="paused">Jocul este întrerupt:</string>
+    <string name="by_pause_button">prin butonul de pauză</string>
+    <string name="by_option">prin opțiunea \"__s__\"</string>
+    <string name="new_search_short">Nou</string>
+    <string name="speedhack_loading">Încărcarea vitezei ...</string>
+    <string name="speedhack_loaded">Speedhack este încărcat.</string>
+    <string name="busy_dialog_fail">Dialogul de progres nu a putut fi afișat.</string>
+    <string name="site">teren</string>
+    <string name="help_xor_search_title">Căutare XOR</string>
+    <string name="help_xor_search">"* Căutare XOR:
+\u0009\u0009Dacă știți că valoarea dorită este criptată cu o cheie XOR care se află întotdeauna la aceeași distanță față de valoare, atunci puteți utiliza acest mod pentru a căuta după valoarea decriptată.
+\u00091. Treceți la __app_name__ dintr-un joc.
+\u00092. Atingeți butonul \"__search_known_value__\" din fila \"__search__\".
+\u00093. Introduceți un număr de căutare și distanța cheie XOR, separate de \"__mode_xor__\". De exemplu, pentru a căuta valoarea 100 cu o cheie la distanța 8, introduceți:
+\u0009\u0009\u0009100__mode_xor__8
+\u0009\u0009Pentru a introduce simboluri suplimentare, utilizați butonul \"__btn_hex__\" de pe tastatura internă.
+\u00094. Selectați tipul de date potrivit sau alegeți \"__type_auto__\" (dacă nu sunteți sigur) și alte opțiuni (dacă este necesar) și faceți clic pe \"__search__\".
+\u00095. Când ați terminat căutarea, rezultatele căutării vor fi afișate în listă.
+\u00096. Înapoi la joc. După ce valoarea sa schimbat, treceți din nou la __app_name__.
+\u00097. Repetați căutarea XOR cu modificările corespunzătoare.
+\u00098. Dacă sunt prea multe rezultate, repetați pașii 6 și 7.
+\u00099. Dacă sunt lăsate puține rezultate, puteți încerca modificarea, stocarea sau înghețarea valorii.
+
+\u0009Puteți utiliza căutarea XOR cu căutare în interval. De exemplu, \"100__tilde__150__mode_xor__8\".
+\u0009De obicei, căutarea XOR este mai lentă decât numărul obișnuit de căutare.
+\u0009Acest mod nu este acceptat în căutarea de grup sau în căutarea criptată.
+\u0009Distanța trebuie să fie între 1 și 4096 inclusiv.
+\u0009Puteți introduce distanța în hexazecimal cu simbolul __hex__ la sfârșit: \"100__tilde__150__mode_xor__10h\".
+\u0009Distanța trebuie să respecte valorile alin. De exemplu, dword trebuie aliniat la limita de 4 octeți. Această căutare medie \"40__mode_xor__7\" este inutilă pentru dword deoarece 7 nu poate diviza la 4.
+\u0009Combinarea acestui mod cu altul poate cauza probleme pe firmware-ul rău. De exemplu, dacă efectuați o căutare obișnuită și după aceea rafinați în modul XOR, aceasta poate cauza blocarea sau repornirea dispozitivului. Acest lucru nu trebuie să se întâmple dacă prima căutare va fi în acest mod.
+\u0009O căutare fuzzy a acestui mod nu este acceptată. Puteți să o combinați, dar lucrați fuzzy ca de obicei și nu respectați cheia XOR cu distanța.
+\u0009Semnul pentru valori este respectat. Aceasta înseamnă că puteți căuta valoarea nu egală, mai mare, mai mică și așa mai departe.
+\u0009În această căutare, toate valorile sunt considerate semnate.
+"</string>
+    <string name="help_faq_32_q">Care este diferența cu versiunile HW / SW? Și pe cine să folosesc?</string>
+    <string name="try_latest">Poate că acest script are nevoie de cea mai recentă versiune de __app_name__. Încercați să actualizați la ultima versiune.</string>
+    <string name="help_string_search_title">Text (șir, HEX, AoB) căutare</string>
+    <string name="download_scripts">Descărcați scripturi</string>
+    <string name="hide_icons">Ascundeți icoanele lansatorului</string>
+    <string name="select_mode">Selectați modul</string>
+    <string name="mode_string">Text</string>
+    <string name="mode_mixed">Amestecat</string>
+    <string name="string_search_prompt">Introduceți un text de căutat, până la __d__ octeți în lungime. De exemplu</string>
+    <string name="string_empty">Trebuie să introduceți un text.</string>
+    <string name="string_not_found">Textul \"__s__\" nu a fost găsit.</string>
+    <string name="string_found">S-au găsit __d__ de potriviri pentru textul \"__s__\".</string>
+    <string name="string_replace">Doriți să le înlocuiți?</string>
+    <string name="string_replace_prompt">Introduceți textul pentru a înlocui \"__s__\". Lungimea nu este mai mare de __d__ octeți.</string>
+    <string name="string_replaced">Înlocuit \"__s__\" la \"__s__\" în __d__ locuri.</string>
+    <string name="need_allow_background">Pe acest firmware, trebuie să permiteți lucrul __app_name__ în fundal, în setările sistemului.</string>
+    <string name="calculate_offset_xor">Calculați offsetul, XOR</string>
+    <string name="select_copy_item">Selectați un element pentru copiere:</string>
+    <string name="landscape">Peisaj</string>
+    <string name="portrait">Portret</string>
+    <string name="toolbar_buttons">Butoanele barei de instrumente</string>
+    <string name="need_update_to">Aveți nevoie de o versiune mai nouă de __app_name__ pentru a rula acest script. Cel puțin versiunea __s__. Aveți versiunea __s__.</string>
+    <string name="default_mark">Mod implicit</string>
+    <string name="default_">Mod implicit:</string>
+    <string name="reset_button">restabili</string>
+    <string name="help_hex_colors_title">Culorile din editorul de memorie</string>
+    <string name="help_hex_colors">"* __help_hex_colors_title__:
+Dacă reprezentarea hexazecimală nu este de culoare albă, ci de culoare, atunci cel mai probabil în această valoare este pointerul. Culoarea indică ce tip de memorie se referă acest indicator.
+Acest lucru poate fi __executable__ de memorie, __writable__ sau __read_only__. În cazuri rare, acesta poate fi __writable_and_executable__ memorie."</string>
+    <string name="executable">executabil</string>
+    <string name="writable">inscriptibil</string>
+    <string name="read_only">read-only</string>
+    <string name="writable_and_executable">scris și executabil</string>
+    <string name="help_extract">Extrageți ajutorul</string>
+    <string name="help_extract_done">Ajutorul este extras la __s__</string>
+    <string name="help_extract_fail">A apărut o eroare la extragerea ajutorului:</string>
+    <string name="try_arm_version">Încercați să utilizați versiunea de __app_name__ cu suport pentru procesoarele ARM mai vechi:</string>
+    <string name="back">Înapoi</string>
+    <string name="forward">Redirecţiona</string>
+    <string name="no_previous">Nu există intrări anterioare</string>
+    <string name="no_next">Nu există intrări următoare</string>
+    <string name="from_item">Din articol:</string>
+    <string name="from_context">Din meniul contextual:</string>
+    <string name="from_boundary">De la limită</string>
+    <string name="from_goto">Sună-te</string>
+    <string name="from_calc">De la calculatorul offset:</string>
+    <string name="help_add_to_value_title">Opțiunea \"__add_not_replace__\"</string>
+    <string name="help_add_to_value">"* __help_add_to_value_title__:
+Dacă această opțiune este bifată, valoarea introdusă va fi adăugată la valoarea existentă și nu va fi înlocuită. De exemplu, elementul are o valoare de 5 și ați introdus 7 în câmpul de valoare. Dacă această opțiune este bifată, elementul va primi o nouă valoare de 5 + 7, egală cu 12. Dacă nu este bifată, atunci 7.
+Puteți introduce atât valori pozitive, cât și valori negative.
+Această opțiune este incompatibilă cu înghețarea valorii."</string>
+    <string name="check_libs">Verificați arhitectura bibliotecilor de jocuri:</string>
+    <string name="arm_libs">"Jocul este instalat cu biblioteci ARM, deși în apk există biblioteci x86.
+Speedhack și tot ce are legătură cu acesta nu va funcționa.
+\"__skip__\" dezactivează aceste verificări. Puteți să-l activați din nou în setări."</string>
+    <string name="manual_install">Puteți instala manual fișierul .apk. Acesta este situat pe următoarea cale:</string>
+    <string name="as_text">Ca text (nu poate fi încărcat)</string>
+    <string name="as_text_help">Salvează lista în format text, convenabil pentru citirea de către om. Încărcarea acestui format nu este acceptată.</string>
+    <string name="help_pointer_search_title">Căutarea pointerilor</string>
+    <string name="help_pointer_search">Căutări pentru valori care pot fi indicatori la adresa dorită. Puteți specifica o limită maximă pentru o posibilă compensare.</string>
+    <string name="all_memory">În toată memoria</string>
+    <string name="offset_help">Limita maximă pentru o posibilă compensare.</string>
+    <string name="typical_values">Valori tipice</string>
+    <string name="su_command">Comandă superușoară</string>
+    <string name="starts">Incepe cu</string>
+    <string name="ends">Se termină cu</string>
+    <string name="no_filter">Fără filtru.</string>
+    <string name="help_memory_filter_title">Filtrarea în editorul de memorie</string>
+    <string name="help_memory_filter">"* __help_memory_filter_title__:
+Puteți specifica un filtru în editorul de memorie. Numai rezultatele care se potrivesc cu filtrul vor fi afișate.
+Filtrul acceptă metacaractere:
+\u0009__caret__ - începutul datelor,
+\u0009__dollar__ - sfârșitul datelor,
+\u0009__asterisk__ - orice număr de caractere,
+\u0009__question__ - cel care are orice caracter.
+De exemplu, pentru a găsi numărul 42, trebuie să introduceți __caret__42__dollar__."</string>
+    <string name="use_sh">Utilizați shell-ul de comandă</string>
+    <string name="backgrounds">Fundal negru</string>
+    <string name="actions">acţiuni:</string>
+    <string name="game_settings">Setări pentru joc:</string>
+    <string name="global_settings">Setări globale:</string>
+    <string name="ui_settings">Interfața UI:</string>
+    <string name="others">Alții:</string>
+    <string name="skip_memory">Depășiți zonele de memorie:</string>
+    <string name="empty_memory">Gol</string>
+    <string name="without_protection">fără protecție</string>
+    <string name="help_games_protection_title">Cum să obțineți protecția în jocuri</string>
+    <string name="help_games_protection">"\u0009Unele jocuri sunt echipate cu protecție împotriva editorilor de memorie. Puteți încerca următoarele:
+\u00091. \"__kill_game__\" și apoi \"__restart_game_without_protection__\".
+\u00092. \"__disable_protection__\", apoi executați (sau reporniți) jocul.
+\u00093. Utilizați toate sau o parte din elementele din \"__hide_from_game__\". Toți încetinesc căutarea.
+\u00094. Căutați atunci când jocul este minimizat.
+\u00095. Căutați atunci când jocul este întrerupt.
+\u00096. Ucideți sau întrerupeți unele dintre procesele de protecție ale jocului, dacă jocul are mai multe procese.
+\u00097. Utilizați XPVersiune sau alte instrumente similare pentru a ocoli protecția.
+\u00098. Folosiți modificarea jocului fără protecție.
+"</string>
+    <string name="disable_protection">Dezactivați protecția pentru toate aplicațiile (până la reporniți)</string>
+    <string name="must_restart_if">Dacă rulați jocul înainte de a dezactiva protecția, trebuie să reporniți-l.</string>
+    <string name="patch_loading">Se încarcă patch-ul ...</string>
+    <string name="patch_loaded">Pachetul este încărcat.</string>
+    <string name="patch_failed">Patch-ul nu este încărcat.</string>
+    <string name="history_limit">Limita istoricului:</string>
+    <string name="copy_as_search">Copiați ca căutare de grup</string>
+    <string name="add_types">Adăugați tipuri</string>
+    <string name="add_size">Adăugați dimensiunea grupului</string>
+    <string name="copy_rhex_value">Copiați valoarea hexa inversă:</string>
+    <string name="mips_arch">Această aplicație nu acceptă arhitectura MIPS.</string>
+    <string name="unrandomizer">Unrandomizer</string>
+    <string name="functions">funcții</string>
+    <string name="help_unrandomizer">"
+Unrandomizer-ul este o caracteristică proiectată să înlocuiască anumite funcții utilizate în mod obișnuit în jocuri pentru a produce valori aleatorii. La un nivel foarte simplu, atunci, pentru un exemplu, poate exista un joc care folosește o funcție randomizată pentru a determina recompensa jucătorului. Activarea funcției unrandomizer ar determina __app_name__ să încerce să înlocuiască această valoare aleatoare cu valoarea specificată pentru a schimba rezultatul (de exemplu, pentru a obține o anumită recompensă).
+
+Unrandomizerul nu va funcționa în toate cazurile. Se va ocupa doar de funcții despre care știe. În majoritatea cazurilor și pentru majoritatea utilizatorilor, acest lucru nu va fi folosit, deoarece este mai mult o caracteristică avansată / experimentală.
+
+Unele funcții returnează __type_qword__, unele - __type_double__ (rareori folosite).
+
+Valorile __type_double__ trebuie să fie în intervalul de la 0 la 1. Totuși, puteți specifica orice valori acolo, deoarece __app_name__ va corecta automat toate variantele incorecte.
+
+De asemenea, puteți specifica un pas de incrementare. În acest caz, fiecare rezultat ulterior va crește cu această valoare. De exemplu, pentru incrementul 1 și valoarea inițială 0, în loc de o valoare aleatorie, 0, 1, 2, 3, ... vor fi returnate.
+Această opțiune poate fi utilă pentru o căutare completă a tuturor rezultatelor aleatorii posibile.
+
+Puteți specifica ce funcții să modificați în setările __app_name__.
+"</string>
+    <string name="count_replace">Câte rezultate pot fi înlocuite?</string>
+    <string name="unrandomizer_loading">Încărcare unrandomizer ...</string>
+    <string name="unrandomizer_loaded">Unrandomizer este încărcat.</string>
+    <string name="warn_restart_off_prot">"Această opțiune va încerca să repornească jocul fără protecție.
+Cu toate acestea, multe firmware-uri conțin erori care pot provoca repornirea dispozitivului.
+Dacă se întâmplă acest lucru, nu încercați să porniți din nou jocul, deoarece acesta va reporni din nou dispozitivul.
+Doar rulați __app_name__ - se va șterge setările proaste.
+De asemenea, puteți încerca să reporniți dispozitivul în mod regulat, iar acest lucru ar trebui să remedieze problema.
+
+Dacă a avut loc repornirea - nu utilizați această funcție, nu va funcționa pe firmware."</string>
+    <string name="warn_patch_off_prot">"Această opțiune va încerca să corecteze sistemul (temporar), astfel încât toate aplicațiile să ruleze fără protecție.
+Modificările se vor aplica numai la pornirea noilor aplicații. Prin urmare, aplicația țintă, după un patch de succes, trebuie să fie reluată.
+Pentru a anula plasturele, reporniți dispozitivul.
+Poate că vor exista diverse erori în sistem, după acest patch.
+
+Dacă plasturele are succes, nu este recomandat să executați din nou această funcție, înainte de a reporni dispozitivul.
+
+Dacă aveți probleme, nu utilizați această funcție."</string>
+    <string name="clear_history">Șterge istoricul de intrare</string>
+    <string name="clear_history_warn">Toate intrările, inclusiv cele fixate, vor fi șterse.</string>
+    <string name="click_edit">Faceți clic aici pentru a edita</string>
+    <string name="ignore_unknown_chars">Ignorați caracterele necunoscute:</string>
+    <string name="need_root_mode">Această caracteristică necesită acces la root. În prezent, __app_name__ rulează într-un mod de mediu virtual fără acces la root.</string>
+    <string name="work_without_root_title">Lucrați fără rădăcină</string>
+    <string name="work_without_root">"__app_name__ poate funcționa fără rădăcină, printr-un mediu virtual. De exemplu, prin __vspace_list__ și multe altele.
+__app_name__ trebuie să fie instalat într-un mediu virtual. Jocul trebuie, de asemenea, instalat acolo.
+Nu toate funcțiile programului sunt acceptate, dar majoritatea funcțiilor trebuie să funcționeze.
+
+Nu veți putea sparge jocuri care nu sunt instalate într-un mediu virtual.
+
+Prima lansare de __app_name__, care efectuează o reinstalare cu un nume de pachet aleatoriu, nu trebuie să fie efectuată printr-un mediu virtual.
+Apoi puteți adăuga __app_name__ la mediul virtual și utilizați."</string>
+    <string name="help_game_not_listed_title">De ce jocul meu nu este în lista proceselor?</string>
+    <string name="fractional_hint">"Partea fracționată a unui număr real \"x\" este excesul dincolo de partea întregului număr.
+Pentru un număr, partea fracționată corespunde, prin urmare, cifrelor care apar după punctul de radix.
+
+De exemplu:"</string>
+    <string name="pointer">Pointer:</string>
+    <string name="help_search_filter_title">Filtrele în căutare</string>
+    <string name="help_search_filter">"Puteți filtra rezultatele căutării.
+Puteți specifica:
+\u0009- limitele adresei,
+\u0009- limitele valorii,
+\u0009- tipurile de date necesare,
+\u0009- partea fracționată dorită a numărului,
+\u0009- tipul de pointer dorit.
+Puteți combina orice filtre unele cu altele.
+De asemenea, puteți dezactiva unul sau oricare dintre filtre în orice moment.
+
+Cu toate acestea, dacă se găsește o cantitate mare de date, filtrele pot încetini rezultatele.
+
+Un filtru pe partea fracționată a unui număr poate fi fie prin egalitate, fie prin inegalitate.
+Pentru tipurile întregi, partea fracționată este zero. Dacă nu aveți nevoie de tipuri întregi, excludeți-le folosind un filtru de tip.
+
+Filtrarea după tipul de indicatoare permite să lăsați în ieșire numai acele valori care pot fi un indicator pentru tipul de memorie dorit.
+Tipurile de memorie posibile corespund culorilor din editorul de memorie:
+Acest lucru poate fi __executable__ de memorie, __writable__ sau __read_only__. În cazuri rare, acesta poate fi __writable_and_executable__ memorie.
+
+Pseudo-tipul \"no pointer\" corespunde tuturor tipurilor de date care nu pot fi indicatoare și, de asemenea, acelor valori ale pointerilor care indică memoria nealocată."</string>
+    <string name="unmount_kill">"Cardul de memorie a fost dezinstalat, în timp ce __app_name__ au stocat fișiere temporare pe acesta. Aceasta a dus la închiderea forțată a daemonului.
+
+Pentru a preveni acest lucru, specificați o altă cale către fișierele temporare. De exemplu, în memoria internă.
+Ar trebui să existe suficient spațiu liber."</string>
+    <string name="calls">Modul de apeluri sistem:</string>
+    <string name="alternative">Alternativă</string>
+    <string name="help_calls">"Pe un anumit firmware, de exemplu Lenovo, modul alternativ poate funcționa mai repede.
+
+În mod normal, nu este necesar să modificați această opțiune."</string>
+    <string name="help_context_title">Ajutor contextual</string>
+    <string name="help_context">"În interfață, unele elemente sunt marcate cu o pictogramă specială, în partea dreaptă sus, cu simbolul __i__ din cerc.
+Apăsarea sau apăsarea lungă pe acest element afișează ajutor pentru acest element."</string>
+    <string name="waitpid_mode">__waitpid__ mod:</string>
+    <string name="help_waitpid">"Pe unele firmware, apelul sistem __waitpid__ nu funcționează așa cum era de așteptat. Acest lucru se datorează, de obicei, setărilor incorecte ale SeLinux.
+Acest lucru duce la o căutare nesfârșită în __app_name__.
+Puteți încerca să utilizați un mod alternativ. Poate că asta va funcționa."</string>
+    <string name="microseconds_short">ps</string>
+    <string name="small_is_bad">Valorile prea mici pot determina o sarcină ridicată pe procesor și rămân în joc.</string>
+    <string name="freeze_interval_help">Intervalul prin care __app_name__ suprascrie valorile din memoria jocului.</string>
+    <string name="saved_list_update_interval_help">Intervalul prin care __app_name__ actualizează valorile din lista salvată.</string>
+    <string name="icons_size_help">"Mărimea pictogramelor din interfața __app_name__.
+Nu se aplică unei pictograme plutitoare."</string>
+    <string name="ignore_unknown_chars_help">Pot ajuta la rezolvarea problemelor atunci când copiați numere din diferite locuri, dacă sunt copiate caractere speciale împreună cu numerele.</string>
+    <string name="use_notification_help">"Utilizarea notificărilor în zona de notificare a sistemului Android.
+Pe unele firmware, aceasta mărește prioritatea aplicației și împiedică închiderea acesteia.
+De asemenea, puteți utiliza notificarea pentru a accesa __app_name__ sau jocul făcând clic pe el.
+Acest lucru poate fi util dacă nu puteți face clic pe pictograma plutitoare."</string>
+    <string name="use_sound_effects_help">"Sistemul sună când apăsați butoanele și elementele.
+Pe unele firmware, sunetele determină ca __app_name__ să se prăbușească."</string>
+    <string name="keyboard_help">Tastatura internă ocupă mai puțină memorie, se încarcă mai repede și este optimizată pentru introducerea numerelor.</string>
+    <string name="allow_suggestions_help">"Sugestii de la o tastatură externă.
+Pe unele firmware, sugestiile fac ca __app_name__ să se prăbușească."</string>
+    <string name="autopause_help">Pune automat jocul la pauză la deschiderea interfeței __app_name__.</string>
+    <string name="killed_by">__app_name__ a fost închisă forțat prin cererea \"__s__\". Pentru a evita acest lucru, ștergeți această aplicație sau configurați-o astfel încât să nu se termine __app_name__.</string>
+    <string name="killers_found">"Ați instalat aplicații care pot închide cu forța __app_name__:
+__s__
+Pentru a evita acest lucru, ștergeți-le sau configurați-le astfel încât să nu termine __app_name__.
+
+Dacă nu aveți probleme cu închiderea neașteptată a telefonului __app_name__, atunci nu este necesară nicio acțiune și puteți ignora acest mesaj."</string>
+    <string name="record_logcat">Înregistrați __logcat__</string>
+    <string name="record_logcat_info">"__app_name__ va fi repornit cu înregistrarea __logcat__ în dosar:
+\"__s__\".
+
+Pentru a încheia înregistrarea, ieșiți de la __app_name__.
+După aceasta, puteți trimite fișierul de jurnal la locul de care aveți nevoie."</string>
+    <string name="need_uninstall">Trebuie să dezinstalați programul de instalare, altfel veți avea 4 icoane, nu 2. De asemenea, jocurile o vor detecta.</string>
+    <string name="need_random_name">"__app_name__ utilizează numele pachetului standard. Jocurile o pot detecta.
+
+Pentru a rezolva acest lucru - rulați __app_name__ în afara spațiului virtual ca o aplicație normală.
+După ce instalarea este finalizată, adăugați o copie a __app_name__ cu un nume aleatoriu în spațiul virtual."</string>
+    <string name="work_mode">Mod de lucru</string>
+    <string name="root">rădăcină</string>
+    <string name="no_root">fara radacina</string>
+    <string name="how_no_root">"Trebuie să instalați aplicația spațială virtuală. Cum ar fi: __vspace_list__.
+
+Se recomandă instalarea versiunilor optimizate de pe site-ul oficial __app_name__.
+
+Apoi trebuie să adăugați __app_name__ și jocul dvs. în acest spațiu virtual.
+
+După aceea, trebuie să rulați jocul și __app_name__ în spațiul virtual."</string>
+    <string name="eperm_error_descr_0">Motive posibile:</string>
+    <string name="eperm_error_descr_1">Protecție în joc.</string>
+    <string name="eperm_error_descr_2">Un alt debugger sau cracker este conectat la joc.</string>
+    <string name="eperm_error_descr_3">Permisiuni insuficiente. De obicei, datorită configurației incorecte __selinux__. Dezactivați sau configurați __selinux__.</string>
+    <string name="eperm_error_descr_4">Bad kernel sau firmware. Încercați un alt firmware sau alt dispozitiv.</string>
+    <string name="eperm_error_descr_5">Pe firmware, modul \"fără rădăcină\" nu funcționează. Încercați un alt firmware sau alt dispozitiv sau obțineți rădăcină.</string>
+    <string name="ptrace_bypass_mode">Modul de bypass pentru protecția ptrace:</string>
+    <string name="mode_restore">restabili</string>
+    <string name="mode_nothing">nimic</string>
+    <string name="mode_freeze">îngheţa</string>
+    <string name="ptrace_bypass_mode_help">"Indică ce trebuie să faceți după dezactivarea conexiunii de protecție:
+\u0009__mode_restore__ - restaurarea conexiunii
+\u0009__mode_nothing__ - nu face nimic (de obicei, protecția însăși restabilește conexiunea)
+\u0009__mode_freeze__ - înghețați firul (la fel ca în versiunile anterioare)
+
+Dacă restabiliți protecția sau permiteți protecția să o faceți singur, înghețarea valorilor din __app_name__ poate cauza întârzieri datorate conexiunii permanente / dezactivării protecției."</string>
+    <string name="slow_emulator">"Utilizați emulatorul \"__s__\". Este lent și conține erori. Din acest motiv, căutarea poate fi foarte lentă.
+
+Vă recomandăm să folosiți alți emulatori:"</string>
+    <string name="text">Text</string>
+    <string name="show_debug_info">Afișați informații despre depanare</string>
+    <string name="mnt_expand">"__app_name__ este instalat pe o cartelă de memorie care este utilizată ca \"Depozit intern\".
+Acest lucru poate interfera cu funcționarea spațiilor virtuale.
+Dacă se întâmplă acest lucru, instalați __app_name__ în memoria internă a dispozitivului.
+Este posibil să trebuiască să reformatați cardul de memorie ca \"Depozitare portabilă\"."</string>
+    <string name="help_game_not_listed_root">"Jocul trebuie să fie difuzat pentru ao selecta.
+
+Dacă jocul rulează, dar totuși nu este în listă, atunci poate aveți probleme cu root-ul sau cu firmware-ul.
+Încercați altă rădăcină sau alt firmware."</string>
+    <string name="help_game_not_listed_noroot">"Jocul trebuie lansat în spațiul virtual, astfel încât să poată fi selectat.
+
+Nu puteți selecta un joc dacă nu se execută în spațiul virtual.
+
+Dacă jocul rulează în spațiul virtual, dar totuși nu este în listă, încercați un alt spațiu virtual, alt firmware, alt dispozitiv sau obțineți o rădăcină."</string>
+    <string name="daemon_killed_oom">"Daemonul a fost ucis de sistem din cauza lipsei de memorie.
+
+Setați \"__data_in_ram__\" la \"__no__\".
+Utilizați accelerația hardware a interfeței, dacă este posibil.
+Nu utilizați aplicații mari.
+Dezactivați toate celelalte aplicații neutilizate.
+Încercați să utilizați __app_name__ după repornirea dispozitivului."</string>
+    <string name="selected_as_search_result">Se selectează ca rezultat al căutării</string>
+    <string name="clear_results_prompt">Aceasta va înlocui rezultatele curente ale căutării. Continua?</string>
+    <string name="position_in_memory_editor">Poziționați-l în editorul de memorie</string>
+    <string name="script_prompt_internet">"Scriptul dorește să acceseze Internetul. Dacă permiteți accesul, scriptul va putea să vă fure logările, parolele, salvările și alte date din joc. De asemenea, va fi capabil să fure alte script-uri sau să descarce viruși pe dispozitiv.
+
+Permiteți scriptului accesul la Internet?"</string>
+    <string name="level">Nivel</string>
+    <string name="float_prompt">"Pentru a executa corect __app_name__ pe firmware, trebuie să permiteți ferestrele popup de utilizare în setările de sistem pentru __s__.
+
+Popup-ul nu se afișează automat pe telefoanele Huawei. Va trebui să permiteți __s__ să se afișeze popup. Deschideți Managerul de telefon, apoi Dropzone Management și asigurați-vă că este activat pentru __s__.
+
+De asemenea, Popup nu se afișează pe unele telefoane Xiaomi. Trebuie să mergeți la Setări -> Aplicații instalate -> __s__ -> Alte permisiuni -> Afișați fereastra pop-up.
+
+De asemenea, alte telefoane pot avea proceduri diferite pentru a permite aplicațiilor să afișeze ferestrele pop-up. Toate aceste aplicații sunt de obicei afectate în acest fel, de exemplu, aplicația Google Translator cu funcția Tap To Translate. Prin urmare, puteți să purtați pur și simplu \"YOUR_PHONE apăsați pentru a traduce\" pentru a găsi soluția. De exemplu, pentru dispozitivele Xiaomi Redmi soluția este după cum urmează:"</string>
+    <string name="virtual_space">Virtual Space App</string>
+    <string name="prevent_unload_help">"Preveniți descărcarea __app_name__ din memorie (închiderea forței).
+
+Fiecare nivel ulterior este mai puternic decât cel precedent și îl include în sine.
+
+Cel de-al treilea nivel poate provoca probleme (blochează toast, repornește sau se blochează) pe unele firmware și emulatoare.
+
+Fără rădăcină funcționează numai nivelul al treilea."</string>
+    <string name="integer_type">Acest tip de date este valabil numai pentru valori întregi și nu suportă valori fracționare. Utilizați __type_float__ sau __type_double__ pentru valori fracționare.</string>
+    <string name="without_float">De asemenea, puteți utiliza __app_name__ fără ferestre plutitoare:</string>
+    <string name="any_value">orice valoare</string>
+    <string name="help_group_search_any_value">Puteți utiliza __any__ într-o căutare de grup ordonată împreună cu dimensiunea minimă pentru a specifica orice valoare a acelui tip în poziția dorită.</string>
+    <string name="help_scripts_title">Scripturi</string>
+    <string name="help_scripts">"* __help_scripts_title__:
+__app_name__ sprijină executarea scripturilor scrise în Lua.
+
+În fila Căutare, faceți clic pe meniu și selectați \"__execute_script__\".
+Aici puteți selecta fișierul de script pentru execuție, consultați metodele existente __app_name__ API sau mergeți la site-ul oficial pentru a citi ajutor pe API sau pentru a descărca scripturile pregătite.
+De asemenea, puteți extrage ajutor din API de pe cardul de memorie pentru al citi fără Internet.
+
+Dacă doriți să vă scrieți propriul script, aveți nevoie de un editor de fișiere text externe.
+__app_name__ nu permite editarea de scripturi, ci doar le execută.
+
+Citiți ajutorul API pentru mai multe detalii."</string>
+    <string name="help_floating_icon_absent">Dacă după ce faceți clic pe butonul \"__start__\" nu vedeți o pictogramă plutitoare:</string>
+    <string name="remove_all2">Inlătură tot</string>
+    <string name="debug_load">Executați toate încărcările de cod</string>
+    <string name="debug_log">Înregistrați cele mai multe apeluri de script</string>
+    <string name="vspace64">"Ați rulat __app_name__ într-un spațiu virtual care acceptă procese pe 64 de biți.
+
+__app_name__ nu va vedea procese pe 32 de biți în acest spațiu.
+
+Instalați a doua copie a __app_name__ în modul \"__for32__\" dacă doriți să lucrați în __app_name__ cu procese pe 32 de biți."</string>
+    <string name="folder_new">Dosar nou</string>
+    <string name="folder_exists">Acest dosar există deja</string>
+    <string name="folder_file">Există un fișier cu acest nume</string>
+    <string name="folder_failed">Eroare la crearea dosarului</string>
+    <string name="force_close">"Oprirea anterioară a aplicației a fost neașteptată.
+
+Puteți ridica nivelul de configurare \"__prevent_unload__\" pentru a evita acest lucru în viitor."</string>
+    <string name="help_force_close_title">Închidere neașteptată</string>
+    <string name="install_mode">Mod de instalare</string>
+    <string name="for32">Pentru jocuri de hack pe 32 de biți în spațiu virtual pe 64 de biți</string>
+    <string name="for64">Pentru jocuri hack pe 64 de biți în spațiu virtual pe 64 de biți</string>
+    <string name="reset_ignore">Resetați tot ignorarea pentru toate dialogurile</string>
+    <string name="allocate_fail">Nu s-a putut aloca pagina de memorie. Eroare</string>
+    <string name="allocated">Pagina de memorie alocată:</string>
+    <string name="allocate_page">Alocați pagina de memorie</string>
+    <string name="prot_read">Poate fi citit</string>
+    <string name="prot_write">Poate fi scris</string>
+    <string name="prot_exec">Poate fi executat</string>
+    <string name="install_finished">"Instalarea a avut succes.
+Rulați copia instalată manual pentru a putea migra datele.
+După aceasta, instalatorul poate fi eliminat."</string>
+    <string name="odd_vspace">__app_name__ lansat în spațiul virtual?</string>
+    <string name="record_script">Scriere înregistrată</string>
+    <string name="record">Record</string>
+    <string name="another_record">Începe o altă înregistrare. Încetează?</string>
+    <string name="record_ended">Înregistrarea a fost finalizată:</string>
+    <string name="stop">Stop</string>
+    <string name="could_not_use">Nu am putut folosi:</string>
+    <string name="not_optimized2">"Utilizați o versiune non-optimizată a spațiului virtual (\"__s__\").
+Pentru a remedia această eroare, eliminați versiunea non-optimizată a \"__s__\" și instalați unul dintre spațiile virtuale optimizate de pe site-ul oficial __app_name__.
+Faceți clic pe \"__fix_it__\" pentru a merge la selectarea spațiilor virtuale optimizate."</string>
+    <string name="fix_path">Spațiu liber sau specificați o altă cale pentru fișierele temporare făcând clic pe \"__fix_it__\".</string>
+    <string name="deep_read">Adânc citit:</string>
+    <string name="help_deep_read">"Citirea memoriei prin toate metodele disponibile, dacă nu a putut fi citită.
+Poate încetini citirile de memorie."</string>
+    <string name="ptrace_fail">Nu s-a schimbat memoria prin ptrace.</string>
+    <string name="ptrace_fail_partially">Unele caracteristici, hărțile de viteză și tot ce le este asociat nu vor funcționa. Scrierea în memoria numai pentru citire (inclusiv codul) nu este posibilă.</string>
+    <string name="ptrace_fail_full">Majoritatea absolută a funcțiilor nu va funcționa.</string>
+    <string name="ptrace_fail_solve">"Motivul tipic este un kernel rupt în firmware.
+Încercați să schimbați firmware-ul. Dacă l-ați actualizat recent - instalați versiunea anterioară.
+
+Dacă acest lucru nu funcționează, schimbați dispozitivul."</string>
+    <string name="feature_hide_4">Această caracteristică nu poate funcționa dacă cel de-al patrulea element este selectat în \"__hide_from_game__\".</string>
+    <string name="feature_firmware">Această caracteristică nu poate funcționa fără ptrace, care nu funcționează pe acest firmware.</string>
+    <string name="feature_protection">Această caracteristică nu poate funcționa datorită protecției ptrace în joc.</string>
+    <string name="not_file">Calea nu este un fișier:</string>
+    <string name="not_execute">Nu se poate executa:</string>
+    <string name="check_install">Verificați dacă __app_name__ este instalat corect.</string>
+    <string name="sdcard_install">Dacă este instalat __app_name__ pe un dispozitiv de stocare extern (card SD), returnați-l în memoria internă</string>
+    <string name="change_address_type">Modificați adresa / tipul</string>
+    <string name="bad_offset">Offsetul nu este un multiplu de __d__.</string>
+    <string name="bad_result_address">Adresa care rezultă nu este un multiplu de __d__.</string>
+    <string name="correct_types">__d__ Elementele își vor schimba tipul pentru a corecta alinierea imposibilă.</string>
+    <string name="reinstall_fail">"Imposibil de reinstalat __app_name__ cu nume aleatoare.
+
+__app_name__ poate fi ușor detectat de jocuri.
+
+Puteți înregistra __logcat__, în timpul instalării și puteți contacta forumul oficial pentru ajutor.
+
+Motivul respingerii:"</string>
+    <string name="empty_field">Câmp de intrare gol: nu există niciun număr de conversie</string>
+    <string name="need_integer">Trebuie să selectați un număr întreg pentru conversie.</string>
+    <string name="maps_failed">Nu s-a putut deschide fișierul \"__maps__\".</string>
+    <string name="game_protected">Jocul este protejat.</string>
+    <string name="need_root">Aveți nevoie de rădăcină pentru a hack acest joc.</string>
+    <string name="vspace_error">"Problema spațiului virtual sau a firmware-ului sau a dispozitivului.
+
+Încerca:
+\u0009- utilizați un alt spațiu virtual
+\u0009- utilizați un alt firmware
+\u0009- rădăcină
+\u0009- utilizați un alt dispozitiv"</string>
+    <string name="root_error">"Problema firmware-ului sau rădăcină sau dispozitiv.
+
+Încerca:
+\u0009- utilizați un alt firmware
+\u0009- folosiți o altă rădăcină
+\u0009- utilizați un alt dispozitiv"</string>
+    <string name="vspace_root">Utilizați rădăcina în spațiul virtual:</string>
+    <string name="help_vspace_root">"Folosirea rădăcinilor din spațiul virtual poate ajuta la ascunderea faptului că există __app_name__ pe dispozitiv.
+
+Nu funcționează pe toate firmware-urile și nu pe toate spațiile virtuale.
+
+Spațiul virtual, firmware-ul și root-ul ar trebui să permită lucrul cu root din spațiul virtual.
+Spațiul virtual ar trebui să vă permită să instalați aplicații în interior fără a le instala în sistem.
+
+Nu toate spațiile virtuale pot oferi acest lucru.
+
+Nu pe toate firmware-ul acest mod va funcționa. Și nu cu toată rădăcina.
+
+Deoarece drepturile de root vor fi acordate întregului spațiu virtual, nu ar trebui să instalați altceva în el. În caz contrar, orice aplicație din spațiul virtual poate folosi drepturile de root cu consecințe imprevizibile.
+
+Jocul trebuie să fie instalat în afara spațiului virtual.
+
+__app_name__ ar trebui instalat numai în spațiul virtual, fără a fi instalat în sistem.
+Cum puteți face acest lucru - consultați ajutorul unui anumit spațiu virtual.
+
+De exemplu, pentru __vexp__, puteți clona __app_name__ din sistem în __vexp__ și apoi ștergeți __app_name__ din sistem."</string>
+    <string name="help_games_protection_9">9. Utilizați rădăcina în spații virtuale care permit instalarea aplicațiilor în interiorul dvs. fără a instala în sistem.</string>
+    <string name="locale_ui">În localitatea dvs.</string>
+    <string name="locale_script">Scripturile folosesc întotdeauna limba engleză</string>
+    <string name="locale_desc">"__s__\" - separator zecimal
+'__s__' - separator de mii
+'__semicolon__' - separator de numere în căutarea grupului"</string>
+    <string name="help_unaligned_title">Căutarea nealiniată / căutare big-endiană</string>
+    <string name="help_unaligned">"În unele aplicații (de exemplu, cum ar fi emulatorii de consolă), valoarea din memorie poate să nu respecte alinierea sau să fie prezentată în ordinea octeților big-endian.
+
+O asemenea valoare nu poate fi găsită printr-o căutare normală.
+
+Pentru a le găsi - utilizați un script special de pe site-ul oficial __app_name__:"</string>
+    <string name="help_formula_calculator_title">Calculator de formulare</string>
+    <string name="help_formula_calculator">"Aproape în fiecare câmp pentru introducerea numerelor, puteți introduce o formulă matematică, după semnul egal, de exemplu, în câmpul de căutare introduceți '= 2 + 2 * 3', iar programul va căuta rezultatul formulei, care este, „8”.
+Formula este o expresie Lua. Puteți utiliza toată puterea disponibilă de Lua în ea.
+
+Toți operatorii aritmetici Lua 5.3 sunt admisibili - adunare (+), scădere (-), înmulțire (*), diviziune (/), restul diviziunii (%), exponențiere (^), diviziune întreagă (//), etc.
+De asemenea, sunt disponibili operatori de biți - ȘI (&amp;), OR (|), OR exclusiv (binar ~), NU (unitar ~), Shift la dreapta (>>), Shift la stânga (&lt;&lt;). Ordinea de acțiune poate fi dată de paranteze.
+Citiți manualul Lua pentru o listă completă a operațiunilor disponibile.
+
+Este util dacă știți cum este codată valoarea în joc. De exemplu, 29 de runde într-un joc pot fi găsite ca '= 29 ~ 444444'. Acest lucru este echivalent cu 29 XOR 444444. În eșantionul video, prețul a fost găsit 3888 prin XOR cu 444444, ca „= 444444 ~ 3888”. După aceasta, înlocuirea a fost făcută la „= 444444 ~ 1”, care a stabilit prețul la „1”. Într-un alt joc, 125 de aur este ca '= 125 * 10'.
+
+Nu toate funcțiile de script sunt disponibile în calculatorul de formulă. Unele funcții nu sunt disponibile. Dacă nu aveți suficient, scrieți scriptul, în loc să utilizați un calculator de formulare, acesta este destinat doar calculelor simple. Disponibil: o parte din funcțiile de bază, „bit32”, „tabel”, „șir”, „utf8”, „matematică”, parte a pachetului „os”. Pachetele „debug”, „pachet”, „gg”, „io” nu sunt disponibile.
+
+Când scrieți '= 2 + 2 * 3', cuvântul cheie 'return' va fi adăugat înaintea formulei: 'return 2 + 2 * 3'. Cu toate acestea, puteți specifica singur acest cuvânt într-o formulă dacă aveți nevoie de o formulă complexă.
+De exemplu, '= a = 5; b = 7; returnarea a * 4 + b * 8 'va fi executată ca' a = 5; b = 7; returnați un * 4 + b * 8 '
+
+Rezultatul calculatorului de formulă este un șir de text. Șirul poate fi orice șir valid pentru acest câmp de introducere.
+De exemplu, poate fi un șir pentru o căutare de grup sau pentru o căutare în domeniu. '= a = 5; b = 7; returnați o .. \";\" .. b .. \":: 100\" 'este echivalent cu' 5; 7 :: 100 '.
+
+Calculatorul de formulă nu funcționează în scripturi, acolo puteți utiliza direct Lua.
+Când scrieți un script, rezultatul calculului formulei va fi scris în fișier, nu în formula propriu-zisă.
+
+Dacă formula este incorectă, veți primi un mesaj de eroare atunci când trimiteți formularul.
+
+La calcul, trebuie să țineți cont de faptul că calculele sunt efectuate în tipul specificat de primul operand. Dacă este un număr întreg, rezultatul va fi un număr întreg.
+De exemplu, '= 3/2' este '1', iar '= 3,0 / 2' este '1,5'.
+
+Indiferent de localul ales, formulele funcționează în locale locale. Aceasta înseamnă că separatorul zecimal este întotdeauna un punct ('.')."</string>
+    <string name="help_faq_32_b">"Două icoane de lansare. Primul, cu accelerare software - \"__app_short_name_sw__\", al doilea, cu accelerare hardware - \"__app_short_name_hw__\". Acum va fi întotdeauna așa.
+Pe unele firmwares funcționează doar o versiune, pe cele normale ambele.
+Este mai bine să utilizați accelerația software-ului, funcționează mai puțin bine, dar consumă mai puțină memorie.
+
+Puteți ascunde una dintre pictogramele din setările aplicației: \"__hide_icons__\"."</string>
+    <string name="acceleration_help_">"Accelerarea interfeței hardware sau software __app_name__.
+În funcție de joc și de firmware, unele dintre opțiuni pot provoca probleme.
+Dacă ambele funcționează, utilizați accelerația software-ului deoarece consumă mai puțină memorie.
+
+Această opțiune este separată de pictogramele de lansare și afectează numai afișarea interfeței __app_name__.
+Lansarea icoanelor este responsabilă pentru tipul de accelerare a ecranului de pornire.
+
+Accelerarea hardware consumă mult mai multă memorie, dar funcționează mai bine. Dacă aveți un RAM mic, utilizați întotdeauna accelerația software-ului.
+
+Dacă accelerația hardware provoacă erori, __app_name__ poate trece la accelerarea software-ului."</string>
+    <string name="small_list_items">Articole de mici articole</string>
+    <string name="small_list_items_help">Vă permite să afișați mai multe informații în listele de articole, dar poate fi mai dificil să faceți clic pe elementul dorit.</string>
+    <string name="format_asm_opcodes">__s__ opcodes</string>
+    <string name="no_regions">Nu au fost găsite regiuni de potrivire.</string>
+    <string name="cannot_hide_launcher_icon">"Această pictogramă a fost utilizată pentru lansarea curentă.
+
+Nu puteți ascunde pictograma care a fost utilizată pentru lansarea curentă.
+
+Reporniți aplicația printr-o altă pictogramă pentru a putea ascunde această pictogramă."</string>
+    <string name="screenshot">Faceți o captură de ecran</string>
+    <string name="screenshot_prompt">"Pictograma va fi ascunsă pentru __d__ secunde, astfel încât să puteți realiza o captură de ecran.
+
+După aceasta, pictograma va fi din nou vizibilă."</string>
+    <string name="screenshot_action">screenshot</string>
+    <string name="use_visible_type">Utilizați tipul de date vizibil în editorul de memorie:</string>
+    <string name="use_visible_type_help">Nu solicitați tipul de date în editorul de memorie dacă este afișat un singur tip de date.</string>
+    <string name="wrong_float">În locația dvs., numărul \"__s__\" arată \"__s__\". Dacă nu este ceea ce aveți nevoie - selectați o altă localizare (sau o limbă) pe ecranul de pornire.</string>
+    <string name="wrong_float2">De asemenea, în setările __app_name__, puteți să înlocuiți locația pentru formatarea numerelor.</string>
+    <string name="number_locale">Locale pentru formatarea numerelor:</string>
+    <string name="fill">Completati</string>
+    <string name="help_text_search">"
+Pentru a căuta text, trebuie să specificați modificatori în dialogul obișnuit de căutare.
+
+Cele mai utilizate codificări sunt __utf8__ și __utf16le__.
+În mod tipic, __utf16le__ este utilizat în __java__, iar __utf8__ este utilizat în __c__.
+
+\u0009__utf16le__ este o codare de două octeți. Fiecare caracter este întotdeauna codificat în două octeți, deci este reprezentat prin __type_word__.
+\u0009__utf8__ - codare cu dimensiune octet variabilă pe caracter. Reprezentată prin __type_byte__.
+\u0009__hex_input__ și variantele sale sunt întotdeauna reprezentate prin intermediul __type_byte__.
+
+Jocul poate folosi oricare dintre codificări.
+Dacă aveți nevoie de un anumit set de octeți - utilizați modul __hex_input__.
+
+Prefixele disponibile:
+__text_prefixes__
+
+Pentru modul \"__hex_mixed__\", puteți specifica textul __utf8__ între __apos__ caractere și __utf16le__ text între __quot__ de caractere.
+
+De exemplu:
+__text_examples__
+
+Caracterul de prefix trebuie să fie primul caracter din textul de căutare.
+
+Rezultatul căutării va fi o secvență __type_byte__ sau o secvență __type_word__, pentru cazul __utf16le__.
+
+Rezultatele pot fi modificate - selectați toate și faceți clic pe \"__edit_selected__\".
+
+În câmpul de valori, introduceți noua valoare, în același format ca și pentru șirul de căutare.
+
+Puteți utiliza butoanele de umplere. Faceți clic pe \"__more__\" dacă acestea nu sunt vizibile.
+
+Valoarea va fi setată pentru fiecare grup de articole urmărite în mod continuu.
+Dacă există un decalaj între elemente, acesta va fi un nou grup.
+
+Dacă specificați mai mulți octeți decât este necesar, atunci va fi utilizată doar o parte din ele.
+Dacă specificați mai puțin decât este necesar, atunci restul grupului va fi umplut cu octeți zero.
+
+Când înlocuiți textul, încercați să specificați textul cu același număr de octeți ca originalul pentru a evita problemele.
+"</string>
+    <string name="fast_freeze">Congelarea rapidă:</string>
+    <string name="help_fast_freeze">"Funcționează mult mai repede decât înghețarea normală, dar nu pentru toată memoria.
+
+Dacă înghețarea nu funcționează, dezactivați această opțiune."</string>
+    <string name="debug_disassemble">demonta</string>
+    <string name="assembled">S-a asamblat cu succes la dosar:</string>
+    <string name="warn_patch_off_prot2">"Dacă utilizați __magisk_hide__ - dezactivați-l înainte de aplicarea plasturelui. După aplicarea cu succes a plasturelui, îl puteți reporni.
+Dacă nu, patch-ul nu va avea succes."</string>
+    <string name="help_games_protection_end">"
+Cum să ascundeți __app_name__ de joc în spațiul virtual
+
+\u00091. Instalați spațiul virtual, care permite instalarea ascunsă a aplicațiilor, fără a le instala în sistem. De exemplu, __vspace_hide__.
+\u00092. Instalați __app_name__ în spațiul virtual.
+\u00093. În __app_name__, porniți modul „__vspace_root__”.
+\u00094. Acordă drepturi root la spațiul virtual. Dacă nu puteți acorda drepturi root - încercați un alt spațiu virtual, alte drepturi root, alt firmware sau schimbați dispozitivul.
+\u00095. Scoateți __app_name__ din sistem.
+\u00096. Lucrați cu __app_name__ din spațiul virtual.
+
+Pentru a evita detectarea în timpul căutării:
+\u0009Selectați elementele 2, 3 și 4 în setarea „__hide_from_game__”.
+
+O soluție tipică (necesită rădăcină, fără rădăcină nu veți avea succes):
+\u00091. Folosiți root din spațiul virtual. Citiți ajutorul pentru setarea „__vspace_root__”.
+\u00092. Folosiți elementele 2, 3 și 4 în setarea „__hide_from_game__”.
+"</string>
+    <string name="force_close_2">Puteți seta „__data_in_ram__” pe „__no__” pentru a evita acest lucru în viitor.</string>
+    <string name="script_wrote">Script-ul a scris __s__ __d__ la fișiere.</string>
+    <string name="script_exit">Ieșire</string>
+    <string name="script_interrupted">Script-ul întrerupt.</string>
+    <string name="script_error">eroare script</string>
+    <string name="script_oom">Fara memorie</string>
+    <string name="script_possible">Se pare că încercați să execute __s__ ca un script.</string>
+    <string name="script_web">o pagină web</string>
+    <string name="script_saved_list">o listă salvată</string>
+    <string name="speedhack_no_x86">Dar, în acest joc este nici o biblioteci x86, deci poate că nu va funcționa.</string>
+    <string name="help_faq_33_q">Mesaje text (toasturile) rămân pe ecran, sau un cerc întunecat este vizibil în partea de jos a ecranului atunci când __app_name__ funcționează. Cum să-l repara?</string>
+    <string name="help_faq_33_a">Folosind al treilea nivel „__prevent_unload__“ pe unele firmware-ul conduce la faptul că mesajele text (toasturile) rămân pe ecran, sau un cerc întunecat este vizibil (mesaj gol). Dacă se întâmplă acest lucru, nu utilizați al treilea nivel.</string>
+    <string name="invalid_header_1">script antet binar nevalid.</string>
+    <string name="unknown_version">Versiune necunoscută.</string>
+    <string name="unknown_format">Format necunoscut.</string>
+    <string name="unknown_endianness">endianness Necunoscut.</string>
+    <string name="unknown_size_s">Dimensiune necunoscută a __s__.</string>
+    <string name="unknown_size_instr">Dimensiune necunoscută de instrucțiuni.</string>
+    <string name="unknown_size_num">Dimensiune necunoscută a numărului Lua.</string>
+    <string name="expected_found">Așteptat __s__ dar a găsit __s__.</string>
+    <string name="or">sau</string>
+    <string name="invalid_header_2">Rulați scriptul oricum?</string>
+    <string name="invalid_header_3">"În versiunile viitoare ale __app_name__, acest script nu poate fi rulat.
+Scrie despre acest lucru autorul scenariului."</string>
+    <string name="skip_system_libs">Treci bibliotecile de sistem</string>
+    <string name="try_reinstall_x86">"Încercați să reinstalați jocul cu x86 biblioteci?
+
+Jocul se poate opri de lucru după aceea. Dacă se întâmplă acest lucru, reinstalați jocul din .apk situat în __data_app__."</string>
+    <string name="reinstall_started">Reinstalare a început ...</string>
+    <string name="reinstall_failed">Reinstalare nu a reușit:</string>
+    <string name="reinstall_ended">Reinstalare finalizat.</string>
+    <string name="help_lasm_title">Dezasamblare / asambla script-uri</string>
+    <string name="help_lasm">"__app_name__ are un built-in dezasamblor / asamblare pentru script-uri Lua.
+
+Puteți selecta „__debug_disassemble__“ opțiune în fereastra de lansare script-ul, după ce faceți clic pe butonul „__more__“.
+
+Fișierul rezultat __ext_lasm__ poate fi editat și selectat în fereastra de lansare script-ul. Rezultatul va fi un binar __ext_lua__ fișier, cu modificările efectuate.
+
+Citiți ajutorul script-ul API-ul pentru mai multe detalii.
+"</string>
+    <string name="help_hide_gg_title">Cum de a ascunde __app_name__ de joc</string>
+    <string name="changed_as_search_result">A schimbat ca rezultat al căutării</string>
+    <string name="changed_not_found">elemente modificate nu a fost găsit.</string>
+    <string name="too_far">Aceste valori nu pot fi găsite printr-o căutare de grup, ei sunt prea departe unul de celălalt: __d__ bytes. Distanța maximă este __d__ bytes.</string>
+    <string name="new_address">Adresa noua:</string>
+    <string name="hide_1_warn">Ai selectat primul element. Valorile de congelare poate provoca lag-uri severe în joc.</string>
+    <string name="hide_4_warn">Ați selectat al patrulea element. Unele caracteristici nu vor funcționa: __speedhack__, __unrandomizer__, __allocate_page__.</string>
+    <string name="asm_failed">Nu a reușit să recunoască __s__ Opcode:</string>
+    <string name="asm_suggestion">Te referi la: __s__?</string>
+    <string name="copy_opcode">Copiere __s__ Opcode:</string>
+    <string name="search_nearby">Caută în apropiere</string>
+    <string name="before">Inainte de</string>
+    <string name="after">După</string>
+    <string name="distance">Distanţă:</string>
+    <string name="nearby">Din apropiere:</string>
+    <string name="need_fixer">"O problemă a fost detectată cu acest spațiu virtual pe 64 de biți.
+
+Pentru a remedia problema:
+
+1. Instalați aplicația __fixer__. (Din acest dialog, fie manual, de-a lungul traseului:
+__s__
+).
+
+2. Adăugați __fixer__ la spațiul virtual.
+
+3. Rulați __fixer__ în spațiul virtual.
+
+4. Eliminați __fixer__.
+
+5. Reporniți __app_name__ în spațiul virtual."</string>
+    <string name="limit">Numai primele rezultate N:</string>
+</resources>

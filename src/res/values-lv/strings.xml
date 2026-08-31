@@ -1,0 +1,1354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lang_code">~~~lv~~~</string>
+    <string name="front_text">Ja rodas kādi jautājumi par __app_name__ vai tās lietošanu, tad apmeklē forumu __forum__ (forums nav latviski)</string>
+    <string name="set_path">Pagaidu faila glabātuve</string>
+    <string name="number">Skaits:</string>
+    <string name="type">Tips:</string>
+    <string name="name">Nosaukums:</string>
+    <string name="reset">Izvēlēties procesu</string>
+    <string name="set_range">Izvēlieties atmiņas diapazonu</string>
+    <string name="search">Meklēt</string>
+    <string name="save">Saglabāt</string>
+    <string name="goto1">IetUz</string>
+    <string name="address">Adrese:</string>
+    <string name="edit_all">Labot visus</string>
+    <string name="filter">Filtrēt</string>
+    <string name="clear">Notīrīt</string>
+    <string name="max_show_rec">Parādīt:</string>
+    <string name="equal">Nemainīts</string>
+    <string name="inequal">Mainīts</string>
+    <string name="larger">Palielināts</string>
+    <string name="smaller">Samazināts</string>
+    <string name="compare_current_last">Kā mainījusies šī vērtība?</string>
+    <string name="write_region_log">Rakstīt reģiona log</string>
+    <string name="old_version">Vecāka versija</string>
+    <string name="found_old_version">Tika atrasta vecāka __app_name__ versija. Vai vēlies to atinstalēt?</string>
+    <string name="yes">Jā</string>
+    <string name="no">Nē</string>
+    <string name="ok">OK</string>
+    <string name="failed_find_package_name">Neizdevās atrast aplikācijas pakotnes nosaukumu!</string>
+    <string name="path_for_temp_files">"Iestatīt pagaidu faila glabāšanās vietu. piemēram: '__sdcard__'. Tie var aizņemt pat vairākus simtus MB tavas glabātuves. Tekošie mekl"</string>
+    <string name="confirm">Apstiprināt</string>
+    <string name="cancel">Atcelt</string>
+    <string name="found_new_version">Atrasta jauna versija __s__</string>
+    <string name="daemon_failed">Daemon kļūda</string>
+    <string name="failed_run_daemon">"Neizdevās startēt Daemon. Vai esi ROOT'ojis savu ierīci?"</string>
+    <string name="daemon_unexpected_closed">Daemon negaidīti aizvērās. Informācija:</string>
+    <string name="daemon_exited">Daemon izslēdzies</string>
+    <string name="failed_load_daemon">Neizdevās ielādēt Daemon</string>
+    <string name="is_device_rooted">Neizdevās iegūt ROOT pieeju</string>
+    <string name="collect_data_to_region_log">Uzsākta datu glabāšana reģ</string>
+    <string name="log_saved">Log saglabāts uz __s__</string>
+    <string name="failed_save">Neizdevās saglabāt uz __s__</string>
+    <string name="region_log">Reģiona log</string>
+    <string name="apply">Apstiprināt</string>
+    <string name="error">Kļūda</string>
+    <string name="load">Ielādēt</string>
+    <string name="delete_prompt">Vai tu vēlies šo noņemt?</string>
+    <string name="reset_search">KĻŪDA: Atiestatīt meklēšanas sarakstu</string>
+    <string name="unknown_error">Nezināma kļūda</string>
+    <string name="out_of_memory">Nepietiek atmiņas</string>
+    <string name="bug_detected">Atklāta kļūda</string>
+    <string name="disk_full">Diska pilns</string>
+    <string name="io_error">I/O kļūda</string>
+    <string name="game_dead">Spēle aizvērta</string>
+    <string name="exit">Iziet</string>
+    <string name="skip">Ignorēt</string>
+    <string name="unhandled_exception">Neapstrādāts izņēmums. Vai sūtīt zemāk esošo informāciju izstrādātājiem?</string>
+    <string name="last_run_failed">Pēdējā palaišana neizdevās</string>
+    <string name="thank_you">Paldies!</string>
+    <string name="no_application">Netika izvēlēta neviena aplikācija</string>
+    <string name="increments">Palielinājums:</string>
+    <string name="add_not_replace">Pievienot vērtībai, neaizstāt</string>
+    <string name="eperm_error">Nevarēja pievienot procesam (PTRACE_ATTACH): darbība nav atļauta</string>
+    <string name="load_list">Ielādēt sarakstu</string>
+    <string name="load_warning">Tu ielādēji sarakstu no citas spēles palaišanas. Visticamāk visas ielādētās atmiņas adreses ir mainījušās no pēdējās reizes. Mēs iesakām tās pārbaudīt.</string>
+    <string name="from">Pabeigts __d__ no __d__ etapiem</string>
+    <string name="count_fuzzy_equal_run">"Meklēšanas reizes '__fuzzy_equal__':"</string>
+    <string name="slow">lēnu</string>
+    <string name="miui_restart">__app_name__ nepieciešams pārstartēties lai apstiprinātu drošības pieejas.</string>
+    <string name="out_of_memory_error">Nepietiekošas atmiņas kļūda. Pašreizējais rezultātu saraksts tika notīrīts. Lūdzu uzstādi mazāku rezultātu daudzumu ko parādīt.</string>
+    <string name="loading">Ielādējas...</string>
+    <string name="found_count">Atrasts: __d__</string>
+    <string name="fuzzy_equal">Nemainīta vērtība</string>
+    <string name="fuzzy_inequal">Mainīta vērtība</string>
+    <string name="fuzzy_larger">Palielināta vērtība</string>
+    <string name="fuzzy_smaller">Vērtība samazināta</string>
+    <string name="type_edit_limit">Ievadi vērtību no __s__ uz __s__</string>
+    <string name="number_name">cipari</string>
+    <string name="step_name">pieaugums</string>
+    <string name="number_less">"Skaitlis '__s__' ir mazāks nekā minimālais pieļaujamais (__d__) šim tipam."</string>
+    <string name="number_greater">"Skaitlis '__s__' ir lielāks nekā minimālais pieļaujamais (__d__) šim tipam."</string>
+    <string name="about">Par</string>
+    <string name="owner">īpašnieks</string>
+    <string name="design">vadošais dizaineris</string>
+    <string name="pm">projekta vadība</string>
+    <string name="code">vadošais kodētājs</string>
+    <string name="tech">tehniskais konsultants</string>
+    <string name="creator">radītājs (pensionēts)</string>
+    <string name="for_translators">Ja tu vēlies palīdzēt vai izveidot tūlkojumu šai aplikācijai, tu vari uzrakstīt mums forumā http://gameguardian.net/forum lai tavs tūlkojums tiktu pievienots oficiālajā aplikācijā.</string>
+    <string name="version">Versija:</string>
+    <string name="developers">Izstrādātāji:</string>
+    <string name="select_language">Izvēlēties valodu</string>
+    <string name="exit_confirm">__app_name__ nepieciešams pārstartēt lai apstiprinātu izmaiņas.</string>
+    <string name="special_thanks">Īpašs paldies:</string>
+    <string name="nothing_found">Nekas netika atrasts. Mēģini meklēt vēlreiz.</string>
+    <string name="try_more_ranges">Tu vari mēģināt izvēlēties citus reģionus iestatījumos.</string>
+    <string name="try_fuzzy_search">Tu vari mēģināt meklēt arī nezināmu vērtību.</string>
+    <string name="search_hint">"Lai meklētu zināmu vērtību - kliko šeit \"__search_known_value__\". 
+Lai meklētu nezināmu vai šifrētu vērtību - kliko šeit  \"__search_unknown_value__\".
+Lai meklēt mainīgu vērtību pēc tās veselās vērtības izvēlies '__type_auto__'  šo tipu.
+Tu vari izmantot arī grupas meklēšanu atdalot vērtības ar '__semicolon__'."</string>
+    <string name="freeze">Iesaldēt:</string>
+    <string name="freeze_normal">normāli</string>
+    <string name="freeze_may_increase">var palielināties</string>
+    <string name="freeze_may_decrease">var samazināties</string>
+    <string name="freeze_in_range">diapazonā</string>
+    <string name="range_end_fail">"Diapazona beigu vērtībai ('__s__') jabūt lielākai nekā '__s__'."</string>
+    <string name="failed_add_window">Neizdevās pievienot logu</string>
+    <string name="failed_remove_window">Neizdevās noņemt logu</string>
+    <string name="system_service_stopped">Aplikācija nevar darboties korekti, jo tika apturēts sistēmas process. Mēģini pārstartēt aplikāciju vai savu ierīci.</string>
+    <string name="value_request">Ievadi vērtību lai meklētu</string>
+    <string name="type_request">Izvēlies datu tipu lai meklētu</string>
+    <string name="type_change_request">Izvēlies datu tipu lai mainītu</string>
+    <string name="value">Vērtība</string>
+    <string name="save_as">Saglabāt kā:</string>
+    <string name="restart">Pārstartēt</string>
+    <string name="start">Sākt</string>
+    <string name="wait_daemon">Šī funkcija nav pieejama ja nedarbojas daemon. Uzgaidī līdz daemon startēsies. (Vai tu neaizmirsi apstiprināt ROOT pieeju? Vai tev nav ROOT?)</string>
+    <string name="daemon_fail">Daemon nav palaists</string>
+    <string name="config_icon_text">Ikona: caurspīdīgums = __d__%%, slēpt- __s__</string>
+    <string name="icon_hide_after">pēc __d__ sekundēm</string>
+    <string name="icon_hide_never">nekad</string>
+    <string name="keyboard">Tastatūra:</string>
+    <string name="internal">Iekšējs</string>
+    <string name="external">Ārējais</string>
+    <string name="failed_copy_text">Neizdevās nokopēt tekstu:</string>
+    <string name="copied">Kopēts</string>
+    <string name="copy_value">Nokopēt vērtību:</string>
+    <string name="copy_address">Nokopēt adresi:</string>
+    <string name="goto_address">Doties uz adresi:</string>
+    <string name="search_unknown_value">Nezināma (neskaidra) meklēšana</string>
+    <string name="search_known_value">Zināma (tieša) meklēšana</string>
+    <string name="speedhack_hint">Lai mainītu spēles ātrumu, nospied un paturi uz __app_name__ ikonas</string>
+    <string name="bad_firmware">Tavā programmaparatūras ir kļūda dēļ kuras nevar izmantot šo funkciju.</string>
+    <string name="language">Valoda</string>
+    <string name="acceleration">Interfeisa akselerācija:</string>
+    <string name="hardware">Aparatūra</string>
+    <string name="software">Programatūra</string>
+    <string name="speedhack">Ātrumhaks</string>
+    <string name="data_in_ram">Dati RAM</string>
+    <string name="first_mb">Pirmais __d__ MB</string>
+    <string name="donate">Ziedot</string>
+    <string name="speeds">ātrumu</string>
+    <string name="floating_window_fail">Nevar parādīt peldošo logu</string>
+    <string name="check">Pārbaude</string>
+    <string name="check_success">Apstiprināšana veiksmīga</string>
+    <string name="enable_draw_perm">IEspējo pieeju nākamajā ekrānā.</string>
+    <string name="speedhack_fail">Ātrumhaks šim procesam netiek atbalstīts</string>
+    <string name="dangerous">bīstami</string>
+    <string name="difference">Starpība</string>
+    <string name="old_value">Vecā vērtība</string>
+    <string name="new_value">Jaunā vērtība</string>
+    <string name="mode_hacking">Vērtība ir šifrēta</string>
+    <string name="union">Grupas meklēšana</string>
+    <string name="speedhack_open">Tu vari iespējot ātrumhaku nospiežot un paturot uz oeldošās __app_name__ ikonas.</string>
+    <string name="history">Vēsture</string>
+    <string name="history_empty">Vēsture ir tukša</string>
+    <string name="allow_suggestions">Atļaut tastatūras ieteikumus:</string>
+    <string name="invalid_area">Grupas izmēram jābūt starp __d__ un __d__:</string>
+    <string name="union_need_two_numbers">Grupas meklēšanai ir nepieciešami vismaz divi skaitļi</string>
+    <string name="too_many_union_numbers">Par daudz ciparu, vairāk kā:</string>
+    <string name="invalid_number">Nederīgs skaitlis:</string>
+    <string name="input_number">Ievadi skaitli</string>
+    <string name="number_out_of_range">"Skaistlis '__s__' ārpus iespējamā diapazona:"</string>
+    <string name="help_floating_icon">"*Peldošā ikona:
+*Kliko lai atvērtu interfeisu.
+*Kliko un paturi lai atvērtu ātrumhaka paneli.
+*To var pārvietot pa visu ekrānu klikojot un velkot uz ikonas.
+*Caurspīdīgums un paslēpšanas taimeris ir iestatāms aplikācijas iestatījumos."</string>
+    <string name="help_exact_search">"* Precīza meklēšana
+1. Atver __app_name__ spēlē.
+2. Spied uz \"__search_known_value__\" apakšā \"__search__\" cilnē.
+3. Ievadi skaitu kas ir parādīts spēlē.
+4. Izvēlies nepieciešamo datu tipu vai izvēlies \"__type_auto__\" (ja nav pārliecības par nepieciešamo) un otru opciju (ja nepieciešams), tad kliko \"__search__\".
+5. Kad meklēšana ir pabeigta, meklēšanas rezultāti parādīsies sarakstā.
+6. Dodies atpakaļ spēlē, maini nepieciešamo un pārslēdzies atpakaļ uz __app_name__.
+7. Meklē pēc samainītā.
+8. Ja tiek parādīti pārāk daudz rezultāti, turpini no 6 soļa.
+9. Ja tiek parādīti tikai daži rezultāti, tu vari mēģināt tos mainīt, atlikt vai iesaldēt."</string>
+    <string name="help_speedhack">"*Ātrumhaks
+* Nospied un paturi uz aplikācijas ikonas spēlē lai atvērtu ātrumhaka paneli spēlē.
+* Klikšķini uz bultiņām lai mainītu ātrumu.
+* Nospied un paturi uz esošā ātruma lai resetotu uz normālo ātrumu.
+* Nospied un paturi uz aplikācijas ikonas spēlē lai aizvērtu ātrumhaka paneli spēlē.
+* Iestatīties ātrumi un taimeri ir maināmi aplikācijas iestatījumos.
+* Ja spēles ātrums nemainās, tad mēģini citus zaļos taimerus __app_name__ iestatījumos.
+* Tu vari izmantot \"__time_jump__\" lai pārlēktu konkrētu laiku spēlē. Atver aplikācijas iestatījumus iekš meklēšanas cilnes  un izvēlies \"__time_jump__\". Tad tev jāizvēlas cik sekundes tu vēlies pārlēkt spēlē. Sekunžu laiku var pielāgot."</string>
+    <string name="help_fuzzy_search">"*Izvērstā meklēšana: 
+1. Pārslēdz uz __app_name__ no spēles.
+2. Cilnē \"__search__\" pieskaries pogai \"__search_unknown_value__\".
+3. Izvēlies piemērotu datu tipu vai \"__type_auto__\" (ja neesi pārliecināts) un noklikšķini \"__search__\".
+4. Kad meklēšana ir pabeigta, meklēšanas rezultāti tiks parādīti sarakstā.
+5. Atpakaļ uz spēli. Pēc vērtības mainīšanas (vai nē) pārslēdziet __app_name__ vēlreiz.
+6. Pieskarieties pogai \"__search_unknown_value__\" un izvēlieties veidu, kā vērtība ir mainījusies.
+7. Ja rezultātu ir pārāk daudz, turpini no soļa 5.
+8. Ja ir palikuši tikai daži rezultāti, varat mēģināt mainīt, saglabāt vai iesaldēt vērtību. Jūs varat norādīt precīzu vērtību maiņu, noklikšķinot uz pogas \"__more__\". Varat ievadīt diapazonu kā precīzu vērtību: 190__tilde__210 Varat arī ievadīt, lai norādītu izmaiņas ārpus vērtību diapazona: 10__tilde____tilde__4000"</string>
+    <string name="help_group_search">"* Grupu meklēšana:
+\u00091. Pārslēdzieties uz __app_name__ no spēles.
+\u00092. Pieskarieties \"__search_known_value__\" pogai cilnē \"__search__\".
+\u00093. Ievadiet meklēšanas vaicājumu grupas meklēšanai.
+\u0009\u0009Formāts: vērtība 1 __semicolon__ vērtība 2 __semicolon__ ... __semicolon__ vērtība N __colon__ grupas lielums
+\u0009\u0009Vienlaikus var meklēt vērtības 2-__max_group__. Grupas noklusējuma lielums ir 512. Grupas lielumam jābūt starp 2 un 65536.
+\u0009\u0009Piemēram, ja vēlaties meklēt 195 un 6543, jāievada:
+\u0009\u0009\u0009195 __semicolon__ 6543
+\u0009\u0009Protams, varat norādīt grupas lielumu (300):
+\u0009\u0009\u0009195 __semicolon__ 6543 __colon__ 300
+\u0009\u0009Varat arī iestatīt vienu vai vairākus datu tipus:
+\u0009\u0009\u0009195__type_dword_short__ __semicolon__ 6543
+\u0009\u0009Tas nozīmē, ka vēlaties meklēt __type_dword__ vērtību, kas ir 195, un __type_auto__ vērtību, kas ir 6543.
+\u0009\u0009Iespējamie datu tipi ir tādi paši kā meklēšanā:
+\u0009\u0009\u0009__type_byte_short__ - __type_byte__
+\u0009\u0009\u0009__type_word_short__ - __type_word__
+\u0009\u0009\u0009__type_dword_short__ - __type_dword__
+\u0009\u0009\u0009__type_xor_short__ - __type_xor__
+\u0009\u0009\u0009__type_qword_short__ - __type_qword__
+\u0009\u0009\u0009__type_float_short__ - __type_float__
+\u0009\u0009\u0009__type_double_short__ - __type_double__
+\u0009\u0009\u0009__type_auto_short__ - __type_auto__
+\u0009\u0009Varat arī ierakstīt numuru sešpadsmit (mazliet-endian) apzīmējumā:
+\u0009\u0009\u0009__hex_example____hex__ __semicolon__ 6543
+\u0009\u0009vai apgrieztā heksona (big-endian) apzīmējumā:
+\u0009\u0009\u0009__hex_example____rhex__ __semicolon__ 6543
+\u0009\u0009Lai ievadītu papildu simbolus, izmantojiet pogu \"__btn_hex__\" iekšējā tastatūrā.
+\u00094. Izvēlieties piemērotu datu tipu vai izvēlieties \"__type_auto__\" (ja neesat pārliecināts), lai to izmantotu kā noklusējumu. Citas iespējas neattiecas uz šāda veida meklēšanu. Noklikšķiniet uz \"__search__\".
+\u00095. Kad meklēšana ir pabeigta, meklēšanas rezultāts tiks parādīts sarakstā.
+\u00096. Atpakaļ uz spēli. Kad vērtība ir mainījusies, pārslēdzieties uz __app_name__ vēlreiz.
+\u00097. Atkārtojiet grupas meklēšanu ar atbilstošām izmaiņām.
+\u00098. Ja ir pārāk daudz rezultātu, atkārtojiet 6. un 7. darbību.
+\u00099. Ja paliek maz rezultātu, varat mēģināt mainīt, saglabāt vai iesaldēt vērtību.
+
+\u0009Ja vēlaties ievērot vērtību secību, tad norādiet divreiz __colon__.
+\u0009Bez grupas lieluma:
+\u0009\u0009195 __semicolon__ 6543 __colon____colon__
+\u0009Ar grupas lielumu:
+\u0009\u0009195 __semicolon__ 6543 __colon____colon__ 300
+
+\u0009Varat meklēt vērtību diapazonā:
+\u0009\u0009190__tilde__210 __semicolon__ 6543
+\u0009Arī jūs varat meklēt ārpus vērtību diapazona:
+\u0009\u000910__tilde____tilde__4000 __semicolon__ 6543
+"</string>
+    <string name="help_others">"* Citi:
+\u0009* Jauni meklējumi, ir jāizdzēš iepriekšējie meklēšanas rezultāti, izvēlnē zem izvēlnes pogas izvēloties \"__clear__\".
+\u0009* Lai izvēlētos citu spēli, augšējā kreisajā stūrī pieskarieties spēles ikonai.
+\u0009* Lai apturētu / atsāktu spēli, pieskarieties pogai zem ikonas augšējā kreisajā stūrī.
+\u0009* Ja pāriet uz spēli, kamēr pauze ir aktīva, nākamreiz, kad atverat __app_name__, šī spēle tiks automātiski apturēta.
+\u0009* Visas iesaldētās vērtības tiek automātiski pievienotas saglabātajam sarakstam. Varat tos pārvaldīt atbilstošajā cilnē.
+\u0009* Visi ievades dati saglabā sarakstu \"__history__\". Tos var izmantot, nospiežot vēstures pogu.
+"</string>
+    <string name="help_typical_usage">"* Tipiski lietošanas algoritmi:
+
+1) Vērtība nav šifrēta un zināma.
+\u0009Tipisks gadījums būtu nauda, ​​zvaigznes, monētas, resursi utt.
+
+\u0009Izmantojiet precīzu meklēšanu.
+
+2) Vērtība nav zināma un / vai šifrēta.
+\u0009Tipisks nezināmas vērtības gadījums - jebkurš mērogs / bārs. Piemēram, veselība, mana, nitro utt. Izmaiņas ir redzamas, bet skaitliskās vērtības nav redzamas.
+\u0009A typical case for encrypted values would be money, stars, coins, etc., but when searching with 1 algorithm does not find anything, or change of found values does not lead to numbers changing in the game.
+
+\u0009Izmantojiet izplūdušo meklēšanu.
+
+
+3) Vērtība ir šifrēta (__mode_hacking__).
+\u0009A typical case for encrypted values would be money, stars, coins, etc., but when searching with 1 algorithm does not find anything, or change of found values does not lead to numbers changing in the game.
+
+\u0009Izmantojiet precīzu meklēšanu, bet vienmēr atlasiet izvēles rūtiņu \"__mode_hacking__\".
+\u0009Atrastie rezultāti šifrēšanas dēļ var būt dīvaini.
+
+3. algoritms ir daudz ātrāks par 2, bet tas var nedarboties visām spēlēm.
+
+4) Vērtība nav šifrēta, zināma un novietota tuvu citām pazīstamām vērtībām.
+\u0009Tipisks gadījums būtu cena veikalā, varoņu statistika utt.
+
+\u0009Vienu reizi izmantojiet visu numuru numuru meklēšanu.
+"</string>
+    <string name="help_hints">"* Ieteikumi:
+
+\u0009* Ne visas spēles var mainīt ar __app_name__. Tipisks piemēru saraksts:
+\u0009\u0009* serverī saglabātie dati (servera puses spēles)
+\u0009\u0009* spēlei ir nepieciešams pastāvīgs interneta pieslēgums
+\u0009\u0009* tīkls spēlē ar citiem spēlētājiem
+\u0009\u0009* jums ir jāizvēlas serveris, kas savienojams spēles sākumā
+\u0009\u0009* jūs nevarat izmantot dažas lietas bez interneta
+\u0009\u0009* Spēle pārlādē datus no servera, ja kaut ko maināt
+\u0009* Redzamās vērtības ne vienmēr ir tādas pašas kā glabāšanas veids. Tie var būt atšķirīgi. Piemēram, ekrānā redzam 34, bet atmiņā vērtība ir 34000.
+\u0009* Ja nevarat mainīt vērtību - mēģiniet mainīt vērtības, kas ietekmēja šo vērtību. Piemēram, tā vietā, lai mainītu zelta daudzumu, jūs varat mainīt lietas cenu un pārdot to. Vai nopirkt ar negatīvu cenu.
+"</string>
+    <string name="help">Palīdzība</string>
+    <string name="help_floating_icon_title">Peldošā ikona</string>
+    <string name="help_exact_search_title">Precīza meklēšana</string>
+    <string name="help_speedhack_title">Speedhack</string>
+    <string name="help_group_search_title">Grupu meklēšana</string>
+    <string name="help_others_title">Citi</string>
+    <string name="help_typical_usage_title">Tipiski lietošanas algoritmi</string>
+    <string name="help_hints_title">Ieteikumi</string>
+    <string name="value_format">Vērtības formāts</string>
+    <string name="format_hex">Hex (mazliet-endian) apzīmējums</string>
+    <string name="format_rhex">Apgrieztā heksona (big-endian) apzīmējums</string>
+    <string name="clear_selection">Notīrīt atlasi</string>
+    <string name="invert_selection">Pārvērst atlasi</string>
+    <string name="select_all">Izvēlēties visus</string>
+    <string name="edit_selected">Izvēlēta rediģēšana</string>
+    <string name="delete_selected">Noņemt atlasīto</string>
+    <string name="save_selected">Saglabāt izvēlēto</string>
+    <string name="nothing_selected">Nekas nav atlasīts</string>
+    <string name="items_added">Saglabātajam sarakstam pievienoti vienumi (__d__)</string>
+    <string name="no_items_for_editing">Nav neviena elementa, ko rediģēt.</string>
+    <string name="edit_info">__s__ rediģēt kā __s__</string>
+    <string name="edit_all_info">Rediģējiet __d__ adreses kā __s__</string>
+    <string name="autopause">Spēles automātiskās pārtraukšanas spēle:</string>
+    <string name="empty_list">"Saglabātais saraksts ir tukšs.
+Varat pievienot objektus no meklēšanas rezultātu saraksta vai no atmiņas redaktora.
+Vienkārši atlasiet vēlamos elementus un izvēlnē izvēlieties \"__save_selected__\".
+Vēl viena metode - sāk rediģēt vērtību un atzīmējiet izvēles rūtiņu \"__save_as__\".
+Arī visas iesaldētās vērtības tiek pievienotas šeit automātiski."</string>
+    <string name="empty_save">Saglabātais saraksts ir tukšs. Nekas nav jāsaglabā.</string>
+    <string name="revert_selected">Atgriezties izvēlēta</string>
+    <string name="nothing_to_revert">Nekas nav jāatgriežas</string>
+    <string name="revert_prompt">Vai atcelt atlasītos vienumus (__d__)?</string>
+    <string name="download">Šo lietotni var lejupielādēt no:</string>
+    <string name="format_string">Stīgu reprezentācija</string>
+    <string name="forgot_h">"Vai esat aizmirsis '__hex__' beigās?"</string>
+    <string name="time_jump">Laika lēciens</string>
+    <string name="time_jump_hint">Ievadiet sekunžu skaitu, lai pārietu uz priekšu:</string>
+    <string name="hide_from_game">Slēpt __app_name__ no spēles:</string>
+    <string name="last_stats">Jūsu pēdējās meklēšanas statistika</string>
+    <string name="memory_access">Piekļuve atmiņai:</string>
+    <string name="normal">Normāls</string>
+    <string name="extended">Pagarināts</string>
+    <string name="experimental">Eksperimentāli</string>
+    <string name="installing">__app_name__ veic atkārtotu instalēšanu ar izlases nosaukumu, lai izslēgtu atklāšanu ar spēlēm. Pagaidiet.</string>
+    <string name="failed_install">Neizdevās instalēt lietotni. Vai mēģināt vēlreiz?</string>
+    <string name="failed_uninstall">Neizdevās atinstalēt lietotni. Vai mēģināt vēlreiz?</string>
+    <string name="download_it">Lejupielādēt</string>
+    <string name="more">Vairāk</string>
+    <string name="less">Mazāk</string>
+    <string name="no_space">Ierīcē nav atstāta vieta</string>
+    <string name="install_cancel_prompt">__app_name__ var atklāt, ja nav instalēts. Vai tiešām vēlaties atcelt?</string>
+    <string name="intercept">pārtvert</string>
+    <string name="need_restart">Lai piemērotu šīs izmaiņas, mērķa lietotne ir jāatsāk.</string>
+    <string name="must_be_root">"Šīs programmas darbībai ierīcē jābūt saknei.
+
+__app_name__ var darboties ierobežotā režīmā bez saknes, izmantojot virtuālo vidi. Piemēram, izmantojot __vspace_list__ un daudzus citus.
+Plašāku informāciju lasiet.
+
+Kā ieslēgt jebkuru ierīci: http://www.xda-developers.com/root/"</string>
+    <string name="skip_">Izlaist</string>
+    <string name="indent_for_the_status_bar">Iekļaut UI no ekrāna augšdaļas:</string>
+    <string name="start_collecting_data">Sāciet datu vākšanu</string>
+    <string name="data_collecting_in_progress">Notiek datu vākšana</string>
+    <string name="copy">Kopēt</string>
+    <string name="show_logcat">Rādīt logcat</string>
+    <string name="path_must_be">Ceļam jābūt vismaz 2 rakstzīmēm garam un jāsāk ar “/”.</string>
+    <string name="fix_it">Salabot to</string>
+    <string name="change_log">Mainīt žurnālu</string>
+    <string name="used_only_first">Izmantoti tikai pirmie __d__ vienumi.</string>
+    <string name="need_select_more">Nepieciešams izvēlēties __d__ vai vairāk vienumus.</string>
+    <string name="offset">Offset:</string>
+    <string name="result">Rezultāts:</string>
+    <string name="copy_hex_value">Kopēt hex vērtību:</string>
+    <string name="goto_pointer">Dodieties uz rādītāju:</string>
+    <string name="offset_calculator">Ofseta kalkulators</string>
+    <string name="fill_toolbar">Aizpildiet rīkjoslu:</string>
+    <string name="from_left">No kreisās puses</string>
+    <string name="from_center">No centra</string>
+    <string name="from_right">No labās puses</string>
+    <string name="unit_years_short">y</string>
+    <string name="unit_days_short">d</string>
+    <string name="unit_hours_short">h</string>
+    <string name="unit_minutes_short">min</string>
+    <string name="unit_seconds_short">sek</string>
+    <string name="speed_info">__s__ reālajā laikā = __s__ spēles laikā</string>
+    <string name="search_helper">Meklēt palīgs:</string>
+    <string name="off">Izslēgts</string>
+    <string name="go_to_game">Dodieties atpakaļ uz spēli, ja tiek atrastas daudzas vērtības</string>
+    <string name="go_to_game_and_restore">Dodieties atpakaļ uz spēli, ja tiek atrastas daudzas vērtības un atjaunot meklēšanas režīmu nākamajā atvērtajā režīmā</string>
+    <string name="nothing">Nekas</string>
+    <string name="sort">Kārtot</string>
+    <string name="sort_and_remove_duplicates">Kārtot un noņemt dublikātus</string>
+    <string name="help_basics_title">Pamatinformācija</string>
+    <string name="help_basics">"Pēc lietojumprogrammas palaišanas, noklikšķinot uz pogas \"__start__\", ekrānā parādīsies peldoša ikona. To var vilkt uz jebkuru vietu.
+Īss ikonas pieskāriens atvērs galveno lietojumprogrammas saskarni, ilgi pieskaroties - parādīs paneli spēles ātruma maiņai.
+
+Galvenajā ekrānā var redzēt:
+\u0009* Augšējā kreisajā stūrī - spēles ikona. Pieskaroties tai, varat izvēlēties citu spēli.
+* Centrā atrodas grāmatzīmes, lai pārvietotos pa cilnēm. Pieskaroties vajadzīgajai grāmatzīmei, tiek parādīta atbilstošā cilne.
+
+Kopumā ir 4 cilnes: iestatījumi, meklēšana, saglabāts saraksts un atmiņas redaktors.
+\u0009* Interfeisa augšējā labajā stūrī ir aizvēršanas poga. Nospiediet to, un interfeiss tiks paslēpts, un ekrānā parādīsies peldoša ikona.
+\u0009* Ekrāna apakšā ir statusa josla un acu ikona. Ja nospiežat un turat acu ikonu, interfeiss kļūst caurspīdīgs, ja vien neatbrīvojat pirkstu.
+\u0009* Pārējais saturs ekrānā ir atkarīgs no tā, kura cilne ir ieslēgta.
+
+Katrā cilnē, izņemot iestatījumu cilni, ir izvēlnes poga, kas satur dažādas iespējamās darbības. Tajā jūs atradīsiet galvenās darbības šajā cilnē.
+
+Cilne Iestatījumi ietver dažādus iestatījumus, palīdzību un informāciju par programmu un izejas pogu.
+
+Meklēšanas cilne satur:
+\u0009* Pauzes poga, izvēlētās spēles nosaukums, atrasto rezultātu skaits un atsvaidzināšanas poga.
+\u0009* Zemāk ir panelis ar ātrās piekļuves ikonām un izvēlnes pogu. Visas ikonas tiek dublētas izvēlnē, tādēļ, ja nezināt ikonas nozīmi, to vienmēr var apskatīt, noklikšķinot uz izvēlnes pogas (labākais).
+\u0009* Zem šīs ikonas būs meklēšanas rezultātu saraksts.
+
+Saglabātā saraksta cilne satur:
+\u0009* Pauzes poga, izvēlētās programmas nosaukums, izvēlnes poga un atsvaidzināšanas poga.
+\u0009* Zem šīs ikonas būs saglabāto vērtību saraksts.
+
+Atmiņas redaktora cilne ir līdzīga iepriekšējai, tikai šeit saglabāto vērtību saraksta vietā tā parāda atmiņas saturu.
+
+Visos trijos sarakstos (meklēšanas rezultātos, saglabātajās vērtībās un atmiņas redaktorā), lai parādītu konteksta izvēlni, varat veikt garu pieskārienu vienumiem."</string>
+    <string name="daemon_killed">"Daemon tika nogalināts ar kaut ko.
+
+Parasti tas var būt:
+\u00091. Jebkuri atmiņas slepkavas vai optimizētāji. Jebkurš slepkava ir jāizslēdz vai jāpievieno __app_name__ baltā saraksta iestatījumi.
+\u00092. __daemon_killed_oom__
+\u00093. Atmiņas karte tika noņemta, bet __app_name__ tajā glabāja pagaidu failus. Lai to novērstu, norādiet citu ceļu uz pagaidu failiem. Piemēram, iekšējā atmiņā."</string>
+    <string name="bad_settings">Slikti iestatījumi</string>
+    <string name="freeze_lags">Izmantojot iesaldēšanas vērtības kopā ar iestatījumu __hide_from_game__, spēle var izraisīt kavēšanos.</string>
+    <string name="improve_translation">Šo tulkojumu izveidoja automātiskais tulkotājs. To var uzlabot, izmantojot mūsu kolektīvā tulkošanas pakalpojumu.</string>
+    <string name="freeze_interval">Iesaldēšanas intervāls:</string>
+    <string name="saved_list_update_interval">Saglabāto sarakstu atjaunināšanas intervāls:</string>
+    <string name="milliseconds_short">jaunkundze</string>
+    <string name="disable_floating_windows">Atspējot peldošos logus un restartējiet lietotni</string>
+    <string name="enable_floating_windows">Aktivizējiet peldošos logus un restartējiet lietotni</string>
+    <string name="too_many">Par daudz</string>
+    <string name="help_range_search_title">Diapazonu meklēšana</string>
+    <string name="help_range_search">"* Diapazonu meklēšana:
+\u00091. Pārslēdzieties uz __app_name__ no spēles.
+\u00092. Pieskarieties \"__search_known_value__\" pogai cilnē \"__search__\".
+\u00093. Ievadiet robežu meklēšanas diapazonu, kas atdalīts ar \"__tilde__\". Piemēram, lai meklētu vērtības no 100 līdz 150, ievadiet:
+\u0009\u0009\u0009100__tilde__150
+\u0009\u0009Lai meklētu ārpus diapazona, rakstzīmi \"__tilde__\" varat norādīt divreiz:
+\u0009\u0009\u0009100__tilde____tilde__150
+\u0009\u0009Varat arī izvēlēties zīmi \"__not_equal__\" un vienu reizi norādīt rakstzīmi \"__tilde__\".
+\u0009\u0009Lai ievadītu papildu simbolus, izmantojiet pogu \"__btn_hex__\" iekšējā tastatūrā.
+\u00094. Izvēlieties piemērotu datu tipu vai izvēlieties \"__type_auto__\" (ja neesat pārliecināts) un citas iespējas (ja nepieciešams) un noklikšķiniet uz \"__search__\".
+\u00095. Kad meklēšana ir pabeigta, meklēšanas rezultāti tiks parādīti sarakstā.
+\u00096. Atpakaļ uz spēli. Kad vērtība ir mainījusies, pārslēdzieties uz __app_name__ vēlreiz.
+\u00097. Atkārtojiet diapazona meklēšanu ar atbilstošām izmaiņām.
+\u00098. Ja ir pārāk daudz rezultātu, atkārtojiet 6. un 7. darbību.
+\u00099. Ja paliek maz rezultātu, varat mēģināt mainīt, saglabāt vai iesaldēt vērtību.
+
+\u0009Meklēšanas rezultātos iekļautās diapazona robežas. Jūs varat izvēlēties meklēšanas veidu \"__not_equal__\", lai atrastu visas vērtības, kas nepieder pie diapazona.
+\u0009Šajā meklēšanā visas vērtības tiek uzskatītas par parakstītām.
+"</string>
+    <string name="does_not_support">\"__s__\" neatbalsta \"__s__\".</string>
+    <string name="range_bounds_diff_types">Diapazonu robežām jābūt vienāda veida.</string>
+    <string name="examples">Piemēri</string>
+    <string name="rtfm">Sīkāku informāciju lasiet.</string>
+    <string name="icons_size">Ikonas:</string>
+    <string name="revert_and_remove">Atgrieziet un noņemiet</string>
+    <string name="remove">Noņemt</string>
+    <string name="ordered_group_search">Pasūtīto grupu meklēšana</string>
+    <string name="load_items">Preces</string>
+    <string name="load_values">Vērtības</string>
+    <string name="load_freeze">Iesaldēt</string>
+    <string name="video_tutorials">Video konsultācijas un norādījumi, kā hack</string>
+    <string name="make_copy">Izveidojiet kopiju</string>
+    <string name="video">Video</string>
+    <string name="ordered">Pasūtīts</string>
+    <string name="toolbars">Rīkjoslas</string>
+    <string name="saved_list">Saglabātais saraksts</string>
+    <string name="memory_editor">Atmiņas redaktors</string>
+    <string name="restart_game">Restartējiet spēli</string>
+    <string name="refine">Precizējiet</string>
+    <string name="internal_storage">Iekšējā glabātuve</string>
+    <string name="external_storage">Ārējā atmiņa</string>
+    <string name="new_search">Jauna meklēšana</string>
+    <string name="load_saved_list">Ielādējiet saglabāto sarakstu no faila</string>
+    <string name="save_saved_list">Saglabājiet saglabāto sarakstu failā</string>
+    <string name="append">Pievienot</string>
+    <string name="xor_key">XOR taustiņš:</string>
+    <string name="only_memory">Tikai atmiņas diapazonā:</string>
+    <string name="dump_memory">Atkritumu atmiņa</string>
+    <string name="path">Ceļš:</string>
+    <string name="dump_ended">Atkritums beidzās</string>
+    <string name="dump_failed">Dump neizdevās</string>
+    <string name="eperm_error_defend">Nevarēja pievienot procesam (PTRACE_ATTACH): Spēle ir aizsargāta</string>
+    <string name="reset_on_exit">Atiestatīt pēc izejas:</string>
+    <string name="kill_game">Nogalini spēli</string>
+    <string name="kill_game_info">Procesa piespiedu pārtraukšana nedod procesam iespēju slēgt tīru un var izraisīt datu zudumu vai sistēmas nestabilitāti.</string>
+    <string name="continue_ask">Turpināt?</string>
+    <string name="copy_memory">Kopēt atmiņu</string>
+    <string name="copy_from">Kopēt no:</string>
+    <string name="paste_to">Ielīmēt:</string>
+    <string name="count_bytes">Skaita baiti:</string>
+    <string name="copy_ended">Kopēja atmiņa beidzās</string>
+    <string name="copy_failed">Neizdevās kopēt atmiņu</string>
+    <string name="help_encrypted_search_title">Meklējiet šifrētas vērtības</string>
+    <string name="help_encrypted_search">"* Meklēt šifrētas vērtības:
+\u00091. Pārslēdzieties uz __app_name__ no spēles.
+\u00092. Pieskarieties \"__search_known_value__\" pogai cilnē \"__search__\".
+\u00093. Ievadiet spēlē redzamo numuru.
+\u00094. Izvēlieties piemērotu datu tipu vai izvēlieties \"__type_auto__\" (ja neesat pārliecināts), citas iespējas (ja nepieciešams), atzīmējiet \"__mode_hacking__\" un noklikšķiniet uz \"__search__\".
+\u00095. Kad meklēšana ir pabeigta, meklēšanas rezultāti tiks parādīti sarakstā.
+\u00096. Doties atpakaļ uz spēli. Kad vērtība ir mainījusies, pārslēdzieties uz __app_name__ vēlreiz.
+\u00097. Meklējiet mainīto vērtību. Pārbaudiet izvēles rūtiņu \"__mode_hacking__\".
+\u00098. Ja ir pārāk daudz rezultātu, turpiniet 6. darbību.
+\u00099. Ja paliek tikai daži rezultāti, varat mēģināt modificēt, saglabāt vai iesaldēt vērtību.
+"</string>
+    <string name="help_faq_title">Bieži uzdotie jautājumi</string>
+    <string name="help_faq_1_q">Kāpēc es nevaru ievadīt vērtību, kas lielāka par 99 vai 60 000?</string>
+    <string name="help_faq_1_a">Jūs atradāt vērtību __type_byte__ vai __type_word__. Meklējiet __type_dword__, lai ievadītu lielākas vērtības.</string>
+    <string name="help_faq_2_q">Kā meklēt frakcionētas (__type_float__) vērtības bez vērtības daļējas daļas?</string>
+    <string name="help_faq_2_a">Izmantojiet \"__type_auto__\" datu tipu vai diapazona meklēšanu. Piemēram, 11.345 jūs varat meklēt \"10__tilde__12\".</string>
+    <string name="help_faq_3_q">Es atklāju vērtību un mainīju to, bet spēlē šī izmaiņa neko nedara. Es tikai mēģinu to izmantot, bet viss atgriežas. Ko es daru nepareizi?</string>
+    <string name="help_faq_3_a">"Dažās spēlēs vērtības tiek aizsargātas vai šifrētas. Pirms vērtības attēlošanas vērtība tiek atšifrēta citā mainīgā lielumā. Jūs to mainījāt.
+Tā kā šī vērtība tiek izmantota tikai displejam, tā neietekmē spēļu mehāniku. Lai atrastu reālo vērtību, nevis parādīto vērtību, izmantojiet šifrētās vērtības meklēšanu vai izplūdušo meklēšanu.
+Dažreiz vērtība tiek saglabāta serverī un tiek sinhronizēta katru reizi. Šādā gadījumā to nevar hacked. Ja spēle nedarbojas bez interneta un iepriekšējie veidi nepalīdzēja - visticamāk, tas tā ir."</string>
+    <string name="help_faq_4_q">Nevar atrast vērtību spēlē X. Vai atrod to, bet, kad mainīts, nekas nenotiek. Vai arī tā to konstatē, bet pēc tam, kad tā ir mainījusi spēles avārijas. Kā es varu zināt, kāda ir problēma, vai tā ir aizsardzība spēlē vai ar __app_name__?</string>
+    <string name="help_faq_4_a">"Jums ir jāveic vienkārša programma, kas garantē, ka tai nebūs aizsardzības, un izmēģiniet to. Es gribētu izmantot \"Hill Climb Racing\". Spēle ir vienkārša, nesarežģīta un nesatur nekādas aizsardzības. Jūs varat pārbaudīt naudas hacking kā tiešu meklēšanu pēc numura, un izplūdušo meklēt izmaiņas.
+Ja šī vienkāršā spēle tiek hacking, tad šajā X spēlē jūs mēģinājāt kapāt. Ja nē, tad problēma ir __app_name__.
+Ir pat vieglāka iespēja: \"Pieskarieties skaitītājam\". Instalējiet to. Palaist. Mēģiniet kreka ekrānā parādīto lentu skaitu. Tam jābūt ļoti vienkāršam. Ja nē, tad problēma ir norādīta __app_name__ vai tā iestatījumos.
+Izmēģiniet citu __app_name__ versiju, mēģiniet meklēt forumā pieejamo kļūdu aprakstu attiecīgajā tēmā vai internetā. Ārkārtējos gadījumos forumā var jautāt."</string>
+    <string name="help_faq_5_q">Kā meklēt laiku?</string>
+    <string name="help_faq_5_a">"\u0009- Mēģiniet meklēt kā dienu, stundu, minūšu vai sekunžu skaitu. Datu tips var būt vai nu __type_byte__, __type_word__, __type_dword__ vai __type_qword__. Arī jūs varat izmantot tipu __type_auto__.
+\u0009- Mēģiniet meklēt kā milli- vai nanosekundes. Datu tips ir __type_dword__ vai __type_qword__.
+\u0009- Mēģiniet meklēt kā unix timestamp beigu datumu. Tips - __type_dword__. To uzskata par atšķirību starp pašreizējo unix laikspiedolu un saglabāto. Meklēt, izmantojot diapazona meklēšanu.
+Piemēram, ja ir rakstītas 30 dienas, jūs meklējat 30 +/- 1 dienu no pašreizējā unix laikspiedola. Pašreizējo unix laikspiedolu var viegli apskatīt internetā."</string>
+    <string name="help_faq_6_q">Vai ir iespējams iebrukt tiešsaistes spēles?</string>
+    <string name="help_faq_6_a">Ir iespējams iebrukt klientam saglabātos datus. Nevienu no servera nevar hacked. Dažādās spēlēs var būt dažādi. Pat viena spēlētāja spēlē, daži dati var būt uz servera, un daži var nebūt.</string>
+    <string name="help_faq_7_q">Kur darbojas ātrdarbība?</string>
+    <string name="help_faq_7_a">"Speedhack var nedarboties ar x86 ierīcēm / emulatoriem spēlēm, kurās nav x86 bibliotēkas.
+Arī ART vidē speedhack nedarbojas ar Java taimeri. Ja spēle to lieto un jums ir ART vide (parasti Android 5 un jaunāka), tad ātrdarbība nedarbosies."</string>
+    <string name="help_faq_8_q">__app_name__ kopumā darbojas man, bet dažās spēlēs es saņemu PTRACE_ATTACH kļūdu. Kāpēc un ko darīt?</string>
+    <string name="help_faq_8_a">Šī spēle ir aprīkota ar aizsardzību pret atkļūdošanu pēc SecNeo aizsardzības veida. __app_name__ nevar apiet šo aizsardzību. Ar to jūs nevarat sacirst šo spēli.</string>
+    <string name="help_faq_9_q">Kāpēc pieteikumam ir tik dīvains paketes nosaukums? Kāpēc lietojumprogramma netiek atjaunināta, bet katru reizi instalējot atsevišķi? Kāpēc katrai versijai ir cits iepakojuma nosaukums?</string>
+    <string name="help_faq_9_a">Lai nepieļautu, ka, izmantojot pakotnes nosaukumu, tiek atklāts anti-cheats.</string>
+    <string name="help_faq_10_q">Dažās spēlēs, mainot ātrumu (speedhack), tās vairs nereaģē uz klikšķiem. Vai tas ir spēļu aizsardzība vai programmas kļūda?</string>
+    <string name="help_faq_10_a">Tas nozīmē, ka jūsu ātrās ielādes sistēma pārtver ievades rindu taimeri un tā nomirst. Taimera sarakstā ir jāizvēlas zaļās atzīmes (__app_name__ iestatījumos), lai tas nenotiktu.</string>
+    <string name="help_faq_11_q">Kāpēc tā izsniedz komatu atdalītu kļūdu sarakstu?</string>
+    <string name="help_faq_11_a">Tā kā ciparu norobežotājs ir semikols (\"__semicolon__\").</string>
+    <string name="help_faq_12_q">Kā vienlaikus veikt vairākus meklējumus?</string>
+    <string name="help_faq_12_a">Šobrīd lietojumprogramma to neļauj, bet programmu var instalēt vairākas reizes un kopēt kopā, ja ir pietiekami daudz atmiņas un diska vietas.</string>
+    <string name="help_faq_13_q">Vai man ir nepieciešams atjaunināt lietojumprogrammu, ja izmaiņas nav nozīmīgas?</string>
+    <string name="help_faq_13_a">Ir ierosināts. Atbalsts ir paredzēts tikai jaunākajai versijai.</string>
+    <string name="help_faq_14_q">Kādi ir simboli \"!\" un \"#\", pirms procesa nosaukuma?</string>
+    <string name="help_faq_14_a">"Tas iezīmē izsekotos procesus.
+\u0009\"#\" - pirms process nozīmē, ka tas tiek izsekots ar kādu citu procesu.
+\u0009\"!\" - pirms procesa šis process tiek izsekots kādā citā procesā.
+Izsekošana ir tipiska atkļūdošanas vai hakeru veikšanai. Arī tas tiek izmantots dažos aizsargos. Parasti process ar zīmi \"#\" ir aizsargāts process."</string>
+    <string name="help_faq_15_q">Kāpēc lietojumprogramma pēc standarta instalācijas veic arī savu instalāciju, izsniedzot pieprasījumus par saknes tiesībām?</string>
+    <string name="help_faq_15_a">__app_name__ atjauno sevi ar nejaušiem datiem, lai novērstu tās atklāšanu, izmantojot anti-cheats. Saknes tiesības ir nepieciešamas \"klusa\" instalēšanai un atinstalēšanai. Jūs nevarat tos izdalīt. Šajā gadījumā jums būs manuāli jāatbild uz visiem sistēmas pieprasījumiem, lai instalētu lietojumprogrammas.</string>
+    <string name="help_faq_16_q">Kas ir __pkg__? Vai tas ir Trojas vai vīruss? Vai ir droši nodrošināt šīs lietojumprogrammas saknes piekļuvi?</string>
+    <string name="help_faq_16_a">Tas ir __app_name__ paketes bāzes nosaukums. Saknes piekļuves nodrošināšana ir droša, ja __app_name__ tiek lejupielādēts no uzticamiem avotiem.</string>
+    <string name="help_faq_17_q">Kāpēc __app_name__ ir instalēto lietojumprogrammu sarakstā, ko sauc par nejaušo rakstzīmju kopu? Kāpēc šī rakstzīmju kopa pieprasa root piekļuvi? Kāpēc, uzsākot __app_name__, raksta, ka sakne nav nodrošināta ar __app_name__, bet gan ar kādu abracadabru?</string>
+    <string name="help_faq_17_a">Tā kā __app_name__ to izmanto, lai paslēptu sevi no atklāšanas, izmantojot anti-cheats.</string>
+    <string name="help_faq_18_q">Kāpēc __app_name__ no jaunākajām versijām, ko dažkārt atklāj anticeats, un dažreiz ne?</string>
+    <string name="help_faq_18_a">Tā kā __app_name__ izmanto dažādas lietas, lai paslēptu sevi no atklāšanas ar anti-cheats. Tas ietver nejaušas paketes nosaukumu un lietojumprogrammu. Katrā instalācijā tie ir atšķirīgi. Mēģiniet atjaunot __app_name__ atjaunošanu. Iespējams, ka pēc šī anti-cheat nebūs redzams __app_name__.</string>
+    <string name="help_faq_19_q">Kāpēc mana spēle nav lietojumprogrammu sarakstā?</string>
+    <string name="help_faq_19_a">Tā kā šis ir lietojumprogrammu saraksts, un jūsu lietojumprogramma nedarbojas. Palaidiet to un pēc tam atlasiet to __app_name__.</string>
+    <string name="help_faq_20_q">Kāpēc Java lietojumprogrammas nevar atbildēt uz ātrdarbības ātrumu Android 5 un augstāk?</string>
+    <string name="help_faq_20_a">Tā kā ātruma uzņemšana ir paredzēta spēlēm ar vietējām bibliotēkām. Jūsu pieteikums nav. Un tā kā Android 5 Dalvik vietā izmantoja ART vidi, kas neļauj pārtvert Java taimeri. Nedariet neko. Situācija nākotnē nemainīsies.</string>
+    <string name="help_faq_21_q">Esmu izmantojis citu ātrumu / hakeru rīku operētājsistēmā Android 4 un viss strādāja. Tagad es ievietoju __app_name__ uz Android 5 un jaunākām, bet šīs metodes nedarbojas. Kāpēc?</string>
+    <string name="help_faq_21_a">"Tā kā daudzas lietas ir mainījušās un jūsu lietderība nedarbosies tieši tāpat. Neizveidojiet savas ilūzijas, ka šī __app_name__ ir tik slikta, bet, ja tur bija šī lietderība, tad uh! Nav tādas lietas.
+Lai to pārbaudītu, instalējiet operētājsistēmā Android 4 __app_name__ un atkārtojiet visas tās pašas darbības kā šajā utilītprogrammā. Tā rezultātā jums izdosies. Bet tas nenozīmē, ka šīs pašas metodes darbosies arī operētājsistēmā Android 5 un vairāk.
+Šo faktu atkārtoti apstiprina eksperimentāli."</string>
+    <string name="help_faq_22_q">Es skatos video paraugu / ekrānšāviņus un atmiņas redaktorā ir citi dati. Kāpēc?</string>
+    <string name="help_faq_22_a">Tā kā video / ekrānuzņēmumam ir atšķirīgs izvades formāts. Atmiņas redaktorā nospiediet izvēlni - izvēlieties \"__value_format__\" un konfigurējiet izeju tā, kā vajadzētu.</string>
+    <string name="help_faq_23_q">Kad vērtība ir iesaldēta, spēle sāk bremzēt vai aizkavēties. Kāpēc?</string>
+    <string name="help_faq_23_a">Tā kā __app_name__ iestatījumos ir iespējota opcija \"__hide_from_game__\". Izslēdz to.</string>
+    <string name="help_faq_24_q">Kā es varu atspējot jaunu versiju pārbaudi, kad sāku lietotni?</string>
+    <string name="help_faq_24_a">Nevar būt.</string>
+    <string name="help_faq_25_q">Kā atgriezties atpakaļ programmā? Vai ir iespējams veikt laika lēcienu ne uz priekšu, bet atpakaļ?</string>
+    <string name="help_faq_25_a">Nevar būt. Tu nevari. Laiks vienmēr jāpalielina, citādi spēle var crash. Tomēr jaunākajās versijās mēs pievienojām iespēju negatīvu laika lēcienu. Rezultāts var būt spēle vai datu zudums. Jābrīdina.</string>
+    <string name="help_faq_26_q">Ievietoju ikonu un tā pazuda. Kā es varu to saņemt atpakaļ?</string>
+    <string name="help_faq_26_a">Ikona kļūst caurspīdīga, bet joprojām varat uzklikšķināt uz tās. Noklikšķiniet uz vietas, kur tas bija, pēc tam mainiet iestatījumu, izmantojot interfeisu.</string>
+    <string name="help_faq_27_q">Kā es varu meklēt vērtību, ja tas tiek parādīts noapaļojot ar spēli? Piemēram, 1,85M.</string>
+    <string name="help_faq_27_a">Meklēt meklēšanas diapazonu. Diapazona robežas ir atkarīgas no noapaļošanas noteikumiem. Piemēram, \"1845000__tilde__1854999\" standartizētajai noapaļošanai.</string>
+    <string name="help_faq_28_q">Kā meklēt procentuālo vērtību? Piemēram, 123__percent__.</string>
+    <string name="help_faq_28_a">Tas ir atkarīgs no īstenošanas. Katrai spēlei tas var būt atšķirīgs. Piemēram, 123__percent__. Tas var būt __type_float__ vai __type_double__ ar jebkuru vērtību. Tāpat kā 1.23 vai 123.0. Vai arī tas var būt vesels skaitlis: __type_byte__, __type_word__, __type_dword__. Piemēram, 123 vai 12300. Izejas režīmā to var sadalīt uz kādu numuru. 100 vai 345 vai kaut kas cits. Katrai spēlei tas var būt atšķirīgs. Jūs varat izmēģināt acīmredzamākos gadījumus. Par 123__percent__ var būt 1,23 vai 123. Tips - __type_auto__. Ja jums ir paveicies, tas var būt tas, kas jums nepieciešams.</string>
+    <string name="help_faq_29_q">Ko darīt, ja spēle atklāj __app_name__?</string>
+    <string name="help_faq_29_a">"Izmēģiniet šādas opcijas (atsevišķi vai jebkurā kombinācijā):
+\u0009- Iespējot \"__hide_from_game__\" iespējas. Parasti pietiek 2, 3 un 4 iespējas.
+\u0009- Vai nav atcelt atjaunošanu __app_name__ ar nejaušu nosaukumu. Tas tiek darīts pirmo reizi __app_name__ tiek palaista ārpus virtuālajā telpā.
+\u0009- Izmantojiet XPrivacy vai līdzīgas komunālie. Paskaties internetā par to, kā to izdarīt.
+\u0009- Ja jums ir saknes tiesības, izmantojiet sakni no virtuālajā telpā ar slēpto uzstādīšanu pieteikumu. Lasīt vairāk konteksta palīdzībai \"__vspace_root__\" iestatījumu."</string>
+    <string name="work_without_selinux">Pārslēdzieties uz darbu bez __selinux__ un restartējiet lietotni</string>
+    <string name="work_with_selinux">Pārslēdzieties uz darbu ar __selinux__ un restartējiet lietotni</string>
+    <string name="file">Fails:</string>
+    <string name="file_not_found">Fails nav atrasts:</string>
+    <string name="export_selected">Eksportē izvēlēts</string>
+    <string name="failed_list_dir">Neizdevās nolasīt failu sarakstu.</string>
+    <string name="change_float_type">Izvēlieties peldošo logu veidu</string>
+    <string name="reset_float_type">Atjaunojiet peldošo logu veidu</string>
+    <string name="mask">Maska:</string>
+    <string name="mask_request">Ievadiet meklējamo adresi</string>
+    <string name="help_mask_search_title">Adreses (maska) meklēšana</string>
+    <string name="help_mask_search">"* Adrese (maska) meklēšana:
+\u0009Jūs varat meklēt vai filtrēt pēc adreses ar masku.
+
+\u0009Tipisks piemērs ir tādu adrešu meklēšana, kuras beidzas ar zināmu vērtību. Piemēram, uz \"12E\".
+
+\u0009Meklēšanas parametri ir adrese un maska.
+\u0009Adresē var izmantot aizstājējzīmes (\"__question__\"). Šis simbols nozīmē, ka tas var būt jebkura rakstzīme no \"0\" līdz \"F\".
+\u0009Papildu maska ​​tiek veidota no adreses, tāpēc svarīgākās ir nulles. Tādējādi \"0120\" meklēšana un \"120\" meklēšana nav tā pati.
+\u0009Pirmajā gadījumā tiks atrasts: \"00010120\", \"00020120\", \"00030120\" un tā tālāk. Otrajā vietā: \"00001120\", \"00002120\", \"00003120\" un tā tālāk.
+
+\u0009Jūs varat meklēt gan par vienlīdzību, gan par maskas norādīto nevienlīdzību. Otrā iespēja var būt noderīga nevajadzīgu vērtību novēršanai.
+
+\u0009Adrese un maska ​​tiek ievadītas heksadecimālajā sistēmā un bez burta \"__hex__\" beigās.
+\u0009Maska, kas iegūta no adreses, krustojas ar jūsu ievadīto maska. Tā ir radītā meklēšanas maska.
+
+\u0009Tālāk minētie piemēri ir līdzvērtīgi, jo iegūtais maska ​​ir tāds pats - \"FF0\"
+__mask_example__
+"</string>
+    <string name="use_sound_effects">Izmantojiet skaņas efektus:</string>
+    <string name="from_range">No:</string>
+    <string name="to_range">Kam:</string>
+    <string name="resultant_mask">Iegūtā maska:</string>
+    <string name="show_time_jump_panel">Rādīt laika lēciena paneli:</string>
+    <string name="use_notification">Lietot paziņojumu:</string>
+    <string name="show_gg">Rādīt __app_name__</string>
+    <string name="hide_gg">Slēpt __app_name__</string>
+    <string name="time_remaining">Atlikušais laiks:</string>
+    <string name="help_fill_title">Aizpildiet (pieauguma) vērtības</string>
+    <string name="help_fill">"* Aizpildiet (pieauguma) vērtības:
+\u0009Bieži gadās, ka tiek atrastas pārāk daudz vērtību, bet tās nevar mainīt no spēles.
+\u0009Šādā gadījumā aizpildīšana notiek glābšanai.
+
+\u0009Tipisks lietošanas piemērs ir vienuma cenas meklēšana, vēlāk aizvietojot to ar negatīvu.
+
+\u00091. Izvēlieties vajadzīgos vienumus.
+\u00092. Izvēlieties \"__edit_selected__\".
+\u00093. Nospiediet pogu \"__more__\", lai parādītu lauku \"__increments__\", ja šis lauks nav.
+\u00094. Laukā \"__increments__\" ievadiet pieauguma vērtību. Parasti tas ir 1. Un noklikšķiniet uz \"__yes__\".
+\u00095. Atlasītie vienumi saņems jaunas vērtības.
+\u00096. Dodieties uz spēli un skatiet, kā mainījusies vēlamā vērtība, pārvietojoties pāri spēles ekrāniem.
+\u00097. Ja vērtība nav mainījusies, tad vēlamais elements nav izvēlēts. Atgriezties pie __app_name__ un, izmantojot \"__delete_selected__\" -> \"__revert_and_remove__\", izņemiet atlasītos vienumus, atgriežot tos iepriekšējo vērtību. Tagad jūs varat izmēģināt visu, sākot no sākuma ar citiem elementiem, ja tādi ir.
+\u00098. Ja vērtība ir mainījusies, vēlamais elements ir viens no atlasītajiem elementiem. Atcerieties jauno vērtību un atgriezieties pie __app_name__.
+\u00099. Atlasīto vienumu sarakstā meklējiet vēlamo vērtību. Noņemiet atlasi. Izdzēsiet visas pārējās vērtības, izmantojot \"__delete_selected__\" -> \"__revert_and_remove__\", atgriežot tām iepriekšējo vērtību.
+10. Modificējiet vēlamo elementa vērtību, cik nepieciešams.
+
+\u0009Tipiskas kļūdas ir izņemšana bez atgriešanās. Pēc tam spēle var crash.
+
+\u0009Ja atrodat daudz vērtību, mēģiniet aizpildīt nelielas porcijas, lai izvairītos no avārijām.
+"</string>
+    <string name="help_hint_1">* Ja vienmēr atradīsiet vēlamās vērtības tajā pašā reģionā (burti beigās rezultātu sarakstā), ātrākai meklēšanai varat izvēlēties tikai šos reģionus.</string>
+    <string name="help_faq_30_q">__app_name__ meklē ļoti lēni un ilgu laiku Android emulatora datorā.</string>
+    <string name="help_faq_30_a">"Visticamāk, ka datorizētā BIOS datorā ir virtualizācija. Ieslēdziet to.
+__app_name__ darbojas emulatora iekšpusē, tāpēc tā ātrums ir atkarīgs no emulatora ātruma.
+Ja virtualizācija ir iespējota, bet ātrums joprojām ir zems, pārbaudiet emulatora iestatījumus vai izmantojiet citu emulatoru.
+Varat izmantot arī citu rīku - CheatEngine PC - tas meklēs ātrāk un sniegs jums daudzas funkcijas, kas nekad nebūs pieejamas __app_name__."</string>
+    <string name="help_speed_up_title">Kā paātrināt meklēšanu</string>
+    <string name="help_speed_up">"* Kā paātrināt meklēšanu:
+\u00090. Ja datorā izmantojat Android emulatoru (BlueStacks, Droid4X, Andy, NOX, Memu, AMIDuOS, Windroy, AVD, Genymotion, Koplayer, Leapdroid uc), pārbaudiet, vai virtualizācija (VT Technology, Vanderpool tehnoloģija, virtualizācijas tehnoloģija) , VTx, VT-d, VMX, Virtual Technology, Intel-VT, AMD-V, SVM, IOMMU) ir iespējots datora BIOS.
+\u00091. Ja jums ir daudz RAM, tad datus tur var saglabāt. Tas ievērojami paātrina meklēšanu. Iestatiet iestatījumu \"__data_in_ram__\" uz \"__yes__\". Android emulatorā datorā tas var palēnināt meklēšanu.
+\u00092. Ja jums ir maz RAM, dati tiks saglabāti atmiņas kartē. Izmantojiet atmiņas karti ar augstu rakstīšanas un lasīšanas ātrumu.
+\u00093. Varat arī norādīt datu glabāšanu ierīces iekšējā atmiņā, ja tā ir ātrāka nekā atmiņas karte. Iestatiet iestatījumu \"__set_path__\" uz vēlamo ceļu.
+\u00094. Meklēšanas laikā atlasiet tikai vēlamos reģionus. Izvairieties no lēniem (\"__slow__\") un bīstamiem (\"__dangerous__\") reģioniem.
+\u00095. Jūs varat arī norādīt atmiņas diapazona robežas, lai meklētu, ja jūs tos pazīstat. Meklēšanas logā noklikšķiniet uz pogas \"__more__\" un ievadiet ierobežojumus.
+\u00096. Meklējiet tikai vēlamos datu veidus. Datu tips \"__type_auto__\" ir lēns.
+\u00097. Atspējot visas iespējamās \"__hide_from_game__\" opcijas.
+\u00098. Mēģiniet lietot \"__experimental__\" vai \"__extended__\" pozīcijā \"__memory_access__\". Šīs iespējas var izraisīt nestabilu darbu.
+"</string>
+    <string name="help_faq_31_q">Pēc kāda laika pazūd __app_name__ ikona.</string>
+    <string name="help_faq_31_a">"Mēģiniet noklikšķināt vietā, kur ikona bija. Ja šī atvērtā __app_name__ saskarne, tad ikona ir paslēpta iestatījumos vai jūsu firmware ir bugs ar displeja ikonu.
+Ja interfeiss nav atvērts, tas nozīmē, ka __app_name__ ir izņemta no atmiņas.
+Iespējamie iemesli:
+
+\u00091. Ierīcē nav pietiekami daudz RAM - sistēma nogalināja __app_name__. Mēģiniet izmantot mazāk RAM. __app_name__ iestatījumos nenorādiet datu glabāšanu operētājsistēmā RAM, neievietojiet lielu skaitu parādīto rezultātu, izņemiet no \"RAM\" papildu lietojumprogrammas, izmantojiet \"vieglo\" analogu lietojumprogrammas, kuras nevar izkraut (piemēram, palaišanas programma) ). Īpaši sliktos gadījumos atsāciet ierīci, pirms palaižat spēli __app_name__. Gandrīz visām firmware vienmēr ir noplūdes RAM. Vairāk laika pēc atsāknēšanas - jo mazāk RAM.
+
+\u00092. Jums ir procesu slepkavas, kas nogalina __app_name__.
+
+Atspējojiet slepkavas vai pievienojiet __app_name__ izņēmumus.
+Killers ir arī visu veidu RAM optimizētāji un uzlabotāji.
+Parasti skatiet programmatūras aprakstu, ja nezināt, ka slepkava ir vai nav.
+
+Par FlyMe: __app_name__ kāda iemesla dēļ pēc dažu minūšu darba izkraušanas - jums ir jāļauj darboties fonā par __app_name__ un jūsu saknes pārvaldnieku (parasti SuperSu).
+
+Varat arī mēģināt iespējot \"__use_notification__\" __app_name__ iestatījumos. Dažreiz tas novērš nogalināšanu __app_name__."</string>
+    <string name="quick_start_title">Ātrs sākums</string>
+    <string name="prevent_unload">Novērst izkraušanu:</string>
+    <string name="hot_key">Karstais taustiņš:</string>
+    <string name="hide">Paslēpt</string>
+    <string name="execute_script">Izpildiet skriptu</string>
+    <string name="execute">Izpildīt</string>
+    <string name="another_script">Notiek vēl viens skripts. Vai tas tiek pārtraukts?</string>
+    <string name="interrupt">Pārtraukt</string>
+    <string name="script">Skripts:</string>
+    <string name="script_ended">Skripts beidzās:</string>
+    <string name="paused">Spēle ir apturēta:</string>
+    <string name="by_pause_button">pauzes pogu</string>
+    <string name="by_option">pēc izvēles “__s__”</string>
+    <string name="new_search_short">Jauns</string>
+    <string name="speedhack_loading">Notiek ātruma ielāde ...</string>
+    <string name="speedhack_loaded">Speedhack ir ielādēts.</string>
+    <string name="busy_dialog_fail">Nevarēja parādīt progresa dialoglodziņu.</string>
+    <string name="site">Vietne</string>
+    <string name="help_xor_search_title">XOR meklēšana</string>
+    <string name="help_xor_search">"* XOR meklēšana:
+\u0009\u0009Ja jūs zināt, ka vajadzīgā vērtība tiek šifrēta ar XOR taustiņu, kas vienmēr ir tādā pašā attālumā no vērtības, tad varat izmantot šo režīmu, lai meklētu atšifrēto vērtību.
+\u00091. Pārslēdzieties uz __app_name__ no spēles.
+\u00092. Pieskarieties \"__search_known_value__\" pogai cilnē \"__search__\".
+\u00093. Ievadiet meklēšanas numuru un XOR taustiņu attālumu, atdalot ar \"__mode_xor__\". Piemēram, lai meklētu vērtību 100 ar taustiņu 8. attālumā, ievadiet:
+\u0009\u0009\u0009100__mode_xor__8
+\u0009\u0009Lai ievadītu papildu simbolus, izmantojiet pogu \"__btn_hex__\" iekšējā tastatūrā.
+\u00094. Izvēlieties piemērotu datu tipu vai izvēlieties \"__type_auto__\" (ja neesat pārliecināts) un citas iespējas (ja nepieciešams) un noklikšķiniet uz \"__search__\".
+\u00095. Kad meklēšana ir pabeigta, meklēšanas rezultāti tiks parādīti sarakstā.
+\u00096. Atpakaļ uz spēli. Kad vērtība ir mainījusies, pārslēdzieties uz __app_name__ vēlreiz.
+\u00097. Atkārtojiet XOR meklēšanu ar atbilstošām izmaiņām.
+\u00098. Ja ir pārāk daudz rezultātu, atkārtojiet 6. un 7. darbību.
+\u00099. Ja paliek maz rezultātu, varat mēģināt mainīt, saglabāt vai iesaldēt vērtību.
+
+\u0009Jūs varat izmantot XOR meklēšanu ar diapazona meklēšanu. Piemēram, \"100__tilde__150__mode_xor__8\".
+\u0009Parasti XOR meklēšana ir lēnāka no parastās numuru meklēšanas.
+\u0009Šis režīms netiek atbalstīts grupas meklēšanā vai šifrētā meklēšanā.
+\u0009Attālumam jābūt no 1 līdz 4096 ieskaitot.
+\u0009Jūs varat ievadīt attālumu hex formā ar __hex__ simbolu beigās: \"100__tilde__150__mode_xor__10h\".
+\u0009Attālumam ir jāievēro vērtības, kas ir saskaņotas. Piemēram, dword ir jāsaskaņo ar 4 baitu robežu. Tas nozīmē, ka meklēšanai \"40__mode_xor__7\" ir nepiemērota dword, jo 7 nevar sadalīt uz 4.
+\u0009Šo režīmu apvienojot ar citu, var rasties problēmas sliktajā programmaparatūrā. Piemēram, ja veicat parasto meklēšanu un pēc tam uzlabojiet XOR režīmā, tas var izraisīt ierīces pakarināšanu vai pārstartēšanu. Tas nedrīkst notikt, ja pirmais meklējums būs šajā režīmā.
+\u0009Šī režīma izplūdušā meklēšana netiek atbalstīta. To var apvienot, bet izplūdušais darbs, kā ierasts, neievēro XOR taustiņu ar attālumu.
+\u0009Tiek ievērota vērtību vērtība. Tas nozīmē, ka jūs varat meklēt vērtību, kas nav vienāda, lielāka, mazāka un tā tālāk.
+\u0009Šajā meklēšanā visas vērtības tiek uzskatītas par parakstītām.
+"</string>
+    <string name="help_faq_32_q">Kāda ir atšķirība ar HW / SW versijām? Un kuru vajadzētu izmantot?</string>
+    <string name="try_latest">Varbūt šim skriptam ir nepieciešama jaunākā versija __app_name__. Mēģiniet atjaunināt jaunāko versiju.</string>
+    <string name="help_string_search_title">Teksts (virkne, HEX, AoB) meklēšana</string>
+    <string name="download_scripts">Lejupielādēt skriptus</string>
+    <string name="hide_icons">Paslēpt palaidēja ikonas</string>
+    <string name="select_mode">Izvēlieties režīmu</string>
+    <string name="mode_string">Teksts</string>
+    <string name="mode_mixed">Jaukts</string>
+    <string name="string_search_prompt">Ievadiet meklējamo tekstu līdz pat __d__ baitiem. Piemēram</string>
+    <string name="string_empty">Jums ir jāievada teksts.</string>
+    <string name="string_not_found">Teksts \"__s__\" netika atrasts.</string>
+    <string name="string_found">Atrasts __d__ atbilstības tekstam \"__s__\".</string>
+    <string name="string_replace">Vai vēlaties tos aizstāt?</string>
+    <string name="string_replace_prompt">Ievadiet tekstu, kas aizstāj \"__s__\". Garums nepārsniedz __d__ baitus.</string>
+    <string name="string_replaced">Replaced \"__s__\" to \"__s__\" in __d__ places.</string>
+    <string name="need_allow_background">Šajā programmaparatūrā sistēmas iestatījumos jāļauj darboties __app_name__ fonā.</string>
+    <string name="calculate_offset_xor">Aprēķināt nobīdes vērtību, XOR</string>
+    <string name="select_copy_item">Atlasiet kopējamo vienumu:</string>
+    <string name="landscape">Ainava</string>
+    <string name="portrait">Portrets</string>
+    <string name="toolbar_buttons">Rīkjoslas pogas</string>
+    <string name="need_update_to">Lai palaistu šo skriptu, jums ir nepieciešama jaunāka versija __app_name__. Vismaz versija __s__. Jums ir versija __s__.</string>
+    <string name="default_mark">noklusējuma</string>
+    <string name="default_">Noklusējums:</string>
+    <string name="reset_button">Atiestatīt</string>
+    <string name="help_hex_colors_title">Krāsas atmiņas redaktorā</string>
+    <string name="help_hex_colors">"* __help_hex_colors_title__:
+Ja hex attēlojums nav balts, bet krāsa, tad visticamāk šajā vērtībā ir rādītājs. Krāsa norāda, kāda veida atmiņas šis rādītājs attiecas.
+Tas var būt __executable__ atmiņa, __writable__ vai __read_only__. Retos gadījumos tas var būt __writable_and_executable__ atmiņa."</string>
+    <string name="executable">izpildāmā</string>
+    <string name="writable">rakstāms</string>
+    <string name="read_only">tikai lasīt</string>
+    <string name="writable_and_executable">rakstāms un izpildāms</string>
+    <string name="help_extract">Izvilkiet palīdzību</string>
+    <string name="help_extract_done">Palīdzība tiek iegūta __s__</string>
+    <string name="help_extract_fail">Iegūstot palīdzību, radās kļūda:</string>
+    <string name="try_arm_version">Mēģiniet izmantot versiju __app_name__ ar vecāku ARM procesoru atbalstu:</string>
+    <string name="back">Atpakaļ</string>
+    <string name="forward">Pārsūtīt</string>
+    <string name="no_previous">Nav iepriekšējo ierakstu</string>
+    <string name="no_next">Nākamo ierakstu nav</string>
+    <string name="from_item">No vienuma:</string>
+    <string name="from_context">Konteksta izvēlnē:</string>
+    <string name="from_boundary">No robežas</string>
+    <string name="from_goto">Zvanīt</string>
+    <string name="from_calc">No nobīdes kalkulatora:</string>
+    <string name="help_add_to_value_title">Iespēja \"__add_not_replace__\"</string>
+    <string name="help_add_to_value">"* __help_add_to_value_title__:
+Ja šī opcija ir atzīmēta, ievadītā vērtība tiks pievienota esošajai vērtībai, nevis aizstāta. Piemēram, elementa vērtība vērtības laukā ir 5 un ievadīta 7. Ja šī opcija ir atzīmēta, elements saņems jaunu vērtību 5 + 7, kas ir vienāda ar 12. Ja netiks pārbaudīts, tad 7.
+Jūs varat ievadīt gan pozitīvas, gan negatīvas vērtības.
+Šī iespēja nav savienojama ar vērtības iesaldēšanu."</string>
+    <string name="check_libs">Pārbaudiet spēļu bibliotēku arhitektūru:</string>
+    <string name="arm_libs">"Spēle ir instalēta ar ARM bibliotēkām, lai gan apk ir x86 bibliotēkas.
+Speedhack un viss, kas ar to saistīts, nedarbosies.
+\"__skip__\" izslēdz šīs pārbaudes. Varat to vēlreiz ieslēgt iestatījumos."</string>
+    <string name="manual_install">Jūs varat instalēt .apk failu manuāli. Tas atrodas šādā ceļā:</string>
+    <string name="as_text">Kā teksts (nevar ielādēt)</string>
+    <string name="as_text_help">Saglabā sarakstu teksta formātā, kas ir ērts cilvēku lasīšanai. Šī formāta ielāde netiek atbalstīta.</string>
+    <string name="help_pointer_search_title">Rādītāja meklēšana</string>
+    <string name="help_pointer_search">Meklē vērtības, kas var būt norādes uz vēlamo adresi. Jūs varat norādīt maksimālo limitu iespējamajam kompensācijai.</string>
+    <string name="all_memory">Visā atmiņā</string>
+    <string name="offset_help">Maksimālais ierobežojums iespējamai kompensācijai.</string>
+    <string name="typical_values">Tipiskas vērtības</string>
+    <string name="su_command">Superuser komanda</string>
+    <string name="starts">Sākas ar</string>
+    <string name="ends">Beidzas ar</string>
+    <string name="no_filter">Nav filtra.</string>
+    <string name="help_memory_filter_title">Filtrēšana atmiņas redaktorā</string>
+    <string name="help_memory_filter">"* __help_memory_filter_title__:
+Atmiņas redaktorā varat norādīt filtru. Tiks parādīti tikai tie rezultāti, kas atbilst filtram.
+Filtrs atbalsta aizstājējzīmes:
+\u0009__caret__ - datu sākums,
+\u0009__dollar__ - datu beigas,
+\u0009__asterisk__ - jebkurš simbolu skaits,
+\u0009__question__ - jebkura rakstzīme.
+Piemēram, lai atrastu numuru 42, jāievada __caret__42__dollar__."</string>
+    <string name="use_sh">Izmantojiet komandas apvalku</string>
+    <string name="backgrounds">Melns fons</string>
+    <string name="actions">Darbības:</string>
+    <string name="game_settings">Spēles iestatījumi:</string>
+    <string name="global_settings">Globālie iestatījumi:</string>
+    <string name="ui_settings">UI iestatījumi:</string>
+    <string name="others">Citi:</string>
+    <string name="skip_memory">Izlaist atmiņas apgabalus:</string>
+    <string name="empty_memory">Tukšs</string>
+    <string name="without_protection">bez aizsardzības</string>
+    <string name="help_games_protection_title">Kā apiet aizsardzību spēlēs</string>
+    <string name="help_games_protection">"\u0009Dažas spēles ir aprīkotas ar aizsardzību pret atmiņas redaktoriem. Jūs varat izmēģināt:
+\u00091. \"__kill_game__\" un tad \"__restart_game_without_protection__\".
+\u00092. \"__disable_protection__\" un pēc tam palaist (vai restartējiet) spēli.
+\u00093. Izmantot visus vai daļu no pozīcijas \"__hide_from_game__\". Visi no tiem palēnina meklēšanu.
+\u00094. Meklēt, kad spēle ir minimizēta.
+\u00095. Meklēt, kad spēle ir apturēta.
+\u00096. Nogalināt vai apturēt dažus spēles aizsardzības procesus, ja spēlei ir vairāki procesi.
+\u00097. Izmantojiet XPrivacy vai līdzīgus rīkus, lai apietu aizsardzību.
+\u00098. Izmantojiet spēles pārveidošanu bez aizsardzības.
+"</string>
+    <string name="disable_protection">Atspējot aizsardzību visām lietojumprogrammām (līdz atsāknēšana)</string>
+    <string name="must_restart_if">Ja lietojat spēli pirms aizsardzības atspējošanas, jums tas ir jārestartē.</string>
+    <string name="patch_loading">Notiek ielādēšanas ielāde ...</string>
+    <string name="patch_loaded">Patch ir ielādēta.</string>
+    <string name="patch_failed">Patch nav ielādēts.</string>
+    <string name="history_limit">Vēstures robeža:</string>
+    <string name="copy_as_search">Kopēt kā grupas meklēšanu</string>
+    <string name="add_types">Pievienot veidus</string>
+    <string name="add_size">Pievienojiet grupas lielumu</string>
+    <string name="copy_rhex_value">Kopējiet reversā hex vērtību:</string>
+    <string name="mips_arch">Šī lietojumprogramma neatbalsta MIPS arhitektūru.</string>
+    <string name="unrandomizer">Unrandomizer</string>
+    <string name="functions">funkcijas</string>
+    <string name="help_unrandomizer">"
+Unrandomizer ir funkcija, kas paredzēta, lai aizstātu dažas spēles, ko parasti izmanto spēlēs, lai iegūtu izlases vērtības. Ļoti vienkāršā līmenī, piemēram, var būt spēle, kas izmanto nejaušinātāja funkciju, lai noteiktu spēlētāja atalgojumu. Iespējot unrandomizer, tad __app_name__ mēģinātu nomainīt šo izlases vērtību ar norādīto vērtību, lai mainītu rezultātu (piemēram, lai iegūtu noteiktu atlīdzību).
+
+Unrandomizer nedarbosies visos gadījumos. Tā apstrādās tikai tās funkcijas, par kurām tā zina. Vairumā gadījumu un vairumam lietotāju tas netiks izmantots, jo tas ir vairāk uzlabotas / eksperimentālas funkcijas.
+
+Dažas funkcijas atgriež __type_qword__, dažas - __type_double__ (reti izmanto).
+
+__type_double__ vērtībām jābūt diapazonā no 0 līdz 1. Tomēr jūs varat norādīt jebkuru vērtību, jo __app_name__ automātiski izlabos visus nepareizos variantus.
+
+Varat arī norādīt pieauguma pakāpi. Šajā gadījumā katrs nākamais rezultāts palielinās par šo vērtību. Piemēram, pieaugumam 1 un sākotnējai vērtībai 0, nejaušās vērtības vietā tiks atgriezti 0, 1, 2, 3, ....
+Šī iespēja var būt noderīga visu iespējamo izlases rezultātu pilnīgai meklēšanai.
+
+Varat norādīt, kuras funkcijas ir jāmaina __app_name__ iestatījumos.
+"</string>
+    <string name="count_replace">Cik daudz pirmo rezultātu jāaizstāj?</string>
+    <string name="unrandomizer_loading">Notiek nepareizas ielādes ierīces ielāde ...</string>
+    <string name="unrandomizer_loaded">Unrandomizer ir ielādēta.</string>
+    <string name="warn_restart_off_prot">"Šī opcija mēģinās atsākt spēli bez aizsardzības.
+Tomēr daudzās programmaparatūras programmās ir kļūdas, kas var izraisīt ierīces atsāknēšanu.
+Ja tā notiek, nemēģiniet sākt spēli, jo tas atkal restartēs ierīci.
+Vienkārši palaidiet __app_name__ - tas notīrīs sliktos iestatījumus.
+Arī jūs varat mēģināt pārstartēt ierīci regulāri, tas arī jārisina problēma.
+
+Ja ir notikusi atsāknēšana - nelietojiet šo funkciju, tā nedarbosies uz jūsu programmaparatūras."</string>
+    <string name="warn_patch_off_prot">"Šī opcija mēģinās ielāpēt sistēmu (uz laiku), lai visas programmas darbotos bez aizsardzības.
+Izmaiņas attieksies tikai uz jaunām lietojumprogrammām. Tāpēc mērķa lietojumprogramma pēc veiksmīga plākstera ir jāatsāk.
+Lai atceltu plāksteri, vienkārši restartējiet ierīci.
+Iespējams, ka pēc šīs plākstera sistēmā būs dažādas kļūdas.
+
+Ja plāksteris ir veiksmīgs, pirms ierīces atkārtotas palaišanas nav ieteicams vēlreiz palaist šo funkciju.
+
+Ja jums ir problēmas, neizmantojiet šo funkciju."</string>
+    <string name="clear_history">Notīrīt ievades vēsturi</string>
+    <string name="clear_history_warn">Visi ieraksti, tostarp piesaistītie, tiks dzēsti.</string>
+    <string name="click_edit">Noklikšķiniet šeit, lai rediģētu</string>
+    <string name="ignore_unknown_chars">Ignorēt nezināmās rakstzīmes:</string>
+    <string name="need_root_mode">Šī funkcija prasa root piekļuvi. Pašlaik __app_name__ darbojas virtuālās vides režīmā bez root piekļuves.</string>
+    <string name="work_without_root_title">Darbs bez saknes</string>
+    <string name="work_without_root">"__app_name__ var strādāt bez saknes, izmantojot virtuālo vidi. Piemēram, izmantojot __vspace_list__ un daudzus citus.
+__app_name__ jāinstalē virtuālā vidē. Spēle ir jāuzstāda arī tur.
+Ne visas programmas funkcijas tiek atbalstītas, bet lielākajai daļai funkciju vajadzētu darboties.
+
+Jūs nevarēsiet kreka spēles, kas nav instalētas virtuālajā vidē.
+
+Pirmo __app_name__ atklāšanu, kas veic atkārtotu instalēšanu ar nejaušu pakotnes nosaukumu, nedrīkst veikt virtuālā vidē.
+Tad virtuālajā vidē un lietošanā varat pievienot __app_name__."</string>
+    <string name="help_game_not_listed_title">Kāpēc mana spēle nav procesa sarakstā?</string>
+    <string name="fractional_hint">"Reālā skaitļa \"x\" frakcionētā daļa ir pārsniegums, kas pārsniedz šī skaitļa veselu skaitli.
+Tā skaitam tā frakcionētā daļa atbilst cipariem, kas parādās pēc radix punkta.
+
+Piemēram:"</string>
+    <string name="pointer">Rādītājs:</string>
+    <string name="help_search_filter_title">Filtri meklēšanā</string>
+    <string name="help_search_filter">"Jūs varat filtrēt meklēšanas rezultātus.
+Varat norādīt:
+\u0009- adreses ierobežojumi,
+\u0009- vērtības ierobežojumi, t
+\u0009- vajadzīgie datu veidi, t
+\u0009- vēlamo skaitliskās daļas daļu,
+\u0009- vēlamo rādītāja veidu.
+Jūs varat apvienot visus filtrus.
+Varat arī atspējot vienu vai jebkuru filtru jebkurā laikā.
+
+Tomēr, ja tiek atrasts liels datu apjoms, filtri var palēnināt rezultātus.
+
+Filtrs uz skaitļa daļēju daļu var būt vai nu vienlīdzība, vai nevienlīdzība.
+Veseliem skaitļiem tipveida daļa ir nulle. Ja jums nav nepieciešami veseli skaitļu veidi, izslēdziet tos, izmantojot tipa filtru.
+
+Filtrs pēc rādītāja veida ļauj izvadīt izvadi tikai tās vērtības, kas var būt rādītājs uz vēlamo atmiņas veidu.
+Iespējamie atmiņas veidi atbilst atmiņas redaktora krāsām:
+Tas var būt __executable__ atmiņa, __writable__ vai __read_only__. Retos gadījumos tas var būt __writable_and_executable__ atmiņa.
+
+Pseido tipa \"nav rādītāja\" atbilst visiem datu veidiem, kas nevar būt norādes, kā arī tām rādītāju vērtībām, kas norāda uz nepiešķirto atmiņu."</string>
+    <string name="unmount_kill">"Atmiņas karte tika noņemta, bet __app_name__ tajā glabāja pagaidu failus. Tas noveda pie dēmona piespiedu slēgšanas.
+
+Lai to novērstu, norādiet citu ceļu uz pagaidu failiem. Piemēram, iekšējā atmiņā.
+Ir jābūt pietiekami daudz brīvas vietas."</string>
+    <string name="calls">Sistēmas zvanu režīms:</string>
+    <string name="alternative">Alternatīva</string>
+    <string name="help_calls">"Dažos programmaparatūrā, piemēram, Lenovo, alternatīvais režīms var strādāt ātrāk.
+
+Parasti šī iespēja nav jāmaina."</string>
+    <string name="help_context_title">Kontekstuāla palīdzība</string>
+    <string name="help_context">"Interfeisā daži elementi ir atzīmēti ar īpašu ikonu augšējā labajā stūrī ar simbolu __i__ aplī.
+Nospiežot vai ilgi nospiežot, uz šī elementa parādās palīdzība šajā elementā."</string>
+    <string name="waitpid_mode">__waitpid__ režīms:</string>
+    <string name="help_waitpid">"Dažās programmaparatūras sistēmās zvans __waitpid__ nedarbojas kā paredzēts. Tas parasti ir saistīts ar nepareiziem SeLinux iestatījumiem.
+Tas noved pie bezgalīgas meklēšanas __app_name__.
+Jūs varat mēģināt izmantot alternatīvu režīmu. Varbūt tas darbosies."</string>
+    <string name="microseconds_short">μs</string>
+    <string name="small_is_bad">Pārāk mazas vērtības var radīt lielu slodzi procesoram un palēnināt spēli.</string>
+    <string name="freeze_interval_help">Intervāls, caur kuru __app_name__ pārraksta spēles atmiņas vērtības.</string>
+    <string name="saved_list_update_interval_help">Intervāls, caur kuru __app_name__ atjaunina saglabātā saraksta vērtības.</string>
+    <string name="icons_size_help">"__app_name__ interfeisa ikonu lielums.
+Neattiecas uz peldošo ikonu."</string>
+    <string name="ignore_unknown_chars_help">Var palīdzēt atrisināt problēmas, kopējot ciparus no dažādām vietām, ja kopā ar cipariem tiek kopētas speciālās rakstzīmes.</string>
+    <string name="use_notification_help">"Paziņojumu izmantošana Android paziņojuma apgabalā.
+Dažās programmaparatūras programmās tas palielina programmas prioritāti un neļauj to aizvērt.
+Jūs varat arī izmantot paziņojumu, lai pārietu uz __app_name__ vai spēli, noklikšķinot uz tā.
+Tas var būt noderīgi, ja nevarat noklikšķināt uz peldošās ikonas."</string>
+    <string name="use_sound_effects_help">"Sistēma izklausās, nospiežot pogas un vienumus.
+Dažās programmaparatūras programmās skaņas izraisa __app_name__ avāriju."</string>
+    <string name="keyboard_help">Iekšējā tastatūra aizņem mazāk atmiņas, ātrāk ielādējas un ir optimizēta numuru ievadīšanai.</string>
+    <string name="allow_suggestions_help">"Ieteikumi no ārējās tastatūras.
+Dažos programmaparatūras ieteikumos __app_name__ tiek crash."</string>
+    <string name="autopause_help">Atverot __app_name__ interfeisu, spēle tiek automātiski apturēta.</string>
+    <string name="killed_by">__app_name__ tika piespiedu kārtā slēgts ar pieteikumu \"__s__\". Lai to novērstu, izdzēsiet šo lietojumprogrammu vai konfigurējiet to tā, lai tas netiktu pārtraukts __app_name__.</string>
+    <string name="killers_found">"Jūs esat instalējis lietojumprogrammas, kas var piespiedu kārtā aizvērt __app_name__:
+__s__
+Lai to novērstu, izdzēsiet tos vai konfigurējiet tos tā, lai tie nebūtu pārtraukuši __app_name__.
+
+Ja jums nav problēmu ar negaidītu __app_name__ slēgšanu, tad nav nepieciešama nekāda darbība, un jūs varat ignorēt šo ziņojumu."</string>
+    <string name="record_logcat">Ieraksts __logcat__</string>
+    <string name="record_logcat_info">"__app_name__ tiks restartēts ar ierakstu __logcat__ failā:
+\"__s__\".
+
+Lai pārtrauktu ierakstu, iziet no __app_name__.
+Pēc tam varat nosūtīt žurnāla failu uz to, kur tas ir nepieciešams."</string>
+    <string name="need_uninstall">Jums ir nepieciešams atinstalēt instalētāju, pretējā gadījumā jums būs 4 ikonas, nevis 2. Arī spēles to atklās.</string>
+    <string name="need_random_name">"__app_name__ izmanto standarta pakotnes nosaukumu. Spēles var to atklāt.
+
+Lai labotu šo - palaist __app_name__ ārpus virtuālās telpas kā parasto lietojumprogrammu.
+Pēc instalēšanas pabeigšanas pievienojiet __app_name__ kopiju ar nejaušu nosaukumu virtuālajai telpai."</string>
+    <string name="work_mode">Darba režīms</string>
+    <string name="root">sakne</string>
+    <string name="no_root">nav saknes</string>
+    <string name="how_no_root">"Jums jāinstalē virtuālās telpas lietojumprogramma. Piemēram: __vspace_list__.
+
+Ieteicams uzstādīt optimizētas versijas no oficiālās vietnes __app_name__.
+
+Tad jums ir jāpievieno __app_name__ un jūsu spēle šai virtuālajai telpai.
+
+Pēc tam jums ir jārīkojas spēle un __app_name__ virtuālajā telpā."</string>
+    <string name="eperm_error_descr_0">Iespējamie iemesli:</string>
+    <string name="eperm_error_descr_1">Aizsardzība spēlē.</string>
+    <string name="eperm_error_descr_2">Vēl viens atkļūdotājs vai krekinga ierīce ir savienota ar spēli.</string>
+    <string name="eperm_error_descr_3">Nepietiekamas atļaujas. Parasti nepareizi konfigurēta __selinux__ dēļ. Atspējot vai konfigurējot __selinux__.</string>
+    <string name="eperm_error_descr_4">Slikts kodols vai programmaparatūra. Izmēģiniet citu programmaparatūru vai citu ierīci.</string>
+    <string name="eperm_error_descr_5">Jūsu programmaparatūrā režīms \"nav saknes\" nedarbojas. Mēģiniet citu programmaparatūru vai citu ierīci vai iegūt sakni.</string>
+    <string name="ptrace_bypass_mode">Apvedceļa režīms, lai aizsargātu aizsardzību:</string>
+    <string name="mode_restore">atjaunot</string>
+    <string name="mode_nothing">nekas</string>
+    <string name="mode_freeze">iesaldēt</string>
+    <string name="ptrace_bypass_mode_help">"Norāda, ko darīt pēc aizsardzības savienojuma atspējošanas:
+\u0009__mode_restore__ - atjaunot savienojumu
+\u0009__mode_nothing__ - neko nedarīt (parasti aizsardzība pati atjauno savienojumu)
+\u0009__mode_freeze__ - iesaldēt pavedienu (tāpat kā iepriekšējās versijās)
+
+Ja atjaunojat aizsardzību vai ļaujat aizsargāt to pats, __app_name__ vērtību iesaldēšana var izraisīt aizkavēšanos pastāvīgas aizsardzības / izslēgšanas dēļ."</string>
+    <string name="slow_emulator">"Jūs izmantojat emulatoru \"__s__\". Tas ir lēns un satur kļūdas. Šī iemesla dēļ meklēšana var būt ļoti lēna.
+
+Mēs iesakām izmantot citus emulatorus:"</string>
+    <string name="text">Teksts</string>
+    <string name="show_debug_info">Rādīt atkļūdošanas informāciju</string>
+    <string name="mnt_expand">"__app_name__ ir instalēta atmiņas kartē, ko izmanto kā \"iekšējo atmiņu\".
+Tas var traucēt virtuālo telpu darbību.
+Šādā gadījumā instalējiet __app_name__ ierīces iekšējā atmiņā.
+Atmiņas karti var pārformatēt kā \"Portable storage\"."</string>
+    <string name="help_game_not_listed_root">"Lai izvēlētos to, spēlei jābūt darbībai.
+
+Ja spēle darbojas, bet tomēr tā nav sarakstā, varbūt jums ir problēmas ar sakni vai programmaparatūru.
+Izmēģiniet citu saknes vai citu programmaparatūru."</string>
+    <string name="help_game_not_listed_noroot">"Spēle ir jāaktivizē virtuālajā telpā, lai to varētu izvēlēties.
+
+Nevar izvēlēties spēli, ja tā nedarbojas virtuālajā telpā.
+
+Ja spēle darbojas virtuālajā telpā, bet tā vēl nav iekļauta sarakstā, izmēģiniet citu virtuālo telpu, citu programmaparatūru, citu ierīci vai iegūt sakni."</string>
+    <string name="daemon_killed_oom">"Dēmons tika nogalināts sistēmas trūkuma dēļ.
+
+Iestatiet \"__data_in_ram__\" uz \"__no__\".
+Ja iespējams, izmantojiet saskarnes aparatūras paātrinājumu.
+Nelietojiet lielas lietotnes.
+Atspējot visas citas neizmantotās lietotnes.
+Mēģiniet izmantot __app_name__ pēc ierīces restartēšanas."</string>
+    <string name="selected_as_search_result">Atlasīts kā meklēšanas rezultāts</string>
+    <string name="clear_results_prompt">Tas aizstās pašreizējos meklēšanas rezultātus. Turpināt?</string>
+    <string name="position_in_memory_editor">Pozīcija atmiņas redaktorā</string>
+    <string name="script_prompt_internet">"Skripts vēlas piekļūt internetam. Ja jūs atļaujat piekļuvi, skripts varēs nozagt jūsu pieteikumus, paroles, ietaupījumus un citus datus no spēles. Tāpat tā varēs nozagt citus skriptus vai lejupielādēt ierīces vīrusus.
+
+Vai ļaujiet skriptam piekļūt internetam?"</string>
+    <string name="level">Līmenis</string>
+    <string name="float_prompt">"Lai pareizi darbotos __app_name__ uz jūsu programmaparatūras, jums ir jāļauj lietot uznirstošos logus sistēmas iestatījumos __s__.
+
+Uznirstošais logs pēc noklusējuma neparādās Huawei tālruņos. Jums būs jāļauj __s__ rādīt uznirstošo logu. Lūdzu, atveriet tālruņa pārvaldnieku, pēc tam Dropzone vadību un lūdzu, pārliecinieties, vai tas ir ieslēgts, izmantojot __s__.
+
+Uznirstošais logs nerāda arī dažus Xiaomi tālruņus. Jums jādodas uz Iestatījumi -> Instalētās lietotnes -> __s__ -> Citas atļaujas -> Parādīt uznirstošo logu.
+
+Arī citos tālruņos var būt dažādas procedūras, lai ļautu lietotnēm rādīt uznirstošos logus. Visas šādas lietotnes parasti tiek ietekmētas šādā veidā, piemēram, lietojumprogramma Google tulkotājs ar funkcionalitāti Pieskarieties tulkojumam. Tādēļ varat vienkārši google \"YOUR_PHONE pieskarieties, lai tulkotu\", lai atrastu risinājumu. Piemēram, Xiaomi Redmi ierīcēm risinājums ir šāds:"</string>
+    <string name="virtual_space">Virtual Space App</string>
+    <string name="prevent_unload_help">"Novērst __app_name__ izkraušanu no atmiņas (piespiediet tuvu).
+
+Katrs nākamais līmenis ir spēcīgāks par iepriekšējo un ietver to pats.
+
+Trešais līmenis var radīt problēmas (pakarināt grauzdiņus, atsākt vai atteici) uz dažiem programmaparatūras un emulatoriem.
+
+Bez saknes tikai darbojas trešais līmenis."</string>
+    <string name="integer_type">Šis datu tips attiecas tikai uz veseliem skaitļiem un neatbalsta daļējas vērtības. Frekvences vērtībām izmantojiet __type_float__ vai __type_double__.</string>
+    <string name="without_float">Jūs varat izmantot arī __app_name__ bez peldošiem logiem:</string>
+    <string name="any_value">jebkuru vērtību</string>
+    <string name="help_group_search_any_value">Jūs varat izmantot __any__ pasūtīto grupu meklēšanā kopā ar minimālo izmēru, lai norādītu jebkura šāda veida vērtību vēlamajā pozīcijā.</string>
+    <string name="help_scripts_title">Skripti</string>
+    <string name="help_scripts">"* __help_scripts_title__:
+__app_name__ atbalsta Lua rakstīto skriptu izpildi.
+
+Meklēšanas cilnē noklikšķiniet uz izvēlnes un izvēlieties \"__execute_script__\".
+Šeit jūs varat izvēlēties izpildāmo skripta failu, skatiet esošās __app_name__ API metodes vai dodieties uz oficiālo vietni, lai lasītu palīdzību API vai lejupielādētu gatavus skriptus.
+Varat arī iegūt palīdzību no atmiņas kartes atmiņas kartē, lai to izlasītu bez interneta.
+
+Ja vēlaties rakstīt savu skriptu, jums ir nepieciešams ārējs teksta faila redaktors.
+__app_name__ neļauj rediģēt skriptus, tā izpilda tikai tos.
+
+Lasiet API palīdzību, lai iegūtu sīkāku informāciju."</string>
+    <string name="help_floating_icon_absent">Ja pēc noklikšķināšanas uz pogas \"__start__\" jūs neredzat peldošu ikonu:</string>
+    <string name="remove_all2">Noņemt visus</string>
+    <string name="debug_load">Ievietojiet visus koda slodzes</string>
+    <string name="debug_log">Pieteikties vairumam skriptu zvanu</string>
+    <string name="vspace64">"Jūs darbojāt __app_name__ virtuālajā telpā, kas atbalsta 64 bitu procesus.
+
+__app_name__ neredzēs 32 bitu procesus, kas darbojas šajā telpā.
+
+Ja vēlaties strādāt __app_name__ ar 32 bitu procesiem, instalējiet __app_name__ otro eksemplāru režīmā \"__for32__\"."</string>
+    <string name="folder_new">Jauna mape</string>
+    <string name="folder_exists">Šī mape jau pastāv</string>
+    <string name="folder_file">Ir fails ar šo nosaukumu</string>
+    <string name="folder_failed">Neizdevās izveidot mapi</string>
+    <string name="force_close">"Iepriekšējā lietotnes izslēgšana bija negaidīta.
+
+Jūs varat paaugstināt konfigurācijas līmeni \"__prevent_unload__\", lai izvairītos no tā nākotnē."</string>
+    <string name="help_force_close_title">Negaidīta izslēgšana</string>
+    <string name="install_mode">Instalēšanas režīms</string>
+    <string name="for32">Hack 32 bitu spēles 64 bitu virtuālajā telpā</string>
+    <string name="for64">64 bitu spēles 64-bitu virtuālajā telpā</string>
+    <string name="reset_ignore">Atjaunot visus ignorēt visus dialogus</string>
+    <string name="allocate_fail">Nevarēja piešķirt atmiņas lapu. Kļūda</string>
+    <string name="allocated">Piešķirtā atmiņas lapa:</string>
+    <string name="allocate_page">Piešķirt atmiņas lapu</string>
+    <string name="prot_read">Var lasīt</string>
+    <string name="prot_write">Var tikt rakstīts</string>
+    <string name="prot_exec">Var tikt izpildīts</string>
+    <string name="install_finished">"Instalācija bija veiksmīga.
+Palaist instalēto kopiju manuāli, lai tā varētu migrēt jūsu datus.
+Pēc tam uzstādītājs var tikt noņemts."</string>
+    <string name="odd_vspace">__app_name__ sākās virtuālajā telpā?</string>
+    <string name="record_script">Ieraksta skripts</string>
+    <string name="record">Ieraksts</string>
+    <string name="another_record">Notiek vēl viens ieraksts. Beidz?</string>
+    <string name="record_ended">Reģistrācija pabeigta:</string>
+    <string name="stop">Pārtraukt</string>
+    <string name="could_not_use">Nevarēja izmantot:</string>
+    <string name="not_optimized2">"Jūs izmantojat neoptimizētu virtuālās telpas versiju (\"__s__\").
+Lai labotu šo kļūdu, noņemiet neoptimizēto versiju \"__s__\" un instalējiet vienu no optimizētajām virtuālajām telpām no oficiālās vietnes __app_name__.
+Noklikšķiniet uz \"__fix_it__\", lai pārietu uz optimizēto virtuālo telpu izvēli."</string>
+    <string name="fix_path">Brīvā telpa vai norādiet citu ceļu pagaidu failiem, noklikšķinot uz \"__fix_it__\".</string>
+    <string name="deep_read">Dziļi lasīts:</string>
+    <string name="help_deep_read">"Atmiņas nolasīšana, izmantojot visas pieejamās metodes, ja to nevar lasīt.
+Var palēnināt atmiņas rādījumus."</string>
+    <string name="ptrace_fail">Neizdevās mainīt atmiņu, izmantojot ptrace.</string>
+    <string name="ptrace_fail_partially">Dažas funkcijas, ātrdarbība un viss, kas ar to saistīts, nedarbosies. Rakstīšana uz tikai lasāmu atmiņu (ieskaitot kodu) nav iespējama.</string>
+    <string name="ptrace_fail_full">Absolūtais vairākums funkciju nedarbosies.</string>
+    <string name="ptrace_fail_solve">"Tipisks iemesls ir bojāts kodols programmaparatūrā.
+Mēģiniet nomainīt programmaparatūru. Ja nesen to atjauninājāt - instalējiet iepriekšējo versiju.
+
+Ja tas nedarbojas, nomainiet ierīci."</string>
+    <string name="feature_hide_4">Šī funkcija nevar darboties, ja ceturtais vienums ir izvēlēts sadaļā \"__hide_from_game__\".</string>
+    <string name="feature_firmware">Šī funkcija nevar darboties bez ptrace, kas nedarbojas ar šo programmaparatūru.</string>
+    <string name="feature_protection">Šī funkcija nevar darboties, jo spēlē tiek nodrošināta aizsardzība.</string>
+    <string name="not_file">Ceļš nav fails:</string>
+    <string name="not_execute">Nevar izpildīt:</string>
+    <string name="check_install">Pārbaudiet, vai __app_name__ ir pareizi ievietots.</string>
+    <string name="sdcard_install">Ja __app_name__ ir instalēta ārējā atmiņā (SD karte), atgrieziet to iekšējā atmiņā</string>
+    <string name="change_address_type">Mainīt adresi / veidu</string>
+    <string name="bad_offset">Kompensācija nav __d__ vairākkārtējs.</string>
+    <string name="bad_result_address">Iegūtā adrese nav __d__ vairākkārtējs.</string>
+    <string name="correct_types">__d__ elementi mainīs tā tipu, lai labotu neiespējamo izlīdzināšanu.</string>
+    <string name="reinstall_fail">"Nevar instalēt __app_name__ ar nejaušu nosaukumu.
+
+__app_name__ var viegli noteikt ar spēlēm.
+
+Instalēšanas laikā varat ierakstīt __logcat__ un sazināties ar oficiālo palīdzības forumu.
+
+Noraidījuma iemesls:"</string>
+    <string name="empty_field">Tukšs ievades lauks: nav konvertējama numura</string>
+    <string name="need_integer">Jums ir jāizvēlas vesels skaitlis konvertēšanai.</string>
+    <string name="maps_failed">Nevarēja atvērt failu \"__maps__\".</string>
+    <string name="game_protected">Spēle ir aizsargāta.</string>
+    <string name="need_root">Nepieciešams, lai sakautu šo spēli.</string>
+    <string name="vspace_error">"Virtuālās telpas vai programmaparatūras vai ierīces problēma.
+
+Mēģiniet:
+\u0009- izmantot citu virtuālo telpu
+\u0009- izmantot citu programmaparatūru
+\u0009- iegūt sakni
+\u0009- izmantot citu ierīci"</string>
+    <string name="root_error">"Programmatūras vai saknes vai ierīces problēma.
+
+Mēģiniet:
+\u0009- izmantot citu programmaparatūru
+\u0009- izmantot citu sakni
+\u0009- izmantot citu ierīci"</string>
+    <string name="vspace_root">Izmantojiet sakni virtuālajā telpā:</string>
+    <string name="help_vspace_root">"Saknes izmantošana no virtuālās vietas var palīdzēt slēpt faktu, ka ierīcē ir __app_name__.
+
+Tas nedarbojas uz visām firmware, nevis uz visām virtuālajām telpām.
+
+Virtuālajai telpai, programmaparatūrai un saknei jāļauj strādāt ar saknēm.
+Virtuālajai telpai jāļauj instalēt lietojumprogrammas uz iekšu, neinstalējot tās sistēmā.
+
+To nevar nodrošināt ne visas virtuālās telpas.
+
+Ne visos programmaparatūrā šis režīms darbosies. Un ne ar visu sakni.
+
+Tā kā saknes tiesības tiks piešķirtas visai virtuālajai telpai, tajā nevajadzētu instalēt neko citu. Pretējā gadījumā jebkura virtuālās telpas lietojumprogramma var izmantot root tiesības ar neparedzamām sekām.
+
+Spēlei jābūt uzstādītai ārpus virtuālās telpas.
+
+__app_name__ jāinstalē tikai virtuālā telpā, neinstalējot to sistēmā.
+Kā to izdarīt - skatīt konkrētas virtuālās telpas palīdzību.
+
+Piemēram, __vexp__ varat __app_name__ klonēt no sistēmas __vexp__, un pēc tam izdzēst __app_name__ no sistēmas."</string>
+    <string name="help_games_protection_9">9. Izmantojiet sakni virtuālās telpās, kas ļauj instalēt lietojumprogrammas sev, neinstalējot sistēmā.</string>
+    <string name="locale_ui">Jūsu lokalizācijā</string>
+    <string name="locale_script">Skripti vienmēr izmanto angļu valodu</string>
+    <string name="locale_desc">"“__s__” - decimālais atdalītājs
+'__s__' - tūkstoši atdalītāju
+'__semicolon__' - numuru atdalītājs grupas meklēšanā"</string>
+    <string name="help_unaligned_title">Nepiešķirta meklēšana / lielo endian meklēšana</string>
+    <string name="help_unaligned">"Dažās lietojumprogrammās (piemēram, konsoles emulatori) atmiņā esošā vērtība var neievērot izlīdzināšanu, vai arī tā tiek rādīta lielā gala baitu secībā.
+
+Šādu vērtību nevar atrast, izmantojot parasto meklēšanu.
+
+Lai tos atrastu, izmantojiet īpašu skriptu no oficiālās tīmekļa vietnes __app_name__:"</string>
+    <string name="help_formula_calculator_title">Formulas kalkulators</string>
+    <string name="help_formula_calculator">"Gandrīz katrā skaitļu ievadīšanas laukā var ievadīt matemātisku formulu, pēc vienādības zīmes, piemēram, meklēšanas laukā ievadot “= 2 + 2 * 3”, un programma meklēs formulas rezultātu, kas ir “8”.
+Formula ir Lua izteiksme. Tajā varat izmantot visu pieejamo Lua jaudu.
+
+Visi aritmētiskie operatori Lua 5.3 ir pieņemami - saskaitīšana (+), atņemšana (-), reizināšana (*), dalīšana (/), dalījuma atlikums (%), eksponēšana (^), vesels skaitlis (//) utt.
+Pieejami arī bitu operatori - UN (&amp;), VAI (|), Ekskluzīvs VAI (binārs ~), NAV (vienots ~), Shift pa labi (>>), Shift pa kreisi (&lt;&lt;). Darbības secību var norādīt iekavās.
+Lai iegūtu pilnīgu pieejamo darbību sarakstu, izlasiet Lua rokasgrāmatu.
+
+Tas ir noderīgi, ja jūs zināt, kā spēle tiek kodēta. Piemēram, 29 kārtas vienā spēlē var atrast kā '= 29 ~ 444444'. Tas ir līdzvērtīgs 29 XOR 444444. Video paraugā cena tika atrasta no 3888 līdz XOR ar 444444, kā “= 444444 ~ 3888”. Pēc tam tika veikta nomaiņa uz '= 444444 ~ 1', kas cenu noteica uz '1'. Citā spēlē 125 zelts ir kā '= 125 * 10'.
+
+Ne visas skriptu funkcijas ir pieejamas formulu kalkulatorā. Dažas funkcijas nav pieejamas. Ja jums to nav pietiekami - uzrakstiet skriptu, tā vietā, lai izmantotu formulu kalkulatoru, tas ir paredzēts tikai vienkāršiem aprēķiniem. Pieejams: daļa no pamatfunkcijām, “bit32”, “tabula”, “virkne”, “utf8”, “math”, daļa no “os” paketes. Pakas 'atkļūdošana', 'pakete', 'gg', 'io' nav pieejamas.
+
+Rakstot '= 2 + 2 * 3', pirms formulas tiks pievienots atslēgvārds 'return': 'return 2 + 2 * 3'. Tomēr šo vārdu pats varat norādīt formulā, ja jums nepieciešama sarežģīta formula.
+Piemēram, '= a = 5; b = 7; atgriešanās a * 4 + b * 8 ”tiks izpildīta kā“ a = 5; b = 7; atgriezt a * 4 + b * 8 '
+
+Formulu kalkulatora rezultāts ir teksta virkne. Virkne var būt jebkura derīga šī ievades lauka virkne.
+Piemēram, tā var būt virkne grupas meklēšanai vai diapazona meklēšanai. '= a = 5; b = 7; atgriezt a .. \";\" .. b .. \":: 100\" 'ir ekvivalents skaitlim' 5; 7 :: 100 '.
+
+Formulu kalkulators nedarbojas skriptos, tur jūs varat tieši izmantot Lua.
+Rakstot skriptu, formulas aprēķina rezultāts tiks ierakstīts failā, nevis pašā formulā.
+
+Ja formula nav pareiza, iesniedzot veidlapu, jūs saņemsit kļūdas ziņojumu.
+
+Aprēķinot, jums jāņem vērā fakts, ka aprēķini tiek veikti tādā veidā, kādu norāda pirmais operands. Ja tas ir vesels skaitlis, tad rezultāts būs vesels skaitlis.
+Piemēram, “= 3/2” ir “1”, un “= 3,0 / 2” ir “1,5”.
+
+Neatkarīgi no izvēlētā lokalizācijas formulas darbojas angļu valodā. Tas nozīmē, ka decimālais atdalītājs vienmēr ir punkts ('.')."</string>
+    <string name="help_faq_32_b">"Divas palaišanas ikonas. Pirmais, ar programmatūras paātrinājumu - \"__app_short_name_sw__\", otrais - ar aparatūras paātrinājumu - \"__app_short_name_hw__\". Tagad tas vienmēr būs.
+Dažos firmwares darbos ir tikai viena versija.
+Labāk ir izmantot programmatūras paātrinājumu, tas darbojas mazāk gludi, bet patērē mazāk atmiņas.
+
+Varat paslēpt vienu no ikonām lietojumprogrammas iestatījumos: \"__hide_icons__\"."</string>
+    <string name="acceleration_help_">"Aparatūras vai programmatūras saskarnes paātrinājums __app_name__.
+Atkarībā no spēles un programmaparatūras dažas no iespējām var radīt problēmas.
+Ja abi darbojas, izmantojiet programmatūras paātrinājumu, jo tas patērē mazāk atmiņas.
+
+Šī opcija ir atdalīta no palaišanas ikonām un ietekmē tikai __app_name__ saskarnes displeju.
+Uzsākšanas ikonas ir atbildīgas par sākuma ekrāna paātrinājuma veidu.
+
+Aparatūras paātrinājums patērē daudz vairāk atmiņas, bet tas darbojas vienmērīgāk. Ja jums ir maz RAM, vienmēr izmantojiet programmatūras paātrinājumu.
+
+Ja aparatūras paātrinājums rada kļūdas, __app_name__ var pārslēgties uz programmatūras paātrinājumu."</string>
+    <string name="small_list_items">Mazie saraksta elementi</string>
+    <string name="small_list_items_help">Ļauj jums rādīt vairāk informācijas vienumu sarakstos, bet var būt grūtāk noklikšķināt uz vēlamā vienuma.</string>
+    <string name="format_asm_opcodes">__s__ opcodes</string>
+    <string name="no_regions">Nav atrasts neviens atbilstošs reģions.</string>
+    <string name="cannot_hide_launcher_icon">"Šī ikona tika izmantota pašreizējai palaišanai.
+
+Jūs nevarat slēpt ikonu, kas tika izmantota pašreizējai palaišanai.
+
+Lai varētu paslēpt šo ikonu, restartējiet programmu, izmantojot citu ikonu."</string>
+    <string name="screenshot">Veikt ekrānuzņēmumu</string>
+    <string name="screenshot_prompt">"Ikona tiks paslēpta __d__ sekundēm, lai jūs varētu veikt ekrānuzņēmumu.
+
+Pēc tam ikona atkal būs redzama."</string>
+    <string name="screenshot_action">Ekrānuzņēmums</string>
+    <string name="use_visible_type">Izmantojiet redzamo datu veidu atmiņas redaktorā:</string>
+    <string name="use_visible_type_help">Ja tiek parādīts tikai viens datu tips, atmiņas datu redaktorā nelūdziet datu tipu.</string>
+    <string name="wrong_float">Jūsu lokalizācijā numurs \"__s__\" izskatās kā \"__s__\". Ja tas nav nepieciešams, sākuma ekrānā izvēlieties citu lokāli (vai valodu).</string>
+    <string name="wrong_float2">__app_name__ iestatījumos varat ignorēt numuru formātu lokalizāciju.</string>
+    <string name="number_locale">Formatēšanas numuru lokalizācija:</string>
+    <string name="fill">Aizpildiet</string>
+    <string name="help_text_search">"
+Lai meklētu tekstu, parastajā meklēšanas dialoglodziņā ir jānorāda modifikatori.
+
+Visbiežāk izmantotie kodējumi ir __utf8__ un __utf16le__.
+Parasti __utf16le__ izmanto __java__, un __utf8__ lieto __c__.
+
+\u0009__utf16le__ ir divu baitu kodējums. Katra rakstzīme vienmēr tiek kodēta divos baitos, tāpēc tā tiek attēlota ar __type_word__.
+\u0009__utf8__ - kodējums ar mainīgu baitu lielumu uz rakstzīmi. Pārstāvēts ar __type_byte__.
+\u0009__hex_input__ un tā varianti vienmēr tiek attēloti ar __type_byte__.
+
+Spēle var izmantot jebkuru no kodējumiem.
+Ja jums ir nepieciešams konkrēts baitu kopums - izmantojiet __hex_input__ režīmu.
+
+Pieejamie prefiksi:
+__text_prefixes__
+
+Režīmā \"__hex_mixed__\" varat norādīt __utf8__ tekstu starp __apos__ rakstzīmēm un __utf16le__ tekstu no __quot__ rakstzīmēm.
+
+Piemēram:
+__text_examples__
+
+Prefiksa rakstzīmei jābūt pirmajai rakstzīmei meklēšanas tekstā.
+
+Meklēšanas rezultāts būs __type_byte__ secība vai __type_word__ secība gadījumam ar __utf16le__.
+
+Rezultātus var mainīt - izvēlieties visu un noklikšķiniet uz \"__edit_selected__\".
+
+Vērtības laukā ievadiet jauno vērtību tādā pašā formātā kā meklēšanas virknei.
+
+Varat izmantot aizpildīšanas pogas. Noklikšķiniet uz \"__more__\", ja tie nav redzami.
+
+Vērtība tiks iestatīta katrai nepārtraukti sekojošu vienumu grupai.
+Ja starp elementiem ir plaisa, tā būs jauna grupa.
+
+Ja norādāt vairāk baitu nekā nepieciešams, tad tiks izmantota tikai daļa no tiem.
+Ja norādāt mazāk nekā nepieciešams, pārējā grupas daļa tiks aizpildīta ar nulles baitiem.
+
+Nomainot tekstu, mēģiniet norādīt tekstu ar tādu pašu baitu skaitu kā oriģināls, lai izvairītos no problēmām.
+"</string>
+    <string name="fast_freeze">Ātra iesaldēšana:</string>
+    <string name="help_fast_freeze">"Tas darbojas daudz ātrāk nekā parasti iesaldēšana, bet ne visa atmiņa.
+
+Ja iesaldēšana nedarbojas, atspējojiet šo opciju."</string>
+    <string name="debug_disassemble">Izjaukt</string>
+    <string name="assembled">Veiksmīgi samontēts failā:</string>
+    <string name="warn_patch_off_prot2">"Ja izmantojat __magisk_hide__ - pirms plākstera uzlikšanas, to atspējojiet. Pēc plākstera veiksmīgas pielietošanas varat to ieslēgt.
+Ja tā nav, plāksteris nebūs veiksmīgs."</string>
+    <string name="help_games_protection_end">"
+Kā paslēpt __app_name__ no spēles virtuālajā telpā
+
+\u00091. Instalējiet virtuālo telpu, kas ļauj slēptu lietojumprogrammu instalēšanu, neinstalējot tās sistēmā. Piemēram, __vspace_hide__.
+\u00092. Instalējiet __app_name__ virtuālajā telpā.
+\u00093. __app_name__ ieslēdziet režīmu \"__vspace_root__\".
+\u00094. Piešķiriet saknes tiesības virtuālajai telpai. Ja nevarat piešķirt saknes tiesības - izmēģiniet citu virtuālo vietu, citas saknes tiesības, citu programmaparatūru vai mainiet ierīci.
+\u00095. Izņemiet no sistēmas __app_name__.
+\u00096. Darbs ar __app_name__ no virtuālās telpas.
+
+Lai meklēšanas laikā netiktu atklāts:
+\u0009Iestatījumā \"__hide_from_game__\" atlasiet 2., 3. un 4. vienumu.
+
+Tipisks risinājums (nepieciešama sakne, bez saknes jums neizdosies):
+\u00091. Izmantojiet sakni no virtuālās telpas. Izlasiet palīdzību iestatījumam \"__vspace_root__\".
+\u00092. Iestatījumā \"__hide_from_game__\" izmantojiet 2., 3. un 4. pozīciju.
+"</string>
+    <string name="force_close_2">Lai turpmāk no tā izvairītos, varat iestatīt “__data_in_ram__” uz “__no__”.</string>
+    <string name="script_wrote">Skripts rakstīja __s__ līdz __d__ failus.</string>
+    <string name="script_exit">Izeja</string>
+    <string name="script_interrupted">Skripts pārtraukta.</string>
+    <string name="script_error">Script kļūda</string>
+    <string name="script_oom">Pietrūkst atmiņas</string>
+    <string name="script_possible">Izskatās, ka jūs mēģināt izpildīt __s__ kā skriptu.</string>
+    <string name="script_web">mājas lapa</string>
+    <string name="script_saved_list">saglabāto sarakstu</string>
+    <string name="speedhack_no_x86">Bet šajā spēlē ir ne x86 bibliotēkas, tāpēc varbūt tas nedarbosies.</string>
+    <string name="help_faq_33_q">Īsziņas (grauzdiņi) paliek uz ekrāna, vai tumšs aplis ir redzams apakšā ekrāna, kad __app_name__ strādā. Kā salabot?</string>
+    <string name="help_faq_33_a">Izmantojot trešo līmeni \"__prevent_unload__\" uz kādu programmaparatūras noved pie tā, ka īsziņas (grauzdiņi) paliek uz ekrāna, vai tumšs aplis ir redzama (tukšs ziņojums). Ja tas notiek, nelietojiet trešo līmeni.</string>
+    <string name="invalid_header_1">Nederīga bināro skriptu galvenes.</string>
+    <string name="unknown_version">Nezināma versija.</string>
+    <string name="unknown_format">Nezināms formātā.</string>
+    <string name="unknown_endianness">Nezināms endianness.</string>
+    <string name="unknown_size_s">Nezināms izmērs __s__.</string>
+    <string name="unknown_size_instr">Nezināms izmērs instrukciju.</string>
+    <string name="unknown_size_num">Nezināms izmērs Lua numuru.</string>
+    <string name="expected_found">Paredzamā __s__ bet konstatēja __s__.</string>
+    <string name="or">vai</string>
+    <string name="invalid_header_2">Palaist skriptu vienalga?</string>
+    <string name="invalid_header_3">"Turpmākajās versijās __app_name__, šis skripts nevar darboties.
+Rakstīt par to autoram skriptu."</string>
+    <string name="skip_system_libs">Izlaist sistēmas bibliotēkas</string>
+    <string name="try_reinstall_x86">"Mēģiniet pārinstalēt spēli ar x86 bibliotēkām?
+
+Spēle var pārtraukt darba pēc tam. Ja tas notiek, pārinstalēt spēli no APK atrodas __data_app__."</string>
+    <string name="reinstall_started">Pārinstalēšanai sākās ...</string>
+    <string name="reinstall_failed">Pārinstalēšana neizdevās:</string>
+    <string name="reinstall_ended">Pārinstalēšanai pabeigta.</string>
+    <string name="help_lasm_title">Izjaukšana / montēt skripti</string>
+    <string name="help_lasm">"__app_name__ ir iebūvēts disassembler / montētājs par LLU skriptus.
+
+Jūs varat izvēlēties \"__debug_disassemble__\" opciju skripta palaišanas logu, pēc noklikšķināšanas uz \"__more__\" pogu.
+
+Iegūto __ext_lasm__ failu var rediģēt un izvēlēts skriptu palaišanas logu. Rezultātā tiks bināro __ext_lua__ failu ar veiktajām izmaiņām.
+
+Lasīt skripta API palīdzību saņemtu sīkāku informāciju.
+"</string>
+    <string name="help_hide_gg_title">Kā noslēpt __app_name__ no spēles</string>
+    <string name="changed_as_search_result">Mainīts kā meklēšanas rezultāts</string>
+    <string name="changed_not_found">Mainīts pozīcijas nav atrasts.</string>
+    <string name="too_far">Šīs vērtības nevar atrast, izmantojot grupas meklēšanu, tie ir pārāk tālu: __d__ baiti. Maksimālais attālums ir __d__ baiti.</string>
+    <string name="new_address">Jaunā adrese:</string>
+    <string name="hide_1_warn">Tu izvēlējies pirmo vienumu. Saldēšanas vērtības var izraisīt ievērojamu aizkavēšanos, kas spēlē.</string>
+    <string name="hide_4_warn">Tu izvēlējies ceturto objektu. Dažas funkcijas nedarbosies: __speedhack__, __unrandomizer__, __allocate_page__.</string>
+    <string name="asm_failed">Neizdevās atpazīt __s__ opcode:</string>
+    <string name="asm_suggestion">Vai jūs domājāt: __s__?</string>
+    <string name="copy_opcode">Kopēt __s__ opcode:</string>
+    <string name="search_nearby">Meklēt tuvumā</string>
+    <string name="before">pirms</string>
+    <string name="after">pēc</string>
+    <string name="distance">Attālums:</string>
+    <string name="nearby">Netālu no:</string>
+    <string name="need_fixer">"Problēma tika konstatēta ar šo 64-bit virtuālajā telpā.
+
+Lai salabot:
+
+1. Instalējiet __fixer__ pieteikumu. (Šajā dialogā, vai nu manuāli, pa ceļu:
+__s__
+).
+
+2. Pievienot __fixer__ uz virtuālo telpu.
+
+3. Run __fixer__ virtuālajā telpā.
+
+4. Noņemiet __fixer__.
+
+5. Restartējiet __app_name__ virtuālajā telpā."</string>
+    <string name="limit">Tikai pirmie N rezultāti:</string>
+</resources>

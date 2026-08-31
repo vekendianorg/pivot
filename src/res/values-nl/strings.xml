@@ -1,0 +1,1363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lang_code">~~~nl~~~</string>
+    <string name="front_text">Als je vragen hebt over __app_name__ of het gebruik ervan, bezoek dan onze forums op __forum__</string>
+    <string name="set_path">Tijdelijk pad</string>
+    <string name="number">Getal:</string>
+    <string name="type">type:</string>
+    <string name="name">Naam:</string>
+    <string name="reset">"Selecteer proces "</string>
+    <string name="set_range">Selecteer geheugenbereik</string>
+    <string name="search">Zoeken</string>
+    <string name="save">Opslaan</string>
+    <string name="goto1">Ga naar</string>
+    <string name="address">Adres:</string>
+    <string name="edit_all">"Alles bewerken "</string>
+    <string name="filter">Filter</string>
+    <string name="clear">Wissen</string>
+    <string name="max_show_rec">Weergeven:</string>
+    <string name="equal">Onveranderd</string>
+    <string name="inequal">Veranderd</string>
+    <string name="larger">Toegenomen</string>
+    <string name="smaller">Afgenomen</string>
+    <string name="compare_current_last">Hoe is de waarde veranderd?</string>
+    <string name="write_region_log">Schrijf regiolog</string>
+    <string name="old_version">Oude Versie</string>
+    <string name="found_old_version">Er is een oude versie van __app_name__. gevonden. Wilt u de oude versie verwijderen?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nee</string>
+    <string name="ok">"Oké "</string>
+    <string name="failed_find_package_name">Vinden van pakketnaam mislukt!</string>
+    <string name="path_for_temp_files">"Zet een pad voor tijdelijke bestanden, zoals '__sdcard__'. Dit kan mogelijk een paar honderd MB vrije opslagruimte kosten. Huidige zoekresultaten zullen verloren gaan."</string>
+    <string name="confirm">Bevestig</string>
+    <string name="cancel">Annuleren</string>
+    <string name="found_new_version">Er is een nieuwe versie gevonden __s__</string>
+    <string name="daemon_failed">Daemon runnen mislukt.</string>
+    <string name="failed_run_daemon">Daemon runnen mislukt. Is de root geïnstalleerd?</string>
+    <string name="daemon_unexpected_closed">Daemon is onverwachts gestopt. Info:</string>
+    <string name="daemon_exited">Daemon is gestopt.</string>
+    <string name="failed_load_daemon">Laden van daemon mislukt.</string>
+    <string name="is_device_rooted">Root toegang verkrijgen is mislukt.</string>
+    <string name="collect_data_to_region_log">Gestart met het verzamelen van gegevens om naar het regiogegevensbestand te schrijven ...</string>
+    <string name="log_saved">Logboek opgeslagen op __s__</string>
+    <string name="failed_save">Opslaan mislukt naar __s__</string>
+    <string name="region_log">Logboek</string>
+    <string name="apply">Toepassen</string>
+    <string name="error">Error</string>
+    <string name="load">Laden</string>
+    <string name="delete_prompt">Wil je dit item verwijderen?</string>
+    <string name="reset_search">ERROR gevonden. Reset lijst.</string>
+    <string name="unknown_error">Onbekende error</string>
+    <string name="out_of_memory">Geen geheugen meer</string>
+    <string name="bug_detected">Fout gedetecteerd</string>
+    <string name="disk_full">Disk vol</string>
+    <string name="io_error">IO fout</string>
+    <string name="game_dead">Game afgesloten</string>
+    <string name="exit">Afsluiten</string>
+    <string name="skip">Negeren</string>
+    <string name="unhandled_exception">Onbehandelde uitzondering. Stuur de onderstaande info naar het ontwikkelingsteam?</string>
+    <string name="last_run_failed">Afgelopen run mislukt</string>
+    <string name="thank_you">Dankuwel!</string>
+    <string name="no_application">Er is geen app geslecteerd.</string>
+    <string name="increments">Toevoegen:</string>
+    <string name="add_not_replace">Voeg toe aan waarde, niet vervangen</string>
+    <string name="eperm_error">Kon niet koppelen aan proces (PTRACE_ATTACH): bewerking niet toegestaan</string>
+    <string name="load_list">Laad lijst</string>
+    <string name="load_warning">Je hebt een lijst geladen die van een andere instantie van het spel is opgeslagen. Waarschijnlijk zijn alle adressen in het geheugen gewijzigd en geladen gegevens die niet overeenkomen met gegevens die eerder zijn opgeslagen. Wij raden u aan om deze te controleren.</string>
+    <string name="from">__d__ van __d__ voltooid</string>
+    <string name="count_fuzzy_equal_run">"Aantal keren uit te voeren '__fuzzy_equal__':"</string>
+    <string name="slow">Langzaam</string>
+    <string name="miui_restart">__app_name__ moet worden herstart om de beveiligingsinstellingen toe te passen.</string>
+    <string name="out_of_memory_error">Onvoldoende geheugen fout. Lijst met huidige resultaten gewist. Stel een kleinere waarde in voor het aantal resultaten dat moet worden weergegeven.</string>
+    <string name="loading">Laden...</string>
+    <string name="found_count">Gevonden: __d__</string>
+    <string name="fuzzy_equal">Waarde onveranderd</string>
+    <string name="fuzzy_inequal">Waarde veranderd</string>
+    <string name="fuzzy_larger">Waarde toegenomen</string>
+    <string name="fuzzy_smaller">Waarde afgenomen</string>
+    <string name="type_edit_limit">Voer een nummer in tussen __s__ en __s__</string>
+    <string name="number_name">Getal</string>
+    <string name="step_name">voeg toe</string>
+    <string name="number_less">"Getal '__s__' is minder dan de minmale waarde (__d__) voor dit type."</string>
+    <string name="number_greater">"Getal '__s__' is hoger dan de maximale waarde (__d__) voor dit type."</string>
+    <string name="about">Wat betreft</string>
+    <string name="owner">Eigenaar</string>
+    <string name="design">Hoofd ontwerper</string>
+    <string name="pm">Project leider</string>
+    <string name="code">Hoofd ontwikkelaar</string>
+    <string name="tech">Technische ondersteuning</string>
+    <string name="creator">Maker (afgetreden)</string>
+    <string name="for_translators">Als je wilt helpen met een vertaling, of een taal toe wilt voegen, contacteer ons dan op het forum http://gameguardian.net/forum om je vertaling toegevoegd te zien in de officiële app.</string>
+    <string name="version">Versie:</string>
+    <string name="developers">Ontwikkelaars:</string>
+    <string name="select_language">Selecteer taal</string>
+    <string name="exit_confirm">__app_name__ moet worden herstart om de wijzigingen toe te passen.</string>
+    <string name="special_thanks">Bedankt aan:</string>
+    <string name="nothing_found">Niet gevonden. Probeer opnieuw te zoeken</string>
+    <string name="try_more_ranges">U kunt ook proberen meer zoekbereiken toe te voegen in de instellingen</string>
+    <string name="try_fuzzy_search">U kunt ook proberen om naar een onbekende waarde te zoeken.</string>
+    <string name="search_hint">"Als u naar een bekende waarde wilt zoeken, drukt u op \"__search_known_value__\". 
+Als de waarde onbekend of versleuteld is, klikt u op de \"__search_unknown_value__\" om te zoeken. 
+Zoeken naar zwevende waarden op hun gehele deel kan worden uitgevoerd door het zoektype '__type_auto__' te selecteren. 
+U kunt ook een groepszoekactie gebruiken met '__semicolon__' als scheidingsteken."</string>
+    <string name="freeze">Bevriezen:</string>
+    <string name="freeze_normal">Standaard</string>
+    <string name="freeze_may_increase">Mag toenemen</string>
+    <string name="freeze_may_decrease">kan afnemen</string>
+    <string name="freeze_in_range">In bereik</string>
+    <string name="range_end_fail">"Einde beriek ('__s__') moet hoger zijn dan '__s__'"</string>
+    <string name="failed_add_window">Scherm toevoegen mislukt</string>
+    <string name="failed_remove_window">Scherm verwijderen mislukt</string>
+    <string name="system_service_stopped">De applicatie werkt niet meer goed omdat de systeem applicatie is gestopt. Probeer de app of het apparaat te herstarten.</string>
+    <string name="value_request">Voer een waarde in om naar te zoeken</string>
+    <string name="type_request">Selecteer het type data om naar te zoeken</string>
+    <string name="type_change_request">select het type data om te veranderen</string>
+    <string name="value">Waarde</string>
+    <string name="save_as">Opslaan als:</string>
+    <string name="restart">Herstart</string>
+    <string name="start">Start</string>
+    <string name="wait_daemon">Deze functie is niet beschikbaar als daemon niet draait. Wacht tot daemon is opgestart. (Bent u mogelijk vergeten om root toegang te verleren? Of is er geen root geïnstaleerd?)</string>
+    <string name="daemon_fail">Daemon draait niet</string>
+    <string name="config_icon_text">Transparantie icoon = __d__%% - verbergen __s__</string>
+    <string name="icon_hide_after">na __d__ seconden</string>
+    <string name="icon_hide_never">nooit</string>
+    <string name="keyboard">toetsenbord:</string>
+    <string name="internal">intern</string>
+    <string name="external">extern</string>
+    <string name="failed_copy_text">Kopiëren naar klembord mislukt.</string>
+    <string name="copied">Gekopïeerd</string>
+    <string name="copy_value">Waarde kopiëren:</string>
+    <string name="copy_address">Kopieer het adres:</string>
+    <string name="goto_address">Ga naar adres:</string>
+    <string name="search_unknown_value">Onbekend (fuzzy) zoekopdracht</string>
+    <string name="search_known_value">Bekend (precieze) zoekopdracht</string>
+    <string name="speedhack_hint">m de snelheid van het spel te wijzigen, druk je lang op het zwevende pictogram __app_name__.</string>
+    <string name="bad_firmware">Je firmware verhinderd het gebruik van deze functie.</string>
+    <string name="language">Taal</string>
+    <string name="acceleration">Interface versnelling:</string>
+    <string name="hardware">Hardware</string>
+    <string name="software">Software</string>
+    <string name="speedhack">snelheidhack</string>
+    <string name="data_in_ram">Data in het RAM-geheugen:</string>
+    <string name="first_mb">De eerste __d__ MB</string>
+    <string name="donate">Doneren</string>
+    <string name="speeds">snelheden</string>
+    <string name="floating_window_fail">Icoon weergeven mislukt</string>
+    <string name="check">Verificatie</string>
+    <string name="check_success">Verificatie was succesvol</string>
+    <string name="enable_draw_perm">Accepteer alstublieft de toegang op het volgende scherm</string>
+    <string name="speedhack_fail">snelheidshack voor dit proces is niet beschikbaar</string>
+    <string name="dangerous">Gevaarlijk</string>
+    <string name="difference">Verschil</string>
+    <string name="old_value">Oude waarde</string>
+    <string name="new_value">Nieuwe waarde</string>
+    <string name="mode_hacking">de waarde is versleuteld</string>
+    <string name="union">Gegroepeerd zoeken</string>
+    <string name="speedhack_open">Je kunt speedhack openen door lang op het zwevende pictogram __app_name__ te drukken.</string>
+    <string name="history">Geschiedenis</string>
+    <string name="history_empty">Geschiedenis is leeg</string>
+    <string name="allow_suggestions">Sta toetsenbord suggesties toe:</string>
+    <string name="invalid_area">groepsgrootte moet tussen de __d__ en __d__ liggen</string>
+    <string name="union_need_two_numbers">Voor gegroepeerd zoeken moeten er minstens 2 waardes zijn</string>
+    <string name="too_many_union_numbers">Te veel cijfers, meer dan:</string>
+    <string name="invalid_number">Ongeldig getal:</string>
+    <string name="input_number">invoer getaL</string>
+    <string name="number_out_of_range">"waarde '__s__' ligt buiten toegestane waarde:"</string>
+    <string name="help_floating_icon">"*Het icoon
+*Druk om interface te openen
+*Houdt ingedrukt om speedhack aan/uit te zetten
+*Het kan worden verplaatst door de slepen
+*Transparantie en verberg timer kan worden aangepast in de instellingen"</string>
+    <string name="help_exact_search">"* Exacte waarde zoeken
+1. Wissel van het spel naar __app_name__.
+2. Druk op \"__search_known_value__\" in de \"__search__\" tab 
+3. Voer de waarde in die te zien is in het spel
+4.Selecteer het gewenste datatype, of kies '__type_auto__' (als u het niet zeker bent) en andere opties (indien nodig) en klik op '__search__'.
+5. Als het zoeken klaar is worden de resultaten weergegeven in de lijst.
+6. Ga terug naar het spel, als de waarde is veranderd wissen dan weer naar __app_name__.
+7. Zoek naar de veranderde waarde
+8. Als er nog te veel resultaten zijn, herhaal stap 6 en 7
+9. Als er nog maar enkele resultaten over zijn kunt u ze aanpassen, opslaan op bevriezen."</string>
+    <string name="help_speedhack">"* Snelheidshack:
+* Tik en houd ingedrukt op het vliegende icon om de snelheidshack paneel te tonen.
+* Tik de pijlen aan beide kanten van het icon om de snelheid van de game te veranderen.
+* Tik op het huidige nummer en houd ingedrukt om de game snelheid te resetten.
+* Tik en houd ingedrukt op het vliegende icon om de snelheidshack paneel te verbergen.
+* Lijst van snelheden en timers gebruikt kan veranderd worden in de app instellingen.
+* Als de game niet reageert door dew invoer of de snelheidshack werkt niet, probeer dan de andere groene timers in __app_name__ instellingen.
+* U kunt \"__time_jump__\" gebruiken om de tijd over te slaan. u moet dan het opzoek tab selecteren en \"__time_jump__\" selecteren. u moet dan alleen nog ingeven hoeveel seconden u wilt overslaan. Het bedrag om over te slaan kan fractioneel zijn.
+"</string>
+    <string name="help_fuzzy_search">"* Fuzzy zoeken:
+1.Schakel over van een game naar __app_name__ .
+2.Tik op de \"__search_unknown_value__\" knop in de \"__search__\" tab.
+3. Selecteer de geschikte data -type, of kies \"__type_auto__\" (als je bent niet zeker) en klik op \"__search__\".
+4.. Wanneer klaar te zoeken, zoeken de resultaten zullen worden weergegeven in de lijst. 
+5.Terug naar het spel. Nadat de waarde is gewijzigd (of niet), schakelt u opnieuw over naar __app_name__ .
+6.Tik op de knop \"__search_unknown_value__\" en selecteer het type voor hoe de waarde is gewijzigd.
+7.Als er zijn te veel resultaten zijn, ga terug naar  stap naar 5.
+8. Als er nog maar een paar resultaten over zijn , kunt u proberen de waarde aan te passen, op te slaan of te bevriezen .     
+
+U  kunt de exacte wijziging van de waarde  opgeven door op de knop \"__more__\" te klikken.
+
+U  kunt een bereik  invoeren als een nauwkeurige waardeverandering :
+190__tilde__210 
+ Als u het bereik van waarden wilt wijzigen, kunt u het volgende invoeren:
+10__tilde____tilde__4000 "</string>
+    <string name="help_group_search">"* Groep zoeken: 
+1. Schakel over van een game naar __app_name__.
+2. Tik op de knop \"__search_known_value__\" op het tabblad \"__search__\". 
+3. Voer een zoekopdracht in voor zoeken in groepen. 
+Formaat: waarde 1 __semicolon__ waarde 2 __semicolon__ ... __semicolon__ waarde N __colon__ groepsgrootte
+2-__max_group__ waarden kunnen tegelijkertijd worden doorzocht. De standaard groepsgrootte is 512. De groepsgrootte moet tussen 2 en 65536
+zijn. Als u bijvoorbeeld 195 en 6543 wilt zoeken, moet u het volgende invoeren: 
+195 __semicolon__ 6543 
+Uiteraard kunt u de groepsgrootte (300) specificeren:
+195 __semicolon__ 6543 __colon__ 300 
+U kunt ook een of meer gegevenstypen instellen: 
+195__type_dword_short__ __semicolon__ 6543 
+Dit betekent dat u een __type_dword__ waarde 195 en een __type_auto__ waarde wilt zoeken die gelijk is aan 6543. 
+Mogelijke gegevenstypen zijn hetzelfde : 
+__type_byte_short__ - __type_byte__ 
+__type_word_short__ - __type_word__ 
+__type_dword_short__ - __type_dword__ 
+__type_xor_short__ - __type_xor__ 
+__type_qword_short__ - __type_qword__ 
+__type_float_short__ - __type_float__ 
+__type_double_short__ - __type_double__ 
+__type_auto_short__ - __type_auto__
+U kunt ook het nummer in de hex (little-endian) notatie schrijven: 
+__hex_example____hex__ __semicolon__ 6543 
+of in omgekeerde hex (big-endian) notatie: 
+__hex_example____rhex__ __semicolon__ 6543 
+Om extra symbolen in te voeren, gebruikt u de \"__btn_hex__\" knop op het interne toetsenbord. 
+4. Selecteer het geschikte gegevenstype of kies \"__type_auto__\" (als u niet zeker weet) om dit als standaard te gebruiken. Andere opties doen er niet toe voor dit type zoekopdracht. Klik op \"__search__\". 
+5. Wanneer u klaar bent met zoeken, wordt het zoekresultaat in de lijst weergegeven. 
+6. Terug naar het spel. Nadat de waarde is gewijzigd, schakelt u opnieuw over naar __app_name__. 
+7. Herhaal groep zoeken met de juiste wijzigingen.
+8. Herhaal stap 6 en 7 als er te veel resultaten zijn. 
+9. Als er weinig resultaten over zijn, kunt u proberen de waarde te wijzigen, op te slaan of vast te zetten. 
+
+Als u de volgorde van waarden wilt respecteren, geeft u __colon__ tweemaal op. 
+Zonder groepsgrootte: 
+195 __semicolon__ 6543 __colon____colon__ 
+Met groepsgrootte: 
+195 __semicolon__ 6543 __colon____colon__ 300 
+
+U kunt zoeken binnen het bereik van waarden: 
+190__tilde__210 __semicolon__ 6543 
+U kunt ook zoeken buiten het waardenbereik: 
+10__tilde____tilde__4000 __semicolon__ 6543
+"</string>
+    <string name="help_others">"* Anderen:
+* Voor nieuwe zoekopdrachten, u moet duidelijk de vorige zoekactie resultaten door te selecteren \"__clear__\" in het menu onder het menu -knop.
+* Om te selecteren een ander spel tik op het spel pictogram in de bovenste linker hoek.
+* Om te pauzeren / hervatten van een spel - tik op de knop onder het pictogram in de bovenste linker hoek.             * Als u overschakelen naar een spel , terwijl pauze is actief is, de volgende keer dat u opent __app_name__ , dat spel zal worden gepauzeerd automatisch.
+* Alle bevroren waarden worden automatisch toegevoegd aan de opgeslagen lijst. U kunt ze beheren via het juiste tabblad.
+* Alle invoergegevens worden opgeslagen in de lijst \"__history__\" . U kunt gebruik maken van deze door het indrukken van de geschiedenis te drukken."</string>
+    <string name="help_typical_usage">"* Typische gebruiksalgoritmen :     '
+
+
+
+1)  De  waarde  is  niet  gecodeerd  en  bekend. 
+
+   Een  typisch  geval  zou  zijn  voor  geld,  sterren,  munten,  middelen,  enz. 
+
+
+
+   Gebruik  exact  zoeken.  
+
+
+
+2)  De  waarde  is  onbekend  en / of  gecodeerd. 
+   Een  typisch  geval  van  een  onbekende  waarde  -  elke  schaal / staaf.  Voor  bijvoorbeeld  gezondheid,  mana,  nitro,  enz.  De  veranderingen  worden  waargenomen,  maar  geen  numerieke  waarden  zijn  zichtbaar. 
+
+
+   Een  typisch  geval  voor  versleutelde  waarden  zou  zijn  geld,  sterren,  munten,  enz.,  Maar  bij het  zoeken  met  1  algoritme  werkt  niet  vinden  om het even wat,  of  verandering  van de  gevonden  waarden  hoeft  niet  te leiden  tot  nummers  te veranderen  in  het  spel. 
+
+
+
+   Gebruik  fuzzy  zoeken. 
+
+
+
+
+
+3)  De  waarde  is  gecodeerd  (__mode_hacking__). 
+
+
+   Een  typisch  geval  voor  versleutelde  waarden  zou  zijn  geld,  sterren,  munten,  enz.,  Maar  bij het  zoeken  met  1  algoritme  werkt  niet  vinden  om het even wat,  of  verandering  van de  gevonden  waarden  hoeft  niet  te leiden  tot  nummers  te veranderen  in  het  spel. 
+
+
+
+   Gebruik  exact  zoeken,  maar selecteer  altijd het selectievakje \"__mode_hacking__\".      
+
+   Gevonden  resultaten  kunnen  hebben  vreemde  waarden  te wijten  aan  encryptie. 
+
+
+
+Algoritme  3  is  veel  sneller  dan de  2,  maar  dat  kan  niet  werken  voor  alle  games. 
+
+
+
+4)  De  waarde  is  niet  gecodeerd,  bekend  en  geplaatst  dichtbij  andere  bekende  waarden. 
+
+   Een  typisch  geval  zou  zijn  voor  prijs  in  winkel,  heldenstatistieken  ,  etc. 
+
+
+
+   Gebruik  groep  zoeken  voor  alle  nummers  in  één  keer.  
+"</string>
+    <string name="help_hints">"* Hints: 
+
+* Niet alle spellen kunnen worden aangepast door __app_name__. Typische voorbeeldenlijst: 
+* gegevens opgeslagen op een server (serverzijdige games) 
+* het spel heeft een permanente internetverbinding nodig 
+* netwerkspel met andere spelers 
+* u moet een server selecteren om verbinding te maken aan het begin van het spel 
+* u kunt niet gebruiken sommige dingen zonder internet 
+* -spel laadt gegevens van de server opnieuw als je iets wijzigt 
+* Waarden die worden gezien zijn niet altijd hetzelfde als de manier waarop ze worden opgeslagen. Ze kunnen anders zijn. Op het scherm zien we bijvoorbeeld 34, maar in het geheugen is de waarde 34000. 
+* Als u een waarde niet kunt wijzigen, probeert u de waarden aan te passen die van invloed zijn geweest op deze waarde. In plaats van de hoeveelheid goud te veranderen, kun je bijvoorbeeld de prijs van het ding wijzigen en het verkopen. Of koop met een negatieve prijs."</string>
+    <string name="help">Help</string>
+    <string name="help_floating_icon_title">Het icoon</string>
+    <string name="help_exact_search_title">Exact zoeken</string>
+    <string name="help_speedhack_title">Speedhack</string>
+    <string name="help_group_search_title">Gegroepeerd zoeken</string>
+    <string name="help_others_title">Anders</string>
+    <string name="help_typical_usage_title">Typisch gebruik algoritme</string>
+    <string name="help_hints_title">Hints</string>
+    <string name="value_format">Waarde formaat</string>
+    <string name="format_hex">Hex (little-endian) notatie</string>
+    <string name="format_rhex">Omgekeerde hex (big-endian) notatie</string>
+    <string name="clear_selection">Selectie wissen</string>
+    <string name="invert_selection">Selectie omdraaien</string>
+    <string name="select_all">Alles selecteren</string>
+    <string name="edit_selected">Geselecteerden aanpassen</string>
+    <string name="delete_selected">het geselecteerde verwijderen</string>
+    <string name="save_selected">Geselecteerden opslaan</string>
+    <string name="nothing_selected">Niets geselecteerd</string>
+    <string name="items_added">(__d__) toegevoegd aan de lijst met opgeslagen waardes</string>
+    <string name="no_items_for_editing">Er zijn geen waardes om aan te passen</string>
+    <string name="edit_info">Pas __s__ aan als __s__</string>
+    <string name="edit_all_info">Pas adressen __d__ aan als __s__</string>
+    <string name="autopause">Spel automatisch pauzeren</string>
+    <string name="empty_list">"U kunt er items aan toevoegen in de lijst met zoekresultaten of in de geheugeneditor. 
+Selecteer eenvoudig de gewenste elementen en kies \"__save_selected__\" in het menu. 
+Een andere methode - begin met het bewerken van een waarde en vink het selectievakje \"__save_as__\" aan. 
+Ook alle bevroren waarden worden hier automatisch toegevoegd."</string>
+    <string name="empty_save">De opgeslagen lijst is leeg. Er is niets om op te slaan.</string>
+    <string name="revert_selected">Geslecteerde omdraaien</string>
+    <string name="nothing_to_revert">Niet om om te draaien</string>
+    <string name="revert_prompt">Geselecteerde items omdraaien (__d__)?</string>
+    <string name="download">Deze app kan worden gedownload op:</string>
+    <string name="format_string">String weergave:</string>
+    <string name="forgot_h">"Bent u vergeten om '__hex__' aan het eind toe te voegen?"</string>
+    <string name="time_jump">tijd overslaan</string>
+    <string name="time_jump_hint">Voer het nummer van seconden tot sprong vooruit:</string>
+    <string name="hide_from_game">Verberg __app_name__ van de game:</string>
+    <string name="last_stats">Statistieken voor uw laatste zoekopdracht</string>
+    <string name="memory_access">toegang tot geheugen:</string>
+    <string name="normal">normaal</string>
+    <string name="extended">Uitgebreide</string>
+    <string name="experimental">experimenteel</string>
+    <string name="installing">__app_name__ voert een herinstallatie van zichzelf uit met een willekeurige naam om detectie door games uit te sluiten. Wacht.</string>
+    <string name="failed_install">Mislukt om de app te instaleren. Opnieuw proberen?</string>
+    <string name="failed_uninstall">app verwijderen mislukt. opnieuw proberen?</string>
+    <string name="download_it">download</string>
+    <string name="more">meer</string>
+    <string name="less">minder</string>
+    <string name="no_space">geen ruimte meer op u apparaat</string>
+    <string name="install_cancel_prompt">__app_name__ kan worden gedetecteerd als deze niet is geïnstalleerd. wilt u echt annuleren?</string>
+    <string name="intercept">onderscheppen</string>
+    <string name="need_restart">De doel app moet opnieuw worden opgestart om deze wijzigingen toe te passen.</string>
+    <string name="must_be_root">"Voor de werking van dit programma moet uw apparaat root hebben. 
+
+__app_name__ kan in een beperkte modus werken zonder root, via een virtuele omgeving. Bijvoorbeeld via __vspace_list__ en vele anderen. 
+Lees de hulp voor meer details. 
+Hoe een apparaat te rooten: http://www.xda-developers.com/root/"</string>
+    <string name="skip_">overslaan</string>
+    <string name="indent_for_the_status_bar">Indent UI vanaf de bovenkant van het scherm:</string>
+    <string name="start_collecting_data">Begin met het verzamelen van gegevens</string>
+    <string name="data_collecting_in_progress">Gegevens verzamelen in de vooruitgang</string>
+    <string name="copy">kopiëren</string>
+    <string name="show_logcat">logboek weergeven</string>
+    <string name="path_must_be">"Path moet zijn ten minste 2 tekens lang en begint met '/'."</string>
+    <string name="fix_it">oplossen</string>
+    <string name="change_log">verander log</string>
+    <string name="used_only_first">Gebruikt alleen de eerste __d__ items.</string>
+    <string name="need_select_more">Nodig selecteren __d__ of meer items.</string>
+    <string name="offset">offset:</string>
+    <string name="result">resultaat:</string>
+    <string name="copy_hex_value">Kopieer de hexadecimale waarde:</string>
+    <string name="goto_pointer">Ga naar de aanwijzer:</string>
+    <string name="offset_calculator">Compensatie rekenmachine</string>
+    <string name="fill_toolbar">Vul werkbalk:</string>
+    <string name="from_left">van links</string>
+    <string name="from_center">"van het midden "</string>
+    <string name="from_right">van rechts</string>
+    <string name="unit_years_short">y</string>
+    <string name="unit_days_short">d</string>
+    <string name="unit_hours_short">h</string>
+    <string name="unit_minutes_short">min</string>
+    <string name="unit_seconds_short">sec</string>
+    <string name="speed_info">__s__ in echte tijd = __s__ in spel tijd</string>
+    <string name="search_helper">Zoek helper:</string>
+    <string name="off">uit</string>
+    <string name="go_to_game">Ga terug naar het spel, als een heleboel van waarden zijn gevonden</string>
+    <string name="go_to_game_and_restore">Ga terug naar het spel, als een heleboel van waarden worden gevonden en het herstel van de search -modus op de volgende geopend</string>
+    <string name="nothing">niets</string>
+    <string name="sort">Sorteer</string>
+    <string name="sort_and_remove_duplicates">Sorteer en verwijder duplicaten</string>
+    <string name="help_basics_title">Basis informatie</string>
+    <string name="help_basics">"Nadat u de toepassing hebt gestart en op de knop \"__start__\" hebt geklikt, verschijnt er een zwevend pictogram op het scherm. Het kan naar elke locatie worden gesleept. 
+Als je kort op het pictogram tikt, wordt de hoofdinterface van de toepassing geopend, lang getikt - een paneel weergeven om de snelheid van het spel te wijzigen. 
+
+In het hoofdscherm zie je: 
+* In de linkerbovenhoek - het pictogram van het spel. Door erop te tikken, kun je een ander spel selecteren. 
+* In het midden bevinden zich bladwijzers om door de tabbladen te navigeren. Tik op de gewenste bladwijzer om het juiste tabblad weer te geven. 
+
+In totaal zijn er 4 tabbladen: instellingen, zoeken, opgeslagen lijst en de geheugeneditor. 
+* In de rechter bovenhoek van de interface is de sluitknop. Druk erop en de interface wordt verborgen en er verschijnt een zwevend pictogram op het scherm. 
+* Onderaan het scherm bevindt zich een statusbalk en het oogpictogram. Als u het oogpictogram ingedrukt houdt, wordt de interface transparant, zolang u uw vinger niet loslaat. 
+* De rest van de inhoud op het scherm is afhankelijk van het tabblad dat u gebruikt. 
+
+Op elk tabblad, behalve het tabblad Instellingen, is er een menuknop, die een verscheidenheid aan mogelijke acties bevat. Hierin vindt u de belangrijkste acties voor dit tabblad. 
+
+Het tabblad Instellingen bevat een verscheidenheid aan instellingen, hulp en informatie over de toepassing en de knop Afsluiten. 
+
+Het tabblad Zoeken bevat: 
+* Pauzeknop, de naam van het geselecteerde spel, het aantal gevonden resultaten en de knop Vernieuwen. 
+* Hieronder ziet u een paneel met pictogrammen voor snelle toegang en een menuknop. Alle pictogrammen worden in het menu gedupliceerd, dus als u de betekenis van het pictogram niet weet, kunt u dit altijd bekijken door op de menuknop (uiterst rechts) te klikken. 
+* Onder die pictogrammen wordt de lijst met zoekresultaten weergegeven. 
+
+Het tabblad Opgeslagen lijst bevat: 
+* Pauzeknop, de naam van de geselecteerde toepassing, de menuknop en de knop Vernieuwen. 
+* Onder die pictogrammen staat de lijst met opgeslagen waarden. 
+
+Geheugen-editor is vergelijkbaar met het vorige, alleen hier in plaats van een lijst met opgeslagen waarden wordt de inhoud van het geheugen weergegeven. 
+
+In alle drie de lijsten (de zoekresultaten, opgeslagen waarden en geheugeneditor) kunt u lang op de items tikken om het contextmenu weer te geven."</string>
+    <string name="daemon_killed">"Daemon is ergens door gedood. 
+Meestal kan het zijn: 
+1. Alle geheugenmoordenaars of optimizers. U moet alle killers uitschakelen of __app_name__ de witte lijst in zijn instellingen toevoegen.
+2. __daemon_killed_oom__
+3. De geheugenkaart is gedeactiveerd, terwijl __app_name__ tijdelijke bestanden erop heeft opgeslagen. Om dit te voorkomen, geeft u een ander pad op naar de tijdelijke bestanden. Bijvoorbeeld in het interne geheugen."</string>
+    <string name="bad_settings">Slechte instellingen</string>
+    <string name="freeze_lags">Met behulp van freeze waarden samen met de instelling __hide_from_game__ kan leiden tot vertraging in het spel.</string>
+    <string name="improve_translation">Deze vertaling is gemaakt door een automatische vertaler. U kunt het verbeteren van deze door het gebruik van onze collectieve vertaling service.</string>
+    <string name="freeze_interval">Vriesinterval :</string>
+    <string name="saved_list_update_interval">Opgeslagen lijst updates interval:</string>
+    <string name="milliseconds_short">ms</string>
+    <string name="disable_floating_windows">Schakel de zwevende vensters uit en start de app opnieuw</string>
+    <string name="enable_floating_windows">Schakel de zwevende vensters in en start de app opnieuw</string>
+    <string name="too_many">Te veel</string>
+    <string name="help_range_search_title">Bereik zoeken</string>
+    <string name="help_range_search">"* Bereik zoeken: 
+1. Schakel over van een game naar __app_name__.
+2. Tik op de knop \"__search_known_value__\" op het tabblad \"__search__\". 
+3. Voer een zoekbereik in, gescheiden door \"__tilde__\". Als u bijvoorbeeld wilt zoeken naar waarden van 100 tot 150, voert u het volgende in: 
+100__tilde__150 
+Als u buiten het bereik wilt zoeken, kunt u het teken \"__tilde__\" twee keer 
+opgeven : 100__tilde____tilde__150 
+U kunt ook het teken \"__not_equal__\" selecteren en het teken \"__tilde__\" eenmaal opgeven . 
+Gebruik de knop \"__btn_hex__\" op het interne toetsenbord om extra symbolen in te voeren. 
+4. Selecteer het geschikte gegevenstype of kies \"__type_auto__\" 
+5. Wanneer u klaar bent met zoeken, worden zoekresultaten in de lijst weergegeven. 
+6. Terug naar het spel. Nadat de waarde is gewijzigd, schakelt u opnieuw over naar __app_name__. 
+7. Herhaal bereik zoeken met de juiste wijzigingen. 
+8. Herhaal stap 6 en 7 als er te veel resultaten zijn. 
+9. Als er weinig resultaten over zijn, kunt u proberen de waarde te wijzigen, op te slaan of te bevriezen. 
+
+De grenzen van het bereik in de zoekresultaten. U kunt het type zoekopdracht \"__not_equal__\" selecteren om alle waarden te vinden die niet tot het bereik behoren. 
+Bij deze zoekopdracht worden alle waarden als ondertekend beschouwd."</string>
+    <string name="does_not_support">"\"__s__\"  betekent  niet  ondersteund  \"__s__\"."</string>
+    <string name="range_bounds_diff_types">Range grenzen moeten zijn het zelfde type.</string>
+    <string name="examples">voorbeelden</string>
+    <string name="rtfm">lees in help voor meer details.</string>
+    <string name="icons_size">icons grote:</string>
+    <string name="revert_and_remove">Terugzetten en verwijderen</string>
+    <string name="remove">verwijder</string>
+    <string name="ordered_group_search">"geordende groep zoekopdrachten "</string>
+    <string name="load_items">items</string>
+    <string name="load_values">waarden</string>
+    <string name="load_freeze">Bevriezen</string>
+    <string name="video_tutorials">Video tutorials en handleidingen om te hacken</string>
+    <string name="make_copy">"maak een kopie "</string>
+    <string name="video">videos</string>
+    <string name="ordered">"geordend "</string>
+    <string name="toolbars">werkbalken</string>
+    <string name="saved_list">opgeslagen lijst</string>
+    <string name="memory_editor">Geheugen- editor</string>
+    <string name="restart_game">game opnieuw opstarten</string>
+    <string name="refine">verfijnen</string>
+    <string name="internal_storage">Interne opslag</string>
+    <string name="external_storage">Externe opslag</string>
+    <string name="new_search">nieuwe zoekopdracht</string>
+    <string name="load_saved_list">Laad de opgeslagen lijst uit het bestand</string>
+    <string name="save_saved_list">Sla de opgeslagen lijst op in het bestand</string>
+    <string name="append">toevoegen</string>
+    <string name="xor_key">XOF-sleutel:</string>
+    <string name="only_memory">Alleen binnen het geheugenbereik:</string>
+    <string name="dump_memory">Geheugen dumpen</string>
+    <string name="path">Pad:</string>
+    <string name="dump_ended">Dump is geëindigd</string>
+    <string name="dump_failed">Dump is mislukt</string>
+    <string name="eperm_error_defend">Kan niet koppelen aan proces (PTRACE_ATTACH): spel is beveiligd</string>
+    <string name="reset_on_exit">Reset bij afsluiten:</string>
+    <string name="kill_game">stop de game</string>
+    <string name="kill_game_info">Het geforceerd beëindigen van een proces geeft het proces niet de gelegenheid om netjes af te sluiten en kan gegevensverlies of systeeminstabiliteit veroorzaken.</string>
+    <string name="continue_ask">Verder gaan?</string>
+    <string name="copy_memory">Geheugen kopiëren</string>
+    <string name="copy_from">kopiëren van:</string>
+    <string name="paste_to">plakken naar:</string>
+    <string name="count_bytes">optellen van bytes:</string>
+    <string name="copy_ended">Kopie geheugen beëindigd</string>
+    <string name="copy_failed">Geheugen kopiëren mislukt</string>
+    <string name="help_encrypted_search_title">Zoeken naar gecodeerde waarden</string>
+    <string name="help_encrypted_search">"* Zoeken naar gecodeerde waarden: 
+1. Schakel over van een game naar __app_name__.
+2. Tik op de knop \"__search_known_value__\" op het tabblad \"__search__\". 
+3. Voer het nummer in dat in het spel wordt weergegeven. 
+4. Selecteer het geschikte gegevenstype, of kies \"__type_auto__\" (als u niet zeker weet), andere opties (indien nodig), vink \"__mode_hacking__\" aan en klik op \"__search__\". 
+5. Wanneer u klaar bent met zoeken, worden zoekresultaten in de lijst weergegeven. 
+6. Ga terug naar het spel. Nadat de waarde is gewijzigd, schakelt u opnieuw over naar __app_name__. 
+7. Zoek naar de waarde die is gewijzigd. Selectievakje \"__mode_hacking__\" moet worden gecontroleerd. 
+8. Ga verder met stap 6 als er te veel resultaten zijn. 
+9. Als er nog maar een paar resultaten over zijn, kunt u proberen de waarde aan te passen, op te slaan of te bevriezen."</string>
+    <string name="help_faq_title">Veel Gestelde Vragen</string>
+    <string name="help_faq_1_q">Waarom kan ik geen waarde invoeren die groter is dan 99 of 60.000?</string>
+    <string name="help_faq_1_a">U hebt de waarde van __type_byte__ of __type_word__ gevonden. Zoek naar __type_dword__ om grotere waarden in te voeren.</string>
+    <string name="help_faq_2_q">Hoe te zoeken naar fractionele (__type_float__) waarden, zonder fractioneel deel van de waarde?</string>
+    <string name="help_faq_2_a">Gebruik het gegevenstype \"__type_auto__\" of zoekbereik. U kunt bijvoorbeeld voor 11.345 zoeken naar \"10__tilde__12\".</string>
+    <string name="help_faq_3_q">Ik vond de waarde en veranderde deze, maar in de game doet deze verandering niets. Ik probeer het gewoon te gebruiken, maar alles komt terug. Wat doe ik verkeerd?</string>
+    <string name="help_faq_3_a">"In sommige games zijn de waarden beveiligd of gecodeerd. Voordat de waarde wordt weergegeven, wordt de waarde gedecodeerd naar een andere variabele. Je hebt het veranderd. 
+Omdat deze waarde alleen voor weergave wordt gebruikt, heeft dit geen invloed op de spelmechanica. Gebruik de zoekopdracht naar de gecodeerde waarde of de fuzzy-zoekopdracht om de werkelijke waarde te vinden in plaats van de weergegeven waarde. 
+Soms wordt de waarde opgeslagen op de server en elke keer gesynchroniseerd. In dit geval kan het niet worden gehackt. Als het spel niet werkt zonder internet en de vorige manieren niet hebben geholpen, is dit hoogstwaarschijnlijk het geval."</string>
+    <string name="help_faq_4_q">Vindt de waarde niet in game X. Of vindt het, maar bij verandering gebeurt er niets. Of het vindt het, maar nadat het is gewijzigd, crasht het spel. Hoe weet ik wat het probleem is, is dit de beveiliging in het spel of met __app_name__?</string>
+    <string name="help_faq_4_a">"U moet een eenvoudig programma nemen dat gegarandeerd geen bescherming biedt en het uitproberen. Ik gebruik liever \"Hill Climb Racing\". De game is eenvoudig, ongecompliceerd en bevat geen verdedigingen. U kunt het hacken van geld controleren als een directe zoekopdracht op nummer en fuzzy zoeken naar verandering. 
+Als het hacken van deze eenvoudige game werkt, dan zit het in die X-game die je probeerde te hacken. Zo niet, dan zit het probleem in __app_name__. 
+Er is zelfs een eenvoudigere optie: \"Tap Counter\". Installeer het. Rennen. Probeer het aantal banden dat op het scherm wordt weergegeven te kraken. Het zou heel gemakkelijk moeten zijn. Zo niet, dan zit het probleem in __app_name__ of de instellingen. 
+Probeer een andere versie van __app_name__, probeer een beschrijving te zoeken van de fout die op het forum is ontvangen in het relevante onderwerp of op internet. In extreme gevallen kun je rondvragen op het forum."</string>
+    <string name="help_faq_5_q">Hoe zoek je naar tijd?</string>
+    <string name="help_faq_5_a">"- Probeer te zoeken als het aantal dagen, uren, minuten of seconden. Het gegevenstype kan __type_byte__, __type_word__, __type_dword__ of __type_qword__ zijn. Je kunt ook het type __type_auto__ gebruiken. 
+- Probeer te zoeken als een aantal milli- of nanoseconden. Het gegevenstype is __type_dword__ of __type_qword__. 
+- Probeer als unix timestamp de einddatum te doorzoeken. Type - __type_dword__. Het wordt beschouwd als het verschil tussen het huidige Unix-tijdstempel en het opgeslagen moment. Zoeken door de bereikzoekfunctie. 
+Als er bijvoorbeeld 30 dagen zijn geschreven, zoekt u 30 +/- 1 dag vanaf het huidige Unix-tijdstempel. Het huidige Unix-tijdstempel kan eenvoudig op internet worden bekeken."</string>
+    <string name="help_faq_6_q">Is het mogelijk om online games te hacken?</string>
+    <string name="help_faq_6_a">Het is mogelijk om de gegevens die op de client zijn opgeslagen te hacken. Alles op de server kan niet worden gehackt. In verschillende spellen kunnen verschillende manieren zijn. Zelfs binnen een game met één speler kunnen sommige gegevens zich op de server bevinden en sommige niet.</string>
+    <string name="help_faq_7_q">Waar werkt speedhack?</string>
+    <string name="help_faq_7_a">"Speedhack werkt mogelijk niet op x86-apparaten / emulators voor games die geen x86-bibliotheken hebben. 
+Ook voor een ART-omgeving werkt Speedhack niet met Java-timers. Als de game ze gebruikt en je een ART-omgeving hebt (meestal Android 5 en hoger), zal Speedhack niet werken."</string>
+    <string name="help_faq_8_q">__app_name__ als geheel werkt voor mij, maar in sommige games krijg ik de PTRACE_ATTACH-fout. Waarom en wat te doen?</string>
+    <string name="help_faq_8_a">Deze game is uitgerust met bescherming tegen foutopsporing door het type SecNeo-beveiliging. __app_name__ kan deze beveiliging niet omzeilen. Hierdoor kun je deze game niet hacken.</string>
+    <string name="help_faq_9_q">"Waarom heeft de applicatie zo'n vreemde pakketnaam? Waarom is de toepassing niet bijgewerkt, maar telkens afzonderlijk geïnstalleerd? Waarom heeft elke versie een andere pakketnaam?"</string>
+    <string name="help_faq_9_a">Om detectie door anti-cheats per pakketnaam te voorkomen.</string>
+    <string name="help_faq_10_q">In sommige games reageren de snelheden (speedhack) niet meer op klikken. Is het een spelbeveiliging of een programmafout?</string>
+    <string name="help_faq_10_a">Dit betekent dat je speedhacking de input-wachtrij-timers onderschept en sterft. Het is noodzakelijk om groene vinkjes te selecteren in de lijst met timers (in de instellingen van __app_name__), zodat dit niet gebeurt.</string>
+    <string name="help_faq_11_q">"Waarom geeft het een door komma's gescheiden lijst met fouten?"</string>
+    <string name="help_faq_11_a">Omdat het scheidingsteken van nummers een puntkomma is (\"__semicolon__\").</string>
+    <string name="help_faq_12_q">Hoe voer ik meerdere zoekopdrachten op hetzelfde moment uit?</string>
+    <string name="help_faq_12_a">Op dit moment staat de applicatie dit niet toe, maar u kunt de applicatie verschillende keren installeren en de kopieën samen uitvoeren als er voldoende geheugen en schijfruimte is.</string>
+    <string name="help_faq_13_q">Moet ik de applicatie updaten als er niets van betekenis is in de wijzigingen?</string>
+    <string name="help_faq_13_a">Het is voorgesteld. Ondersteuning is alleen voor de nieuwste versie.</string>
+    <string name="help_faq_14_q">Wat zijn de symbolen \"!\" en \"#\", vóór de procesnaam?</string>
+    <string name="help_faq_14_a">"Dit markeert de getraceerde processen. 
+\"#\" - voordat het proces betekent dat het wordt getraceerd door een ander proces. 
+\"!\" - vóór het proces wordt dit proces gevolgd door een ander proces. 
+Tracing is typisch voor debuggen of hacken. Het wordt ook gebruikt in sommige beschermingen. Meestal is een proces met een \"#\" -teken een beschermd proces."</string>
+    <string name="help_faq_15_q">Waarom voert de toepassing na de standaardinstallatie ook een eigen installatie uit, waarbij aanvragen voor rootrechten worden ingediend?</string>
+    <string name="help_faq_15_a">__app_name__ installeert zichzelf opnieuw met willekeurige gegevens om detectie door anti-cheats te voorkomen. Rootrechten zijn nodig voor \"stille\" installatie en verwijdering. Je kunt ze niet opgeven. In dit geval moet u handmatig reageren op alle verzoeken van het systeem om applicaties te installeren.</string>
+    <string name="help_faq_16_q">Wat is __pkg__? Is het een trojaan of een virus? Is het veilig om root rechten te geven voor deze app?</string>
+    <string name="help_faq_16_a">Dit is de basisnaam van het pakket __app_name__. Het verlenen van root-toegang is veilig als __app_name__ wordt gedownload van vertrouwde bronnen.</string>
+    <string name="help_faq_17_q">Waarom staat __app_name__ in de lijst met geïnstalleerde applicaties die als een willekeurige tekenset worden genoemd? Waarom heeft deze karakterverzoek root-toegang? Waarom schrijft __app_name__ tijdens het opstarten dat de root niet wordt aangeboden door __app_name__, maar door een of andere abracadabra?</string>
+    <string name="help_faq_17_a">Omdat __app_name__ dit gebruikt om zichzelf te verbergen tegen anti-cheats.</string>
+    <string name="help_faq_18_q">Waarom is __app_name__ van de laatste versies soms gedetecteerd door anti-cheats en soms niet?</string>
+    <string name="help_faq_18_a">Omdat __app_name__ verschillende dingen gebruikt om zichzelf te verbergen voor detectie door anti-cheats. Dit omvat een willekeurige pakketnaam en toepassing. Bij elke installatie zijn ze anders. Probeer __app_name__ opnieuw te installeren om te regenereren. Misschien zal na dit anti-cheat stoppen __app_name__ te zien.</string>
+    <string name="help_faq_19_q">Waarom is mijn game niet in de app lijst?</string>
+    <string name="help_faq_19_a">Omdat dit een lijst met geopende toepassingen is en uw toepassing niet actief is. Voer het uit en selecteer het in __app_name__.</string>
+    <string name="help_faq_20_q">Waarom kan java apps niet reageren op snelheidshack op aAndroid 5 en hoger?</string>
+    <string name="help_faq_20_a">Omdat Speedhack is ontworpen voor games met native bibliotheken. Uw applicatie is dat niet. En aangezien Android 5 de omgeving van ART gebruikte in plaats van Dalvik, waardoor Java-timers niet kunnen worden onderschept. Doe niks. De situatie zal in de toekomst niet veranderen.</string>
+    <string name="help_faq_21_q">Ik heb een andere speedhack / hacking-tool op Android 4 gebruikt en alles werkte. Nu zet ik __app_name__ op Android 5 en hoger, maar die methoden werken niet. Waarom?</string>
+    <string name="help_faq_21_a">"Omdat er veel dingen zijn veranderd en je hulpprogramma zou niet zomaar werken. Maak je illusies niet dat deze __app_name__ zo slecht is, maar als er een hulpprogramma was, dan uh! Zoiets bestaat niet. 
+Om dit te testen, installeer __app_name__ op Android 4 en herhaal alle dezelfde acties als in dat hulpprogramma. Als gevolg hiervan zul je slagen. Maar dit betekent niet dat deze dezelfde methoden werken op Android 5 en hoger. 
+Dit feit wordt experimenteel herhaaldelijk bevestigd."</string>
+    <string name="help_faq_22_q">Ik bekijk een videomonster / schermafbeeldingen en er zijn andere gegevens in de geheugeneditor. Waarom?</string>
+    <string name="help_faq_22_a">uitvoerformaat heeft. Druk in de geheugeneditor op het menu - selecteer \"__value_format__\" en configureer de uitvoer zoals het hoort.</string>
+    <string name="help_faq_23_q">Wanneer de waarde is bevroren, begint het spel te remmen of te vertragen. Waarom?</string>
+    <string name="help_faq_23_a">Omdat u in de __app_name__-instellingen de optie \"__hide_from_game__\" hebt ingeschakeld. Zet het uit.</string>
+    <string name="help_faq_24_q">Hoe kan ik het controleren op nieuwe versies uitschakelen wanneer ik de toepassing start?</string>
+    <string name="help_faq_24_a">Echt niet.</string>
+    <string name="help_faq_25_q">Hoe de tijd terug in de toepassing terugspoelen? Is het mogelijk om een ​​tijdsprong niet vooruit maar achteruit te maken?</string>
+    <string name="help_faq_25_a">Echt niet. Je kan niet. De tijd moet altijd toenemen, anders kan het spel crashen. In de nieuwste versies hebben we echter de mogelijkheid van een negatieve tijdsprong toegevoegd. Het resultaat kan hangen in het spel of gegevensverlies. Wees gewaarschuwd.</string>
+    <string name="help_faq_26_q">Ik zette het pictogram op en het verdween. Hoe krijg ik het terug?</string>
+    <string name="help_faq_26_a">Het pictogram wordt transparant, maar u kunt er nog steeds op klikken. Klik waar het was en wijzig de instelling via de interface.</string>
+    <string name="help_faq_27_q">Hoe zoek ik naar een waarde als deze wordt weergegeven tijdens het afronden met het spel? Bijvoorbeeld 1.85M.</string>
+    <string name="help_faq_27_a">Zoeken naar het zoekbereik. De bereiklimieten zijn afhankelijk van de afrondingsregels. Bijvoorbeeld \"1845000__tilde__1854999\" voor standaardafronding.</string>
+    <string name="help_faq_28_q">Hoe zoek ik naar een procentuele waarde? Bijvoorbeeld 123__percent__.</string>
+    <string name="help_faq_28_a">Het hangt van de implementatie af. Voor elke game kan het allemaal anders zijn. Bijvoorbeeld 123__percent__. Het kan __type_float__ of __type_double__ zijn met elke waarde. Zoals 1.23 of 123.0. Of het kan integer types zijn: __type_byte__, __type_word__, __type_dword__. Bijvoorbeeld 123 of 12300. Op uitvoer kan het op een bepaald aantal worden verdeeld. 100 of 345 of iets anders. Voor elke game kan het anders zijn. U kunt de meest voor de hand liggende gevallen proberen. Voor 123__percent__ kan het 1,23 of 123 zijn. Type - __type_auto__. Als je geluk hebt, kan het zijn wat je nodig hebt.</string>
+    <string name="help_faq_29_q">Wat als de game __app_name__ detecteert?</string>
+    <string name="help_faq_29_a">"Probeer de volgende opties (afzonderlijk of in combinatie):
+\u0009- Maak de \"__hide_from_game__\" opties. Meestal genoeg 2, 3 en 4 opties.
+\u0009- Do not de herinstallatie __app_name__ annuleren met een willekeurige naam. Dit is de eerste keer dat __app_name__ wordt buiten de virtuele ruimte lopen gedaan.
+\u0009- Gebruik XPrivacy of soortgelijke nutsbedrijven. Kijk op het internet voor hoe dit te doen.
+\u0009- Als je root-rechten hebt, gebruik wortel uit de virtuele ruimte met verborgen installatie van applicaties. Lees meer in de context hulp voor de instelling \"__vspace_root__\"."</string>
+    <string name="work_without_selinux">Schakel over naar werk zonder __selinux__ en start de app opnieuw</string>
+    <string name="work_with_selinux">Schakel over naar het werken met __selinux__ en start de app opnieuw</string>
+    <string name="file">Het dossier:</string>
+    <string name="file_not_found">Bestand niet gevonden:</string>
+    <string name="export_selected">Exporteer geselecteerd</string>
+    <string name="failed_list_dir">Kan bestandslijst niet lezen.</string>
+    <string name="change_float_type">Selecteer het type zwevende vensters</string>
+    <string name="reset_float_type">Stel het type zwevende vensters opnieuw in</string>
+    <string name="mask">Masker:</string>
+    <string name="mask_request">Voer een adres in waarnaar moet worden gezocht</string>
+    <string name="help_mask_search_title">Adres (masker) zoeken</string>
+    <string name="help_mask_search">"* Adres (masker) zoeken: 
+u kunt zoeken of filteren op adres met masker. 
+
+Een typisch voorbeeld is zoeken naar adressen die eindigen met een bekende waarde. Bijvoorbeeld op \"12E\". 
+
+De zoekparameters zijn het adres en het masker. 
+In het adres kunnen jokertekens worden gebruikt (\"__question__\"). Dit symbool betekent dat het een willekeurig teken kan zijn van \"0\" tot \"F\". 
+Een extra masker wordt gevormd vanaf het adres, dus de voorloopnullen zijn belangrijk. Dus, het zoeken naar \"0120\" en het zoeken naar \"120\" is niet hetzelfde. 
+In het eerste geval zal worden gevonden: \"00010120\", \"00020120\", \"00030120\" enzovoort. Terwijl in de tweede: \"00001120\", \"00002120\", \"00003120\" 
+
+U kunt zowel zoeken naar gelijkheid als naar de ongelijkheid die wordt aangegeven door het masker. De tweede optie kan handig zijn om onnodige waarden te elimineren. 
+
+Het adres en masker worden ingevoerd in het hexadecimale systeem en aan het einde zonder de letter \"__hex__\". 
+Het masker verkregen uit het adres kruist het masker dat u hebt ingevoerd. Dit is het resulterende zoekmasker. 
+
+De volgende voorbeelden zijn equivalent, omdat het resulterende masker dezelfde - \"FF0\" 
+__mask_example__ heeft "</string>
+    <string name="use_sound_effects">Gebruik van geluidseffecten:</string>
+    <string name="from_range">Van:</string>
+    <string name="to_range">Naar:</string>
+    <string name="resultant_mask">Resulterend masker:</string>
+    <string name="show_time_jump_panel">Tijdsprongpaneel weergeven:</string>
+    <string name="use_notification">Gebruik kennisgeving:</string>
+    <string name="show_gg">Toon __app_name__</string>
+    <string name="hide_gg">Verberg __app_name__</string>
+    <string name="time_remaining">Overgebleven tijd:</string>
+    <string name="help_fill_title">Vul (incrementeer) waarden</string>
+    <string name="help_fill">"* Vul (increment) waarden: 
+Het gebeurt vaak dat te veel waarden worden gevonden, maar ze kunnen niet worden gewijzigd vanuit het spel. 
+In dit geval komt de vulling te hulp. 
+Een typisch voorbeeld van gebruik is het zoeken naar de prijs van een artikel, met een daaropvolgende vervanging door een negatief item. 
+1. Selecteer de gewenste items. 
+2. Selecteer \"__edit_selected__\". 
+3. Druk op de knop \"__more__\" om het veld \"__increments__\" weer te geven, als dit veld niet aanwezig is. 
+4. Voer in het veld \"__increments__\" de incrementwaarde in. Gewoonlijk is dit 1. En klik \"__yes__\". 
+5. De geselecteerde items zullen nieuwe waarden ontvangen.
+6. Ga naar het spel en zie hoe de gewenste waarde is veranderd, bewegend over spelschermen. 
+7. Als de waarde niet is veranderd, dan is het gewenste element niet geselecteerd. Keer terug naar __app_name__ en gebruik de \"__delete_selected__\" -> \"__revert_and_remove__\", verwijder de geselecteerde items en retourneer ze de vorige waarde. Nu kunt u alles vanaf het begin met andere elementen proberen, als die er al zijn. 
+8. Als de waarde is gewijzigd, is het gewenste element een van de geselecteerde elementen. Onthoud de nieuwe waarde en keer terug naar __app_name__. 
+9. Zoek in de lijst met geselecteerde items naar de gewenste waarde. Maak de selectie ongedaan. Verwijder alle andere waarden, gebruik \"__delete_selected__\" -> \"__revert_and_remove__\", en geef ze de vorige waarde. 
+10.
+
+Typische fouten zijn verwijderen zonder terug te draaien. Hierna kan het spel crashen. 
+
+Als je veel waarden vindt, probeer dan kleine porties in te vullen om crashes te voorkomen.
+"</string>
+    <string name="help_hint_1">"* Als u altijd de gewenste waarden in dezelfde regio vindt (letters aan het einde van de items in de resultatenlijst), kunt u alleen deze regio's selecteren om sneller te zoeken."</string>
+    <string name="help_faq_30_q">__app_name__ zoekt heel langzaam naar waarden in de Android-emulator op de pc.</string>
+    <string name="help_faq_30_a">"Hoogstwaarschijnlijk hebt u virtualisatie uitgeschakeld in het pc-BIOS. Zet het aan. 
+__app_name__ wordt in de emulator uitgevoerd, dus de snelheid ervan hangt af van de snelheid van de emulator. 
+Als virtualisatie is ingeschakeld, maar de snelheid is nog steeds laag, controleer dan de instellingen van uw emulator of gebruik een andere emulator.
+Je kunt ook een ander hulpmiddel gebruiken - CheatEngine voor pc - het zal sneller zoeken en je veel functies geven die nooit in __app_name__ zullen zijn."</string>
+    <string name="help_speed_up_title">Hoe het zoeken te versnellen</string>
+    <string name="help_speed_up">"* Hoe het zoeken te versnellen: 
+0. Als u een Android-emulator gebruikt op een pc (BlueStacks, Droid4X, Andy, NOX, Memu, AMIDuOS, Windroy, AVD, Genymotion, Koplayer, Leapdroid etc.), controleer dan of virtualisatie (VT Technologie, Vanderpool-technologie, virtualisatietechnologie, VTx, VT-d, VMX, virtuele technologie, Intel-VT, AMD-V, SVM, IOMMU) is ingeschakeld in het pc-BIOS. 
+1. Als u veel RAM-geheugen hebt, kunt u de gegevens daar opslaan. Dit versnelt het zoeken enorm. Stel de instelling \"__data_in_ram__\" in op \"__yes__\". In een Android-emulator op een pc kan dit het zoeken vertragen. 
+2. Als u weinig RAM-geheugen hebt, worden de gegevens op de geheugenkaart opgeslagen. Gebruik een geheugenkaart met een hoge schrijf- en leessnelheid. 
+3. U kunt ook de opslag van gegevens in het interne geheugen van het apparaat specificeren, als dit sneller is dan de geheugenkaart. Stel de instelling \"__set_path__\" in op het gewenste pad. 
+4. Selecteer bij het zoeken alleen de gewenste regio's. Vermijd langzame (\"__slow__\") en gevaarlijke (\"__dangerous__\") regio's. 
+5. U kunt ook de grenzen van het geheugenbereik specificeren, voor zoeken, als u ze kent. Klik op de knop \"__more__\" in het zoekvenster en voer de limieten in. 
+6. Zoek alleen naar de gewenste soorten gegevens. Het gegevenstype \"__type_auto__\" is traag. 
+7. Schakel alle mogelijke \"__hide_from_game__\" opties uit. 
+8. Probeer \"__experimental__\" of \"__extended__\" in \"__memory_access__\" te gebruiken.
+"</string>
+    <string name="help_faq_31_q">Na een tijdje verdwijnt het symbool __app_name__.</string>
+    <string name="help_faq_31_a">"Probeer te klikken op de plaats waar het pictogram was. Als deze open __app_name__-interface, dan is het pictogram verborgen in de instellingen of heeft uw firmware bugs met weergave van het pictogram. 
+Als de interface niet wordt geopend, betekent dit dat __app_name__ uit het geheugen is verwijderd.
+Mogelijke redenen: 
+1. Er is niet voldoende RAM op het apparaat - __app_name__ gedood door het systeem. Gebruik minder RAM. Geef in __app_name__-instellingen geen opslag van gegevens op in het RAM-geheugen, stel geen groot aantal weergegeven resultaten in, ontlaad \"extra\" toepassingen uit het RAM-geheugen, gebruik \"lichtgewicht\" -analogen van toepassingen die niet kunnen worden verwijderd (bijvoorbeeld launcher ). In bijzonder slechte gevallen start je het apparaat opnieuw op voordat __app_name__ met het spel wordt uitgevoerd. Bijna alle firmware heeft altijd lek-RAM. 
+2. U hebt processmoordenaars die __app_name__ doden. 
+Schakel de killers uit of voeg __app_name__ toe aan zijn uitzonderingen. 
+Moordenaars zijn ook allerlei \"optimizers\" en \"verbeteraars\" van RAM. 
+Zie in het algemeen de beschrijving voor de software, als u niet weet, is dat de moordenaar of niet. 
+
+Voor FlyMe: __app_name__ om een ​​of andere reden nadat een paar minuten werk is verwijderd - je moet werk op de achtergrond toestaan ​​voor __app_name__ en je rootbeheerder (meestal SuperSu). 
+
+U kunt ook proberen \"__use_notification__\" in __app_name__-instellingen in te schakelen. Soms voorkomt dit het doden van __app_name__."</string>
+    <string name="quick_start_title">Snelle start</string>
+    <string name="prevent_unload">Voorkom lossen:</string>
+    <string name="hot_key">Sneltoets:</string>
+    <string name="hide">Verbergen</string>
+    <string name="execute_script">Voer het script uit</string>
+    <string name="execute">uitvoeren</string>
+    <string name="another_script">Er is nog een script aan de gang. Onderbreken?</string>
+    <string name="interrupt">Onderbreken</string>
+    <string name="script">Script:</string>
+    <string name="script_ended">Script beëindigd:</string>
+    <string name="paused">Het spel is onderbroken:</string>
+    <string name="by_pause_button">door de pauzeknop in te drukken</string>
+    <string name="by_option">"door de optie '__s__'"</string>
+    <string name="new_search_short">nieuwe</string>
+    <string name="speedhack_loading">Speedhack laden ...</string>
+    <string name="speedhack_loaded">Speedhack is geladen.</string>
+    <string name="busy_dialog_fail">Het voortgangsvenster kan niet worden weergegeven.</string>
+    <string name="site">plaats</string>
+    <string name="help_xor_search_title">XOR zoeken</string>
+    <string name="help_xor_search">"* XOR-zoekopdracht: 
+als u weet dat de waarde die u nodig hebt, is gecodeerd met een XOF-sleutel die zich altijd op dezelfde afstand van de waarde bevindt, kunt u deze modus gebruiken om te zoeken op de gedecodeerde waarde. 
+1. Schakel over van een game naar __app_name__.
+2. Tik op de knop \"__search_known_value__\" op het tabblad \"__search__\". 
+3. Voer een zoeknummer en XOR-sleutelafstand in, gescheiden door \"__mode_xor__\". Als u bijvoorbeeld wilt zoeken naar waarde 100 met een sleutel op afstand 8, voert u in: 
+100__mode_xor__8 
+Gebruik de knop \"__btn_hex__\" op het interne toetsenbord om extra symbolen in te voeren. 
+4. Selecteer het geschikte gegevenstype, of kies \"__type_auto__\" (als u niet zeker weet) en andere opties (indien nodig) en klik op \"__search__\". 
+5. Wanneer u klaar bent met zoeken, worden zoekresultaten in de lijst weergegeven. 
+6. Terug naar het spel. Nadat de waarde is gewijzigd, schakelt u opnieuw over naar __app_name__. 
+7. Herhaal XOR-zoekopdracht met de juiste wijzigingen. 
+8. Herhaal stap 6 en 7 als er te veel resultaten zijn. 
+9. Als er weinig resultaten over zijn, kunt u proberen de waarde te wijzigen, op te slaan of vast te zetten. 
+
+U kunt XOR-zoekopdracht gebruiken met zoeken op bereik. Bijvoorbeeld \"100__tilde__150__mode_xor__8\". 
+Meestal is zoeken met XOR langzamer dan bij normaal zoeken naar nummers. 
+Deze modus wordt niet ondersteund in de groepszoekactie of in de gecodeerde zoekopdracht. 
+De afstand moet van 1 tot en met 4096 zijn. 
+U kunt de afstand in hex-vorm invoeren met het symbool __hex__ aan het einde: \"100__tilde__150__mode_xor__10h\". 
+Afstand moet respecteren voor uitlijning van waarden. Dword moet bijvoorbeeld worden uitgelijnd op een begrenzing van 4 bytes. Deze gemiddelde zoekopdracht \"40__mode_xor__7\" is nutteloos voor dword omdat 7 niet kan delen naar 4. 
+Combineer deze modus met een andere kan problemen veroorzaken met de slechte firmware. Als u bijvoorbeeld de gebruikelijke zoekopdracht uitvoert en daarna verfijnd in de XOR-modus, kan dit ertoe leiden dat uw apparaat wordt vastgehouden of opnieuw wordt opgestart. Dit mag niet gebeuren als de eerste zoekopdracht in deze modus zal plaatsvinden. 
+Een fuzzy search van deze modus wordt niet ondersteund. Je kunt het combineren, maar werkt vaag zoals gewoonlijk en respecteert je XOR-sleutel niet met afstand. 
+Het teken voor waarden wordt gerespecteerd. Het betekent dat je kunt zoeken naar waarden die niet gelijk, groter, kleiner enzovoort zijn. 
+Bij deze zoekopdracht worden alle waarden als ondertekend beschouwd."</string>
+    <string name="help_faq_32_q">Wat is het verschil met de HW / SW-versies? En welke moet ik gebruiken?</string>
+    <string name="try_latest">Misschien heeft dit script de nieuwste versie van __app_name__ nodig. Probeer bij te werken naar de nieuwste versie.</string>
+    <string name="help_string_search_title">Tekst (string, HEX, AoB) zoeken</string>
+    <string name="download_scripts">Scripts downloaden</string>
+    <string name="hide_icons">Verberg opstartpictogrammen</string>
+    <string name="select_mode">Selecteer modus</string>
+    <string name="mode_string">Tekst</string>
+    <string name="mode_mixed">Gemengd</string>
+    <string name="string_search_prompt">Voer een te zoeken tekst in, tot __d__ bytes lang. Bijvoorbeeld</string>
+    <string name="string_empty">U moet een tekst invoeren.</string>
+    <string name="string_not_found">De tekst \"__s__\" is niet gevonden.</string>
+    <string name="string_found">Gevonden __d__-overeenkomsten voor de tekst \"__s__\".</string>
+    <string name="string_replace">Wil je ze vervangen?</string>
+    <string name="string_replace_prompt">Voer de tekst in om \"__s__\" te vervangen. De lengte is niet meer dan __d__ bytes.</string>
+    <string name="string_replaced">Vervangen \"__s__\" naar \"__s__\" in __d__ plaatsen.</string>
+    <string name="need_allow_background">Op deze firmware moet u __app_name__ op de achtergrond toestaan ​​in de systeeminstellingen.</string>
+    <string name="calculate_offset_xor">Bereken offset, XOR</string>
+    <string name="select_copy_item">Selecteer een item om te kopiëren:</string>
+    <string name="landscape">Landschap</string>
+    <string name="portrait">Portret</string>
+    <string name="toolbar_buttons">Werkbalkknoppen</string>
+    <string name="need_update_to">U hebt een nieuwere versie van __app_name__ nodig om dit script uit te voeren. Ten minste versie __s__. Je hebt versie __s__.</string>
+    <string name="default_mark">standaard</string>
+    <string name="default_">Standaard:</string>
+    <string name="reset_button">Reset</string>
+    <string name="help_hex_colors_title">Kleuren in de geheugeneditor</string>
+    <string name="help_hex_colors">"* __help_hex_colors_title__: 
+Als de hex-weergave niet wit is, maar de kleur, is de aanwijzer hoogst waarschijnlijk in deze waarde. De kleur geeft aan naar welk type geheugen deze wijzer verwijst. 
+Dit kan __executable__-geheugen, __writable__ of __read_only__ zijn. In zeldzame gevallen kan het __writable_and_executable__-geheugen zijn."</string>
+    <string name="executable">uitvoerbaar</string>
+    <string name="writable">beschrijfbaar</string>
+    <string name="read_only">alleen lezen</string>
+    <string name="writable_and_executable">beschrijfbaar en uitvoerbaar</string>
+    <string name="help_extract">Pak de hulp uit</string>
+    <string name="help_extract_done">De hulp wordt geëxtraheerd naar __s__</string>
+    <string name="help_extract_fail">Er is een fout opgetreden bij het uitpakken van de hulp:</string>
+    <string name="try_arm_version">Probeer de versie van __app_name__ te gebruiken met ondersteuning voor oudere ARM-processors:</string>
+    <string name="back">Terug</string>
+    <string name="forward">Vooruit</string>
+    <string name="no_previous">Geen eerdere invoer</string>
+    <string name="no_next">Geen volgende items</string>
+    <string name="from_item">Van het item:</string>
+    <string name="from_context">Vanuit het contextmenu:</string>
+    <string name="from_boundary">Van de grens</string>
+    <string name="from_goto">Ga naar goto</string>
+    <string name="from_calc">Van de offsetcalculator:</string>
+    <string name="help_add_to_value_title">Optie \"__add_not_replace__\"</string>
+    <string name="help_add_to_value">"* __help_add_to_value_title__: 
+als deze optie is aangevinkt, wordt de ingevoerde waarde toegevoegd aan de bestaande waarde en niet vervangen. Het element heeft bijvoorbeeld een waarde van 5 en u hebt 7 ingevoerd in het waardeveld. Als deze optie is aangevinkt, krijgt het element een nieuwe waarde van 5 + 7, gelijk aan 12. Indien niet aangevinkt, dan 7. 
+U kunt zowel positieve als negatieve waarden invoeren. 
+Deze optie is niet compatibel met het bevriezen van de waarde."</string>
+    <string name="check_libs">Controleer de architectuur van de spelbibliotheken:</string>
+    <string name="arm_libs">"De game is geïnstalleerd met ARM-bibliotheken, hoewel er in apk x86-bibliotheken zijn. 
+Speedhack en alles wat daarmee samenhangt, zal niet werken. 
+\"__skip__\" schakelt deze controles uit. U kunt het weer inschakelen in de instellingen."</string>
+    <string name="manual_install">U kunt het .apk-bestand handmatig installeren. Het bevindt zich op het volgende pad:</string>
+    <string name="as_text">Als tekst (kan niet worden geladen)</string>
+    <string name="as_text_help">Slaat de lijst op in tekstformaat, handig voor lezen door mensen. Het laden van dit formaat wordt niet ondersteund.</string>
+    <string name="help_pointer_search_title">Aanwijzer zoeken</string>
+    <string name="help_pointer_search">Zoekt naar waarden die naar het gewenste adres kunnen verwijzen. U kunt een maximumlimiet voor een mogelijke offset opgeven.</string>
+    <string name="all_memory">In alle geheugen</string>
+    <string name="offset_help">De maximale limiet voor een mogelijke offset.</string>
+    <string name="typical_values">Typische waarden</string>
+    <string name="su_command">Superuser-opdracht</string>
+    <string name="starts">Begint met</string>
+    <string name="ends">Eindigt met</string>
+    <string name="no_filter">Geen filter.</string>
+    <string name="help_memory_filter_title">Filteren in de geheugeneditor</string>
+    <string name="help_memory_filter">"* __help_memory_filter_title__: 
+u kunt een filter opgeven in de geheugeneditor. Alleen de resultaten die overeenkomen met het filter, worden weergegeven. 
+Het filter ondersteunt jokertekens: 
+__caret__ - het begin van de gegevens, 
+__dollar__ - het einde van de gegevens, 
+__asterisk__ - een willekeurig aantal tekens, 
+__question__ - elk willekeurig teken. 
+Als u bijvoorbeeld nummer 42 wilt vinden, moet u __caret__42__dollar__ invoeren."</string>
+    <string name="use_sh">Gebruik de opdrachtshell</string>
+    <string name="backgrounds">Zwarte achtergrond</string>
+    <string name="actions">acties:</string>
+    <string name="game_settings">Instellingen voor de game:</string>
+    <string name="global_settings">Algemene instellingen:</string>
+    <string name="ui_settings">UI-instellingen:</string>
+    <string name="others">anderen:</string>
+    <string name="skip_memory">Geheugengebieden overslaan:</string>
+    <string name="empty_memory">Leeg</string>
+    <string name="without_protection">zonder bescherming</string>
+    <string name="help_games_protection_title">Hoe kom je aan beveiliging in games</string>
+    <string name="help_games_protection">"Sommige spellen zijn uitgerust met bescherming tegen geheugeneditors. U kunt het volgende proberen: 
+1. \"__kill_game__\", en dan \"__restart_game_without_protection__\". 
+2. \"__disable_protection__\", en voer dan het spel uit (of herstart). 
+3. Gebruik alle of een deel van de items in \"__hide_from_game__\". Ze vertragen allemaal de zoekopdracht. 
+4. Zoek wanneer het spel geminimaliseerd is. 
+5. Zoek wanneer het spel is gepauzeerd. 
+6. Dood of onderbreek een aantal van de beschermende processen van het spel, als het spel meerdere processen heeft. 
+7. Gebruik XPrivacy of soortgelijke hulpmiddelen om de bescherming te omzeilen. 
+8. Gebruik de aanpassing van het spel zonder bescherming."</string>
+    <string name="disable_protection">Schakel beveiliging voor alle applicaties uit (tot reboot)</string>
+    <string name="must_restart_if">Als u het spel uitvoert voordat u de beveiliging uitschakelt, moet u het opnieuw opstarten.</string>
+    <string name="patch_loading">Patch laden ...</string>
+    <string name="patch_loaded">Patch is geladen.</string>
+    <string name="patch_failed">Patch is niet geladen.</string>
+    <string name="history_limit">Beperking van de geschiedenis:</string>
+    <string name="copy_as_search">Kopiëren als groepszoekactie</string>
+    <string name="add_types">Voeg typen toe</string>
+    <string name="add_size">Groepsgrootte toevoegen</string>
+    <string name="copy_rhex_value">Kopieer de omgekeerde hexadecimale waarde:</string>
+    <string name="mips_arch">Deze applicatie ondersteunt de MIPS architectuur niet.</string>
+    <string name="unrandomizer">Unrandomizer</string>
+    <string name="functions">functies</string>
+    <string name="help_unrandomizer">"De unrandomizer is een functie die is ontworpen om bepaalde functies te vervangen die vaak in games worden gebruikt om willekeurige waarden te produceren. Op een heel eenvoudig niveau kan er bijvoorbeeld een spel zijn dat een randomizerfunctie gebruikt om de beloning van de speler te bepalen. Als u de unrandomizer inschakelt, zou __app_name__ deze willekeurige waarde proberen te vervangen door de opgegeven waarde om het resultaat te wijzigen (bijvoorbeeld om een ​​bepaalde beloning te krijgen). 
+De unrandomizer werkt niet in alle gevallen. Het zal alleen functies behandelen waarvan het weet. In de meeste gevallen en voor de meeste gebruikers zal dit niet worden gebruikt, omdat het meer een geavanceerde / experimentele functie is.
+Sommige functies retourneren __type_qword__, some - __type_double__ (wordt zelden gebruikt).
+__type_double__-waarden moeten in het bereik van 0 tot 1 liggen. U kunt echter alle waarden daar opgeven, omdat __app_name__ alle onjuiste varianten automatisch zal corrigeren. 
+U kunt ook een incrementstap opgeven. In dit geval neemt elk volgend resultaat met deze waarde toe. Voor increment 1 en de beginwaarde 0 worden bijvoorbeeld in plaats van een willekeurige waarde 0, 1, 2, 3, ... geretourneerd. 
+Deze optie kan handig zijn voor een complete zoekactie naar alle mogelijke willekeurige resultaten. 
+U kunt opgeven welke functies moeten worden gewijzigd in de instellingen __app_name__."</string>
+    <string name="count_replace">Hoeveel eerste resultaten moeten worden vervangen?</string>
+    <string name="unrandomizer_loading">Onrandomizer laden ...</string>
+    <string name="unrandomizer_loaded">Unrandomizer is geladen.</string>
+    <string name="warn_restart_off_prot">"Deze optie probeert het spel opnieuw te starten zonder bescherming. 
+Veel firmware bevat echter fouten waardoor het apparaat opnieuw kan worden opgestart. 
+Als dit gebeurt, probeer de game dan niet opnieuw te starten, omdat dit het apparaat opnieuw zal starten. 
+Gewoon __app_name__ uitvoeren - het zal de slechte instellingen wissen. 
+Ook kunt u proberen het apparaat op een normale manier opnieuw op te starten, ook dit zou het probleem moeten oplossen. 
+
+Als het opnieuw opstarten is opgetreden - gebruik deze functie niet, het zal niet werken op uw firmware."</string>
+    <string name="warn_patch_off_prot">"Deze optie probeert het systeem (tijdelijk) te patchen, zodat alle toepassingen zonder bescherming worden uitgevoerd. 
+De wijzigingen zijn alleen van toepassing op het starten van nieuwe applicaties. Daarom moet de doeltoepassing na een succesvolle patch opnieuw worden gestart. 
+Als u de patch wilt annuleren, start u het apparaat opnieuw op. 
+Misschien zullen er na deze patch verschillende fouten in het systeem voorkomen. 
+
+Als de patch succesvol is, wordt het niet aanbevolen om deze functie opnieuw uit te voeren voordat u het apparaat opnieuw opstart. 
+
+Gebruik deze functie niet als u problemen ondervindt."</string>
+    <string name="clear_history">verwijder ingevoeg geschiedenis</string>
+    <string name="clear_history_warn">Alle items, inclusief vastgezet, worden verwijderd.</string>
+    <string name="click_edit">Klik hier om te bewerken</string>
+    <string name="ignore_unknown_chars">Negeer onbekende tekens:</string>
+    <string name="need_root_mode">Voor deze functie is root-toegang vereist. Momenteel wordt __app_name__ uitgevoerd in een virtuele omgevingsmodus zonder roottoegang.</string>
+    <string name="work_without_root_title">Werkt zonder root</string>
+    <string name="work_without_root">"__app_name__ kan zonder root werken, via een virtuele omgeving. Bijvoorbeeld via __vspace_list__ en vele anderen. 
+__app_name__ moet in een virtuele omgeving worden geïnstalleerd. De game moet daar ook worden geïnstalleerd. 
+Niet alle functies van het programma worden ondersteund, maar de meeste functies zouden moeten werken. 
+Je zult geen spellen kunnen kraken die niet zijn geïnstalleerd in een virtuele omgeving. 
+De eerste lancering van __app_name__, die een herinstallatie uitvoert met een willekeurige pakketnaam, mag niet worden uitgevoerd via een virtuele omgeving. 
+Vervolgens kunt u __app_name__ aan de virtuele omgeving toevoegen en gebruiken."</string>
+    <string name="help_game_not_listed_title">Waarom staat mijn spel niet in de lijst met processen?</string>
+    <string name="fractional_hint">"Het fractionele deel van een reëel getal \"x\" is het overschot dat het gehele deel van dat getal overschrijdt. 
+Voor een getal correspondeert het fractionele deel dus met de cijfers die verschijnen na het punt van de radix. 
+
+Bijvoorbeeld:"</string>
+    <string name="pointer">Wijzer:</string>
+    <string name="help_search_filter_title">Filters zoeken</string>
+    <string name="help_search_filter">"U kunt de zoekresultaten filteren. 
+U kunt het volgende opgeven: 
+- de limieten voor het adres, 
+- de limieten voor de waarde, 
+- de vereiste gegevenstypen, 
+- het gewenste deel van het getal, 
+- het gewenste type aanwijzer. 
+U kunt alle filters met elkaar combineren. 
+U kunt op elk moment een of een van de filters uitschakelen. 
+
+Als echter een grote hoeveelheid gegevens wordt gevonden, kunnen de filters de resultaten vertragen. 
+
+Een filter op het fractionele deel van een getal kan door gelijkheid of door ongelijkheid zijn. 
+Voor integer-typen is het fractionele deel nul. Als u geen integer-typen nodig hebt, sluit u ze uit met behulp van een typefilter. 
+
+Met filter op aanwijzertype kunt u in de uitvoer alleen die waarden achterlaten die een verwijzing kunnen zijn naar het gewenste type geheugen.  
+Mogelijke geheugentypen komen overeen met de kleuren in de geheugeneditor: 
+dit kan __executable__-geheugen, __writable__ of __read_only__ zijn. In zeldzame gevallen kan het __writable_and_executable__-geheugen zijn. 
+
+Het \"geen aanwijzer\" van het pseudo-type komt overeen met alle typen gegevens die geen aanwijzers kunnen zijn, en ook met die waarden van wijzers die verwijzen naar niet-toegewezen geheugen."</string>
+    <string name="unmount_kill">"De geheugenkaart is gedeactiveerd, terwijl __app_name__ tijdelijke bestanden heeft opgeslagen. Dit leidde tot de gedwongen sluiting van de daemon. 
+
+Om dit te voorkomen, geeft u een ander pad op naar de tijdelijke bestanden. Bijvoorbeeld in het interne geheugen. 
+Er moet voldoende vrije ruimte zijn."</string>
+    <string name="calls">Systeemoproepmodus:</string>
+    <string name="alternative">Alternatief</string>
+    <string name="help_calls">"Op sommige firmware, bijvoorbeeld Lenovo, kan de alternatieve modus sneller werken. 
+
+Normaal gesproken hoeft u deze optie niet te wijzigen."</string>
+    <string name="help_context_title">Contextuele hulp</string>
+    <string name="help_context">"In de interface zijn sommige elementen gemarkeerd met een speciaal pictogram, rechtsboven, met het symbool __i__ in de cirkel. 
+Door op dit element te drukken of lang op dit element te drukken, wordt hulp weergegeven voor dit element."</string>
+    <string name="waitpid_mode">__waitpid__ mode:</string>
+    <string name="help_waitpid">"Bij sommige firmware werkt de __waitpid__-systeemaanroep niet zoals verwacht. Dit is meestal te wijten aan onjuiste SeLinux-instellingen. 
+Dit leidt tot een eindeloze zoekactie in __app_name__. 
+U kunt proberen een alternatieve modus te gebruiken. Misschien werkt dit."</string>
+    <string name="microseconds_short">μs</string>
+    <string name="small_is_bad">Te kleine waarden kunnen de processor zwaar belasten en vertragen in het spel.</string>
+    <string name="freeze_interval_help">Het interval waarmee __app_name__ de waarden in het spelgeheugen overschrijft.</string>
+    <string name="saved_list_update_interval_help">Het interval waarmee __app_name__ de waarden in de opgeslagen lijst bijwerkt.</string>
+    <string name="icons_size_help">"De grootte van de pictogrammen in de interface __app_name__. 
+Is niet van toepassing op een zwevend pictogram."</string>
+    <string name="ignore_unknown_chars_help">Kan helpen bij het oplossen van problemen bij het kopiëren van nummers van verschillende plaatsen, als speciale tekens worden gekopieerd samen met de cijfers.</string>
+    <string name="use_notification_help">"Gebruik van meldingen in het systeemvak van Android. 
+Bij sommige firmware verhoogt dit de prioriteit van de toepassing en voorkomt deze dat deze wordt gesloten. 
+Je kunt ook de melding gebruiken om naar __app_name__ of het spel te gaan door erop te klikken. 
+Dit kan handig zijn als u niet op het zwevende pictogram kunt klikken."</string>
+    <string name="use_sound_effects_help">"Systeem klinkt wanneer u op knoppen en items drukt. 
+Op sommige firmware veroorzaken geluiden de __app_name__ om te crashen."</string>
+    <string name="keyboard_help">Het interne toetsenbord neemt minder geheugen in beslag, wordt sneller geladen en is geoptimaliseerd voor het invoeren van getallen.</string>
+    <string name="allow_suggestions_help">"Hints van een extern toetsenbord. 
+Op sommige firmware veroorzaken hints de __app_name__ om te crashen."</string>
+    <string name="autopause_help">Zet het spel automatisch in de pauzestand bij het openen van de interface __app_name__.</string>
+    <string name="killed_by">__app_name__ is met geweld afgesloten door de applicatie \"__s__\". Om dit te voorkomen, verwijdert u deze applicatie of configureert u deze zodanig dat deze de __app_name__ niet beëindigt.</string>
+    <string name="killers_found">"U hebt toepassingen geïnstalleerd die geforceerd kunnen afsluiten __app_name__: 
+__s__ 
+Om dit te voorkomen, verwijdert u ze of configureert u ze zodanig dat ze de __app_name__ niet beëindigen. 
+
+Als u geen problemen ondervindt met het onverwacht sluiten van de __app_name__, is er geen actie vereist en kunt u dit bericht negeren."</string>
+    <string name="record_logcat">Record __logcat__</string>
+    <string name="record_logcat_info">"__app_name__ wordt opnieuw gestart met de opname __logcat__ in het bestand: 
+\"__s__\". 
+
+Om de opname te beëindigen, sluit u __app_name__ af. 
+Hierna kunt u het logbestand verzenden naar waar u het nodig hebt."</string>
+    <string name="need_uninstall">U moet het installatieprogramma verwijderen, anders heeft u 4 pictogrammen, niet 2. Ook spellen zullen het detecteren.</string>
+    <string name="need_random_name">"__app_name__ gebruikt de standaardpakketnaam. Games kunnen het detecteren. 
+
+Om dit te repareren - voer __app_name__ buiten de virtuele ruimte uit als een normale applicatie. 
+Nadat de installatie is voltooid, voegt u een kopie van __app_name__ met een willekeurige naam toe aan de virtuele ruimte."</string>
+    <string name="work_mode">Werk modus</string>
+    <string name="root">root</string>
+    <string name="no_root">geen root</string>
+    <string name="how_no_root">"U moet de virtuele ruimtetoepassing installeren. Zoals: __vspace_list__. 
+
+Het wordt aanbevolen om geoptimaliseerde versies van de officiële __app_name__-site te installeren. 
+
+Dan moet je __app_name__ en je spel toevoegen aan deze virtuele ruimte. 
+
+Daarna moet je de game en __app_name__ in de virtuele ruimte uitvoeren."</string>
+    <string name="eperm_error_descr_0">Mogelijke redenen:</string>
+    <string name="eperm_error_descr_1">Bescherming in het spel.</string>
+    <string name="eperm_error_descr_2">Een andere debugger of cracker is verbonden met het spel.</string>
+    <string name="eperm_error_descr_3">Onvoldoende rechten. Meestal te wijten aan verkeerd geconfigureerde __selinux__. Deactiveer of configureer __selinux__.</string>
+    <string name="eperm_error_descr_4">Slechte kernel of firmware. Probeer een andere firmware of een ander apparaat.</string>
+    <string name="eperm_error_descr_5">Slechte kernel of firmware. Probeer een andere firmware of een ander apparaat.</string>
+    <string name="ptrace_bypass_mode">Bypass-modus voor ptrace-beveiliging:</string>
+    <string name="mode_restore">herstellen</string>
+    <string name="mode_nothing">niets</string>
+    <string name="mode_freeze">bevriezen</string>
+    <string name="ptrace_bypass_mode_help">"Geeft aan wat te doen na het uitschakelen van de beveiligingsverbinding: 
+__mode_restore__ - verbinding herstellen 
+__mode_nothing__ - niets doen (meestal herstelt de beveiliging zelf de verbinding) 
+__mode_freeze__ - bevries de thread (zoals in eerdere versies) 
+
+Als u de beveiliging herstelt of de beveiliging toestaat om te doen het zelf, het bevriezen van waarden in __app_name__ kan vertragingen veroorzaken als gevolg van de permanente verbinding / uitschakeling van de beveiliging."</string>
+    <string name="slow_emulator">"U gebruikt de \"__s__\"  emulator. Het is traag en bevat fouten. Hierdoor kan het zoeken erg langzaam gaan. 
+
+We raden aan andere emulators te gebruiken:"</string>
+    <string name="text">Tekst</string>
+    <string name="show_debug_info">Foutopsporingsinformatie weergeven</string>
+    <string name="mnt_expand">"__app_name__ is geïnstalleerd op een geheugenkaart die wordt gebruikt als \"Intern geheugen\". 
+Dit kan de werking van virtuele ruimtes verstoren.
+Als dit gebeurt, installeert u __app_name__ in het interne geheugen van het apparaat. 
+Mogelijk moet u de geheugenkaart opnieuw formatteren als \"Draagbare opslag\"."</string>
+    <string name="help_game_not_listed_root">"De game moet worden uitgevoerd om deze te selecteren. 
+
+Als het spel actief is, maar nog steeds staat het niet in de lijst, dan heb je misschien problemen met de root of firmware. 
+Probeer een andere root of andere firmware."</string>
+    <string name="help_game_not_listed_noroot">"De game moet worden gelanceerd in de virtuele ruimte, zodat deze kan worden geselecteerd. 
+
+U kunt een game niet selecteren als deze niet in de virtuele ruimte wordt uitgevoerd. 
+
+Als de game in de virtuele ruimte draait, maar nog steeds niet in de lijst staat, probeer dan een andere virtuele ruimte, een andere firmware, een ander apparaat of krijg een root."</string>
+    <string name="daemon_killed_oom">"Daemon werd door het systeem gedood vanwege een gebrek aan geheugen. 
+
+Stel \"__data_in_ram__\" in op \"__no__\". 
+Gebruik hardwareversnelling van de interface, indien mogelijk. 
+Gebruik geen grote apps. 
+Schakel alle andere ongebruikte apps uit. 
+Probeer __app_name__ te gebruiken nadat je je apparaat opnieuw hebt opgestart."</string>
+    <string name="selected_as_search_result">Geselecteerd als zoekresultaat</string>
+    <string name="clear_results_prompt">Dit zal de huidige zoekresultaten vervangen. Doorgaan?</string>
+    <string name="position_in_memory_editor">Plaats in de geheugeneditor</string>
+    <string name="script_prompt_internet">"Het script wil toegang tot internet. Als u toegang toestaat, kan het script uw ​​aanmeldingen, wachtwoorden, saves en andere gegevens uit het spel stelen. Ook kan het uw andere scripts stelen of virussen downloaden naar uw apparaat. 
+
+Sta het script toegang tot internet toe?"</string>
+    <string name="level">Niveau</string>
+    <string name="float_prompt">"Als u __app_name__ op uw firmware correct wilt uitvoeren, moet u gebruikmaken van pop-upgebruikers in de systeeminstellingen voor __s__. 
+
+De pop-up wordt standaard niet weergegeven op Huawei-telefoons. U moet __s__ toestaan ​​om een ​​pop-up weer te geven. Open alstublieft de Phone Manager, dan Dropzone Management en zorg ervoor dat het is ingeschakeld voor __s__. 
+
+De Popup wordt ook niet weergegeven op sommige Xiaomi-telefoons. U moet naar Instellingen gaan -> Geïnstalleerde apps -> __s__ -> Andere rechten -> Pop-upvenster weergeven. 
+
+Andere telefoons kunnen ook andere procedures hebben om apps in Popup-vensters te laten weergeven. Al dergelijke apps worden meestal op deze manier beïnvloed, bijvoorbeeld de Google Translator-app met de Tap To Translate-functionaliteit. Daarom kun je eenvoudigweg \"YOUR_PHONE tikken om te vertalen\" googlepen om de oplossing te vinden. Voor bijvoorbeeld Xiaomi Redmi-apparaten is de oplossing als volgt: "</string>
+    <string name="virtual_space">Virtual Space-app</string>
+    <string name="prevent_unload_help">"Voorkom het lossen van __app_name__ uit het geheugen (sluiten afdwingen). 
+
+Elk volgend niveau is krachtiger dan het vorige en bevat het op zichzelf. 
+
+Het derde niveau kan problemen veroorzaken (hang toast uit, herstart of crasht) op sommige firmware en emulators. 
+
+Zonder root werkt alleen het derde niveau."</string>
+    <string name="integer_type">Dit gegevenstype is alleen voor gehele getallen en ondersteunt geen fractionele waarden. Gebruik __type_float__ of __type_double__ voor fractionele waarden.</string>
+    <string name="without_float">Ook kunt u __app_name__ zonder zwevende vensters gebruiken:</string>
+    <string name="any_value">elke waarde</string>
+    <string name="help_group_search_any_value">U kunt __any__ gebruiken in een geordende groepszoekactie samen met de minimumgrootte om elke waarde van dat type op de gewenste positie op te geven.</string>
+    <string name="help_scripts_title">scripts</string>
+    <string name="help_scripts">"* __help_scripts_title__: 
+__app_name__ ondersteunt de uitvoering van scripts geschreven in Lua. 
+
+Klik op het tabblad Zoeken op het menu en selecteer \"__execute_script__\". 
+Hier kunt u het scriptbestand selecteren voor uitvoering, de bestaande __app_name__ API-methoden bekijken of naar de officiële site gaan om hulp te lezen op de API of scripts die u kunt downloaden. 
+U kunt ook hulp van de API op de geheugenkaart extraheren om deze zonder internet te lezen. 
+
+Als u uw eigen script wilt schrijven, hebt u een externe tekstbestandeditor nodig. 
+__app_name__ staat geen bewerking van scripts toe, het voert ze alleen uit. 
+
+Lees API-hulp voor meer informatie."</string>
+    <string name="help_floating_icon_absent">Als u na het klikken op de knop \"__start__\" geen zwevend pictogram ziet:</string>
+    <string name="remove_all2">Verwijder alles</string>
+    <string name="debug_load">Alle code-belasting dumpen</string>
+    <string name="debug_log">Log de meeste script-oproepen</string>
+    <string name="vspace64">"U hebt __app_name__ uitgevoerd in een virtuele ruimte die 64-bits processen ondersteunt. 
+
+__app_name__ ziet geen 32-bits processen in deze ruimte. 
+
+Installeer de tweede kopie van __app_name__ in de modus \"__for32__\" als u in __app_name__ wilt werken met 32-bits processen."</string>
+    <string name="folder_new">Nieuwe map</string>
+    <string name="folder_exists">Deze map bestaat al</string>
+    <string name="folder_file">Er is een bestand met die naam</string>
+    <string name="folder_failed">Maken van map mislukt</string>
+    <string name="force_close">"Het vorige afsluiten van de app was onverwacht. 
+
+U kunt het configuratieniveau \"__prevent_unload__\" verhogen om dit in de toekomst te voorkomen."</string>
+    <string name="help_force_close_title">Onverwachte afsluiting</string>
+    <string name="install_mode">Installatiemodus</string>
+    <string name="for32">Voor hacken van 32-bits games in 64-bits virtuele ruimte</string>
+    <string name="for64">Voor hack 64-bit games in 64-bit virtuele ruimte</string>
+    <string name="reset_ignore">Reset alle negeren voor alle dialoogvensters</string>
+    <string name="allocate_fail">Kan geheugenpagina niet toewijzen. Fout</string>
+    <string name="allocated">Toegewezen geheugenpagina:</string>
+    <string name="allocate_page">Wijs geheugenpagina toe</string>
+    <string name="prot_read">Mag worden gelezen</string>
+    <string name="prot_write">Kan worden geschreven</string>
+    <string name="prot_exec">Mag worden uitgevoerd</string>
+    <string name="install_finished">"De installatie was succesvol. 
+Voer de geïnstalleerde kopie handmatig uit, zodat deze uw gegevens kan migreren. 
+Hierna kan het installatieprogramma worden verwijderd."</string>
+    <string name="odd_vspace">__app_name__ gelanceerd in de virtuele ruimte?</string>
+    <string name="record_script">Neem script op</string>
+    <string name="record">Opnemen</string>
+    <string name="another_record">Een ander record is actief. Wilt u het stoppen?</string>
+    <string name="record_ended">Opname voltooid:</string>
+    <string name="stop">Stop</string>
+    <string name="could_not_use">Ongebruikbaar:</string>
+    <string name="not_optimized2">"U gebruikt een niet-geoptimaliseerde versie van de virtuele ruimte (\"__s__\"). 
+Om deze fout te verhelpen, verwijdert u de niet-geoptimaliseerde versie van \"__s__\" en installeert u een van de geoptimaliseerde virtuele ruimtes van de officiële site __app_name__. 
+Klik op \"__fix_it__\" om naar de selectie van geoptimaliseerde virtuele ruimtes te gaan."</string>
+    <string name="fix_path">Vrije ruimte of geef een ander pad op voor tijdelijke bestanden door op \"__fix_it__\" te klikken.</string>
+    <string name="deep_read">Diepgaand gelezen:</string>
+    <string name="help_deep_read">"Geheugen lezen op alle beschikbare methoden, als het niet kon worden gelezen. 
+Kan geheugenmetingen vertragen."</string>
+    <string name="ptrace_fail">Kan het geheugen niet wijzigen via ptrace.</string>
+    <string name="ptrace_fail_partially">Sommige functies, speedhack en alles wat daarmee te maken heeft, zullen niet werken. Het schrijven naar alleen-lezen geheugen (inclusief code) is niet mogelijk.</string>
+    <string name="ptrace_fail_full">De absolute meerderheid van functies werkt niet.</string>
+    <string name="ptrace_fail_solve">"De typische reden is een kapotte kernel in de firmware. 
+Probeer de firmware te wijzigen. Als u onlangs het heeft bijgewerkt - installeer de vorige versie. 
+
+Als dit niet werkt, wijzigt u het apparaat."</string>
+    <string name="feature_hide_4">Deze functie kan niet werken als het vierde item is geselecteerd in \"__hide_from_game__\".</string>
+    <string name="feature_firmware">Deze functie kan niet werken zonder ptrace, wat niet werkt op deze firmware.</string>
+    <string name="feature_protection">Deze functie kan niet werken vanwege ptrace-bescherming in het spel.</string>
+    <string name="not_file">Pad is geen bestand:</string>
+    <string name="not_execute">Kan niet uitvoeren:</string>
+    <string name="check_install">Controleer of de __app_name__ correct is geïnstalleerd.</string>
+    <string name="sdcard_install">Als __app_name__ is geïnstalleerd op een externe opslag (SD-kaart), zet u deze terug in het interne geheugen</string>
+    <string name="change_address_type">Verander adres / type</string>
+    <string name="bad_offset">De offset is geen veelvoud van __d__.</string>
+    <string name="bad_result_address">Het resulterende adres is geen veelvoud van __d__.</string>
+    <string name="correct_types">__d__ elementen zullen van het type veranderen om de onmogelijke uitlijning te corrigeren.</string>
+    <string name="reinstall_fail">"Kan __app_name__ niet opnieuw installeren met willekeurige naam. 
+
+__app_name__ kan eenvoudig worden gedetecteerd door games. 
+
+Je kunt __logcat__ tijdens de installatie opnemen en contact opnemen met het officiële forum voor hulp. 
+
+Weigeringsreden:"</string>
+    <string name="empty_field">Leeg invoerveld: geen nummer om te zetten</string>
+    <string name="need_integer">U moet een geheel getal selecteren om te converteren.</string>
+    <string name="maps_failed">Kon \"__maps__\" bestand niet openen.</string>
+    <string name="game_protected">Spel is beschermd.</string>
+    <string name="need_root">Noodzaak van root om dit spel te hacken.</string>
+    <string name="vspace_error">"Het probleem van virtuele ruimte of firmware of apparaat. 
+
+Probeer: 
+- gebruik een andere virtuele ruimte 
+- gebruik een andere firmware 
+- roep de root 
+- gebruik een ander apparaat"</string>
+    <string name="root_error">"Het probleem van de firmware of root of apparaat. 
+
+Probeer: 
+- gebruik een andere firmware 
+- gebruik een andere root 
+- gebruik een ander apparaat"</string>
+    <string name="vspace_root">Gebruik root in virtuele ruimte:</string>
+    <string name="help_vspace_root">"Het gebruik van root van virtuele ruimte kan helpen verbergen dat er een __app_name__ op het apparaat staat. 
+
+Het werkt niet op alle firmware en niet op alle virtuele ruimtes. 
+
+Virtuele ruimte, firmware en root moeten het werken met root vanuit virtuele ruimte mogelijk maken. 
+De virtuele ruimte moet u toestaan ​​om applicaties naar binnen te installeren zonder ze in het systeem te installeren. 
+
+Niet alle virtuele ruimtes kunnen dit bieden. 
+
+Niet op alle firmware werkt deze modus. En niet met alle root. 
+
+Omdat de rootrechten worden toegekend aan de volledige virtuele ruimte, moet u hier niets anders in installeren. Anders kan elke toepassing van de virtuele ruimte rootrechten gebruiken met onvoorspelbare gevolgen. 
+
+De game moet buiten de virtuele ruimte worden geïnstalleerd. 
+
+__app_name__ moet alleen in de virtuele ruimte worden geïnstalleerd, zonder het in het systeem te installeren. 
+Hoe dit te doen - zie de hulp van een bepaalde virtuele ruimte. 
+
+Voor __vexp__ kunt u bijvoorbeeld __app_name__ van het systeem klonen in __vexp__ en vervolgens __app_name__ van het systeem verwijderen."</string>
+    <string name="help_games_protection_9">9. Gebruik root in virtuele ruimtes die het mogelijk maken om applicaties in jezelf te installeren zonder in het systeem te installeren.</string>
+    <string name="locale_ui">In jouw omgeving</string>
+    <string name="locale_script">Scripts gebruiken altijd Engelse locale</string>
+    <string name="locale_desc">"'__s__' - decimaalscheidingsteken 
+'__s__' - duizenden scheidingsteken 
+'__semicolon__' - nummerscheidingsteken in groepszoekactie"</string>
+    <string name="help_unaligned_title">Ongericht zoeken / big-endian zoeken</string>
+    <string name="help_unaligned">"In sommige toepassingen (zoals console-emulators) kan de waarde in het geheugen de uitlijning mogelijk niet respecteren of worden gepresenteerd in big-endian-bytevolgorde. 
+
+Een dergelijke waarde kan niet worden gevonden via een normale zoekopdracht. 
+
+Om ze te vinden - gebruik een speciaal script van de officiële __app_name__ website:"</string>
+    <string name="help_formula_calculator_title">Computer formule</string>
+    <string name="help_formula_calculator">"Bijna in elk veld voor het invoeren van getallen kunt u een wiskundige formule invoeren, na het gelijkteken, bijvoorbeeld in het zoekveld, voert u '= 2 + 2 * 3' in en het programma zoekt naar het resultaat van de formule, dat is, '8'. 
+De formule is een Lua-uitdrukking. Je kunt alle beschikbare kracht van Lua erin gebruiken. 
+
+Alle rekenkundige operatoren Lua 5.3 zijn toelaatbaar - optellen (+), aftrekken (-), vermenigvuldigen (*), delen (/), delen resteren (%), exponentiëren (^), delen van gehele getallen (//), enzovoort. 
+Ook beschikbaar zijn bit-operators - AND (&amp;), OF (|), Exclusief OF (binair ~), NIET (unary ~), Shift naar rechts (>>), Shift naar links (&lt;&lt;). De volgorde van handelen kan worden gegeven door haakjes. 
+Lees de Lua-handleiding voor een complete lijst met beschikbare bewerkingen. 
+
+Het is handig als je weet hoe de waarde in het spel is gecodeerd. Er zijn bijvoorbeeld 29 ronden in één spel te vinden als '= 29 ~ 444444'. Dit komt overeen met 29 XOR 444444. In het videomonster werd de prijs gevonden tussen 3888 en XOR met 444444, als '= 444444 ~ 3888'. Hierna werd de vervanging uitgevoerd naar '= 444444 ~ 1', waarmee de prijs op '1' werd gezet. In een ander spel is 125 goud als '= 125 * 10'. 
+
+Niet alle scriptfuncties zijn beschikbaar in de formulecalculator. Sommige functies zijn niet beschikbaar. Als je er niet genoeg van hebt - schrijf je script, in plaats van een formulecalculator te gebruiken, is het alleen bedoeld voor eenvoudige berekeningen. Beschikbaar: een deel van de basisfuncties, 'bit32', 'table', 'string', 'math', onderdeel van het 'os'-pakket. 'debug', ' 
+
+Wanneer u '= 2 + 2 * 3' schrijft, wordt het trefwoord 'retourneren' toegevoegd vóór de formule: 'return 2 + 2 * 3'. U kunt dit woord echter zelf in een formule opgeven als u een complexe formule nodig heeft. 
+Bijvoorbeeld: '= a = 5; b = 7; return a * 4 + b * 8 'wordt uitgevoerd als' a = 5; b = 7; return a * 4 + b * 8 ' 
+
+Het resultaat van de formulecalculator is een tekstreeks. De reeks kan een geldige reeks voor dit invoerveld zijn. 
+Het kan bijvoorbeeld een tekenreeks zijn voor een groepszoekactie of een bereikzoekopdracht. '= a = 5; b = 7; return a .. \";\" .. b .. \":: 100\" is gelijk aan '5; 7 :: 100 '. 
+
+Formule calculator werkt niet in scripts, daar kun je Lua direct gebruiken. 
+Bij het schrijven van een script, 
+
+Als de formule onjuist is, ontvangt u een foutmelding wanneer u het formulier verzendt. 
+
+Bij het berekenen moet u rekening houden met het feit dat berekeningen worden uitgevoerd in het type dat de eerste operand aangeeft. Als het een geheel getal is, is het resultaat een geheel getal. 
+'= 3/2' is bijvoorbeeld '1' en '= 3.0 / 2' is '1.5'. 
+
+Ongeacht de gekozen locale, werken de formules in de Engelse locale. Dit betekent dat het decimaalteken altijd een punt ('.') Is."</string>
+    <string name="help_faq_32_b">"Twee lanceringspictogrammen. De eerste, met softwareversnelling - \"__app_short_name_sw__\", de tweede, met hardwareversnelling - \"__app_short_name_hw__\". Nu zal het altijd zo zijn. 
+Op sommige firmwares werkt slechts één versie, beide op normale. 
+Het is beter om softwareversnelling te gebruiken, het werkt minder soepel, maar verbruikt minder geheugen. 
+
+U kunt een van de pictogrammen verbergen in de applicatie-instellingen: \"__hide_icons__\"."</string>
+    <string name="acceleration_help_">"Versnelling van hardware- of software-interface __app_name__. 
+Afhankelijk van het spel en de firmware, kunnen sommige opties problemen veroorzaken. 
+Als beide werken, gebruikt u softwareversnelling omdat het minder geheugen verbruikt. 
+
+Deze optie staat los van de startpictogrammen en heeft alleen invloed op de weergave van de interface __app_name__. 
+Startpictogrammen zijn verantwoordelijk voor het type versnelling van het startscherm. 
+
+Hardwareversnelling verbruikt veel meer geheugen, maar het werkt soepeler. Gebruik altijd software-acceleratie als u weinig RAM-geheugen hebt. 
+
+Als hardwareversnelling fouten veroorzaakt, kan __app_name__ overschakelen naar softwareversnelling."</string>
+    <string name="small_list_items">Kleine lijstitems</string>
+    <string name="small_list_items_help">Hiermee kunt u meer informatie in de itemlijsten weergeven, maar het kan moeilijker zijn om op het gewenste item te klikken.</string>
+    <string name="format_asm_opcodes">__s__ opcodes</string>
+    <string name="no_regions">"Geen overeenkomende regio's gevonden."</string>
+    <string name="cannot_hide_launcher_icon">"Dit pictogram is gebruikt voor de huidige start. 
+
+U kunt het pictogram dat werd gebruikt voor de huidige start niet verbergen. 
+
+Start de applicatie opnieuw op met een ander pictogram om dit pictogram te kunnen verbergen."</string>
+    <string name="screenshot">Maak een screenshot</string>
+    <string name="screenshot_prompt">"Het pictogram wordt verborgen voor __d__ seconden zodat u een schermafbeelding kunt maken. 
+
+Hierna is het pictogram weer zichtbaar."</string>
+    <string name="screenshot_action">screenshot</string>
+    <string name="use_visible_type">Gebruik zichtbaar gegevenstype in geheugeneditor:</string>
+    <string name="use_visible_type_help">Vraag niet naar het gegevenstype in de geheugeneditor als slechts één gegevenstype wordt weergegeven.</string>
+    <string name="wrong_float">In uw landinstelling ziet het nummer \"__s__\" eruit als \"__s__\". Als dit niet is wat u nodig hebt, selecteert u een andere landinstelling (of taal) op het startscherm.</string>
+    <string name="wrong_float2">In de instellingen __app_name__ kunt u ook de locale overschrijven voor opmaaknummers.</string>
+    <string name="number_locale">Locale voor opmaaknummers:</string>
+    <string name="fill">Vullen</string>
+    <string name="help_text_search">"
+Als u naar tekst wilt zoeken, moet u modifiers opgeven in het gebruikelijke zoekvenster.
+
+De meest gebruikte coderingen zijn __utf8__ en __utf16le__.
+Meestal wordt __utf16le__ gebruikt in __java__ en __utf8__ wordt gebruikt in __c__.
+
+\u0009__utf16le__ is een codering van twee bytes. Elk teken is altijd gecodeerd in twee bytes, dus wordt het weergegeven via __type_word__.
+\u0009__utf8__ - codering met variabele bytegrootte per teken. Vertegenwoordigd via __type_byte__.
+\u0009__hex_input__ en zijn varianten worden altijd weergegeven via __type_byte__.
+
+Het spel kan elk van de coderingen gebruiken.
+Als u een specifieke set bytes nodig hebt, gebruikt u de modus __hex_input__.
+
+Beschikbare prefixen:
+__text_prefixes__
+
+Voor de modus \"__hex_mixed__\" kunt u __utf8__-tekst opgeven tussen __apos__ tekens en __utf16le__ tekst tussen __quot__ tekens.
+
+Bijvoorbeeld:
+__text_examples__
+
+Het prefix-teken moet het eerste teken in de zoektekst zijn.
+
+Het resultaat van de zoekopdracht is een __type_byte__-reeks of een __type_word__-reeks, voor het geval __utf16le__.
+
+De resultaten kunnen worden gewijzigd - selecteer alles en klik op \"__edit_selected__\".
+
+Voer in het waardeveld de nieuwe waarde in, in hetzelfde formaat als voor de zoekreeks.
+
+U kunt de vulknoppen gebruiken. Klik op '__more__' als deze niet zichtbaar zijn.
+
+De waarde wordt ingesteld voor elke groep continu volgende items.
+Als er een opening is tussen de elementen, wordt dit een nieuwe groep.
+
+Als u meer bytes specificeert dan nodig, dan zal slechts een deel ervan worden gebruikt.
+Als u minder dan nodig opgeeft, wordt de rest van de groep gevuld met nul bytes.
+
+Probeer bij het vervangen van tekst tekst met hetzelfde aantal bytes als het origineel op te geven om problemen te voorkomen.
+"</string>
+    <string name="fast_freeze">Snel bevroren:</string>
+    <string name="help_fast_freeze">"Het werkt veel sneller dan normaal bevriezen, maar niet voor alle geheugen.
+
+Als de bevriezing niet werkt, schakelt u deze optie uit."</string>
+    <string name="debug_disassemble">Demonteren</string>
+    <string name="assembled">Met succes geassembleerd om te archiveren:</string>
+    <string name="warn_patch_off_prot2">"Als u __magisk_hide__ gebruikt, schakelt u deze uit voordat u de patch aanbrengt. Nadat de patch met succes is toegepast, kunt u deze weer inschakelen.
+Als u dit niet doet, is de patch niet succesvol."</string>
+    <string name="help_games_protection_end">"
+Hoe __app_name__ voor het spel in virtuele ruimte te verbergen
+
+\u00091. Installeer de virtuele ruimte, waarmee toepassingen verborgen kunnen worden geïnstalleerd, zonder deze in het systeem te installeren. Bijvoorbeeld __vspace_hide__.
+\u00092. Installeer __app_name__ in de virtuele ruimte.
+\u00093. Schakel in __app_name__ de modus \"__vspace_root__\" in.
+\u00094. Verleen rootrechten aan virtuele ruimte. Als u geen rootrechten kunt verlenen, probeer dan een andere virtuele ruimte, andere rootrechten, andere firmware of wijzig het apparaat.
+\u00095. Verwijder __app_name__ uit het systeem.
+\u00096. Werk met __app_name__ vanuit virtuele ruimte.
+
+Voorkom detecteren tijdens het zoeken:
+\u0009Selecteer items 2, 3 en 4 in de instelling \"__hide_from_game__\".
+
+Een typische oplossing (vereist root, zonder root lukt het niet):
+\u00091. Gebruik root van virtuele ruimte. Lees de help voor de instelling \"__vspace_root__\".
+\u00092. Gebruik items 2, 3 en 4 in de instelling \"__hide_from_game__\".
+"</string>
+    <string name="force_close_2">U kunt \"__data_in_ram__\" instellen op \"__no__\" om dit in de toekomst te voorkomen.</string>
+    <string name="script_wrote">Het script schreef __s__-__d__-bestanden.</string>
+    <string name="script_exit">Uitgang</string>
+    <string name="script_interrupted">Het script onderbroken.</string>
+    <string name="script_error">Script fout</string>
+    <string name="script_oom">Onvoldoende geheugen</string>
+    <string name="script_possible">Het lijkt erop dat je probeert uit te voeren __s__ als een script.</string>
+    <string name="script_web">een webpagina</string>
+    <string name="script_saved_list">Een opgeslagen lijst</string>
+    <string name="speedhack_no_x86">Maar in dit spel is geen x86 bibliotheken, dus misschien zal het niet werken.</string>
+    <string name="help_faq_33_q">Tekstberichten (toast) blijft op het scherm, of donkere cirkel zichtbaar aan de onderkant van het scherm wanneer __app_name__ werkt. Hoe repareer je het?</string>
+    <string name="help_faq_33_a">Met het derde niveau \"__prevent_unload__\" op sommige firmware leidt tot het feit dat tekstberichten (toast) blijft op het scherm, of donkere cirkel zichtbaar (leeg bericht). Als dit gebeurt, geen gebruik maken van het derde niveau.</string>
+    <string name="invalid_header_1">Ongeldige binaire script header.</string>
+    <string name="unknown_version">Onbekende versie.</string>
+    <string name="unknown_format">Onbekende formaat.</string>
+    <string name="unknown_endianness">Onbekende endianness.</string>
+    <string name="unknown_size_s">Onbekende grootte van __s__.</string>
+    <string name="unknown_size_instr">Onbekende grootte van de instructie.</string>
+    <string name="unknown_size_num">Onbekende grootte van Lua nummer.</string>
+    <string name="expected_found">Verwacht __s__ maar vond __s__.</string>
+    <string name="or">of</string>
+    <string name="invalid_header_2">Voer het script eigenlijk?</string>
+    <string name="invalid_header_3">"In toekomstige versies van __app_name__, kan dit script niet worden uitgevoerd.
+Schrijf over deze aan de auteur van het script."</string>
+    <string name="skip_system_libs">Overslaan systeembibliotheken</string>
+    <string name="try_reinstall_x86">"Probeer het opnieuw installeren van het spel met x86 bibliotheken?
+
+Het spel kan stoppen met werken na dat. Als dit gebeurt, installeert u het spel van de apk zich in __data_app__."</string>
+    <string name="reinstall_started">Herinstallatie begonnen ...</string>
+    <string name="reinstall_failed">Herinstallatie mislukt:</string>
+    <string name="reinstall_ended">Herinstallatie voltooid.</string>
+    <string name="help_lasm_title">Demonteren / monteren scripts</string>
+    <string name="help_lasm">"__app_name__ heeft een ingebouwde disassembler / assembler voor Lua scripts.
+
+U kunt de \"__debug_disassemble__\" optie in het startvenster script te kiezen, na het klikken op de \"__more__\" knop.
+
+De resulterende __ext_lasm__ bestand kan worden bewerkt en geselecteerd in het script lancering venster. Het resultaat zal een binair __ext_lua__ bestand, met de aangebrachte wijzigingen.
+
+Lees het script API help voor meer details.
+"</string>
+    <string name="help_hide_gg_title">Hoe te verbergen __app_name__ uit het spel</string>
+    <string name="changed_as_search_result">Changed als zoekresultaat</string>
+    <string name="changed_not_found">Gewijzigde items niet gevonden.</string>
+    <string name="too_far">Deze waarden kunnen niet worden gevonden via een zoekopdracht groep, ze zijn te ver uit elkaar: __d__ bytes. De maximale afstand is __d__ bytes.</string>
+    <string name="new_address">Nieuw adres:</string>
+    <string name="hide_1_warn">U selecteerde het eerste item. Invriezen waarden kan leiden tot ernstige vertragingen in het spel te veroorzaken.</string>
+    <string name="hide_4_warn">U selecteerde de vierde punt. Sommige functies werken niet: __speedhack__, __unrandomizer__, __allocate_page__.</string>
+    <string name="asm_failed">Kan __s__ opcode herkennen:</string>
+    <string name="asm_suggestion">Bedoelde u: __s__?</string>
+    <string name="copy_opcode">Kopieer __s__ opcode:</string>
+    <string name="search_nearby">zoek dichtbij</string>
+    <string name="before">Voordat</string>
+    <string name="after">Na</string>
+    <string name="distance">Afstand:</string>
+    <string name="nearby">In de omgeving:</string>
+    <string name="need_fixer">"Een probleem werd waargenomen met de 64-bits virtuele ruimte.
+
+Om het te repareren:
+
+1. Installeer de __fixer__ applicatie. (In dit dialoogvenster, handmatig langs het pad:
+__s__
+).
+
+2. Voeg __fixer__ aan de virtuele ruimte.
+
+3. Run __fixer__ in de virtuele ruimte.
+
+4. Verwijder __fixer__.
+
+5. Start de __app_name__ in de virtuele ruimte."</string>
+    <string name="limit">Alleen de eerste N resultaten:</string>
+</resources>

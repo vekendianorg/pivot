@@ -1,0 +1,1361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lang_code">~~~km~~~</string>
+    <string name="front_text">បើអ្នកមានសំនួររឺចម្ងល់លើកម្មវិធីនេះ សូមចូលទៅកាន់គេហទំព័រ  __forum__</string>
+    <string name="set_path">កន្លែងរក្សាចំនួនដែលបានរកឃើញ</string>
+    <string name="number">លេខ:</string>
+    <string name="type">ប្រភេទ:</string>
+    <string name="name">ឈ្មោះ:</string>
+    <string name="reset">ជ្រើសរើសកម្មវិធីដែលកំពុងដំណើរការ</string>
+    <string name="set_range">ជ្រើសរើសកន្លែងដែលត្រូវស្វែងរកក្នុងMemory</string>
+    <string name="search">ស្វែងរក</string>
+    <string name="save">រក្សាទុក</string>
+    <string name="goto1">ចូលទៅ</string>
+    <string name="address">អស័យដ្ឋាន:</string>
+    <string name="edit_all">កែទាំងអស់</string>
+    <string name="filter">Filter</string>
+    <string name="clear">លុបចោល</string>
+    <string name="max_show_rec">បង្ហាញ:</string>
+    <string name="equal">មិនបានផ្លាស់ប្តូរ</string>
+    <string name="inequal">បានផ្លាស់ប្តូរ</string>
+    <string name="larger">បានកើនឡើង</string>
+    <string name="smaller">បានថយចុះ</string>
+    <string name="compare_current_last">តើចំនួនបានផ្លាស់ប្តូររបៀបម៉េច?</string>
+    <string name="write_region_log">Write region log</string>
+    <string name="old_version">វើសិនចាស់</string>
+    <string name="found_old_version">យើងបានឃើញ__app_name__សេរីចាស់ក្នុងទូរស័ព្ទនេះ។តើអ្នកចង់លុបវាចោលទេ?</string>
+    <string name="yes">បាទ</string>
+    <string name="no">អត់ទេ</string>
+    <string name="ok">បាទ</string>
+    <string name="failed_find_package_name">មិនអាចរកឈ្មោះកញ្ចប់កម្មវិធីឃើញ!</string>
+    <string name="path_for_temp_files">រៀបចំកន្លែងដាក់ចំនួនដែលបានរកឃើញ,ឧទា.__sdcard__។វាប្រហែលជាត្រូវការពីបីរយ MB នៃកន្លែងទំនេរ។ចំនួនដែលអ្នកបានរកឃើញនឹងត្រូវលុបចោលបើអ្នកធ្វើវាឥឡូវនេះ។</string>
+    <string name="confirm">ព្រម</string>
+    <string name="cancel">ទេ</string>
+    <string name="found_new_version">រកឃើញកំណែថ្មី __s__</string>
+    <string name="daemon_failed">Daemon failed</string>
+    <string name="failed_run_daemon">មិនអាចដំណើរការ Daemon បាន។តើអ្នកបានបញ្ចូលRoot ហើយរឺនៅ?</string>
+    <string name="daemon_unexpected_closed">Daemon បានបិទដោយមិនដឹងមុន។ ពត៍មានបន្ថែម:</string>
+    <string name="daemon_exited">Daemon បានបិទ</string>
+    <string name="failed_load_daemon">មិនអាចដំណើរការ Daemon បាន</string>
+    <string name="is_device_rooted">មិនអាចយកការដំណើរការពី Root បាន.</string>
+    <string name="collect_data_to_region_log">Started collection of data to write to the region log...</string>
+    <string name="log_saved">ទិន្នន័យបានរក្សាទុកនៅក្នុង __s__</string>
+    <string name="failed_save">មិនអាចរក្សាទុកក្នុង __s__ បាន</string>
+    <string name="region_log">Region log</string>
+    <string name="apply">បញ្ចូល</string>
+    <string name="error">បញ្ហា</string>
+    <string name="load">ទាញយក</string>
+    <string name="delete_prompt">តើអ្នកពិតជាចង់លុបវាចោលរឺ?</string>
+    <string name="reset_search">មានបញ្ហា ។លុបចំនួនដែលបានរកឃើញចោល!</string>
+    <string name="unknown_error">មានបញ្ហាចម្លែក</string>
+    <string name="out_of_memory">អស់មេម៉ូរី</string>
+    <string name="bug_detected">មានបញ្ហា</string>
+    <string name="disk_full">ឌីសពេញ</string>
+    <string name="io_error">IO មានបញ្ហា</string>
+    <string name="game_dead">ហ្គេមបានបិទ</string>
+    <string name="exit">ចាកចេញ</string>
+    <string name="skip">អត់ទេ</string>
+    <string name="unhandled_exception">មានបញ្ហាបច្ចេកទេស។ តើអ្នកចង់ផ្ញើរពត៍មានមាននេះទៅក្រុមការងារយើងទេ?</string>
+    <string name="last_run_failed">ដំណើរការមុនបានខូច</string>
+    <string name="thank_you">សូមអរគុណ!</string>
+    <string name="no_application">អ្នកមិនបានជ្រើសរើសកម្មវិធីណាមួយទេ។</string>
+    <string name="increments">លំដាប់:</string>
+    <string name="add_not_replace">ដាក់ថែមតែម្តង(អត់កែ)</string>
+    <string name="eperm_error">មានបញ្ហា PTRACE_ATTACH : ហ្គេមរបស់អ្នកមិនអោយធ្វើអីកើត!</string>
+    <string name="load_list">យកពីបញ្ជី</string>
+    <string name="load_warning">អាស័យដ្ឋានដែលអ្នកបានយកពីបញ្ជី គឺជាអាស័យដ្ឋានចាស់។ហ្គេមភាគច្រើនតែងតែផ្លាស់ប្តូរអាស័យដ្ឋានចំនួននោះ ការកែចំនួនតាមអាស័យដ្ឋានចាស់នេះ ពេលខ្លះមិនអាចបានលទ្ធផលទេ។ អ្នកគួរមើលវាផង។</string>
+    <string name="from">បានបញ្ចប់ __d__ ពីកន្លែង __d__</string>
+    <string name="count_fuzzy_equal_run">"ចំនួន ដង ដែលត្រូវរក '__fuzzy_equal__':"</string>
+    <string name="slow">យឺត</string>
+    <string name="miui_restart">__app_name__ ត្រូវការបិទហើយបើកឡើងវិញដើម្បីបញ្ចូល security permission។</string>
+    <string name="out_of_memory_error">"(បញ្ហា)អស់មេម៉ូរីដើម្បីផ្ទុក។ចំនួនដែលអ្នកបានរកត្រូវបានលុប។ សូមកែ ចំនួនដែលត្រូវបង្ហាញ អោយតិចជាងនេះ។ "</string>
+    <string name="loading">កំពុងដំណើរការ...</string>
+    <string name="found_count">រកឃើញបាន: __d__</string>
+    <string name="fuzzy_equal">ចំនួន នៅដដែល</string>
+    <string name="fuzzy_inequal">ចំនួន បានប្តូរ</string>
+    <string name="fuzzy_larger">ចំនួន បានកើនឡើង</string>
+    <string name="fuzzy_smaller">ចំនួន បានថយចុះ</string>
+    <string name="type_edit_limit">សូមដាក់ចំនួនពី __s__ ដល់ __s__</string>
+    <string name="number_name">លេខ</string>
+    <string name="step_name">តាមលំដាប់</string>
+    <string name="number_less">"លេខ '__s__' គឺតូចជាងចំនួនដែលអាចដាក់បាន (__d__) សំរាប់លេខប្រភេទនេះ។"</string>
+    <string name="number_greater">"លេខ '__s__' គឺធំជាងចំនួនដែលអាចដាក់បាន (__d__) ក្នុងលេខប្រភេទនេះ។"</string>
+    <string name="about">អំពីកម្មវិធីនេះ</string>
+    <string name="owner">ម្ចាស់</string>
+    <string name="design">អ្នកដឹកនាំការឌីស៊ាញ</string>
+    <string name="pm">អ្នករៀបរៀងគម្រោង</string>
+    <string name="code">អ្នករៀបចំកូត</string>
+    <string name="tech">ជំនួយបច្ចេកទេស</string>
+    <string name="creator">អ្នកផលិត (បានចូលនិវត្តន៏)</string>
+    <string name="for_translators">បើអ្នកចង់ជួយការបកប្រែរឺបន្ថែមភាសាអោយកម្មវិធីនេះ អ្នកអាចទាក់ទងយើងតាមគេហទំព័រ http://gameguardian.net/forum ដើម្បីបញ្ចូលភាសាអ្នកក្នុងកម្មវិធីនេះនៅសេរីបន្ទាប់ទៀត។</string>
+    <string name="version">សេរី:</string>
+    <string name="developers">អ្នករៀបរៀង:</string>
+    <string name="select_language">ជ្រើសរើសភាសា</string>
+    <string name="exit_confirm">__app_name__ ត្រូវការបិតហើយបើកឡើងវិញ ដើម្បីបញ្ចូលការកែប្រែរបស់អ្នក។</string>
+    <string name="special_thanks">អគុណច្រើនទៅកាន់:</string>
+    <string name="nothing_found">អត់ឃើញអីសោះ! សូមរកម្តងទៀត។</string>
+    <string name="try_more_ranges">អ្នកអាចជ្រើសរើសចំងាយមេម៉ូរី(អង្គចងចាំ)នៅកន្លែងរៀបចំ។</string>
+    <string name="try_fuzzy_search">អ្នកក៏អាចរកចំនួនដែលអ្នកមិនដឹងបានដែរ។</string>
+    <string name="search_hint">"ដើម្បីរកចំនួនដែលអ្នកបានដឹងរឺឃើញច្បាស់សូមចុច \"__search_known_value__\".
+បើចំនួននោះអ្នកមិនដឹងច្បាស់រឺបានអ៉េនគ្រីប សូមចុច \"__search_unknown_value__\" ដើម្បីរក។
+ដើម្បីរកលេខប្រភេទ Float ទាំងមូលបានសូមចុច  '__type_auto__' ក្នុងកន្លែងប្រភេទលេខ។
+អ្នកអាចរកលេខជាក្រុមបានដោយប្រើ '__semicolon__' ដើម្បីញែកលេខ។"</string>
+    <string name="freeze">បង្អាក់:</string>
+    <string name="freeze_normal">ធម្មតា</string>
+    <string name="freeze_may_increase">ប្រហែលជាកើនឡើង</string>
+    <string name="freeze_may_decrease">ប្រហែលជាចុះ</string>
+    <string name="freeze_in_range">ក្នុងតំបន់</string>
+    <string name="range_end_fail">"តំបន់បញ្ចប់ ('__s__') ត្រូវច្រើនជាង '__s__'។"</string>
+    <string name="failed_add_window">មិនអាចបន្ថែម window បាន</string>
+    <string name="failed_remove_window">មិនលុប window បាន</string>
+    <string name="system_service_stopped">កម្មវិធីនេះមិនអាចដំណើរការដោយរលូនបានទេព្រោះមានបញ្ហាទូរស័ព្ទ។សូមបិទហើយបើកកម្មវិធីនេះរឺក៏បិទបើកទូរស័ព្ទរបស់អ្នក។</string>
+    <string name="value_request">សូមវាយបញ្ចូលលេខដែលអ្នកចង់រក</string>
+    <string name="type_request">សូមជ្រើសរើសប្រភេទលេខ</string>
+    <string name="type_change_request">សូមរើសប្រភេទលេខដែលអ្នកចង់កែ</string>
+    <string name="value">ចំនួន</string>
+    <string name="save_as">រក្សាទុកជា:</string>
+    <string name="restart">បើកវិញ</string>
+    <string name="start">ចាប់ផ្តើម</string>
+    <string name="wait_daemon">មុខងារនេះមិនអាចដំណើរការដោយគ្មានវត្តមាន Daemon ទេ។សូមរង់ចាំអោយ Daemon ដំណើរការសិន។ (តើអ្នកភ្លេចបើក Root អោយកម្មវិធីនេះ? រឺក៏ទូរស័ព្ទអ្នកមិនមាន Root?)</string>
+    <string name="daemon_fail">Daemon មិនដំណើរការ</string>
+    <string name="config_icon_text">រូបលើអេក្រង់: ភាពថ្លា= __d__%%, បំបាំងកាយ - __s__</string>
+    <string name="icon_hide_after">បន្ទាប់ពី __d__ វិនាទី</string>
+    <string name="icon_hide_never">អត់ទេ</string>
+    <string name="keyboard">ក្តាចុច:</string>
+    <string name="internal">ក្នុងកម្មវិធីស្រាប់</string>
+    <string name="external">ក្រៅកម្មវិធី(ផ្សេង)</string>
+    <string name="failed_copy_text">មិនអាចចំលងអក្សរទៅទូរស័ព្ទបាន:</string>
+    <string name="copied">បានចម្លង</string>
+    <string name="copy_value">ចម្លងចំនួន:</string>
+    <string name="copy_address">ចម្លងអាស័យដ្ឋាន:</string>
+    <string name="goto_address">ចូលទៅអាស័យដ្ឋាននេះ:</string>
+    <string name="search_unknown_value">រកចំនួនដែលអ្នកមិនដឹងច្បាស់</string>
+    <string name="search_known_value">រកចំនួនដែលអ្នកដឹងច្បាស់</string>
+    <string name="speedhack_hint">ដើម្បីកែល្បឿនហ្គេមរបស់អ្នក សូមចុចធីបអោយយូរលើសញ្ញារបស់កម្មវិធី __app_name__ នេះ។</string>
+    <string name="bad_firmware">ទូរស័ព្ទរបស់អ្នកមានបញ្ហាលើមុខងារមួយនេះ។</string>
+    <string name="language">ភាសា</string>
+    <string name="acceleration">"បញ្ហាល្បឿនតាម: "</string>
+    <string name="hardware">ម៉ា់ស៊ីន</string>
+    <string name="software">ទិន្នន័យក្នុងម៉ា់ស៊ីន</string>
+    <string name="speedhack">កែល្បឿន</string>
+    <string name="data_in_ram">រាប់បញ្ចូលទាំងទិន្នន័យក្នុងរ៉េម(RAM):</string>
+    <string name="first_mb">__d__ MB ដំបូង។</string>
+    <string name="donate">ឧបត្ថម្ភ</string>
+    <string name="speeds">ល្បឿន</string>
+    <string name="floating_window_fail">មិនអាចបើកសញ្ញាលើអេក្រង់បាន</string>
+    <string name="check">ផ្ទៀងផ្ទាត់</string>
+    <string name="check_success">ការផ្ទៀងផ្ទាត់រួចរាល់</string>
+    <string name="enable_draw_perm">សូមបើកមុខងារអោយវានៅកន្លែងបន្ទាប់។</string>
+    <string name="speedhack_fail">មិនអាចកែល្បឿនលើកម្មវិធីនេះបាន</string>
+    <string name="dangerous">គ្រោះថ្នាក់</string>
+    <string name="difference">ផ្សេងគ្នា</string>
+    <string name="old_value">ចំនួនចាស់</string>
+    <string name="new_value">ចំនួនថ្មី</string>
+    <string name="mode_hacking">ចំនួនត្រូវបានអេនគ្រីប(ការពារ)</string>
+    <string name="union">រកជាក្រុម</string>
+    <string name="speedhack_open">អ្នកអាចបើកកន្លែងកែល្បឿនបានដោយចុចធីបអោយយូរលើសញ្ញារបស់ __app_name__ ដែលមាននៅលើអេក្រង់។</string>
+    <string name="history">បញ្ជីចាស់</string>
+    <string name="history_empty">បញ្ជីចាស់គឺទទេរ(អត់មាន)</string>
+    <string name="allow_suggestions">ជួយប្រាប់បន្ថែមនៅកន្លែងក្តាចុច:</string>
+    <string name="invalid_area">ទំហំក្រុមត្រូវតែនៅចន្លោះពី __d__ និង __d__:</string>
+    <string name="union_need_two_numbers">ដើម្បីរកជាក្រុមត្រូវមានលេខយ៉ាងតិច២ចំនួន:</string>
+    <string name="too_many_union_numbers">មានលេខច្រើនពេកច្រើនជាង:</string>
+    <string name="invalid_number">លេខមិនត្រឹមត្រូវ:</string>
+    <string name="input_number">សូមបញ្ចូលលេខ</string>
+    <string name="number_out_of_range">"លេខ '__s__' គឺធំពេក :"</string>
+    <string name="help_floating_icon">"*សញ្ញាលើអេក្រង់:
+*ចុចលើសញ្ញានោះដើម្បីបើកការស្វែងរក។
+*ចុចធីបលើសញ្ញានោះដើម្បីបើកកន្លែងកែល្បឿន។
+*អ្នកអាចយកវាដាក់កន្លែងណាក៏បានដោយគ្រាន់តែចុចហើយអូសវាទៅដាក់កន្លែងនោះ។
+*ភាពថ្លានិងបំបាំងកាយអាចកែកុនបាននៅកន្លែងបញ្ជាកម្មវិធី។"</string>
+    <string name="help_exact_search">"* ការស្វែងរកពិតប្រាកដ:
+\u00091. ប្ដូរទៅ __app_name__ ពីហ្គេម។
+\u00092. ប៉ះប៊ូតុង \"__search_known_value__\" នៅក្នុងផ្ទាំង \"__search__\" ។
+\u00093. Input the number that is displayed in the game.
+\u00094. ជ្រើសរើសប្រភេទទិន្នន័យសមរម្យឬជ្រើសរើស \"__type_auto__\" (ប្រសិនបើអ្នកមិនប្រាកដ) និងជម្រើសផ្សេងទៀត (បើចាំបាច់) ហើយចុច \"__search__\" ។
+\u00095. When finished searching, search results will be displayed in the list.
+\u00096. Go back to the game. After the value has changed, switch to __app_name__ again.
+\u00097. Search for the value that changed.
+\u00098. ប្រសិនបើមានលទ្ធផលច្រើនពេកសូមបន្ដជំហានទី 6 ។
+\u00099. If only a few results are left, you can try to modify, store or freeze the value.
+"</string>
+    <string name="help_speedhack">"*កែល្បឿនហ្គេម:
+*ចុចធីបអោយយូរលើសញ្ញារបស់កម្មវិធីនេះ ដើម្បីបើកកន្លែងកែល្បឿន។
+*ចុចលើសញ្ញា ឆ្វេងរឺស្តាំ ដើម្បីកែល្បឿនហ្គេមរបស់អ្នក។
+*ចុចធីបអោយយូរលើលេខល្បឿនដើម្បីត្រឡប់ទៅល្បឿនធម្មតាវិញ។
+*អ្នកអាចកែលេខល្បឿនបាននៅកន្លែងបញ្ជាកម្មវិធី។
+*បើហ្គេមរបស់អ្នកមិនអាចកែល្បឿនបានសូមទៅចុចគ្រីសចំណុចពណ៍បៃតងនៅ \"កន្លែងដែលត្រូវកែល្បឿន\" ដែលនៅក្នុងកន្លែងបញ្ជាកម្មវិធី __app_name__ ។
+*អ្នកអាចប្រើវិធី \"__time_jump__\" ដើម្បីផ្លាស់ប្តូរពេលវេលាទៅមុខ។ ដោយគ្រាន់តែចុច មីនុយ នៅកន្លែងស្វែងរក បន្ទាប់មកចុចសញ្ញា \"__time_jump__\" ។អ្នកនឹងត្រូវដាក់ចំនួន វិនាទី ដែលអ្នកចង់ប្តូរទៅ។ចំនួនវិនាទីនោះអ្នកអាចប្រើក្បៀសបាន។"</string>
+    <string name="help_fuzzy_search">"* ការស្វែងរកមិនច្បាស់:
+\u00091. ប្ដូរទៅ __app_name__ ពីហ្គេម។
+\u00092. ប៉ះប៊ូតុង \"__search_unknown_value__\" នៅក្នុងផ្ទាំង \"__search__\" ។
+\u00093. Select the suitable data type, or choose \"__type_auto__\" (if you are not sure) and click \"__search__\".
+\u00094. When finished searching, search results will be displayed in the list.
+\u00095. ត្រលប់ទៅហ្គេម។ បន្ទាប់ពីតម្លៃបានផ្លាស់ប្តូរ (ឬអត់) ប្ដូរទៅ __app_name__ ម្តងទៀត។
+\u00096. ប៉ះប៊ូតុង \"__search_unknown_value__\" ហើយជ្រើសប្រភេទសម្រាប់របៀបដែលតម្លៃបានផ្លាស់ប្តូរ។
+\u00097. ប្រសិនបើមានលទ្ធផលច្រើនពេកបន្តទៅជំហានទី 5 ។
+\u00098. If only a few results are left, you can try to modify, store or freeze the value.
+
+\u0009អ្នកអាចបញ្ជាក់ការផ្លាស់ប្ដូរពិតប្រាកដនៃតម្លៃដោយចុចប៊ូតុង \"__more__\" ។
+\u0009អ្នកអាចបញ្ចូលជួរមួយជាការផ្លាស់ប្តូរតម្លៃត្រឹមត្រូវ:
+\u0009\u0009190__tilde__210
+\u0009ដើម្បីបញ្ជាក់ការផ្លាស់ប្តូរនៅក្រៅជួរតម្លៃអ្នកអាចបញ្ចូល:
+\u0009\u000910__tilde____tilde__4000
+"</string>
+    <string name="help_group_search">"* ការស្វែងរកជាក្រុម:
+\u00091. ប្ដូរទៅ __app_name__ ពីហ្គេម។
+\u00092. ប៉ះប៊ូតុង \"__search_known_value__\" នៅក្នុងផ្ទាំង \"__search__\" ។
+\u00093. សំណើស្វែងរកបញ្ចូលសម្រាប់ការស្វែងរកជាក្រុម។
+\u0009\u0009ទ្រង់ទ្រាយ: តម្លៃ 1 __semicolon__ តម្លៃ 2 __semicolon__ ... __semicolon__ តម្លៃ N __colon__ ទំហំក្រុម
+\u0009\u0009តម្លៃ 2-__max_group__ អាចត្រូវបានស្វែងរកក្នុងពេលតែមួយ។ ទំហំក្រុមលំនាំដើមគឺ 512 ។ ទំហំក្រុមត្រូវមានរវាង 2 និង 65536 ។
+\u0009\u0009ឧទាហរណ៍ប្រសិនបើអ្នកចង់ស្វែងរក 195 និង 6543 អ្នកគួរតែបញ្ចូល:
+\u0009\u0009\u0009195 __semicolon__ 6543
+\u0009\u0009ជាការពិតអ្នកអាចបញ្ជាក់ទំហំក្រុម (300):
+\u0009\u0009\u0009195 __semicolon__ 6543 __colon__ 300
+\u0009\u0009ដូចគ្នានេះផងដែរអ្នកអាចកំណត់ប្រភេទទិន្នន័យមួយឬច្រើន:
+\u0009\u0009\u0009195__type_dword_short__ __semicolon__ 6543
+\u0009\u0009នេះមានន័យថាអ្នកចង់ស្វែងរកតំលៃ __type_dword__ ដែលមានតំលៃ 195 ហើយតំលៃ __type_auto__ គឺ 6543 ។
+\u0009\u0009ប្រភេទទិន្នន័យដែលអាចមានដូចគ្នានឹងការស្វែងរកដែរ:
+\u0009\u0009\u0009__type_byte_short__ - __type_byte__
+\u0009\u0009\u0009__type_word_short__ - __type_word__
+\u0009\u0009\u0009__type_dword_short__ - __type_dword__
+\u0009\u0009\u0009__type_xor_short__ - __type_xor__
+\u0009\u0009\u0009__type_qword_short__ - __type_qword__
+\u0009\u0009\u0009__type_float_short__ - __type_float__
+\u0009\u0009\u0009__type_double_short__ - __type_double__
+\u0009\u0009\u0009__type_auto_short__ - __type_auto__
+\u0009\u0009អ្នកក៏អាចសរសេរលេខនៅក្នុង hex (តិចតួចបំផុត) notation:
+\u0009\u0009\u0009__hex_example____hex__ __semicolon__ 6543
+\u0009\u0009ឬក្នុងការដាក់ទ្រនិច hex (big-endian) បញ្ច្រាស:
+\u0009\u0009\u0009__hex_example____rhex__ __semicolon__ 6543
+\u0009\u0009ដើម្បីបញ្ចូលនិមិត្តសញ្ញាបន្ថែមសូមប្រើប៊ូតុង \"__btn_hex__\" លើក្តារចុចខាងក្នុង។
+\u00094. Select the suitable data type, or choose \"__type_auto__\" (if you are not sure) to use as default. Other options do not matter for this type of search. Click \"__search__\".
+\u00095. When finished searching, search result will be displayed in the list.
+\u00096. ត្រលប់ទៅហ្គេម។ បន្ទាប់ពីតម្លៃបានផ្លាស់ប្តូរសូមប្តូរទៅ __app_name__ ម្តងទៀត។
+\u00097. ធ្វើការស្វែងរកជាក្រុមម្ដងទៀតដោយមានការផ្លាស់ប្ដូរដ៏សមរម្យ។
+\u00098. ប្រសិនបើមានលទ្ធផលច្រើនពេក, សូមធ្វើជំហានទី 6 និង 7 ម្តងទៀត។
+\u00099. If few results are left, you can try to modify, store or freeze the value.
+
+\u0009ប្រសិនបើអ្នកចង់គោរពតាមលំដាប់តម្លៃបន្ទាប់មកបញ្ជាក់លេខ __colon__ ពីរដង។
+\u0009បើគ្មានទំហំក្រុម:
+\u0009\u0009195 __semicolon__ 6543 __colon____colon__
+\u0009ជាមួយទំហំក្រុម:
+\u0009\u0009195 __semicolon__ 6543 __colon____colon__ 300
+
+\u0009អ្នកអាចស្វែងរកក្នុងជួរតម្លៃ:
+\u0009\u0009190__tilde__210 __semicolon__ 6543
+\u0009អ្នកក៏អាចស្វែងរកនៅក្រៅជួរតម្លៃ:
+\u0009\u000910__tilde____tilde__4000 __semicolon__ 6543
+"</string>
+    <string name="help_others">"* អ្នកផ្សេងទៀត:
+\u0009* សម្រាប់ការស្វែងរកថ្មីអ្នកត្រូវតែសម្អាតលទ្ធផលស្វែងរកពីមុនដោយជ្រើសរើស \"__clear__\" នៅក្នុងម៉ឺនុយដែលស្ថិតនៅក្រោមប៊ូតុងម៉ឺនុយ។
+\u0009* ដើម្បីជ្រើសរើសការលេងហ្គេមផ្សេងទៀតនៅលើរូបតំណាងហ្គេមនៅជ្រុងខាងលើផ្នែកខាងឆ្វេង។
+\u0009* ដើម្បីផ្អាក / បន្តលេងហ្គេមមួយ - ប៉ះលើប៊ូតុងខាងក្រោមរូបតំណាងនៅជ្រុងខាងឆ្វេងខាងលើ។
+\u0009* ប្រសិនបើអ្នកប្ដូរទៅល្បែងនៅពេលផ្អាកសកម្មនៅពេលដែលអ្នកបើក __app_name__ នៅពេលក្រោយហ្គេមនោះនឹងត្រូវផ្អាកដោយស្វ័យប្រវត្តិ។
+* តម្លៃដែលបង្កកទាំងអស់ត្រូវបានបន្ថែមដោយស្វ័យប្រវត្តិទៅក្នុងបញ្ជីដែលបានរក្សាទុក។ អ្នកអាចគ្រប់គ្រងពួកវានៅក្រោមផ្ទាំងសមស្រប។
+\u0009* ទិន្នន័យបញ្ចូលទាំងអស់រក្សាទុកទៅបញ្ជី \"__history__\" ។ អ្នកអាចប្រើពួកវាដោយចុចប៊ូតុងប្រវត្តិ។
+"</string>
+    <string name="help_typical_usage">"* ក្បួនដោះស្រាយការប្រើជាទូទៅ:
+
+1) តម្លៃមិនត្រូវបានអ៊ិនគ្រីបនិងស្គាល់ទេ។
+\u0009ករណីធម្មតាគឺសម្រាប់លុយផ្កាយកាក់ធនធានជាដើម។
+
+\u0009ប្រើការស្វែងរកពិតប្រាកដ។
+
+2) តម្លៃមិនស្គាល់និង / ឬបានអ៊ិនគ្រីប។
+\u0009ករណីធម្មតានៃតម្លៃមិនស្គាល់មួយ - មាត្រដ្ឋាន / របារណាមួយ។ ឧទាហរណ៏សុខភាពម៉ាដា nitro ល។ ការផ្លាស់ប្តូរត្រូវបានគេមើលឃើញប៉ុន្តែមិនមានតំលៃជាលេខដែលអាចមើលឃើញ។
+\u0009A typical case for encrypted values would be money, stars, coins, etc., but when searching with 1 algorithm does not find anything, or change of found values does not lead to numbers changing in the game.
+
+\u0009ប្រើការស្វែងរកមិនច្បាស់។
+
+
+3) តម្លៃត្រូវបានអ៊ិនគ្រីប (__mode_hacking__) ។
+\u0009A typical case for encrypted values would be money, stars, coins, etc., but when searching with 1 algorithm does not find anything, or change of found values does not lead to numbers changing in the game.
+
+\u0009ប្រើការស្វែងរកពិតប្រាកដប៉ុន្តែតែងតែជ្រើសរើសប្រអប់ធីក \"__mode_hacking__\" ។
+\u0009រកឃើញលទ្ធផលអាចមានតម្លៃចម្លែកដោយសារការអ៊ិនគ្រីប។
+
+ក្បួនដោះស្រាយលេខ 3 គឺលឿនជាង 2 ប៉ុន្តែវាមិនដំណើរការសម្រាប់ល្បែងទាំងអស់ទេ។
+
+4) តម្លៃមិនត្រូវបានអ៊ិនគ្រីបត្រូវបានគេស្គាល់និងត្រូវបានដាក់នៅជិតតម្លៃដែលគេស្គាល់ផ្សេងទៀត។
+\u0009ករណីធម្មតាមួយគឺសម្រាប់តម្លៃក្នុងហាងស្តង់ដារវីរៈជាដើម។
+
+\u0009ប្រើការស្វែងរកក្រុមសម្រាប់លេខទាំងអស់ក្នុងពេលតែមួយ។
+"</string>
+    <string name="help_hints">"* ព័ត៌មានជំនួយ:
+
+\u0009* មិនមែនរាល់ល្បែងទាំងអស់អាចត្រូវបានកែប្រែដោយ __app_name__ ។ បញ្ជីឧទាហរណ៍ជាក់ស្តែង:
+\u0009\u0009* ទិន្នន័យដែលផ្ទុកនៅលើម៉ាស៊ីនមេ (ល្បែងម៉ាស៊ីនមេ)
+\u0009\u0009* ល្បែងត្រូវការការតភ្ជាប់អ៊ីធឺណិត
+\u0009\u0009* លេងបណ្តាញជាមួយអ្នកលេងផ្សេងទៀត
+\u0009\u0009* អ្នកត្រូវជ្រើសរើសម៉ាស៊ីនមេដើម្បីតភ្ជាប់នៅពេលចាប់ផ្តើមហ្គេម
+\u0009\u0009* អ្នកមិនអាចប្រើប្រាស់របស់ខ្លះដោយគ្មានអ៊ីនធឺណិត
+\u0009\u0009* ហ្គេមផ្ទុកឡើងវិញទិន្នន័យពីម៉ាស៊ីនមេប្រសិនបើអ្នកប្តូរអ្វីមួយ
+\u0009* តម្លៃដែលត្រូវបានគេមើលឃើញគឺមិនតែងតែដូចគ្នានឹងវិធីដែលគេរក្សាទុក។ វាអាចខុសគ្នា។ ឧទាហរណ៍នៅលើអេក្រង់យើងឃើញ 34 ប៉ុន្តែក្នុងសតិតម្លៃគឺ 34000 ។
+\u0009* បើអ្នកមិនអាចកែប្រែតម្លៃ - ព្យាយាមកែប្រែតម្លៃដែលប៉ះពាល់ដល់តម្លៃនេះ។ ឧទាហរណ៍ជំនួសឱ្យការផ្លាស់ប្តូរបរិមាណមាស, អ្នកអាចផ្លាស់ប្តូរតម្លៃនៃវត្ថុនិងលក់វា។ ឬទិញជាមួយតម្លៃអវិជ្ជមាន។
+"</string>
+    <string name="help">ជំនួយ</string>
+    <string name="help_floating_icon_title">រូបតំណាងអណ្តែត</string>
+    <string name="help_exact_search_title">ស្វែងរកពិតប្រាកដ</string>
+    <string name="help_speedhack_title">ល្បឿនលឿន</string>
+    <string name="help_group_search_title">ការស្វែងរកជាក្រុម</string>
+    <string name="help_others_title">អ្នកផ្សេងទៀត</string>
+    <string name="help_typical_usage_title">ក្បួនដោះស្រាយការប្រើជាទូទៅ</string>
+    <string name="help_hints_title">ព័ត៌មានជំនួយ</string>
+    <string name="value_format">ទ្រង់ទ្រាយតម្លៃ</string>
+    <string name="format_hex">កំណត់ក្រាហ្វិក Hex (តិចតួចបំផុត)</string>
+    <string name="format_rhex">ដាក់បញ្ច្រាស hex (big-endian) notation</string>
+    <string name="clear_selection">ជម្រះការជ្រើសរើស</string>
+    <string name="invert_selection">បញ្ច្រាសជម្រើស</string>
+    <string name="select_all">ជ្រើសរើស​ទាំងអស់</string>
+    <string name="edit_selected">កែសម្រួលបានជ្រើស</string>
+    <string name="delete_selected">លុបការជ្រើស</string>
+    <string name="save_selected">រក្សាទុកបានជ្រើសរើស</string>
+    <string name="nothing_selected">គ្មានអ្វីដែលបានជ្រើសរើស</string>
+    <string name="items_added">ធាតុ (__d__) បានបន្ថែមទៅបញ្ជីដែលបានរក្សាទុក</string>
+    <string name="no_items_for_editing">មិនមានធាតុដើម្បីកែសម្រួលទេ។</string>
+    <string name="edit_info">កែប្រែ __s__ ជា __s__</string>
+    <string name="edit_all_info">កែសម្រួលអាសយដ្ឋាន __d__ ជា __s__</string>
+    <string name="autopause">លេងហ្គេមដោយស្វ័យប្រវត្តិ:</string>
+    <string name="empty_list">"បញ្ជីដែលបានរក្សាទុកគឺទទេ។
+អ្នកអាចបន្ថែមធាតុទៅវាពីបញ្ជីលទ្ធផលស្វែងរកឬពីកម្មវិធីចងចាំ។
+គ្រាន់តែជ្រើសធាតុដែលចង់បានហើយជ្រើស \"__save_selected__\" នៅក្នុងម៉ឺនុយ។
+វិធីសាស្ត្រមួយផ្សេងទៀត - ចាប់ផ្តើមកែសម្រួលតម្លៃហើយពិនិត្យប្រអប់ធីក \"__save_as__\" ។
+តម្លៃកកទាំងអស់ត្រូវបានបន្ថែមនៅទីនេះដោយស្វ័យប្រវត្តិ។"</string>
+    <string name="empty_save">បញ្ជីដែលបានរក្សាទុកគឺទទេ។ មិនមានអ្វីត្រូវសង្រ្គោះទេ។</string>
+    <string name="revert_selected">ត្រឡប់មកវិញបានជ្រើស</string>
+    <string name="nothing_to_revert">គ្មានអ្វីត្រូវត្រឡប់ទៅវិញទេ</string>
+    <string name="revert_prompt">ត្រឡប់ធាតុដែលបានជ្រើស (__d__)?</string>
+    <string name="download">កម្មវិធីនេះអាចទាញយកពី:</string>
+    <string name="format_string">តំណាងខ្សែអក្សរ</string>
+    <string name="forgot_h">"តើអ្នកភ្លេច '__hex__' នៅចុងបញ្ចប់?"</string>
+    <string name="time_jump">លោតម៉ោង</string>
+    <string name="time_jump_hint">បញ្ចូលចំនួនវិនាទីដើម្បីលោតពីមុខ:</string>
+    <string name="hide_from_game">លាក់ __app_name__ ពីហ្គេម:</string>
+    <string name="last_stats">ស្ថិតិសម្រាប់ការស្វែងរកចុងក្រោយរបស់អ្នក</string>
+    <string name="memory_access">លទ្ធភាពទទួលបានការចងចាំ:</string>
+    <string name="normal">ធម្មតា</string>
+    <string name="extended">បានពង្រីក</string>
+    <string name="experimental">ពិសោធន៍</string>
+    <string name="installing">__app_name__ អនុវត្តការដំឡើងឡើងវិញដោយខ្លួនឯងដោយឈ្មោះចៃដន្យដើម្បីដកការរកឃើញដោយល្បែង។ រង់ចាំ។</string>
+    <string name="failed_install">បានបរាជ័យក្នុងការដំឡើងកម្មវិធី។ ព្យាយាមម្តងទៀត?</string>
+    <string name="failed_uninstall">បរាជ័យក្នុងការលុបកម្មវិធី។ ព្យាយាមម្តងទៀត?</string>
+    <string name="download_it">ទាញយក</string>
+    <string name="more">ច្រើនទៀត</string>
+    <string name="less">តិចជាង</string>
+    <string name="no_space">មិនមានសល់នៅលើឧបករណ៍របស់អ្នកទេ</string>
+    <string name="install_cancel_prompt">__app_name__ អាចត្រូវបានរកឃើញនៅពេលមិនបានដំឡើង។ តើអ្នកពិតជាចង់លុបចោលទេ?</string>
+    <string name="intercept">ស្ទាក់ចាប់</string>
+    <string name="need_restart">កម្មវិធីគោលដៅត្រូវតែចាប់ផ្តើមឡើងវិញដើម្បីអនុវត្តការផ្លាស់ប្តូរទាំងនេះ។</string>
+    <string name="must_be_root">"សម្រាប់ដំណើរការកម្មវិធីនេះឧបករណ៍របស់អ្នកត្រូវតែមាន root ។
+
+__app_name__ អាចធ្វើការនៅក្នុងរបៀបមានកំណត់ដោយគ្មានឫសតាមរយៈបរិស្ថាននិម្មិត។ ឧទាហរណ៍តាមរយៈលេខ __vspace_list__ និងផ្សេងៗទៀត។
+អានជំនួយសម្រាប់ព័ត៌មានលម្អិត។
+
+តើធ្វើដូចម្តេចដើម្បី root ឧបករណ៍ណាមួយ: http://www.xda-developers.com/root/"</string>
+    <string name="skip_">រំលង</string>
+    <string name="indent_for_the_status_bar">ចំណុចប្រទាក់អ្នកប្រើពីកំពូលនៃអេក្រង់:</string>
+    <string name="start_collecting_data">ចាប់ផ្តើមប្រមូលទិន្នន័យ</string>
+    <string name="data_collecting_in_progress">ការប្រមូលទិន្នន័យកំពុងដំណើរការ</string>
+    <string name="copy">ចម្លង</string>
+    <string name="show_logcat">បង្ហាញកាតាឡុក</string>
+    <string name="path_must_be">"ផ្លូវត្រូវតែមានយ៉ាងហោចណាស់តួអក្សរ 2 និងចាប់ផ្ដើមដោយ '/' ។"</string>
+    <string name="fix_it">ជួសជុល​វា​, ឬ​ដោះ​ស្រាយ​វា</string>
+    <string name="change_log">ផ្លាស់ប្តូរកំណត់ហេតុ</string>
+    <string name="used_only_first">ប្រើដំបូងតែប៉ុណ្ណោះ __d__ ។</string>
+    <string name="need_select_more">ត្រូវការជ្រើសរើសធាតុ __d__ ឬច្រើនជាងនេះ។</string>
+    <string name="offset">អុហ្វសិត:</string>
+    <string name="result">លទ្ធផល:</string>
+    <string name="copy_hex_value">ចម្លងតម្លៃគោលដប់ប្រាំមួយ:</string>
+    <string name="goto_pointer">ទៅកាន់ព្រួញ:</string>
+    <string name="offset_calculator">គណនាអុហ្វសិត</string>
+    <string name="fill_toolbar">បំពេញរបារឧបករណ៍:</string>
+    <string name="from_left">ពីឆ្វេង</string>
+    <string name="from_center">ពីកណ្តាល</string>
+    <string name="from_right">ពីខាងស្ដាំ</string>
+    <string name="unit_years_short">y</string>
+    <string name="unit_days_short">ឃ</string>
+    <string name="unit_hours_short">ម៉ោង</string>
+    <string name="unit_minutes_short">នាទី</string>
+    <string name="unit_seconds_short">វិ</string>
+    <string name="speed_info">__s__ នៅក្នុងពេលវេលាពិត = __s__ នៅក្នុងការប្រកួត</string>
+    <string name="search_helper">ស្វែងរកជំនួយ:</string>
+    <string name="off">បិទ</string>
+    <string name="go_to_game">ត្រលប់ទៅល្បែងវិញប្រសិនបើរកឃើញតម្លៃជាច្រើន</string>
+    <string name="go_to_game_and_restore">ត្រលប់ទៅហ្គេមវិញប្រសិនបើរកឃើញតម្លៃជាច្រើនហើយស្តាររបៀបស្វែងរកនៅបើកបន្ទាប់</string>
+    <string name="nothing">គ្មានអ្វីទេ</string>
+    <string name="sort">តម្រៀប</string>
+    <string name="sort_and_remove_duplicates">តម្រៀបនិងលុបស្ទួន</string>
+    <string name="help_basics_title">ព័ត៌មានមូលដ្ឋាន</string>
+    <string name="help_basics">"បន្ទាប់ពីអ្នកចាប់ផ្តើមកម្មវិធីដោយចុចប៊ូតុង \"__start__\" រូបតំណាងអណ្តែតនឹងបង្ហាញនៅលើអេក្រង់។ វាអាចអូសទៅទីតាំងណាមួយ។
+ការប្រើពេលខ្លីនៅលើរូបតំណាងនឹងបើកនូវចំណុចប្រទាក់កម្មវិធីធំ ៗ ដែលមានរយៈពេលយូរ - បង្ហាញបន្ទះសម្រាប់ការផ្លាស់ប្តូរល្បឿនហ្គេម។
+
+នៅក្នុងអេក្រង់មេអ្នកអាចឃើញ:
+\u0009* នៅជ្រុងខាងឆ្វេងខាងលើ - រូបតំណាងនៃល្បែង។ ការប៉ះលើវាអនុញ្ញាតឱ្យអ្នកជ្រើសរើសល្បែងមួយផ្សេងទៀត។
+\u0009* មានទីតាំងស្ថិតនៅកណ្តាលគឺជាចំណាំដើម្បីរុករកតាមផ្ទាំង។ ការប៉ះលើចំណាំដែលចង់បានបង្ហាញផ្ទាំងសមរម្យ។
+
+ជាសរុបមាន 4 ផ្ទាំង: ការកំណត់ការស្វែងរកបញ្ជីដែលបានរក្សាទុកនិងកម្មវិធីចងចាំ។
+\u0009* នៅជ្រុងខាងស្តាំនៃចំណុចប្រទាក់គឺជាប៊ូតុងបិទ។ ចុចវាហើយចំណុចប្រទាក់នឹងត្រូវបានលាក់ហើយរូបតំណាងអណ្តែតនឹងលេចឡើងនៅលើអេក្រង់។
+\u0009* នៅផ្នែកខាងក្រោមនៃអេក្រង់មានរបារស្ថានភាពនិងរូបតំណាងភ្នែក។ ប្រសិនបើអ្នកចុចលើរូបតំណាងភ្នែកចំណុចប្រទាក់នឹងមានតម្លាភាពដរាបណាអ្នកមិនចេញម្រាមដៃ។
+\u0009* មាតិកានៅសល់នៅលើអេក្រង់អាស្រ័យលើផ្ទាំងណាមួយដែលអ្នកកំពុងប្រើ។
+
+នៅលើផ្ទាំងនីមួយៗលើកលែងតែផ្ទាំងការកំណត់មានប៊ូតុងម៉ឺនុយដែលមានភាពខុសគ្នានៃសកម្មភាពដែលអាចធ្វើបាន។ នៅក្នុងនោះអ្នកនឹងឃើញសកម្មភាពចម្បងសម្រាប់ផ្ទាំងនេះ។
+
+ផ្ទាំងការកំណត់មានការកំណត់ការជួយនិងព័ត៌មានខុសៗគ្នាអំពីកម្មវិធីនិងប៊ូតុងចាកចេញ។
+
+ផ្ទាំងស្វែងរកមាន:
+\u0009* ផ្អាក, ឈ្មោះល្បែងដែលបានជ្រើសរើស, ចំនួនលទ្ធផលដែលបានរកឃើញ, និងប៊ូតុងធ្វើឱ្យស្រស់។
+\u0009* ខាងក្រោមគឺជាបន្ទះមួយដែលមានរូបតំណាងដំណើរការរហ័សនិងប៊ូតុងម៉ឺនុយមួយ។ រូបតំណាងទាំងអស់ត្រូវបានស្ទួននៅលើម៉ឺនុយដូច្នេះប្រសិនបើអ្នកមិនដឹងពីអត្ថន័យរបស់រូបតំណាងវាអាចមើលឃើញជានិច្ចដោយចុចលើប៊ូតុងម៉ឺនុយ (ស្តាំបំផុត) ។
+\u0009* ខាងក្រោមរូបតំណាងទាំងនោះនឹងជាបញ្ជីនៃលទ្ធផលស្វែងរក។
+
+ផ្ទាំងបញ្ជីដែលបានរក្សាទុកមាន:
+\u0009* ផ្អាក, ឈ្មោះរបស់កម្មវិធីដែលបានជ្រើស, ប៊ូតុងម៉ឺនុយនិងប៊ូតុងធ្វើឱ្យស្រស់។
+\u0009* នៅពីក្រោមរូបតំណាងទាំងនោះនឹងជាបញ្ជីនៃតម្លៃដែលបានរក្សាទុក។
+
+ផ្ទាំងកម្មវិធីនិពន្ធសតិគឺស្រដៀងទៅនឹងមុនដែរតែនៅទីនេះជំនួសឱ្យបញ្ជីនៃតម្លៃដែលបានរក្សាទុកវាបង្ហាញមាតិកាអង្គចងចាំ។
+
+នៅក្នុងបញ្ជីទាំងបី (លទ្ធផលស្វែងរក, តម្លៃដែលបានរក្សាទុកនិងកម្មវិធីកែសម្រួលការចងចាំ), អ្នកអាចអនុវត្តការប៉ះយូរលើធាតុដើម្បីបង្ហាញម៉ឺនុយបរិបទ។"</string>
+    <string name="daemon_killed">"ដេមិនត្រូវបានសម្លាប់ដោយអ្វីមួយ។
+
+ជាធម្មតាវាអាចជា:
+\u00091. ការចងចាំឬការបង្កើនល្បឿនណាមួយ។ អ្នកត្រូវតែបិទឃាតករណាមួយឬបន្ថែមលេខ __app_name__ បញ្ជីពណ៌សនៅក្នុងការកំណត់របស់វា។
+\u00092. __daemon_killed_oom__
+\u00093. The memory card was unmounted, while __app_name__ stored temporary files on it. To prevent this from happening, specify a different path to the temporary files. For example, in the internal memory."</string>
+    <string name="bad_settings">ការកំណត់មិនត្រឹមត្រូវ</string>
+    <string name="freeze_lags">ការប្រើតម្លៃបង្កករួមជាមួយការកំណត់ __hide_from_game__ អាចបណ្តាលឱ្យមានការចាញ់ក្នុងល្បែង។</string>
+    <string name="improve_translation">ការបកប្រែនេះត្រូវបានបង្កើតដោយអ្នកបកប្រែដោយស្វ័យប្រវត្តិ។ អ្នកអាចកែលម្អវាដោយប្រើសេវាកម្មបកប្រែរួមរបស់យើង។</string>
+    <string name="freeze_interval">ចន្លោះពេលបង្កក:</string>
+    <string name="saved_list_update_interval">ចន្លោះពេលធ្វើបច្ចុប្បន្នភាពបញ្ជីដែលបានរក្សាទុក:</string>
+    <string name="milliseconds_short">ms</string>
+    <string name="disable_floating_windows">បិទដំណើរការបង្អួចអណ្តែតនិងចាប់ផ្តើមកម្មវិធីឡើងវិញ</string>
+    <string name="enable_floating_windows">បើកបង្អួចអណ្តែតនិងចាប់ផ្ដើមកម្មវិធីឡើងវិញ</string>
+    <string name="too_many">ច្រើនពេក</string>
+    <string name="help_range_search_title">ស្វែងរកជួរ</string>
+    <string name="help_range_search">"* ការស្វែងរកជួរ:
+\u00091. ប្ដូរទៅ __app_name__ ពីហ្គេម។
+\u00092. ប៉ះប៊ូតុង \"__search_known_value__\" នៅក្នុងផ្ទាំង \"__search__\" ។
+\u00093. Enter a border search range, separated by \"__tilde__\". For example, to search for values from 100 to 150, enter:
+\u0009\u0009\u0009100__tilde__150
+\u0009\u0009ដើម្បីស្វែងរកខាងក្រៅជួរអ្នកអាចបញ្ជាក់តួអក្សរ \"__tilde__\" ពីរដង:
+\u0009\u0009\u0009100__tilde____tilde__150
+\u0009\u0009ជាជម្រើសអ្នកអាចជ្រើសរើសសញ្ញា \"__not_equal__\" ហើយបញ្ជាក់តួអក្សរ \"__tilde__\" ម្តង។
+\u0009\u0009ដើម្បីបញ្ចូលនិមិត្តសញ្ញាបន្ថែមសូមប្រើប៊ូតុង \"__btn_hex__\" លើក្តារចុចខាងក្នុង។
+\u00094. ជ្រើសរើសប្រភេទទិន្នន័យសមរម្យឬជ្រើសរើស \"__type_auto__\" (ប្រសិនបើអ្នកមិនប្រាកដ) និងជម្រើសផ្សេងទៀត (បើចាំបាច់) ហើយចុច \"__search__\" ។
+\u00095. When finished searching, search results will be displayed in the list.
+\u00096. ត្រលប់ទៅហ្គេម។ បន្ទាប់ពីតម្លៃបានផ្លាស់ប្តូរសូមប្តូរទៅ __app_name__ ម្តងទៀត។
+\u00097. ស្វែងរកម្តងទៀតដោយការផ្លាស់ប្តូរត្រឹមត្រូវ។
+\u00098. ប្រសិនបើមានលទ្ធផលច្រើនពេក, សូមធ្វើជំហានទី 6 និង 7 ម្តងទៀត។
+\u00099. If few results are left, you can try to modify, store or freeze the value.
+
+\u0009ព្រំដែននៃជួររួមបញ្ចូលក្នុងលទ្ធផលស្វែងរក។ អ្នកអាចជ្រើសរើសប្រភេទនៃការស្វែងរក \"__not_equal__\" ដើម្បីរកតម្លៃទាំងអស់ដែលមិនមែនជារបស់ជួរ។
+\u0009ក្នុងការស្វែងរកនេះតម្លៃទាំងអស់ត្រូវបានចាត់ទុកថាបានចុះហត្ថលេខា។
+"</string>
+    <string name="does_not_support">\"__s__\" មិនគាំទ្រ \"__s__\" ទេ។</string>
+    <string name="range_bounds_diff_types">ដែនកំណត់ជួរត្រូវតែជាប្រភេទដូចគ្នា។</string>
+    <string name="examples">ឧទាហរណ៍</string>
+    <string name="rtfm">អានជំនួយសម្រាប់ព័ត៌មានលម្អិត។</string>
+    <string name="icons_size">ទំហំរូបតំណាង:</string>
+    <string name="revert_and_remove">ត្រឡប់និងយកចេញ</string>
+    <string name="remove">យកចេញ</string>
+    <string name="ordered_group_search">ស្វែងរកតាមក្រុម</string>
+    <string name="load_items">ធាតុ</string>
+    <string name="load_values">តម្លៃ</string>
+    <string name="load_freeze">បង្កក</string>
+    <string name="video_tutorials">វីដេអូបង្រៀននិងណែនាំពីរបៀបដើម្បី hack</string>
+    <string name="make_copy">ធ្វើច្បាប់ចម្លង</string>
+    <string name="video">វីដេអូ</string>
+    <string name="ordered">បញ្ជា</string>
+    <string name="toolbars">របារឧបករណ៍</string>
+    <string name="saved_list">បញ្ជីដែលបានរក្សាទុក</string>
+    <string name="memory_editor">កម្មវិធីកែសម្រួលសតិ</string>
+    <string name="restart_game">ចាប់ផ្ដើមហ្គេមឡើងវិញ</string>
+    <string name="refine">សម្រាំង</string>
+    <string name="internal_storage">ឧបករណ៍ផ្ទុកខាងក្នុង</string>
+    <string name="external_storage">ឧបករណ៍ផ្ទុកខាងក្រៅ</string>
+    <string name="new_search">ការស្វែងរកថ្មី</string>
+    <string name="load_saved_list">ផ្ទុកបញ្ជីដែលបានរក្សាទុកពីឯកសារ</string>
+    <string name="save_saved_list">រក្សាទុកបញ្ជីដែលបានរក្សាទុកទៅឯកសារ</string>
+    <string name="append">បន្ថែមខាងចុង</string>
+    <string name="xor_key">សោ XOR:</string>
+    <string name="only_memory">មានតែនៅក្នុងជួរអង្គចងចាំប៉ុណ្ណោះ:</string>
+    <string name="dump_memory">សល់អង្គចងចាំ</string>
+    <string name="path">ផ្លូវ:</string>
+    <string name="dump_ended">បោះបង់ចោលបញ្ចប់</string>
+    <string name="dump_failed">បោះបង់បានបរាជ័យ</string>
+    <string name="eperm_error_defend">មិនអាចភ្ជាប់ទៅដំណើរការ (PTRACE_ATTACH): ហ្គេមត្រូវបានការពារ</string>
+    <string name="reset_on_exit">កំណត់ឡើងវិញនៅពេលចាកចេញ:</string>
+    <string name="kill_game">សម្លាប់ល្បែង</string>
+    <string name="kill_game_info">ការបញ្ចប់ដំណើរការដោយបង្ខំមិនធ្វើឱ្យដំណើរការមានឱកាសបិទទ្វារឱ្យស្អាតនិងអាចបណ្តាលឱ្យបាត់បង់ទិន្នន័យឬអស្ថិរភាពប្រព័ន្ធ។</string>
+    <string name="continue_ask">បន្ត?</string>
+    <string name="copy_memory">ចម្លងសតិ</string>
+    <string name="copy_from">ចម្លងពី:</string>
+    <string name="paste_to">បិទភ្ជាប់ទៅ:</string>
+    <string name="count_bytes">រាប់បៃ:</string>
+    <string name="copy_ended">ចម្លងសតិបានបញ្ចប់</string>
+    <string name="copy_failed">ចម្លងសតិបានបរាជ័យ</string>
+    <string name="help_encrypted_search_title">ស្វែងរកតម្លៃដែលបានអ៊ិនគ្រីប</string>
+    <string name="help_encrypted_search">"* ស្វែងរកតម្លៃដែលបានអ៊ិនគ្រីប:
+\u00091. ប្ដូរទៅ __app_name__ ពីហ្គេម។
+\u00092. ប៉ះប៊ូតុង \"__search_known_value__\" នៅក្នុងផ្ទាំង \"__search__\" ។
+\u00093. Input the number that is displayed in the game.
+\u00094. ជ្រើសរើសប្រភេទទិន្នន័យដែលសមស្របឬជ្រើសរើស \"__type_auto__\" (បើអ្នកមិនប្រាកដ) ជម្រើសផ្សេងទៀត (ប្រសិនបើចាំបាច់) \"__mode_hacking__\" ហើយចុច \"__search__\" ។
+\u00095. When finished searching, search results will be displayed in the list.
+\u00096. Go back to the game. After the value has changed, switch to __app_name__ again.
+\u00097. Search for the value that changed. Checkbox \"__mode_hacking__\" must be checked.
+\u00098. ប្រសិនបើមានលទ្ធផលច្រើនពេកសូមបន្ដជំហានទី 6 ។
+\u00099. If only a few results are left, you can try to modify, store or freeze the value.
+"</string>
+    <string name="help_faq_title">សំណួរ​ដែលគេ​ច្រើន​សួរ</string>
+    <string name="help_faq_1_q">ហេតុអ្វីបានជាខ្ញុំមិនអាចបញ្ចូលតម្លៃធំជាង 99 ឬ 60,000?</string>
+    <string name="help_faq_1_a">អ្នកបានរកឃើញតម្លៃនៃ __type_byte__ ឬ __type_word__ ។ រកមើល __type_dword__ ដើម្បីបញ្ចូលតម្លៃធំជាង។</string>
+    <string name="help_faq_2_q">តើធ្វើដូចម្តេចដើម្បីស្វែងរកតម្លៃប្រភាគ (__type_float__) ដោយគ្មានផ្នែកប្រភាគនៃតម្លៃ?</string>
+    <string name="help_faq_2_a">ប្រើប្រភេទទិន្នន័យ \"__type_auto__\" ឬជួរស្វែងរក។ ឧទាហរណ៍សម្រាប់ 11.345 អ្នកអាចស្វែងរក \"10__tilde__12\" ។</string>
+    <string name="help_faq_3_q">ខ្ញុំបានរកឃើញតម្លៃនិងបានផ្លាស់ប្តូរវាប៉ុន្តែនៅក្នុងហ្គេមការផ្លាស់ប្តូរនេះមិនធ្វើអ្វីទេ។ ខ្ញុំគ្រាន់តែព្យាយាមប្រើវាតែអ្វីៗគ្រប់យ៉ាងត្រលប់មកវិញ។ តើខ្ញុំធ្វើអ្វីខុស?</string>
+    <string name="help_faq_3_a">"នៅក្នុងល្បែងខ្លះតម្លៃត្រូវបានការពារឬដាក់លេខកូដ។ មុនពេលបង្ហាញតម្លៃតម្លៃត្រូវបានឌិគ្រីបទៅក្នុងអថេរផ្សេង។ អ្នកបានប្តូរវា។
+ដោយសារតម្លៃនេះត្រូវបានប្រើសម្រាប់តែការបង្ហាញវាមិនប៉ះពាល់ដល់មេកានិចហ្គេមទេ។ ដើម្បីរកតម្លៃពិតប្រាកដជាជាងតម្លៃដែលបានបង្ហាញសូមប្រើការស្វែងរកតម្លៃដែលបានអ៊ិនគ្រីបឬការស្វែងរកដែលមិនច្បាស់។
+ជួនកាលតម្លៃត្រូវបានរក្សាទុកនៅលើម៉ាស៊ីននិងធ្វើសមកាលកម្មរាល់ពេល។ ក្នុងករណីនេះវាមិនអាចត្រូវបានកាប់។ ប្រសិនបើល្បែងមិនដំណើរការដោយគ្មានអ៊ិនធឺណិតនិងវិធីមុនមិនបានជួយ - ទំនងជារឿងនេះ។"</string>
+    <string name="help_faq_4_q">មិនរកឃើញតម្លៃនៅក្នុងល្បែង X ទេ។ ឬរកវាប៉ុន្តែនៅពេលដែលគ្មានអ្វីផ្លាស់ប្តូរកើតឡើង។ ឬវារកឃើញវាប៉ុន្តែបន្ទាប់ពីវាបានផ្លាស់ប្តូរការលេងហ្គេមគាំង។ តើខ្ញុំដឹងថាបញ្ហាអ្វីខ្លះគឺតើវាជាការការពារនៅក្នុងការប្រកួតឬ __app_name__ ដែរឬទេ?</string>
+    <string name="help_faq_4_a">"អ្នកត្រូវតែយកកម្មវិធីសាមញ្ញដែលត្រូវបានធានាថាគ្មានការការពារហើយសាកល្បងវា។ ខ្ញុំចូលចិត្តប្រើ \"Hill Climb Racing\" ។ ល្បែងគឺសាមញ្ញមិនស្មុគ្រស្មាញហើយមិនមានការការពារណាមួយឡើយ។ អ្នកអាចពិនិត្យមើលការលួចលុយជាការស្វែងរកដោយផ្ទាល់ដោយលេខនិងការស្វែងរកមិនច្បាស់សម្រាប់ការផ្លាស់ប្តូរ។
+ប្រសិនបើការ hack នៅលើល្បែងដ៏សាមញ្ញនេះដំណើរការ, នោះវាជាល្បែង X ដែលអ្នកព្យាយាម hack ។ ប្រសិនបើមិនមែនទេនោះបញ្ហាគឺស្ថិតនៅក្នុង __app_name__ ។
+មានសូម្បីតែជម្រើសកាន់តែងាយស្រួលគឺ \"ប៉ះទំនិញ\" ។ ដំឡើងវា។ រត់។ ព្យាយាមបង្ក្រាបចំនួនវីដេអូដែលបង្ហាញនៅលើអេក្រង់។ វាគួរតែមានភាពងាយស្រួលណាស់។ ប្រសិនបើមិនមែនទេនោះបញ្ហាគឺនៅក្នុង __app_name__ ឬការកំណត់របស់វា។
+សាកល្បងកំណែផ្សេងទៀតរបស់ __app_name__ សូមព្យាយាមស្វែងរកការពិពណ៌នាអំពីកំហុសដែលបានទទួលនៅលើវេទិការក្នុងប្រធានបទដែលពាក់ព័ន្ធឬនៅលើអ៊ីនធឺណិត។ ក្នុងករណីធ្ងន់ធ្ងរអ្នកអាចសួរនៅក្នុងវេទិកា។"</string>
+    <string name="help_faq_5_q">តើធ្វើដូចម្តេចដើម្បីស្វែងរកពេលវេលា?</string>
+    <string name="help_faq_5_a">"\u0009- ព្យាយាមស្វែងរកជាចំនួនថ្ងៃម៉ោងរាប់នាទីឬវិនាទី។ ប្រភេទទិន្នន័យអាចជា __type_byte__, __type_word__, __type_dword__ រឺ __type_qword__ ។ អ្នកក៏អាចប្រើប្រភេទ __type_auto__ ផងដែរ។
+\u0009- ព្យាយាមស្វែងរកជាចំនួននៃ milli - nanoseconds ។ ប្រភេទទិន្នន័យគឺ __type_dword__ រឺ __type_qword__ ។
+\u0009- ព្យាយាមស្វែងរកជាយូនីកកាលបរិច្ឆេទបញ្ចប់។ ប្រភេទ - __type_dword__ ។ វាត្រូវបានគេចាត់ទុកថាជាភាពខុសគ្នារវាងត្រាយូនីកបច្ចុប្បន្ននិងពេលវេលាដែលបានរក្សាទុក។ ស្វែងរកតាមរយៈការស្វែងរកជួរ។
+ឧទាហរណ៍ប្រសិនបើ 30 ថ្ងៃត្រូវបានសរសេរបន្ទាប់មកអ្នកកំពុងស្វែងរក 30 +/- 1 ថ្ងៃពីពេលវេលា Unix បច្ចុប្បន្ន។ សញ្ញាបង្ហាញយូនីកូដបច្ចុប្បន្នអាចមើលបានយ៉ាងងាយស្រួលនៅលើអ៊ីនធឺណិត។"</string>
+    <string name="help_faq_6_q">វាអាចធ្វើទៅបានក្នុងការ hack ហ្គេមអនឡាញ?</string>
+    <string name="help_faq_6_a">វាគឺអាចធ្វើទៅបានដើម្បី hack ទិន្នន័យដែលត្រូវបានរក្សាទុកនៅលើម៉ាស៊ីនភ្ញៀវ។ អ្វីដែលនៅលើម៉ាស៊ីនមេមិនអាចត្រូវគេកាប់។ នៅក្នុងការប្រកួតផ្សេងគ្នាអាចជាវិធីផ្សេងគ្នា។ សូម្បីតែនៅក្នុងល្បែងអ្នកលេងតែមួយក៏ដោយទិន្នន័យមួយចំនួនអាចនៅលើម៉ាស៊ីនមេហើយខ្លះប្រហែលជាមិនមាន។</string>
+    <string name="help_faq_7_q">តើការរត់ល្បឿនលឿននៅឯណា?</string>
+    <string name="help_faq_7_a">"Speedhack មិនដំណើរការលើឧបករណ៍ x86 / វត្ថុត្រាប់តាមសម្រាប់ហ្គេមដែលមិនមានបណ្ណាល័យ x86 ទេ។
+ដូចគ្នានេះផងដែរសម្រាប់បរិយាកាសប្រឆាំងអេដស៍ការប្រើល្បឿនលឿនមិនដំណើរការជាមួយអ្នកកំណត់ពេលចាវ៉ាទេ។ ប្រសិនបើល្បែងប្រើប្រាស់ពួកវាហើយអ្នកមានបរិបទប្រឆាំងអេដស៍ (ជាធម្មតាប្រព័ន្ធប្រតិបត្តិការ Android 5 និងខ្ពស់ជាងនេះ) នោះល្បឿនលឿននឹងមិនដំណើរការទេ។"</string>
+    <string name="help_faq_8_q">__app_name__ ជាការងារទាំងមូលសម្រាប់ខ្ញុំប៉ុន្តែនៅក្នុងល្បែងខ្លះខ្ញុំទទួលបានកំហុស PTRACE_ATTACH ។ ហេតុអ្វីនិងអ្វីដែលត្រូវធ្វើអំពីវា?</string>
+    <string name="help_faq_8_a">ល្បែងនេះត្រូវបានបំពាក់ដោយការការពារប្រឆាំងនឹងការបំបាត់កំហុសដោយប្រភេទនៃការការពារ SecNeo ។ __app_name__ មិនអាចចៀសវាងការការពារនេះបានទេ។ តាមរយៈវាអ្នកមិនអាច hack ហ្គេមនេះបានទេ។</string>
+    <string name="help_faq_9_q">ហេតុអ្វីកម្មវិធីនេះមានឈ្មោះកញ្ចប់ចម្លែក? ហេតុអ្វីកម្មវិធីមិនត្រូវបានធ្វើបច្ចុប្បន្នភាព, ប៉ុន្តែរាល់ពេលដំឡើងដោយឡែកពីគ្នា? ហេតុអ្វីបានជាកំណែនីមួយៗមានឈ្មោះកញ្ចប់ផ្សេងគ្នា?</string>
+    <string name="help_faq_9_a">ដើម្បីបងា្ករការរកឃើញដោយការបន្លំប្រឆាំងដោយឈ្មោះកញ្ចប់។</string>
+    <string name="help_faq_10_q">នៅក្នុងល្បែងខ្លះនៅពេលប្តូរល្បឿន (ល្បឿនលឿន) ពួកគេឈប់ឆ្លើយតបនឹងការចុច។ តើការការពារហ្គេមឬកំហុសកម្មវិធី?</string>
+    <string name="help_faq_10_a">នេះមានន័យថាល្បឿនលឿនរបស់អ្នកបង្អាក់អ្នកកំណត់ពេលវេលាបញ្ចូលហើយវាងាប់។ វាចាំបាច់ក្នុងការជ្រើសធីកពណ៌បៃតងនៅក្នុងបញ្ជីនៃកម្មវិធីកំណត់ពេល (នៅក្នុងការកំណត់នៃលេខ __app_name__) ដូច្នេះវាមិនកើតឡើងទេ។</string>
+    <string name="help_faq_11_q">ហេតុអ្វីបានជាវាចេញបញ្ជីកំហុសដែលបំបែកដោយសញ្ញាក្បៀស?</string>
+    <string name="help_faq_11_a">ពីព្រោះសញ្ញាកំណត់លេខគឺជាសញ្ញា (\"__semicolon__\") ។</string>
+    <string name="help_faq_12_q">តើខ្ញុំត្រូវធ្វើការស្វែងរកច្រើនដងក្នុងពេលតែមួយដោយរបៀបណា?</string>
+    <string name="help_faq_12_a">នៅពេលនេះកម្មវិធីមិនអនុញ្ញាតឱ្យនេះទេប៉ុន្តែអ្នកអាចដំឡើងកម្មវិធីច្រើនដងហើយរត់ឯកសារជាមួយគ្នាបើមានសតិនិងទំហំថាសគ្រប់គ្រាន់។</string>
+    <string name="help_faq_13_q">តើខ្ញុំត្រូវធ្វើបច្ចុប្បន្នភាពកម្មវិធីបើសិនជាមិនមានអ្វីសំខាន់នៅក្នុងការផ្លាស់ប្តូរទេ?</string>
+    <string name="help_faq_13_a">វាត្រូវបានស្នើ។ ការគាំទ្រគឺសម្រាប់តែកំណែថ្មីបំផុតប៉ុណ្ណោះ។</string>
+    <string name="help_faq_14_q">និមិត្តសញ្ញា \"!\" និង \"#\" មុនពេលឈ្មោះដំណើរការ?</string>
+    <string name="help_faq_14_a">"នេះគឺជាដំណើរការដែលត្រូវបានតាមដាន។
+\u0009\"#\" - មុនពេលដំណើរការមានន័យថាវាត្រូវបានរកឃើញដោយដំណើរការមួយចំនួន។
+\u0009\"!\" - មុនពេលដំណើរការដំណើរការនេះត្រូវបានដំណើរការដំណើរការមួយចំនួនផ្សេងទៀត។
+ការតាមដានគឺជាការធម្មតាសម្រាប់ការកែកំហុសឬការលួច។ វាក៏ត្រូវបានប្រើក្នុងការការពារមួយចំនួនផងដែរ។ ជាធម្មតាដំណើរការដែលមានសញ្ញា \"#\" គឺជាដំណើរការការពារ។"</string>
+    <string name="help_faq_15_q">ហេតុអ្វីបានជាកម្មវិធីបន្ទាប់ពីការដំឡើងស្តង់ដារក៏បានដំឡើងដោយខ្លួនឯងផងដែរដោយស្នើសុំសិទ្ធិជា root?</string>
+    <string name="help_faq_15_a">__app_name__ តំឡើងម្តងទៀតដោយខ្លួនឯងជាមួយទិន្នន័យចៃដន្យដើម្បីទប់ស្កាត់ការរកឃើញរបស់វាតាមរយៈការបន្លំ។ សិទ្ធិជា root ត្រូវបានត្រូវការសម្រាប់ការ \"ស្ងាត់\" ការដំឡើងនិងការលុប។ អ្នកមិនអាចផ្តល់ឱ្យពួកគេ។ ក្នុងករណីនេះអ្នកនឹងត្រូវឆ្លើយតបដោយដៃទៅគ្រប់សំណើទាំងអស់របស់ប្រព័ន្ធសម្រាប់ដំឡើងកម្មវិធី។</string>
+    <string name="help_faq_16_q">តើ __pkg__ គឺជាអ្វី? វាជាមេរោគ Trojan ឬមេរោគ? វាមានសុវត្ថិភាពក្នុងការផ្តល់សិទ្ធិចូលដំណើរការកម្មវិធីនេះ?</string>
+    <string name="help_faq_16_a">នេះជាឈ្មោះមូលដ្ឋាននៃកញ្ចប់ __app_name__ ។ ការចេញចូលដំណើរការរបស់ប្រព័ន្ធមានសុវត្ថិភាពប្រសិនបើ __app_name__ ត្រូវបានទាញយកពីប្រភពដែលជឿទុកចិត្ត។</string>
+    <string name="help_faq_17_q">ហេតុអ្វីបានជា __app_name__ នៅក្នុងបញ្ជីនៃកម្មវិធីដែលបានដំឡើងដែលមានឈ្មោះថាជាសំណុំតួអក្សរចៃដន្យ? ហេតុអ្វីបានជាតួអក្សរនេះកំណត់ការចូលដំណើរការជា root? ហេតុអ្វីនៅពេលចាប់ផ្តើម __app_name__ សរសេរថា root មិនត្រូវបានផ្តល់ដោយ __app_name__ ប៉ុន្តែដោយប្រភេទមួយចំនួន abracadabra?</string>
+    <string name="help_faq_17_a">ដោយសារតែ __app_name__ ប្រើវាដើម្បីលាក់ខ្លួនពីការរកឃើញដោយការបន្លំ។</string>
+    <string name="help_faq_18_q">ជួនកាលហេតុអ្វីក៏ __app_name__ នៃជំនាន់ចុងក្រោយបង្អស់ត្រូវបានរកឃើញដោយការប្រឆាំងនឹងកម្តៅថ្ងៃហើយជួនកាលមិនមាន?</string>
+    <string name="help_faq_18_a">ដោយសារតែ __app_name__ ប្រើរបស់ផ្សេងគ្នាដើម្បីលាក់ខ្លួនពីការរកឃើញដោយការបន្លំ។ នេះរួមបញ្ចូលទាំងឈ្មោះនិងកម្មវិធីកញ្ចប់ចៃដន្យ។ នៅពេលដំឡើងនីមួយៗវាខុសគ្នា។ សាកល្បងតំឡើងឡើងវិញ __app_name__ ដើម្បីបង្កើតឡើងវិញ។ ប្រហែលជាបន្ទាប់ពីការបន្លំនេះនឹងឈប់មើល __app_name__ ។</string>
+    <string name="help_faq_19_q">ហេតុអ្វីហ្គេមរបស់ខ្ញុំមិននៅក្នុងបញ្ជីកម្មវិធី?</string>
+    <string name="help_faq_19_a">ដោយសារនេះជាបញ្ជីកម្មវិធីកំពុងដំណើរការហើយកម្មវិធីរបស់អ្នកមិនកំពុងដំណើរការ។ រត់វាហើយបន្ទាប់មកជ្រើសវាក្នុង __app_name__ ។</string>
+    <string name="help_faq_20_q">ហេតុអ្វីកម្មវិធី Java មិនអាចឆ្លើយតបទៅនឹងល្បឿនលឿននៅលើប្រព័ន្ធប្រតិបត្តិការ Android 5 ឬខ្ពស់ជាងនេះ?</string>
+    <string name="help_faq_20_a">ដោយសារតែល្បឿនលឿនត្រូវបានរចនាឡើងសម្រាប់ល្បែងដែលមានបណ្ណាល័យកំណើត។ កម្មវិធីរបស់អ្នកមិនមែនទេ។ ហើយចាប់តាំងពី Android 5 បានប្រើប្រាស់បរិបទនៃ ART ជំនួសអោយ Dalvik ដែលធ្វើឱ្យវាមិនអាចទៅរួចក្នុងការរារាំងអ្នកកំណត់ពេលចាវ៉ា។ កុំធ្វើអ្វីសោះ។ ស្ថានភាពនេះនឹងមិនផ្លាស់ប្តូរនាពេលអនាគត។</string>
+    <string name="help_faq_21_q">ខ្ញុំបានប្រើឧបករណ៍ល្បឿនលឿន / hacking ផ្សេងទៀតនៅលើប្រព័ន្ធប្រតិបត្តិការ Android 4 ហើយអ្វីគ្រប់យ៉ាងដែលបានធ្វើការ។ ឥឡូវនេះខ្ញុំដាក់លេខ __app_name__ នៅលើប្រព័ន្ធប្រតិបត្តិការ Android 5 និងខ្ពស់ជាងប៉ុន្តែវិធីសាស្រ្តទាំងនោះមិនដំណើរការទេ។ ហេតុអ្វី?</string>
+    <string name="help_faq_21_a">"ដោយសារអ្វីៗជាច្រើនបានផ្លាស់ប្តូរហើយឧបករណ៍ប្រើប្រាស់របស់អ្នកនឹងមិនដំណើរការដូចនេះទេ។ កុំបង្កើតការបំភាន់របស់អ្នកដែល __app_name__ នេះគឺអាក្រក់ណាស់ប៉ុន្តែប្រសិនបើមានឧបករណ៍ប្រើប្រាស់នោះបន្ទាប់មក uh! មិនមានរឿងបែបនេះទេ។
+ដើម្បីសាកល្បងនេះសូមដំឡើង __app_name__ នៅលើប្រព័ន្ធប្រតិបត្តិការ Android 4 ហើយធ្វើម្តងទៀតនូវសកម្មភាពដូចគ្នាទាំងអស់នៅក្នុងឧបករណ៍នោះ។ ជាលទ្ធផលអ្នកនឹងទទួលជោគជ័យ។ ប៉ុន្តែនេះមិនមានន័យថាវិធីសាស្ត្រដូចគ្នាទាំងនេះនឹងដំណើរការលើប្រព័ន្ធប្រតិបត្តិការ Android 5 រឺខ្ពស់ជាងនេះទេ។
+ការពិតនេះត្រូវបានបញ្ជាក់ជាពិសោធន៍ម្តងហើយម្តងទៀត។"</string>
+    <string name="help_faq_22_q">ខ្ញុំកំពុងមើលគំរូវីដេអូ / រូបថតអេក្រង់ហើយមានទិន្នន័យផ្សេងទៀតនៅក្នុងកម្មវិធីចងចាំ។ ហេតុអ្វី?</string>
+    <string name="help_faq_22_a">ដោយសារតែវីដេអូ / រូបថតអេក្រង់មានទ្រង់ទ្រាយលទ្ធផលខុសគ្នា។ នៅក្នុងកម្មវិធីកែសម្រួលការចងចាំចុចម៉ឺនុយ - ជ្រើស \"__value_format__\" ហើយកំណត់រចនាសម្ព័ន្ធលទ្ធផលដូចដែលវាគួរ។</string>
+    <string name="help_faq_23_q">នៅពេលដែលតម្លៃត្រូវបានកកល្បែងចាប់ផ្តើមល្បែងឬហ្វ្រេស។ ហេតុអ្វី?</string>
+    <string name="help_faq_23_a">ដោយសារតែអ្នកមាននៅក្នុងការកំណត់ __app_name__ ជម្រើសដើម្បីបើក \"__hide_from_game__\" ។ បិទវា។</string>
+    <string name="help_faq_24_q">តើខ្ញុំអាចបិទការត្រួតពិនិត្យមើលកំណែថ្មីនៅពេលខ្ញុំចាប់ផ្តើមកម្មវិធីយ៉ាងដូចម្តេច?</string>
+    <string name="help_faq_24_a">គ្មានផ្លូវទេ។</string>
+    <string name="help_faq_25_q">តើត្រលប់ក្រោយវិញក្នុងកម្មវិធីយ៉ាងដូចម្តេច? តើវាអាចធ្វើឱ្យពេលវេលាមិនលោតទៅមុខទេប៉ុន្តែថយក្រោយវិញ?</string>
+    <string name="help_faq_25_a">គ្មានផ្លូវទេ។ អ្នក​មិនអាច។ ពេលវេលាត្រូវតែកើនឡើងបើមិនដូច្នេះទេហ្គេមអាចគាំង។ ទោះជាយ៉ាងណាក៏ដោយនៅក្នុងកំណែចុងក្រោយបំផុតដែលយើងបានបន្ថែមលទ្ធភាពនៃការលោតពេលអវិជ្ជមាន។ លទ្ធផលអាចជាព្យួរហ្គេមឬបាត់បង់ទិន្នន័យ។ ត្រូវ​បាន​ហាម។</string>
+    <string name="help_faq_26_q">ខ្ញុំបានដាក់រូបសញ្ញាហើយវាបានបាត់។ តើខ្ញុំអាចយកវាមកវិញបានដោយរបៀបណា?</string>
+    <string name="help_faq_26_a">រូបតំណាងនឹងមានតម្លាភាពប៉ុន្តែអ្នកនៅតែអាចចុចលើវាបាន។ ចុចកន្លែងដែលវារួចហើយប្តូរការកំណត់តាមរយៈចំណុចប្រទាក់។</string>
+    <string name="help_faq_27_q">តើខ្ញុំត្រូវស្វែងរកតម្លៃបើសិនជាវាត្រូវបានបង្ហាញនៅក្នុងការបង្គ្រប់ដោយល្បែងមែនទេ? ឧទាហរណ៍ 1.85M ។</string>
+    <string name="help_faq_27_a">ស្វែងរកជួរស្វែងរក។ ដែនកំណត់កំណត់អាស្រ័យលើច្បាប់បង្គត់។ ឧទាហរណ៍ \"1845000__tilde__1854999\" សម្រាប់ការបង្គត់ស្តង់ដារ។</string>
+    <string name="help_faq_28_q">តើខ្ញុំស្វែងរកតម្លៃភាគរយដោយរបៀបណា? ឧទាហរណ៍ 123__percent__ ។</string>
+    <string name="help_faq_28_a">វាអាស្រ័យលើការអនុវត្ត។ សម្រាប់ការប្រកួតនីមួយៗវាអាចមានភាពខុសគ្នា។ ឧទាហរណ៍ 123__percent__ ។ វាអាចត្រូវបាន __type_float__ ឬ __type_double__ ជាមួយនឹងតម្លៃណាមួយ។ ដូច 1.23 ឬ 123.0 ។ ឬវាអាចជាប្រភេទលេខទូរស័ព្ទ: __type_byte__, __type_word__, __type_dword__ ។ ឧទាហរណ៍ 123 ឬ 12300 ។ នៅលើលទ្ធផលវាអាចបែងចែកជាលេខ។ 100 ឬ 345 ឬអ្វីផ្សេងទៀត។ សម្រាប់ល្បែងនីមួយៗវាអាចខុសគ្នា។ អ្នកអាចសាកល្បងករណីជាក់ស្តែងបំផុត។ សម្រាប់លេខ 123__percent__ វាអាចជា 1.23 ឬ 123 ។ ប្រភេទ - __type_auto__ ។ ប្រសិនបើអ្នកមានសំណាងវាអាចជាអ្វីដែលអ្នកត្រូវការ។</string>
+    <string name="help_faq_29_q">ចុះបើល្បែងរកឃើញលេខ __app_name__?</string>
+    <string name="help_faq_29_a">"សូមសាកល្បងជម្រើសដូចខាងក្រោមនេះ (ច្រៀងរឺជាការរួមបញ្ចូលគ្នាណាមួយ):
+\u0009- បើក \"ការ __hide_from_game__\" ជម្រើស។ ជាធម្មតាគ្រប់គ្រាន់ 2, 3 និងជម្រើសទី 4 ។
+\u0009- កុំបោះបង់ការដំឡើងឡើងវិញ __app_name__ ជាមួយឈ្មោះចៃដន្យមួយ។ នេះត្រូវបានធ្វើជាលើកដំបូងមួយត្រូវបានរត់នៅខាងក្រៅ __app_name__ នៃចន្លោះនិម្មិត។
+\u0009- ប្រើ XPrivacy ឬឧបករណ៍ស្រដៀងគ្នា។ មើលទៅនៅលើអ៊ីនធឺណិតសម្រាប់របៀបធ្វើនេះ។
+\u0009- ប្រសិនបើអ្នកមានសិទ្ធិជា root, ប្រើជា root ពីចន្លោះនិម្មិតជាមួយនឹងការដំឡើងកម្មវិធីដែលបានលាក់។ សូមអានបន្ថែមទៀតនៅក្នុងបរិបទជំនួយសម្រាប់ \"__vspace_root__\" ការកំណត់។"</string>
+    <string name="work_without_selinux">ប្ដូរទៅធ្វើការដោយគ្មាន __selinux__ ហើយចាប់ផ្ដើមកម្មវិធីឡើងវិញ</string>
+    <string name="work_with_selinux">ប្ដូរទៅធ្វើការជាមួយ __selinux__ ហើយចាប់ផ្តើមកម្មវិធីឡើងវិញ</string>
+    <string name="file">ឯកសារ:</string>
+    <string name="file_not_found">រក​មិន​ឃើញ​ឯកសារ:</string>
+    <string name="export_selected">នាំចេញបានជ្រើស</string>
+    <string name="failed_list_dir">បានបរាជ័យក្នុងការអានបញ្ជីឯកសារ។</string>
+    <string name="change_float_type">ជ្រើសប្រភេទបង្អួចអណ្តែត</string>
+    <string name="reset_float_type">កំណត់ប្រភេទបង្អួចអណ្តែតឡើងវិញ</string>
+    <string name="mask">របាំងមុខ:</string>
+    <string name="mask_request">បញ្ចូលអាសយដ្ឋានដើម្បីស្វែងរក</string>
+    <string name="help_mask_search_title">ស្វែងរក (របាំង)</string>
+    <string name="help_mask_search">"* ការស្វែងរកអាស័យដ្ឋាន (របាំង):
+\u0009អ្នកអាចស្វែងរកឬត្រងតាមអាសយដ្ឋានដោយប្រើរបាំង។
+
+\u0009ឧទាហរណ៍ធម្មតាគឺស្វែងរកអាសយដ្ឋានដែលបញ្ចប់ដោយតម្លៃដែលស្គាល់។ ឧទាហរណ៍នៅលើ \"12E\" ។
+
+\u0009ប៉ារ៉ាម៉ែត្រស្វែងរកគឺជាអាសយដ្ឋាននិងម៉ាស់។
+\u0009នៅក្នុងអាសយដ្ឋានអាចត្រូវបានប្រើតួអក្សរជំនួស (\"__question__\") ។ និមិត្តសញ្ញានេះមានន័យថាវាអាចជាតួអក្សរណាមួយពី \"0\" ទៅ \"F\" ។
+\u0009របាំងបន្ថែមត្រូវបានបង្កើតឡើងពីអាសយដ្ឋានដូច្នេះសូន្យនាំមុខគឺមានសារៈសំខាន់។ ដូច្នេះការស្វែងរក \"0120\" និងការស្វែងរក \"120\" គឺមិនមែនដូចគ្នាទេ។
+\u0009ក្នុងករណីទីមួយនឹងត្រូវបានរកឃើញ: \"00010120\", \"00020120\", \"00030120\" ជាដើម។ ខណៈពេលដែលនៅក្នុងវិនាទី: \"00001120\", \"00002120\", \"00003120\" និងច្រើនទៀត។
+
+\u0009You can search both for equality and for the inequality indicated by the mask. The second option can be useful for eliminating unnecessary values.
+
+\u0009អាសយដ្ឋាននិងរបាំងត្រូវបានបញ្ចូលក្នុងប្រព័ន្ធប្រព័ន្ធគោលដប់ប្រាំមួយនិងដោយគ្មានលិខិត \"__hex__\" នៅចុងបញ្ចប់។
+\u0009របាំងដែលទទួលបានពីអាសយដ្ឋានកាត់ជាមួយរបាំងដែលត្រូវបានបញ្ចូលដោយអ្នក។ នេះជារបាំងស្វែងរកលទ្ធផល។
+
+\u0009ឧទាហរណ៍ដូចខាងក្រោមគឺស្មើ, ដោយសារតែរបាំងលទ្ធផលមានដូចគ្នា - \"FF0\"
+__mask_example__
+"</string>
+    <string name="use_sound_effects">ប្រើបែបផែនសំឡេង:</string>
+    <string name="from_range">ពី:</string>
+    <string name="to_range">ទៅ:</string>
+    <string name="resultant_mask">របាំងលទ្ធផល:</string>
+    <string name="show_time_jump_panel">បង្ហាញបន្ទះលោតពេលវេលា:</string>
+    <string name="use_notification">ប្រើការជូនដំណឹង:</string>
+    <string name="show_gg">បង្ហាញ __app_name__</string>
+    <string name="hide_gg">លាក់ __app_name__</string>
+    <string name="time_remaining">ពេលវេលា​នៅសល់:</string>
+    <string name="help_fill_title">បំពេញ (បង្កើន) តម្លៃ</string>
+    <string name="help_fill">"* បំពេញ (តម្លៃបន្ថែម):
+\u0009ជារឿយៗវាត្រូវបានរកឃើញតម្លៃច្រើនពេកប៉ុន្តែវាមិនអាចប្តូរពីល្បែងបានទេ។
+\u0009នៅក្នុងករណីនេះបំពេញបានមកជួយ។
+
+\u0009ឧទាហរណ៍ជាក់ស្តែងនៃការប្រើគឺការស្វែងរកតម្លៃនៃធាតុមួយជាមួយនឹងការជំនួសជាបន្តបន្ទាប់ដោយអវិជ្ជមានមួយ។
+
+\u00091. Select the desired items.
+\u00092. ជ្រើសរើស \"__edit_selected__\" ។
+\u00093. ចុចប៊ូតុង \"__more__\" ដើម្បីបង្ហាញ \"__increments__\" វាលប្រសិនបើវាលនេះមិនមាន។
+4. នៅក្នុង \"__increments__\" វាល, បញ្ចូលតម្លៃកើនឡើង។ តាមធម្មតានេះគឺ 1. ហើយចុច \"__yes__\" ។
+\u00095. The selected items will receive new values.
+\u00096. Go to the game and see how the desired value has changed, moving across game screens.
+\u00097. If the value has not changed, then the desired element not among selected. Return to __app_name__ and using the \"__delete_selected__\" -> \"__revert_and_remove__\", remove the selected items, returning them the previous value. Now you can try everything from the beginning with other elements, if there are any.
+\u00098. ប្រសិនបើតម្លៃបានផ្លាស់ប្តូរនោះធាតុដែលចង់បានគឺជាផ្នែកមួយនៃធាតុដែលបានជ្រើសរើស។ ចងចាំតម្លៃថ្មីហើយត្រលប់ទៅ __app_name__ ។
+\u00099. In the list of selected items, search for the desired value. Unselect it. Delete all other values, using \"__delete_selected__\" -> \"__revert_and_remove__\", returning them the previous value.
+\u000910. Modify the desired element value as you need.
+
+\u0009កំហុសជាធម្មតាត្រូវបានដកចេញដោយមិនត្រឡប់ទៅវិញ។ បន្ទាប់ពីនោះហ្គេមអាចគាំង។
+
+\u0009ប្រសិនបើអ្នករកឃើញតម្លៃច្រើនសូមព្យាយាមបំពេញផ្នែកតូចៗដើម្បីជៀសវាងការគាំង។
+"</string>
+    <string name="help_hint_1">* ប្រសិនបើអ្នកតែងតែស្វែងរកតម្លៃដែលចង់បានក្នុងតំបន់ដូចគ្នា (អក្សរនៅចុងនៃធាតុនៅក្នុងបញ្ជីលទ្ធផល) អ្នកអាចជ្រើសរើសតំបន់ទាំងនេះសម្រាប់ការស្វែងរកលឿនជាង។</string>
+    <string name="help_faq_30_q">__app_name__ ស្វែងរកតម្លៃយឺត ៗ និងយូរអង្វែងនៅក្នុងកម្មវិធីត្រាប់តាម Android នៅលើកុំព្យូទ័រ។</string>
+    <string name="help_faq_30_a">"ភាគច្រើនទំនងជាអ្នកបានបិទការនិម្មិតនៅក្នុងកុំព្យូទ័រ BIOS ។ បើក​វា។
+__app_name__ រត់ខាងក្នុងវត្ថុត្រាប់តាមដូច្នេះល្បឿនរបស់វាអាស្រ័យលើល្បឿននៃវត្ថុត្រាប់តាម។
+ប្រសិនបើបើកដំណើរការនិម្មិតប៉ុន្តែល្បឿននៅតែទាបធីកការកំណត់របស់កម្មវិធីត្រាប់តាមរបស់អ្នកឬប្រើកម្មវិធីត្រាប់តាមផ្សេងទៀត។
+អ្នកក៏អាចប្រើឧបករណ៍មួយផ្សេងទៀត - CheatEngine សម្រាប់ PC - វានឹងស្វែងរកលឿនជាងមុននិងផ្តល់ឱ្យអ្នកនូវលក្ខណៈពិសេសជាច្រើនដែលមិនធ្លាប់មាននៅក្នុង __app_name__ ។"</string>
+    <string name="help_speed_up_title">របៀបបង្កើនល្បឿនស្វែងរក</string>
+    <string name="help_speed_up">"* របៀបបង្កើនល្បឿនស្វែងរក:
+\u00090. If you are use an Android emulator on a PC (BlueStacks, Droid4X, Andy, NOX, Memu, AMIDuOS, Windroy, AVD, Genymotion, Koplayer, Leapdroid etc.), check that virtualization (VT Technology, Vanderpool Technology, Virtualization Technology, VTx, VT-d, VMX, Virtual Technology, Intel-VT, AMD-V, SVM, IOMMU) is enabled in the PC BIOS.
+\u00091. ប្រសិនបើអ្នកមាន RAM ច្រើនដូច្នេះអ្នកអាចរក្សាទុកទិន្នន័យនៅទីនោះ។ នេះជួយបង្កើនការស្វែងរក។ កំណត់ការកំណត់ \"__data_in_ram__\" ទៅ \"__yes__\" ។ នៅក្នុងកម្មវិធីត្រាប់តាមអេនដ្រយនៅលើកុំព្យូទ័រវាអាចបន្ថយការស្វែងរក។
+\u00092. ប្រសិនបើអ្នកមាន RAM តិចទិន្នន័យនឹងត្រូវរក្សាទុកនៅលើកាតមេម៉ូរី។ ប្រើកាតមេម៉ូរីដែលមានល្បឿនសរសេរនិងអានខ្ពស់។
+\u00093. You can also specify the storage of data in the internal memory of the device, if it faster than the memory card. Set the setting \"__set_path__\" to the desired path.
+\u00094. នៅលើការស្វែងរកសូមជ្រើសរើសយកតែតំបន់ដែលអ្នកចង់បាន។ ជៀសវាងយឺត (\"__slow__\") និងមានគ្រោះថ្នាក់ (\"__dangerous__\") ។
+\u00095. You can also specify the limits of the memory range, for search, if you know them. Click the button \"__more__\" in the search dialog and enter the limits.
+\u00096. Search for only the desired types of data. The data type \"__type_auto__\" is slow.
+\u00097. Disable all possible \"__hide_from_game__\" options.
+\u00098. Try using \"__experimental__\" or \"__extended__\" in \"__memory_access__\". These options can lead to unstable work.
+"</string>
+    <string name="help_faq_31_q">បន្ទាប់ពីមួយរយៈពេលរូបតំណាង __app_name__ បានបាត់។</string>
+    <string name="help_faq_31_a">"ព្យាយាមចុចកន្លែងដែលរូបតំណាងនេះ។ ប្រសិនបើចំណុចប្រទាក់បើកចំហ __app_name__ រូបតំណាងនេះត្រូវបានលាក់នៅក្នុងការកំណត់ឬកម្មវិធីបង្កប់របស់អ្នកមានកំហុសដោយបង្ហាញរូបតំណាង។
+ប្រសិនបើចំណុចប្រទាក់មិនបើកវាមានន័យថា __app_name__ ត្រូវបានទាញចេញពីសតិ។
+មូលហេតុដែលអាចកើតមាន:
+
+\u00091. មិនមាន RAM ទំហំគ្រប់គ្រាន់នៅលើឧបករណ៍ - __app_name__ បានសំលាប់ដោយប្រព័ន្ធ។ ព្យាយាមប្រើ RAM តិច។ នៅក្នុងការកំណត់ __app_name__ កុំបញ្ជាក់ការផ្ទុកទិន្នន័យនៅ RAM, កុំកំណត់ចំនួនច្រើននៃលទ្ធផលបង្ហាញ, ទាញយកកម្មវិធី \"បន្ថែម\" ពីរ៉េម, ប្រើ \"analogue light\" នៃកម្មវិធីដែលមិនអាចដោនឡូត (ឧទាហរណ៍ launcher ) ។ ក្នុងករណីពិការសូមចាប់ផ្តើមឧបករណ៍ឡើងវិញមុនពេលដំណើរការលេខ __app_name__ ។ ស្ទើរតែគ្រប់ firmware តែងតែមាន RAM ។ ពេលវេលាបន្ថែមទៀតបន្ទាប់ពីចាប់ផ្ដើមកុំព្យូទ័រឡើងវិញ - មាន RAM តិចជាងមុន។
+
+\u00092. អ្នកមានឃាតកម្មដែលសម្លាប់ __app_name__ ។
+
+បិទឃាតករឬបន្ថែមលេខ __app_name__ ទៅករណីលើកលែងរបស់វា។
+ឃាតករគឺជាប្រភេទ \"Optimizers\" និង \"កែប្រែ\" RAM ទៀតផង។
+ជាទូទៅមើលការពិពណ៌នាសម្រាប់សូហ្វវែរប្រសិនបើអ្នកមិនដឹងទេថាអ្នកសម្លាប់ឬអត់។
+
+សម្រាប់ FlyMe: __app_name__ សម្រាប់ហេតុផលមួយចំនួនបន្ទាប់ពីធ្វើការពីរបីនាទីដែលបានពន្លា - អ្នកត្រូវអនុញ្ញាត្តិអោយការងារក្នុងផ្ទៃខាងក្រោយសម្រាប់ __app_name__ និងអ្នកគ្រប់គ្រងរបស់អ្នក (ជាទូទៅគឺ SuperSu) ។
+
+អ្នកក៏អាចព្យាយាមបើក \"__use_notification__\" ក្នុងការកំណត់ __app_name__ ។ ជួនកាលការការពារនេះអាចសំលាប់ __app_name__ ។"</string>
+    <string name="quick_start_title">Quick start</string>
+    <string name="prevent_unload">បង្ការមិនផ្ទុក:</string>
+    <string name="hot_key">គន្លឹះក្តៅ:</string>
+    <string name="hide">លាក់</string>
+    <string name="execute_script">ប្រតិបត្តិស្គ្រីប</string>
+    <string name="execute">ប្រតិបត្តិ</string>
+    <string name="another_script">ស្គ្រីបមួយទៀតកំពុងដំណើរការ។ បង្អាក់វា?</string>
+    <string name="interrupt">ផ្អាក</string>
+    <string name="script">ស្គ្រីប:</string>
+    <string name="script_ended">ស្គ្រីបបានបញ្ចប់:</string>
+    <string name="paused">ហ្គេមត្រូវបានផ្អាក:</string>
+    <string name="by_pause_button">ដោយប៊ូតុងផ្អាក</string>
+    <string name="by_option">"ដោយជម្រើស '__s__'"</string>
+    <string name="new_search_short">ថ្មី</string>
+    <string name="speedhack_loading">កំពុងផ្ទុក speedhack ...</string>
+    <string name="speedhack_loaded">Speedhack ត្រូវបានផ្ទុក។</string>
+    <string name="busy_dialog_fail">ប្រអប់វឌ្ឍនភាពមិនអាចត្រូវបានបង្ហាញទេ។</string>
+    <string name="site">តំបន់បណ្ដាញ</string>
+    <string name="help_xor_search_title">ស្វែងរក XOR</string>
+    <string name="help_xor_search">"* ស្វែងរក XOR:
+\u0009\u0009ប្រសិនបើអ្នកដឹងថាតម្លៃដែលអ្នកត្រូវការត្រូវបានអ៊ិនគ្រីបដោយប្រើគ្រាប់ចុច XOR ដែលតែងតែនៅចំងាយដូចគ្នាពីតម្លៃបន្ទាប់មកអ្នកអាចប្រើរបៀបនេះដើម្បីស្វែងរកតាមតម្លៃដែលបានឌិគ្រីប។
+\u00091. ប្ដូរទៅ __app_name__ ពីហ្គេម។
+\u00092. ប៉ះប៊ូតុង \"__search_known_value__\" នៅក្នុងផ្ទាំង \"__search__\" ។
+\u00093. Enter a search number and XOR key distance, separated by \"__mode_xor__\". For example, to search for value 100 with a key on distance 8, enter:
+\u0009\u0009\u0009100__mode_xor__8
+\u0009\u0009ដើម្បីបញ្ចូលនិមិត្តសញ្ញាបន្ថែមសូមប្រើប៊ូតុង \"__btn_hex__\" លើក្តារចុចខាងក្នុង។
+\u00094. ជ្រើសរើសប្រភេទទិន្នន័យសមរម្យឬជ្រើសរើស \"__type_auto__\" (ប្រសិនបើអ្នកមិនប្រាកដ) និងជម្រើសផ្សេងទៀត (បើចាំបាច់) ហើយចុច \"__search__\" ។
+\u00095. When finished searching, search results will be displayed in the list.
+\u00096. ត្រលប់ទៅហ្គេម។ បន្ទាប់ពីតម្លៃបានផ្លាស់ប្តូរសូមប្តូរទៅ __app_name__ ម្តងទៀត។
+\u00097. ធ្វើម្តងទៀតការស្វែងរក XOR ជាមួយការផ្លាស់ប្តូរត្រឹមត្រូវ។
+\u00098. ប្រសិនបើមានលទ្ធផលច្រើនពេក, សូមធ្វើជំហានទី 6 និង 7 ម្តងទៀត។
+\u00099. If few results are left, you can try to modify, store or freeze the value.
+
+\u0009អ្នកអាចប្រើការស្វែងរក XOR ជាមួយការស្វែងរកជួរ។ ឧទាហរណ៍ \"100__tilde__150__mode_xor__8\" ។
+\u0009ជាទូទៅការស្វែងរក XOR គឺយឺតជាងការស្វែងរកលេខធម្មតា។
+\u0009របៀបនេះមិនត្រូវបានគាំទ្រនៅក្នុងការស្វែងរកក្រុមឬនៅក្នុងការស្វែងរកដែលបានអ៊ីនគ្រីបនោះទេ។
+\u0009ចម្ងាយត្រូវតែមានពី 1 ទៅ 4096 បញ្ចូលគ្នា។
+\u0009អ្នកអាចបញ្ចូលចម្ងាយក្នុងទម្រង់ hex ជាមួយនិមិត្តសញ្ញា __hex__ នៅចុងបញ្ចប់: \"100__tilde__150__mode_xor__10h\" ។
+\u0009ចម្ងាយត្រូវតែគោរពតម្លៃតម្រឹម។ ឧទាហរណ៍ dword ត្រូវតែតម្រឹមទៅព្រំដែន 4-bytes ។ នេះមានន័យថាការស្វែងរក \"40__mode_xor__7\" គឺគ្មានប្រយោជន៍សម្រាប់ dword ពីព្រោះ 7 មិនអាចចែកជា 4 ។
+\u0009ការផ្សំទម្រង់នេះជាមួយកម្មវិធីមួយផ្សេងទៀតអាចបង្កបញ្ហានៅលើកម្មវិធីបង្កប់មិនល្អ។ ឧទាហរណ៍ប្រសិនបើអ្នកធ្វើការស្វែងយល់ធម្មតានិងបន្ទាប់ពីកែច្នៃនៅក្នុងរបៀប XOR នេះអាចបង្កឱ្យព្យួរឬចាប់ផ្តើមឧបករណ៍របស់អ្នកឡើងវិញ។ នេះមិនត្រូវកើតឡើងទេប្រសិនបើការស្វែងរកជាលើកដំបូងនឹងស្ថិតនៅក្នុងរបៀបនេះ។
+\u0009ការស្វែងរកមិនច្បាស់នៃរបៀបនេះមិនត្រូវបានគាំទ្រទេ។ អ្នកអាចផ្សំវាបានប៉ុន្តែការងារដែលមិនច្បាស់ដូចធម្មតាហើយមិនគោរពលេខកូដ XOR របស់អ្នកជាមួយចម្ងាយ។
+\u0009ការចុះហត្ថលេខាលើតម្លៃត្រូវបានគោរព។ វាមានន័យថាអ្នកអាចស្វែងរកតម្លៃមិនស្មើធំធំតូចនិងច្រើនទៀត។
+\u0009ក្នុងការស្វែងរកនេះតម្លៃទាំងអស់ត្រូវបានចាត់ទុកថាបានចុះហត្ថលេខា។
+"</string>
+    <string name="help_faq_32_q">តើអ្វីជាភាពខុសគ្នាជាមួយកំណែ HW / SW? តើខ្ញុំគួរប្រើមួយណា?</string>
+    <string name="try_latest">ប្រហែលជាស្គ្រីបនេះត្រូវការកំណែចុងក្រោយបំផុតរបស់ __app_name__ ។ ព្យាយាមធ្វើបច្ចុប្បន្នភាពទៅកំណែថ្មីបំផុត។</string>
+    <string name="help_string_search_title">អត្ថបទ (ខ្សែអក្សរ HEX, AoB) ស្វែងរក</string>
+    <string name="download_scripts">ទាញយកស្គ្រីប</string>
+    <string name="hide_icons">លាក់រូបតំណាងឡាន់ឆ័រ</string>
+    <string name="select_mode">ជ្រើសរបៀប</string>
+    <string name="mode_string">អត្ថបទ</string>
+    <string name="mode_mixed">លាយគ្នា</string>
+    <string name="string_search_prompt">បញ្ចូលអត្ថបទដើម្បីស្វែងរករហូតដល់ __d__ បៃ។ ឧទាហរណ៍</string>
+    <string name="string_empty">អ្នកត្រូវតែបញ្ចូលអត្ថបទ។</string>
+    <string name="string_not_found">រកមិនឃើញអត្ថបទ \"__s__\" ។</string>
+    <string name="string_found">បានរកឃើញ __d__ ការផ្គូផ្គងសម្រាប់អត្ថបទ \"__s__\" ។</string>
+    <string name="string_replace">តើអ្នកចង់ជំនួសពួកគេទេ?</string>
+    <string name="string_replace_prompt">បញ្ចូលអត្ថបទដើម្បីជំនួស \"__s__\" ។ ប្រវែងមិនលើសពី __d__ បៃទេ។</string>
+    <string name="string_replaced">បានជំនួស \"__s__\" ទៅ \"__s__\" ក្នុង __d__ កន្លែង។</string>
+    <string name="need_allow_background">នៅលើកម្មវិធីបង្កប់នេះអ្នកត្រូវអនុញ្ញាតឱ្យធ្វើការ __app_name__ នៅក្នុងផ្ទៃខាងក្រោយនៅក្នុងការកំណត់ប្រព័ន្ធ។</string>
+    <string name="calculate_offset_xor">គណនាអុហ្វសិត XOR</string>
+    <string name="select_copy_item">ជ្រើសរើសធាតុដើម្បីចម្លង:</string>
+    <string name="landscape">ទេសភាព</string>
+    <string name="portrait">បញ្ឈរ</string>
+    <string name="toolbar_buttons">ប៊ូតុងរបារឧបករណ៍</string>
+    <string name="need_update_to">អ្នកត្រូវការកំណែថ្មីជាង __app_name__ ដើម្បីដំណើរការស្គ្រីបនេះ។ យ៉ាងហោចណាស់កំណែ __s__ ។ អ្នកមានកំណែ __s__ ។</string>
+    <string name="default_mark">លំនាំដើម</string>
+    <string name="default_">លំនាំដើម:</string>
+    <string name="reset_button">កំណត់ឡើងវិញ</string>
+    <string name="help_hex_colors_title">ពណ៌នៅក្នុងកម្មវិធីកែសម្រួលសតិ</string>
+    <string name="help_hex_colors">"* __help_hex_colors_title__:
+បើតំណាងតំរែតំរង់មិនមានពណ៌សទេប៉ុន្តែពណ៌ដែលទំនងជានៅក្នុងតម្លៃនេះគឺព្រួញ។ ពណ៌បង្ហាញពីប្រភេទអង្គចងចាំដែលទ្រនិចចង្អុលប្រាប់។
+វាអាចជាសតិ __executable__, __writable__ រឺ __read_only__ ។ ក្នុងករណីកម្រវាអាចមានសតិ __writable_and_executable__ ។"</string>
+    <string name="executable">អាចប្រតិបត្តិបាន</string>
+    <string name="writable">អាចសរសេរបាន</string>
+    <string name="read_only">អាច​បាន​តែ​អាន</string>
+    <string name="writable_and_executable">អាចសរសេរបាននិងអាចប្រតិបត្តិបាន</string>
+    <string name="help_extract">ស្រង់ជំនួយ</string>
+    <string name="help_extract_done">ជំនួយត្រូវបានដកស្រង់ទៅ __s__</string>
+    <string name="help_extract_fail">មានកំហុសមួយបានកើតឡើងពេលទាញយកជំនួយ:</string>
+    <string name="try_arm_version">ព្យាយាមប្រើកំណែ __app_name__ ដោយមានការគាំទ្រដល់ខួរក្បាល ARM ចាស់:</string>
+    <string name="back">ថយក្រោយ</string>
+    <string name="forward">បន្ត</string>
+    <string name="no_previous">គ្មានធាតុពីមុន</string>
+    <string name="no_next">គ្មានធាតុបន្ទាប់</string>
+    <string name="from_item">ពីធាតុ:</string>
+    <string name="from_context">ពីម៉ឺនុយបរិបទ:</string>
+    <string name="from_boundary">ពីព្រំដែន</string>
+    <string name="from_goto">ហៅទូរស័ព្ទទៅ</string>
+    <string name="from_calc">ពីការគណនាអុហ្វសិត:</string>
+    <string name="help_add_to_value_title">ជម្រើស \"__add_not_replace__\"</string>
+    <string name="help_add_to_value">"* __help_add_to_value_title__:
+ប្រសិនបើជម្រើសនេះត្រូវបានធីកតម្លៃដែលបានបញ្ចូលនឹងត្រូវបានបន្ថែមទៅតម្លៃដែលមានហើយមិនត្រូវជំនួសវាឡើយ។ ឧទាហរណ៍ធាតុមានតម្លៃ 5 ហើយអ្នកបានបញ្ចូល 7 ក្នុងវាលតម្លៃ។ ប្រសិនបើជម្រើសនេះត្រូវបានធីកធាតុនឹងទទួលបានតម្លៃថ្មីនៃ 5 + 7, ស្មើ 12 ។ ប្រសិនបើមិនបានគូសធីកបន្ទាប់មក 7 ។
+អ្នកអាចបញ្ចូលទាំងតម្លៃវិជ្ជមាននិងអវិជ្ជមាន។
+ជម្រើសនេះមិនឆបគ្នានឹងការត្រជាក់នៃតម្លៃ។"</string>
+    <string name="check_libs">ពិនិត្យស្ថាបត្យកម្មនៃបណ្ណាល័យហ្គេម:</string>
+    <string name="arm_libs">"ហ្គេមនេះត្រូវបានតំឡើងជាមួយបណ្ណាល័យ ARM ទោះបីជានៅក្នុង APK មានបណ្ណាល័យ x86 ក៏ដោយ។
+Speedhack និងអ្វីគ្រប់យ៉ាងដែលភ្ជាប់ជាមួយវានឹងមិនដំណើរការទេ។
+\"__skip__\" មិនអនុញ្ញាតការត្រួតពិនិត្យទាំងនេះ។ អ្នកអាចបើកវាឡើងវិញនៅក្នុងការកំណត់។"</string>
+    <string name="manual_install">អ្នកអាចដំឡើងឯកសារ .apk ដោយដៃ។ វាមានទីតាំងស្ថិតនៅផ្លូវដូចខាងក្រោម:</string>
+    <string name="as_text">ក្នុងនាមជាអត្ថបទ (មិនអាចត្រូវបានផ្ទុក)</string>
+    <string name="as_text_help">រក្សាទុកបញ្ជីជាទ្រង់ទ្រាយអត្ថបទងាយស្រួលសម្រាប់មនុស្សអាន។ មិនគាំទ្រទ្រង់ទ្រាយនេះទេ។</string>
+    <string name="help_pointer_search_title">ការស្វែងរកចង្អុល</string>
+    <string name="help_pointer_search">ស្វែងរកតម្លៃដែលអាចចង្អុលទៅអាសយដ្ឋានដែលចង់បាន។ អ្នកអាចបញ្ជាក់ពីដែនកំណត់អតិបរមាសម្រាប់អុហ្វសិត។</string>
+    <string name="all_memory">នៅក្នុងការចងចាំទាំងអស់</string>
+    <string name="offset_help">ដែនកំណត់អតិបរមាសម្រាប់អុហ្វសិត។</string>
+    <string name="typical_values">តម្លៃធម្មតា</string>
+    <string name="su_command">ពាក្យបញ្ជាអ្នកប្រើជាន់ខ្ពស់</string>
+    <string name="starts">ចាប់ផ្ដើមជាមួយ</string>
+    <string name="ends">បញ្ចប់ដោយ</string>
+    <string name="no_filter">មិន​មាន​តម្រង។</string>
+    <string name="help_memory_filter_title">តម្រងនៅក្នុងកម្មវិធីចងចាំ</string>
+    <string name="help_memory_filter">"* __help_memory_filter_title__:
+អ្នកអាចបញ្ជាក់តម្រងនៅក្នុងកម្មវិធីចងចាំ។ មានតែលទ្ធផលទាំងនោះដែលផ្គូផ្គងនឹងតម្រងប៉ុណ្ណោះ។
+តម្រងគាំទ្រអក្សរជំនួស:
+\u0009__caret__ - ការចាប់ផ្តើមទិន្នន័យ,
+\u0009__dollar__ - ចុងបញ្ចប់នៃទិន្នន័យ,
+\u0009__asterisk__ - លេខណាមួយនៃតួអក្សរណាមួយ,
+\u0009__question__ - តួអក្សរណាមួយ។
+ឧទាហរណ៍ដើម្បីរកលេខ 42 អ្នកត្រូវបញ្ចូលលេខ __caret__42__dollar__ ។"</string>
+    <string name="use_sh">ប្រើពាក្យបញ្ជាសែល</string>
+    <string name="backgrounds">ផ្ទៃខាងក្រោយខ្មៅ</string>
+    <string name="actions">សកម្មភាព:</string>
+    <string name="game_settings">ការកំណត់សម្រាប់ហ្គេម:</string>
+    <string name="global_settings">ការកំណត់សកល:</string>
+    <string name="ui_settings">ការកំណត់ UI:</string>
+    <string name="others">ផ្សេងៗ:</string>
+    <string name="skip_memory">រំលងតំបន់ចងចាំ:</string>
+    <string name="empty_memory">ទទេ</string>
+    <string name="without_protection">ដោយគ្មានការការពារ</string>
+    <string name="help_games_protection_title">តើធ្វើដូចម្តេចដើម្បីទទួលបាននៅជុំវិញការការពារនៅក្នុងការប្រកួត</string>
+    <string name="help_games_protection">"\u0009ល្បែងមួយចំនួនត្រូវបានបំពាក់ដោយការការពារប្រឆាំងកម្មវិធីនិពន្ធមេ។ អ្នកអាចសាកល្បងដូចខាងក្រោម:
+\u00091. \"__kill_game__\" ហើយបន្ទាប់មក \"__restart_game_without_protection__\" ។
+\u00092. \"__disable_protection__\" ហើយបន្ទាប់មករត់ (ឬចាប់ផ្តើមឡើងវិញ) ល្បែង។
+\u00093. Use all or part of the items in \"__hide_from_game__\". All of them slow down the search.
+\u00094. Search when the game is minimized.
+\u00095. Search when the game is paused.
+\u00096. សំលាប់ឬផ្អាកមួយចំនួននៃដំណើរការការពារនៃការលេងហ្គេម, ប្រសិនបើការប្រកួតនេះមានដំណើរការជាច្រើន។
+\u00097. Use XPrivacy or similar tools to bypass protection.
+\u00098. Use the modification of the game without protection.
+"</string>
+    <string name="disable_protection">បិទការការពារសម្រាប់កម្មវិធីទាំងអស់ (រហូតដល់ការចាប់ផ្តើមឡើងវិញ)</string>
+    <string name="must_restart_if">ប្រសិនបើអ្នកដំណើរការហ្គេមមុនពេលបិទការការពារអ្នកត្រូវតែចាប់ផ្តើមវាឡើងវិញ។</string>
+    <string name="patch_loading">កំពុងផ្ទុកបំណះ ...</string>
+    <string name="patch_loaded">បំណះត្រូវបានផ្ទុក។</string>
+    <string name="patch_failed">បំណះមិនត្រូវបានផ្ទុក។</string>
+    <string name="history_limit">ដែនកំណត់នៃប្រវត្តិសាស្ត្រ:</string>
+    <string name="copy_as_search">ចម្លងជាការស្វែងរកជាក្រុម</string>
+    <string name="add_types">បន្ថែមប្រភេទ</string>
+    <string name="add_size">បន្ថែមទំហំក្រុម</string>
+    <string name="copy_rhex_value">ចម្លងតម្លៃ hex បញ្ច្រាស:</string>
+    <string name="mips_arch">កម្មវិធីនេះមិនគាំទ្រស្ថាបត្យកម្ម MIPS ទេ។</string>
+    <string name="unrandomizer">មិនចៃដន្យ</string>
+    <string name="functions">មុខងារ</string>
+    <string name="help_unrandomizer">"
+កម្មវិធីអកុសលគឺជាលក្ខណៈពិសេសដែលត្រូវបានរចនាឡើងដើម្បីជំនួសមុខងារជាក់លាក់ដែលត្រូវបានប្រើជាទូទៅនៅក្នុងហ្គេមដើម្បីបង្កើតតម្លៃចៃដន្យ។ នៅកម្រិតដ៏សាមញ្ញមួយបន្ទាប់មកឧទាហរណ៍ឧទាហរណ៍អាចមានល្បែងមួយដែលប្រើមុខងារ randomizer ដើម្បីកំណត់រង្វាន់របស់អ្នកលេង។ ការបើកកម្មវិធីអកុសលនឹងធ្វើឱ្យ __app_name__ ព្យាយាមជំនួសតម្លៃចៃដន្យនេះជាមួយតម្លៃដែលបានបញ្ជាក់ដើម្បីផ្លាស់ប្តូរលទ្ធផល (ឧទាហរណ៍ដើម្បីទទួលបានរង្វាន់ជាក់លាក់) ។
+
+កម្មវិធីមិនប្រក្រតីនឹងមិនដំណើរការគ្រប់ករណីទាំងអស់។ វានឹងគ្រប់គ្រងមុខងារដែលវាដឹង។ ក្នុងករណីភាគច្រើននិងសម្រាប់អ្នកប្រើភាគច្រើនវានឹងមិនត្រូវបានប្រើទេពីព្រោះវាជាលក្ខណៈពិសេសកម្រិតខ្ពស់ / ពិសោធន៍។
+
+អនុគមន៍មួយចំនួនត្រឡប់ __type_qword__, មួយចំនួន - __type_double__ (កម្រនឹងត្រូវបានប្រើ) ។
+
+តម្លៃ __type_double__ ត្រូវតែស្ថិតនៅចន្លោះពី 0 ទៅ 1. ប៉ុន្តែអ្នកអាចបញ្ជាក់តម្លៃណាមួយនៅទីនោះពីព្រោះ __app_name__ នឹងកែសម្រួលបំរែបំរួលមិនត្រឹមត្រូវទាំងអស់ដោយស្វ័យប្រវត្តិ។
+
+អ្នកក៏អាចបញ្ជាក់ជំហានកើនឡើង។ ក្នុងករណីនេះលទ្ធផលជាបន្តបន្ទាប់នីមួយៗនឹងកើនឡើងដោយតម្លៃនេះ។ ឧទាហរណ៍សម្រាប់ចំនួន 1 និងតម្លៃចាប់ផ្ដើម 0 ជំនួសឱ្យតម្លៃចៃដន្យមួយចំនួន 0, 1, 2, 3, ... នឹងត្រូវបានត្រឡប់។
+ជម្រើសនេះអាចមានប្រយោជន៍សម្រាប់ការស្វែងរកលទ្ធផលចៃដន្យទាំងអស់។
+
+អ្នកអាចកំណត់មុខងារណាមួយដើម្បីកែប្រែនៅក្នុងការកំណត់ __app_name__ ។
+"</string>
+    <string name="count_replace">តើមានលទ្ធផលដំបូងចំនួនប៉ុន្មានដែលត្រូវជំនួស?</string>
+    <string name="unrandomizer_loading">កំពុងផ្ទុកកម្មវិធីអកុសល ...</string>
+    <string name="unrandomizer_loaded">អង្កត់អង្កត់អាត់ត្រូវបានផ្ទុក។</string>
+    <string name="warn_restart_off_prot">"ជម្រើសនេះនឹងព្យាយាមចាប់ផ្តើមហ្គេមឡើងវិញដោយគ្មានការការពារ។
+ទោះជាយ៉ាងណាក៏ដោយ, កម្មវិធីបង្កប់ជាច្រើនមានកំហុសដែលអាចធ្វើឱ្យឧបករណ៍ចាប់ផ្ដើមឡើងវិញ។
+ប្រសិនបើរឿងនេះកើតឡើងសូមកុំចាប់ផ្តើមលេងហ្គេមម្តងទៀតព្រោះវានឹងចាប់ផ្តើមឧបករណ៍ម្តងទៀត។
+គ្រាន់តែរត់ __app_name__ - វានឹងសម្អាតការកំណត់មិនត្រឹមត្រូវ។
+អ្នកក៏អាចព្យាយាមចាប់ផ្តើមឧបករណ៍នេះឡើងវិញតាមរបៀបទៀងទាត់ផងដែរ។
+
+ប្រសិនបើការចាប់ផ្តើមឡើងវិញត្រូវបានកើតឡើង - កុំប្រើមុខងារនេះវានឹងមិនដំណើរការលើកម្មវិធីបង្កប់របស់អ្នកទេ។"</string>
+    <string name="warn_patch_off_prot">"ជម្រើសនេះនឹងព្យាយាមប៉ះកំព្យូទ័រ (បណ្ដោះអាសន្ន) ដូច្នេះកម្មវិធីទាំងអស់ដំណើរការដោយគ្មានការការពារ។
+ការផ្លាស់ប្តូរនឹងអនុវត្តតែចំពោះការចាប់ផ្តើមកម្មវិធីថ្មីប៉ុណ្ណោះ។ ដូច្នេះកម្មវិធីគោលដៅបន្ទាប់ពីបំណះដែលបានជោគជ័យតម្រូវឱ្យចាប់ផ្តើមឡើងវិញ។
+ដើម្បីបោះបង់ចោលបំណះគ្រាន់តែចាប់ផ្តើមឧបករណ៍ឡើងវិញ។
+ប្រហែលជាមានកំហុសផ្សេងៗក្នុងប្រព័ន្ធបន្ទាប់ពីបំណះនេះ។
+
+ប្រសិនបើបំណះបានជោគជ័យវាមិនត្រូវបានណែនាំអោយដំណើរការមុខងារនេះម្តងទៀតទេមុនពេលចាប់ផ្ដើមឧបករណ៍ឡើងវិញ។
+
+ប្រសិនបើអ្នកមានបញ្ហាកុំប្រើមុខងារនេះ។"</string>
+    <string name="clear_history">ជម្រះប្រវត្តិបញ្ចូល</string>
+    <string name="clear_history_warn">ធាតុទាំងអស់រួមបញ្ចូលទាំងខ្ទាស់នឹងត្រូវបានលុប។</string>
+    <string name="click_edit">ចុចទីនេះដើម្បីកែសម្រួល</string>
+    <string name="ignore_unknown_chars">មិនអើពើតួអក្សរដែលមិនស្គាល់:</string>
+    <string name="need_root_mode">លក្ខណៈពិសេសនេះតម្រូវឱ្យចូលដំណើរការជា root ។ បច្ចុប្បន្ន __app_name__ កំពុងរត់ក្នុងរបៀបបរិស្ថាននិម្មិតដោយគ្មានសិទ្ធិចូលដំណើរការជា root ។</string>
+    <string name="work_without_root_title">ធ្វើការដោយគ្មាន root</string>
+    <string name="work_without_root">"__app_name__ អាចធ្វើការដោយគ្មាន root តាមរយៈបរិស្ថាននិម្មិត។ ឧទាហរណ៍តាមរយៈលេខ __vspace_list__ និងផ្សេងៗទៀត។
+ត្រូវតែដំឡើងក្នុងបរិស្ថាននិម្មិត __app_name__ ។ ហ្គេមក៏ត្រូវបានដំឡើងនៅទីនោះផងដែរ។
+មិនមានលក្ខណៈពិសេសទាំងអស់នៃកម្មវិធីនេះត្រូវបានគាំទ្រនោះទេប៉ុន្តែមុខងារភាគច្រើនគួរតែដំណើរការ។
+
+អ្នកនឹងមិនអាចបំបែកល្បែងដែលមិនត្រូវបានដំឡើងនៅក្នុងបរិស្ថាននិម្មិតទេ។
+
+ការចាប់ផ្តើមដំបូងនៃ __app_name__ ដែលអនុវត្តការតំឡើងជាថ្មីជាមួយឈ្មោះកញ្ចប់ចៃដន្យមួយមិនត្រូវបានអនុវត្តតាមរយៈបរិស្ថាននិម្មិត។
+បន្ទាប់មកអ្នកអាចបន្ថែម __app_name__ ទៅបរិស្ថាននិម្មិតនិងប្រើ។"</string>
+    <string name="help_game_not_listed_title">ហេតុអ្វីហ្គេមរបស់ខ្ញុំមិនស្ថិតនៅក្នុងបញ្ជីដំណើរការ?</string>
+    <string name="fractional_hint">"ផ្នែកប្រភាគនៃចំនួនពិតប្រាកដ \"x\" គឺលើសពីចំនួនគត់របស់លេខនោះ។
+សម្រាប់លេខចំនួនផ្នែកប្រភាគរបស់វាត្រូវគ្នាទៅនឹងតួលេខដែលលេចឡើងបន្ទាប់ពីចំណុច radix ។
+
+ឧទាហរណ៍:"</string>
+    <string name="pointer">ព្រួញ:</string>
+    <string name="help_search_filter_title">តម្រងក្នុងការស្វែងរក</string>
+    <string name="help_search_filter">"អ្នកអាចត្រងលទ្ធផលស្វែងរក។
+អ្នកអាចបញ្ជាក់:
+\u0009- ដែនកំណត់សម្រាប់អាសយដ្ឋាន,
+\u0009- ដែនកំណត់សំរាប់តម្លៃ,
+\u0009- ប្រភេទទិន្នន័យដែលត្រូវការ
+\u0009- ផ្នែកប្រភាគដែលចង់បាននៃលេខ,
+\u0009- ប្រភេទទស្សន៍ទ្រនិចដែលចង់បាន។
+អ្នកអាចផ្សំតម្រងណាមួយជាមួយគ្នា។
+អ្នកក៏អាចបិទមួយឬណាមួយនៃតម្រងនៅពេលណាក៏បាន។
+
+ទោះយ៉ាងណាក៏ដោយបើមានទិន្នន័យច្រើនត្រូវបានរកឃើញតម្រងអាចបន្ថយលទ្ធផលបាន។
+
+តម្រងលើផ្នែកប្រភាគនៃលេខអាចស្មើគ្នាឬដោយវិសមភាព។
+សម្រាប់ប្រភេទចំនួនគត់, ផ្នែកប្រភាគគឺសូន្យ។ ប្រសិនបើអ្នកមិនត្រូវការប្រភេទគត់ទេសូមដកពួកវាចេញពីតម្រងប្រភេទ។
+
+តម្រងតាមប្រភេទចង្អុលអនុញ្ញាតឱ្យទុកលទ្ធផលតែតម្លៃទាំងនោះដែលអាចជាទស្សន៍ទ្រនិចទៅនឹងប្រភេទសតិដែលចង់បាន។
+ប្រភេទសតិដែលអាចមានទាក់ទងនឹងពណ៌នៅក្នុងកម្មវិធីចងចាំ:
+វាអាចជាសតិ __executable__, __writable__ រឺ __read_only__ ។ ក្នុងករណីកម្រវាអាចមានសតិ __writable_and_executable__ ។
+
+ប្រភេទ pseudo-type \"no pointer\" ត្រូវគ្នាទៅនឹងគ្រប់ប្រភេទនៃទិន្នន័យដែលមិនអាចចង្អុលនិងតម្លៃនៃចង្អុលបង្ហាញដែលចង្អុលទៅអង្គចងចាំដែលមិនបានកំណត់។"</string>
+    <string name="unmount_kill">"កាតអង្គចងចាំត្រូវបានផ្ដាច់ខណៈពេលដែល __app_name__ ផ្ទុកឯកសារបណ្តោះអាសន្នលើវា។ នេះបាននាំឱ្យមានការបិទបាំងដេមិន។
+
+ដើម្បីទប់ស្កាត់បញ្ហានេះសូមបញ្ជាក់ផ្លូវផ្សេងមួយទៀតចំពោះឯកសារបណ្តោះអាសន្ន។ ឧទាហរណ៍នៅក្នុងសតិខាងក្នុង។
+គួរតែមានកន្លែងទំនេរគ្រប់គ្រាន់។"</string>
+    <string name="calls">របៀបហៅប្រព័ន្ធ:</string>
+    <string name="alternative">ជម្មើសជំនួស</string>
+    <string name="help_calls">"នៅលើកម្មវិធីបង្កប់មួយចំនួនឧទាហរណ៍ Lenovo, របៀបជំនួសអាចធ្វើការលឿនជាងមុន។
+
+ជាធម្មតាអ្នកមិនចាំបាច់ផ្លាស់ប្តូរជម្រើសនេះទេ។"</string>
+    <string name="help_context_title">ជំនួយបរិបទ</string>
+    <string name="help_context">"នៅក្នុងចំណុចប្រទាក់ធាតុមួយចំនួនត្រូវបានសម្គាល់ដោយរូបតំណាងពិសេសនៅផ្នែកខាងស្តាំខាងលើដោយមាននិមិត្តសញ្ញា __i__ នៅក្នុងរង្វង់។
+ការចុចឬចុចយូរលើធាតុនេះបង្ហាញជំនួយនៅលើធាតុនេះ។"</string>
+    <string name="waitpid_mode">របៀបលេខ __waitpid__:</string>
+    <string name="help_waitpid">"នៅលើកម្មវិធីបង្កប់មួយចំនួនការហៅប្រព័ន្ធ __waitpid__ មិនដំណើរការតាមការរំពឹងទុកទេ។ នេះគឺដោយសារតែការកំណត់ SeLinux មិនត្រឹមត្រូវ។
+នេះនាំទៅរកការស្វែងរកគ្មានទីបញ្ចប់នៅក្នុង __app_name__ ។
+អ្នកអាចសាកល្បងប្រើរបៀបជំនួស។ ប្រហែលនេះនឹងដំណើរការ។"</string>
+    <string name="microseconds_short">μs</string>
+    <string name="small_is_bad">តម្លៃតូចពេកអាចបណ្តាលឱ្យផ្ទុកខ្ពស់នៅលើខួរក្បាលនិងការខ្វះខាតនៅក្នុងហ្គេម។</string>
+    <string name="freeze_interval_help">ចន្លោះពេលដែល __app_name__ សរសេរជាន់លើតម្លៃនៅក្នុងសតិល្បែង។</string>
+    <string name="saved_list_update_interval_help">ចន្លោះពេលដែល __app_name__ ធ្វើបច្ចុប្បន្នភាពតម្លៃក្នុងបញ្ជីដែលបានរក្សាទុក។</string>
+    <string name="icons_size_help">"ទំហំរូបតំណាងនៅក្នុងចំណុចប្រទាក់ __app_name__ ។
+មិនអនុវត្តទៅរូបតំណាងអណ្តែតទេ។"</string>
+    <string name="ignore_unknown_chars_help">អាចជួយដោះស្រាយបញ្ហានៅពេលចម្លងលេខពីកន្លែងផ្សេងៗប្រសិនបើតួអក្សរពិសេសត្រូវបានចម្លងរួមជាមួយលេខ។</string>
+    <string name="use_notification_help">"ប្រើការជូនដំណឹងនៅក្នុងប្រព័ន្ធជូនដំណឹងប្រព័ន្ធនៃប្រព័ន្ធប្រតិបត្តិការ Android ។
+នៅលើកម្មវិធីបង្កប់មួយចំនួនវាបង្កើនអាទិភាពនៃកម្មវិធីហើយរារាំងវាពីការបិទ។
+អ្នកក៏អាចប្រើការជូនដំណឹងដើម្បីទៅកាន់លេខ __app_name__ រឺល្បែងដោយចុចលើវា។
+វាអាចមានប្រយោជន៍ប្រសិនបើអ្នកមិនអាចចុចលើរូបតំណាងអណ្តែត។"</string>
+    <string name="use_sound_effects_help">"ប្រព័ន្ធសំឡេងនៅពេលអ្នកចុចប៊ូតុងនិងធាតុ។
+នៅលើកម្មវិធីបង្កប់មួយចំនួនស្តាប់សំឡេង __app_name__ ។"</string>
+    <string name="keyboard_help">ក្តារចុចខាងក្នុងត្រូវការអង្គចងចាំតិចផ្ទុកលឿនជាងមុននិងត្រូវបានធ្វើឱ្យល្អប្រសើរសម្រាប់បញ្ចូលលេខ។</string>
+    <string name="allow_suggestions_help">"ព័ត៌មានជំនួយពីក្តារចុចខាងក្រៅ។
+នៅលើកម្មវិធីបង្កប់មួយចំនួនព័ត៌មានជំនួយបង្កឱ្យ __app_name__ ធ្លាក់។"</string>
+    <string name="autopause_help">ដាក់ហ្គេមដោយផ្អាកដោយស្វ័យប្រវត្តិនៅពេលបើកចំណុចប្រទាក់ __app_name__ ។</string>
+    <string name="killed_by">__app_name__ ត្រូវបានបិទដោយបង្ខំដោយកម្មវិធី \"__s__\" ។ ដើម្បីជៀសវាងបញ្ហានេះលុបកម្មវិធីនេះឬកំណត់រចនាសម្ព័ន្ធវាដូច្នេះវាមិនបញ្ចប់ __app_name__ ទេ។</string>
+    <string name="killers_found">"អ្នកបានដំឡើងកម្មវិធីដែលអាចបិទដោយបង្ខំ __app_name__:
+__s__
+ដើម្បីជៀសវាងបញ្ហានេះលុបពួកវាឬកំណត់រចនាសម្ព័ន្ធពួកវាដូច្នេះពួកគេមិនបញ្ចប់ __app_name__ ទេ។
+
+ប្រសិនបើអ្នកមិនមានបញ្ហាជាមួយនឹងការបិទការរំពឹងទុកនៃលេខ __app_name__ បន្ទាប់មកគ្មានសកម្មភាពត្រូវបានទាមទារហើយអ្នកអាចមិនអើពើនឹងសារនេះ។"</string>
+    <string name="record_logcat">កំណត់ត្រា __logcat__</string>
+    <string name="record_logcat_info">"__app_name__ នឹងត្រូវចាប់ផ្តើមឡើងវិញជាមួយការថតចម្លងលេខ __logcat__ ទៅក្នុងឯកសារ:
+\"__s__\" ។
+
+ដើម្បីបញ្ចប់ការថតសូមចេញពីលេខ __app_name__ ។
+បន្ទាប់ពីនោះអ្នកអាចផ្ញើឯកសារកំណត់ហេតុទៅកន្លែងដែលអ្នកត្រូវការវា។"</string>
+    <string name="need_uninstall">អ្នកត្រូវលុបកម្មវិធីតំឡើងបើមិនដូច្នោះទេអ្នកនឹងមានរូបតំណាងចំនួន 4 មិនមែន 2 ទេ។ ហ្គេមក៏នឹងរកឃើញដែរ។</string>
+    <string name="need_random_name">"__app_name__ ប្រើឈ្មោះកញ្ចប់ស្តង់ដារ។ ហ្គេមអាចរកឃើញវា។
+
+ដើម្បីជួសជុលនេះ - រត់ __app_name__ នៅខាងក្រៅកន្លែងនិម្មិតជាកម្មវិធីធម្មតា។
+បន្ទាប់ពីការដំឡើងចប់រួចរាល់សូមបន្ថែមច្បាប់ចម្លងនៃលេខ __app_name__ ដែលមានឈ្មោះចៃដន្យមួយទៅកាន់ចន្លោះនិម្មិត។"</string>
+    <string name="work_mode">របៀបធ្វើការ</string>
+    <string name="root">root</string>
+    <string name="no_root">គ្មាន root</string>
+    <string name="how_no_root">"អ្នកត្រូវដំឡើងកម្មវិធីនិម្មិត។ ដូចជា: __vspace_list__ ។
+
+វាត្រូវបានណែនាំឱ្យដំឡើងកំណែដែលប្រសើរជាងពីគេហទំព័រផ្លូវការ __app_name__ ។
+
+បន្ទាប់មកអ្នកត្រូវបន្ថែមលេខ __app_name__ និងហ្គេមរបស់អ្នកទៅកាន់កន្លែងនិម្មិតនេះ។
+
+បន្ទាប់ពីនោះអ្នកត្រូវតែរត់ល្បែងនិង __app_name__ ក្នុងចន្លោះនិម្មិត។"</string>
+    <string name="eperm_error_descr_0">មូលហេតុដែលអាចកើតមាន:</string>
+    <string name="eperm_error_descr_1">ការការពារនៅក្នុងហ្គេម។</string>
+    <string name="eperm_error_descr_2">ឧបករណ៍បំបាត់កំហុសឬនំកែកឃឺផ្សេងទៀតត្រូវបានភ្ជាប់ទៅហ្គេម។</string>
+    <string name="eperm_error_descr_3">ការអនុញ្ញាតមិនគ្រប់គ្រាន់។ ជាទូទៅដោយសារតែការកំណត់រចនាសម្ព័ន្ធមិនត្រឹមត្រូវ __selinux__ ។ បិទឬកំណត់ __selinux__ ។</string>
+    <string name="eperm_error_descr_4">ខឺណែលឬកម្មវិធីបង្កប់មិនល្អ។ សូមសាកល្បងកម្មវិធីបង្កប់ផ្សេងទៀតឬឧបករណ៍ផ្សេងទៀត។</string>
+    <string name="eperm_error_descr_5">នៅលើកម្មវិធីបង្កប់របស់អ្នករបៀប \"គ្មាន root\" មិនដំណើរការទេ។ សាកល្បងកម្មវិធីបង្កប់ឬឧបករណ៍ផ្សេងទៀតឬ root ។</string>
+    <string name="ptrace_bypass_mode">របៀបឆ្លងកាត់សម្រាប់ការការពារ ptrace:</string>
+    <string name="mode_restore">ស្ដារ</string>
+    <string name="mode_nothing">គ្មានអ្វីទេ</string>
+    <string name="mode_freeze">បង្កក</string>
+    <string name="ptrace_bypass_mode_help">"បង្ហាញពីអ្វីដែលត្រូវធ្វើបន្ទាប់ពីបិទការការពារ:
+\u0009__mode_restore__ - ស្តារការភ្ជាប់
+\u0009__mode_nothing__ - មិនធ្វើអ្វីសោះ (ជាធម្មតាការការពារខ្លួនវានឹងស្តារការតភ្ជាប់ឡើងវិញ)
+\u0009__mode_freeze__ - បង្កកឃ្លា (ដូចកំណែមុន)
+
+ប្រសិនបើអ្នកស្តារការការពារឬអនុញ្ញាតឱ្យការការពារដើម្បីធ្វើវាដោយខ្លួនឯងនោះតម្លៃត្រជាក់នៅក្នុងលេខ __app_name__ អាចបណ្តាលមកពីការបិទ / បិទការការពារជាអចិន្ត្រៃយ៍។"</string>
+    <string name="slow_emulator">"អ្នកកំពុងប្រើកម្មវិធីត្រាប់តាម \"__s__\" ។ វាយឺតហើយមានកំហុស។ ដោយសារតែការនេះការស្វែងរកអាចមានភាពយឺតខ្លាំងណាស់។
+
+យើងសូមណែនាំឱ្យប្រើកម្មវិធីត្រាប់តាមផ្សេងទៀត:"</string>
+    <string name="text">អត្ថបទ</string>
+    <string name="show_debug_info">បង្ហាញព័ត៌មានបំបាត់កំហុស</string>
+    <string name="mnt_expand">"__app_name__ ត្រូវបានតំឡើងនៅលើកាតមេម៉ូរីដែលត្រូវបានប្រើជា \"ឧបករណ៍ផ្ទុកខាងក្នុង\" ។
+វាអាចជ្រៀតជ្រែកទៅនឹងប្រតិបត្តិការនៃចន្លោះនិម្មិត។
+ប្រសិនបើវាកើតឡើងសូមដំឡើង __app_name__ នៅក្នុងអង្គចងចាំខាងក្នុងរបស់ឧបករណ៍។
+អ្នកប្រហែលត្រូវធ្វើទ្រង់ទ្រាយកាតអង្គចងចាំឡើងវិញជា \"ឧបករណ៍ផ្ទុកចល័ត\" ។"</string>
+    <string name="help_game_not_listed_root">"ហ្គេមត្រូវតែដំណើរការដើម្បីជ្រើសរើសវា។
+
+ប្រសិនបើល្បែងកំពុងដំណើរការប៉ុន្តែនៅតែមិនមាននៅក្នុងបញ្ជីបន្ទាប់មកប្រហែលជាអ្នកមានបញ្ហាជាមួយ root ឬ firmware ។
+ព្យាយាម root ផ្សេងទៀតឬកម្មវិធីបង្កប់ផ្សេងទៀត។"</string>
+    <string name="help_game_not_listed_noroot">"ហ្គេមត្រូវបានបើកនៅក្នុងចន្លោះនិម្មិតដូច្នេះវាអាចត្រូវបានជ្រើសរើស។
+
+អ្នកមិនអាចជ្រើសល្បែងមួយប្រសិនបើវាមិនរត់ក្នុងចន្លោះនិម្មិត។
+
+ប្រសិនបើល្បែងកំពុងដំណើរការនៅក្នុងទីនិម្មិតប៉ុន្តែនៅតែមិនមាននៅក្នុងបញ្ជីសាកល្បងចន្លោះនិម្មិតផ្សេងទៀតកម្មវិធីបង្កប់ឧបករណ៍ផ្សេងទៀតឬ root ។"</string>
+    <string name="daemon_killed_oom">"ដេមិនត្រូវបានសម្លាប់ដោយប្រព័ន្ធនេះដោយសារតែខ្វះការចងចាំ។
+
+កំណត់ \"__data_in_ram__\" ទៅ \"__no__\" ។
+ប្រើការបង្កើនល្បឿនផ្នែករឹងនៃចំណុចប្រទាក់ប្រសិនបើអាច។
+កុំប្រើកម្មវិធីធំ។
+បិទដំណើរការកម្មវិធីមិនប្រើប្រាស់ទាំងអស់។
+ព្យាយាមប្រើ __app_name__ បន្ទាប់ពីធ្វើការ reboot ឧបករណ៍របស់អ្នក។"</string>
+    <string name="selected_as_search_result">បានជ្រើសជាលទ្ធផលស្វែងរក</string>
+    <string name="clear_results_prompt">វានឹងជំនួសលទ្ធផលស្វែងរកបច្ចុប្បន្ន។ បន្ត?</string>
+    <string name="position_in_memory_editor">ទីតាំងនៅក្នុងកម្មវិធីកែសម្រួលសតិ</string>
+    <string name="script_prompt_internet">"ស្គ្រីបចង់ចូលប្រើអ៊ីនធឺណិត។ ប្រសិនបើអ្នកអនុញ្ញាតឱ្យចូលដំណើរការស្គ្រីបនឹងអាចលួចការចូលរបស់អ្នកពាក្យសម្ងាត់រក្សាទុកនិងទិន្នន័យផ្សេងទៀតពីហ្គេម។ ដូចគ្នានេះផងដែរវានឹងអាចលួចស្គ្រីបផ្សេងទៀតរបស់អ្នកឬទាញយកមេរោគទៅកាន់ឧបករណ៍របស់អ្នក។
+
+អនុញ្ញាតឱ្យចូលដំណើរការស្គ្រីបទៅអ៊ីនធឺណិត?"</string>
+    <string name="level">កម្រិត</string>
+    <string name="float_prompt">"ដើម្បីដំណើរការ __app_name__ ដោយត្រឹមត្រូវនៅលើកម្មវិធីបង្កប់របស់អ្នកអ្នកត្រូវអនុញ្ញាតឱ្យប្រើបង្អួចលេចឡើងក្នុងការកំណត់ប្រព័ន្ធសម្រាប់ __s__ ។
+
+ការលេចឡើងមិនបង្ហាញនៅលើទូរស័ព្ទរបស់ក្រុមហ៊ុន Huawei តាមលំនាំដើម។ អ្នកនឹងត្រូវអនុញ្ញាតឱ្យ __s__ បង្ហាញការលេចឡើង។ សូមបើកកម្មវិធីគ្រប់គ្រងទូរស័ព្ទបន្ទាប់មកគ្រប់គ្រង Dropzone ហើយសូមប្រាកដថាវាត្រូវបានបើកសម្រាប់ __s__ ។
+
+លេចឡើងក៏មិនបានបង្ហាញនៅលើទូរស័ព្ទ Xiaomi មួយចំនួន។ អ្នកត្រូវចូលទៅកាន់ការកំណត់ -> កម្មវិធីដែលបានដំឡើង -> __s__ -> សិទ្ធិផ្សេងៗ -> បង្ហាញផ្ទាំងការលេចឡើង។
+
+ដូចគ្នានេះផងដែរ, ទូរស័ព្ទផ្សេងទៀតអាចមាននីតិវិធីផ្សេងៗគ្នាដើម្បីអនុញ្ញាតឱ្យកម្មវិធីបង្ហាញបង្អួចលេចឡើង។ រាល់កម្មវិធីទាំងអស់នេះត្រូវបានរងផលប៉ះពាល់តាមវិធីនេះឧទាហរណ៍កម្មវិធី Google Translator ជាមួយមុខងារបកប្រែដើម្បីបកប្រែ។ ដូច្នេះអ្នកអាចគ្រាន់តែ google \"YOUR_PHONE tap ដើម្បីបកប្រែ\" ដើម្បីស្វែងរកដំណោះស្រាយ។ ឧទាហរណ៍សម្រាប់ឧបករណ៍ Xiaomi Redmi ដំណោះស្រាយមានដូចខាងក្រោម:"</string>
+    <string name="virtual_space">កម្មវិធីចន្លោះនិម្មិត</string>
+    <string name="prevent_unload_help">"រារាំងការពន្លា __app_name__ ពីការចងចាំ (កម្លាំងបិទ) ។
+
+កម្រិតជាបន្តបន្ទាប់នីមួយៗមានឥទ្ធិពលខ្លាំងជាងមុនហើយរួមបញ្ចូលវាដោយខ្លួនឯង។
+
+កម្រិតទីបីអាចបណ្តាលឱ្យមានបញ្ហា (ព្យួរអាំងឃើរ, ចាប់ផ្ដើមឡើងវិញឬគាំង) នៅលើកម្មវិធីបង្កប់និងកម្មវិធីត្រាប់តាមមួយចំនួន។
+
+បើគ្មាន root ទេកម្រិតទីបីដំណើរការ។"</string>
+    <string name="integer_type">ប្រភេទទិន្នន័យនេះគឺសម្រាប់តែចំនួនគត់និងមិនគាំទ្រតម្លៃប្រភាគ។ ប្រើ __type_float__ ឬ __type_double__ សម្រាប់តម្លៃប្រភាគ។</string>
+    <string name="without_float">អ្នកក៏អាចប្រើ __app_name__ ដោយមិនមានបង្អួចអណ្តែត:</string>
+    <string name="any_value">តម្លៃណាមួយ</string>
+    <string name="help_group_search_any_value">អ្នកអាចប្រើ __any__ នៅក្នុងការស្វែងរកជាក្រុមតាមលំដាប់ដែលមានទំហំអប្បបរមាដើម្បីបញ្ជាក់តម្លៃនៃប្រភេទនោះនៅទីតាំងដែលចង់បាន។</string>
+    <string name="help_scripts_title">ស្គ្រីប</string>
+    <string name="help_scripts">"* __help_scripts_title__:
+__app_name__ គាំទ្រការប្រតិបត្តិនៃស្គ្រីបដែលសរសេរក្នុង Lua ។
+
+នៅលើផ្ទាំងស្វែងរកចុចម៉ឺនុយហើយជ្រើសរើស \"__execute_script__\" ។
+នៅទីនេះអ្នកអាចជ្រើសឯកសារស្គ្រីបដើម្បីប្រតិបត្តិសូមមើលវិធីសាស្ត្រ API __app_name__ ដែលមានស្រាប់ឬចូលទៅកាន់គេហទំព័រផ្លូវការដើម្បីអានជំនួយនៅលើ API ឬទាញយកស្គ្រីបដែលបានរួចរាល់។
+ដូចគ្នានេះផងដែរអ្នកអាចទាញយកជំនួយពី API នៅលើកាតអង្គចងចាំដើម្បីអានវាដោយគ្មានអ៊ីនធឺណិត។
+
+ប្រសិនបើអ្នកចង់សរសេរស្គ្រីបផ្ទាល់ខ្លួនរបស់អ្នកនោះអ្នកត្រូវការកម្មវិធីកែសម្រួលឯកសារអត្ថបទខាងក្រៅ។
+។ __app_name__ មិនអនុញ្ញាតឱ្យកែសម្រួលស្គ្រីបវាប្រតិបត្តិតែពួកវាទេ។
+
+អានជំនួយ API សម្រាប់ព័ត៌មានលម្អិត។"</string>
+    <string name="help_floating_icon_absent">ប្រសិនបើបន្ទាប់ពីចុចប៊ូតុង \"__start__\" អ្នកមិនឃើញរូបតំណាងអណ្តែតទេ:</string>
+    <string name="remove_all2">យកចេញទាំងអស់</string>
+    <string name="debug_load">បោះបង់លេខកូដទាំងអស់</string>
+    <string name="debug_log">ចុះកំណត់ហេតុការហៅស្គ្រីបភាគច្រើន</string>
+    <string name="vspace64">"អ្នកបានរត់ __app_name__ នៅក្នុងចន្លោះនិម្មិតដែលគាំទ្រដំណើរការ 64 ប៊ីត។
+
+__app_name__ នឹងមិនឃើញដំណើរការ 32 ប៊ីតដែលដំណើរការនៅក្នុងចន្លោះនេះទេ។
+
+ដំឡើងច្បាប់ចម្លងទីពីរនៃ __app_name__ នៅក្នុងរបៀប \"__for32__\" ប្រសិនបើអ្នកចង់ធ្វើការនៅក្នុង __app_name__ ជាមួយនឹងដំណើរការ 32 ប៊ីត។"</string>
+    <string name="folder_new">ប្រអប់​ឯកសារ​ថ្មី</string>
+    <string name="folder_exists">ថតនេះមានរួចហើយ</string>
+    <string name="folder_file">មានឯកសារដែលមានឈ្មោះនោះ</string>
+    <string name="folder_failed">បានបរាជ័យក្នុងការបង្កើតថត</string>
+    <string name="force_close">"ការបិទកម្មវិធីមុនគឺមិនបានរំពឹងទុក។
+
+អ្នកអាចបង្កើនកម្រិតកំណត់រចនាសម្ព័ន្ធ \"__prevent_unload__\" ដើម្បីជៀសវាងបញ្ហានេះក្នុងពេលអនាគត។"</string>
+    <string name="help_force_close_title">ការបិទមិនបានរំពឹង</string>
+    <string name="install_mode">ដំឡើងរបៀប</string>
+    <string name="for32">សម្រាប់ការ hack ហ្គេម 32 ប៊ីតនៅក្នុងចន្លោះនិម្មិត 64 ប៊ីត</string>
+    <string name="for64">សម្រាប់ការ hack ល្បែង 64 ប៊ីតនៅក្នុងចន្លោះនិម្មិត 64 ប៊ីត</string>
+    <string name="reset_ignore">កំណត់ឡើងវិញទាំងអស់មិនអើពើសម្រាប់ប្រអប់ទាំងអស់</string>
+    <string name="allocate_fail">មិនអាចបម្រុងទុកទំព័រចងចាំ។ កំហុស</string>
+    <string name="allocated">ទំព័រចងចាំបានបម្រុងទុក:</string>
+    <string name="allocate_page">បម្រុងទុកទំព័រការចងចាំ</string>
+    <string name="prot_read">អាចត្រូវបានអាន</string>
+    <string name="prot_write">អាចត្រូវបានសរសេរ</string>
+    <string name="prot_exec">អាចត្រូវបានប្រតិបត្តិ</string>
+    <string name="install_finished">"ការដំឡើងបានជោគជ័យ។
+រត់ឯកសារចម្លងដែលបានដំឡើងដោយដៃដូច្នេះវាអាចផ្លាស់ប្តូរទិន្នន័យរបស់អ្នក។
+បន្ទាប់ពីនោះកម្មវិធីដំឡើងអាចត្រូវបានយកចេញ។"</string>
+    <string name="odd_vspace">__app_name__ បានបើកដំណើរការនៅក្នុងបន្ទប់និម្មិត?</string>
+    <string name="record_script">ស្គ្រីបកត់ត្រា</string>
+    <string name="record">កត់ត្រា</string>
+    <string name="another_record">កំណត់ត្រាមួយទៀតកំពុងដំណើរការ។ បញ្ឈប់​វា?</string>
+    <string name="record_ended">ការកត់ត្រាបានបញ្ចប់:</string>
+    <string name="stop">បញ្ឈប់</string>
+    <string name="could_not_use">មិនអាចប្រើ:</string>
+    <string name="not_optimized2">"អ្នកកំពុងប្រើកំណែនិម្មិតនៃទំហំនិម្មិត (\"__s__\") ។
+ដើម្បីជួសជុលកំហុសនេះសូមយកកំណែ \"__s__\" ដែលមិនមានសុពលភាពហើយដំឡើងចន្លោះនិម្មិតដែលប្រសើរបំផុតពីគេហទំព័រផ្លូវការ __app_name__ ។
+ចុច \"__fix_it__\" ដើម្បីចូលទៅជ្រើសរើសកន្លែងនិម្មិតនិម្មិត។"</string>
+    <string name="fix_path">ដកឃ្លាដោយឥតគិតថ្លៃឬបញ្ជាក់ផ្លូវខុសគ្នាសម្រាប់ឯកសារបណ្តោះអាសន្នដោយចុចលើ \"__fix_it__\" ។</string>
+    <string name="deep_read">អានជ្រៅ:</string>
+    <string name="help_deep_read">"ការអានការចងចាំដោយវិធីសាស្ត្រដែលមានទាំងអស់ប្រសិនបើវាមិនអាចអានបាន។
+អាចបន្ថយការអានសតិ។"</string>
+    <string name="ptrace_fail">បានបរាជ័យក្នុងការផ្លាស់ប្តូរការចងចាំតាមរយៈ ptrace ។</string>
+    <string name="ptrace_fail_partially">លក្ខណៈពិសេសមួយចំនួនល្បឿនលឿននិងអ្វីគ្រប់យ៉ាងដែលទាក់ទងនឹងវានឹងមិនដំណើរការទេ។ មិនអាចសរសេរទៅអង្គចងចាំបានតែអាន (រួមទាំងលេខកូដ) ។</string>
+    <string name="ptrace_fail_full">ភាគច្រើននៃលក្ខណៈពិសេសពេញលេញនឹងមិនដំណើរការទេ។</string>
+    <string name="ptrace_fail_solve">"មូលហេតុធម្មតាគឺខឺណែលខូចនៅក្នុងកម្មវិធីបង្កប់។
+ព្យាយាមផ្លាស់ប្តូរកម្មវិធីបង្កប់។ ប្រសិនបើអ្នកទើបតែបានធ្វើបច្ចុប្បន្នភាពវា - ដំឡើងកំណែមុន។
+
+ប្រសិនបើវាមិនដំណើរការសូមប្តូរឧបករណ៍។"</string>
+    <string name="feature_hide_4">លក្ខណៈពិសេសនេះមិនអាចដំណើរការបានទេប្រសិនបើធាតុទីបួនត្រូវបានជ្រើសរើសនៅក្នុង \"__hide_from_game__\" ។</string>
+    <string name="feature_firmware">លក្ខណៈពិសេសនេះមិនអាចដំណើរការដោយគ្មាន ptrace ដែលមិនដំណើរការលើកម្មវិធីបង្កប់នេះទេ។</string>
+    <string name="feature_protection">លក្ខណៈពិសេសនេះមិនអាចដំណើរការបានទេដោយសារតែការការពារ ptrace នៅក្នុងហ្គេម។</string>
+    <string name="not_file">ផ្លូវមិនមែនជាឯកសារទេ:</string>
+    <string name="not_execute">មិនអាចប្រតិបត្តិ:</string>
+    <string name="check_install">ពិនិត្យមើលថា __app_name__ ត្រូវបានតំឡើងយ៉ាងត្រឹមត្រូវ។</string>
+    <string name="sdcard_install">ប្រសិនបើ __app_name__ ត្រូវបានតំឡើងនៅលើឧបករណ៍ផ្ទុកខាងក្រៅ (កាតអេសឌី) ត្រឡប់វាទៅអង្គចងចាំខាងក្នុង</string>
+    <string name="change_address_type">ផ្លាស់ប្តូរអាសយដ្ឋាន / ប្រភេទ</string>
+    <string name="bad_offset">អុហ្វសិតមិនមែនជាចំនួនច្រើននៃ __d__ ទេ។</string>
+    <string name="bad_result_address">អាសយដ្ឋានលទ្ធផលមិនមែនជាពហុគុណនៃ __d__ ទេ។</string>
+    <string name="correct_types">ធាតុ __d__ នឹងផ្លាស់ប្ដូរប្រភេទរបស់វាដើម្បីកែតម្រូវការតម្រឹម។</string>
+    <string name="reinstall_fail">"មិនអាចដំឡើង __app_name__ ដោយឈ្មោះចៃដន្យ។
+
+__app_name__ អាចត្រូវបានរកឃើញយ៉ាងងាយស្រួលដោយហ្គេម។
+
+អ្នកអាចថតចម្លងបាន __logcat__ ក្នុងកំឡុងពេលដំឡើងហើយទាក់ទងវេទិកាផ្លូវការសម្រាប់ជំនួយ។
+
+មូលហេតុច្រានចោល:"</string>
+    <string name="empty_field">វាលបញ្ចូលទទេ: គ្មានលេខត្រូវបម្លែងទេ</string>
+    <string name="need_integer">អ្នកត្រូវជ្រើសលេខគត់ដើម្បីបម្លែង។</string>
+    <string name="maps_failed">មិនអាចបើកឯកសារ \"__maps__\" ។</string>
+    <string name="game_protected">ហ្គេមត្រូវបានការពារ។</string>
+    <string name="need_root">ត្រូវការ root ដើម្បី hack ហ្គេមនេះ។</string>
+    <string name="vspace_error">"បញ្ហានៃចន្លោះនិម្មិតឬកម្មវិធីបង្កប់ឬឧបករណ៍។
+
+ព្យាយាម:
+\u0009- ប្រើទំហំនិម្មិតផ្សេងទៀត
+\u0009- ប្រើកម្មវិធីបង្កប់ផ្សេង
+\u0009- ទទួល root
+\u0009- ប្រើឧបករណ៍ផ្សេងទៀត"</string>
+    <string name="root_error">"បញ្ហានៃកម្មវិធីឬ root ឬឧបករណ៍។
+
+ព្យាយាម:
+\u0009- ប្រើកម្មវិធីបង្កប់ផ្សេង
+\u0009- ប្រើឫសផ្សេងទៀត
+\u0009- ប្រើឧបករណ៍ផ្សេងទៀត"</string>
+    <string name="vspace_root">ប្រើ root ក្នុងទំហំនិម្មិត:</string>
+    <string name="help_vspace_root">"ការប្រើ root ពីចន្លោះនិម្មិតអាចជួយលាក់បាំងការពិតដែលមាន __app_name__ នៅលើឧបករណ៍។
+
+វាមិនដំណើរការលើកម្មវិធីបង្កប់ទាំងអស់និងមិនមែនលើចន្លោះនិម្មិតទាំងអស់ទេ។
+
+ទំហំនិម្មិត, កម្មវិធីបង្កប់និង root គួរអនុញ្ញាតឱ្យធ្វើការជាមួយ root ពីចន្លោះនិម្មិត។
+ទំហំនិម្មិតគួរអនុញ្ញាតឱ្យអ្នកដំឡើងកម្មវិធីចូលដោយមិនចាំបាច់ដំឡើងវាចូលក្នុងប្រព័ន្ធ។
+
+មិនមែនជាចន្លោះនិម្មិតទាំងអស់ទេដែលអាចផ្តល់ជូននេះ។
+
+មិននៅលើកម្មវិធីបង្កប់ទាំងអស់នេះរបៀបនេះនឹងដំណើរការ។ និងមិនមែនជាមួយនឹងឫសទាំងអស់ទេ។
+
+ដោយសារសិទ្ធិរបស់ root នឹងត្រូវបានផ្តល់ទៅទំហំនិម្មិតទាំងមូលអ្នកមិនគួរដំឡើងអ្វីផ្សេងទៀតនៅក្នុងវាទេ។ បើមិនដូច្នោះទេកម្មវិធីណាមួយពីចន្លោះនិម្មិតអាចប្រើសិទ្ធិជា root ជាមួយផលវិបាកដែលមិនអាចទាយទុកជាមុនបាន។
+
+ហ្គេមត្រូវបានតំឡើងនៅខាងក្រៅកន្លែងនិម្មិត។
+
+__app_name__ គួរតែត្រូវបានតំឡើងតែនៅក្នុងចន្លោះនិម្មិតដោយមិនចាំបាច់ដំឡើងវាទៅក្នុងប្រព័ន្ធទេ។
+វិធីធ្វើដូចនេះ - មើលជំនួយនៃទំហំនិម្មិតពិសេស។
+
+ឧទាហរណ៍សម្រាប់ __vexp__ អ្នកអាចក្លូនលេខ __app_name__ ពីប្រព័ន្ធក្នុង __vexp__ ហើយបន្ទាប់មកលុបលេខ __app_name__ ចេញពីប្រព័ន្ធ។"</string>
+    <string name="help_games_protection_9">9. Use root in virtual spaces that allow to install applications into yourself without installing into the system.</string>
+    <string name="locale_ui">នៅក្នុងមូលដ្ឋានរបស់អ្នក</string>
+    <string name="locale_script">ស្គ្រីបតែងតែប្រើភាសាអង់គ្លេស</string>
+    <string name="locale_desc">"'__s__' - សញ្ញាបំបែកខ្ទង់ទសភាគ
+'__s__' - សញ្ញាបំបែកខ្ទង់ពាន់
+'__semicolon__' - អ្នកបំបែកលេខក្នុងការស្វែងរកជាក្រុម"</string>
+    <string name="help_unaligned_title">ការស្វែងរកដែលមិនបានបញ្ជាទិញ / ការស្វែងរកធំ</string>
+    <string name="help_unaligned">"ក្នុងកម្មវិធីមួយចំនួន (ឧទាហរណ៍ដូចជាកម្មវិធីត្រាប់តាមកុងសូល) តម្លៃក្នុងសតិអាចមិនគោរពការតម្រឹមឬត្រូវបានបង្ហាញក្នុងលំដាប់បៃធំ។
+
+តម្លៃបែបនេះមិនអាចរកឃើញតាមរយៈការស្វែងរកធម្មតាទេ។
+
+ដើម្បីស្វែងរកវា - ប្រើស្គ្រីបពិសេសពីវេបសាយផ្លូវការ __app_name__:"</string>
+    <string name="help_formula_calculator_title">ការគណនារូបមន្ត</string>
+    <string name="help_formula_calculator">"ស្ទើរតែនៅក្នុងវាលនីមួយៗសម្រាប់ការបញ្ចូលលេខអ្នកអាចបញ្ចូលរូបមន្តគណិតវិទ្យាបន្ទាប់ពីសញ្ញាស្មើឧទាហរណ៍នៅក្នុងវាលស្វែងរកបញ្ចូល '= 2 + 2 * 3' ហើយកម្មវិធីនឹងស្វែងរកលទ្ធផលនៃរូបមន្តនោះ។ គឺ '8' ។
+រូបមន្តគឺជាកន្សោម Lua ។ អ្នកអាចប្រើថាមពលដែលមានទាំងអស់នៃលូនៅក្នុងវា។
+
+ប្រតិបត្តិករនព្វន្ធទាំងអស់លី 5.3 អាចទទួលយកបាន - បូក (+) ដក (-) គុណ (*) ការបែងចែក (/) ចំណែកចែក (%) និទស្សន្ត (^) ការបែងចែកចំនួនគត់ (//) និងផ្សេងៗទៀត។
+អាចប្រើបានផងដែរគឺមានសញ្ញាប្រមាណវិធីប៊ីត - AND (&amp;), OR (|) ផ្តាច់មុខ OR (គោលពីរ ~), មិនមែន (unary ~), ប្តូរទៅខាងស្តាំ (>>), ប្តូរទៅខាងឆ្វេង (&lt;&lt;) ។ លំដាប់នៃសកម្មភាពអាចត្រូវបានផ្តល់ដោយតង្កៀប។
+សូមអានសៀវភៅណែនាំលូសម្រាប់ការចុះបញ្ជីពេញលេញនៃប្រតិបត្តិការដែលមាន។
+
+វាមានប្រយោជន៍ប្រសិនបើអ្នកដឹងពីរបៀបដែលតម្លៃត្រូវបានដាក់កូដនៅក្នុងហ្គេម។ ឧទាហរណ៍ 29 ជុំនៅក្នុងល្បែងមួយអាចត្រូវបានគេរកឃើញថាជា '= 29 ~ 444444' ។ នេះស្មើនឹង 29 XOR 444444។ នៅក្នុងគំរូវីដេអូតម្លៃត្រូវបានគេរកឃើញ 3888 តាមរយៈ XOR ជាមួយ 444444 ដូចជា '= 444444 ~ 3888' ។ បន្ទាប់ពីនេះការជំនួសត្រូវបានធ្វើឡើងទៅ '= 444444 ~ 1' ដែលកំណត់តម្លៃទៅ '1' ។ នៅក្នុងល្បែងមួយទៀតមាស 125 ដូចជា '= 125 * 10' ។
+
+មុខងារមុខងារស្គ្រីបទាំងអស់មិនមាននៅក្នុងកម្មវិធីគណនារូបមន្តទេ។ មុខងារខ្លះមិនមានទេ។ ប្រសិនបើអ្នកមិនមានវាគ្រប់គ្រាន់ - សរសេរស្គ្រីបរបស់អ្នកជំនួសឱ្យការប្រើរូបមន្តគណនាវាត្រូវបានបម្រុងទុកសម្រាប់តែការគណនាសាមញ្ញប៉ុណ្ណោះ។ អាចរកបាន: ផ្នែកនៃមុខងារមូលដ្ឋាន 'ប៊ីត 32' 'តារាង' ខ្សែអក្សរ 'យូហ្វ 8' គណិត 'ជាផ្នែកមួយនៃកញ្ចប់' អូ '។ កញ្ចប់ 'debug', 'package', 'gg', 'io' មិនមានទេ។
+
+នៅពេលអ្នកសរសេរ '= 2 + 2 * 3', ពាក្យ 'ត្រឡប់មកវិញ' នឹងត្រូវបានបន្ថែមមុនរូបមន្ត៖ 'ត្រឡប់ 2 + 2 * 3' ។ ទោះជាយ៉ាងណាក៏ដោយអ្នកអាចបញ្ជាក់ពាក្យនេះដោយខ្លួនឯងតាមរូបមន្តប្រសិនបើអ្នកត្រូវការរូបមន្តស្មុគស្មាញ។
+ឧទាហរណ៍ '= a = 5; b = 7; ត្រឡប់ a * 4 + b * 8 'នឹងត្រូវបានប្រតិបត្តិជា' a = 5; b = 7; ត្រឡប់ a * 4 + b * 8 '
+
+លទ្ធផលនៃការគណនារូបមន្តគឺជាខ្សែអក្សរអត្ថបទ។ ខ្សែអក្សរអាចជាខ្សែអក្សរត្រឹមត្រូវសម្រាប់វាលបញ្ចូលនេះ។
+ឧទាហរណ៍វាអាចជាខ្សែអក្សរសម្រាប់ការស្វែងរកក្រុមឬជួរស្វែងរក។ '= ក = 5; b = 7; ត្រឡប់មួយ .. \";\" .. ខ .. \":: 100\" 'ស្មើនឹង' 5; 7 :: 100 '។
+
+ការគណនារូបមន្តមិនដំណើរការជាស្គ្រីបទេអ្នកអាចប្រើ Lua ដោយផ្ទាល់។
+នៅពេលសរសេរស្គ្រីបលទ្ធផលនៃការគណនារូបមន្តនឹងត្រូវសរសេរទៅឯកសារមិនមែនរូបមន្តខ្លួនឯងទេ។
+
+ប្រសិនបើរូបមន្តមិនត្រឹមត្រូវអ្នកនឹងទទួលបានសារកំហុសនៅពេលអ្នកបញ្ជូនទម្រង់។
+
+នៅពេលធ្វើការគណនាអ្នកត្រូវគិតគូរពីការពិតដែលថាការគណនាត្រូវបានអនុវត្តតាមប្រភេទដែលល្ខោនអូប៉េរ៉ាដំបូងបញ្ជាក់។ ប្រសិនបើវាជាចំនួនគត់នោះលទ្ធផលនឹងជាចំនួនគត់។
+ឧទាហរណ៍ '= 3/2' គឺ '1' ហើយ '= 3.0 / 2' គឺ '1.5' ។
+
+ដោយមិនគិតពីមូលដ្ឋានដែលបានជ្រើសរើសរូបមន្តធ្វើការជាភាសាអង់គ្លេស។ នេះមានន័យថាសញ្ញាបំបែកខ្ទង់ដប់តែងតែជាចំនុច ('។ ') ។"</string>
+    <string name="help_faq_32_b">"រូបតំណាងដំណើរការពីរ។ ជាលើកដំបូង, ជាមួយនឹងការពន្លឿនកម្មវិធី - \"__app_short_name_sw__\", ទីពីរ, ជាមួយនឹងការបង្កើនល្បឿនផ្នែករឹង - \"__app_short_name_hw__\" ។ ឥឡូវនេះវានឹងក្លាយជាដូច្នេះ។
+នៅលើ firmwares មួយចំនួនតែមួយកំណែធ្វើការ, នៅលើធម្មតាទាំងពីរ។
+វាល្អប្រសើរក្នុងការប្រើការពន្លឿនកម្មវិធីវាដំណើរការមិនសូវរលូនទេប៉ុន្តែប្រើសតិតិចជាងមុន។
+
+អ្នកអាចលាក់រូបតំណាងមួយក្នុងការកំណត់កម្មវិធី: \"__hide_icons__\" ។"</string>
+    <string name="acceleration_help_">"ការបង្កើនល្បឿនផ្នែករឹងឬផ្នែកទន់ __app_name__ ។
+អាស្រ័យលើហ្គេមនិងកម្មវិធីបង្កប់ជម្រើសមួយចំនួនអាចបង្កបញ្ហា។
+ប្រសិនបើការងារទាំងពីរប្រើការបង្កើនល្បឿនកម្មវិធីដោយសារតែវាប្រើប្រាស់សតិតិច។
+
+ជម្រើសនេះដាច់ដោយឡែកពីរូបតំណាងដំណើរការហើយវាប៉ះពាល់ដល់ការបង្ហាញនៃចំណុចប្រទាក់ __app_name__ ប៉ុណ្ណោះ។
+រូបតំនាងដំណើរការគឺទទួលខុសត្រូវចំពោះប្រភេទនៃការពន្លឿននៃអេក្រង់ចាប់ផ្តើម។
+
+បង្កើនល្បឿនផ្នែករឹងប្រើប្រាស់អង្គចងចាំច្រើនប៉ុន្តែវាដំណើរការបានរលូន។ ប្រសិនបើអ្នកមាន RAM តិចតួចតែងប្រើការបង្កើនល្បឿនកម្មវិធី។
+
+ប្រសិនបើការបង្កើនល្បឿនផ្នែករឹងបណ្តាលឱ្យមានកំហុស __app_name__ អាចប្តូរទៅការពន្លឿនកម្មវិធី។"</string>
+    <string name="small_list_items">ធាតុបញ្ជីតូច</string>
+    <string name="small_list_items_help">អនុញ្ញាតឱ្យអ្នកបង្ហាញព័ត៌មានបន្ថែមនៅក្នុងបញ្ជីធាតុប៉ុន្តែវាអាចពិបាកក្នុងការចុចលើធាតុដែលចង់បាន។</string>
+    <string name="format_asm_opcodes">លេខ __s__</string>
+    <string name="no_regions">រកមិនឃើញតំបន់ផ្គូផ្គង។</string>
+    <string name="cannot_hide_launcher_icon">"រូបតំណាងនេះត្រូវបានប្រើដើម្បីចាប់ផ្ដើម។
+
+អ្នកមិនអាចលាក់រូបតំណាងដែលត្រូវបានប្រើដើម្បីចាប់ផ្តើមដំណើរការបច្ចុប្បន្នទេ។
+
+ចាប់ផ្តើមកម្មវិធីឡើងវិញតាមរយៈរូបតំណាងមួយផ្សេងទៀតដើម្បីអាចលាក់រូបតំណាងនេះបាន។"</string>
+    <string name="screenshot">ថតរូបអេក្រង់</string>
+    <string name="screenshot_prompt">"រូបតំណាងនឹងត្រូវបានលាក់សម្រាប់ __d__ វិនាទីដើម្បីឱ្យអ្នកអាចថតរូបបាន។
+
+បន្ទាប់ពីនោះរូបតំណាងនឹងអាចមើលឃើញម្តងទៀត។"</string>
+    <string name="screenshot_action">រូបថតអេក្រង់</string>
+    <string name="use_visible_type">ប្រើប្រភេទទិន្នន័យដែលមើលឃើញក្នុងកម្មវិធីកែសម្រួលសតិ:</string>
+    <string name="use_visible_type_help">កុំសួរប្រភេទទិន្នន័យក្នុងកម្មវិធីកែសម្រួលអង្គចងចាំប្រសិនបើប្រភេទទិន្នន័យតែមួយត្រូវបានបង្ហាញ។</string>
+    <string name="wrong_float">នៅក្នុងមូលដ្ឋានរបស់អ្នកលេខ \"__s__\" មើលទៅដូចជា \"__s__\" ។ ប្រសិនបើនេះមិនមែនជាអ្វីដែលអ្នកត្រូវការ - ជ្រើសរើសភាសាផ្សេង (ឬភាសា) នៅលើអេក្រង់ចាប់ផ្តើម។</string>
+    <string name="wrong_float2">ដូចគ្នានេះផងដែរនៅក្នុងការកំណត់ __app_name__ អ្នកអាចបដិសេធមូលដ្ឋានសម្រាប់លេខធ្វើទ្រង់ទ្រាយ។</string>
+    <string name="number_locale">មូលដ្ឋានសម្រាប់លេខធ្វើទ្រង់ទ្រាយ:</string>
+    <string name="fill">បំពេញ</string>
+    <string name="help_text_search">"
+ដើម្បីស្វែងរកអត្ថបទអ្នកត្រូវតែបញ្ជាក់ការកែប្រែនៅក្នុងប្រអប់ស្វែងរកធម្មតា។
+
+ការអ៊ិនកូដដែលត្រូវបានប្រើច្រើនបំផុតគឺ __utf8__ និង __utf16le__ ។
+ជាធម្មតា __utf16le__ ត្រូវបានប្រើក្នុង __java__ ហើយ __utf8__ ត្រូវបានប្រើក្នុង __c__ ។
+
+\u0009__utf16le__ គឺជាការអ៊ិនកូដពីរបៃ។ តួអក្សរនីមួយត្រូវបានអ៊ិនកូដជាពីរបៃជានិច្ចដូច្នេះវាត្រូវបានតំណាងតាម __type_word__ ។
+\u0009__utf8__ - ការអ៊ិនកូដជាមួយទំហំបៃបៃក្នុងមួយតួអក្សរ។ តំណាងតាមរយៈលេខ __type_byte__ ។
+\u0009__hex_input__ និងវ៉ារ្យ៉ង់របស់វាត្រូវបានតំណាងតាមរយៈ __type_byte__ ។
+
+ល្បែងអាចប្រើការអ៊ិនកូដណាមួយ។
+ប្រសិនបើអ្នកត្រូវការសំណុំជាក់លាក់នៃបៃសូមប្រើរបៀប __hex_input__ ។
+
+បុព្វបទអាចរកបាន:
+__text_prefixes__
+
+សម្រាប់របៀប \"__hex_mixed__\" អ្នកអាចបញ្ជាក់អក្សរ __utf8__ រវាង __apos__ អក្សរនិង __utf16le__ អត្ថបទរវាង __quot__ តួអក្សរ។
+
+ឧទាហរណ៍:
+__text_examples__
+
+តួអក្សរបុព្វបទត្រូវតែជាតួអក្សរដំបូងនៅក្នុងអត្ថបទស្វែងរក។
+
+លទ្ធផលនៃការស្វែងរកនឹងជាលំដាប់លេខ __type_byte__ ឬលំដាប់ __type_word__ សម្រាប់ករណី __utf16le__ ។
+
+លទ្ធផលអាចត្រូវបានផ្លាស់ប្តូរ - ជ្រើសទាំងអស់ហើយចុច \"__edit_selected__\" ។
+
+ក្នុងវាលតម្លៃបញ្ចូលតម្លៃថ្មីក្នុងទ្រង់ទ្រាយដូចទៅនឹងខ្សែអក្សរស្វែងរក។
+
+អ្នកអាចប្រើប៊ូតុងបំពេញ។ ចុច \"__more__\" ប្រសិនបើវាមិនអាចមើលឃើញ។
+
+តម្លៃនឹងត្រូវបានកំណត់សម្រាប់ក្រុមនីមួយៗបន្តបន្ទាប់ខាងក្រោម។
+ប្រសិនបើមានចន្លោះរវាងធាតុនោះវានឹងជាក្រុមថ្មី។
+
+ប្រសិនបើអ្នកបញ្ជាក់ចំនួនបៃច្រើនជាងតម្រូវការចាំបាច់នោះមានតែផ្នែកមួយនៃពួកគេប៉ុណ្ណោះនឹងត្រូវបានប្រើ។
+ប្រសិនបើអ្នកបញ្ជាក់តិចជាងតម្រូវការចាំបាច់នោះក្រុមដែលនៅសល់នឹងត្រូវបានបំពេញដោយសូន្យបៃ។
+
+នៅពេលកំពុងជំនួសអត្ថបទព្យាយាមបញ្ជាក់អត្ថបទដែលមានចំនួនបៃដូចគ្នាដូចដើមដើមដើម្បីជៀសវាងបញ្ហា។
+"</string>
+    <string name="fast_freeze">បង្កកឆាប់រហ័ស:</string>
+    <string name="help_fast_freeze">"វាដំណើរការបានលឿនជាងការត្រជាក់ធម្មតាប៉ុន្តែមិនសម្រាប់ការចងចាំទាំងអស់ទេ។
+
+ប្រសិនបើបង្កកមិនដំណើរការទេសូមបិទជម្រើសនេះ។"</string>
+    <string name="debug_disassemble">មិនរុះរើ</string>
+    <string name="assembled">បានប្រមូលផ្តុំដោយជោគជ័យទៅឯកសារ:</string>
+    <string name="warn_patch_off_prot2">"ប្រសិនបើអ្នកកំពុងប្រើ __magisk_hide__ សូមបិទវាមុនពេលអនុវត្តបំណះ។ បន្ទាប់ពីអនុវត្តបំណះដោយជោគជ័យអ្នកអាចបើកវាឡើងវិញបាន។
+ប្រសិនបើអ្នកមិនធ្វើបែបនេះបំណះនឹងមិនជោគជ័យទេ។"</string>
+    <string name="help_games_protection_end">"
+វិធីលាក់លេខ __app_name__ ពីហ្គេមក្នុងលំហរនិម្មិត។
+
+\u00091. តំឡើងចន្លោះនិម្មិតដែលអនុញ្ញាតឱ្យតំឡើងកម្មវិធីដែលលាក់ដោយមិនចាំបាច់ដំឡើងវានៅក្នុងប្រព័ន្ធ។ ឧទាហរណ៍ __vspace_hide__ ។
+\u00092. Install __app_name__ into the virtual space.
+\u00093. ក្នុងឆ្នាំ __app_name__ បើករបៀប \"__vspace_root__\" ។
+\u00094. Grant root rights to virtual space. If you do not able to grant root rights - try another virtual space, other root rights, different firmware or change the device.
+\u00095. ដកលេខ __app_name__ ចេញពីប្រព័ន្ធ។
+\u00096. ធ្វើការជាមួយ __app_name__ ពីចន្លោះនិម្មិត។
+
+ដើម្បីជៀសវាងការស្វែងរកក្នុងពេលស្វែងរក៖
+\u0009ជ្រើសរើសធាតុ 2 3 និង 4 នៅក្នុងការកំណត់ \"__hide_from_game__\" ។
+
+ដំណោះស្រាយធម្មតា (ទាមទារឫសដោយគ្មានឫសអ្នកមិនអាចជោគជ័យ)៖
+\u00091. Use root from virtual space. Read the help for the setting \"__vspace_root__\".
+\u00092. ប្រើរបស់របរទី 2 ទី 3 និងទី 4 នៅក្នុងការកំណត់“ __hide_from_game__” ។
+"</string>
+    <string name="force_close_2">អ្នកអាចកំណត់ \"__data_in_ram__\" ទៅ \"__no__\" ដើម្បីជៀសវាងបញ្ហានេះនាពេលអនាគត។</string>
+    <string name="script_wrote">ស្គ្រីបបានសរសេរ __s__ ដើម្បី __d__ ឯកសារ។</string>
+    <string name="script_exit">ចេញពី</string>
+    <string name="script_interrupted">ស្គ្រីបរំខាន។</string>
+    <string name="script_error">កំហុសក្នុងស្គ្រីប</string>
+    <string name="script_oom">អស់សតិ</string>
+    <string name="script_possible">វាមើលទៅដូចជាអ្នកកំពុងតែព្យាយាមប្រតិបត្តិ __s__ ជាការស្គ្រីប។</string>
+    <string name="script_web">ទំព័របណ្ដាញ</string>
+    <string name="script_saved_list">បញ្ជីបានរក្សាទុក</string>
+    <string name="speedhack_no_x86">ប៉ុន្តែនៅក្នុងការប្រកួតនេះគឺមិនមានបណ្ណាល័យ x86, ដូច្នេះប្រហែលជាវានឹងមិនដំណើរការ។</string>
+    <string name="help_faq_33_q">សារអត្ថបទ (លើកកែវ) នៅតែមាននៅលើអេក្រង់ឬរង្វង់ខ្មៅងងឹតមួយដែលអាចមើលឃើញនៅខាងក្រោមនេះគឺជាអេក្រង់នៅពេល __app_name__ កំពុងធ្វើការ។ តើធ្វើដូចម្តេចដើម្បីជួសជុលវា?</string>
+    <string name="help_faq_33_a">ការប្រើកម្រិតទីបីនេះ \"__prevent_unload__\" នៅលើកម្មវិធីបង្កប់មួយចំនួនដែលនាំឱ្យមានការពិតដែលថាការផ្ញើសារ (លើកកែវ) នៅតែមាននៅលើអេក្រង់ឬរង្វង់ខ្មៅងងឹតមួយគឺអាចមើលឃើញ (សារទទេ) នេះ។ ប្រសិនបើរឿងនេះកើតឡើង, មិនប្រើកម្រិតទីបីនេះ។</string>
+    <string name="invalid_header_1">បឋមកថាស្គ្រីបប្រព័ន្ធគោលពីរមិនត្រឹមត្រូវ។</string>
+    <string name="unknown_version">មិនស្គាល់កំណែ។</string>
+    <string name="unknown_format">មិនស្គាល់ទ្រង់ទ្រាយ។</string>
+    <string name="unknown_endianness">មិនស្គាល់ចំណងជើង។</string>
+    <string name="unknown_size_s">មិនស្គាល់ទំហំនៃ __s__ ។</string>
+    <string name="unknown_size_instr">មិនស្គាល់ទំហំនៃការបង្រៀន។</string>
+    <string name="unknown_size_num">មិនស្គាល់ទំហំនៃចំនួន Lua ។</string>
+    <string name="expected_found">គេរំពឹងថា __s__ ប៉ុន្តែការរកឃើញ __s__ ។</string>
+    <string name="or">ឬ</string>
+    <string name="invalid_header_2">រត់ស្គ្រីបឬ?</string>
+    <string name="invalid_header_3">"នៅក្នុងកំណែនាពេលអនាគតនៃ __app_name__, ស្គ្រីបនេះមិនអាចត្រូវបានរត់។
+សរសេរអំពីបញ្ហានេះទៅអ្នកនិពន្ធនៃស្គ្រីបនេះ។"</string>
+    <string name="skip_system_libs">រំលងបណ្ណាល័យប្រព័ន្ធ</string>
+    <string name="try_reinstall_x86">"ព្យាយាមដំឡើងការប្រកួតនេះជាមួយនឹងការ x86 បណ្ណាល័យ?
+
+ការប្រកួតនេះអាចនឹងឈប់ដំណើរការបន្ទាប់ពីនោះ។ ប្រសិនបើរឿងនេះកើតឡើង, ដំឡើងការប្រកួតនេះពី APK ដែលមានទីតាំងស្ថិតនៅ __data_app__ ។"</string>
+    <string name="reinstall_started">ការដំឡើងឡើងវិញបានចាប់ផ្តើម ...</string>
+    <string name="reinstall_failed">ការដំឡើងឡើងវិញបានបរាជ័យ:</string>
+    <string name="reinstall_ended">ការដំឡើងឡើងវិញបានបញ្ចប់។</string>
+    <string name="help_lasm_title">Disassembler / ប្រមូលផ្តុំស្គ្រីប</string>
+    <string name="help_lasm">"__app_name__ មានស្រាប់នៅក្នុង Disassembler / ដំឡើងរថយន្តសម្រាប់ស្គ្រីប Lua ។
+
+អ្នកអាចជ្រើសជម្រើស \"__debug_disassemble__\" នៅក្នុងបង្អួចបើកដំណើរការស្គ្រីប, បន្ទាប់ពីចុចប៊ូតុង \"__more__\" ប៊ូតុង។
+
+ឯកសារលទ្ធផល __ext_lasm__ អាចត្រូវបានកែសម្រួលនិងជ្រើសក្នុងបង្អួចបើកដំណើរការស្គ្រីប។ ជាលទ្ធផលនឹងមាន __ext_lua__ ឯកសារប្រព័ន្ធគោលពីរជាមួយ, ជាមួយនឹងការផ្លាស់ប្តូរដែលបានធ្វើ។
+
+អានជំនួយស្គ្រីប API សម្រាប់សេចក្តីលម្អិតបន្ថែមទៀត។
+"</string>
+    <string name="help_hide_gg_title">តើធ្វើដូចម្តេចដើម្បីលាក់ __app_name__ ពីការលេងហ្គេម</string>
+    <string name="changed_as_search_result">ផ្លាស់ប្តូរដែលជាលទ្ធផលស្វែងរក</string>
+    <string name="changed_not_found">រកមិនឃើញធាតុបានផ្លាស់ប្តូរ។</string>
+    <string name="too_far">តម្លៃទាំងនេះមិនអាចរកឃើញតាមរយៈការស្វែងរកក្រុមដែលពួកគេនៅឆ្ងាយពេក: __d__ បៃ។ ចម្ងាយអតិបរមានេះគឺ __d__ បៃ។</string>
+    <string name="new_address">អាសយដ្ឋានថ្មី:</string>
+    <string name="hide_1_warn">អ្នកបានជ្រើសធាតុដំបូង។ តម្លៃកកអាចបង្កឱ្យមានការខ្វះខាតច្រើនជាងធ្ងន់ធ្ងរក្នុងការប្រកួតនេះ។</string>
+    <string name="hide_4_warn">អ្នកបានជ្រើសធាតុទីបួន។ លក្ខណៈពិសេសមួយចំនួននឹងមិនដំណើរការ: __speedhack__, __unrandomizer__, __allocate_page__ ។</string>
+    <string name="asm_failed">បានបរាជ័យក្នុងការទទួលស្គាល់ __s__ opcode:</string>
+    <string name="asm_suggestion">តើអ្នកមានន័យថា: __s__?</string>
+    <string name="copy_opcode">ចម្លង __s__ opcode:</string>
+    <string name="search_nearby">ស្វែងរកជិត</string>
+    <string name="before">មុនពេល</string>
+    <string name="after">បន្ទាប់ពីការ</string>
+    <string name="distance">ចម្ងាយ:</string>
+    <string name="nearby">នៅ​ជិត:</string>
+    <string name="need_fixer">"បញ្ហាមួយត្រូវបានរកឃើញដោយមានចន្លោះនិម្មិត 64 ប៊ីតនេះ។
+
+ដើម្បីជួសជុលវា:
+
+1. ដំឡើងកម្មវិធី __fixer__ ។ (ពីប្រអប់នេះដោយដៃតាមបណ្តោយផ្លូវ:
+__s__
+) ។
+
+2. បន្ថែម __fixer__ ទៅទំហំនិម្មិត។
+
+3. រត់ __fixer__ នៅក្នុងចន្លោះនិម្មិត។
+
+4. យក __fixer__ ។
+
+5. ចាប់ផ្ដើមឡើងវិញ __app_name__ ក្នុងចន្លោះនិម្មិត។"</string>
+    <string name="limit">តែលទ្ធផលលេខដំបូង:</string>
+</resources>

@@ -1,0 +1,1366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lang_code">~~~ka~~~</string>
+    <string name="front_text">"__improve_translation_hint__
+
+თუ თქვენ გაქვთ რაიმე შეკითხვები __app_name__ ან მისი გამოყენება, გთხოვთ ეწვიოთ ჩვენს ფორუმს __forum__"</string>
+    <string name="set_path">დროებითი გზა</string>
+    <string name="number">ნომერი:</string>
+    <string name="type">ტიპი:</string>
+    <string name="name">სახელი:</string>
+    <string name="reset">აირჩიეთ პროცესი</string>
+    <string name="set_range">აირჩიეთ მეხსიერება მერყეობს</string>
+    <string name="search">ძიება</string>
+    <string name="save">Შენახვა</string>
+    <string name="goto1">Წადი</string>
+    <string name="address">მისამართი:</string>
+    <string name="edit_all">ყველა რედაქტირება</string>
+    <string name="filter">ფილტრი</string>
+    <string name="clear">წმინდა</string>
+    <string name="max_show_rec">ჩვენება:</string>
+    <string name="equal">უცვლელი</string>
+    <string name="inequal">შეიცვალა</string>
+    <string name="larger">გაიზარდა</string>
+    <string name="smaller">შემცირდა</string>
+    <string name="compare_current_last">როგორ შეიცვალა ღირებულება?</string>
+    <string name="write_region_log">დაწერეთ რეგიონის შესვლა</string>
+    <string name="old_version">Ძველი ვერსია</string>
+    <string name="found_old_version">აღმოაჩინეს ძველი ვერსია __app_name__. გსურთ წაშალოთ ეს?</string>
+    <string name="yes">დიახ</string>
+    <string name="no">არა</string>
+    <string name="ok">კარგი</string>
+    <string name="failed_find_package_name">ვერ შეასრულა განაცხადის პაკეტის სახელი!</string>
+    <string name="path_for_temp_files">"დააყენეთ გზა temp ფაილებისთვის, მაგ. '__sdcard__'. მას შეუძლია მოითხოვოს რამდენიმე ასეული მბ თავისუფალი სივრცე. მიმდინარე ძიების შედეგები დაიკარგება."</string>
+    <string name="confirm">დადასტურება</string>
+    <string name="cancel">გაუქმება</string>
+    <string name="found_new_version">ნაპოვნია ახალი ვერსია __s__</string>
+    <string name="daemon_failed">Daemon ვერ მოხერხდა</string>
+    <string name="failed_run_daemon">ვერ შეასრულა დემონი. დაფუძნებულია root?</string>
+    <string name="daemon_unexpected_closed">Daemon მოულოდნელად დაიხურა. ინფორმაცია:</string>
+    <string name="daemon_exited">დემენი გამოვიდა</string>
+    <string name="failed_load_daemon">Daemon- ს ჩატვირთვა ვერ მოხერხდა</string>
+    <string name="is_device_rooted">შეუძლებელია root access.</string>
+    <string name="collect_data_to_region_log">მონაცემთა შეგროვება დაიწყო რეგიონის ველში დაწერა ...</string>
+    <string name="log_saved">შესვლა შენახულია __s__</string>
+    <string name="failed_save">ვერ გადარჩენა __s__</string>
+    <string name="region_log">რეგიონის შესვლა</string>
+    <string name="apply">მიმართვა</string>
+    <string name="error">შეცდომა</string>
+    <string name="load">დატვირთვა</string>
+    <string name="delete_prompt">გსურთ ამ ელემენტის ამოღება?</string>
+    <string name="reset_search">ERROR გამოვლინდა. ძიების სიის გადატვირთვა.</string>
+    <string name="unknown_error">Უცნობი შეცდომა</string>
+    <string name="out_of_memory">მეხსიერებაში</string>
+    <string name="bug_detected">Bug აღმოჩნდა</string>
+    <string name="disk_full">დისკის სრული</string>
+    <string name="io_error">IO შეცდომა</string>
+    <string name="game_dead">თამაშის მკვდარი</string>
+    <string name="exit">გასვლა</string>
+    <string name="skip">იგნორირება</string>
+    <string name="unhandled_exception">დაუცველი გამონაკლისი. გააგზავნე ქვემოთ ინფორმაცია დეველოპერულ გუნდში?</string>
+    <string name="last_run_failed">ბოლო დარტყმა ვერ მოხერხდა</string>
+    <string name="thank_you">Გმადლობთ!</string>
+    <string name="no_application">არჩეულია განაცხადი.</string>
+    <string name="increments">ზრდა:</string>
+    <string name="add_not_replace">დაამატე ღირებულება, არ შეცვლის</string>
+    <string name="eperm_error">ვერ დაურთო პროცესი (PTRACE_ATTACH): ოპერაცია არ არის ნებადართული</string>
+    <string name="load_list">ჩატვირთვის სიაში</string>
+    <string name="load_warning">თქვენ ჩაიტვირთა სია, რომელიც გადაარჩინა სხვა თამაშისგან. სავარაუდოდ, მეხსიერების ყველა მისამართი შეიცვალა და დატვირთული მონაცემები, რომლებიც არ შეესაბამება მონაცემებს, რომლებიც ადრე შენახული იყო. ჩვენ გირჩევთ შეამოწმოთ ეს.</string>
+    <string name="from">__d__ ეტაპზე დასრულებული __d__</string>
+    <string name="count_fuzzy_equal_run">"დროის რაოდენობა '__fuzzy_equal__' აწარმოებს:"</string>
+    <string name="slow">ნელი</string>
+    <string name="miui_restart">__app_name__ საჭიროებს გადატვირთვას უსაფრთხოების დაცვის უფლების მისაღებად.</string>
+    <string name="out_of_memory_error">მეხსიერების შეცდომა მიმდინარე შედეგების სია გაირკვა. გთხოვთ, დაამატოთ მცირე მნიშვნელობა აჩვენოს შედეგების რაოდენობას.</string>
+    <string name="loading">Ჩატვირთვა...</string>
+    <string name="found_count">ნაპოვნია: __d__</string>
+    <string name="fuzzy_equal">ღირებულება უცვლელი</string>
+    <string name="fuzzy_inequal">ღირებულება შეიცვალა</string>
+    <string name="fuzzy_larger">ღირებულება გაიზარდა</string>
+    <string name="fuzzy_smaller">ღირებულება შემცირდა</string>
+    <string name="type_edit_limit">შეყვანის ღირებულება __s__-დან __s__-მდე</string>
+    <string name="number_name">ნომერი</string>
+    <string name="step_name">ნამატი</string>
+    <string name="number_less">"ამ ტიპისთვის '__s__' მინიმალური მნიშვნელობა (__d__) ნაკლებია."</string>
+    <string name="number_greater">"ამ ტიპისთვის '__s__' რიცხვი აღემატება მაქსიმალურ მნიშვნელობას (__d__)."</string>
+    <string name="about">შესახებ</string>
+    <string name="owner">მფლობელი</string>
+    <string name="design">ტყვიის დიზაინერი</string>
+    <string name="pm">პროექტის მენეჯმენტი</string>
+    <string name="code">ტყვია coder</string>
+    <string name="tech">ტექნიკური კონსულტანტი</string>
+    <string name="creator">შემოქმედი (გადამდგარი)</string>
+    <string name="for_translators">თუ გსურთ დახმარების გაწევას ან თარგმნის თარგმნას, შეგიძლიათ დაგვიკავშირდეთ ფორუმზე http://gameguardian.net/forum, რომ მიიღოთ თქვენი თარგმანი, რომელიც შედის განაცხადის ოფიციალურ გათავისუფლებაში.</string>
+    <string name="version">ვერსია:</string>
+    <string name="developers">დეველოპერები:</string>
+    <string name="select_language">Აირჩიეთ ენა</string>
+    <string name="exit_confirm">__app_name__ უნდა განახლდეს ცვლილებების შეტანა.</string>
+    <string name="special_thanks">Განსაკუთრებული მადლობა:</string>
+    <string name="nothing_found">Არაფერი არ არის ნაპოვნი. სცადეთ ძიება.</string>
+    <string name="try_more_ranges">ასევე შეგიძლიათ სცადოთ უფრო მერყეობს პარამეტრების ჩანართში.</string>
+    <string name="try_fuzzy_search">ასევე შეგიძლიათ სცადოთ უცნობი მნიშვნელობის მოძიება.</string>
+    <string name="search_hint">"მოძებნეთ ცნობილი ღირებულება, დააჭირეთ \"__search_known_value__\".
+თუ მნიშვნელობა უცნობია ან დაშიფრულია - დააწკაპუნეთ \"__search_unknown_value__\" ძებნისთვის.
+საძიებო ფასეულობების ძიება მათი მთელი ნაწილით შეიძლება შესრულდეს '__type_auto__' ძებნის ტიპის შერჩევით.
+ასევე შეგიძლიათ გამოიყენოთ ჯგუფი ძებნა '__semicolon__' როგორც გამყოფი."</string>
+    <string name="freeze">გაყინვა:</string>
+    <string name="freeze_normal">ნორმალური</string>
+    <string name="freeze_may_increase">შეიძლება გაიზარდოს</string>
+    <string name="freeze_may_decrease">შეიძლება შემცირდეს</string>
+    <string name="freeze_in_range">დიაპაზონში</string>
+    <string name="range_end_fail">"Range end ('__s__') უნდა იყოს მეტი '__s__'."</string>
+    <string name="failed_add_window">ფანჯრის დამატება ვერ მოხერხდა</string>
+    <string name="failed_remove_window">ფანჯრის წაშლა ვერ მოხერხდა</string>
+    <string name="system_service_stopped">აპლიკაცია ჩვეულებრივ არ მუშაობს, რადგან სისტემა შეწყდა. სცადეთ გადატვირთოთ აპლიკაცია ან გადატვირთეთ მოწყობილობა.</string>
+    <string name="value_request">შეიყვანეთ მნიშვნელობა</string>
+    <string name="type_request">აირჩიეთ ძიების მონაცემთა ტიპი</string>
+    <string name="type_change_request">აირჩიეთ მონაცემთა ტიპების შეცვლა</string>
+    <string name="value">ღირებულება</string>
+    <string name="save_as">Შეინახე როგორც:</string>
+    <string name="restart">Რესტარტი</string>
+    <string name="start">დაწყება</string>
+    <string name="wait_daemon">ეს ფუნქცია არ არის ხელმისაწვდომი, თუ daemon არ არის გაშვებული. დაველოდოთ Daemon იწყება. (ხომ არ დაგვავიწყდება თუ არა root access?</string>
+    <string name="daemon_fail">Daemon არ არის გაშვებული</string>
+    <string name="config_icon_text">ხატულა: transparency = __d__ %%, დამალვა - __s__</string>
+    <string name="icon_hide_after">__d__ წამის შემდეგ</string>
+    <string name="icon_hide_never">არასდროს</string>
+    <string name="keyboard">კლავიატურა:</string>
+    <string name="internal">შიდა</string>
+    <string name="external">გარე</string>
+    <string name="failed_copy_text">ტექსტის კოპირების გადაწერა ვერ მოხერხდა:</string>
+    <string name="copied">გადაწერილი</string>
+    <string name="copy_value">დააკოპირეთ მნიშვნელობა:</string>
+    <string name="copy_address">დააკოპირეთ მისამართი:</string>
+    <string name="goto_address">მიმართეთ მისამართზე:</string>
+    <string name="search_unknown_value">უცნობი (საეჭვო) ძიება</string>
+    <string name="search_known_value">ცნობილი (ზუსტი) ძიება</string>
+    <string name="speedhack_hint">თამაშის სიჩქარის შესაცვლელად, დიდი ხნის განმავლობაში დააჭირეთ ღილაკს მცურავი __app_name__ ხატულაზე.</string>
+    <string name="bad_firmware">შენი firmware აქვს შეცდომები, რომ ხელი შეუშალა გამოყენების ამ ფუნქციის.</string>
+    <string name="language">Ენა</string>
+    <string name="acceleration">ინტერფეისის აჩქარება:</string>
+    <string name="hardware">აპარატურა</string>
+    <string name="software">პროგრამული უზრუნველყოფა</string>
+    <string name="speedhack">Speedhack</string>
+    <string name="data_in_ram">მონაცემთა RAM:</string>
+    <string name="first_mb">პირველი __d__ MB</string>
+    <string name="donate">შემოწირულობა</string>
+    <string name="speeds">სიჩქარეები</string>
+    <string name="floating_window_fail">მცურავი ფანჯრის ჩვენება ვერ ხერხდება</string>
+    <string name="check">შემოწმება</string>
+    <string name="check_success">შემოწმება წარმატებული იყო</string>
+    <string name="enable_draw_perm">გთხოვთ, ჩართოთ უფლება შემდეგი ეკრანზე.</string>
+    <string name="speedhack_fail">ამ პროცესისთვის Speedhack არ არის მხარდაჭერილი</string>
+    <string name="dangerous">საშიში</string>
+    <string name="difference">სხვაობა</string>
+    <string name="old_value">ძველი მნიშვნელობა</string>
+    <string name="new_value">ახალი მნიშვნელობა</string>
+    <string name="mode_hacking">ღირებულება დაშიფრულია</string>
+    <string name="union">ჯგუფი ძებნა</string>
+    <string name="speedhack_open">თქვენ შეგიძლიათ გახსნათ Speedhack ხანგრძლივი დაჭერით მცურავი __app_name__ ხატი.</string>
+    <string name="history">ისტორია</string>
+    <string name="history_empty">ისტორია ცარიელია</string>
+    <string name="allow_suggestions">რეკომენდაციები კლავიატურადან:</string>
+    <string name="invalid_area">ჯგუფის ზომა უნდა იყოს __d__ და __d__ შორის:</string>
+    <string name="union_need_two_numbers">ჯგუფის ძებნისთვის უნდა იყოს მინიმუმ ორი ნომერი</string>
+    <string name="too_many_union_numbers">ძალიან ბევრი რიცხვი, მეტი:</string>
+    <string name="invalid_number">Არასწორი ნომერი:</string>
+    <string name="input_number">შეყვანის ნომერი</string>
+    <string name="number_out_of_range">"ნომერი '__s__' შესაძლო დიაპაზონიდან:"</string>
+    <string name="help_floating_icon">"* მცურავი ხატი:
+\u0009* შეეხეთ ინტერფეისის გახსნას.
+\u0009* შეეხეთ და გამართავს სიჩქარეების პანელის გადართვას.
+* ის შეიძლება გადაადგილდეს ნებისმიერ ადგილას გადმოწერისა და ჩამოშლის ხატით.
+\u0009* გამჭვირვალობა და დამალვა ტაიმერი შეიძლება მორგებულია აპლიკაციის პარამეტრებში.
+"</string>
+    <string name="help_exact_search">"* ზუსტი ძიება:
+\u00091. თამაშიდან __app_name__ გადართვა.
+\u00092. შეეხეთ \"__search__\" ჩანართში \"__search_known_value__\" ღილაკს.
+\u00093. შეყვანა რიცხვი, რომელიც გამოჩნდება თამაშში.
+\u00094. შეარჩიეთ შესაბამისი მონაცემები, ან აირჩიეთ \"__type_auto__\" (თუ არ ხართ დარწმუნებული) და სხვა ვარიანტი (საჭიროების შემთხვევაში) და დააჭირეთ \"__search__\".
+\u00095. ძიების დასრულებისას, ძიების შედეგები გამოჩნდება სიაში.
+\u00096. დავუბრუნდეთ თამაშს. ღირებულება შეიცვალა, გადადით __app_name__ ერთხელ.
+\u00097. შეიცვალეთ ღირებულება, რომელიც შეიცვალა.
+\u00098. თუ ძალიან ბევრი შედეგია, გაგრძელდება 6 ნაბიჯი.
+\u00099. თუ მხოლოდ რამდენიმე შედეგი დარჩა, შეგიძლიათ ცდილობენ შეცვალოთ, შეინახონ ან გაყინოთ ღირებულება.
+"</string>
+    <string name="help_speedhack">"* Speedhack:
+\u0009* შეეხეთ და ჩაატარეთ მცურავი ხატი, რათა ნახოთ Speedhack პანელი.
+\u0009* დააჭირე ისრის ორივე მხარეს ხატი, შეცვალოს თამაშის სიჩქარე.
+\u0009* შეეხეთ და გამართავს მიმდინარე სიჩქარის ნომერს თამაშის სიჩქარის გადატვირთვაზე.
+\u0009* შეეხეთ და ჩაატარეთ მცურავი ხატი, რათა დამალვა სიჩქარის პანელი.
+\u0009* გამოყენების სიჩქარე და ქრონომეტრები შეიძლება მორგებულია app პარამეტრები.
+\u0009* თუ თამაში არ უპასუხა შეყვანის ან სიჩქარის გამოხატვას არ მუშაობს, სცადეთ სხვა მწვანე ტაიმერების გამოყენებით __app_name__ პარამეტრებში.
+\u0009* \"__time_jump__\" შეგიძლიათ გამოიყენოთ დროულად. აირჩიეთ მენიუ ძიების ჩანართზე და აირჩიეთ \"__time_jump__\". თქვენ უნდა მიუთითოთ რამდენი წამი ხტომა. ნახტომი შეიძლება იყოს ფრაქციული.
+"</string>
+    <string name="help_fuzzy_search">"* საეჭვო ძიება:
+\u00091. თამაშიდან __app_name__ გადართვა.
+\u00092. შეეხეთ \"__search__\" ჩანართში \"__search_unknown_value__\" ღილაკს.
+\u00093. აირჩიეთ შესაბამისი მონაცემების ტიპი, ან აირჩიეთ \"__type_auto__\" (თუ არ ხართ დარწმუნებული) და დააჭირეთ \"__search__\".
+\u00094. ძიების დასრულებისას, ძიების შედეგები გამოჩნდება სიაში.
+\u00095. თავში თამაში. ღირებულება შეიცვალა (თუ არა), გადადით __app_name__ -ის შემდეგ.
+\u00096. შეეხეთ ღილაკს \"__search_unknown_value__\" და აირჩიეთ ტიპი, თუ როგორ შეიცვალა მნიშვნელობა.
+\u00097. თუ ძალიან ბევრი შედეგია, გააგრძელე ნაბიჯი 5.
+\u00098. თუ მხოლოდ რამდენიმე შედეგი დარჩა, შეგიძლიათ ცდილობენ შეცვალოთ, შესანახად ან გაყინოთ ღირებულება.
+
+\u0009თქვენ შეგიძლიათ მიუთითოთ \"__more__\" ღილაკის დაჭერით ღირებულების ზუსტი შეცვლა.
+\u0009თქვენ შეგიძლიათ შეიყვანოთ დიაპაზონი, როგორც ზუსტი ღირებულების ცვლილება:
+\u0009\u0009190__tilde__210
+\u0009განსაზღვროთ ცვლილებების ფარგლებს გარეთ, შეგიძლიათ შეყვანის:
+\u0009\u000910__tilde____tilde__4000
+"</string>
+    <string name="help_group_search">"* ჯგუფი ძებნა:
+\u00091. თამაშიდან __app_name__ გადართვა.
+\u00092. შეეხეთ \"__search__\" ჩანართში \"__search_known_value__\" ღილაკს.
+\u00093. შეყვანის ძებნის მოთხოვნა ჯგუფი ძებნის.
+\u0009\u0009ფორმატი: ღირებულება 1 __semicolon__ ღირებულება 2 __semicolon__ ... __semicolon__ ღირებულება N __colon__ ჯგუფის ზომა
+\u0009\u00092-__max_group__ ღირებულებები შეიძლება იმავე დროს მოძებნოთ. ჯგუფის ზომა არის 512. ჯგუფის ზომა უნდა იყოს 2 და 65536.
+\u0009\u0009მაგალითად, თუ გსურთ მოძებნოთ 195 და 6543, თქვენ უნდა შეიყვანოთ:
+\u0009\u0009\u0009195 __semicolon__ 6543
+\u0009\u0009რა თქმა უნდა, შეგიძლიათ მიუთითოთ ჯგუფის ზომა (300):
+\u0009\u0009\u0009195 __semicolon__ 6543 __colon__ 300
+\u0009\u0009ასევე, შეგიძლიათ დააყენოთ ერთი ან მეტი მონაცემთა ტიპი:
+\u0009\u0009\u0009195__type_dword_short__ __semicolon__ 6543
+\u0009\u0009ეს ნიშნავს, რომ გინდათ მოძებნოთ __type_dword__ ღირებულება, რომელიც არის 195 და __type_auto__ ღირებულება, რომელიც არის 6543.
+\u0009\u0009შესაძლო მონაცემთა ტიპები იგივეა, რაც ისინი ძებნაში არიან:
+\u0009\u0009\u0009__type_byte_short__ - __type_byte__
+\u0009\u0009\u0009__type_word_short__ - __type_word__
+\u0009\u0009\u0009__type_dword_short__ - __type_dword__
+\u0009\u0009\u0009__type_xor_short__ - __type_xor__
+\u0009\u0009\u0009__type_qword_short__ - __type_qword__
+\u0009\u0009\u0009__type_float_short__ - __type_float__
+\u0009\u0009\u0009__type_double_short__ - __type_double__
+\u0009\u0009\u0009__type_auto_short__ - __type_auto__
+\u0009\u0009ასევე შეგიძლიათ ჩაწეროთ ნომერი ჰექსში (პატარა ენდოვანი) ნოტაცია:
+\u0009\u0009\u0009__hex_example____hex__ __semicolon__ 6543
+\u0009\u0009ან საპირისპირო hex (big-endian) ნოტაციაში:
+\u0009\u0009\u0009__hex_example____rhex__ __semicolon__ 6543
+\u0009\u0009დამატებითი სიმბოლოების შეყვანისთვის გამოიყენეთ \"__btn_hex__\" ღილაკი შიდა კლავიატურაზე.
+\u00094. აირჩიეთ შესაბამისი მონაცემების ტიპი, ან აირჩიეთ \"__type_auto__\" (თუ არ ხართ დარწმუნებული), როგორც ნაგულისხმები. ამ ტიპის ძიების სხვა ვარიანტები არ აქვს მნიშვნელობა. დააჭირეთ \"__search__\".
+\u00095. ძიების დასრულებისას, ძიების შედეგი გამოვა სიაში.
+\u00096. თავში თამაში. ღირებულება შეიცვალა, გადადით __app_name__ ერთხელ.
+\u00097. გაიმეორეთ ჯგუფური ძებნა შესაბამისი ცვლილებებით.
+\u00098. თუ ძალიან ბევრი შედეგია, გაიმეორეთ ნაბიჯები 6 და 7.
+\u00099. თუ რამოდენიმე შედეგი დარჩა, შეგიძლიათ ცდილობენ შეცვალოთ, შეინახოთ ან გაახანგრძლივოთ ღირებულება.
+
+\u0009თუ გსურთ პატივცემული ფასეულობების წესები მაშინ დააკონკრეტოთ __colon__ ორჯერ.
+\u0009ჯგუფის ზომა:
+\u0009\u0009195 __semicolon__ 6543 __colon____colon__
+\u0009ჯგუფის ზომა:
+195 __semicolon__ 6543 __colon____colon__ 300
+
+\u0009თქვენ შეგიძლიათ მოძებნოთ ღირებულებების სპექტრში:
+\u0009\u0009190__tilde__210 __semicolon__ 6543
+\u0009ასევე შეგიძლიათ მოძებნოთ ღირებულებების ფარგლები:
+\u0009\u000910__tilde____tilde__4000 __semicolon__ 6543
+"</string>
+    <string name="help_others">"* სხვა:
+\u0009* ახალი ძიებისთვის, მენიუს ღილაკზე მენიუში \"__clear__\" აირჩიეთ შერჩევა წინა ძიების შედეგებით.
+\u0009* შეარჩიეთ სხვა თამაში ჩამონტაჟებული თამაშის ხატულა ზედა მარცხენა კუთხეში.
+\u0009* პაუზის / განაახლოს თამაში - Tap ზედა ღილაკს ხატი ზედა მარცხენა კუთხეში.
+\u0009* თუ პაუზის აქტიურობის დროს თამაში გადაგივლით, მომავალ დროს გახსნით __app_name__, რომ თამაში ავტომატურად შეჩერდება.
+\u0009* ყველა გაყინული ღირებულებები ავტომატურად დაემატება შენახულ სიას. თქვენ შეგიძლიათ მართოთ ისინი შესაბამისი ჩანართის ქვეშ.
+\u0009* ყველა შეყვანის მონაცემები გადაარჩენს \"__history__\" სიას. შეგიძლიათ გამოიყენოთ ისინი ისტორიის ღილაკზე დაჭერით.
+"</string>
+    <string name="help_typical_usage">"* ტიპიური გამოყენების ალგორითმები:
+
+1) მნიშვნელობა არ არის დაშიფრული და ცნობილი.
+\u0009ტიპიური შემთხვევა იქნება ფული, ვარსკვლავები, მონეტები, რესურსები და ა.შ.
+
+\u0009გამოიყენეთ ზუსტი ძებნა.
+
+2) მნიშვნელობა უცნობია და / ან დაშიფრულია.
+\u0009უცნობი მნიშვნელობის ტიპი - ნებისმიერი მასშტაბის / ბარი. მაგალითად, ჯანმრთელობა, მანა, ნიტრო და ა.შ. ცვლილებები იჩენს, მაგრამ რიცხობრივი ფასეულობები არ ჩანს.
+\u0009დაშიფრული ღირებულებების ტიპიური შემთხვევა იქნება ფული, ვარსკვლავები, მონეტები და ა.შ., მაგრამ 1 ალგორითმის ძიებისას არაფერი არ იძებნება, ან აღმოჩენილი ღირებულებების შეცვლა არ გამოიწვევს თამაშის ნომრებს.
+
+\u0009საეჭვო ძიების გამოყენება.
+
+
+3) ღირებულება დაშიფრულია (__mode_hacking__).
+\u0009დაშიფრული ღირებულებების ტიპიური შემთხვევა იქნება ფული, ვარსკვლავები, მონეტები და ა.შ., მაგრამ 1 ალგორითმის ძიებისას არაფერი არ იძებნება, ან აღმოჩენილი ღირებულებების შეცვლა არ გამოიწვევს თამაშის ნომრებს.
+
+\u0009გამოიყენეთ ზუსტი ძებნა, მაგრამ ყოველთვის აირჩიეთ \"__mode_hacking__\".
+\u0009ნაპოვნია შედეგები შეიძლება ჰქონდეს უცნაური ფასეულობები დაშიფვრის გამო.
+
+ალგორითმი 3 გაცილებით უფრო სწრაფადა, ვიდრე 2, მაგრამ ეს არ შეიძლება იმუშაოს ყველა თამაშისთვის.
+
+4) ღირებულება არ არის დაშიფრული, ცნობილი და განთავსებული სხვა ცნობილი ღირებულებები.
+\u0009ტიპიური შემთხვევა იქნება ფასი მაღაზიაში, გმირის სტატისტიკა და ა.შ.
+
+\u0009გამოიყენეთ ჯგუფური ძებნა ყველა ნომრისთვის ერთ დროს.
+"</string>
+    <string name="help_hints">"* მინიშნებები:
+
+\u0009* ყველა თამაში შეიძლება შეიცვალოს __app_name__. ტიპიური ჩამონათვალი მაგალითები:
+\u0009\u0009* მონაცემები ინახება სერვერზე (სერვერზე დაფარული თამაშები)
+\u0009\u0009* თამაშს სჭირდება მუდმივი ინტერნეტი
+\u0009\u0009* ქსელის თამაში სხვა მოთამაშეებთან
+\u0009\u0009* თქვენ უნდა აირჩიოთ სერვერის დაკავშირება დაწყების თამაში
+\u0009\u0009* ინტერნეტის გარეშე ზოგი რამ არ შეგიძლიათ გამოიყენოთ
+\u0009\u0009* თამაში reloads მონაცემების სერვერზე თუ შეცვლის რაღაც
+\u0009* ფასეულობები, რომლებიც ჩანს, ყოველთვის არ არის იგივე, რაც მათ ინახება. ისინი შეიძლება განსხვავებული იყოს. მაგალითად ეკრანზე ჩვენ ვხედავთ 34, მაგრამ მეხსიერებაში ღირებულება 34000.
+\u0009* თუ ვერ შეცვლით ღირებულებას - შეცვალეთ ცვლილებების შეცვლა, რომელიც გავლენას ახდენს ეს მნიშვნელობა. მაგალითად, ოქროს ოდენობის შეცვლის ნაცვლად, შეგიძლიათ შეცვალოთ ფასი და გაყიდე. ან შეიძინეთ უარყოფითი ფასი.
+"</string>
+    <string name="help">დახმარება</string>
+    <string name="help_floating_icon_title">მცურავი ხატი</string>
+    <string name="help_exact_search_title">ზუსტი ძიება</string>
+    <string name="help_speedhack_title">Speedhack</string>
+    <string name="help_group_search_title">ჯგუფი ძებნა</string>
+    <string name="help_others_title">სხვები</string>
+    <string name="help_typical_usage_title">ტიპიური გამოყენების ალგორითმები</string>
+    <string name="help_hints_title">მინიშნებები</string>
+    <string name="value_format">ღირებულების ფორმატი</string>
+    <string name="format_hex">Hex (პატარა- endian) ნოტაცია</string>
+    <string name="format_rhex">უკუ ჰექს (დიდი ნიშნულის) ნოტაცია</string>
+    <string name="clear_selection">შერჩევის გასუფთავება</string>
+    <string name="invert_selection">ინვერტული შერჩევა</string>
+    <string name="select_all">Მონიშნე ყველა</string>
+    <string name="edit_selected">შერჩეული რედაქტირება</string>
+    <string name="delete_selected">Წაშალე არჩეულები</string>
+    <string name="save_selected">შერჩეული შენახვა</string>
+    <string name="nothing_selected">არაფერი არჩეული</string>
+    <string name="items_added">შენახული სიაში დამატებულია ნივთები (__d__)</string>
+    <string name="no_items_for_editing">რედაქტირება არ არის.</string>
+    <string name="edit_info">რედაქტირება __s__ როგორც __s__</string>
+    <string name="edit_all_info">რედაქტირება __d__ მისამართი __s__</string>
+    <string name="autopause">Autopause თამაში:</string>
+    <string name="empty_list">"შენახული სია ცარიელია.
+თქვენ შეგიძლიათ დაამატოთ ის ნივთები ძიების შედეგების სიიდან ან მეხსიერების რედაქტორიდან.
+უბრალოდ აირჩიეთ სასურველი ელემენტები და აირჩიეთ \"__save_selected__\" მენიუში.
+კიდევ ერთი მეთოდი - დაიწყეთ რედაქტირების მნიშვნელობა და შემოწმება \"__save_as__\".
+ასევე ყველა გაყინული ღირებულებები აქ ავტომატურად დაემატება."</string>
+    <string name="empty_save">შენახული სია ცარიელია. არაფერია გადარჩენა.</string>
+    <string name="revert_selected">შერჩევა არჩეულია</string>
+    <string name="nothing_to_revert">არაფერი შეცვლის</string>
+    <string name="revert_prompt">არჩეული ნივთების დაბრუნება (__d__)?</string>
+    <string name="download">ეს აპლიკაცია შეიძლება გადმოწერილი იყოს:</string>
+    <string name="format_string">სიმებიანი წარმომადგენლობა</string>
+    <string name="forgot_h">"ბოლოს დაავიწყდა '__hex__'?"</string>
+    <string name="time_jump">ახლა ხტომა</string>
+    <string name="time_jump_hint">შეიყვანეთ რამდენიმე წამი:</string>
+    <string name="hide_from_game">დამალე __app_name__ თამაშისგან:</string>
+    <string name="last_stats">სტატისტიკა თქვენი ბოლო ძიებისთვის</string>
+    <string name="memory_access">მეხსიერების წვდომა:</string>
+    <string name="normal">ჩვეულებრივი</string>
+    <string name="extended">გაფართოვდა</string>
+    <string name="experimental">ექსპერიმენტული</string>
+    <string name="installing">__app_name__ ასრულებს რეინსტალაციას შემთხვევითი სახელით, რათა გამოირიცხოს თამაშების გამოვლენა. დაველოდოთ.</string>
+    <string name="failed_install">აპების დაყენება ვერ მოხერხდა. სცადეთ?</string>
+    <string name="failed_uninstall">აპების წაშლა ვერ მოხერხდა. სცადეთ?</string>
+    <string name="download_it">ჩამოტვირთვა</string>
+    <string name="more">სხვა</string>
+    <string name="less">Ნაკლები</string>
+    <string name="no_space">თქვენი მოწყობილობა არ არის დარჩენილი</string>
+    <string name="install_cancel_prompt">__app_name__ შეიძლება აღმოჩენილი იყოს, როდესაც არ არის დაყენებული. ნამდვილად გსურთ გააუქმოს?</string>
+    <string name="intercept">intercept</string>
+    <string name="need_restart">სამიზნე აპლიკაცია უნდა გადაწყდეს ამ ცვლილებების შესატანად.</string>
+    <string name="must_be_root">"ამ პროგრამის ფუნქციონირებისთვის თქვენი მოწყობილობა უნდა იყოს root.
+
+__app_name__ შეუძლია მუშაობა შეზღუდული რეჟიმის გარეშე root, მეშვეობით ვირტუალური გარემო. მაგალითად, __vspace_list__ და მრავალი სხვა.
+დამატებითი ინფორმაციის მისაღებად წაიკითხეთ
+
+როგორ დაალაგოთ ნებისმიერი მოწყობილობა: http://www.xda-developers.com/root/"</string>
+    <string name="skip_">გამოტოვება</string>
+    <string name="indent_for_the_status_bar">ეკრანის ზედა შიგნიდან:</string>
+    <string name="start_collecting_data">მონაცემთა შეგროვების დაწყება</string>
+    <string name="data_collecting_in_progress">მონაცემთა შეგროვება მიმდინარეობს</string>
+    <string name="copy">ასლი</string>
+    <string name="show_logcat">ლოგcat- ს ჩვენება</string>
+    <string name="path_must_be">"გზა უნდა იყოს მინიმუმ 2 სიმბოლოთი და იწყება '/'."</string>
+    <string name="fix_it">Შეაკეთე</string>
+    <string name="change_log">შესვლის ჟურნალი</string>
+    <string name="used_only_first">გამოიყენება მხოლოდ __d__ ერთეული.</string>
+    <string name="need_select_more">საჭიროა აირჩიოთ __d__ ან მეტი ელემენტი.</string>
+    <string name="offset">ოფსეტური:</string>
+    <string name="result">შედეგი:</string>
+    <string name="copy_hex_value">დააკოპირეთ hex მნიშვნელობა:</string>
+    <string name="goto_pointer">მიუთითეთ მომცეთ:</string>
+    <string name="offset_calculator">ოფსეტური კალკულატორი</string>
+    <string name="fill_toolbar">შეავსეთ პანელი:</string>
+    <string name="from_left">მარცხნიდან</string>
+    <string name="from_center">ცენტრიდან</string>
+    <string name="from_right">მარჯვნივ</string>
+    <string name="unit_years_short">y</string>
+    <string name="unit_days_short">დ</string>
+    <string name="unit_hours_short">თ</string>
+    <string name="unit_minutes_short">წთ</string>
+    <string name="unit_seconds_short">წ</string>
+    <string name="speed_info">__s__ რეალურ დროში = __s__ თამაშის დროს</string>
+    <string name="search_helper">ძებნა დამხმარე:</string>
+    <string name="off">გამორთვა</string>
+    <string name="go_to_game">დაბრუნდით თამაშში, თუ ძალიან ბევრი ღირებულებებია ნაპოვნი</string>
+    <string name="go_to_game_and_restore">დაბრუნდით თამაშში, თუ ბევრი ღირებულებებია ნაპოვნი და ძებნის რეჟიმის აღდგენა მომავალი ღიაა</string>
+    <string name="nothing">არაფერი</string>
+    <string name="sort">სორტირება</string>
+    <string name="sort_and_remove_duplicates">სორტირება და წაშლა დუბლიკატები</string>
+    <string name="help_basics_title">Ძირითადი ინფორმაცია</string>
+    <string name="help_basics">"აპლიკაციის გახსნის შემდეგ, \"__start__\" ღილაკზე დაჭერით, ეკრანზე გამოჩნდება მცურავი ხატი. ის შეიძლება დაიძინოს ნებისმიერ ადგილას.
+ხატულაზე მოკლე მოსმენით გამოჩნდება ძირითადი აპლიკაციის ინტერფეისი, გრძელი ჩამოსვლა - პანელის ჩვენება თამაშის სიჩქარის შეცვლისთვის.
+
+მთავარ ეკრანზე ხედავთ:
+\u0009* ზედა მარცხენა კუთხეში - თამაშის ხატი. მოსმენების შესახებ საშუალებას გაძლევთ აირჩიოთ სხვა თამაში.
+\u0009* მდებარეობს ცენტრში სანიშნეები ნავიგაცია მეშვეობით ჩანართების. სასურველი სანიშნეზე ჩამოსხმა შესაბამისი ჩანართების ჩვენებაა.
+
+საერთო ჯამში არის 4 ჩანართი: პარამეტრები, ძიება, შენახული სია და მეხსიერების რედაქტორი.
+\u0009* ზედა მარჯვენა კუთხეში ინტერფეისი არის დახურვის ღილაკი. დააჭირეთ მას და ინტერფეისი დაიმალება და ეკრანზე გამოჩნდება მცურავი ხატი.
+\u0009* ეკრანის ბოლოში არის სტატუსი ბარი და თვალის ხატი. თუ თვალის ხატულაზე დაჭერით და გამართავს, ინტერფეისი გამჭვირვალე გახდება, რადგან არ გაათავისუფლებს შენს თითებს.
+\u0009* დანარჩენი შინაარსი ეკრანზე დამოკიდებულია იმაზე, თუ რომელი ტაბლეტი ხართ.
+
+თითოეულ ჩანართზე, გარდა პარამეტრების ჩანართზე, არსებობს მენიუ ღილაკი, რომელიც შეიცავს სხვადასხვა შესაძლო ქმედებებს. მასში თქვენ იპოვით მთავარ მოქმედებას ამ ჩანართზე.
+
+პარამეტრების ჩანართი შეიცავს სხვადასხვა პარამეტრებს, დახმარებას და ინფორმაციას აპლიკაციის შესახებ, და გასასვლელი ღილაკს.
+
+ძებნა tab შეიცავს:
+\u0009* პაუზის ღილაკი, შერჩეული თამაშის სახელი, აღმოჩენილი შედეგების რაოდენობა და განახლების ღილაკი.
+\u0009* ქვემოთ არის პანელი სწრაფი წვდომის ხატები და მენიუს ღილაკი. ყველა პიქტოგრამა მენიუში დუბლირებულია, ასე რომ, თუ არ იციან ხატის მნიშვნელობა, ის ყოველთვის შეგიძლიათ იხილოთ მენიუს ღილაკის დაჭერით (მარჯვნივ).
+\u0009* ქვემოთ მოცემული ხატები იქნება ძიების შედეგების ჩამონათვალი.
+
+შენახული სია tab შეიცავს:
+\u0009* პაუზა ღილაკი, შერჩეული აპელის სახელი, მენიუს ღილაკი და განახლების ღილაკი.
+\u0009* ქვემოთ მოცემული ხატები იქნება შენახული ღირებულებების სიაში.
+
+მეხსიერების რედაქტორი tab იგივეა წინა, მხოლოდ აქ ნაცვლად სიაში შენახული ღირებულებების ის მონიტორები მეხსიერების შინაარსი.
+
+სამივე სიაში (ძიების შედეგები, შენახული მნიშვნელობები და მეხსიერების რედაქტორი), შეგიძლიათ გააკეთოთ ხანგრძლივი სტეპები იმ ელემენტებზე, რომ ნახოთ კონტექსტური მენიუ."</string>
+    <string name="daemon_killed">"Daemon მოკლეს რაღაც.
+
+ჩვეულებრივ, ეს შეიძლება იყოს:
+\u00091. ნებისმიერი მეხსიერების მკვლელები ან ოპტიმიზატორები. თქვენ უნდა გამორთოთ ნებისმიერი მკვლელები ან დაამატოთ __app_name__ თეთრი სია მის პარამეტრებში.
+\u00092. __daemon_killed_oom__
+\u00093. მეხსიერების ბარათი შეუძლებელი იყო, ხოლო __app_name__ მასში შენახული დროებითი ფაილები. ამის თავიდან ასაცილებლად დროებითი ფაილების მიუთითეთ სხვა გზა. მაგალითად, შიდა მეხსიერებაში."</string>
+    <string name="bad_settings">ცუდი პარამეტრები</string>
+    <string name="freeze_lags">გაყინვის ფასეულობების გამოყენებით __hide_from_game__ პარამეტრით შეიძლება გამოიწვიოს თამაში.</string>
+    <string name="improve_translation">ეს თარგმანი ავტომატური მთარგმნელით შეიქმნა. თქვენ შეგიძლიათ გააუმჯობესოთ ეს ჩვენი კოლექტიური მთარგმნელობითი სერვისით.</string>
+    <string name="freeze_interval">გაყინვის ინტერვალი:</string>
+    <string name="saved_list_update_interval">შენახული სიის განახლებები ინტერვალი:</string>
+    <string name="milliseconds_short">ქალბატონი</string>
+    <string name="disable_floating_windows">გამორთე ფანჯრების გამორთვა და აპლიკაციის გადატვირთვა</string>
+    <string name="enable_floating_windows">ჩართეთ მცურავი ფანჯრები და განაახლეთ აპლიკაცია</string>
+    <string name="too_many">Ძალიან ბევრი</string>
+    <string name="help_range_search_title">ქედის ძიება</string>
+    <string name="help_range_search">"* ქედის ძიება:
+\u00091. თამაშიდან __app_name__ გადართვა.
+\u00092. შეეხეთ \"__search__\" ჩანართში \"__search_known_value__\" ღილაკს.
+\u00093. შეიყვანეთ სასაზღვრო ძებნის დიაპაზონი, \"__tilde__\". მაგალითად, 100-დან 150-მდე ღირებულებების მოძიება, შეიტანეთ:
+\u0009\u0009\u0009100__tilde__150
+\u0009\u0009იმისათვის, რომ მოძებნოთ სპექტრი, შეგიძლიათ მიუთითოთ ხასიათი \"__tilde__\" ორჯერ:
+\u0009\u0009\u0009100__tilde____tilde__150
+\u0009\u0009გარდა ამისა, შეგიძლიათ აირჩიოთ ნიშანი \"__not_equal__\" და დააკონკრეტოთ \"__tilde__\" ერთდროულად.
+\u0009\u0009დამატებითი სიმბოლოების შეყვანისთვის გამოიყენეთ \"__btn_hex__\" ღილაკი შიდა კლავიატურაზე.
+\u00094. შეარჩიეთ შესაბამისი მონაცემები, ან აირჩიეთ \"__type_auto__\" (თუ არ ხართ დარწმუნებული) და სხვა ვარიანტი (საჭიროების შემთხვევაში) და დააჭირეთ \"__search__\".
+\u00095. ძიების დასრულებისას, ძიების შედეგები გამოჩნდება სიაში.
+\u00096. თავში თამაში. ღირებულება შეიცვალა, გადადით __app_name__ ერთხელ.
+\u00097. განმეორებითი ძებნა გაიმეორეთ შესაბამისი ცვლილებებით.
+\u00098. თუ ძალიან ბევრი შედეგია, გაიმეორეთ ნაბიჯები 6 და 7.
+\u00099. თუ რამოდენიმე შედეგი დარჩა, შეგიძლიათ ცდილობენ შეცვალოთ, შეინახოთ ან გაახანგრძლივოთ ღირებულება.
+
+\u0009ძიების შედეგების დიაპაზონის საზღვრები. თქვენ შეგიძლიათ შეარჩიოთ \"__not_equal__\" ძიების სახეობა, რათა შეამოწმოთ ყველა მნიშვნელობა, რომელიც არ შედის დიაპაზონში.
+\u0009ამ ძიებაში, ყველა ღირებულებას ითვლება ხელმოწერილი.
+"</string>
+    <string name="does_not_support">\"__s__\" მხარს არ უჭერს \"__s__\".</string>
+    <string name="range_bounds_diff_types">დიაპაზონის საზღვრები უნდა იყოს იგივე ტიპი.</string>
+    <string name="examples">მაგალითები</string>
+    <string name="rtfm">დამატებითი ინფორმაციისთვის დახმარების გაწევა.</string>
+    <string name="icons_size">ხატები ზომა:</string>
+    <string name="revert_and_remove">ჩანაცვლება და წაშლა</string>
+    <string name="remove">წაშლა</string>
+    <string name="ordered_group_search">უბრძანა ჯგუფი ძებნის</string>
+    <string name="load_items">საქონელი</string>
+    <string name="load_values">ღირებულებები</string>
+    <string name="load_freeze">გაყინვა</string>
+    <string name="video_tutorials">ვიდეო გაკვეთილები და გიდები როგორ უნდა გატეხოს</string>
+    <string name="make_copy">Ასლის გაკეთება</string>
+    <string name="video">ვიდეოები</string>
+    <string name="ordered">უბრძანა</string>
+    <string name="toolbars">Toolbars</string>
+    <string name="saved_list">შენახული სია</string>
+    <string name="memory_editor">მეხსიერების რედაქტორი</string>
+    <string name="restart_game">გადატვირთეთ თამაში</string>
+    <string name="refine">დახვეწა</string>
+    <string name="internal_storage">Შიდა მეხსიერება</string>
+    <string name="external_storage">Დამატებითი სათავსო</string>
+    <string name="new_search">Ახალი ძებნა</string>
+    <string name="load_saved_list">ჩაიტვირთეთ შენახული სიიდან ფაილიდან</string>
+    <string name="save_saved_list">შეინახეთ შენახული სიის ფაილი</string>
+    <string name="append">დამატება</string>
+    <string name="xor_key">XOR გასაღები:</string>
+    <string name="only_memory">მხოლოდ მეხსიერების დიაპაზონში:</string>
+    <string name="dump_memory">ნაგავსაყრელი</string>
+    <string name="path">გზა:</string>
+    <string name="dump_ended">ნაგავსაყრელი დასრულდა</string>
+    <string name="dump_failed">ნაგავსაყრელი ვერ მოხერხდა</string>
+    <string name="eperm_error_defend">ვერ დაურთო პროცესი (PTRACE_ATTACH): თამაშის დაცულია</string>
+    <string name="reset_on_exit">გასვლაზე გასვლა:</string>
+    <string name="kill_game">მოკვლა თამაში</string>
+    <string name="kill_game_info">პროცესის შეწყვეტა არ აძლევს პროცესს, რომ შეუფერხებლად დაიხუროს და გამოიწვიოს მონაცემთა დაკარგვა ან სისტემის არასტაბილურობა.</string>
+    <string name="continue_ask">გაგრძელება?</string>
+    <string name="copy_memory">დააკოპირეთ მეხსიერება</string>
+    <string name="copy_from">ასლი:</string>
+    <string name="paste_to">ჩასვით:</string>
+    <string name="count_bytes">გრაფი ბატები:</string>
+    <string name="copy_ended">ასლის მეხსიერება დასრულდა</string>
+    <string name="copy_failed">ასლის მეხსიერება ვერ მოხერხდა</string>
+    <string name="help_encrypted_search_title">დაშიფრული მნიშვნელობების ძიება</string>
+    <string name="help_encrypted_search">"* დაშიფრული მნიშვნელობების ძიება:
+\u00091. თამაშიდან __app_name__ გადართვა.
+\u00092. შეეხეთ \"__search__\" ჩანართში \"__search_known_value__\" ღილაკს.
+\u00093. შეყვანა რიცხვი, რომელიც გამოჩნდება თამაშში.
+\u00094. შეარჩიეთ შესაბამისი მონაცემები, ან აირჩიეთ \"__type_auto__\" (თუ არ ხართ დარწმუნებული), ნებისმიერი სხვა ვარიანტი (საჭიროების შემთხვევაში), შეამოწმეთ \"__mode_hacking__\" და დააჭირეთ \"__search__\".
+\u00095. ძიების დასრულებისას, ძიების შედეგები გამოჩნდება სიაში.
+\u00096. დავუბრუნდეთ თამაშს. ღირებულება შეიცვალა, გადადით __app_name__ ერთხელ.
+\u00097. შეიცვალეთ ღირებულება, რომელიც შეიცვალა. შემოწმება \"__mode_hacking__\" უნდა შემოწმდეს.
+\u00098. თუ ძალიან ბევრი შედეგია, გაგრძელდება 6 ნაბიჯი.
+\u00099. თუ მხოლოდ რამდენიმე შედეგი დარჩა, შეგიძლიათ ცდილობენ შეცვალოთ, შეინახონ ან გაყინოთ ღირებულება.
+"</string>
+    <string name="help_faq_title">Ხშირად დასმული შეკითხვები</string>
+    <string name="help_faq_1_q">Why can not I enter a value greater than 99 or 60,000?</string>
+    <string name="help_faq_1_a">თქვენ იპოვეს ღირებულება __type_byte__ ან __type_word__. ვეძებთ __type_dword__ შესვლის დიდი ღირებულებები.</string>
+    <string name="help_faq_2_q">როგორ მოძებნოთ ფსკალური (__type_float__) ღირებულებები, ფასის მწირი ნაწილის გარეშე?</string>
+    <string name="help_faq_2_a">გამოიყენეთ \"__type_auto__\" მონაცემთა ტიპი ან დიაპაზონის ძებნა. მაგალითად, 11,345 შეგიძლიათ მოძებნოთ \"10__tilde__12\".</string>
+    <string name="help_faq_3_q">მე ვიპოვე ღირებულება და შეცვალა, მაგრამ თამაში ამ ცვლილებას არაფერი არ გააკეთებს. მე უბრალოდ ვცდილობ გამოიყენო, მაგრამ ყველაფერი ბრუნდება. რა ვწუხვარ?</string>
+    <string name="help_faq_3_a">"ზოგიერთ თამაშში ღირებულებები დაცულია ან დაშიფრულია. ღირებულების ჩვენების წინ, ღირებულება გაშიფრულია სხვა ცვლადში. თქვენ შეიცვალა იგი.
+მას შემდეგ, რაც ეს მაჩვენებელი გამოიყენება მხოლოდ ეკრანისთვის, ის გავლენას არ ახდენს თამაშის მექანიზმებზე. რეალური ღირებულების მოსაპოვებლად, ვიდრე ნაჩვენები მნიშვნელობა, გამოიყენეთ საძიებო სისტემაში გაშიფრული მნიშვნელობა, ან საეჭვო ძიება.
+ზოგჯერ ღირებულება ინახება სერვერზე და სინქრონიზირებულია ყოველ ჯერზე. ამ შემთხვევაში, ეს არ შეიძლება გატეხილი. თუ თამაში არ მუშაობს ინტერნეტის გარეშე და წინა გზები არ დაეხმარა - სავარაუდოდ, ეს ასეა."</string>
+    <string name="help_faq_4_q">ვერ პოულობს თამაშის X- ს მნიშვნელობას, ან აღმოაჩენს, მაგრამ შეცვლისას არაფერი ხდება. ან აღმოაჩენს, მაგრამ მას შემდეგ შეიცვალა თამაშის დამსხვრევაზე. როგორ ვიცი რა არის პრობლემა, არის თუ არა თამაშის დაცვა __app_name__?</string>
+    <string name="help_faq_4_a">"თქვენ უნდა მიიღოს მარტივი პროგრამა, რომელიც გარანტირებული არ არის დაცვა და სცადეთ. მირჩევნია გამოიყენოს \"Hill Climb Racing\". თამაში არის მარტივი, გაურთულებელი და არ შეიცავს რაიმე თავდაცვას. თქვენ შეგიძლიათ შეამოწმოთ ფულის დარღვევა ნომრის პირდაპირი ძებნისა და ცვლილებების საეჭვო ძიება.
+თუ hacking ამ მარტივი თამაში მუშაობს, მაშინ ეს X თამაში, რომ თქვენ ცდილობდა hack. თუ არა, მაშინ პრობლემა __app_name__ არის.
+კიდევ უფრო ადვილი ვარიანტია: \"Tap Counter\". დააინსტალირეთ. გაუშვით. სცადეთ ეკრანზე ნაჩვენები ფირების რაოდენობა. ეს ძალიან მარტივია. თუ არა, მაშინ პრობლემა __app_name__ ან მისი პარამეტრებია.
+სცადეთ სხვა ვერსია __app_name__, შეეცადეთ მოძებნოთ ფორუმზე მიღებული შეცდომის აღწერა შესაბამისი თემის ან ინტერნეტში. ექსტრემალურ შემთხვევებში, შეგიძლიათ ფორუმზე დასასვენებლად."</string>
+    <string name="help_faq_5_q">როგორ მოძებნოთ დრო?</string>
+    <string name="help_faq_5_a">"\u0009- სცადეთ მოძებნოთ დღეების რაოდენობა, საათი, წუთი ან წამი. მონაცემთა ტიპი შეიძლება იყოს __type_byte__, __type_word__, __type_dword__ ან __type_qword__. ასევე შეგიძლიათ გამოიყენოთ ტიპი __type_auto__.
+\u0009- შეეცადეთ მოძებნოთ რამდენიმე მილიონი ან ნანოცენდენი. მონაცემთა ტიპია __type_dword__ ან __type_qword__.
+\u0009- შეეცადეთ მოძებნოთ როგორც ერთიანი დროის ნიშნულის დასასრულს თარიღი. ტიპი - __type_dword__. ითვლება, როგორც განსხვავება მიმდინარე Unix დროის ნიშნულს და შენახულს შორის. ძებნა სპექტრი ძებნა.
+მაგალითად, თუ 30 დღეა დაწერილი, მაშინ ეძებთ 30 +/- 1 დღეში მიმდინარე Unix დროის ნიშნულს. მიმდინარე unix დროთა განმავლობაში შეიძლება ადვილად იხილოთ ინტერნეტში."</string>
+    <string name="help_faq_6_q">შესაძლებელია თუ არა hack ონლაინ თამაშები?</string>
+    <string name="help_faq_6_a">შესაძლებელია გატეხილი მონაცემები, რომლებიც ინახება კლიენტზე. სერვერზე არაფერი არ შეიძლება გატეხილი. სხვადასხვა თამაშები შეიძლება იყოს სხვადასხვა გზები. მაშინაც კი, ერთი მოთამაშე თამაშის დროს, ზოგიერთი მონაცემები შეიძლება იყოს სერვერზე, ზოგი კი არ შეიძლება.</string>
+    <string name="help_faq_7_q">სად მუშაობს სიჩქარე?</string>
+    <string name="help_faq_7_a">"Speedhack შეიძლება არ იმუშაოს x86 მოწყობილობებზე / emulators ამისთვის თამაშები, რომ არ აქვთ x86 ბიბლიოთეკები.
+ასევე ART- ის გარემოსთვის, Speedhack არ მუშაობს Java დროებით. თუ თამაში იყენებს მათ და თქვენ გაქვთ ART გარემო (ჩვეულებრივ, Android 5 და ზემოთ), მაშინ სიჩქარე არ იმუშავებს."</string>
+    <string name="help_faq_8_q">__app_name__ როგორც მთელი სამუშაოები ჩემთვის, მაგრამ ზოგიერთ საბავშვო მე მისაღებად PTRACE_ATTACH შეცდომა. რატომ და რა უნდა გააკეთოს ამის შესახებ?</string>
+    <string name="help_faq_8_a">ეს თამაში აღჭურვილია დაცვის სადეპოზიტო დაცვით SecNeo- ს დაცვის საშუალებით. __app_name__ ვერ დაიცავს ამ დაცვას. ამ გზით, ვერ ითამაშებს ამ თამაშში.</string>
+    <string name="help_faq_9_q">რატომ არის განაცხადის ასეთი უცნაური პაკეტი? რატომ არ არის განაცხადის განახლება, მაგრამ ყოველ ჯერზე ინსტალაცია ცალკე? რატომ ყოველ ვერსიას აქვს სხვადასხვა პაკეტის სახელი?</string>
+    <string name="help_faq_9_a">თავიდან აცილების მიზნით საწინააღმდეგო cheats მიერ პაკეტი სახელი.</string>
+    <string name="help_faq_10_q">ზოგიერთ თამაშში, სიჩქარის შეცვლისას (Speedhack), ისინი შეწყვეტენ რეაგირებას დაწკაპუნებით. არის თუ არა თამაშის დაცვა ან პროგრამის შეცდომა?</string>
+    <string name="help_faq_10_a">ეს იმას ნიშნავს, რომ თქვენი სიჩქარე აღწევს შეყვანის მდგომ ქრონომებს და კვდება. აუცილებელია შერჩეული მწვანე checkmarks სიაში ქრონომეტრები (პარამეტრების __app_name__) ისე, რომ ეს არ მოხდება.</string>
+    <string name="help_faq_11_q">რატომ გამოსცემს მძიმით გამოწვეული შეცდომების სიას?</string>
+    <string name="help_faq_11_a">იმის გამო, რომ რიცხვების დემილიტრი არის ნახევრადლონი (\"__semicolon__\").</string>
+    <string name="help_faq_12_q">როგორ შევასრულო სხვადასხვა ძიებები ერთდროულად?</string>
+    <string name="help_faq_12_a">ამ მომენტში პროგრამა არ იძლევა საშუალებას, მაგრამ რამდენჯერმე დააინსტალირეთ აპლიკაცია და ასლის გადაღება შეძლებთ თუ მეხსიერების და დისკზე საკმარისია.</string>
+    <string name="help_faq_13_q">შემიძლია განახლებული განაცხადის განახლება თუ ცვლილებებში მნიშვნელოვანი არაფერია?</string>
+    <string name="help_faq_13_a">ვარაუდობენ. მხარდაჭერა მხოლოდ უახლესი ვერსიისთვისაა.</string>
+    <string name="help_faq_14_q">რა სიმბოლოებია! \" და \"#\", სანამ პროცესის სახელი?</string>
+    <string name="help_faq_14_a">"ეს აღნიშნავს traced პროცესები.
+\u0009\"#\" - პროცესის დაწყებამდე ნიშნავს, რომ ის სხვა პროცესია.
+\u0009\"!\" - პროცესის დაწყებამდე, ეს პროცესი სხვა პროცედურას იკვლევს.
+ტრასირება დამახასიათებელია გამართვისა და გარჩევაში. ასევე გამოიყენება ზოგიერთ დაცვაში. როგორც წესი, პროცესი \"#\" ნიშნით არის დაცული პროცესი."</string>
+    <string name="help_faq_15_q">რატომ შეესაბამება განაცხადი სტანდარტული ინსტალაციის შემდეგ ასევე საკუთარი მონტაჟის ჩატარებას, ფულის უფლებების მოთხოვნების გამოცემას?</string>
+    <string name="help_faq_15_a">__app_name__ რეინტეგრაციას იძლევა შემთხვევითი მონაცემებით, რათა თავიდან იქნას აცილებული საწინააღმდეგო მოტყუებით. Root უფლებები საჭიროა \"ჩუმად\" მონტაჟი და uninstallation. თქვენ არ შეგიძლიათ მათ. ამ შემთხვევაში, თქვენ უნდა გამოეხმაუროთ აპლიკაციების ინსტალაციის სისტემის ყველა მოთხოვნას.</string>
+    <string name="help_faq_16_q">რა არის __pkg__? არის ტროას ან ვირუსი? არის თუ არა იგი უსაფრთხო გამოყენებისათვის?</string>
+    <string name="help_faq_16_a">ეს არის __app_name__ პაკეტის ძირითადი სახელი. ფულადი გზავნილების გაცემა უსაფრთხოა თუ __app_name__ გადმოწერილია სანდო წყაროებიდან.</string>
+    <string name="help_faq_17_q">რატომ არის __app_name__ დამონტაჟებული აპლიკაციების სიაში შემთხვევითი სიმბოლოების სახით? რატომ ხდის ამ სიმბოლოს მოთხოვნას root access? რატომ იწყება __app_name__ წლით, რომ ფესვი __app_name__ არ არის გათვალისწინებული, მაგრამ რაიმე სახის აბრაკადაბრა?</string>
+    <string name="help_faq_17_a">იმის გამო, რომ __app_name__ იყენებს მას დამალვა თავად გამოვლენის მიერ საწინააღმდეგო cheats.</string>
+    <string name="help_faq_18_q">რატომ არის __app_name__ უახლესი ვერსიები ხანდახან აღმოჩენილი ანტიკეტებით, ზოგჯერ კი?</string>
+    <string name="help_faq_18_a">იმის გამო, რომ __app_name__ იყენებს სხვადასხვა რამ, რათა დამალვა გამოვლენის მიერ საწინააღმდეგო cheats. ეს მოიცავს შემთხვევითი პაკეტის სახელი და პროგრამა. თითოეულ მონტაჟზე ისინი განსხვავდებიან. სცადეთ ხელახლა აღდგენა __app_name__ რეგენერაციაზე. ალბათ, მას შემდეგ, რაც საწინააღმდეგო მოტყუება შეწყდება, რომ ნახოთ __app_name__.</string>
+    <string name="help_faq_19_q">რატომ არის ჩემი თამაში არ განაცხადის სიაში?</string>
+    <string name="help_faq_19_a">იმიტომ, რომ ეს არის გაშვებული აპლიკაციების სია და თქვენი პროგრამა არ არის გაშვებული. გაუშვით და აირჩიეთ __app_name__.</string>
+    <string name="help_faq_20_q">რატომ შეიძლება Java აპლიკაციები არ გამოეხმაუროთ Android 5-ზე და მაღალ სიჩქარეზე?</string>
+    <string name="help_faq_20_a">იმის გამო, რომ speedhack განკუთვნილია თამაშები მშობლიური ბიბლიოთეკები. თქვენი განაცხადი არ არის. და რადგან Android 5 გამოყენებული იყო ART- ს გარემოს ნაცვლად, დალივიკის ნაცვლად, რაც შეუძლებელს ხდის ჯავის ტაიმერებს. Არ ქნა არაფერი. სიტუაცია არ შეიცვლება მომავალში.</string>
+    <string name="help_faq_21_q">მე ვიყენებ სხვადასხვა Speedhack / hacking ინსტრუმენტი Android 4 და ყველაფერი მუშაობდა. ახლა მე დაამატე __app_name__ Android 5 და ზემოთ, მაგრამ ეს მეთოდები არ მუშაობს. რატომ?</string>
+    <string name="help_faq_21_a">"იმიტომ, რომ ბევრი რამ შეიცვალა და თქვენი კომუნალური არ იმუშავებს ისე, რომ. არ შეიქმნას თქვენი ილუზიები, რომ ეს __app_name__ იმდენად ცუდია, მაგრამ თუ იყო კომუნალური, მაშინ! არ არსებობს ასეთი რამ.
+ამის შესამოწმებლად, დააინსტალირეთ __app_name__ Android 4-ში და გაიმეორეთ ყველა იგივე ქმედება, როგორც ეს კომუნალურ რეჟიმში. შედეგად, თქვენ წარმატებას მიაღწევთ. მაგრამ ეს არ ნიშნავს, რომ ეს იგივე მეთოდები იმუშავებს Android 5-ზე და ზემოთ.
+ეს ფაქტი დადასტურებულია ექსპერიმენტულად, არაერთხელ."</string>
+    <string name="help_faq_22_q">ვიდეოს ნიმუშს / ეკრანს ვუყურებ და მეხსიერების რედაქტორში სხვა მონაცემებიც არის. რატომ?</string>
+    <string name="help_faq_22_a">იმის გამო, რომ ვიდეო / სკრინშოტი განსხვავებული გამოტანის ფორმატია. მეხსიერების რედაქტორში, დააჭირეთ მენიუ - აირჩიეთ \"__value_format__\" და დააკონფიგურით გამომავალი, როგორც უნდა.</string>
+    <string name="help_faq_23_q">როდესაც ღირებულება გაყინული, თამაში იწყება სამუხრუჭების ან შუალედი. რატომ?</string>
+    <string name="help_faq_23_a">იმის გამო, რომ თქვენ გაქვთ __app_name__ პარამეტრები ვარიანტი \"__hide_from_game__\" ჩართულია. Გამორთე.</string>
+    <string name="help_faq_24_q">როგორ შემიძლია გამორთვა შემოწმების ახალი ვერსიები, როდესაც მე დაიწყოს განაცხადი?</string>
+    <string name="help_faq_24_a">Არ არსებობს გზა.</string>
+    <string name="help_faq_25_q">როგორ ხელახლა გადაბრუნება განაცხადში? შესაძლებელია თუ არა დრო, რომ წინ წავიდეთ წინ, მაგრამ უკან?</string>
+    <string name="help_faq_25_a">Არ არსებობს გზა. Შენ არ შეგიძლია. დრო ყოველთვის უნდა გაიზარდოს სხვაგვარად თამაში შეიძლება ავარიული. თუმცა, უახლეს ვერსიებში ჩვენ დავამატეთ შესაძლებლობა უარყოფითი დრო ნახტომი. შედეგი შეიძლება იყოს თამაში ან დაკარგვის მონაცემები. გააფრთხილა.</string>
+    <string name="help_faq_26_q">მე ხატი დავტოვე და გაქრა. როგორ დავბრუნდები?</string>
+    <string name="help_faq_26_a">ხატი გამჭვირვალე გახდება, მაგრამ მაინც დააჭირეთ მასზე. დაწკაპეთ სად იყო, შემდეგ შეცვალეთ პარამეტრი ინტერფეისით.</string>
+    <string name="help_faq_27_q">როგორ მოვძებნო ღირებულება, თუ ეს არის ნაჩვენები რაუნდში თამაში? მაგალითად, 1.85M.</string>
+    <string name="help_faq_27_a">ძიების დიაპაზონის ძიება. სპექტრი ლიმიტები დამოკიდებულია დამრგვალებად წესებზე. მაგალითად, \"1845000__tilde__1854999\" სტანდარტული რაუნდისთვის.</string>
+    <string name="help_faq_28_q">როგორ შევიდე პროცენტული ღირებულების ძიება? მაგალითად, 123__percent__.</string>
+    <string name="help_faq_28_a">ეს დამოკიდებულია განხორციელებაში. თითოეული თამაშისთვის ყველაფერი შეიძლება იყოს განსხვავებული. მაგალითად 123__percent__. ეს შეიძლება იყოს __type_float__ ან __type_double__ ნებისმიერი ღირებულებით. 1.23 ან 123.0 მსგავსად. ან შეიძლება იყოს მთელი რიცხვი: __type_byte__, __type_word__, __type_dword__. მაგალითად 123 ან 12300. გამომავალზე შეიძლება დაიყოს ზოგიერთ რიცხვზე. 100 ან 345 ან სხვა არაფერი. თითოეული თამაში შეიძლება იყოს განსხვავებული. შეგიძლიათ სცადოთ ყველაზე აშკარა შემთხვევები. იყიდება 123__percent__ ეს შეიძლება იყოს 1.23 ან 123. ტიპი - __type_auto__. თუ გაუმართლა ეს შეიძლება იყოს ის, რაც გჭირდებათ.</string>
+    <string name="help_faq_29_q">რა მოხდება, თუ თამაში აღმოაჩენს __app_name__?</string>
+    <string name="help_faq_29_a">"სცადეთ შემდეგი პარამეტრები (ცალკე ან ნებისმიერი კომბინაცია):
+\u0009- ჩართეთ \"__hide_from_game__\" ვარიანტი. როგორც წესი, საკმარისი 2, 3 და 4 ვარიანტი.
+\u0009- არ გააუქმოს reinstallation __app_name__ შემთხვევითი სახელი. ეს კეთდება პირველად __app_name__ აწარმოებს გარეთ ვირტუალურ სივრცეში.
+\u0009- გამოიყენეთ XPrivacy ან მსგავსი საშუალებები. შეხედეთ ინტერნეტში როგორ უნდა გავაკეთოთ ეს.
+\u0009- თუ თქვენ გაქვთ root უფლებები, გამოყენების root ვირტუალურ სივრცეში ფარული მონტაჟი პროგრამები. ვრცლად კონტექსტში დახმარება \"__vspace_root__\" გარემოში."</string>
+    <string name="work_without_selinux">გადართოთ მუშაობა __selinux__ და განაახლეთ აპლიკაცია</string>
+    <string name="work_with_selinux">გააგზავნეთ მუშაობა __selinux__ და განაახლეთ აპლიკაცია</string>
+    <string name="file">ფაილი:</string>
+    <string name="file_not_found">Ფაილი არ მოიძებნა:</string>
+    <string name="export_selected">ექსპორტი შერჩეულია</string>
+    <string name="failed_list_dir">ფაილის სიის წაკითხვა ვერ მოხერხდა.</string>
+    <string name="change_float_type">აირჩიეთ ტიპის მცურავი ფანჯრები</string>
+    <string name="reset_float_type">გადატვირთეთ ტიპის მცურავი ფანჯრები</string>
+    <string name="mask">ნიღაბი:</string>
+    <string name="mask_request">შეიყვანეთ მისამართის ძიება</string>
+    <string name="help_mask_search_title">მისამართი (ნიღაბი) ძებნა</string>
+    <string name="help_mask_search">"* მისამართი (ნიღაბი) ძებნა:
+\u0009თქვენ შეგიძლიათ მოძებნოთ ან გააფართოვოთ ნიღაბი.
+
+\u0009ტიპიური მაგალითი ეძებს მისამართებს, რომლებიც ბოლომდე ცნობილია. მაგალითად, \"12E\".
+
+\u0009საძიებო პარამეტრების მისამართი და ნიღაბია.
+\u0009ამ მისამართზე შეიძლება გამოყენებულ იქნეს ველური კარტები (\"__question__\"). ეს სიმბოლო ნიშნავს, რომ ეს შეიძლება იყოს ნებისმიერი სიმბოლო \"0\" -დან \"F\".
+\u0009დამატებითი ნიღაბი ჩამოყალიბდა მისამართზე, ამიტომ წამყვანი zeros მნიშვნელოვანია. ამგვარად, \"0120\" -ის ძიება და \"120\" -ის ძიება არ არის იგივე.
+\u0009პირველ შემთხვევაში მოიძებნება: \"00010120\", \"00020120\", \"00030120\" და ასე შემდეგ. მეორე შემთხვევაში: \"00001120\", \"00002120\", \"00003120\" და ასე შემდეგ.
+
+\u0009თქვენ შეგიძლიათ მოძებნოთ როგორც თანასწორობისა და ნიადაგის მიერ მითითებულ უთანასწორობისათვის. მეორე ვარიანტი შეიძლება სასარგებლო იყოს არასაჭირო ღირებულებების აღმოსაფხვრელად.
+
+\u0009მისამართი და ნიღაბი შედის ჰექსადეციალურ სისტემაში და ბოლოს \"__hex__\" წერილის გარეშე.
+\u0009მისამართიდან მიღებული ნიღაბი იწყება ნიღბით, რომელიც შეყვანილია თქვენს მიერ. ეს არის ძიების ძიების ნიღაბი.
+
+შემდეგი მაგალითები არის ეკვივალენტი, რადგან შედეგად ნიღაბი იგივეა - \"FF0\"
+__mask_example__
+"</string>
+    <string name="use_sound_effects">გამოიყენეთ ხმის ეფექტები:</string>
+    <string name="from_range">მდებარეობა:</string>
+    <string name="to_range">დან:</string>
+    <string name="resultant_mask">შედეგი ნიღაბი:</string>
+    <string name="show_time_jump_panel">დროთა ნახვის პანელის ჩვენება:</string>
+    <string name="use_notification">გამოიყენეთ შეტყობინება:</string>
+    <string name="show_gg">აჩვენეთ __app_name__</string>
+    <string name="hide_gg">დამალვა __app_name__</string>
+    <string name="time_remaining">Დარჩენილი დრო:</string>
+    <string name="help_fill_title">შეავსეთ (დამატებითი) ღირებულებები</string>
+    <string name="help_fill">"* შეავსეთ (დამატებითი) ღირებულებები:
+\u0009ხშირად ხდება, რომ ძალიან ბევრი ღირებულებებია ნაპოვნი, მაგრამ მათ თამაშის შეცვლა არ შეუძლიათ.
+\u0009ამ შემთხვევაში, შევსება სამაშველო.
+
+\u0009გამოყენების ტიპიური მაგალითია ნივთი ფასის ძიება, შემდგომი ჩანაცვლება უარყოფითი ერთით.
+
+\u00091. აირჩიეთ სასურველი ნივთები.
+\u00092. აირჩიეთ \"__edit_selected__\".
+\u00093. დააჭირეთ ღილაკს \"__more__\", რათა ნახოთ \"__increments__\" ველი, თუ ეს ველი არ არის.
+\u00094. \"__increments__\" სფეროში, შევა დამატებითი თანხა. ჩვეულებრივ ეს არის 1. და დააწკაპუნეთ \"__yes__\".
+\u00095. შერჩეული საქონელი მიიღებს ახალ ღირებულებებს.
+\u00096. გადადით თამაშს და ვნახავ, თუ როგორ შეიცვალა სასურველი ღირებულება, სათამაშო ეკრებზე გადაადგილება.
+\u00097. თუ მნიშვნელობა არ შეცვლილა, სასურველი ელემენტი არ არის შერჩეული. დაბრუნება __app_name__ და გამოიყენეთ \"__delete_selected__\" -> \"__revert_and_remove__\", მონიშნული ელემენტების ამოღება, უკან დაბრუნებისას. ახლა თქვენ შეგიძლიათ სცადოთ ყველაფერი თავიდანვე სხვა ელემენტებთან ერთად, თუ არსებობს რაიმე.
+\u00098. თუ მნიშვნელობა შეიცვალა, მაშინ სასურველი ელემენტი არის ერთ-ერთი შერჩეული ელემენტი. დამახსოვრება ახალი მნიშვნელობა და დაბრუნდით __app_name__.
+\u00099. შერჩეულ ნივთთა სიაში, სასურველი ღირებულების ძიება. აირჩიეთ იგი. ყველა სხვა ღირებულების წაშლა, \"__delete_selected__\" -> \"__revert_and_remove__\" - ის გამოყენებით, რომლებიც წინა ღირებულების დაბრუნებას ახდენენ.
+\u000910. შეცვლა სასურველი ელემენტის ღირებულება, როგორც გჭირდებათ.
+
+\u0009ტიპიური შეცდომები მოხსნის გარეშე დაბრუნდება. ამის შემდეგ, თამაში შეიძლება ავარიული.
+
+\u0009თუ ბევრი ღირებულებები იპოვით, შეეცადეთ შეავსოთ მცირე ნაწილი, რათა თავიდან ავიცილოთ დამსხვრევა.
+"</string>
+    <string name="help_hint_1">* თუ თქვენ ყოველთვის იპოვით თქვენთვის სასურველ ღირებულებებს იმავე რეგიონში (შედეგების სიის ბოლოს ელემენტები), შეგიძლიათ აირჩიოთ მხოლოდ ამ რეგიონების სწრაფი ძებნა.</string>
+    <string name="help_faq_30_q">__app_name__ ეძებს ფასები ძალიან ნელა და დიდი ხნის განმავლობაში Android emulator on PC.</string>
+    <string name="help_faq_30_a">"სავარაუდოდ, თქვენ გაქვთ ვირტუალიზაცია ინფიცირებული კომპიუტერში. ჩართეთ იგი.
+__app_name__ ექმნება შიგნით emulator, ასე სიჩქარე დამოკიდებულია სიჩქარე emulator.
+თუ ვირტუალიზაცია ჩართულია, მაგრამ სიჩქარე ჯერ კიდევ დაბალია, შეამოწმეთ თქვენი ემულატორის პარამეტრები ან გამოიყენეთ სხვა ემულატორის გამოყენება.
+თქვენ ასევე შეგიძლიათ გამოიყენოთ სხვა ინსტრუმენტი - CheatEngine for PC - ის სწრაფად მოძებნით და მოგცემთ მრავალი ფუნქციას, რომელიც არასოდეს არ იქნება __app_name__."</string>
+    <string name="help_speed_up_title">როგორ დაჩქარდეს ძებნა</string>
+    <string name="help_speed_up">"* როგორ დაჩქარდეს ძებნა:
+\u00090. თუ თქვენ იყენებთ Android ემულატორს PC- ზე (BlueStacks, Droid4X, ენდი, NOX, მემუ, AMIDuOS, Windroy, AVD, Genymotion, კოპლეერი, Leapdroid და ა.შ.), შეამოწმეთ, რომ ვირტუალიზაცია (VT ტექნოლოგია, Vanderpool ტექნოლოგია, ვირტუალიზაციის ტექნოლოგია , VTx, VT-D, VMX, ვირტუალური ტექნოლოგია, Intel-VT, AMD-V, SVM, IOMMU) ჩართულია PC BIOS- ში.
+\u00091. თუ თქვენ გაქვთ ბევრი RAM, მაშინ შეგიძლიათ შეინახოთ მონაცემები. ეს მნიშვნელოვნად აჩქარებს ძიებას. დააყენეთ პარამეტრი \"__data_in_ram__\", რათა \"__yes__\". In Android emulator on PC, ეს შეიძლება შეანელებს ძებნა.
+\u00092. თუ პატარა RAM გაქვთ, მონაცემები ინახება მეხსიერების ბარათზე. გამოიყენეთ მეხსიერების ბარათი მაღალი ჩაწერისა და წაკითხვის სისწრაფით.
+\u00093. ასევე შეგიძლიათ მიუთითოთ მონაცემთა შენახვის მეხსიერება შიდა მეხსიერებაში, თუ ეს უფრო სწრაფად იქნება მეხსიერების ბარათის გარდა. დააყენეთ პარამეტრი \"__set_path__\" სასურველი გზა.
+\u00094. ძებნაში აირჩიეთ მხოლოდ სასურველი რეგიონები. თავიდან აცილება ნელი (\"__slow__\") და საშიში (\"__dangerous__\") რეგიონები.
+\u00095. ასევე შეგიძლიათ დააკონკრეტოთ მეხსიერების დიაპაზონის საზღვრები, ძებნისთვის, თუ მათ იციან. დააჭირეთ ღილაკს \"__more__\" ძიების დიალოგში და შევა ლიმიტები.
+\u00096. მოძებნეთ მხოლოდ სასურველი ტიპის მონაცემები. მონაცემთა ტიპი \"__type_auto__\" ნელია.
+\u00097. ყველა შესაძლო \"__hide_from_game__\" პარამეტრის გამორთვა.
+\u00098. გამოიყენეთ \"__experimental__\" ან \"__extended__\" - ში \"__memory_access__\". ეს პარამეტრები შეიძლება გამოიწვიოს არასტაბილური მუშაობა.
+"</string>
+    <string name="help_faq_31_q">რამდენიმე ხნის შემდეგ, __app_name__ ხატი გაქრება.</string>
+    <string name="help_faq_31_a">"სცადეთ დაწკაპვით იმ ადგილას, სადაც ხატი იყო. თუ ეს ღია __app_name__ ინტერფეისი, მაშინ ხატი იმალება პარამეტრები ან თქვენი firmware აქვს შეცდომები ერთად ჩვენება ხატი.
+თუ ინტერფეისი არ გახსნა, ეს ნიშნავს, რომ __app_name__ გადმოტვირთულია მეხსიერებისგან.
+შესაძლო მიზეზები:
+
+\u00091. მოწყობილობაზე არ არის საკმარისი RAM - სისტემა __app_name__ მოკლეს. სცადეთ ნაკლები RAM. __app_name__ პარამეტრებში, არ დააკონკრეტოთ RAM- ის მონაცემების შენახვა, არ გამოვყავით გამოტანის შედეგების დიდი რაოდენობა, RAM- დან \"დამატებითი\" აპლიკაციების გადმოტვირთვა, განაცხადების \"მსუბუქი წონის\" ანალოგები, რომლებიც არ შეიძლება ჩატვირთოს (მაგ. ). განსაკუთრებით ცუდი შემთხვევებში, თამაშის დაწყებამდე მოწყობილობის გადატვირთვა __app_name__ -ით ადრე ხელახლა. თითქმის ყველა firmware ყოველთვის აქვს გაჟონვის RAM. გადატვირთვის შემდეგ მეტი დრო - ნაკლებად ხელმისაწვდომი RAM.
+
+\u00092. თქვენ გაქვთ პროცესი მკვლელები, რომლებიც კლავს __app_name__.
+
+გააუქმეთ მკვლელები ან დაამატეთ __app_name__ მის გამონაკლისს.
+მკვლელები ასევე ყველა სახის \"ოპტიმიზატორები\" და \"გაუმჯობესები\" RAM.
+ზოგადად, ვხედავ აღწერა პროგრამული უზრუნველყოფა, თუ არ იცით, რომ მკვლელი ან არ.
+
+For FlyMe: __app_name__ გარკვეული მიზეზების გამო რამდენიმე წუთში მუშაობის გადატვირთვა - თქვენ უნდა დაუშვას მუშაობა ფონზე __app_name__ და თქვენი root მენეჯერი (როგორც წესი SuperSu).
+
+You can also try to enable \"__use_notification__\" in __app_name__ settings. Sometimes this prevent kill __app_name__."</string>
+    <string name="quick_start_title">Სწრაფი დაწყება</string>
+    <string name="prevent_unload">აღკვეთის გაუქმება:</string>
+    <string name="hot_key">ცხელი გასაღები:</string>
+    <string name="hide">დამალვა</string>
+    <string name="execute_script">სკრიპტის შესრულება</string>
+    <string name="execute">შეასრულოს</string>
+    <string name="another_script">კიდევ ერთი სკრიპტი მუშაობს. შეუშალოს ის?</string>
+    <string name="interrupt">ინტერვენცია</string>
+    <string name="script">სცენარი:</string>
+    <string name="script_ended">სცენარი დასრულდა:</string>
+    <string name="paused">თამაში შეჩერებულია:</string>
+    <string name="by_pause_button">პაუზის ღილაკით</string>
+    <string name="by_option">"ვარიანტი '__s__'"</string>
+    <string name="new_search_short">ახალი</string>
+    <string name="speedhack_loading">Speedhack იტვირთება ...</string>
+    <string name="speedhack_loaded">Speedhack დატვირთულია.</string>
+    <string name="busy_dialog_fail">პროგრესის დიალოგი არ ჩანს.</string>
+    <string name="site">საიტი</string>
+    <string name="help_xor_search_title">XOR ძიება</string>
+    <string name="help_xor_search">"* XOR ძიება:
+\u0009\u0009თუ იცით, რომ ღირებულება გჭირდებათ, XOR კლავიატურაზე დაშიფრულია, რომელიც ყოველთვის იმავე მანძილიდან არის დაშორებული, მაშინ შეგიძლიათ გამოიყენოთ ეს რეჟიმი დეშიფტირებული ღირებულებით.
+\u00091. თამაშიდან __app_name__ გადართვა.
+\u00092. შეეხეთ \"__search__\" ჩანართში \"__search_known_value__\" ღილაკს.
+\u00093. შეიყვანეთ საძიებო ნომერი და XOR საკვანძო მანძილი, გამოყოფილია \"__mode_xor__\". მაგალითად, ღირებულება 100 ძიება გასაღები 8 მანძილი, შეიტანეთ:
+\u0009\u0009\u0009100__mode_xor__8
+\u0009\u0009დამატებითი სიმბოლოების შეყვანისთვის გამოიყენეთ \"__btn_hex__\" ღილაკი შიდა კლავიატურაზე.
+\u00094. შეარჩიეთ შესაბამისი მონაცემები, ან აირჩიეთ \"__type_auto__\" (თუ არ ხართ დარწმუნებული) და სხვა ვარიანტი (საჭიროების შემთხვევაში) და დააჭირეთ \"__search__\".
+\u00095. ძიების დასრულებისას, ძიების შედეგები გამოჩნდება სიაში.
+\u00096. თავში თამაში. ღირებულება შეიცვალა, გადადით __app_name__ ერთხელ.
+\u00097. XOR ძიების შესაბამისი ცვლილებების გამეორება.
+\u00098. თუ ძალიან ბევრი შედეგია, გაიმეორეთ ნაბიჯები 6 და 7.
+\u00099. თუ რამოდენიმე შედეგი დარჩა, შეგიძლიათ ცდილობენ შეცვალოთ, შეინახოთ ან გაახანგრძლივოთ ღირებულება.
+
+\u0009თქვენ შეგიძლიათ გამოიყენოთ XOR ძებნის დიაპაზონის ძებნა. მაგალითად \"100__tilde__150__mode_xor__8\".
+\u0009როგორც წესი XOR ძებნა ნელა ჩვეულებრივი ნომრის ძიებიდან.
+\u0009ეს რეჟიმი არ არის მხარდაჭერილი ჯგუფურ ძებნაში ან დაშიფრულ ძიებაში.
+\u0009მანძილი უნდა იყოს 1 დან 4096 ჩათვლით.
+\u0009შეგიძლიათ შეყვანის მანძილი hex ფორმაში __hex__ სიმბოლო დასასრულს: \"100__tilde__150__mode_xor__10h\".
+\u0009მანძილი უნდა პატივი სცენ ფასეულობებს. მაგალითად, dword უნდა იყოს შეესაბამება 4-bytes საზღვარი. ეს ნიშნავს, რომ ძიება \"40__mode_xor__7\" უსარგებლოა dword- სთვის, რადგან 7 ვერ გაყოფა 4.
+\u0009შეუთავსეთ ამ რეჟიმში სხვა შეიძლება გამოიწვიოს პრობლემები ცუდი firmware. მაგალითად, თუ ჩქარობს ძიებას და შემდეგ XOR რეჟიმში გამორთვა, შეიძლება გამოიწვიოს გათიშოს ან გადატვირთოთ მოწყობილობა. ეს არ უნდა მოხდეს, თუ პირველი ძებნა იქნება ამ რეჟიმში.
+\u0009ამ რეჟიმის საეჭვო ძიება არ არის მხარდაჭერილი. თქვენ შეგიძლიათ დაამატოთ ის მაგრამ საეჭვო მუშაობა, როგორც ყოველთვის და არ პატივი სცეს თქვენი XOR გასაღები მანძილი.
+\u0009ფასეულობების ნიშანი პატივს სცემს. ეს ნიშნავს იმას, რომ თქვენ შეგიძლიათ მოძებნოთ მნიშვნელობა არა თანაბარი, უფრო დიდი, პატარა და ასე შემდეგ.
+\u0009ამ ძიებაში, ყველა ღირებულებას ითვლება ხელმოწერილი.
+"</string>
+    <string name="help_faq_32_q">რა განსხვავებაა HW / SW ვერსიებთან? და რომელი უნდა გამოვიყენო?</string>
+    <string name="try_latest">ალბათ ეს სცენარი სჭირდება __app_name__- ის უახლეს ვერსიას. სცადეთ უახლესი ვერსიის განახლება.</string>
+    <string name="help_string_search_title">ტექსტი (სტრიქონი, HEX, AoB) ძიება</string>
+    <string name="download_scripts">ჩამოტვირთეთ სკრიპტები</string>
+    <string name="hide_icons">დამალული ხატები დამალა</string>
+    <string name="select_mode">აირჩიეთ რეჟიმი</string>
+    <string name="mode_string">ტექსტი</string>
+    <string name="mode_mixed">შერეული</string>
+    <string name="string_search_prompt">შეიყვანეთ ტექსტის ძებნა, მდე __d__ bytes სიგრძის. Მაგალითად</string>
+    <string name="string_empty">თქვენ უნდა შეიტანოთ ტექსტი.</string>
+    <string name="string_not_found">ტექსტი \"__s__\" ვერ მოიძებნა.</string>
+    <string name="string_found">ნაპოვნია __d__ ტექსტები \"__s__\".</string>
+    <string name="string_replace">გსურთ შეცვალოთ ისინი?</string>
+    <string name="string_replace_prompt">შეიყვანეთ ტექსტი \"__s__\". სიგრძე არ არის __d__ ბაიტი.</string>
+    <string name="string_replaced">Replaced \"__s__\" to \"__s__\" in __d__ places.</string>
+    <string name="need_allow_background">ამ firmware- ზე, თქვენ უნდა დაუშვან მუშაობა __app_name__ ფონზე, სისტემის პარამეტრებში.</string>
+    <string name="calculate_offset_xor">გამოთვალეთ ოფსეტური, XOR</string>
+    <string name="select_copy_item">დააკოპირეთ ასლი:</string>
+    <string name="landscape">ლანდშაფტი</string>
+    <string name="portrait">პორტრეტი</string>
+    <string name="toolbar_buttons">Toolbar ღილაკები</string>
+    <string name="need_update_to">ამ სცენარის გასაშვებად საჭიროა __app_name__ ახალი ვერსია. მინიმუმ ვერსია __s__. თქვენ გაქვთ ვერსია __s__.</string>
+    <string name="default_mark">ნაგულისხმევი</string>
+    <string name="default_">ნაგულისხმები:</string>
+    <string name="reset_button">გადატვირთვა</string>
+    <string name="help_hex_colors_title">ფერები მეხსიერების რედაქტორში</string>
+    <string name="help_hex_colors">"* __help_hex_colors_title__:
+თუ ჰექსის წარმომადგენლობა არ არის თეთრი, მაგრამ ფერი, მაშინ სავარაუდოდ, ამ მაჩვენებელში მაჩვენებელია. ფერი მიუთითებს, თუ რომელი მეხსიერების მეხსიერება ამ მაჩვენებელზე მიუთითებს.
+ეს შეიძლება იყოს __executable__ მეხსიერება, __writable__ ან __read_only__. იშვიათ შემთხვევებში შეიძლება __writable_and_executable__ მეხსიერება."</string>
+    <string name="executable">შესრულებადი</string>
+    <string name="writable">ჩაწერადი</string>
+    <string name="read_only">წაიკითხეთ მხოლოდ</string>
+    <string name="writable_and_executable">ჩაწერადი და შესრულებადი</string>
+    <string name="help_extract">ამონაწერი დახმარება</string>
+    <string name="help_extract_done">დახმარება ამოღებულია __s__</string>
+    <string name="help_extract_fail">დახმარების მოპოვებისას წარმოიშვა შეცდომა:</string>
+    <string name="try_arm_version">სცადეთ __app_name__ ვერსია ძველი ARM პროცესორების მხარდაჭერით:</string>
+    <string name="back">უკან</string>
+    <string name="forward">თავდამსხმელი</string>
+    <string name="no_previous">წინა ჩანაწერები არ არის</string>
+    <string name="no_next">შემდეგი ჩანაწერები არ არის</string>
+    <string name="from_item">მდებარეობა:</string>
+    <string name="from_context">კონტექსტური მენიუდან:</string>
+    <string name="from_boundary">საზღვრიდან</string>
+    <string name="from_goto">დარეკეთ</string>
+    <string name="from_calc">ოფსეტური კალკულატორიდან:</string>
+    <string name="help_add_to_value_title">ვარიანტი \"__add_not_replace__\"</string>
+    <string name="help_add_to_value">"* __help_add_to_value_title__:
+თუ ეს პარამეტრი შემოწმებულია, შეყვანილი მნიშვნელობა დაემატება არსებულ მნიშვნელობას და არ შეცვლის მას. მაგალითად, ელემენტს აქვს 5-ის მნიშვნელობა და თქვენ შევიდა 7-ში ღირებულების სფეროში. თუ ეს პარამეტრი შემოწმდება, ელემენტს მიიღებს 5 + 7-ის ახალი ღირებულება, 12-ის ტოლი. თუ არ გადაამოწმა, მაშინ 7.
+შეგიძლიათ დადებითი და უარყოფითი ღირებულებების შეტანა.
+ეს ვარიანტი შეუთავსებელია გაყინვის მნიშვნელობით."</string>
+    <string name="check_libs">შეამოწმეთ თამაშის ბიბლიოთეკების არქიტექტურა:</string>
+    <string name="arm_libs">"თამაში დამონტაჟებულია ARM- ს ბიბლიოთეკებთან, თუმცა apk- ში არსებობს x86 ბიბლიოთეკები.
+Speedhack და მასთან დაკავშირებული ყველაფერი არ იმუშავებს.
+\"__skip__\" გამორთავს ამ ამოწმებს. შეგიძლიათ დააბრუნოთ ის პარამეტრებში."</string>
+    <string name="manual_install">თქვენ შეგიძლიათ დააყენოთ .apk ფაილი ხელით. იგი მდებარეობს შემდეგ გზას:</string>
+    <string name="as_text">როგორც ტექსტი (ვერ დატვირთული)</string>
+    <string name="as_text_help">გადაარჩენს სიაში ტექსტის ფორმატში, მოსახერხებელი ადამიანის წაკითხვისთვის. ამ ფორმატის ჩატვირთვა არ არის მხარდაჭერილი.</string>
+    <string name="help_pointer_search_title">Pointer search</string>
+    <string name="help_pointer_search">ეძებს ფასეულობებს, რომლებიც შეიძლება იყოს სასურველი მისამართის მითითება. თქვენ შეგიძლიათ მიუთითოთ მაქსიმალური ზღვარი შესაძლო ოფსეტურით.</string>
+    <string name="all_memory">ყველა მეხსიერებაში</string>
+    <string name="offset_help">შესაძლო ოფსეტური მაქსიმალური ლიმიტი.</string>
+    <string name="typical_values">ტიპიური ღირებულებები</string>
+    <string name="su_command">Superuser ბრძანება</string>
+    <string name="starts">Იწყება</string>
+    <string name="ends">დასრულდა</string>
+    <string name="no_filter">Ფილტრის გარეშე.</string>
+    <string name="help_memory_filter_title">მეხსიერების რედაქტორში ფილტრაცია</string>
+    <string name="help_memory_filter">"* __help_memory_filter_title__:
+თქვენ შეგიძლიათ მიუთითოთ ფილტრის მეხსიერების რედაქტორი. ნაჩვენები იქნება მხოლოდ ის შედეგები, რომლებიც შეესაბამება ფილტრაციას.
+ფილტრი მხარს უჭერს ველკლასებს:
+\u0009__caret__ - დაწყების მონაცემები,
+\u0009__dollar__ - დასასრულის მონაცემები,
+\u0009__asterisk__ - ნებისმიერი სიმბოლოების რაოდენობა,
+\u0009__question__ - ერთი ხასიათი.
+მაგალითად, მოვძებნოთ ნომერი 42, თქვენ უნდა შეიტანოთ __caret__42__dollar__."</string>
+    <string name="use_sh">გამოიყენეთ ბრძანება შელი</string>
+    <string name="backgrounds">შავი ფონი</string>
+    <string name="actions">აქციები:</string>
+    <string name="game_settings">პარამეტრების თამაში:</string>
+    <string name="global_settings">გლობალური პარამეტრები:</string>
+    <string name="ui_settings">UI პარამეტრები:</string>
+    <string name="others">სხვა:</string>
+    <string name="skip_memory">მეხსიერების წაშლა ადგილები:</string>
+    <string name="empty_memory">ცარიელი</string>
+    <string name="without_protection">დაცვა</string>
+    <string name="help_games_protection_title">როგორ მიიღოთ დაცვა თამაშებში</string>
+    <string name="help_games_protection">"\u0009ზოგიერთი თამაში აღჭურვილია მეხსიერების რედაქტორებისგან. შეგიძლიათ სცადოთ შემდეგი:
+\u00091. \"__kill_game__\", ხოლო შემდეგ \"__restart_game_without_protection__\".
+\u00092. \"__disable_protection__\", და შემდეგ გაუშვით (ან გადატვირთეთ) თამაში.
+\u00093. \"__hide_from_game__\" - ის ყველა ან ნაწილების გამოყენება. ყველა მათგანს ეძებდა ჩხრეკა.
+\u00094. ძებნა, როდესაც თამაში მინიმუმამდეა.
+\u00095. ძებნა, როდესაც თამაში არის შეჩერებული.
+\u00096. მოკალით ან პაუზა თამაშის ზოგიერთი დამცავი პროცესი, თუ თამაშს აქვს რამდენიმე პროცესი.
+\u00097. გამოიყენეთ XP კონფიდენციალურობის ან მსგავსი იარაღები დაცვის გვერდის ავლით.
+\u00098. გამოიყენეთ თამაშის შეცვლის გარეშე დაცვა.
+"</string>
+    <string name="disable_protection">ყველა აპლიკაციის დაცვა (გადატვირთვისას)</string>
+    <string name="must_restart_if">თუ გაუშვით თამაში დაცვა, გააუქმებთ დაცვას.</string>
+    <string name="patch_loading">იტვირთება პატჩი ...</string>
+    <string name="patch_loaded">Patch დატვირთულია.</string>
+    <string name="patch_failed">Patch არ არის დატვირთული.</string>
+    <string name="history_limit">ისტორიის ლიმიტი:</string>
+    <string name="copy_as_search">კოპირებად, როგორც ჯგუფური ძიებისას</string>
+    <string name="add_types">დამატება ტიპები</string>
+    <string name="add_size">ჯგუფის ზომის დამატება</string>
+    <string name="copy_rhex_value">დააკოპირეთ საპირისპირო hex ღირებულება:</string>
+    <string name="mips_arch">ეს პროგრამა მხარს არ უჭერს MIPS არქიტექტურას.</string>
+    <string name="unrandomizer">შეუსაბამებელი</string>
+    <string name="functions">ფუნქციები</string>
+    <string name="help_unrandomizer">"
+Unrandomizer არის ფუნქცია განკუთვნილია შეცვალოს გარკვეული ფუნქციების საყოველთაოდ გამოყენებული თამაშები წარმოების შემთხვევითი ღირებულებები. ძალიან მარტივ დონეზე, მაგალითად, შეიძლება იყოს თამაში, რომელიც იყენებს randomizer ფუნქციას, რათა დადგინდეს მოთამაშის ჯილდო. არანონიზატორის დამონტაჟება მაშინ გამოიწვევს __app_name__- ს, რათა შეცვალოს ამ შემთხვევითი მნიშვნელობა ამ მნიშვნელობით, რათა შეცვალოს შედეგი (მაგ., მიიღოს გარკვეული ჯილდო).
+
+შეუსაბამობა ყველა შემთხვევაში არ იმუშავებს. ის მხოლოდ იმ ფუნქციებს შეასრულებს, რაც მის შესახებ იცის. უმეტეს შემთხვევებში და მომხმარებლების უმეტესობაში ეს არ იქნება გამოყენებული, რადგან ეს უფრო თანამედროვე / ექსპერიმენტული ფუნქციაა.
+
+ზოგიერთი ფუნქცია __type_qword__- ს, ზოგიერთი - __type_double__ (იშვიათად გამოიყენება).
+
+__type_double__ ღირებულებები უნდა იყოს დიაპაზონში 0-დან 1-მდე. თუმცა, შეგიძლიათ მიუთითოთ ნებისმიერი მნიშვნელობა, რადგან __app_name__ ავტომატურად შეცვლის ყველა არასწორი ვარიანტს.
+
+თქვენ ასევე შეგიძლიათ მიუთითოთ დამატებითი ნაბიჯი. ამ შემთხვევაში ყოველი შემდგომი შედეგი ამ ღირებულებით გაიზრდება. მაგალითად, დამატებითი 1 და საწყისი მნიშვნელობა 0, შემთხვევითი მნიშვნელობის ნაცვლად, 0, 1, 2, 3, ... დაბრუნდება.
+ეს პარამეტრი სასარგებლოა ყველა შესაძლო შემთხვევითი შედეგის სრული ძიებისთვის.
+
+თქვენ შეგიძლიათ მიუთითოთ რომელი ფუნქციები შეცვალოთ __app_name__ პარამეტრებში.
+"</string>
+    <string name="count_replace">რამდენი პირველი შედეგი შეცვლის?</string>
+    <string name="unrandomizer_loading">იტვირთება unrandomizer ...</string>
+    <string name="unrandomizer_loaded">დაუშვებელია.</string>
+    <string name="warn_restart_off_prot">"ეს ვარიანტი შეეცდება თამაშის გადატვირთვის გარეშე გადატვირთოს.
+თუმცა, ბევრ firmware შეიცავს შეცდომებს, რამაც შეიძლება მოწყობილობის გადატვირთვა.
+თუ ეს მოხდება, არ შეეცადოთ თამაში კვლავ დაიწყოს, რადგან ეს კვლავ განაახლებს მოწყობილობას.
+უბრალოდ აწარმოებს __app_name__ - ის გასაგებია ცუდი პარამეტრები.
+ასევე შეგიძლიათ სცადოთ მოწყობილობის გადატვირთვა რეგულარულად, ეს ასევე უნდა დააფიქსიროს პრობლემა.
+
+თუ გადატვირთვის მოხდა მოხდა - არ გამოიყენოთ ეს ფუნქცია, იგი არ იმუშავებს თქვენი firmware."</string>
+    <string name="warn_patch_off_prot">"ეს პარამეტრი შეეცდება შეაჩეროს სისტემა (დროებით) ისე, რომ ყველა პროგრამა დაცულია დაცვის გარეშე.
+ცვლილებები ვრცელდება მხოლოდ ახალი განაცხადების იწყება. ამიტომ, სამიზნე განაცხადი, წარმატებული პაჩის შემდეგ, უნდა გადატვირთოს.
+პაჩის გაუქმების შემთხვევაში, მხოლოდ მოწყობილობის გადატვირთვა.
+ალბათ, სხვადასხვა შეცდომები იქნება სისტემაში, შემდეგ ამ პატჩი.
+
+თუ პატჩი წარმატებულია, ეს არ არის რეკომენდირებული ამ ფუნქციის გასაშვებად, მოწყობილობის გადატვირთვის დაწყებამდე.
+
+თუ პრობლემები გაქვთ, არ გამოიყენოთ ეს ფუნქცია."</string>
+    <string name="clear_history">ჩანაწერის ისტორიის გასუფთავება</string>
+    <string name="clear_history_warn">ყველა ჩანაწერი, მათ შორის Pinned, წაიშლება.</string>
+    <string name="click_edit">დააწკაპუნეთ აქ რედაქტირებისთვის</string>
+    <string name="ignore_unknown_chars">უცნობი სიმბოლოების იგნორირება:</string>
+    <string name="need_root_mode">ეს ფუნქცია მოითხოვს root access. ამჟამად __app_name__ ვირტუალურ გარემოში გაშვებულია root ხელმისაწვდომობის გარეშე.</string>
+    <string name="work_without_root_title">მუშაობა გარეშე root</string>
+    <string name="work_without_root">"__app_name__ შეუძლია მუშაობა გარეშე root, მეშვეობით ვირტუალურ გარემოში. მაგალითად, __vspace_list__ და მრავალი სხვა.
+__app_name__ უნდა დამონტაჟდეს ვირტუალურ გარემოში. თამაში უნდა იქნას დამონტაჟებული.
+პროგრამების ყველა ფუნქცია არ არის მხარდაჭერილი, მაგრამ ბევრი ფუნქცია უნდა მუშაობდეს.
+
+ვერ შეძლებთ ვირთაგონურ თამაშებში დაყენებული თამაშების ბზარი.
+
+__app_name__- ის პირველი გაშვება, რომელიც ხორციელდება რეინსტალაციით შემთხვევითი პაკეტის სახელით, არ უნდა შესრულდეს ვირტუალური გარემო.
+შემდეგ შეგიძლიათ დაამატოთ __app_name__ ვირტუალურ გარემოში და გამოიყენოთ."</string>
+    <string name="help_game_not_listed_title">რატომ არ არის ჩემი თამაში პროცესის სიაში?</string>
+    <string name="fractional_hint">"ნამდვილი რიცხვის \"x\" - ის ფრაქციული ნაწილია ის რიცხვი, რომლის რიცხვიც მთლიანი რიცხვია.
+რიგით მისი ფრაქციული ნაწილი, შესაბამისად, რადიქსის წერტილის შემდეგ გამოჩნდება ციფრებზე.
+
+Მაგალითად:"</string>
+    <string name="pointer">მაჩვენებელი:</string>
+    <string name="help_search_filter_title">ფილტრები ძიებაში</string>
+    <string name="help_search_filter">"ძიების შედეგების ფილტრი შეგიძლიათ.
+შეგიძლიათ მიუთითოთ:
+\u0009- მისამართი,
+\u0009- ღირებულების ლიმიტები,
+\u0009- საჭირო მონაცემთა ტიპები,
+\u0009- სასურველი fractional ნაწილი ნომერი,
+\u0009- სასურველი ტიპის მაჩვენებელი.
+თქვენ შეგიძლიათ დააკავშიროთ ნებისმიერი ფილტრი ერთმანეთთან.
+ასევე შეგიძლიათ გამორთოთ ერთი ან რომელიმე ფილტრი ნებისმიერ დროს.
+
+თუმცა, თუ დიდი რაოდენობით მონაცემები ნაპოვნია, ფილტრები შეიძლება შეანელებს შედეგებს.
+
+ფილტრაციის რაოდენობის ნაწილი შეიძლება იყოს თანასწორობა ანუ უთანასწორობა.
+მთელი რიცხვებისთვის, ფრაქციული ნაწილი არის ნულოვანი. თუ არ სჭირდება მთელი რიცხვი, გამორიცხავს მათ, როგორც ტიპის ფილტრის გამოყენებით.
+
+კურსორის ტიპის მიერ ფილტრაციის გაფილტვრა საშუალებას იძლევა გამოვიდეს მხოლოდ იმ ღირებულებებზე, რაც შეიძლება იყოს სასურველი ტიპის მეხსიერების მაჩვენებელი.
+შესაძლო მეხსიერების ტიპები შეესაბამება მეხსიერების რედაქტორს:
+ეს შეიძლება იყოს __executable__ მეხსიერება, __writable__ ან __read_only__. იშვიათ შემთხვევებში შეიძლება __writable_and_executable__ მეხსიერება.
+
+ფსევდო ტიპის \"არ მაჩვენებელი\" შეესაბამება ყველა სახის მონაცემებს, რომლებიც არ შეიძლება იყოს მითითება, ასევე იმ მაჩვენებლების მნიშვნელობა, რომლებიც მიუთითებენ არალოკატურ მეხსიერებაში."</string>
+    <string name="unmount_kill">"მეხსიერების ბარათი შეუძლებელი იყო, ხოლო __app_name__ მასში შენახული დროებითი ფაილები. ეს გამოიწვია daemon იძულებული დახურვის.
+
+ამის თავიდან ასაცილებლად დროებითი ფაილების მიუთითეთ სხვა გზა. მაგალითად, შიდა მეხსიერებაში.
+საკმარისი ადგილი უნდა იყოს თავისუფალი სივრცე."</string>
+    <string name="calls">სისტემის ზარების რეჟიმი:</string>
+    <string name="alternative">ალტერნატივა</string>
+    <string name="help_calls">"ზოგიერთ firmware, მაგალითად Lenovo, ალტერნატიული რეჟიმში შეიძლება მუშაობა უფრო სწრაფად.
+
+ჩვეულებრივ, ამ პარამეტრის შეცვლა არ არის საჭირო."</string>
+    <string name="help_context_title">კონტექსტური დახმარება</string>
+    <string name="help_context">"ინტერფეისში, ზოგიერთი ელემენტები აღინიშნება სპეციალური ხატი, ზედა მარჯვენა, ერთად სიმბოლო __i__ წრეში.
+ამ ელემენტზე დაჭერით ან ხანგრძლივი დაჭერით, აჩვენებს ამ ელემენტს."</string>
+    <string name="waitpid_mode">__waitpid__ რეჟიმი:</string>
+    <string name="help_waitpid">"ზოგიერთ firmware, __waitpid__ სისტემის ზარი არ მუშაობს, როგორც მოსალოდნელია. ეს, როგორც წესი, არასწორი SeLinux პარამეტრების გამო.
+ეს გამოიწვევს გაუთავებელი ძებნის __app_name__.
+შეგიძლიათ შეცვალოთ ალტერნატიული რეჟიმი. იქნებ ეს იმუშავებს."</string>
+    <string name="microseconds_short">μs</string>
+    <string name="small_is_bad">ძალიან მცირე ღირებულებები შეიძლება გამოიწვიოს მაღალი დატვირთვის პროცესორი და უბიძგებს თამაშში.</string>
+    <string name="freeze_interval_help">ინტერვალი, რომლის საშუალებითაც __app_name__ დაამახსოვრებს ღირებულებებს თამაშის მეხსიერებაში.</string>
+    <string name="saved_list_update_interval_help">ინტერვალი, რომლის მეშვეობითაც __app_name__ განახლებები შენახული სიაშია.</string>
+    <string name="icons_size_help">"ხატის ზომა __app_name__ ინტერფეისით.
+არ ვრცელდება მცურავი ხატი."</string>
+    <string name="ignore_unknown_chars_help">შეიძლება დაეხმაროს პრობლემების გადაჭრა სხვადასხვა ადგილას, თუ სპეციალური სიმბოლოები გადაწერილია რიცხვებთან ერთად.</string>
+    <string name="use_notification_help">"შეტყობინებების გამოყენება Android- ის სისტემის შეტყობინების ზონაში.
+ზოგიერთ firmware, ეს ზრდის პრიორიტეტი განაცხადის და ხელს უშლის მას დახურვის.
+ასევე შეგიძლიათ გამოიყენოთ შეტყობინება, რომ გადადით __app_name__ ან თამაშში დაწკაპვით.
+ეს შეიძლება იყოს სასარგებლო, თუ არ შეგიძლიათ დაწკაპოთ მცურავი ხატი."</string>
+    <string name="use_sound_effects_help">"სისტემა ჟღერს ღილაკებსა და ელემენტებზე დაჭერით.
+ზოგიერთ firmware, ხმები გამოიწვიოს __app_name__ ავარიის."</string>
+    <string name="keyboard_help">შიდა კლავიატურა იღებს ნაკლებ მეხსიერებას, იტვირთება სწრაფად და ოპტიმიზირებულია ნომრების შესასვლელად.</string>
+    <string name="allow_suggestions_help">"მინიშნებები გარე კლავიატურადან.
+ზოგიერთ firmware, მინიშნებები გამოიწვიოს __app_name__ ავარიის."</string>
+    <string name="autopause_help">ავტომატურად აყენებს თამაშს პაუზის დროს, როდესაც გახსნის __app_name__ ინტერფეისს.</string>
+    <string name="killed_by">__app_name__ შეწყდა განაცხადის შეტანა \"__s__\". ამის თავიდან ასაცილებლად, წაშალეთ ეს პროგრამა ან დააკონფიგურიროთ ისე, რომ იგი არ შეწყვიტოს __app_name__.</string>
+    <string name="killers_found">"თქვენ დამონტაჟებული აპლიკაციები, რომლებიც შეიძლება დაიძაბოს __app_name__:
+__s__
+ამის თავიდან ასაცილებლად, წაშალეთ ისინი, ან დააკონფიგურიროთ ისინი ისე, რომ არ შეწყვიტონ __app_name__.
+
+თუ __app_name__- ის მოულოდნელ დახურვასთან დაკავშირებული პრობლემები არ გექნებათ, მაშინ არანაირი მოქმედება არ არის აუცილებელი და ამ შეტყობინებას იგნორირება შეუძლია."</string>
+    <string name="record_logcat">ჩანაწერი __logcat__</string>
+    <string name="record_logcat_info">"__app_name__ გადატვირთულია __logcat__ ჩაწერის საშუალებით:
+\"__s__\".
+
+ჩაწერის დასრულება, გასვლა __app_name__.
+ამის შემდეგ, თქვენ შეგიძლიათ გააგზავნოთ ჟურნალი ფაილი სადაც საჭიროა."</string>
+    <string name="need_uninstall">თქვენ უნდა წაშალოთ ინსტალერი, წინააღმდეგ შემთხვევაში თქვენ გექნებათ 4 ხატი, არა 2. ასევე თამაშების გამოვლენა.</string>
+    <string name="need_random_name">"__app_name__ იყენებს სტანდარტული პაკეტის სახელს. თამაშები შეიძლება აღმოაჩინოს.
+
+დაფიქსირება ამ - აწარმოებს __app_name__ გარეთ ვირტუალური სივრცე, როგორც ნორმალური განაცხადი.
+ინსტალაციის დასრულების შემდეგ, დაამატეთ __app_name__ ასლი ვირტუალური სივრცის შემთხვევითი სახელით."</string>
+    <string name="work_mode">სამუშაო რეჟიმი</string>
+    <string name="root">root</string>
+    <string name="no_root">არ არის root</string>
+    <string name="how_no_root">"ვირტუალური სივრცის აპლიკაციის დაყენება. როგორიცაა: __vspace_list__.
+
+რეკომენდირებულია ოფიციალური __app_name__ საიტიდან ოპტიმიზებული ვერსიების დაყენება.
+
+მაშინ უნდა დაამატოთ __app_name__ და თქვენი თამაში ამ ვირტუალურ სივრცეში.
+
+ამის შემდეგ თქვენ უნდა აწარმოოთ თამაში და __app_name__ ვირტუალურ სივრცეში."</string>
+    <string name="eperm_error_descr_0">შესაძლო მიზეზები:</string>
+    <string name="eperm_error_descr_1">დაცვის თამაში.</string>
+    <string name="eperm_error_descr_2">კიდევ ერთი დებიგერი ან კრეკერი უკავშირდება თამაშს.</string>
+    <string name="eperm_error_descr_3">არასაკმარისი უფლებები. ჩვეულებრივ, არასწორი კონფიგურირება __selinux__. გამორთვა ან კონფიგურაცია __selinux__.</string>
+    <string name="eperm_error_descr_4">ცუდი kernel ან firmware. სცადეთ კიდევ ერთი firmware ან სხვა მოწყობილობა.</string>
+    <string name="eperm_error_descr_5">თქვენს firmware- ზე, \"არ არის root\" რეჟიმი არ მუშაობს. სცადეთ კიდევ ერთი firmware ან სხვა მოწყობილობა ან მიიღოთ root.</string>
+    <string name="ptrace_bypass_mode">შემოვლითი რეჟიმი ptrace დაცვა:</string>
+    <string name="mode_restore">აღდგენა</string>
+    <string name="mode_nothing">არაფერი</string>
+    <string name="mode_freeze">გაყინვა</string>
+    <string name="ptrace_bypass_mode_help">"მიუთითებს, თუ რა უნდა გააკეთოს დაცვის გაუქმების შემდეგ:
+\u0009__mode_restore__ - აღდგენის კავშირი
+\u0009__mode_nothing__ - არაფერი (ჩვეულებრივ დაცვის თავად აღადგენს კავშირი)
+\u0009__mode_freeze__ - გაყინვის თემა (როგორც წინა ვერსიებში)
+
+თუ თქვენ აღადგენთ დაცვას, ან დაუშვებთ დაცვის საშუალებას, __app_name__ ღირებულების გაყინვა შეიძლება გამოიწვიოს ბადურის გადატვირთვა მუდმივი კავშირიდან / გაუქმების გამო."</string>
+    <string name="slow_emulator">"თქვენ იყენებთ \"__s__\" ემულატორს. ეს არის ნელი და შეიცავს შეცდომებს. ამის გამო, ძებნის ძალიან ნელია.
+
+ჩვენ სხვა ემულატორებს ვურჩევთ:"</string>
+    <string name="text">ტექსტი</string>
+    <string name="show_debug_info">საცავის ინფორმაციის ჩვენება</string>
+    <string name="mnt_expand">"__app_name__ დამონტაჟებულია მეხსიერების ბარათზე, რომელიც გამოიყენება როგორც \"შიდა მეხსიერება\".
+ეს ხელს უშლის ვირტუალური სივრცის ფუნქციონირებას.
+თუ ეს მოხდება, დააინსტალირეთ __app_name__ მოწყობილობის შიდა მეხსიერებაში.
+შეიძლება დაგჭირდეთ მეხსიერების ბარათი, როგორც \"პორტატული შენახვის\"."</string>
+    <string name="help_game_not_listed_root">"თამაში უნდა იყოს გაშვებული.
+
+თუ თამაში მიმდინარეობს, მაგრამ მაინც არ არის სიაში, მაშინ შესაძლოა პრობლემები გაქვთ ფესვთან, ან ფირმებთან.
+სცადეთ სხვა root ან სხვა ფირმა."</string>
+    <string name="help_game_not_listed_noroot">"თამაში უნდა დაიწყოს ვირტუალურ სივრცეში ისე, რომ ის შეირჩევა.
+
+ვერც ვირჩევთ თამაშს, თუ იგი არ ხორციელდება ვირტუალურ სივრცეში.
+
+თუ თამაში გაშვებულია ვირტუალურ სივრცეში, მაგრამ მაინც არ არის სიაში, სცადეთ სხვა ვირტუალური სივრცე, სხვა ფირმა, სხვა მოწყობილობა ან მიიღოთ ფესვი."</string>
+    <string name="daemon_killed_oom">"Daemon მოკლეს სისტემის მიერ მეხსიერების ნაკლებობის გამო.
+
+უცნობია \"__data_in_ram__\" -დან \"__no__\".
+გამოიყენეთ ინტერფეისის აპარატურის დაჩქარება, თუ ეს შესაძლებელია.
+არ გამოიყენოთ დიდი აპები.
+ყველა სხვა გამოუყენებელი აპების გამორთვა.
+შეეცადეთ გამოიყენოთ __app_name__ თქვენი მოწყობილობის გადატვირთვის შემდეგ."</string>
+    <string name="selected_as_search_result">შერჩეული ძიების შედეგად</string>
+    <string name="clear_results_prompt">ეს შეცვლის მიმდინარე ძიების შედეგებს. გაგრძელება?</string>
+    <string name="position_in_memory_editor">მეხსიერების რედაქტორის პოზიცია</string>
+    <string name="script_prompt_internet">"სკრიპტს სურს ინტერნეტის ხელმისაწვდომობა. თუ დაშვების უფლებას მიიღებთ, სკრიპტი შეძლებს თამაშის ლოგინების, პაროლების, დაზოგვის და სხვა მონაცემების მოპარვას. ასევე შეძლებთ თქვენი სხვა სკრიპტების მოპარვას ან თქვენს მოწყობილობას ვირუსების გადმოსაწერად.
+
+ნებართვა ინტერნეტის სკრიპტის დაშვება?"</string>
+    <string name="level">დონე</string>
+    <string name="float_prompt">"სწორად აწარმოეთ __app_name__ თქვენი firmware, თქვენ უნდა დაუშვას გამოყენების popup ფანჯრები სისტემის პარამეტრების __s__.
+
+Popup არ გამოჩნდება Huawei ტელეფონებისთვის. თქვენ უნდა დაუშვას __s__ აჩვენოს popup. გახსენით ტელეფონი მენეჯერი, შემდეგ Dropzone მენეჯმენტი და დარწმუნდით, რომ ის __s__- ზე გამორთულია.
+
+Popup ასევე არ ჩანს ზოგიერთი Xiaomi ტელეფონები. თქვენ უნდა უხელმძღვანელოთ პარამეტრებს -> დაყენებული აპები -> __s__ -> სხვა ნებართვები -> ჩვენება ფანჯრის ჩვენება.
+
+გარდა ამისა, სხვა ტელეფონებს შეიძლება ჰქონდეთ განსხვავებული პროცედურები, რათა აპს შეეძლოთ Popup ფანჯრების ჩვენება. ყველა ასეთი აპლიკაცია, როგორც წესი, დაზარალდა ამ გზით, მაგალითად Google Translator აპლიკაცია Tap თარგმნა ფუნქციონირება. აქედან გამომდინარე, თქვენ შეგიძლიათ უბრალოდ Google \"YOUR_PHONE ჩამოსასხმის თარგმნა\" იპოვონ გამოსავალი. მაგალითად, Xiaomi Redmi- ის მოწყობილობებისთვის გამოსავალია შემდეგი:"</string>
+    <string name="virtual_space">ვირტუალური სივრცის აპლიკაცია</string>
+    <string name="prevent_unload_help">"აკრძალვა __app_name__ მეხსიერებისგან (ძალა დახურვა).
+
+ყოველი შემდგომი დონე უფრო ძლიერია, ვიდრე წინა და მასში შედის.
+
+მესამე დონის შეიძლება გამოიწვიოს პრობლემები (დაკიდება სადღეგრძელო, reboots ან დამსხვრევაზე) ზოგი firmware და emulators.
+
+გარეშე root მხოლოდ მესამე დონის სამუშაოები."</string>
+    <string name="integer_type">ეს მონაცემები ტიპისაა მხოლოდ რიცხვითი მნიშვნელობებისათვის და არ უჭერს მხარს ფრაქციულ ღირებულებებს. გამოიყენეთ __type_float__ ან __type_double__ ფრაქციული ღირებულებებისათვის.</string>
+    <string name="without_float">ასევე შეგიძლიათ გამოიყენოთ __app_name__ მცურავი ფანჯრები:</string>
+    <string name="any_value">ნებისმიერი მნიშვნელობა</string>
+    <string name="help_group_search_any_value">თქვენ შეგიძლიათ გამოიყენოთ __any__ ბრძანებით ჯგუფურ ძებნაში მინიმალური ზომა, რათა მიუთითოთ ამ ტიპის ნებისმიერი მნიშვნელობა სასურველ პოზიციაში.</string>
+    <string name="help_scripts_title">სკრიპტები</string>
+    <string name="help_scripts">"* __help_scripts_title__:
+__app_name__ მხარს უჭერს ლუკაში დაწერილი სკრიპტების აღსრულებას.
+
+ძიების ჩანართზე დააწკაპუნეთ მენიუს და აირჩიეთ \"__execute_script__\".
+აქ შეგიძლიათ აირჩიოთ სკრიპტის ფაილი აღსრულებისათვის, იხილეთ არსებული __app_name__ API მეთოდები, ან გადადით ოფიციალურ საიტზე, რათა წაიკითხოთ დახმარება API- ზე ან ჩამოტვირთეთ მზად სკრიპტები.
+გარდა ამისა, თქვენ შეგიძლიათ ამონაწერი დახმარებით API- ის მეხსიერების ბარათზე წაკითხვის გარეშე ინტერნეტის გარეშე.
+
+თუ გსურთ საკუთარი სკრიპტის ჩაწერა, მაშინ საჭიროა გარე ტექსტური ფაილების რედაქტორი.
+__app_name__ სკრიპტის რედაქტირების საშუალებას არ იძლევა, მხოლოდ ის ახორციელებს მათ.
+
+დამატებითი ინფორმაციისთვის API დახმარების წაკითხვა."</string>
+    <string name="help_floating_icon_absent">თუ ღილაკზე \"__start__\" დაჭერით თქვენ ვერ ხედავთ მცურავი ხატი:</string>
+    <string name="remove_all2">ყველა წაშლა</string>
+    <string name="debug_load">ნაგავსაყრელი ყველა კოდის ჩატვირთვა</string>
+    <string name="debug_log">შესვლა საუკეთესო სცენარი მოუწოდებს</string>
+    <string name="vspace64">"თქვენ ხარ __app_name__ ვირტუალურ სივრცეში, რომელიც მხარს უჭერს 64-ბიტიან პროცესებს.
+
+__app_name__ ამ სივრცეში გაშვებული 32-ბიტიანი პროცესი ვერ იხილავს.
+
+დააინსტალირეთ __app_name__- ის მეორე ასლი \"__for32__\" რეჟიმში, თუ გსურთ მუშაობა __app_name__ წელს 32-ბიტიანი პროცესებით."</string>
+    <string name="folder_new">Ახალი საქაღალდე</string>
+    <string name="folder_exists">ეს საქაღალდე უკვე არსებობს</string>
+    <string name="folder_file">ამ სახელის ფაილი არსებობს</string>
+    <string name="folder_failed">საქაღალდის შექმნა ვერ მოხერხდა</string>
+    <string name="force_close">"წინა აპლიკაციის გამორთვა მოულოდნელი იყო.
+
+თქვენ შეგიძლიათ დააყენოთ \"__prevent_unload__\" კონფიგურაციის დონე, რათა თავიდან იქნას აცილებული ეს მომავალში."</string>
+    <string name="help_force_close_title">მოულოდნელი გამორთვა</string>
+    <string name="install_mode">ინსტალაციის რეჟიმი</string>
+    <string name="for32">იყიდება 32-bit თამაშები 64-bit ვირტუალურ სივრცეში</string>
+    <string name="for64">იყიდება 64-bit თამაშები 64-bit ვირტუალურ სივრცეში</string>
+    <string name="reset_ignore">ყველა დიალოგისთვის იგნორირება შეუძლებელია</string>
+    <string name="allocate_fail">მეხსიერების გვერდის გამოყოფა ვერ მოხერხდა. შეცდომა</string>
+    <string name="allocated">გამოყოფილი მეხსიერების გვერდი:</string>
+    <string name="allocate_page">მეხსიერების გვერდზე გამოყოფა</string>
+    <string name="prot_read">შეიძლება წაიკითხოთ</string>
+    <string name="prot_write">შეიძლება დაიწერა</string>
+    <string name="prot_exec">შეიძლება შესრულდეს</string>
+    <string name="install_finished">"ინსტალაცია წარმატებული იყო.
+დაინსტალირებული ასლი ხელით ისე, რომ მას შეუძლია თქვენი მონაცემების მიგრაცია.
+ამის შემდეგ, ინსტალერი შეიძლება ამოღებულ იქნას."</string>
+    <string name="odd_vspace">__app_name__ დაიწყო ვირტუალური სივრცეში?</string>
+    <string name="record_script">ჩანაწერის სკრიპტი</string>
+    <string name="record">ჩანაწერი</string>
+    <string name="another_record">კიდევ ერთი რეკორდი მიმდინარეობს. Შეწყვიტე?</string>
+    <string name="record_ended">ჩაწერის დასრულება:</string>
+    <string name="stop">შეაჩერე</string>
+    <string name="could_not_use">ვერ გამოიყენა:</string>
+    <string name="not_optimized2">"თქვენ იყენებთ ვირტუალური სივრცის არა-ოპტიმიზებულ ვერსიას (\"__s__\").
+ამ შეცდომის დაფიქსირების მიზნით, ამოიღეთ \"__s__\" -ის ოპტიმიზირებული ვერსია და მოათავსეთ ოპტიმიზირებული ვირტუალური სივრცის ოფიციალური საიტი __app_name__.
+დააჭირეთ \"__fix_it__\" ოპტიმიზირებული ვირტუალური სივრცის შერჩევას."</string>
+    <string name="fix_path">თავისუფალი სივრცე ან დროებითი ფაილების სხვა გზა დააკონკრეტეთ \"__fix_it__\" -ით დაჭერით.</string>
+    <string name="deep_read">ღრმა წაკითხული:</string>
+    <string name="help_deep_read">"წაკითხვის მეხსიერება ყველა არსებული მეთოდით, თუ ეს არ წაიკითხავს.
+შეიძლება შეანელონ მეხსიერების კითხვები."</string>
+    <string name="ptrace_fail">მეხსიერების შეცვლის პირადად ვერ ხერხდება.</string>
+    <string name="ptrace_fail_partially">ზოგიერთი ფუნქცია, სიჩქარე და მასთან დაკავშირებული ყველაფერი, არ იმუშავებს. წაკითხვის მხოლოდ მეხსიერების წერა (კოდის ჩათვლით) შეუძლებელია.</string>
+    <string name="ptrace_fail_full">ფუნქციების აბსოლუტური უმრავლესობა არ იმუშავებს.</string>
+    <string name="ptrace_fail_solve">"დამახასიათებელი მიზეზი არის დაზიანებული ბირთვი firmware.
+სცადეთ შეცვალოთ firmware. თუ ახლახანს განახლდით - წინა ვერსიის ინსტალაცია.
+
+თუ ეს არ მუშაობს, შეცვალეთ მოწყობილობა."</string>
+    <string name="feature_hide_4">ეს ფუნქცია ვერ იმუშავებს, თუ მეოთხე პუნქტი არჩეულია \"__hide_from_game__\".</string>
+    <string name="feature_firmware">ეს ფუნქცია შეუძლებელია მუშაობის გარეშე ptrace, რომელიც არ მუშაობს ამ firmware.</string>
+    <string name="feature_protection">ამ ფუნქციის გამოყენება შეუძლებელია თამაშის დროს Ptrace დაცვის გამო.</string>
+    <string name="not_file">გზა არ არის ფაილი:</string>
+    <string name="not_execute">ვერ შესრულდება:</string>
+    <string name="check_install">შეამოწმეთ, რომ __app_name__ სწორად დამონტაჟებულია.</string>
+    <string name="sdcard_install">თუ __app_name__ დამონტაჟებულია გარე მეხსიერებით (SD ბარათი), დააბრუნეთ იგი შიდა მეხსიერებაში</string>
+    <string name="change_address_type">შეცვალეთ მისამართი / ტიპი</string>
+    <string name="bad_offset">ოფსეტური არ არის მრავალჯერადი __d__.</string>
+    <string name="bad_result_address">მომდევნო მისამართი არ არის __d__ მრავალჯერადი.</string>
+    <string name="correct_types">__d__ ელემენტები შეიცვლება მისი ტიპის გასწორება შეუძლებელია განვიხილოთ.</string>
+    <string name="reinstall_fail">"__app_name__ შემთხვევითი სახელით ვერ ხელახლა დაყენება
+
+__app_name__ შეიძლება ადვილად გამოვლინდეს თამაშები.
+
+შეგიძლიათ დარეგისტრირდეთ __logcat__, ინსტალაციის დროს და დაუკავშირდით ოფიციალური ფორუმის დახმარებას.
+
+უარყოფის მიზეზი:"</string>
+    <string name="empty_field">ცარიელი შეყვანის ველი: არა რიცხვი გარდაქმნას</string>
+    <string name="need_integer">თქვენ უნდა აირჩიოთ მთელი რიცხვი გარდაქმნას.</string>
+    <string name="maps_failed">\"__maps__\" ფაილის გახსნა ვერ მოხერხდა.</string>
+    <string name="game_protected">თამაშის დაცულია.</string>
+    <string name="need_root">გჭირდებათ root to hack ამ თამაშში.</string>
+    <string name="vspace_error">"ვირტუალური სივრცის ან ფირმის ან მოწყობილობის პრობლემა.
+
+სცადეთ:
+\u0009- გამოიყენეთ სხვა ვირტუალური სივრცე
+\u0009- გამოიყენეთ კიდევ ერთი firmware
+\u0009- მიიღე ფესვი
+\u0009- გამოიყენეთ სხვა მოწყობილობა"</string>
+    <string name="root_error">"პრობლემა firmware ან root ან მოწყობილობა.
+
+სცადეთ:
+\u0009- გამოიყენეთ კიდევ ერთი firmware
+\u0009- სხვა ფესვის გამოყენება
+\u0009- გამოიყენეთ სხვა მოწყობილობა"</string>
+    <string name="vspace_root">გამოიყენეთ root ვირტუალური სივრცეში:</string>
+    <string name="help_vspace_root">"ვირტუალურ სივრცეში არსებული ძიების საშუალებით შეიძლება დამახსოვრებინა ის ფაქტი, რომ არსებობს __app_name__ მოწყობილობაზე.
+
+იგი არ მუშაობს ყველა firmware და არა ყველა ვირტუალურ სივრცეებში.
+
+ვირტუალური სივრცე, firmware და root უნდა დაუშვას მუშაობა root საწყისი ვირტუალური სივრცეში.
+ვირტუალურ სივრცეში უნდა დაუშვათ, რომ სისტემებში ინსტალაციის გარეშე ინსტალაცია შეუძლებელია.
+
+ამას ვერ უზრუნველყოფს ვირტუალური ფართები.
+
+არა ყველა firmware ამ რეჟიმში იმუშავებს. და არა ყველა root.
+
+მას შემდეგ, რაც ძირითადი უფლებები გადაეცემა მთელ ვირტუალურ სივრცეს, თქვენ არ უნდა დააყენოთ არაფერი. წინააღმდეგ შემთხვევაში, ვირტუალური სივრცის ნებისმიერი აპლიკაცია შეიძლება გამოიყენოს ძირეული უფლებები არაპროგნოზირებადი შედეგებით.
+
+თამაში უნდა დამონტაჟდეს ვირტუალური სივრცის გარეთ.
+
+__app_name__ უნდა დაინსტალირდეს მხოლოდ ვირტუალურ სივრცეში, სისტემაში ინსტალაციის გარეშე.
+როგორ გავაკეთოთ ეს - ნახეთ კონკრეტული ვირტუალური სივრცის დახმარებით.
+
+მაგალითად, __vexp__, შეგიძლიათ __app_name__ კლიენტისგან __vexp__ სისტემაში და შემდეგ წაშალოთ __app_name__ სისტემაში."</string>
+    <string name="help_games_protection_9">9. გამოიყენეთ root ვირტუალურ სივრცეებში, რომელიც საშუალებას გაძლევთ დააყენოთ პროგრამა საკუთარ თავს სისტემაში ინსტალაციის გარეშე.</string>
+    <string name="locale_ui">თქვენს ადგილობრივ ენაზე</string>
+    <string name="locale_script">სკრიპტები ყოველთვის იყენებენ ინგლისურ ლოკალს</string>
+    <string name="locale_desc">"'__s__' - ათობითი გამყოფი
+'__s__' - ათასობით გამყოფი
+'__semicolon__' - რიცხვის გამყოფი ჯგუფის ძებნაში"</string>
+    <string name="help_unaligned_title">Unaligned search / big-endian search</string>
+    <string name="help_unaligned">"ზოგიერთ განაცხადში (მაგ., როგორიცაა კონსოლი emulators), მეხსიერების ღირებულება არ შეიძლება პატივსაცემი განლაგდეს, ან წარმოდგენილი იყოს დიდი-
+
+ამგვარი ღირებულება არ არის ნორმალური ძებნის გზით.
+
+იპოვონ ისინი - გამოიყენეთ სპეციალური სკრიპტი ოფიციალური __app_name__ ვებსაიტიდან:"</string>
+    <string name="help_formula_calculator_title">ფორმულა კალკულატორი</string>
+    <string name="help_formula_calculator">"ნომრების ჩასატარებლად თითქმის თითოეულ ველში შეგიძლიათ ჩაწეროთ მათემატიკური ფორმულა, თანაბარი ნიშნის შემდეგ, მაგალითად, საძიებო ველში შეიყვანეთ '= 2 + 2 * 3', ხოლო პროგრამა მოიძიებს ფორმულის შედეგს, არის, '8'.
+ფორმულა არის ლუას გამოხატულება. თქვენ შეგიძლიათ გამოიყენოთ მასში არსებული ლუას ყველა შესაძლო ძალა.
+
+დაშვებულია ყველა არითმეტიკული ოპერატორი Lua 5.3 - დამატება (+), გამოკლება (-), გამრავლება (*), გაყოფა (/), გაყოფა დანარჩენი (%), ექსპოზიციონირება (^), მთელი რიცხვის გაყოფა (//) და ა.შ.
+ასევე შესაძლებელია ცოტა ოპერატორები - AND (&amp;), OR (|), Exclusive OR (binary ~), NOT (unary ~), Shift მარჯვნივ (>>), Shift მარცხნივ (&lt;&lt;). მოქმედების ბრძანება შეიძლება მიეცეს ფრჩხილებში.
+წაიკითხეთ ლუას სახელმძღვანელო, ხელმისაწვდომი ოპერაციების სრული ჩამონათვალისთვის.
+
+სასარგებლოა თუ იცით, თუ როგორ არის კოდირებული მნიშვნელობა თამაშში. მაგალითად, ერთ თამაშში 29 რაუნდი შეგიძლიათ იხილოთ '= 29 ~ 444444'. ეს უდრის 29 XOR 444444. ვიდეოს ნიმუშში ფასი იქნა ნაპოვნი 3888 XOR– ით 444444, როგორც '= 444444 ~ 3888'. ამის შემდეგ, ჩანაცვლება მოხდა \"= 444444 ~ 1\" -მდე, რამაც ფასი \"1\" შეადგინა. სხვა თამაშში, 125 ოქროს ჰგავს '= 125 * 10'.
+
+ყველა სკრიპტის ფუნქცია არ არის ხელმისაწვდომი ფორმულის კალკულატორში. ზოგიერთი ფუნქცია არ არის ხელმისაწვდომი. თუ მათ საკმარისი არ გაქვთ - დაწერეთ თქვენი სკრიპტი, ნაცვლად იმისა, რომ გამოიყენოთ ფორმულა კალკულატორი, ის განკუთვნილია მხოლოდ მარტივი გამოთვლებისთვის. ხელმისაწვდომია: ძირითადი ფუნქციების ნაწილი, 'bit32', 'მაგიდა', 'სტრიქონი', 'utf8', 'მათემატიკა', 'os' პაკეტის ნაწილი. პაკეტების \"გამოსწორება\", \"პაკეტი\", \"gg\", \"io\" არ არის ხელმისაწვდომი.
+
+როდესაც წერთ '= 2 + 2 * 3', საკვანძო სიტყვა \"დაბრუნება\" დაემატება ფორმულამდე: \"დაბრუნება 2 + 2 * 3\". ამასთან, თქვენ შეგიძლიათ მიუთითოთ ეს სიტყვა თავად ფორმულით, თუ გჭირდებათ რთული ფორმულა.
+მაგალითად, '= a = 5; b = 7; დაბრუნება a * 4 + b * 8 ”შესრულდება როგორც 'a = 5; b = 7; დააბრუნე * 4 + b * 8 '
+
+ფორმულის გამომთვლის შედეგი არის ტექსტის სტრიქონი. სიმები შეიძლება იყოს ნებისმიერი სწორი სტრიქონი ამ შეყვანის ველში.
+მაგალითად, ეს შეიძლება იყოს ჯგუფური ძიების სტრიქონი ან დიაპაზონის ძებნა. '= a = 5; b = 7; დააბრუნე .. \";\" .. ბ .. \": 100\" 'უდრის' 5; 7: 100 '.
+
+ფორმულის კალკულატორი არ მუშაობს სკრიპტებში, იქ პირდაპირ შეგიძლიათ გამოიყენოთ Lua.
+სკრიპტის დაწერისას, ფორმულის გაანგარიშების შედეგი ჩაიწერება ფაილში, და არა თავად ფორმულა.
+
+თუ ფორმულა არასწორია, ფორმის წარდგენისას მიიღებთ შეცდომის შესახებ შეტყობინებას.
+
+გაანგარიშებისას უნდა გაითვალისწინოთ ის ფაქტი, რომ გაანგარიშებები ტარდება იმ ტიპში, რომელსაც პირველი ოპერატი განსაზღვრავს. თუ ეს არის მთელი რიცხვი, მაშინ შედეგი იქნება მთელი რიცხვი.
+მაგალითად, '= 3/2' არის '1', ხოლო '= 3.0 / 2' არის '1.5'.
+
+განურჩევლად ადგილობრივი ადგილისა, ფორმულების მუშაობას ინგლისურ ლოკალში. ეს ნიშნავს, რომ ათობითი განყოფილება ყოველთვის არის წერტილი ('.')."</string>
+    <string name="help_faq_32_b">"ორი დაწყების ხატები. პირველი, პროგრამული აჩქარება - \"__app_short_name_sw__\", მეორე, ტექნიკის აჩქარება - \"__app_short_name_hw__\". ახლა ყოველთვის ასე იქნება.
+ზოგიერთ firmware მხოლოდ ერთი ვერსია მუშაობს, ნორმალური პირობა ორივე.
+უმჯობესია გამოიყენოს პროგრამული აჩქარება, მუშაობს ნაკლებად შეუფერხებლად, მაგრამ ნაკლებ მეხსიერებას მოიხმარს.
+
+აპლიკაციის პარამეტრების ერთ-ერთი ხატულის დამალვა შეგიძლიათ: \"__hide_icons__\"."</string>
+    <string name="acceleration_help_">"აპარატურის ან პროგრამული ინტერფეისის აჩქარება __app_name__.
+დამოკიდებულია თამაშის და firmware, ზოგიერთი ვარიანტი შეიძლება გამოიწვიოს პრობლემები.
+თუ ორივე სამუშაო, გამოიყენეთ პროგრამული აჩქარება, რადგან ის ნაკლებ მეხსიერებას მოითხოვს.
+
+ეს ვარიანტი გამორჩეული ხატებიდან გამოირჩევა და მხოლოდ __app_name__ ინტერფეისის ჩვენებაზე ვრცელდება.
+Launch ხატები პასუხისმგებელი ტიპის აჩქარება დაწყება ეკრანზე.
+
+აპარატურა დაჩქარება უფრო მეტ მეხსიერებას მოიხმარს, მაგრამ ის უფრო შეუფერხებლად მუშაობს. თუ თქვენ გაქვთ პატარა RAM, ყოველთვის გამოიყენეთ პროგრამული აჩქარება.
+
+თუ აპარატურის დაჩქარება იწვევს შეცდომებს, __app_name__ შეიძლება გადავიდეს პროგრამული აჩქარებაზე."</string>
+    <string name="small_list_items">მცირე სიის ელემენტი</string>
+    <string name="small_list_items_help">გაძლევთ საშუალებას გამოაქვეყნოთ მეტი ინფორმაცია პუნქტის სიებში, მაგრამ ეს უფრო რთული იქნება სასურველი ნივთის დაჭერით.</string>
+    <string name="format_asm_opcodes">__s__ opcodes</string>
+    <string name="no_regions">ვერ მოიძებნა შესაბამისი რეგიონები.</string>
+    <string name="cannot_hide_launcher_icon">"ეს ხატი გამოყენებული იქნა მიმდინარე გაშვებისთვის.
+
+თქვენ არ შეგიძლიათ დამალვა ხატი, რომელიც გამოყენებულ იქნა მიმდინარე გაშვებისთვის.
+
+ამ ხატულის დამალვა შეუძლია განცხადების გადატანა სხვა ხატის მეშვეობით."</string>
+    <string name="screenshot">მიიღეთ სკრინშოტი</string>
+    <string name="screenshot_prompt">"ხატი დაფარული იქნება __d__ წამით, რათა მიიღოთ სკრინშოტი.
+
+ამის შემდეგ, ხატი კვლავ ხილული იქნება."</string>
+    <string name="screenshot_action">Screenshot</string>
+    <string name="use_visible_type">მეხსიერების რედაქტორში ხილული მონაცემთა ტიპის გამოყენება:</string>
+    <string name="use_visible_type_help">არ ითხოვოთ მონაცემთა ტიპს მეხსიერების რედაქტორში, თუ მხოლოდ ერთი ტიპის მონაცემები ნაჩვენებია.</string>
+    <string name="wrong_float">თქვენს ლოკალურ ნომერზე \"__s__\" ჰგავს \"__s__\". თუ ეს არ არის ის, რაც გჭირდებათ - აირჩიეთ ეკრანის სხვა ლოკალი (ან ენა).</string>
+    <string name="wrong_float2">ასევე, __app_name__ პარამეტრებში, შეგიძლიათ შეცვალოთ ლოკალი ფორმატირების ნომრებისთვის.</string>
+    <string name="number_locale">ლოკალი ფორმატირების ნომრებისთვის:</string>
+    <string name="fill">შეავსეთ</string>
+    <string name="help_text_search">"
+ტექსტის მოძიება, ჩვეულებრივი ძიების დიალოგში უნდა მონიშნოთ მოდიფიკატორები.
+
+ყველაზე ხშირად გამოყენებული კოდირებაა __utf8__ და __utf16le__.
+როგორც წესი, __utf16le__ გამოიყენება __java__ და __utf8__ გამოიყენება __c__.
+
+\u0009__utf16le__ არის ორი ბიტიანი კოდირება. თითოეული პერსონაჟი ყოველთვის ორ კოდით არის კოდირებული, ამიტომ იგი __type_word__-ის მეშვეობითაა წარმოდგენილი.
+\u0009__utf8__ - encoding ერთად ცვლადი byte ზომა თითო ხასიათი. წარმოდგენილია __type_byte__.
+\u0009__hex_input__ და მისი ვარიანტები ყოველთვის წარმოდგენილია __type_byte__ მეშვეობით.
+
+თამაშს შეუძლია გამოიყენოს ნებისმიერი კოდირება.
+თუ გჭირდებათ კონკრეტული კომპლექტი ბაიტი - გამოიყენეთ __hex_input__ რეჟიმი.
+
+ხელმისაწვდომი პრეფიქსები:
+__text_prefixes__
+
+\"__hex_mixed__\" რეჟიმში, შეგიძლიათ __utf8__ ტექსტის __apos__ სიმბოლოს და __utf16le__ ტექსტის __quot__ სიმბოლოს შორის.
+
+Მაგალითად:
+__text_examples__
+
+პრეფიქსიანი ხასიათი უნდა იყოს პირველი ასო საძიებო ტექსტში.
+
+ძებნის შედეგი __type_byte__ თანმიმდევრობით, ან __type_word__ თანმიმდევრობით იქნება, __utf16le__ შემთხვევაში.
+
+შედეგები შეიძლება შეიცვალოს - აირჩიეთ ყველა და დააჭირეთ \"__edit_selected__\".
+
+ღირებულების ველში, შეიყვანეთ ახალი მნიშვნელობა, იმავე ფორმატში, როგორც ძებნის სიმებიანი.
+
+შეგიძლიათ გამოიყენოთ შევსების ღილაკები. დაწკაპეთ \"__more__\" თუ ისინი არ ჩანს.
+
+ღირებულება განისაზღვრება მუდმივად შემდეგი ელემენტების თითოეული ჯგუფისათვის.
+თუ ელემენტებს შორის განსხვავებაა, ეს იქნება ახალი ჯგუფი.
+
+თუ საჭიროა მეტი ბაიტის მითითება, საჭიროა მხოლოდ მათი ნაწილი.
+თუ საჭიროა ნაკლებია, ვიდრე საჭიროა, მაშინ დანარჩენი ჯგუფი სავსეა ნული ბატით.
+
+ტექსტის შეცვლისას, სცადეთ ტექსტის მითითება იმავე რაოდენობის ბაიტებზე, როგორც ორიგინალი, რათა თავიდან იქნას აცილებული პრობლემები.
+"</string>
+    <string name="fast_freeze">სწრაფი გაყინვა:</string>
+    <string name="help_fast_freeze">"იგი მუშაობს უფრო სწრაფად, ვიდრე ნორმალური გაყინვა, მაგრამ არა ყველა მეხსიერებაში.
+
+თუ გაყინვა არ მუშაობს, ეს პარამეტრი გამორთე."</string>
+    <string name="debug_disassemble">დაიშალა</string>
+    <string name="assembled">წარმატებით შეიკრიბა შეიტანოს:</string>
+    <string name="warn_patch_off_prot2">"თუ თქვენ იყენებთ __magisk_hide__ - გამორთვა მას ადრე patch. წარმატებული გამოყენების შემდეგ, შეგიძლიათ დააბრუნოთ იგი.
+თუ არა, პატჩი არ იქნება წარმატებული."</string>
+    <string name="help_games_protection_end">"
+როგორ დავმალოთ __app_name__ თამაშიდან ვირტუალურ სივრცეში
+
+\u00091. დააინსტალირეთ ვირტუალური სივრცე, რომელიც აპლიკაციების დამალული ინსტალაციის საშუალებას იძლევა სისტემაში მათი ინსტალაციის გარეშე. მაგალითად, __vspace_hide__.
+\u00092. დააინსტალირეთ __app_name__ ვირტუალურ სივრცეში.
+\u00093. __app_name__ წელს ჩართეთ რეჟიმი \"__vspace_root__\".
+\u00094. ძირეული უფლებების მინიჭება ვირტუალურ სივრცეში. თუ ვერ შეძლებთ root უფლებების მინიჭებას - სცადეთ სხვა ვირტუალური სივრცე, სხვა root უფლებები, სხვადასხვა firmware ან შეცვალეთ მოწყობილობა.
+\u00095. ამოიღეთ __app_name__ სისტემადან.
+\u00096. ვიმუშაოთ __app_name__ ვირტუალური სივრციდან.
+
+ჩხრეკის დროს აღმოჩენის თავიდან ასაცილებლად:
+\u0009Select items 2, 3 and 4 in \"__hide_from_game__\" setting. 
+
+ტიპიური გადაწყვეტა (საჭიროა ფესვი, ფესვის გარეშე თქვენ არ მიაღწევთ წარმატებას):
+\u00091. გამოიყენეთ ფესვი ვირტუალური სივრციდან. წაიკითხეთ დახმარება \"__vspace_root__\" პარამეტრში.
+\u00092. გამოიყენეთ 2, 3 და 4 ელემენტები \"__hide_from_game__\" პარამეტრში.
+"</string>
+    <string name="force_close_2">თქვენ შეგიძლიათ დააყენოთ \"__data_in_ram__\" \"__no__\", რათა თავიდან აიცილოთ ეს მომავალში.</string>
+    <string name="script_wrote">სკრიპტის დაწერა __s__ to __d__ ფაილი.</string>
+    <string name="script_exit">Exit</string>
+    <string name="script_interrupted">სკრიპტი გაწყდება.</string>
+    <string name="script_error">Script შეცდომა</string>
+    <string name="script_oom">მეხსიერების</string>
+    <string name="script_possible">როგორც ჩანს, თქვენ ცდილობთ შეასრულოს __s__, როგორც script.</string>
+    <string name="script_web">ვებ-გვერდი</string>
+    <string name="script_saved_list">შენახული სია</string>
+    <string name="speedhack_no_x86">მაგრამ ამ თამაშში არსებობს x86 ბიბლიოთეკების, ასე რომ, შესაძლოა, ეს არ იმუშავებს.</string>
+    <string name="help_faq_33_q">ტექსტური შეტყობინებების (სადღეგრძელოებს) რჩება ეკრანზე, ან ბნელი წრე ჩანს ბოლოში ეკრანზე, როდესაც __app_name__ მუშაობს. როგორ გაასწორონ ის?</string>
+    <string name="help_faq_33_a">გამოყენება მესამე დონე \"__prevent_unload__\" ზოგიერთ firmware იწვევს ის ფაქტი, რომ ტექსტური შეტყობინებები (სადღეგრძელოებს) რჩება ეკრანზე, ან ბნელი წრე ჩანს (ცარიელია გაგზავნა). თუ ეს მოხდება, არ გამოიყენოთ მესამე დონეზე.</string>
+    <string name="invalid_header_1">არასწორი ორობითი script header.</string>
+    <string name="unknown_version">უცნობია ვერსია.</string>
+    <string name="unknown_format">უცნობია ფორმატში.</string>
+    <string name="unknown_endianness">უცნობია endianness.</string>
+    <string name="unknown_size_s">Unknown ზომა __s__.</string>
+    <string name="unknown_size_instr">Unknown ზომა დავალებით.</string>
+    <string name="unknown_size_num">Unknown ზომა Lua ნომერი.</string>
+    <string name="expected_found">მოსალოდნელი __s__ მაგრამ ი __s__.</string>
+    <string name="or">ან</string>
+    <string name="invalid_header_2">სკრიპტის მაინც?</string>
+    <string name="invalid_header_3">"მომავალში ვერსიები __app_name__, ეს სკრიპტი არ შეიძლება აწარმოებს.
+წერენ ამ ავტორის სკრიპტი."</string>
+    <string name="skip_system_libs">Skip სისტემის ბიბლიოთეკების</string>
+    <string name="try_reinstall_x86">"სცადეთ ხელახალი თამაში x86 ბიბლიოთეკები?
+
+თამაში შეიძლება შეწყვიტოს მუშაობა შემდეგ. თუ ეს მოხდება, გადაყენება თამაშში apk მდებარეობს __data_app__."</string>
+    <string name="reinstall_started">Reinstallation დაიწყო ...</string>
+    <string name="reinstall_failed">Reinstallation ვერ მოხერხდა:</string>
+    <string name="reinstall_ended">Reinstallation დასრულდა.</string>
+    <string name="help_lasm_title">დაიშალა / შეიკრიბება სკრიპტები</string>
+    <string name="help_lasm">"__app_name__ აქვს ჩაშენებული disassembler / assembler for Lua სკრიპტები.
+
+თქვენ შეგიძლიათ აირჩიოთ \"__debug_disassemble__\" ვარიანტის script დაწყებას ფანჯრის დაჭერით \"__more__\" ღილაკს.
+
+შედეგად __ext_lasm__ ფაილი შეიძლება იყოს დამონტაჟებული და შერჩეული script დაწყებას window. შედეგი იქნება ორობითი __ext_lua__ ფაილი, იმ ცვლილებების.
+
+წავიკითხე სცენარი API დახმარება უფრო დეტალურად.
+"</string>
+    <string name="help_hide_gg_title">როგორ დამალვა __app_name__ თამაშის</string>
+    <string name="changed_as_search_result">შეიცვალა, ძებნის შედეგი</string>
+    <string name="changed_not_found">შეცვლილი ნივთები არ არის ნაპოვნი.</string>
+    <string name="too_far">ეს ფასეულობები არ გვხვდება მეშვეობით ჯგუფი ძიება, ისინი ძალიან შორს გარდა: __d__ bytes. მაქსიმალური მანძილი __d__ bytes.</string>
+    <string name="new_address">Ახალი მისამართი:</string>
+    <string name="hide_1_warn">თქვენ მიერ არჩეული პირველი პუნქტის. გაყინვის ღირებულებები შეიძლება გამოიწვიოს მძიმე lags თამაში.</string>
+    <string name="hide_4_warn">თქვენ მიერ არჩეული მეოთხე პუნქტს. ზოგიერთი ფუნქციები არ იმუშავებს: __speedhack__, __unrandomizer__, __allocate_page__.</string>
+    <string name="asm_failed">ვერ ცნობს __s__ opcode:</string>
+    <string name="asm_suggestion">ხომ არ იგულისხმეთ: __s__?</string>
+    <string name="copy_opcode">ასლი __s__ opcode:</string>
+    <string name="search_nearby">ძებნა მიმდებარე</string>
+    <string name="before">სანამ</string>
+    <string name="after">მას შემდეგ, რაც</string>
+    <string name="distance">მანძილი:</string>
+    <string name="nearby">Nearby:</string>
+    <string name="need_fixer">"პრობლემა გამოვლინდა ამ 64-bit ვირტუალურ სივრცეში.
+
+გაასწორონ ის:
+
+1. დააინსტალირეთ __fixer__ განაცხადი. (ამ დიალოგში, ან ხელით სვლა:
+__s__
+).
+
+2. დამატება __fixer__ ვირტუალურ სივრცეში.
+
+3. გაუშვით __fixer__ ვირტუალურ სივრცეში.
+
+4. ამოღება __fixer__.
+
+5. გადატვირთვა __app_name__ ვირტუალურ სივრცეში."</string>
+    <string name="limit">მხოლოდ პირველი N შედეგები:</string>
+</resources>

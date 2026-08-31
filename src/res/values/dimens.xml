@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_text_size">14.0sp</dimen>
+    <dimen name="key_width">41.139984dip</dimen>
+    <dimen name="key_height">48.0dip</dimen>
+    <dimen name="checkbox_item_width">48.0dip</dimen>
+    <dimen name="corner_radius_small">6.0dip</dimen>
+    <dimen name="corner_radius_medium">10.0dip</dimen>
+    <dimen name="spacing_small">8.0dip</dimen>
+    <dimen name="spacing_medium">16.0dip</dimen>
+    <dimen name="modern_button_min_height">40.0dip</dimen>
+    <!-- Pivot Modern UI v2 tokens -->
+    <dimen name="corner_radius_large">16.0dip</dimen>
+    <dimen name="corner_radius_xlarge">22.0dip</dimen>
+    <dimen name="list_item_height">52.0dip</dimen>
+    <dimen name="menu_row_height">48.0dip</dimen>
+    <dimen name="spacing_large">24.0dip</dimen>
+    <dimen name="spacing_xlarge">32.0dip</dimen>
+    <dimen name="dialog_padding">20.0dip</dimen>
+    <dimen name="stroke_width">1.0dip</dimen>
+</resources>

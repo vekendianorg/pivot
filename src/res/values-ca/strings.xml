@@ -1,0 +1,1366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lang_code">~~~ca~~~</string>
+    <string name="front_text">"__improve_translation_hint__
+
+Si teniu alguna pregunta sobre el __app_name__ o sobre el seu ús, visiteu els nostres fòrums al __forum__"</string>
+    <string name="set_path">Camí temporal</string>
+    <string name="number">Nombre:</string>
+    <string name="type">Tipus:</string>
+    <string name="name">Nom:</string>
+    <string name="reset">Seleccioneu el procés</string>
+    <string name="set_range">Seleccioneu els intervals de memòria</string>
+    <string name="search">Cerca</string>
+    <string name="save">Desa</string>
+    <string name="goto1">Anar a</string>
+    <string name="address">Adreça:</string>
+    <string name="edit_all">Edita-ho tot</string>
+    <string name="filter">Filtre</string>
+    <string name="clear">Clar</string>
+    <string name="max_show_rec">Espectacle:</string>
+    <string name="equal">Sense canvis</string>
+    <string name="inequal">Canviat</string>
+    <string name="larger">Augment</string>
+    <string name="smaller">Disminució</string>
+    <string name="compare_current_last">Com ha canviat el valor?</string>
+    <string name="write_region_log">Escriviu el registre de la regió</string>
+    <string name="old_version">Versió antiga</string>
+    <string name="found_old_version">He trobat una versió antiga de __app_name__. Voleu desinstal·lar-la?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="ok">"D'acord"</string>
+    <string name="failed_find_package_name">"No s'ha pogut trobar el nom del paquet d'aplicació."</string>
+    <string name="path_for_temp_files">"Establiu el camí d'accés als fitxers temporals, p. Ex. '__sdcard__'. Pot requerir uns pocs centenars de MB d’espai lliure. Es perdran els resultats de la cerca actuals."</string>
+    <string name="confirm">Confirmeu</string>
+    <string name="cancel">Cancel · lar</string>
+    <string name="found_new_version">"S'ha trobat la nova versió __s__"</string>
+    <string name="daemon_failed">El dimoni ha fallat</string>
+    <string name="failed_run_daemon">"No s’ha pogut executar el dimoni. S'ha instal·lat l’adreça root?"</string>
+    <string name="daemon_unexpected_closed">El dimoni es va tancar inesperadament. Informació:</string>
+    <string name="daemon_exited">El dimoni va sortir</string>
+    <string name="failed_load_daemon">"No s'ha pogut carregar el dimoni"</string>
+    <string name="is_device_rooted">No es pot obtenir accés root.</string>
+    <string name="collect_data_to_region_log">"S'ha iniciat la recopilació de dades per escriure al registre de la regió ..."</string>
+    <string name="log_saved">El registre s’ha desat al __s__</string>
+    <string name="failed_save">No s’ha pogut desar al __s__</string>
+    <string name="region_log">Registre de la regió</string>
+    <string name="apply">Aplica</string>
+    <string name="error">Error</string>
+    <string name="load">Carrega</string>
+    <string name="delete_prompt">Voleu eliminar aquest element?</string>
+    <string name="reset_search">"S'ha detectat un error. Restableix la llista de cerca."</string>
+    <string name="unknown_error">Error desconegut</string>
+    <string name="out_of_memory">Sense memòria</string>
+    <string name="bug_detected">"S'ha detectat un error"</string>
+    <string name="disk_full">Disc ple</string>
+    <string name="io_error">IO error</string>
+    <string name="game_dead">Joc mort</string>
+    <string name="exit">Sortir</string>
+    <string name="skip">Ignora</string>
+    <string name="unhandled_exception">Excepció no controlada. Envieu la informació següent a l’equip de desenvolupament?</string>
+    <string name="last_run_failed">Ha fallat la darrera execució</string>
+    <string name="thank_you">Gràcies!</string>
+    <string name="no_application">No s’ha seleccionat cap aplicació.</string>
+    <string name="increments">Increment:</string>
+    <string name="add_not_replace">Afegiu-hi el valor, no el substituïu</string>
+    <string name="eperm_error">No s’ha pogut afegir al procés (PTRACE_ATTACH): l’operació no és permesa</string>
+    <string name="load_list">Carrega la llista</string>
+    <string name="load_warning">Heu carregat una llista que s’ha desat d’una altra instància del joc. El més probable és que totes les adreces de la memòria hagin canviat i carregat les dades que no corresponen a les dades guardades anteriorment. Us recomanem que les reviseu.</string>
+    <string name="from">Completat __d__ de __d__ etapes</string>
+    <string name="count_fuzzy_equal_run">"Nombre de vegades que s'executarà \"__fuzzy_equal__\":"</string>
+    <string name="slow">lent</string>
+    <string name="miui_restart">Cal reiniciar el __app_name__ per tal d’aplicar permisos de seguretat.</string>
+    <string name="out_of_memory_error">"Error de memòria. S'ha esborrat la llista de resultats actuals. Si us plau, establiu un valor més petit per al nombre de resultats que es mostraran."</string>
+    <string name="loading">Carregant ...</string>
+    <string name="found_count">Trobat: __d__</string>
+    <string name="fuzzy_equal">Valor sense canvis</string>
+    <string name="fuzzy_inequal">El valor ha canviat</string>
+    <string name="fuzzy_larger">El valor va augmentar</string>
+    <string name="fuzzy_smaller">El valor disminueix</string>
+    <string name="type_edit_limit">"Valor d'entrada del __s__ al __s__"</string>
+    <string name="number_name">nombre</string>
+    <string name="step_name">increment</string>
+    <string name="number_less">"El número '__s__' és inferior al valor mínim (__d__) per a aquest tipus."</string>
+    <string name="number_greater">"El número '__s__' és superior al valor màxim (__d__) per a aquest tipus."</string>
+    <string name="about">Quant a</string>
+    <string name="owner">propietari</string>
+    <string name="design">dissenyador principal</string>
+    <string name="pm">gestió de projectes</string>
+    <string name="code">codificador principal</string>
+    <string name="tech">consultor tècnic</string>
+    <string name="creator">creador (retirat)</string>
+    <string name="for_translators">Si voleu ajudar o fer una traducció de l’aplicació, podeu posar-vos en contacte amb nosaltres al fòrum http://gameguardian.net/forum per incloure la vostra traducció en el llançament oficial de l’aplicació.</string>
+    <string name="version">Versió:</string>
+    <string name="developers">Desenvolupadors:</string>
+    <string name="select_language">"Escolliu l'idioma"</string>
+    <string name="exit_confirm">Cal reiniciar el __app_name__ per aplicar els canvis.</string>
+    <string name="special_thanks">Especial agraïment:</string>
+    <string name="nothing_found">"No s'ha trobat res. Intenta cercar de nou."</string>
+    <string name="try_more_ranges">També podeu intentar triar més intervals a la pestanya de configuració.</string>
+    <string name="try_fuzzy_search">També podeu provar de buscar un valor desconegut.</string>
+    <string name="search_hint">"Per cercar un valor conegut, premeu \"__search_known_value__\".
+Si el valor és desconegut o xifrat, feu clic a \"__search_unknown_value__\" per cercar.
+La cerca de valors flotants per la seva part sencera es pot realitzar seleccionant el tipus de cerca \"__type_auto__\".
+També podeu utilitzar una cerca de grup amb \"__semicolon__\" com a separador."</string>
+    <string name="freeze">Congelar:</string>
+    <string name="freeze_normal">normal</string>
+    <string name="freeze_may_increase">pot augmentar</string>
+    <string name="freeze_may_decrease">pot disminuir</string>
+    <string name="freeze_in_range">al rang</string>
+    <string name="range_end_fail">El final de l’abast (\"__s__\") ha de ser superior a \"__s__\".</string>
+    <string name="failed_add_window">No s’ha pogut afegir la finestra</string>
+    <string name="failed_remove_window">"No s'ha pogut eliminar la finestra"</string>
+    <string name="system_service_stopped">L’aplicació no pot funcionar normalment perquè el servei del sistema s’ha aturat. Proveu de reiniciar l’aplicació o reinicieu el dispositiu.</string>
+    <string name="value_request">Introduïu un valor per cercar</string>
+    <string name="type_request">Seleccioneu el tipus de dades que voleu cercar</string>
+    <string name="type_change_request">Seleccioneu el tipus de dades que voleu canviar</string>
+    <string name="value">Valor</string>
+    <string name="save_as">Guardar com:</string>
+    <string name="restart">Reinicia</string>
+    <string name="start">Començar</string>
+    <string name="wait_daemon">"Aquesta funció no està disponible si el dimoni no s'està executant. Espereu fins que s'iniciï el dimoni. (Heu oblidat d’atorgar l’accés root? O l’usuari no s’ha instal·lat?)"</string>
+    <string name="daemon_fail">"El dimoni no s'està executant"</string>
+    <string name="config_icon_text">Icona: transparència = __d__ %%, ocult - __s__</string>
+    <string name="icon_hide_after">després de __d__ segons</string>
+    <string name="icon_hide_never">mai</string>
+    <string name="keyboard">Teclat:</string>
+    <string name="internal">Intern</string>
+    <string name="external">Exteriors</string>
+    <string name="failed_copy_text">"No s'ha pogut copiar text al porta-retalls:"</string>
+    <string name="copied">Copiat</string>
+    <string name="copy_value">Copieu el valor:</string>
+    <string name="copy_address">"Copieu l'adreça:"</string>
+    <string name="goto_address">"Aneu a l'adreça:"</string>
+    <string name="search_unknown_value">Cerca desconeguda (difusa)</string>
+    <string name="search_known_value">Cerca (exacta) coneguda</string>
+    <string name="speedhack_hint">Per canviar la velocitat del joc, premeu la icona flotant __app_name__.</string>
+    <string name="bad_firmware">El vostre microprogramari té errors que impedia l’ús d’aquesta funció.</string>
+    <string name="language">Llenguatge</string>
+    <string name="acceleration">Acceleració de la interfície:</string>
+    <string name="hardware">Maquinari</string>
+    <string name="software">Programari</string>
+    <string name="speedhack">Speedhack</string>
+    <string name="data_in_ram">Dades a la memòria RAM:</string>
+    <string name="first_mb">El primer __d__ MB</string>
+    <string name="donate">Donar</string>
+    <string name="speeds">velocitats</string>
+    <string name="floating_window_fail">No es pot mostrar la finestra flotant</string>
+    <string name="check">Verificació</string>
+    <string name="check_success">La verificació va tenir èxit</string>
+    <string name="enable_draw_perm">Activeu els permisos a la pantalla següent.</string>
+    <string name="speedhack_fail">Speedhack per a aquest procés no és compatible</string>
+    <string name="dangerous">perillós</string>
+    <string name="difference">Diferència</string>
+    <string name="old_value">Valor antic</string>
+    <string name="new_value">Nou valor</string>
+    <string name="mode_hacking">El valor està xifrat</string>
+    <string name="union">Cerca de grups</string>
+    <string name="speedhack_open">Podeu obrir speedhack prement el botó flotant __app_name__.</string>
+    <string name="history">Història</string>
+    <string name="history_empty">La història està buida</string>
+    <string name="allow_suggestions">Permet suggeriments del teclat:</string>
+    <string name="invalid_area">La mida del grup ha d’estar entre __d__ i __d__:</string>
+    <string name="union_need_two_numbers">"Per a la cerca de grups, hi ha d'haver almenys dos números"</string>
+    <string name="too_many_union_numbers">Massa números, més de:</string>
+    <string name="invalid_number">Número no vàlid:</string>
+    <string name="input_number">Número d’entrada</string>
+    <string name="number_out_of_range">"Número '__s__' fora de l’abast possible:"</string>
+    <string name="help_floating_icon">"* La icona flotant:
+\u0009* Toqueu per obrir la interfície.
+\u0009* Toqueu i manteniu premut per canviar el tauler de velocitat.
+* Es pot moure a qualsevol lloc arrossegant i deixant anar la icona.
+\u0009* La transparència i amagar el temporitzador es poden personalitzar en la configuració de l'aplicació.
+"</string>
+    <string name="help_exact_search">"* Cerca exacta:
+\u00091. Canvieu a __app_name__ d'un joc.
+\u00092. Toqueu el botó \"__search_known_value__\" a la pestanya \"__search__\".
+\u00093. Introduïu el número que es mostra al joc.
+\u00094. Seleccioneu el tipus de dades adequat o trieu \"__type_auto__\" (si no esteu segurs) i altres opcions (si cal) i feu clic a \"__search__\".
+\u00095. Un cop finalitzada la cerca, es mostraran els resultats de la cerca a la llista.
+\u00096. Tornar al joc. Després de canviar el valor, torneu a canviar a __app_name__.
+\u00097. Cerqueu el valor que ha canviat.
+\u00098. Si hi ha massa resultats, continueu amb el pas 6.
+\u00099. Si només queden alguns resultats, podeu provar de modificar, emmagatzemar o congelar el valor.
+"</string>
+    <string name="help_speedhack">"* Speedhack:
+\u0009* Toqueu i manteniu premuda la icona flotant per mostrar el panell de speedhack.
+\u0009* Toqueu les fletxes a banda i banda de la icona per canviar la velocitat del joc.
+\u0009* Toqueu i mantingueu el número de velocitat actual per restablir la velocitat del joc.
+\u0009* Toqueu i manteniu premuda la icona flotant per ocultar el panell de velocitat.
+\u0009* La llista de velocitats i temporitzadors utilitzats es pot personalitzar en la configuració de l'aplicació.
+\u0009* Si el joc no respon a les entrades o si Speedhack no funciona, proveu d'utilitzar altres temporitzadors verds a la configuració del __app_name__.
+\u0009* Podeu utilitzar \"__time_jump__\" per avançar a temps. Només cal que seleccioneu el menú de la pestanya de cerca i trieu \"__time_jump__\". Haureu d’especificar quants segons per saltar. La quantitat per saltar pot ser fraccional.
+"</string>
+    <string name="help_fuzzy_search">"* Cerca difusa:
+\u00091. Canvieu a __app_name__ d'un joc.
+\u00092. Toqueu el botó \"__search_unknown_value__\" a la pestanya \"__search__\".
+\u00093. Seleccioneu el tipus de dades adequat o trieu \"__type_auto__\" (si no esteu segurs) i feu clic a \"__search__\".
+\u00094. Un cop finalitzada la cerca, es mostraran els resultats de la cerca a la llista.
+\u00095. Tornar al joc. Després de canviar el valor (o no), torneu a canviar a __app_name__.
+\u00096. Toqueu el botó \"__search_unknown_value__\" i seleccioneu el tipus de com ha canviat el valor.
+\u00097. Si hi ha massa resultats, seguiu el pas a 5.
+\u00098. Si només queden alguns resultats, podeu provar de modificar, emmagatzemar o congelar el valor.
+
+\u0009Podeu especificar el canvi exacte del valor fent clic al botó \"__more__\".
+\u0009Podeu introduir un interval com a canvi de valor exacte:
+\u0009\u0009190__tilde__210
+\u0009Per especificar el canvi fora del rang de valors, podeu introduir:
+\u0009\u000910__tilde____tilde__4000
+"</string>
+    <string name="help_group_search">"* Cerca de grups:
+\u00091. Canvieu a __app_name__ d'un joc.
+\u00092. Toqueu el botó \"__search_known_value__\" a la pestanya \"__search__\".
+\u00093. Sol·licitud d'introducció de cerca per a grups.
+\u0009\u0009Format: valor 1 __semicolon__ valor 2 __semicolon__ ... __semicolon__ valor N __colon__ mida del grup
+\u0009\u00092-__max_group__ Els valors es poden cercar al mateix temps. La mida del grup per defecte és de 512. La mida del grup ha de ser entre 2 i 65536.
+\u0009\u0009Per exemple, si voleu cercar 195 i 6543, heu d’introduir:
+\u0009\u0009\u0009195 __semicolon__ 6543
+\u0009\u0009Per descomptat, podeu especificar la mida del grup (300):
+\u0009\u0009\u0009195 __semicolon__ 6543 __colon__ 300
+\u0009\u0009També podeu definir un o més tipus de dades:
+\u0009\u0009\u0009195__type_dword_short__ __semicolon__ 6543
+\u0009\u0009Això vol dir que voleu cercar un valor de __type_dword__ que sigui 195 i un valor de __type_auto__ que és 6543.
+\u0009\u0009Els tipus de dades possibles són els mateixos que a la cerca:
+\u0009\u0009\u0009__type_byte_short__ - __type_byte__
+\u0009\u0009\u0009__type_word_short__ - __type_word__
+\u0009\u0009\u0009__type_dword_short__ - __type_dword__
+\u0009\u0009\u0009__type_xor_short__ - __type_xor__
+\u0009\u0009\u0009__type_qword_short__ - __type_qword__
+\u0009\u0009\u0009__type_float_short__ - __type_float__
+\u0009\u0009\u0009__type_double_short__ - __type_double__
+\u0009\u0009\u0009__type_auto_short__ - __type_auto__
+\u0009\u0009També podeu escriure el número en notació hexadecimal (little-endian):
+\u0009\u0009\u0009__hex_example____hex__ __semicolon__ 6543
+\u0009\u0009o en hexadecimal invers (big-endian) notació:
+\u0009\u0009\u0009__hex_example____rhex__ __semicolon__ 6543
+\u0009\u0009Per introduir símbols addicionals, utilitzeu el botó \"__btn_hex__\" del teclat intern.
+\u00094. Seleccioneu el tipus de dades adequat o trieu \"__type_auto__\" (si no esteu segurs) per utilitzar-lo com a predeterminat. Altres opcions no són importants per a aquest tipus de cerca. Feu clic a \"__search__\".
+\u00095. Un cop finalitzada la cerca, es mostrarà el resultat de la cerca a la llista.
+\u00096. Tornar al joc. Després de canviar el valor, torneu a canviar a __app_name__.
+\u00097. Repetiu la cerca de grups amb els canvis apropiats.
+\u00098. Si hi ha massa resultats, repetiu els passos 6 i 7.
+\u00099. Si queden alguns resultats, podeu provar de modificar, emmagatzemar o congelar el valor.
+
+\u0009Si voleu respectar l’ordre dels valors, especifiqueu __colon__ dues vegades.
+\u0009Sense mida del grup:
+\u0009\u0009195 __semicolon__ 6543 __colon____colon__
+\u0009Amb la mida del grup:
+195 __semicolon__ 6543 __colon____colon__ 300
+
+\u0009Podeu cercar en l’interval de valors:
+\u0009\u0009190__tilde__210 __semicolon__ 6543
+\u0009També podeu cercar fora del rang de valors:
+\u0009\u000910__tilde____tilde__4000 __semicolon__ 6543
+"</string>
+    <string name="help_others">"* Altres:
+\u0009* Per a cerques noves, heu de netejar els resultats de la cerca anterior seleccionant \"__clear__\" al menú sota el botó de menú.
+\u0009* Per seleccionar un altre joc, toqueu la icona del joc a la cantonada superior esquerra.
+\u0009* Per aturar / reprendre un joc - toqueu el botó situat a sota de la icona a la cantonada superior esquerra.
+\u0009* Si canvieu a un joc mentre la pausa estigui activa, la propera vegada que obriu el __app_name__, aquest joc s'aturarà automàticament.
+\u0009* Tots els valors congelats s'afegeixen automàticament a la llista desada. Podeu gestionar-los sota la pestanya adequada.
+\u0009* Totes les dades d'entrada es guarden a la llista \"__history__\". Podeu utilitzar-los prement el botó Historial.
+"</string>
+    <string name="help_typical_usage">"* Algorismes d’ús típics:
+
+1) El valor no està xifrat i conegut.
+\u0009Un cas típic seria per diners, estrelles, monedes, recursos, etc.
+
+\u0009Utilitzeu la cerca exacta.
+
+2) El valor és desconegut i / o xifrat.
+\u0009Un cas típic d'un valor desconegut: qualsevol escala / barra. Per exemple, salut, mana, nitro, etc. Es veuen els canvis, però no hi ha valors numèrics visibles.
+\u0009A typical case for encrypted values would be money, stars, coins, etc., but when searching with 1 algorithm does not find anything, or change of found values does not lead to numbers changing in the game.
+
+\u0009Utilitza la cerca difusa.
+
+
+3) El valor està xifrat (__mode_hacking__).
+\u0009A typical case for encrypted values would be money, stars, coins, etc., but when searching with 1 algorithm does not find anything, or change of found values does not lead to numbers changing in the game.
+
+\u0009Utilitzeu la cerca exacta, però seleccioneu sempre la casella de selecció \"__mode_hacking__\".
+\u0009Els resultats trobats poden tenir valors estranys a causa del xifrat.
+
+L’algorisme 3 és molt més ràpid que 2, però potser no funciona per a tots els jocs.
+
+4) El valor no està xifrat, conegut i situat a prop d’altres valors coneguts.
+\u0009Un cas típic seria el preu a la botiga, les estadístiques dels herois, etc.
+
+\u0009Utilitzeu la cerca de grups per a tots els números a la vegada.
+"</string>
+    <string name="help_hints">"* Consells:
+
+\u0009* No tots els jocs poden ser modificats per __app_name__. Llista típica d'exemples:
+\u0009\u0009* dades emmagatzemades en un servidor (jocs de servidors)
+\u0009\u0009* el joc necessita una connexió a Internet persistent
+\u0009\u0009* Jugar a la xarxa amb altres jugadors
+\u0009\u0009* heu de seleccionar un servidor per connectar-vos a l'inici del joc
+\u0009\u0009* No podeu utilitzar algunes coses sense Internet
+\u0009\u0009* El joc torna a carregar les dades del servidor si canvieu alguna cosa
+\u0009* Els valors que es visualitzen no sempre són els mateixos que la manera en què s'emmagatzemen. Poden ser diferents. Per exemple, a la pantalla veiem 34, però en memòria el valor és de 34000.
+\u0009* Si no podeu modificar un valor - proveu de modificar els valors que afecten aquest valor. Per exemple, en lloc de canviar la quantitat d’or, podeu canviar el preu de la cosa i vendre-la. O compreu amb un preu negatiu.
+"</string>
+    <string name="help">Ajuda</string>
+    <string name="help_floating_icon_title">La icona flotant</string>
+    <string name="help_exact_search_title">Cerca exacta</string>
+    <string name="help_speedhack_title">Speedhack</string>
+    <string name="help_group_search_title">Cerca de grups</string>
+    <string name="help_others_title">Altres</string>
+    <string name="help_typical_usage_title">Algorismes d’ús típics</string>
+    <string name="help_hints_title">Consells</string>
+    <string name="value_format">Format de valor</string>
+    <string name="format_hex">Notació hexadecimal (little-endian)</string>
+    <string name="format_rhex">Notació inversa hexadecimal (big-endian)</string>
+    <string name="clear_selection">Neteja la selecció</string>
+    <string name="invert_selection">Inverteix la selecció</string>
+    <string name="select_all">Seleccionar tot</string>
+    <string name="edit_selected">Edita seleccionada</string>
+    <string name="delete_selected">Elimineu seleccionats</string>
+    <string name="save_selected">Desa la selecció</string>
+    <string name="nothing_selected">Res seleccionat</string>
+    <string name="items_added">"Els elements (__d__) s'han afegit a la llista desada"</string>
+    <string name="no_items_for_editing">No hi ha cap element per editar.</string>
+    <string name="edit_info">Editeu __s__ com a __s__</string>
+    <string name="edit_all_info">Editeu les adreces __d__ com a __s__</string>
+    <string name="autopause">Joc d’autòusa:</string>
+    <string name="empty_list">"La llista desada està buida.
+Podeu afegir-hi elements des de la llista de resultats de la cerca o des de l’editor de memòria.
+Simplement seleccioneu els elements desitjats i trieu \"__save_selected__\" al menú.
+Un altre mètode: comenceu a editar un valor i marqueu la casella de selecció \"__save_as__\".
+També s’afegeixen automàticament tots els valors congelats."</string>
+    <string name="empty_save">La llista desada està buida. No hi ha res per estalviar.</string>
+    <string name="revert_selected">Reverteix el seleccionat</string>
+    <string name="nothing_to_revert">Res per revertir</string>
+    <string name="revert_prompt">Reverteix els elements seleccionats (__d__)?</string>
+    <string name="download">Aquesta aplicació es pot descarregar des de:</string>
+    <string name="format_string">Representació de cadenes</string>
+    <string name="forgot_h">Heu oblidat de \"__hex__\" al final?</string>
+    <string name="time_jump">Salt de temps</string>
+    <string name="time_jump_hint">Introduïu el nombre de segons per avançar:</string>
+    <string name="hide_from_game">Amaga __app_name__ del joc:</string>
+    <string name="last_stats">Estadístiques de la vostra última cerca</string>
+    <string name="memory_access">Accés a la memòria:</string>
+    <string name="normal">Normal</string>
+    <string name="extended">Ampliat</string>
+    <string name="experimental">Experimental</string>
+    <string name="installing">__app_name__ realitza una reinstal·lació de si mateix amb un nom aleatori per excloure la detecció mitjançant jocs. Espereu.</string>
+    <string name="failed_install">No s’ha pogut instal·lar l’aplicació. Torna-ho a provar?</string>
+    <string name="failed_uninstall">No s’ha pogut desinstal·lar l’aplicació. Torna-ho a provar?</string>
+    <string name="download_it">descarregar</string>
+    <string name="more">Més</string>
+    <string name="less">Menys</string>
+    <string name="no_space">No hi ha cap espai al dispositiu</string>
+    <string name="install_cancel_prompt">__app_name__ es pot detectar quan no està instal·lat. Segur que voleu cancel·lar?</string>
+    <string name="intercept">interceptar</string>
+    <string name="need_restart">L’aplicació d’orientació s’ha de reiniciar per aplicar aquests canvis.</string>
+    <string name="must_be_root">"Per al funcionament d'aquest programa, el dispositiu ha de tenir root.
+
+__app_name__ pot treballar en mode limitat sense arrel, a través d'un entorn virtual. Per exemple, a través de __vspace_list__ i molts altres.
+Llegiu l’ajuda per obtenir més detalls.
+
+Com arrelar qualsevol dispositiu: http://www.xda-developers.com/root/"</string>
+    <string name="skip_">Ometre</string>
+    <string name="indent_for_the_status_bar">Sagnat la IU de la part superior de la pantalla:</string>
+    <string name="start_collecting_data">Comenceu a recopilar dades</string>
+    <string name="data_collecting_in_progress">Recopilació de dades en curs</string>
+    <string name="copy">Copia</string>
+    <string name="show_logcat">Mostra logcat</string>
+    <string name="path_must_be">"El camí d'accés ha de tenir com a mínim 2 caràcters i comença per \"/\"."</string>
+    <string name="fix_it">Arreglar-ho</string>
+    <string name="change_log">Canvia el registre</string>
+    <string name="used_only_first">"S'han utilitzat només els primers __d__ articles."</string>
+    <string name="need_select_more">Necessiteu seleccionar __d__ o més articles.</string>
+    <string name="offset">Desplaçament:</string>
+    <string name="result">Resultat:</string>
+    <string name="copy_hex_value">Copieu el valor hexadecimal:</string>
+    <string name="goto_pointer">Aneu al punter:</string>
+    <string name="offset_calculator">Calculadora de desplaçament</string>
+    <string name="fill_toolbar">"Ompliu la barra d'eines:"</string>
+    <string name="from_left">"De l'esquerra"</string>
+    <string name="from_center">Des del centre</string>
+    <string name="from_right">De la dreta</string>
+    <string name="unit_years_short">y</string>
+    <string name="unit_days_short">d</string>
+    <string name="unit_hours_short">h</string>
+    <string name="unit_minutes_short">min</string>
+    <string name="unit_seconds_short">seg</string>
+    <string name="speed_info">__s__ en temps real = __s__ en temps de joc</string>
+    <string name="search_helper">Ajudant de cerca:</string>
+    <string name="off">Desactivat</string>
+    <string name="go_to_game">Tornar al joc, si es troben molts valors</string>
+    <string name="go_to_game_and_restore">Tornar al joc, si es troben molts valors i restableixen el mode de cerca al següent obert</string>
+    <string name="nothing">Res</string>
+    <string name="sort">Ordena</string>
+    <string name="sort_and_remove_duplicates">Ordeneu i elimineu els duplicats</string>
+    <string name="help_basics_title">Informació bàsica</string>
+    <string name="help_basics">"Després d’iniciar l’aplicació, fent clic al botó \"__start__\", apareixerà una icona flotant a la pantalla. Es pot arrossegar a qualsevol ubicació.
+Si toqueu una icona curta a la icona, s’obrirà la interfície d’aplicació principal, de manera que toquem de llarg: mostra un panell per canviar la velocitat del joc.
+
+A la pantalla principal es pot veure:
+\u0009* A la cantonada superior esquerra - la icona del joc. Premeu-hi us permet seleccionar un altre joc.
+\u0009* Situats al centre hi ha marcadors per navegar per les pestanyes. Si toqueu a la adreça d'interès desitjada es mostra la pestanya adequada.
+
+En total hi ha 4 pestanyes: configuració, cerca, llista guardada i l’editor de memòria.
+\u0009* A la cantonada superior dreta de la interfície hi ha el botó de tancament. Premeu-lo i la interfície s'ocultarà i apareixerà una icona flotant a la pantalla.
+\u0009* A la part inferior de la pantalla hi ha una barra d'estat i la icona de l'ull. Si premeu la icona de l’ull, manteniu la interfície transparent, sempre que no deixeu anar el dit.
+\u0009* La resta del contingut de la pantalla depèn de quina pestanya estigui activada.
+
+A cada pestanya, a excepció de la pestanya de configuració, hi ha un botó de menú que conté diverses accions possibles. En ella trobareu les accions principals d'aquesta pestanya.
+
+La pestanya Configuració conté una varietat de paràmetres, ajuda i informació sobre l’aplicació i el botó de sortida.
+
+La pestanya Cerca conté:
+\u0009* Botó de pausa, el nom del joc seleccionat, el nombre de resultats trobats i el botó d'actualització.
+\u0009* A continuació es mostra un panell amb icones d’accés ràpid i un botó de menú. Totes les icones es reprodueixen al menú, de manera que si no coneixeu el significat de la icona, sempre es pot veure fent clic al botó del menú (el més a la dreta).
+\u0009* A sota d'aquestes icones es mostrarà la llista de resultats de cerca.
+
+La pestanya Llista desada conté:
+\u0009* Botó de pausa, el nom de l’aplicació seleccionada, el botó del menú i el botó d’actualització.
+\u0009* A sota d'aquestes icones apareixerà la llista de valors desats.
+
+La pestanya de l’editor de memòria és similar a l’anterior, només aquí en lloc d’una llista de valors desats, mostra el contingut de la memòria.
+
+A les tres llistes (els resultats de la cerca, els valors guardats i l’editor de memòria), podeu fer un toc de dur llarg als elements per mostrar el menú contextual."</string>
+    <string name="daemon_killed">"Un dimoni va ser assassinat per alguna cosa.
+
+Normalment pot ser:
+\u00091. Qualsevol assassí o optimitzador de memòria. Heu de desactivar qualsevol assassí o afegir __app_name__ la llista blanca en la seva configuració.
+\u00092. __daemon_killed_oom__
+\u00093. No s’ha desmuntat la targeta de memòria, mentre que __app_name__ hi ha emmagatzemat fitxers temporals. Per evitar que això passi, especifiqueu una ruta diferent als fitxers temporals. Per exemple, a la memòria interna."</string>
+    <string name="bad_settings">Configuració incorrecta</string>
+    <string name="freeze_lags">L’ús de valors de congelació juntament amb l’opció __hide_from_game__ pot provocar un retard en el joc.</string>
+    <string name="improve_translation">Aquesta traducció ha estat creada per un traductor automàtic. Podeu millorar-lo mitjançant el servei de traducció col·lectiva.</string>
+    <string name="freeze_interval">Interval de congelació:</string>
+    <string name="saved_list_update_interval">Interval d’actualitzacions de la llista desada:</string>
+    <string name="milliseconds_short">Senyora</string>
+    <string name="disable_floating_windows">Inhabiliteu les finestres flotants i reinicieu l’aplicació</string>
+    <string name="enable_floating_windows">Activeu les finestres flotants i reinicieu l’aplicació</string>
+    <string name="too_many">Massa</string>
+    <string name="help_range_search_title">Cerca de rang</string>
+    <string name="help_range_search">"* Cerca de rang:
+\u00091. Canvieu a __app_name__ d'un joc.
+\u00092. Toqueu el botó \"__search_known_value__\" a la pestanya \"__search__\".
+\u00093. Introduïu un interval de cerca de fronteres, separat per \"__tilde__\". Per exemple, per cercar valors de 100 a 150, introduïu:
+\u0009\u0009\u0009100__tilde__150
+\u0009\u0009Per cercar fora del rang, podeu especificar el caràcter \"__tilde__\" dues vegades:
+\u0009\u0009\u0009100__tilde____tilde__150
+\u0009\u0009Alternativament, podeu seleccionar el signe \"__not_equal__\" i especificar el caràcter \"__tilde__\" una vegada.
+\u0009\u0009Per introduir símbols addicionals, utilitzeu el botó \"__btn_hex__\" del teclat intern.
+\u00094. Seleccioneu el tipus de dades adequat o trieu \"__type_auto__\" (si no esteu segurs) i altres opcions (si cal) i feu clic a \"__search__\".
+\u00095. Un cop finalitzada la cerca, es mostraran els resultats de la cerca a la llista.
+\u00096. Tornar al joc. Després de canviar el valor, torneu a canviar a __app_name__.
+\u00097. Repetiu la cerca de rang amb els canvis apropiats.
+\u00098. Si hi ha massa resultats, repetiu els passos 6 i 7.
+\u00099. Si queden alguns resultats, podeu provar de modificar, emmagatzemar o congelar el valor.
+
+\u0009Els límits de l’interval inclosos en els resultats de la cerca. Podeu seleccionar el tipus de cerca \"__not_equal__\" per trobar tots els valors que no pertanyin a l’interval.
+\u0009En aquesta cerca, es consideren signats tots els valors.
+"</string>
+    <string name="does_not_support">\"__s__\" no admet \"__s__\".</string>
+    <string name="range_bounds_diff_types">Els límits del rang han de ser del mateix tipus.</string>
+    <string name="examples">Exemples</string>
+    <string name="rtfm">Llegiu l’ajuda per obtenir més detalls.</string>
+    <string name="icons_size">Mida de les icones:</string>
+    <string name="revert_and_remove">Reverteix i elimineu</string>
+    <string name="remove">Elimina</string>
+    <string name="ordered_group_search">Cerca de grups ordenada</string>
+    <string name="load_items">Articles</string>
+    <string name="load_values">Valors</string>
+    <string name="load_freeze">Congelar</string>
+    <string name="video_tutorials">Tutorials de vídeo i guies per piratejar</string>
+    <string name="make_copy">Feu una còpia</string>
+    <string name="video">Vídeos</string>
+    <string name="ordered">Ordenat</string>
+    <string name="toolbars">"Barres d'eines"</string>
+    <string name="saved_list">Llista desada</string>
+    <string name="memory_editor">Editor de memòria</string>
+    <string name="restart_game">Reinicieu el joc</string>
+    <string name="refine">Refinar</string>
+    <string name="internal_storage">Almacenament intern</string>
+    <string name="external_storage">Emmagatzematge extern</string>
+    <string name="new_search">Nova cerca</string>
+    <string name="load_saved_list">Carregueu la llista desada del fitxer</string>
+    <string name="save_saved_list">Deseu la llista desada al fitxer</string>
+    <string name="append">Afegeix</string>
+    <string name="xor_key">Tecla XOR:</string>
+    <string name="only_memory">Només dins del rang de memòria:</string>
+    <string name="dump_memory">Volta de memòria</string>
+    <string name="path">Camí:</string>
+    <string name="dump_ended">El bolcat va acabar</string>
+    <string name="dump_failed">La descàrrega ha fallat</string>
+    <string name="eperm_error_defend">No s’ha pogut adjuntar al procés (PTRACE_ATTACH): el joc està protegit</string>
+    <string name="reset_on_exit">Restableix a la sortida:</string>
+    <string name="kill_game">Matar el joc</string>
+    <string name="kill_game_info">La finalització forçosa d’un procés no dóna al procés l’oportunitat de tancar-la de manera neta i pot causar pèrdua de dades o inestabilitat del sistema.</string>
+    <string name="continue_ask">Voleu continuar?</string>
+    <string name="copy_memory">Copiar memòria</string>
+    <string name="copy_from">Copia des de:</string>
+    <string name="paste_to">Enganxa a:</string>
+    <string name="count_bytes">Compta bytes:</string>
+    <string name="copy_ended">"S'ha acabat la memòria de còpia"</string>
+    <string name="copy_failed">Ha fallat la memòria de còpia</string>
+    <string name="help_encrypted_search_title">Cerqueu valors xifrats</string>
+    <string name="help_encrypted_search">"* Cerca de valors xifrats:
+\u00091. Canvieu a __app_name__ d'un joc.
+\u00092. Toqueu el botó \"__search_known_value__\" a la pestanya \"__search__\".
+\u00093. Introduïu el número que es mostra al joc.
+\u00094. Seleccioneu el tipus de dades adequat o trieu \"__type_auto__\" (si no esteu segurs), qualsevol altra opció (si cal), marqueu \"__mode_hacking__\" i feu clic a \"__search__\".
+\u00095. Un cop finalitzada la cerca, es mostraran els resultats de la cerca a la llista.
+\u00096. Tornar al joc. Després de canviar el valor, torneu a canviar a __app_name__.
+\u00097. Cerqueu el valor que ha canviat. Cal marcar la casella de selecció \"__mode_hacking__\".
+\u00098. Si hi ha massa resultats, continueu amb el pas 6.
+\u00099. Si només queden alguns resultats, podeu provar de modificar, emmagatzemar o congelar el valor.
+"</string>
+    <string name="help_faq_title">Preguntes freqüents</string>
+    <string name="help_faq_1_q">Per què no puc introduir un valor superior a 99 o 60.000?</string>
+    <string name="help_faq_1_a">Heu trobat el valor de __type_byte__ o __type_word__. Cerqueu __type_dword__ per introduir valors més grans.</string>
+    <string name="help_faq_2_q">Com cercar valors fraccionals (__type_float__), sense una part fraccional del valor?</string>
+    <string name="help_faq_2_a">Utilitzeu el tipus de dades \"__type_auto__\" o la cerca d’interval. Per exemple, per a 11.345 podeu cercar \"10__tilde__12\".</string>
+    <string name="help_faq_3_q">He trobat el valor i el vaig canviar, però en el joc aquest canvi no fa res. Estic intentant utilitzar-lo, però tot torna. Què faig malament?</string>
+    <string name="help_faq_3_a">"En alguns jocs, els valors estan protegits o xifrats. Abans de mostrar el valor, el valor es desxifra en una altra variable. Ho heu canviat.
+Atès que aquest valor s’utilitza només per a la visualització, no afecta la mecànica del joc. Per trobar el valor real, en lloc del valor mostrat, utilitzeu la cerca del valor xifrat o la cerca difusa.
+De vegades, el valor s'emmagatzema al servidor i cada vegada es sincronitza. En aquest cas, no es pot piratejar. Si el joc no funciona sense Internet i les maneres anteriors no van ajudar - el més probable és que sigui el cas."</string>
+    <string name="help_faq_4_q">No troba el valor en el joc X. O el troba, però quan canvia no passa res. O el troba, però després de canviar, el joc es bloqueja. Com puc saber quin és el problema, és la protecció del joc o amb el __app_name__?</string>
+    <string name="help_faq_4_a">"Heu de fer un programa senzill que no tingueu cap protecció i ho provi. Prefereixo utilitzar \"Hill Climb Racing\". El joc és senzill, sense complicacions i no conté cap defensa. Podeu comprovar la pirateria de diners com a cerca directa per nombre i la cerca difusa del canvi.
+Si funciona amb aquest joc senzill, llavors us trobeu en aquest joc X que heu intentat piratejar. Si no és així, el problema és al __app_name__.
+Fins i tot hi ha una opció més fàcil: \"Toca el comptador\". Instal·leu-lo. Correr. Intenta trencar el nombre de cintes que es mostren a la pantalla. Hauria de ser molt fàcil. Si no és així, el problema es troba al __app_name__ o la seva configuració.
+Proveu una altra versió del __app_name__, intenteu cercar una descripció de l’error rebut al fòrum en el tema pertinent o a Internet. En casos extrems, podeu preguntar al fòrum."</string>
+    <string name="help_faq_5_q">Com cercar temps?</string>
+    <string name="help_faq_5_a">"\u0009- Proveu de cercar com el nombre de dies, hores, minuts o segons. El tipus de dades pot ser __type_byte__, __type_word__, __type_dword__ o __type_qword__. També podeu utilitzar el tipus __type_auto__.
+\u0009- Intenteu fer cerques com a un nombre de milles o nanosegons. El tipus de dades és __type_dword__ o __type_qword__.
+\u0009- Intenteu cercar com a marca de temps unix la data de finalització. Escriviu - __type_dword__. Es considera la diferència entre la marca de temps unix actual i la que es guarda. Cerqueu a través de la cerca de rang.
+Per exemple, si s'escriuen 30 dies, llavors cerqueu 30 +/- 1 dia des de la marca de temps actual Unix. Es pot visualitzar fàcilment la marca de temps actual Unix a Internet."</string>
+    <string name="help_faq_6_q">És possible piratejar jocs en línia?</string>
+    <string name="help_faq_6_a">"És possible piratejar les dades emmagatzemades al client. No es pot piratejar cap cosa al servidor. En diferents jocs, poden ser maneres diferents. Fins i tot dins d'un joc per a un sol jugador, algunes de les dades poden estar al servidor i algunes poden no."</string>
+    <string name="help_faq_7_q">On funciona Speedhack?</string>
+    <string name="help_faq_7_a">"Speedhack pot no funcionar amb dispositius / emuladors x86 per a jocs que no tinguin biblioteques x86.
+També per a un entorn ART, speedhack no funciona amb temporitzadors Java. Si el joc els utilitza i teniu un entorn ART (generalment Android 5 i superiors), speedhack no funcionarà."</string>
+    <string name="help_faq_8_q">__app_name__ en conjunt funciona per a mi, però en alguns jocs estic rebent l’error PTRACE_ATTACH. Per què i què fer?</string>
+    <string name="help_faq_8_a">Aquest joc està equipat amb una protecció contra la depuració pel tipus de protecció SecNeo. __app_name__ no pot evitar aquesta protecció. A través d’ella, no es pot tallar aquest joc.</string>
+    <string name="help_faq_9_q">Per què l’aplicació té un nom de paquet tan estrany? Per què l’aplicació no s’actualitza, però cada vegada s’instal·la per separat? Per què cada versió té un nom de paquet diferent?</string>
+    <string name="help_faq_9_a">Per evitar la detecció mitjançant anti-trampes pel nom del paquet.</string>
+    <string name="help_faq_10_q">En alguns jocs, quan canvieu la velocitat (speedhack), deixen de respondre als clics. És la protecció del joc o l’error del programa?</string>
+    <string name="help_faq_10_a">Això vol dir que el vostre control de velocitat intercepta els temporitzadors de la cua d’entrada i mor. Cal seleccionar les caselles verdes a la llista de temporitzadors (en la configuració de __app_name__) de manera que això no passi.</string>
+    <string name="help_faq_11_q">Per què emet una llista d’errors separada per comes?</string>
+    <string name="help_faq_11_a">Com que el delimitador de números és un punt i coma (\"__semicolon__\").</string>
+    <string name="help_faq_12_q">Com puc realitzar múltiples cerques al mateix temps?</string>
+    <string name="help_faq_12_a">De moment, l’aplicació no ho permet, però podeu instal·lar l’aplicació diverses vegades i executar les còpies junts si hi ha prou memòria i espai de disc.</string>
+    <string name="help_faq_13_q">"He d'actualitzar l'aplicació si no hi ha res significatiu en els canvis?"</string>
+    <string name="help_faq_13_a">Se suggereix. El suport només és per a la versió més recent.</string>
+    <string name="help_faq_14_q">Quins són els símbols \"!\" i \"#\", abans del nom del procés?</string>
+    <string name="help_faq_14_a">"Això marca els processos traçats.
+\u0009\"#\" - abans que el procés significa que està rastrejat per algun altre procés.
+\u0009\"!\" - abans del procés, aquest procés es remunta a un altre procés.
+El seguiment és típic per a la depuració o la pirateria informàtica. També s'utilitza en algunes proteccions. Normalment, un procés amb un signe \"#\" és un procés protegit."</string>
+    <string name="help_faq_15_q">Per què l’aplicació després de la instal·lació estàndard també realitza la seva pròpia instal·lació, emetent sol·licituds de drets root?</string>
+    <string name="help_faq_15_a">__app_name__ es reinstal·la amb dades aleatòries per evitar la seva detecció mitjançant antivirus. Es necessiten drets de root per a la instal·lació i desinstal·lació \"silenciosa\". No els podeu donar. En aquest cas, haureu de respondre manualment a totes les sol·licituds del sistema per instal·lar aplicacions.</string>
+    <string name="help_faq_16_q">Què és el __pkg__? És un troià o un virus? És segur donar accés root a aquesta aplicació?</string>
+    <string name="help_faq_16_a">Aquest és el nom base del paquet __app_name__. L’emissió de l’accés root és segura si es descarrega __app_name__ de fonts de confiança.</string>
+    <string name="help_faq_17_q">"Per què és el __app_name__ a la llista d'aplicacions instal·lades anomenades com a jocs de caràcters aleatoris? Per què aquest conjunt de caràcters demana accés a l’arrel? Per què quan es llança el __app_name__ escriu que l’arrel no s’ofereix per __app_name__, però per algun tipus d’abracadabra?"</string>
+    <string name="help_faq_17_a">Com que __app_name__ l’utilitza per ocultar-se de la detecció mitjançant anti-trucs.</string>
+    <string name="help_faq_18_q">Per què el __app_name__ de les versions més recents de vegades es detecta amb anticheats, i de vegades no?</string>
+    <string name="help_faq_18_a">Com que __app_name__ utilitza coses diferents per ocultar-se de la detecció mitjançant anti-trampes. Això inclou un nom i una aplicació aleatoris del paquet. A cada instal·lació són diferents. Intenteu reinstal·lar el __app_name__ per regenerar-lo. Potser després d’aquest anti-trampa deixarà de veure el __app_name__.</string>
+    <string name="help_faq_19_q">"Per què no hi ha el meu joc a la llista d'aplicacions?"</string>
+    <string name="help_faq_19_a">Com que es tracta d’una llista d’aplicacions en execució i la vostra aplicació no s’executa. Executeu-lo i seleccioneu-lo al __app_name__.</string>
+    <string name="help_faq_20_q">Per què les aplicacions Java no poden respondre a speedhack a Android 5 i superiors?</string>
+    <string name="help_faq_20_a">Perquè Speedhack està dissenyat per a jocs amb biblioteques natives. La vostra aplicació no ho és. I com que Android 5 utilitzava l’entorn d’ART, en comptes de Dalvik, el que fa impossible interceptar els temporitzadors de Java. No feu res. La situació no canviarà en el futur.</string>
+    <string name="help_faq_21_q">Vaig utilitzar una altra eina Speedhack / hacking a Android 4 i tot funcionava. Ara poso el __app_name__ a Android 5 i superior, però aquests mètodes no funcionen. Per què?</string>
+    <string name="help_faq_21_a">"Perquè moltes coses han canviat i la vostra utilitat no funcionarà igual. No creeu les vostres il·lusions que aquest __app_name__ és tan dolent, però si hi hagués aquesta utilitat, doncs, eh! No hi ha tal cosa.
+Per provar-ho, instal·leu el __app_name__ a Android 4 i repetiu totes les mateixes accions que en aquesta utilitat. Com a resultat, tindràs èxit. Però això no vol dir que aquests mateixos mètodes funcionin amb Android 5 i superiors.
+Aquest fet es confirma de manera experimental i repetida."</string>
+    <string name="help_faq_22_q">Miro una mostra de vídeo / captures de pantalla i hi ha altres dades a l’editor de memòria. Per què?</string>
+    <string name="help_faq_22_a">Com que el vídeo / captura de pantalla té un format de sortida diferent. A l’editor de memòria, premeu el menú: seleccioneu \"__value_format__\" i configureu la sortida com hauria de fer.</string>
+    <string name="help_faq_23_q">Quan el valor està congelat, el joc comença a frenar o retardar-se. Per què?</string>
+    <string name="help_faq_23_a">Com que teniu en la configuració __app_name__ l’opció \"__hide_from_game__\" activada. Apaga-ho.</string>
+    <string name="help_faq_24_q">Com puc desactivar la comprovació de versions noves quan inicieu l’aplicació?</string>
+    <string name="help_faq_24_a">De cap manera.</string>
+    <string name="help_faq_25_q">"Com rebobinar el temps enrere a l'aplicació? És possible fer un salt de temps no cap endavant, però cap enrere?"</string>
+    <string name="help_faq_25_a">De cap manera. No pots. El temps sempre ha d’augmentar en cas contrari el joc pot fallar. Tanmateix, en les últimes versions hem afegit la possibilitat d’un salt de temps negatiu. El resultat pot ser un atemptat del joc o la pèrdua de dades. Tingueu en compte.</string>
+    <string name="help_faq_26_q">Vaig posar la icona i va desaparèixer. Com puc recuperar-lo?</string>
+    <string name="help_faq_26_a">La icona esdevé transparent, però encara podeu fer-hi clic. Feu clic a on estava i, a continuació, canvieu el paràmetre a través de la interfície.</string>
+    <string name="help_faq_27_q">Com puc cercar un valor si es mostra arrodonit amb el joc? Per exemple, 1.85M.</string>
+    <string name="help_faq_27_a">"Cerqueu l’interval de cerca. Els límits d’interval depenen de les regles d’arrodoniment. Per exemple, \"1845000__tilde__1854999\" per a l'arrodoniment estàndard."</string>
+    <string name="help_faq_28_q">Com puc cercar un valor percentual? Per exemple, 123__percent__.</string>
+    <string name="help_faq_28_a">Depèn de la implementació. Per a cada joc, tots poden ser diferents. Per exemple, 123__percent__. Pot ser __type_float__ o __type_double__ amb qualsevol valor. Igual que 1.23 o 123.0. O poden ser tipus sencers: __type_byte__, __type_word__, __type_dword__. Per exemple, 123 o 12300. A la sortida es pot dividir en algun nombre. 100 o 345 o qualsevol altra cosa. Per a cada joc pot ser diferent. Podeu provar els casos més evidents. Per al 123__percent__ pot ser 1.23 o 123. Tipus - __type_auto__. Si teniu la sort, pot ser el que necessiteu.</string>
+    <string name="help_faq_29_q">Què passa si el joc detecta __app_name__?</string>
+    <string name="help_faq_29_a">"Proveu les següents opcions (sols o en qualsevol combinació):
+\u0009- Habilitar el \"__hide_from_game__\" opcions. En general prou 2, 3 i 4 opcions.
+\u0009- No cancel·li la reinstal·lació __app_name__ amb un nom aleatori. Això es fa la primera vegada que s'executa __app_name__ fora de l'espai virtual.
+\u0009- Ús XPrivacy o utilitats similars. Cercar a Internet per saber com fer això.
+\u0009- Si té drets d'arrel, l'arrel del seu ús de l'espai virtual amb la instal·lació oculta d'aplicacions. Llegir més en el context d'ajuda per a l'ajust \"__vspace_root__\"."</string>
+    <string name="work_without_selinux">Canvia a treballar sense __selinux__ i reinicieu l’aplicació</string>
+    <string name="work_with_selinux">Canvia a treballar amb __selinux__ i reinicieu l’aplicació</string>
+    <string name="file">Dossier:</string>
+    <string name="file_not_found">Arxiu no trobat:</string>
+    <string name="export_selected">Exportació seleccionada</string>
+    <string name="failed_list_dir">No s’ha pogut llegir la llista de fitxers.</string>
+    <string name="change_float_type">Seleccioneu el tipus de finestres flotants</string>
+    <string name="reset_float_type">Restableix el tipus de finestres flotants</string>
+    <string name="mask">Màscara:</string>
+    <string name="mask_request">Introduïu una adreça per cercar</string>
+    <string name="help_mask_search_title">Cerca d’adreça (màscara)</string>
+    <string name="help_mask_search">"* Cerca d’adreça (màscara):
+\u0009Podeu cercar o filtrar per adreça amb màscara.
+
+\u0009Un exemple típic és cercar adreces que acabin amb un valor conegut. Per exemple, a \"12E\".
+
+\u0009Els paràmetres de cerca són l’adreça i la màscara.
+\u0009A l'adreça es poden utilitzar comodins (\"__question__\"). Aquest símbol significa que pot ser qualsevol caràcter de \"0\" a \"F\".
+\u0009Es forma una màscara addicional des de l’adreça, per la qual cosa els zeros principals són importants. Per tant, la cerca de \"0120\" i la cerca de \"120\" no és la mateixa cosa.
+\u0009En el primer cas es trobaran: \"00010120\", \"00020120\", \"00030120\" i així successivament. En el segon: \"00001120\", \"00002120\", \"00003120\" i així successivament.
+
+\u0009Podeu cercar tant la igualtat com la desigualtat indicada per la màscara. La segona opció pot ser útil per eliminar valors innecessaris.
+
+\u0009L’adreça i la màscara s’introdueixen al sistema hexadecimal i sense la lletra \"__hex__\" al final.
+\u0009La màscara obtinguda de l’adreça es creua amb la màscara que va introduir. Aquesta és la màscara de cerca resultant.
+
+Els exemples següents són equivalents, perquè la màscara resultant té el mateix - \"FF0\"
+__mask_example__
+"</string>
+    <string name="use_sound_effects">Utilitza efectes de so:</string>
+    <string name="from_range">De:</string>
+    <string name="to_range">A:</string>
+    <string name="resultant_mask">Màscara resultant:</string>
+    <string name="show_time_jump_panel">Mostra el panell de salt de temps:</string>
+    <string name="use_notification">Utilitza la notificació:</string>
+    <string name="show_gg">Mostra __app_name__</string>
+    <string name="hide_gg">Amaga __app_name__</string>
+    <string name="time_remaining">Temps restant:</string>
+    <string name="help_fill_title">Ompliu els valors (increment)</string>
+    <string name="help_fill">"* Valors d'ompliment (increment):
+\u0009Sovint passa que es troben massa valors, però no es poden canviar del joc.
+\u0009En aquest cas, el farciment s’ha salvat.
+
+\u0009Un exemple típic d’ús és la recerca del preu d’un article, amb un reemplaçament posterior per un element negatiu.
+
+\u00091. Seleccioneu els elements desitjats.
+\u00092. Seleccioneu \"__edit_selected__\".
+\u00093. Premeu el botó \"__more__\" per visualitzar el camp \"__increments__\", si aquest camp no està present.
+\u00094. Al camp \"__increments__\", introduïu el valor d'increment. Normalment, això és 1. I feu clic a \"__yes__\".
+\u00095. Els elements seleccionats rebran valors nous.
+\u00096. Aneu al joc i mireu com ha canviat el valor desitjat, passant per les pantalles dels jocs.
+\u00097. Si el valor no ha canviat, l'element desitjat no està seleccionat. Torneu al __app_name__ i utilitzeu el \"__delete_selected__\" -> \"__revert_and_remove__\", elimineu els elements seleccionats, retornant-los el valor anterior. Ara podeu provar-ho tot des del principi amb altres elements, si n'hi ha.
+\u00098. Si el valor ha canviat, l'element desitjat és un dels elements seleccionats. Recordeu el nou valor i torneu a __app_name__.
+\u00099. A la llista dels elements seleccionats, cerqueu el valor desitjat. Deseleccioneu-lo. Suprimeix tots els altres valors, utilitzant \"__delete_selected__\" -> \"__revert_and_remove__\", retornant-los el valor anterior.
+\u000910. Modifiqueu el valor de l’element desitjat tal com necessiteu.
+
+\u0009Els errors típics són l'eliminació sense revertir. Després d'això, el joc pot fallar.
+
+\u0009Si trobeu molts valors, intenteu omplir petites porcions per evitar accidents.
+"</string>
+    <string name="help_hint_1">* Si sempre trobeu els valors desitjats a la mateixa regió (lletres al final dels elements de la llista de resultats), només podeu seleccionar aquestes regions per obtenir una cerca més ràpida.</string>
+    <string name="help_faq_30_q">__app_name__ cerca valors molt lentament i durant molt de temps a l’emulador d’Android al PC.</string>
+    <string name="help_faq_30_a">"El més probable és que tingueu virtualització desactivada al BIOS del PC. Encendre'l.
+__app_name__ s'executa dins de l’emulador, de manera que la velocitat del seu funcionament depèn de la velocitat de l’emulador.
+Si la virtualització està habilitada, però la velocitat encara és baixa, comproveu la configuració de l’emulador o utilitzeu un altre emulador.
+També podeu utilitzar l’altra eina - CheatEngine per a PC: cercarà més ràpidament i us donarà moltes funcions que mai no es faran al __app_name__."</string>
+    <string name="help_speed_up_title">Com accelerar la cerca</string>
+    <string name="help_speed_up">"* Com accelerar la cerca:
+\u00090. Si utilitzeu un emulador d'Android en un PC (BlueStacks, Droid4X, Andy, NOX, Memu, AMIDuOS, Windroy, AVD, Genymotion, Koplayer, Leapdroid, etc.), comproveu aquesta virtualització (Tecnologia VT, Tecnologia Vanderpool, Tecnologia de virtualització A la BIOS del PC, VTx, VT-d, VMX, Tecnologia Virtual, Intel-VT, AMD-V, SVM, IOMMU).
+\u00091. Si teniu molta memòria RAM, podeu emmagatzemar-hi les dades. Això accelera molt la cerca. Configureu el valor \"__data_in_ram__\" a \"__yes__\". En un emulador d’Android d’un PC, això pot frenar la cerca.
+\u00092. Si teniu poca memòria RAM, les dades s’emmagatzemaran a la targeta de memòria. Utilitzeu una targeta de memòria amb una alta velocitat d’escriptura i lectura.
+\u00093. També podeu especificar l’emmagatzematge de dades a la memòria interna del dispositiu, si és més ràpid que la targeta de memòria. Establiu el paràmetre \"__set_path__\" al camí desitjat.
+\u00094. On search, select only the desired regions. Avoid slow (\"__slow__\") and dangerous (\"__dangerous__\") regions.
+\u00095. També podeu especificar els límits del rang de memòria, per cercar-los, si els coneixeu. Feu clic al botó \"__more__\" al diàleg de cerca i introduïu els límits.
+\u00096. Busqueu només els tipus de dades desitjats. El tipus de dades \"__type_auto__\" és lent.
+\u00097. Inhabiliteu totes les opcions \"__hide_from_game__\" possibles.
+\u00098. Proveu amb \"__experimental__\" o \"__extended__\" a \"__memory_access__\". Aquestes opcions poden provocar un treball inestable.
+"</string>
+    <string name="help_faq_31_q">"Al cap d'una estona, la icona __app_name__ desapareix."</string>
+    <string name="help_faq_31_a">"Intenteu fer clic al lloc on es trobava la icona. Si aquesta interfície oberta __app_name__ obre, llavors la icona està oculta a la configuració o el firmware té errors amb la visualització de la icona.
+Si la interfície no s'obre, vol dir que __app_name__ s'ha descarregat de la memòria.
+Motius possibles:
+
+\u00091. No hi ha prou memòria RAM al dispositiu: el sistema __app_name__. Intenta utilitzar menys RAM. A la configuració __app_name__, no especifiqueu l’emmagatzematge de dades a la memòria RAM, no establiu un nombre gran de resultats visualitzats, descarregueu aplicacions \"extra\" de la memòria RAM, utilitzeu els anàlegs \"lleugers\" d’aplicacions que no es poden descarregar (per exemple, llançador ). En casos especialment dolents, reinicieu el dispositiu abans d'executar el __app_name__ amb el joc. Gairebé la totalitat del firmware sempre té una fuita de memòria RAM. Més temps després del reinici: menys RAM disponible.
+
+\u00092. Teniu un assassí de processos que mata __app_name__.
+
+Inhabiliteu els assassins o afegiu el __app_name__ a les seves excepcions.
+Els assassins són també tot tipus d '\"optimitzadors\" i \"milloradors\" de la memòria RAM.
+En general, vegeu la descripció del programari, si no ho sabeu és l’assassí o no.
+
+Per FlyMe: __app_name__ per algun motiu després d’uns minuts de treball descarregats, haureu de permetre treballar en segon pla per a __app_name__ i al vostre administrador d’arrels (normalment SuperSu).
+
+També podeu provar d’habilitar \"__use_notification__\" a la configuració __app_name__. De vegades això impedeix matar __app_name__."</string>
+    <string name="quick_start_title">Començament ràpid</string>
+    <string name="prevent_unload">Evita la descàrrega:</string>
+    <string name="hot_key">Tecla ràpida:</string>
+    <string name="hide">Amaga</string>
+    <string name="execute_script">"Executeu l'script"</string>
+    <string name="execute">Executeu</string>
+    <string name="another_script">Existeix un altre script. Interrompre-ho?</string>
+    <string name="interrupt">Interrompre</string>
+    <string name="script">Script:</string>
+    <string name="script_ended">L’escriptura ha finalitzat:</string>
+    <string name="paused">El joc s’ha aturat:</string>
+    <string name="by_pause_button">pel botó de pausa</string>
+    <string name="by_option">"amb l’opció '__s__'"</string>
+    <string name="new_search_short">Nou</string>
+    <string name="speedhack_loading">"S'està carregant speedhack ..."</string>
+    <string name="speedhack_loaded">Speedhack està carregat.</string>
+    <string name="busy_dialog_fail">No s’ha pogut mostrar el diàleg de progrés.</string>
+    <string name="site">Lloc</string>
+    <string name="help_xor_search_title">Cerca XOR</string>
+    <string name="help_xor_search">"* Cerca XOR:
+\u0009\u0009Si sabeu que el valor que necessiteu està xifrat amb una clau XOR que sempre està a la mateixa distància del valor, podeu utilitzar aquest mode per cercar pel valor desxifrat.
+\u00091. Canvieu a __app_name__ d'un joc.
+\u00092. Toqueu el botó \"__search_known_value__\" a la pestanya \"__search__\".
+\u00093. Introduïu un número de cerca i la distància de la clau XOR, separats per \"__mode_xor__\". Per exemple, per cercar el valor 100 amb una tecla a la distància 8, introduïu:
+\u0009\u0009\u0009100__mode_xor__8
+\u0009\u0009Per introduir símbols addicionals, utilitzeu el botó \"__btn_hex__\" del teclat intern.
+\u00094. Seleccioneu el tipus de dades adequat o trieu \"__type_auto__\" (si no esteu segurs) i altres opcions (si cal) i feu clic a \"__search__\".
+\u00095. Un cop finalitzada la cerca, es mostraran els resultats de la cerca a la llista.
+\u00096. Tornar al joc. Després de canviar el valor, torneu a canviar a __app_name__.
+\u00097. Repetiu la cerca XOR amb els canvis apropiats.
+\u00098. Si hi ha massa resultats, repetiu els passos 6 i 7.
+\u00099. Si queden alguns resultats, podeu provar de modificar, emmagatzemar o congelar el valor.
+
+\u0009Podeu utilitzar la cerca XOR amb la cerca de rang. Per exemple \"100__tilde__150__mode_xor__8\".
+\u0009Normalment, la cerca XOR és més lenta de la cerca habitual per números.
+\u0009Aquest mode no és compatible amb la cerca de grup o la cerca xifrada.
+\u0009La distància ha de ser de l'1 al 4096 inclusivament.
+\u0009Podeu introduir la distància en forma hexadecimal amb el símbol __hex__ al final: \"100__tilde__150__mode_xor__10h\".
+\u0009La distància ha de respectar els valors alineats. Per exemple, dword ha d'estar alineado amb un límit de 4 bytes. Aquesta cerca mitjana \"40__mode_xor__7\" és inútil per a dword perquè 7 no es pot dividir a 4.
+\u0009Combinar aquest mode amb un altre pot causar problemes al microprogramari dolent. Per exemple, si feu cerques habituals i després es refina en mode XOR, això pot provocar que es pengin o reinicieu el dispositiu. Això no ha de passar si la primera cerca es troba en aquest mode.
+\u0009No s’admet una cerca difusa d’aquest mode. Podeu combinar-lo, però el treball difús com és habitual i no respectar la vostra clau XOR amb la distància.
+\u0009El signe dels valors és respectat. És mig que podeu cercar un valor que no sigui igual, major, més petit i així successivament.
+\u0009En aquesta cerca, es consideren signats tots els valors.
+"</string>
+    <string name="help_faq_32_q">Quina és la diferència amb les versions HW / SW? I a qui he d’utilitzar?</string>
+    <string name="try_latest">Potser aquest script necessiti la versió més recent de __app_name__. Intenteu actualitzar a la versió més recent.</string>
+    <string name="help_string_search_title">Cerca de text (cadena, HEX, AoB)</string>
+    <string name="download_scripts">Baixeu scripts</string>
+    <string name="hide_icons">Amaga les icones del llançador</string>
+    <string name="select_mode">Seleccioneu el mode</string>
+    <string name="mode_string">Text</string>
+    <string name="mode_mixed">Mixt</string>
+    <string name="string_search_prompt">Introduïu un text per cercar, fins a __d__ bytes de longitud. Per exemple</string>
+    <string name="string_empty">"Heu d'introduir un text."</string>
+    <string name="string_not_found">No s’ha trobat el text \"__s__\".</string>
+    <string name="string_found">"S'han trobat __d__ coincidències per al text \"__s__\"."</string>
+    <string name="string_replace">Voleu substituir-los?</string>
+    <string name="string_replace_prompt">Introduïu el text per substituir \"__s__\". La longitud no és més de __d__ bytes.</string>
+    <string name="string_replaced">Substituïu \"__s__\" a \"__s__\" a __d__ llocs.</string>
+    <string name="need_allow_background">En aquest firmware, heu de permetre el funcionament del __app_name__ en segon pla, en la configuració del sistema.</string>
+    <string name="calculate_offset_xor">Calcula el desplaçament, XOR</string>
+    <string name="select_copy_item">Seleccioneu un element per copiar:</string>
+    <string name="landscape">Paisatge</string>
+    <string name="portrait">Retrat</string>
+    <string name="toolbar_buttons">Botons de la barra d’eines</string>
+    <string name="need_update_to">Necessiteu una versió més recent del __app_name__ per executar aquest script. Almenys la versió __s__. Teniu la versió __s__.</string>
+    <string name="default_mark">predeterminat</string>
+    <string name="default_">Per defecte:</string>
+    <string name="reset_button">Restableix</string>
+    <string name="help_hex_colors_title">"Colors a l'editor de memòria"</string>
+    <string name="help_hex_colors">"* __help_hex_colors_title__:
+Si la representació hexadecimal no és blanca, però el color, llavors el més probable és que aquest valor sigui el punter. El color indica quin tipus de memòria es refereix a aquest punter.
+Això pot ser __executable__ memòria, __writable__ o __read_only__. En casos rars, pot ser __writable_and_executable__ memòria."</string>
+    <string name="executable">executable</string>
+    <string name="writable">escriptible</string>
+    <string name="read_only">Llegeix només</string>
+    <string name="writable_and_executable">escrit i executable</string>
+    <string name="help_extract">Extraieu l’ajuda</string>
+    <string name="help_extract_done">L’ajuda s’extreu al __s__</string>
+    <string name="help_extract_fail">"S'ha produït un error en extreure l’ajuda:"</string>
+    <string name="try_arm_version">Proveu d’utilitzar la versió del __app_name__ amb el suport per a processadors ARM antics:</string>
+    <string name="back">esquena</string>
+    <string name="forward">Endavant</string>
+    <string name="no_previous">No hi ha entrades anteriors</string>
+    <string name="no_next">No hi ha entrades següents</string>
+    <string name="from_item">De l’article:</string>
+    <string name="from_context">Al menú contextual:</string>
+    <string name="from_boundary">Des del límit</string>
+    <string name="from_goto">Truqueu a Goto</string>
+    <string name="from_calc">De la calculadora de desplaçament:</string>
+    <string name="help_add_to_value_title">Opció \"__add_not_replace__\"</string>
+    <string name="help_add_to_value">"* __help_add_to_value_title__:
+Si aquesta opció està marcada, el valor introduït s’afegirà al valor existent i no el substituirà. Per exemple, l’element té un valor de 5 i heu introduït 7 al camp de valor. Si aquesta opció està marcada, l'element obtindrà un nou valor de 5 + 7, igual a 12. Si no està marcat, llavors 7.
+Podeu introduir valors positius i negatius.
+Aquesta opció és incompatible amb la congelació del valor."</string>
+    <string name="check_libs">"Comproveu l'arquitectura de les biblioteques de jocs:"</string>
+    <string name="arm_libs">"El joc està instal·lat amb biblioteques ARM, encara que a l'apk hi ha biblioteques x86.
+Speedhack i tot allò relacionat amb ell, no funcionarà.
+\"__skip__\" desactiva aquests controls. Podeu tornar a activar-lo a la configuració."</string>
+    <string name="manual_install">Podeu instal·lar el fitxer .apk manualment. Es troba al següent camí:</string>
+    <string name="as_text">Com a text (no es pot carregar)</string>
+    <string name="as_text_help">Desa la llista en format de text, convenient per a la lectura humana. No es pot carregar aquest format.</string>
+    <string name="help_pointer_search_title">Cerca de punter</string>
+    <string name="help_pointer_search">"Cerca valors que poden ser punters a l'adreça desitjada. Podeu especificar un límit màxim per a un possible desplaçament."</string>
+    <string name="all_memory">En tota la memòria</string>
+    <string name="offset_help">El límit màxim per a un desplaçament possible.</string>
+    <string name="typical_values">Valors típics</string>
+    <string name="su_command">Ordre de superusuari</string>
+    <string name="starts">Comença amb</string>
+    <string name="ends">Acaba amb</string>
+    <string name="no_filter">Sense filtre.</string>
+    <string name="help_memory_filter_title">Filtrat a l’editor de memòria</string>
+    <string name="help_memory_filter">"* __help_memory_filter_title__:
+Podeu especificar un filtre a l’editor de memòria. Només es mostraran els resultats que coincideixin amb el filtre.
+El filtre suporta comodins:
+\u0009__caret__: l'inici de les dades,
+\u0009__dollar__: el final de les dades,
+\u0009__asterisk__: qualsevol nombre de caràcters,
+\u0009__question__: el que és qualsevol personatge.
+Per exemple, per trobar el número 42, heu d'introduir el __caret__42__dollar__."</string>
+    <string name="use_sh">"Utilitzeu l'intèrpret d'ordres de comandaments"</string>
+    <string name="backgrounds">Fons negre</string>
+    <string name="actions">Accions:</string>
+    <string name="game_settings">Configuració del joc:</string>
+    <string name="global_settings">Configuració global:</string>
+    <string name="ui_settings">Configuració de la IU:</string>
+    <string name="others">Altres:</string>
+    <string name="skip_memory">Saltar àrees de memòria:</string>
+    <string name="empty_memory">Buit</string>
+    <string name="without_protection">sense protecció</string>
+    <string name="help_games_protection_title">Com evitar la protecció en els jocs</string>
+    <string name="help_games_protection">"\u0009Alguns jocs disposen de protecció contra editors de memòria. Podeu provar el següent:
+\u00091. \"__kill_game__\" i després \"__restart_game_without_protection__\".
+\u00092. \"__disable_protection__\" i executeu (o reinicieu) el joc.
+\u00093. Utilitzeu tots o part dels elements de \"__hide_from_game__\". Tots ells frenen la cerca.
+\u00094. Cerqueu quan el joc estigui minimitzat.
+\u00095. Cerqueu quan el joc estigui en pausa.
+\u00096. Matar o aturar alguns dels processos de protecció del joc, si el joc té diversos processos.
+\u00097. Utilitzeu les eines XPrivacy o similars per evitar la protecció.
+\u00098. Utilitzeu la modificació del joc sense protecció.
+"</string>
+    <string name="disable_protection">Inhabilita la protecció per a totes les aplicacions (fins a reiniciar)</string>
+    <string name="must_restart_if">Si executeu el joc abans de desactivar la protecció, heu de reiniciar-lo.</string>
+    <string name="patch_loading">"S'està carregant el pegat ..."</string>
+    <string name="patch_loaded">Es carrega el pegat.</string>
+    <string name="patch_failed">No es carrega el pegat.</string>
+    <string name="history_limit">Límit de la història:</string>
+    <string name="copy_as_search">Copieu com a cerca de grup</string>
+    <string name="add_types">Afegiu tipus</string>
+    <string name="add_size">Afegeix la mida del grup</string>
+    <string name="copy_rhex_value">Copieu el valor hexadecimal invers:</string>
+    <string name="mips_arch">"Aquesta aplicació no suporta l'arquitectura MIPS."</string>
+    <string name="unrandomizer">Unrandomizer</string>
+    <string name="functions">funcions</string>
+    <string name="help_unrandomizer">"
+L’unrandomizer és una característica dissenyada per substituir determinades funcions comunament utilitzades en els jocs per produir valors aleatoris. A un nivell molt simple llavors, per exemple, hi pot haver un joc que utilitza una funció d’aleatorització per determinar la recompensa del jugador. L’habilitació de l’unrandomizer faria que __app_name__ intentés substituir aquest valor aleatori amb el valor especificat per canviar el resultat (per exemple, per obtenir una determinada recompensa).
+
+El programari no funcionarà en tots els casos. Només gestionarà funcions que coneix. En la majoria dels casos i per a la majoria d’usuaris, això no s’utilitzarà, ja que és una característica més avançada / experimental.
+
+Algunes funcions tornen a __type_qword__, algunes de les quals són __type_double__ (rarament utilitzades).
+
+Els valors __type_double__ han d'estar en un interval de 0 a 1. Tanmateix, podeu especificar-hi qualsevol valor, perquè __app_name__ corregirà totes les variants incorrectes automàticament.
+
+També podeu especificar un pas d’increment. En aquest cas, cada resultat posterior augmentarà per aquest valor. Per exemple, per a l'increment 1 i el valor inicial 0, en lloc d'un valor aleatori, es retornaran 0, 1, 2, 3, ...
+Aquesta opció pot ser útil per a una cerca completa de tots els possibles resultats aleatoris.
+
+Podeu especificar quines funcions cal modificar a la configuració __app_name__.
+"</string>
+    <string name="count_replace">Quants primers resultats ha de substituir?</string>
+    <string name="unrandomizer_loading">Carregant unrandomizer ...</string>
+    <string name="unrandomizer_loaded">Es carrega Unrandomizer.</string>
+    <string name="warn_restart_off_prot">"Aquesta opció intentarà reiniciar el joc sense protecció.
+Tanmateix, molts firmware contenen errors que poden provocar que el dispositiu es reiniciï.
+Si això passa, no intenteu tornar a iniciar el joc, ja que reiniciarà el dispositiu.
+Simplement executeu __app_name__: esborrarà la configuració incorrecta.
+També podeu provar de reiniciar el dispositiu de manera regular, i això també hauria de solucionar el problema.
+
+Si s’ha produït el reinici - no utilitzeu aquesta funció, no funcionarà amb el vostre microprogramari."</string>
+    <string name="warn_patch_off_prot">"Aquesta opció intentarà corregir el sistema (temporalment) de manera que totes les aplicacions s'executin sense protecció.
+Els canvis s’aplicaran només a les noves aplicacions. Per tant, cal que reinicieu l’aplicació de destinació, després d’un pegat d’èxit.
+Per cancel·lar el pegat, només cal que reinicieu el dispositiu.
+Potser hi haurà diversos errors al sistema, després d’aquest pegat.
+
+Si el pegat té èxit, no es recomana executar aquesta funció abans de tornar a arrencar el dispositiu.
+
+Si teniu problemes, no utilitzeu aquesta funció."</string>
+    <string name="clear_history">"Esborreu l'historial d'entrada"</string>
+    <string name="clear_history_warn">Esborraran totes les entrades, incloses les incloses.</string>
+    <string name="click_edit">Feu clic aquí per editar</string>
+    <string name="ignore_unknown_chars">Ignora caràcters desconeguts:</string>
+    <string name="need_root_mode">Aquesta funció requereix un accés root. Actualment, el __app_name__ s’executa en un mode d’entorn virtual sense accés root.</string>
+    <string name="work_without_root_title">Treballa sense arrel</string>
+    <string name="work_without_root">"__app_name__ pot treballar sense root, a través d’un entorn virtual. Per exemple, a través de __vspace_list__ i molts altres.
+__app_name__ s'ha d'instal·lar en un entorn virtual. El joc també s'ha d'instal·lar allà.
+No totes les funcions del programa són compatibles, però la majoria de funcions haurien de funcionar.
+
+No podreu trencar jocs que no estiguin instal·lats en un entorn virtual.
+
+El primer llançament del __app_name__, que realitza una reinstal·lació amb un nom de paquet aleatori, no s'ha de realitzar a través d’un entorn virtual.
+A continuació, podeu afegir __app_name__ a l’entorn virtual i utilitzar-lo."</string>
+    <string name="help_game_not_listed_title">Per què el meu joc no es troba a la llista de processos?</string>
+    <string name="fractional_hint">"La part fraccional d’un nombre real \"x\" és l’excés més enllà de la part sencera d’aquest nombre.
+Per a un nombre, la seva part fraccional correspon, doncs, als dígits que apareixen després del punt de radix.
+
+Per exemple:"</string>
+    <string name="pointer">Punter:</string>
+    <string name="help_search_filter_title">Filtres a la recerca</string>
+    <string name="help_search_filter">"Podeu filtrar els resultats de la cerca.
+Podeu especificar:
+\u0009- els límits de l’adreça,
+\u0009- els límits del valor,
+\u0009- els tipus de dades necessaris,
+\u0009- la part fraccionària desitjada del nombre,
+\u0009- el tipus de punter desitjat.
+Podeu combinar tots els filtres entre ells.
+També podeu desactivar un o qualsevol dels filtres en qualsevol moment.
+
+Tanmateix, si es troba una gran quantitat de dades, els filtres poden frenar els resultats.
+
+Un filtre de la part fraccional d’un nombre pot ser per igual o desigualtat.
+Per als tipus sencers, la part fraccional és zero. Si no necessiteu tipus sencers, excloeu-los amb un filtre de tipus.
+
+El tipus de filtre per punter permet deixar a la sortida només els valors que poden ser un punter al tipus de memòria desitjat.
+Els possibles tipus de memòria corresponen als colors de l’editor de memòria:
+Això pot ser __executable__ memòria, __writable__ o __read_only__. En casos rars, pot ser __writable_and_executable__ memòria.
+
+El pseudo-tipus \"sense punter\" correspon a tot tipus de dades que no poden ser punters, i també a aquells valors de punters que apunten a la memòria no assignada."</string>
+    <string name="unmount_kill">"La targeta de memòria no s’ha desmuntat, mentre que __app_name__ hi ha emmagatzemat fitxers temporals. Això va provocar el tancament forçat del dimoni.
+
+Per evitar que això passi, especifiqueu una ruta diferent als fitxers temporals. Per exemple, a la memòria interna.
+Hi hauria d'haver prou espai lliure."</string>
+    <string name="calls">Mode de trucades del sistema:</string>
+    <string name="alternative">Alternativa</string>
+    <string name="help_calls">"En alguns firmware, per exemple, Lenovo, el mode alternatiu pot funcionar més ràpid.
+
+Normalment, no necessiteu canviar aquesta opció."</string>
+    <string name="help_context_title">Ajuda contextual</string>
+    <string name="help_context">"A la interfície, alguns elements estan marcats amb una icona especial, a la part superior dreta, amb el símbol __i__ al cercle.
+En prémer o prémer llargament aquest element, es mostra ajuda sobre aquest element."</string>
+    <string name="waitpid_mode">Mode __waitpid__:</string>
+    <string name="help_waitpid">"En alguns firmware, la trucada del sistema __waitpid__ no funciona com s'esperava. Això sol ser degut a una configuració incorrecta de SeLinux.
+Això porta a una recerca interminable al __app_name__.
+Podeu provar d’utilitzar un mode alternatiu. Potser això funcionarà."</string>
+    <string name="microseconds_short">μs</string>
+    <string name="small_is_bad">Valors massa petits poden causar una càrrega elevada al processador i es queda en el joc.</string>
+    <string name="freeze_interval_help">L’interval a través del qual __app_name__ sobreescriu els valors de la memòria del joc.</string>
+    <string name="saved_list_update_interval_help">L’interval a través del qual __app_name__ actualitza els valors de la llista desada.</string>
+    <string name="icons_size_help">"La mida de les icones de la interfície __app_name__.
+No s'aplica a una icona flotant."</string>
+    <string name="ignore_unknown_chars_help">Podeu ajudar a resoldre problemes quan copieu números de llocs diferents si es copien caràcters especials juntament amb els números.</string>
+    <string name="use_notification_help">"Ús de notificacions a l'àrea de notificació del sistema d'Android.
+En alguns firmware, això augmenta la prioritat de l’aplicació i evita que es tanqui.
+També podeu utilitzar la notificació per anar a __app_name__ o al joc fent clic a sobre.
+Això pot ser útil si no podeu fer clic a la icona flotant."</string>
+    <string name="use_sound_effects_help">"El sistema sona quan premeu botons i elements.
+En alguns firmware, els sons fan que el __app_name__ es bloquegi."</string>
+    <string name="keyboard_help">El teclat intern ocupa menys memòria, es carrega més ràpidament i està optimitzat per introduir números.</string>
+    <string name="allow_suggestions_help">"Consells d'un teclat extern.
+En alguns firmware, els consells fan que el __app_name__ es bloquegi."</string>
+    <string name="autopause_help">Posa automàticament el joc en pausa en obrir la interfície __app_name__.</string>
+    <string name="killed_by">L’aplicació \"__s__\" va tancar forçadament el __app_name__. Per evitar-ho, elimineu aquesta aplicació o configureu-la de manera que no finalitzi el __app_name__.</string>
+    <string name="killers_found">"Heu instal·lat aplicacions que puguin tancar forçadament el __app_name__:
+__s__
+Per evitar-ho, elimineu-los o configureu-los de manera que no finalitzin el __app_name__.
+
+Si no teniu problemes amb el tancament inesperat del __app_name__, no cal fer cap acció i podeu ignorar aquest missatge."</string>
+    <string name="record_logcat">Registre __logcat__</string>
+    <string name="record_logcat_info">"__app_name__ es reiniciarà amb la gravació del fitxer __logcat__:
+\"__s__\".
+
+Per finalitzar la gravació, sortiu del __app_name__.
+Després, podeu enviar el fitxer de registre al lloc on el necessiteu."</string>
+    <string name="need_uninstall">Heu de desinstal·lar l’instal·lador, en cas contrari tindreu 4 icones, no 2. També es detectaran els jocs.</string>
+    <string name="need_random_name">"__app_name__ utilitza el nom del paquet estàndard. Els jocs poden detectar-ho.
+
+Per solucionar això, executeu __app_name__ fora de l’espai virtual com a aplicació normal.
+Un cop finalitzada la instal·lació, afegiu una còpia del __app_name__ amb un nom aleatori a l'espai virtual."</string>
+    <string name="work_mode">Mode de treball</string>
+    <string name="root">arrel</string>
+    <string name="no_root">sense arrel</string>
+    <string name="how_no_root">"Heu d’instal·lar l’aplicació d’espai virtual. Com ara: __vspace_list__.
+
+Es recomana instal·lar versions optimitzades des del lloc oficial __app_name__.
+
+A continuació, heu d’afegir el __app_name__ i el vostre joc a aquest espai virtual.
+
+Després haureu d'executar el joc i __app_name__ a l'espai virtual."</string>
+    <string name="eperm_error_descr_0">Motius possibles:</string>
+    <string name="eperm_error_descr_1">Protecció en el joc.</string>
+    <string name="eperm_error_descr_2">Un altre depurador o cracker està connectat al joc.</string>
+    <string name="eperm_error_descr_3">Permisos insuficients. Normalment, a causa de la configuració incorrecta de __selinux__. Inhabiliteu o configureu __selinux__.</string>
+    <string name="eperm_error_descr_4">Nucli o microprogramari inadequat. Proveu un altre microprogramari o un altre dispositiu.</string>
+    <string name="eperm_error_descr_5">Al vostre microprogramari, el mode \"no root\" no funciona. Proveu un altre microprogramari o un altre dispositiu o obtingueu l’arrel.</string>
+    <string name="ptrace_bypass_mode">Mode de bypass per a la protecció ptrace:</string>
+    <string name="mode_restore">restaurar</string>
+    <string name="mode_nothing">res</string>
+    <string name="mode_freeze">congelar</string>
+    <string name="ptrace_bypass_mode_help">"Indica què cal fer després de desactivar la connexió de protecció:
+\u0009__mode_restore__: restaura la connexió
+\u0009__mode_nothing__: no feu res (en general, la protecció mateixa restaura la connexió)
+\u0009__mode_freeze__: congela el fil (com en versions anteriors)
+
+Si restaureu la protecció o bé podeu protegir-la, la congelació de valors al __app_name__ pot provocar retards a causa de la connexió / inhabilitació permanent de la protecció."</string>
+    <string name="slow_emulator">"Esteu utilitzant l’emulador \"__s__\". És lent i conté errors. Per això, la cerca pot ser molt lenta.
+
+Us recomanem que utilitzeu altres emuladors:"</string>
+    <string name="text">Text</string>
+    <string name="show_debug_info">Mostra informació de depuració</string>
+    <string name="mnt_expand">"__app_name__ està instal·lat en una targeta de memòria que s'utilitza com a \"Emmagatzematge intern\".
+Això pot interferir amb el funcionament dels espais virtuals.
+En aquest cas, instal·leu el __app_name__ a la memòria interna del dispositiu.
+És possible que hàgiu de tornar a formatar la targeta de memòria com a \"Emmagatzematge portàtil\"."</string>
+    <string name="help_game_not_listed_root">"El joc ha d'estar en execució per seleccionar-lo.
+
+Si el joc s'està executant, però encara no es troba a la llista, potser teniu problemes amb l’arrel o el microprogramari.
+Proveu amb un altre root o un altre microprogramari."</string>
+    <string name="help_game_not_listed_noroot">"El joc s’ha de llançar a l’espai virtual perquè pugui ser seleccionat.
+
+No podeu seleccionar un joc si no s'està executant a l’espai virtual.
+
+Si el joc s’executa a l’espai virtual, però encara no es troba a la llista, proveu un altre espai virtual, un altre microprogramari, un altre dispositiu o obtingueu un root."</string>
+    <string name="daemon_killed_oom">"El sistema va matar el dimoni a causa de la manca de memòria.
+
+Establiu \"__data_in_ram__\" a \"__no__\".
+Utilitzeu l'acceleració de maquinari de la interfície, si és possible.
+No utilitzeu aplicacions grans.
+Inhabiliteu totes les altres aplicacions no utilitzades.
+Intenta utilitzar __app_name__ després de reiniciar el dispositiu."</string>
+    <string name="selected_as_search_result">Seleccionat com a resultat de la cerca</string>
+    <string name="clear_results_prompt">Això substituirà els resultats de la cerca actuals. Voleu continuar?</string>
+    <string name="position_in_memory_editor">Posició a l’editor de memòria</string>
+    <string name="script_prompt_internet">"El guió vol accedir a Internet. Si autoritzeu l’accés, l’escriptura podrà robar les vostres dades d'accés, contrasenyes, desament i altres dades del joc. També serà capaç de robar els vostres altres scripts o descarregar-los al vostre dispositiu.
+
+Permetre l’accés d’escriptura a Internet?"</string>
+    <string name="level">Nivell</string>
+    <string name="float_prompt">"Per executar correctament el __app_name__ al vostre microprogramari, heu de permetre l’ús de finestres emergents a la configuració del sistema per al __s__.
+
+La finestra emergent no apareix als telèfons Huawei per defecte. Haureu de permetre que el __s__ mostri elements emergents. Obriu el gestor de telèfons i, a continuació, la gestió de la zona de descàrregues i assegureu-vos que estigui activat per al __s__.
+
+El Popup també no es mostra en alguns telèfons Xiaomi. Heu de dirigir-vos a Configuració -> Aplicacions instal·lades -> __s__ -> Altres permisos -> Mostra finestra emergent.
+
+A més, altres telèfons poden tenir diferents procediments per permetre que les aplicacions mostrin finestres emergents. Totes aquestes aplicacions solen estar afectades d’aquesta manera, per exemple, l’aplicació de Google Translator amb la funcionalitat Tap To Translate. Per tant, només podeu anar a Google \"YOUR_PHONE toqueu per traduir\" per trobar la solució. Per exemple, per als dispositius Xiaomi Redmi, la solució és la següent:"</string>
+    <string name="virtual_space">"Aplicació de l'espai virtual"</string>
+    <string name="prevent_unload_help">"Eviteu la descàrrega de la memòria __app_name__ (tancament de força).
+
+Cada nivell posterior és més poderós que l’anterior i l’inclou en si mateix.
+
+El tercer nivell pot causar problemes (penjar-se, reiniciar o fallar) en alguns firmware i emuladors.
+
+Sense arrel, només funciona el tercer nivell."</string>
+    <string name="integer_type">Aquest tipus de dades només és per a valors enters i no admet valors fraccionats. Utilitzeu __type_float__ o __type_double__ per a valors fraccionaris.</string>
+    <string name="without_float">També podeu utilitzar __app_name__ sense finestres flotants:</string>
+    <string name="any_value">qualsevol valor</string>
+    <string name="help_group_search_any_value">"Podeu utilitzar el __any__ en una cerca de grup ordenada juntament amb la mida mínima per especificar qualsevol valor d'aquest tipus a la posició desitjada."</string>
+    <string name="help_scripts_title">Scripts</string>
+    <string name="help_scripts">"* __help_scripts_title__:
+__app_name__ admet l’execució d’escriptures escrites a Lua.
+
+A la pestanya de cerca, feu clic al menú i seleccioneu \"__execute_script__\".
+Aquí podeu seleccionar el fitxer d’escriptura per a l’execució, veure els mètodes existents de l’API __app_name__ o accedir al lloc oficial per llegir l’ajuda de l’API o descarregar scripts preparats.
+A més, podeu extreure l’ajuda de l’API de la targeta de memòria per llegir-la sense Internet.
+
+Si voleu escriure el vostre propi script, necessitareu un editor de fitxers de text extern.
+__app_name__ no permet scripts d'edició, només els executa.
+
+Llegiu l’ajuda de l’API per obtenir més detalls."</string>
+    <string name="help_floating_icon_absent">Si després de fer clic al botó \"__start__\" no veieu una icona flotant:</string>
+    <string name="remove_all2">Esborra-ho tot</string>
+    <string name="debug_load">Voleu omplir totes les càrregues de codi</string>
+    <string name="debug_log">Registre de les trucades d’escriptura</string>
+    <string name="vspace64">"Heu executat el __app_name__ en un espai virtual que admet processos de 64 bits.
+
+__app_name__ no veurà que s'executin processos de 32 bits en aquest espai.
+
+Instal·leu la segona còpia del __app_name__ al mode \"__for32__\" si voleu treballar al __app_name__ amb processos de 32 bits."</string>
+    <string name="folder_new">Carpeta nova</string>
+    <string name="folder_exists">Aquesta carpeta ja existeix</string>
+    <string name="folder_file">Hi ha un fitxer amb aquest nom</string>
+    <string name="folder_failed">No s’ha pogut crear la carpeta</string>
+    <string name="force_close">"El tancament de l’aplicació anterior no era previst.
+
+Podeu augmentar el nivell de configuració \"__prevent_unload__\" per evitar-ho en el futur."</string>
+    <string name="help_force_close_title">Apagat inesperat</string>
+    <string name="install_mode">Mode d’instal·lació</string>
+    <string name="for32">"Per als jocs de hack de 32 bits a l'espai virtual de 64 bits"</string>
+    <string name="for64">"Per a jocs de hack de 64 bits a l'espai virtual de 64 bits"</string>
+    <string name="reset_ignore">Restableix tots els ignorats per a tots els diàlegs</string>
+    <string name="allocate_fail">No s’ha pogut assignar la pàgina de memòria. Error</string>
+    <string name="allocated">Pàgina de memòria assignada:</string>
+    <string name="allocate_page">Assigneu la pàgina de memòria</string>
+    <string name="prot_read">Es pot llegir</string>
+    <string name="prot_write">Es pot escriure</string>
+    <string name="prot_exec">Es pot executar</string>
+    <string name="install_finished">"La instal·lació va tenir èxit.
+Executeu la còpia instal·lada manualment de manera que pugui migrar les vostres dades.
+Després d'això, es pot eliminar l’instal·lador."</string>
+    <string name="odd_vspace">"__app_name__ llançat a l'espai virtual?"</string>
+    <string name="record_script">Grava el guió</string>
+    <string name="record">Registre</string>
+    <string name="another_record">"Existeix un altre registre. Atura't?"</string>
+    <string name="record_ended">"S'ha completat la gravació:"</string>
+    <string name="stop">Stop</string>
+    <string name="could_not_use">No s’ha pogut utilitzar:</string>
+    <string name="not_optimized2">"Esteu utilitzant una versió no optimitzada de l’espai virtual (\"__s__\").
+Per solucionar aquest error, elimineu la versió no optimitzada de \"__s__\" i instal·leu un dels espais virtuals optimitzats del lloc oficial __app_name__.
+Feu clic a \"__fix_it__\" per anar a la selecció d’espais virtuals optimitzats."</string>
+    <string name="fix_path">Espai lliure o especifiqueu una ruta diferent per als fitxers temporals fent clic a \"__fix_it__\".</string>
+    <string name="deep_read">Lectura profunda:</string>
+    <string name="help_deep_read">"Llegir memòria per tots els mètodes disponibles, si no es pot llegir.
+Pot disminuir les lectures de memòria."</string>
+    <string name="ptrace_fail">No s’ha pogut canviar la memòria a través de ptrace.</string>
+    <string name="ptrace_fail_partially">Algunes funcions, speedhack i tot allò relacionat, no funcionarà. No és possible escriure a la memòria de només lectura (inclòs el codi).</string>
+    <string name="ptrace_fail_full">La majoria absoluta de les funcions no funcionarà.</string>
+    <string name="ptrace_fail_solve">"El motiu típic és un nucli trencat al microprogramari.
+Proveu de canviar el microprogramari. Si l'heu actualitzat recentment, instal·leu la versió anterior.
+
+Si no funciona, canvieu el dispositiu."</string>
+    <string name="feature_hide_4">Aquesta funció no pot funcionar si el quart element està seleccionat a \"__hide_from_game__\".</string>
+    <string name="feature_firmware">Aquesta característica no pot funcionar sense ptrace, que no funciona amb aquest firmware.</string>
+    <string name="feature_protection">Aquesta característica no pot funcionar a causa de la protecció ptrace al joc.</string>
+    <string name="not_file">"El camí d'accés no és un fitxer:"</string>
+    <string name="not_execute">No es pot executar:</string>
+    <string name="check_install">Comproveu que el __app_name__ estigui instal·lat correctament.</string>
+    <string name="sdcard_install">Si el __app_name__ està instal·lat a l’emmagatzematge extern (targeta SD), torneu-lo a la memòria interna</string>
+    <string name="change_address_type">Canviar adreça / tipus</string>
+    <string name="bad_offset">El desplaçament no és un múltiple de __d__.</string>
+    <string name="bad_result_address">L’adreça resultant no és un múltiple de __d__.</string>
+    <string name="correct_types">Els elements __d__ canviaran el seu tipus per corregir l’alineació impossible.</string>
+    <string name="reinstall_fail">"No es pot reinstal·lar el __app_name__ amb un nom aleatori.
+
+__app_name__ es poden detectar fàcilment mitjançant jocs.
+
+Podeu gravar el __logcat__, durant la instal·lació, i poseu-vos en contacte amb el fòrum oficial per obtenir ajuda.
+
+Motiu de rebuig:"</string>
+    <string name="empty_field">Camp d’entrada de buit: cap nombre per convertir</string>
+    <string name="need_integer">Heu de seleccionar un enter per convertir.</string>
+    <string name="maps_failed">No s’ha pogut obrir el fitxer \"__maps__\".</string>
+    <string name="game_protected">El joc està protegit.</string>
+    <string name="need_root">Necessiteu root per piratejar aquest joc.</string>
+    <string name="vspace_error">"El problema de l’espai virtual, del microprogramari o del dispositiu.
+
+Prova:
+\u0009- utilitzar un altre espai virtual
+\u0009- Utilitzeu un altre microprogramari
+\u0009- Obtenir root
+\u0009- Utilitzeu un altre dispositiu"</string>
+    <string name="root_error">"El problema del firmware o arrel o dispositiu.
+
+Prova:
+\u0009- Utilitzeu un altre microprogramari
+\u0009- Utilitzeu una altra arrel
+\u0009- Utilitzeu un altre dispositiu"</string>
+    <string name="vspace_root">Utilitzeu l’arrel en l’espai virtual:</string>
+    <string name="help_vspace_root">"L’ús d’arrel des d’espai virtual pot ajudar a ocultar el fet que hi hagi un __app_name__ al dispositiu.
+
+No funciona amb tots els firmware i no a tots els espais virtuals.
+
+L’espai virtual, el microprogramari i l’arrel haurien de permetre treballar amb l’arrel des de l’espai virtual.
+L’espai virtual us ha de permetre instal·lar aplicacions cap endavant sense instal·lar-les al sistema.
+
+No tots els espais virtuals poden proporcionar-ho.
+
+No tot el firmware d'aquesta manera funcionarà. I no amb totes les arrels.
+
+Atès que els drets root s’atorgaran a tot l’espai virtual, no hauríeu d’instal·lar res més. En cas contrari, qualsevol aplicació de l'espai virtual pot utilitzar drets root amb conseqüències impredictibles.
+
+El joc s'ha d’instal·lar fora de l’espai virtual.
+
+El __app_name__ només s'ha d’instal·lar a l’espai virtual sense instal·lar-lo al sistema.
+Com fer-ho: vegeu l’ajut d’un espai virtual concret.
+
+Per exemple, per a __vexp__, podeu clonar __app_name__ del sistema a __vexp__ i, a continuació, suprimir __app_name__ del sistema."</string>
+    <string name="help_games_protection_9">9. Utilitzeu root en espais virtuals que permetin instal·lar aplicacions en vosaltres mateixos sense instal·lar-lo al sistema.</string>
+    <string name="locale_ui">Al vostre entorn regional</string>
+    <string name="locale_script">Els scripts utilitzen sempre la configuració regional anglesa</string>
+    <string name="locale_desc">"'__s__' - separador decimal
+'__s__' - separador de milers
+'__semicolon__' - separador de números en la cerca de grup"</string>
+    <string name="help_unaligned_title">Cerca de cerca no alineada / cerca de big-endian</string>
+    <string name="help_unaligned">"En algunes aplicacions (per exemple, com els emuladors de consola), el valor de la memòria pot no respectar l'alineació o presentar-se en ordre de bytes de gran final.
+
+Aquest valor no es pot trobar a través d’una cerca normal.
+
+Per trobar-los, utilitzeu un script especial del lloc web oficial __app_name__:"</string>
+    <string name="help_formula_calculator_title">Calculadora de fórmules</string>
+    <string name="help_formula_calculator">"Gairebé a cada camp per introduir nombres, podeu introduir una fórmula matemàtica després del signe igual, per exemple, al camp de cerca introduïu '= 2 + 2 * 3' i el programa buscarà el resultat de la fórmula, que és, \"8\".
+La fórmula és una expressió Lua. Podeu utilitzar tot el poder de Lua disponible en ell.
+
+Tots els operadors aritmètics Lua 5.3 són admissibles: suma (+), resta (-), multiplicació (*), divisió (/), divisió restant (%), exponenció (^), divisió entera (//), etc.
+També estan disponibles els operadors de bits: AND (&amp;), OR (|), OR exclusiu (binari ~), NOT (unitari ~), Shift to the right (>>), Shift to the left (&lt;&lt;). L’ordre d’acció es pot donar entre claudàtors.
+Llegiu el manual de Lua per obtenir un llistat complet de les operacions disponibles.
+
+És útil si sabeu com es codifica el valor al joc. Per exemple, es poden trobar 29 rondes en un joc com a '= 29 ~ 444444'. Això equival a 29 XOR 444444. A la mostra del vídeo, el preu es va trobar a 3888 a través de XOR amb 444444, com a \"= 444444 ~ 3888\". Després d'això, es va fer la substitució a \"= 444444 ~ 1\", que va fixar el preu a \"1\". En un altre joc, 125 d'or és com \"= 125 * 10\".
+
+No totes les funcions de script estan disponibles a la calculadora de fórmules. Algunes funcions no estan disponibles. Si no en teniu prou: escriviu el vostre script, en comptes d’utilitzar una calculadora de fórmules, només està pensat per a càlculs senzills. Disponible: part de les funcions bàsiques, \"bit32\", \"taula\", \"cadena\", \"utf8\", \"matemàtiques\", part del paquet \"os\". Els paquets \"debug\", \"paquet\", \"gg\", \"io\" no estan disponibles.
+
+Quan escriviu '= 2 + 2 * 3', s'afegirà la paraula clau \"return\" abans de la fórmula: \"return 2 + 2 * 3\". Tanmateix, podeu especificar aquesta paraula tu mateix en una fórmula si necessiteu una fórmula complexa.
+Per exemple, '= a = 5; b = 7; retornar un * 4 + b * 8 's'executarà com a a 5; b = 7; retorna a * 4 + b * 8 '
+
+El resultat de la calculadora de fórmules és una cadena de text. La cadena pot ser qualsevol cadena vàlida per a aquest camp d’entrada.
+Per exemple, pot ser una cadena per a una cerca de grup o per a una cerca per rang. '= a = 5; b = 7; tornar un .. \";\" .. b .. \":: 100\" 'equival a \"5; 7:: 100 '
+
+La calculadora de fórmules no funciona en scripts, allà podeu utilitzar directament Lua.
+Quan s’escriu un script, el resultat del càlcul de fórmules s’escriurà al fitxer, no a la fórmula en si.
+
+Si la fórmula no és correcta, rebrà un missatge d'error quan envieu el formulari.
+
+Al calcular cal tenir en compte que els càlculs es realitzen en el tipus que especifica el primer operand. Si és un nombre enter, el resultat serà un nombre enter.
+Per exemple, '= 3/2' és '1' i '= 3,0 / 2' és '1,5'.
+
+Independentment de la locale escollida, les fórmules funcionen a la configuració regional anglesa. Això significa que el separador decimal sempre és un punt (\".\")."</string>
+    <string name="help_faq_32_b">"Dues icones de llançament. El primer, amb acceleració de programari - \"__app_short_name_sw__\", el segon, amb acceleració de maquinari - \"__app_short_name_hw__\". Ara sempre ho serà.
+En alguns firmwares només funciona una versió, en els dos normals.
+És millor utilitzar l’acceleració de programari, funciona menys bé, però consumeix menys memòria.
+
+Podeu amagar una de les icones a la configuració de l’aplicació: \"__hide_icons__\"."</string>
+    <string name="acceleration_help_">"Acceleració de la interfície de maquinari o programari __app_name__.
+Segons el joc i el microprogramari, algunes de les opcions poden causar problemes.
+Si tots dos funcionen, utilitzeu l’acceleració del programari perquè consumeix menys memòria.
+
+Aquesta opció està separada de les icones de llançament i només afecta la visualització de la interfície __app_name__.
+Els icones de llançament són responsables del tipus d’acceleració de la pantalla d’inici.
+
+L'acceleració de maquinari consumeix molta més memòria, però funciona amb més facilitat. Si teniu poca RAM, utilitzeu sempre l'acceleració de programari.
+
+Si l’acceleració de maquinari provoca errors, el __app_name__ pot canviar a l’acceleració del programari."</string>
+    <string name="small_list_items">Ítems de llista petits</string>
+    <string name="small_list_items_help">Us permet mostrar més informació a les llistes d’articles, però pot ser més difícil fer clic a l’element desitjat.</string>
+    <string name="format_asm_opcodes">__s__ opcodes</string>
+    <string name="no_regions">No s’ha trobat cap regió coincident.</string>
+    <string name="cannot_hide_launcher_icon">"Aquesta icona es va utilitzar per al llançament actual.
+
+No podeu ocultar la icona que s’utilitzava per al llançament actual.
+
+Reinicieu l’aplicació a través d’una altra icona per poder ocultar aquesta icona."</string>
+    <string name="screenshot">Feu una captura de pantalla</string>
+    <string name="screenshot_prompt">"La icona s’ocultarà per als __d__ segons perquè pugueu prendre una captura de pantalla.
+
+Després d'això, la icona tornarà a ser visible."</string>
+    <string name="screenshot_action">Captura de pantalla</string>
+    <string name="use_visible_type">Utilitzeu el tipus de dades visible a l’editor de memòria:</string>
+    <string name="use_visible_type_help">No demaneu el tipus de dades a l’editor de memòria si només es mostra un tipus de dades.</string>
+    <string name="wrong_float">A la vostra configuració regional, el número \"__s__\" sembla \"__s__\". Si no és el que necessiteu, seleccioneu un idioma (o idioma) diferent a la pantalla inicial.</string>
+    <string name="wrong_float2">A més, en els paràmetres __app_name__, podeu anul·lar la configuració regional per donar format als números.</string>
+    <string name="number_locale">Configuració local per a formatar els números:</string>
+    <string name="fill">Ompliu</string>
+    <string name="help_text_search">"
+Per cercar text, heu d’especificar modificadors al diàleg de cerca habitual.
+
+Les codificacions més utilitzades són __utf8__ i __utf16le__.
+Normalment, el __utf16le__ s'utilitza al __java__ i el __utf8__ s'utilitza al __c__.
+
+\u0009__utf16le__ és una codificació de dos bytes. Cada caràcter sempre està codificat en dos bytes, de manera que es representa a través del __type_word__.
+\u0009__utf8__: codificació amb grandària de byte variable per caràcter. Representat a través del __type_byte__.
+\u0009__hex_input__ i les seves variants estan sempre representades a través del __type_byte__.
+
+El joc pot utilitzar qualsevol de les codificacions.
+Si necessiteu un conjunt específic de bytes, utilitzeu el mode __hex_input__.
+
+Prefixos disponibles:
+__text_prefixes__
+
+Per al mode \"__hex_mixed__\", podeu especificar el text __utf8__ entre __apos__ caràcters i el text __utf16le__ entre __quot__ caràcters.
+
+Per exemple:
+__text_examples__
+
+El caràcter de prefix ha de ser el primer caràcter del text de cerca.
+
+El resultat de la cerca serà una seqüència __type_byte__ o una seqüència __type_word__ per al cas de __utf16le__.
+
+Es poden canviar els resultats: seleccioneu-ho tot i feu clic a \"__edit_selected__\".
+
+Al camp de valor, introduïu el valor nou, en el mateix format que per a la cadena de cerca.
+
+Podeu utilitzar els botons d’ompliment. Feu clic a \"__more__\" si no són visibles.
+
+El valor s’ha establert per a cada grup d’elements seguits contínuament.
+Si hi ha una bretxa entre els elements, serà un grup nou.
+
+Si especifiqueu més bytes del necessari, només s’utilitzaran una part d’ells.
+Si especifiqueu menys del necessari, llavors la resta del grup s'omplirà de zero bytes.
+
+Quan es substitueix el text, intenteu especificar text amb el mateix nombre de bytes que l’original per evitar problemes.
+"</string>
+    <string name="fast_freeze">Congelació ràpida:</string>
+    <string name="help_fast_freeze">"Funciona molt més ràpid que la congelació normal, però no per a tota la memòria.
+
+Si la congelació no funciona, inhabiliteu aquesta opció."</string>
+    <string name="debug_disassemble">Desmuntar</string>
+    <string name="assembled">Assemblat correctament al fitxer:</string>
+    <string name="warn_patch_off_prot2">"Si utilitzeu __magisk_hide__ - inhabiliteu-lo abans d’aplicar el pegat. Després d’aplicar correctament el pegat, podeu tornar a activar-lo.
+Si no, el pegat no tindrà èxit."</string>
+    <string name="help_games_protection_end">"
+Com amagar __app_name__ del joc a l'espai virtual
+
+\u00091. Instal·leu l’espai virtual, que permeti la instal·lació oculta de les aplicacions, sense instal·lar-les al sistema. Per exemple, __vspace_hide__.
+\u00092. Instal·leu __app_name__ a l’espai virtual.
+\u00093. Al __app_name__, activa el mode \"__vspace_root__\".
+\u00094. Concediu drets d’arrel a l’espai virtual. Si no podeu concedir drets d’arrel: proveu un altre espai virtual, altres drets d’arrel, un firmware diferent o canvieu el dispositiu.
+\u00095. Elimineu el sistema __app_name__.
+\u00096. Treballeu amb __app_name__ des de l’espai virtual.
+
+Per evitar la detecció durant la cerca:
+\u0009Seleccioneu els elements 2, 3 i 4 a la configuració \"__hide_from_game__\".
+
+Una solució típica (requereix arrel, sense que el root no triomfi):
+\u00091. Utilitzeu l’arrel des de l’espai virtual. Llegiu l’ajuda per a la configuració \"__vspace_root__\".
+\u00092. Utilitzeu els elements 2, 3 i 4 a la configuració \"__hide_from_game__\".
+"</string>
+    <string name="force_close_2">Podeu definir \"__data_in_ram__\" a \"__no__\" per evitar-ho en el futur.</string>
+    <string name="script_wrote">El guió va escriure __s__ __d__ a arxius.</string>
+    <string name="script_exit">sortida</string>
+    <string name="script_interrupted">El guió interromput.</string>
+    <string name="script_error">error de script</string>
+    <string name="script_oom">Sense memòria</string>
+    <string name="script_possible">"Sembla que vostè està tractant d'executar __s__ com un script."</string>
+    <string name="script_web">una pàgina web</string>
+    <string name="script_saved_list">una llista desada</string>
+    <string name="speedhack_no_x86">Però en aquest joc hi ha biblioteques x86, així que potser no funcionarà.</string>
+    <string name="help_faq_33_q">Missatges de text (torrades) romanen a la pantalla, o un cercle fosc és visible a la part inferior de la pantalla quan està treballant __app_name__. Com solucionar-ho?</string>
+    <string name="help_faq_33_a">Utilitzant el tercer nivell \"__prevent_unload__\" en certs firmware porta al fet que els missatges de text (torrades) romanen a la pantalla, o un cercle fosc és visible (missatge buit). Si això succeeix, no utilitzi el tercer nivell.</string>
+    <string name="invalid_header_1">capçalera script binari vàlid.</string>
+    <string name="unknown_version">versió desconeguda.</string>
+    <string name="unknown_format">format desconegut.</string>
+    <string name="unknown_endianness">endianness desconegut.</string>
+    <string name="unknown_size_s">de mida desconegut __s__.</string>
+    <string name="unknown_size_instr">Desconegut mida de la instrucció.</string>
+    <string name="unknown_size_num">Desconegut mida del nombre de Lua.</string>
+    <string name="expected_found">Esperava __s__ __s__ però es va trobar.</string>
+    <string name="or">o</string>
+    <string name="invalid_header_2">Executar la seqüència de totes maneres?</string>
+    <string name="invalid_header_3">"En futures versions de __app_name__, aquest script no pot executar-se.
+Escriure sobre això a l'autor del guió."</string>
+    <string name="skip_system_libs">Saltar biblioteques de sistema</string>
+    <string name="try_reinstall_x86">"Proveu tornar a instal·lar el joc amb x86 biblioteques?
+
+El joc pot deixar de funcionar després d'això. Si això succeeix, torneu a instal·lar el joc des del Apk situat a __data_app__."</string>
+    <string name="reinstall_started">Reinstal·lació començar ...</string>
+    <string name="reinstall_failed">Reinstal·lació va fallar:</string>
+    <string name="reinstall_ended">Reinstal·lació va completar.</string>
+    <string name="help_lasm_title">Desmuntatge / muntatge guions</string>
+    <string name="help_lasm">"__app_name__ té un predefinit desensamblador / assemblador per a scripts Lua.
+
+Es pot seleccionar l'opció \"__debug_disassemble__\" a la finestra de llançament guió, després de fer clic al botó \"__more__\".
+
+La __ext_lasm__ arxiu resultant pot ser editada i seleccionada a la finestra de llançament guió. El resultat serà un fitxer binari __ext_lua__, amb els canvis realitzats.
+
+Llegiu l'ajuda API de seqüència de comandaments per a més detalls.
+"</string>
+    <string name="help_hide_gg_title">Com amagar __app_name__ de el joc</string>
+    <string name="changed_as_search_result">Canviat com a resultat de la recerca</string>
+    <string name="changed_not_found">elements canviats no trobats.</string>
+    <string name="too_far">"Aquests valors no es poden trobar a través d'una recerca de grups, que estan massa separats: __d__ bytes. La distància màxima és de __d__ bytes."</string>
+    <string name="new_address">Nova adreça:</string>
+    <string name="hide_1_warn">Ha seleccionat el primer element. valors de congelació poden causar greus retards en el joc.</string>
+    <string name="hide_4_warn">Va seleccionar el quart punt. Algunes funcions no funcionaran: __speedhack__, __unrandomizer__, __allocate_page__.</string>
+    <string name="asm_failed">"Fallat en reconèixer __s__ codi d'operació:"</string>
+    <string name="asm_suggestion">Va voler dir: __s__?</string>
+    <string name="copy_opcode">"__s__ copiar codi d'operació:"</string>
+    <string name="search_nearby">Cerca pels voltants</string>
+    <string name="before">Abans</string>
+    <string name="after">després</string>
+    <string name="distance">distància:</string>
+    <string name="nearby">A prop de:</string>
+    <string name="need_fixer">"Es va detectar un problema amb aquest espai virtual de 64 bits.
+
+Per solucionar-ho:
+
+1. Instal·lar l'aplicació __fixer__. (A partir d'aquest quadre de diàleg, ja sigui manualment al llarg de la ruta:
+__s__
+).
+
+2. Afegir __fixer__ a l'espai virtual.
+
+3. Executar __fixer__ en l'espai virtual.
+
+4. Traieu __fixer__.
+
+5. Reinicieu el __app_name__ en l'espai virtual."</string>
+    <string name="limit">Només els primers resultats N:</string>
+</resources>

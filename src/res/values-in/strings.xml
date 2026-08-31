@@ -1,0 +1,1358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lang_code">~~~in~~~</string>
+    <string name="front_text">Apabila ada pertanyaan tentang __app_name__ atau cara penggunaannya, silahkan kunjungi forum kami di __forum__</string>
+    <string name="set_path">Lokasi sementara</string>
+    <string name="number">Angka:</string>
+    <string name="type">Jenis:</string>
+    <string name="name">Nama:</string>
+    <string name="reset">Pilih proses</string>
+    <string name="set_range">Pilih rentang memori</string>
+    <string name="search">Cari</string>
+    <string name="save">Simpan</string>
+    <string name="goto1">"Lihat "</string>
+    <string name="address">Alamat:</string>
+    <string name="edit_all">Ubah semua</string>
+    <string name="filter">Saring</string>
+    <string name="clear">Padam</string>
+    <string name="max_show_rec">Tampilkan:</string>
+    <string name="equal">Tidak diubah</string>
+    <string name="inequal">Diubah</string>
+    <string name="larger">Meningkat</string>
+    <string name="smaller">Berkurang</string>
+    <string name="compare_current_last">Berapa perubahan nilai?</string>
+    <string name="write_region_log">Tulis area pencatatan</string>
+    <string name="old_version">Versi lama</string>
+    <string name="found_old_version">Versi lama ditemui dari__app_name__. Anda mahu nyah-pasangkan?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="ok">OK</string>
+    <string name="failed_find_package_name">Nama paket aplikasi gagal ditemukan!</string>
+    <string name="path_for_temp_files">"Tentukan lokasi file sementara, contoh '__sdcard__'. Butuh beberapa ratus MB penyimpanan. Hasil pencarian sementara akan hilang."</string>
+    <string name="confirm">Konfirmasi</string>
+    <string name="cancel">Batal</string>
+    <string name="found_new_version">Versi baru __s__ ditemukan</string>
+    <string name="daemon_failed">Gagal menjalakan Daemon</string>
+    <string name="failed_run_daemon">Gagal menjalankan daemon. Apakah root sudah terinstall?</string>
+    <string name="daemon_unexpected_closed">Daemon tiba-tiba terhenti. Info:</string>
+    <string name="daemon_exited">Daemon berhenti</string>
+    <string name="failed_load_daemon">Gagal memuat daemon</string>
+    <string name="is_device_rooted">Tidak mendapat hak akses root</string>
+    <string name="collect_data_to_region_log">Mulai mengumpulkan data untuk ditulis di bidang log...</string>
+    <string name="log_saved">log disimpan ke __s__</string>
+    <string name="failed_save">Gagal menyimpan ke __s__</string>
+    <string name="region_log">Bidang Log</string>
+    <string name="apply">Terapkan</string>
+    <string name="error">Ralat</string>
+    <string name="load">Memuat</string>
+    <string name="delete_prompt">Apakah anda ingin menghapus item ini?</string>
+    <string name="reset_search">Ditemukan error. Reset penelusuran pencarian.</string>
+    <string name="unknown_error">Kesalahan tidak dikenal</string>
+    <string name="out_of_memory">Kehabisan memory</string>
+    <string name="bug_detected">Ditemukan bug</string>
+    <string name="disk_full">Penyimanan penuh</string>
+    <string name="io_error">Kesalahan IO</string>
+    <string name="game_dead">Permainan terhenti</string>
+    <string name="exit">Keluar</string>
+    <string name="skip">Abaikan</string>
+    <string name="unhandled_exception">Pengecualian tidak tertangani. Kirim info dibawah ini kepada tim pengembang?</string>
+    <string name="last_run_failed">Percobaan terakhir gagal</string>
+    <string name="thank_you">Terima kasih!</string>
+    <string name="no_application">Tidak ada aplikasi yang dipilih.</string>
+    <string name="increments">Kenaikan:</string>
+    <string name="add_not_replace">Tambah ke nilai, jangan diganti</string>
+    <string name="eperm_error">Tidak dapat menautkan proses (PTRACE_ATTACH): Operasi tidak di izinkan</string>
+    <string name="load_list">Muat daftar</string>
+    <string name="load_warning">Anda memuat daftar yang tersimpan dari game lain. Kemungkinan semua alamat di memori telah berubah dan data yang dimuat tidak sesuai dengan data yang telah disimpan sebelumnya. Kami menyarankan Anda untuk memeriksa masalah ini.</string>
+    <string name="from">Terselesaikan __d__ dari __d__ tahap.</string>
+    <string name="count_fuzzy_equal_run">"Jumlah waktu untuk dijalankan '__fuzzy_equal__':"</string>
+    <string name="slow">Lambat</string>
+    <string name="miui_restart">__app_name__ harus dijalankan ulang untuk menerapkan ijin keamanan.</string>
+    <string name="out_of_memory_error">Kekurangan memori. Daftar hasil saat ini telah dihapus. Silakan atur nilai yang lebih kecil untuk menampilkan hasil perhitungan.</string>
+    <string name="loading">Memuat...</string>
+    <string name="found_count">Ditemukan : __d__</string>
+    <string name="fuzzy_equal">Nilai tidak berubah</string>
+    <string name="fuzzy_inequal">Nilai berubah</string>
+    <string name="fuzzy_larger">Nilai bertambah</string>
+    <string name="fuzzy_smaller">Nilai berkurang</string>
+    <string name="type_edit_limit">Masukan nilai dari __s__ sampai __s__</string>
+    <string name="number_name">Angka</string>
+    <string name="step_name">Kenaikan</string>
+    <string name="number_less">"Angka '__s__' lebih kecil dari nilai minimum (__d__) untuk tipe ini."</string>
+    <string name="number_greater">"Angka '__s__' lebih besar dari nilai minimum (__d__) untuk jenis ini."</string>
+    <string name="about">Tentang</string>
+    <string name="owner">pemilik</string>
+    <string name="design">Perancang utama</string>
+    <string name="pm">Pengurus proyek</string>
+    <string name="code">Coder Utama</string>
+    <string name="tech">konsultan teknikal</string>
+    <string name="creator">Pencipta (pensiun)</string>
+    <string name="for_translators">Apabila anda ingin membantu menerjemahkan aplikasi ini, anda bisa menghubungi kami di forum http://gameguardian.net/forum, supaya terjemahan anda disertakan dalam rilis resmi aplikasi ini.</string>
+    <string name="version">Versi:</string>
+    <string name="developers">Pengembang:</string>
+    <string name="select_language">Pilih bahasa</string>
+    <string name="exit_confirm">__app_name__ harus di jalankan ulang untuk menerapkan perubahan.</string>
+    <string name="special_thanks">Ucapan terimakasih khusus untuk:</string>
+    <string name="nothing_found">Tiada ditemukan.Cuba cari lagi.</string>
+    <string name="try_more_ranges">Anda juga bisa mencoba memilih cakupan yang lebih luas pada bilah pengaturan.</string>
+    <string name="try_fuzzy_search">Anda juga bisa mencoba mencari nilai yang tidak diketahui.</string>
+    <string name="search_hint">"Untuk mencari nilai yang diketahui, tekan \"__search_known_value__\".
+jika nilainya tidak diketahui atau di enkripsi - tekan \"__search_unknown_value__\".
+Pencarian nilai float oleh bagian integer dapat dilakukan dengan memilih type type pencarian '__type_auto__'.
+Anda juga dapat melakukan pencarian grup dengan menggunakan '__semicolon__' sebagai pemisah."</string>
+    <string name="freeze">Pembekuan:</string>
+    <string name="freeze_normal">Normal</string>
+    <string name="freeze_may_increase">mungkin bertambah</string>
+    <string name="freeze_may_decrease">mungkin berkurang</string>
+    <string name="freeze_in_range">Dalam cakupan</string>
+    <string name="range_end_fail">"Cakupan akhir ('__s__') harus lebih besar dari '__s__'."</string>
+    <string name="failed_add_window">Gagal menambah tetingkap</string>
+    <string name="failed_remove_window">Gagal membuang tetingkap</string>
+    <string name="system_service_stopped">Aplikasi tidak dapat berjalan normal karena operasi sistem terhenti. Cobalah menjalankan ulang aplikasi atau hidupkan ulang perangkat anda.</string>
+    <string name="value_request">Masukan nilai untuk pencarian</string>
+    <string name="type_request">Pilih jenis data yang akan dicari</string>
+    <string name="type_change_request">Pilih jenis data yang akan diubah</string>
+    <string name="value">Nilai</string>
+    <string name="save_as">Simpan sebagai:</string>
+    <string name="restart">Jalankan ulang</string>
+    <string name="start">Mulai</string>
+    <string name="wait_daemon">Fungsi ini tidak tersedia jika daemon tidak berjalan. tunggu sampai daemon berjalan dahulu. (apakah anda lupa memberikan akses root? atau mungkin perangkat anda tidak mempunyai root?)</string>
+    <string name="daemon_fail">daemon tidak berjalan</string>
+    <string name="config_icon_text">ikon: transparansi= __d__%%, sembunyikan - __s__</string>
+    <string name="icon_hide_after">setelah __d__ detik</string>
+    <string name="icon_hide_never">tidak pernah</string>
+    <string name="keyboard">Papan ketik:</string>
+    <string name="internal">Dalaman</string>
+    <string name="external">Luaran</string>
+    <string name="failed_copy_text">Gagal menyalin ke clipboard</string>
+    <string name="copied">Telah disalin</string>
+    <string name="copy_value">Salin nilai</string>
+    <string name="copy_address">Salin alamat</string>
+    <string name="goto_address">Pergi ke alamat:</string>
+    <string name="search_unknown_value">Pencarian nilai tak dikenal</string>
+    <string name="search_known_value">Pencarian nilai yang diketahui</string>
+    <string name="speedhack_hint">Untuk mengubah kecepatan permainan, tekan tahan pada ikon __app_name__.</string>
+    <string name="bad_firmware">Terdapat kesalahan dalam firmware anda yang mencegah penggunaan fitur ini.</string>
+    <string name="language">Bahasa</string>
+    <string name="acceleration">antar muka akselerasi</string>
+    <string name="hardware">Perangkat keras</string>
+    <string name="software">Perangkat lunak</string>
+    <string name="speedhack">Retas Kecepatan</string>
+    <string name="data_in_ram">Data didalam RAM:</string>
+    <string name="first_mb">__d__ MB awal</string>
+    <string name="donate">Donasi</string>
+    <string name="speeds">kecepatan</string>
+    <string name="floating_window_fail">Tetingkap terapung tidak dapat ditunjukan</string>
+    <string name="check">Verifikasi</string>
+    <string name="check_success">Verifikasi berhasil</string>
+    <string name="enable_draw_perm">Silahkan aktifkan pengizinan di layar selanjutnya</string>
+    <string name="speedhack_fail">Pengatur kecepatan untuk proses ini tidak didukung</string>
+    <string name="dangerous">berbahaya</string>
+    <string name="difference">Perbedaan</string>
+    <string name="old_value">Nilai lama</string>
+    <string name="new_value">Nilai baru</string>
+    <string name="mode_hacking">Nilai ter-enkripsi</string>
+    <string name="union">Telusur grup</string>
+    <string name="speedhack_open">Anda bisa membuka pengatur kecepatan dengan menekan lama ikon __app_name__.</string>
+    <string name="history">Riwayat</string>
+    <string name="history_empty">Tidak ada Riwayat</string>
+    <string name="allow_suggestions">Ijinkan saran dari papan ketik:</string>
+    <string name="invalid_area">Ukuran grup harus ada dalam rentang __d__ dan __d__ :</string>
+    <string name="union_need_two_numbers">Untuk pencarian grup harus terdapat setidaknya dua angka.</string>
+    <string name="too_many_union_numbers">Terlalu banyak angka, lebih dari:</string>
+    <string name="invalid_number">Angka tidak valid:</string>
+    <string name="input_number">Masukkan angka</string>
+    <string name="number_out_of_range">"Nomor '__s__' diluar jangkauan yang memungkinkan."</string>
+    <string name="help_floating_icon">"* Ikon mengambang:
+* Sentuh untuk membuka antarmuka.
+* Sentuh dan tahan untuk mengaktifkan panel speedhack.
+* Ikon bisa dipindahkan kemana saja dengan cara menggeser dan dilepas.
+* Tingkat transparansi dan waktu penyembunyian dapat diatur pada pengaturan."</string>
+    <string name="help_exact_search">"* Pencarian yang tepat:
+     1. Beralih ke __app_name__ dari game.
+     2. Ketuk tombol \"__search_known_value__\" di tab \"__search__\".
+     3. Masukkan nomor yang ditampilkan dalam game.
+     4. Pilih tipe data yang sesuai, atau pilih \"__type_auto__\" (jika anda tidak yakin) dan pilihan lainnya (jika diperlukan) dan klik \"__search__\".
+     5. Setelah selesai mencari, hasil pencarian akan ditampilkan dalam daftar.
+     6. Kembali ke permainan. Setelah nilai berubah, alihkan ke __app_name__ lagi.
+     7. Cari nilai yang berubah.
+     8. Jika ada terlalu banyak hasil, lanjutkan ke langkah 6.
+     9. Jika hanya beberapa hasil yang tersisa, Anda dapat mencoba memodifikasi, menyimpan, atau membekukan nilai.
+"</string>
+    <string name="help_speedhack">"* Speedhack:
+* Sentuh dan tahan ikon mengambang untuk memunculkan panel speedhack.
+* Tekan panah ke arah kiri atau kanan untuk mengubah kecepatan game.
+* Tekan dan tahan angka kecepatan game yang sekarang untuk mereset kecepatan game.
+* Tekan dan tahan ikon mengambang untuk menyembunyikan panel speedhack.
+* Daftar kecepatan dan waktu yang digunakan dapat sesuaikan pada pengaturan.
+* Jika permainan tidak merespon input atau speedhack tidak bekerja, coba gunakan timer hijau yang pada pengaturan __app_name__.
+* Anda bisa menggunakan \"__time_jump__\". Anda perlu menentukan berapa banyak detik yang akan dilompati. Jumlah yang akan dilompat dapat berbentuk pecahan."</string>
+    <string name="help_fuzzy_search">"* Pencarian Fuzzy:
+     1. Beralih ke __app_name__ dari game.
+     2. Ketuk tombol \"__search_unknown_value__\" di tab \"__search__\".
+     3. Pilih tipe data yang sesuai, atau pilih \"__type_auto__\" (jika anda tidak yakin) dan klik \"__search__\".
+     4. Setelah selesai mencari, hasil pencarian akan ditampilkan dalam daftar.
+     5. Kembali ke permainan. Setelah nilai berubah (atau tidak), alihkan ke __app_name__ lagi.
+     6. Ketuk tombol \"__search_unknown_value__\" dan pilih jenis untuk bagaimana nilai telah berubah.
+     7. Jika ada terlalu banyak hasil, lanjutkan langkah ke 5.
+     8. Jika hanya beberapa hasil yang tersisa, Anda dapat mencoba memodifikasi, menyimpan atau membekukan nilai.
+     
+     Anda dapat menentukan perubahan nilai yang tepat dengan mengklik tombol \"__more__\".
+Anda dapat memasukkan rentang sebagai perubahan nilai yang akurat:
+     190__tilde__210
+Untuk membuat perubahan di luar rentang nilai, Anda dapat memasukkan:
+10__tilde____tilde__4000
+"</string>
+    <string name="help_group_search">"Melakukan pencarian group :
+1. pindah ke __app_name__ dari game.
+2. tekan tombol \"__search_known_value__\" di tab \"__search__\".
+3. masukan angka-angka yang ingin diubah didalam game dengan format :
+value1__semicolon__value2__semicolon__...__semicolon__valueN__colon__region
+2-__max_group__ nilai bisa dicari secara bersamaan. region dasar 512. nilai regian harus berada diantara 2 dan 65536.
+sebagai contoh, jika ingin mencari angka 195 dan 6543, anda harus memasukan :
+195__semicolon__6543
+atau anda bisa lebih spesifik :
+195__semicolon__6543__colon__300
+juga anda bisa mengatur satu atau lebih type data:
+195__type_dword_short____semicolon__6543
+itu artinya anda ingin mencari angka 195 dengan type __type_dword__ dan angka 6543 dengan type __type_auto__
+type data yang bisa dicari adalah :
+__type_byte_short__ - __type_byte__
+__type_word_short__ - __type_word__
+__type_dword_short__ - __type_dword__
+__type_xor_short__ - __type_xor__
+__type_qword_short__ - __type_qword__
+__type_float_short__ - __type_float__
+__type_double_short__ - __type_double__
+__type_auto_short__ - __type_auto__ 
+anda juga dapat menulis angkanya dalam notasi hex (little-endian):
+__hex_example____hex____semicolon__6543
+atau dalam notasi reverse hex (big-endian):
+__hex_example____rhex____semicolon__6543
+untuk memasukan simbol tambahan, gunakan tombol \"__btn_hex__\" pada keyboard internal.
+4. pilih type data yang sesuai (\"__type_auto__\" jika anda tidak tau type nya) dan tekan \"__search__\".
+5. ketika pencarian selesai, hasilnya akan ditampilkan dalam list.
+6. kembali ke game. ketika angka yang ingin diubah sudah berubah. kembali ke __app_name__ lagi.
+7. ulangi pencarian group dengan perubahan yang sesuai
+8. jika hasilnya masih banyak ulangi langkah 6.
+     9. Jika beberapa hasil tersisa, Anda dapat mencoba memodifikasi, menyimpan atau membekukan nilai.
+     
+     Jika Anda ingin menghormati urutan nilai kemudian tentukan __colon__ dua kali.
+     Tanpa ukuran grup:
+     195 __semicolon__ 6543 __colon____colon__
+     Dengan ukuran grup:
+     195 __semicolon__ 6543 __colon____colon__ 300
+     
+     Anda dapat mencari dalam kisaran nilai:
+     190__tilde__210 __semicolon__ 6543
+Anda juga dapat mencari di luar rentang nilai:
+10__tilde____tilde__4000 __semicolon__ 6543
+"</string>
+    <string name="help_others">"* lain lain:
+* untuk pencarian baru, anda harus menghapus pencarian sebelumnya dengan memilih \"__clear__\" di menu dibawah tombol menu.
+* untuk memilih game yang lain, tekan ikon game di pojok kiri atas.
+* untuk menjeda/melanjutkan game, tekan tombol dibawah icon di pojok kiri atas.
+* jika anda pindah ke game di saat jeda, saat anda membuka __app_name__, game tersebut akan di pause otomatis.
+* semua nilai yang di bekukan (frozen) otomatis ditambahkan ke list yang disimpan. anda dapat mengaturnya kemudian di tab.
+* semua data disimpan ke daftar \"__history__\". anda dapat menggunakan nya dengan menekan tombol riwayat. "</string>
+    <string name="help_typical_usage">"* Algoritma yang biasa dipakai:
+
+1) Nilainya tidak di enkripsi dan diketahui.
+umumnya seperti uang, bintang, koin, sumberdaya, dll.
+
+gunakan pencarian pasti.
+
+2) Nilainya tidak diketahui dan atau di enkripsi.
+umumnya nilai yang tidak diketahui diwakili oleh bar atau skala. contohnya darah, mana, nitro, dsb. perubahannya dapat dilihat tapi nilainya tidak diketahui.
+angka yang dienkripsi bisa berupa uang, bintang, koin dsb. tapi mencari menggunakan algoritma 1) tidak dapat ditemukan. atau nilai perubahannya tidak sesuai seperti yang didalam game.
+
+gunakan fuzzy search.
+
+3) nilainya di enkripsi (__mode_hacking__).
+kasusnya seperti uang, bintang, koin, dsb. tetapi dicari menggunakan algoritma 1 tidak ditemukan.
+
+guanakan exact search, tapi selalu aktifkan \"__mode_hacking__\".
+nilai yang ditemukan mungkin terlihat aneh karena enkripsi.
+
+algoritma 3) lebih cepat dari algoritma 2), tapi tidak selalu bisa digunakan disemua game.
+
+4) nilainya tidak di enkripsi, diketahui, dan terletak dekat dengan nilai lain yang diketahui.
+seperti harga di toko, status hero, dll.
+
+gunakan group search untuk semua angka dalam satu waktu. "</string>
+    <string name="help_hints">"* petunjuk:
+
+* tidak semua games bisa di modifikasi dengan __app_name__. contohnya :
+* data game yang disimpan di server (server-sided game)
+* game yang selalu harus terhubung ke internet.
+* game online
+* game yang meminta terhubung ke server pada saat dimulai
+* game yang tidak bisa menggunakan sesuatu kecuali terhubung ke internet.
+* game yang me load data dari internet apabila anda merubah sesuatu
+* nilai yang dilihat tidak selalu sama dengan nilai yang ada dalam game, bisa saja berbeda. contohnya di layar kita melihat 34, tapi di memory game nilainya bisa saja 34000.
+* jika anda tidak bisa memodifikasi sebuah nilai - coba modifikasi nilai yang mempengaruhi nilai tersebut. contoh kalau anda tidak bisa memodifikasi jumlah uang, anda bisa mengubah harga benda, dan menjualnya. atau membeli dengan harga minus."</string>
+    <string name="help">Bantuan</string>
+    <string name="help_floating_icon_title">Ikon ngambang</string>
+    <string name="help_exact_search_title">Pencarian Tepat</string>
+    <string name="help_speedhack_title">Peretas Kecepatan</string>
+    <string name="help_group_search_title">Carian grup</string>
+    <string name="help_others_title">Lain-lain</string>
+    <string name="help_typical_usage_title">Pemakaian algoritma tipikal</string>
+    <string name="help_hints_title">petunjuk</string>
+    <string name="value_format">format nilai</string>
+    <string name="format_hex">notasi hex</string>
+    <string name="format_rhex">Membalikkan notasi hex (big-endian)</string>
+    <string name="clear_selection">hapus pilihan</string>
+    <string name="invert_selection">balikan pilihan</string>
+    <string name="select_all">pilih semua</string>
+    <string name="edit_selected">ubah pilihan</string>
+    <string name="delete_selected">hapus pilihan</string>
+    <string name="save_selected">Simpan Pilihan</string>
+    <string name="nothing_selected">tidak ada yang dipilih</string>
+    <string name="items_added">item (__d__) ditambahkan ke list yang disimpan</string>
+    <string name="no_items_for_editing">Tidak ada item untuk diubah.</string>
+    <string name="edit_info">Edit __s__ sebagai __s__</string>
+    <string name="edit_all_info">Edit halaman __d__ sebagai __s__</string>
+    <string name="autopause">Hentikan permainan otomatis:</string>
+    <string name="empty_list">"Daftar yang tersimpan kosong.
+Anda dapat menambah item ke daftar dari daftar hasil pencarian atau dari memory editor.
+Hanya pilih elemen yang diinginkan dan pilih \"__save_selected__\" di menu.
+Cara lain - Mulai edit nilai dan centang di kotak centang \"__save_as__\".
+Semua nilai yang dibekukanpun ditambahkan di sini secara otomatis ."</string>
+    <string name="empty_save">Daftar yang tersimpan kosong. Tidak ada untuk disimpan.</string>
+    <string name="revert_selected">Kemablikan yang terseleksi</string>
+    <string name="nothing_to_revert">Tidak ada yang bisa dikembalikan</string>
+    <string name="revert_prompt">Kembalikan item yang terseleksi (__d__)?</string>
+    <string name="download">Aplikasi ini bisa di download dari:</string>
+    <string name="format_string">Representasi string</string>
+    <string name="forgot_h">"Apakah kamu lupa untuk '__hex__' di akhir?"</string>
+    <string name="time_jump">Lompat waktu</string>
+    <string name="time_jump_hint">Masukkan banyaknya detik untuk dilompati ke depan:</string>
+    <string name="hide_from_game">Sembunyikan __app_name__ dari game:</string>
+    <string name="last_stats">Statistik untuk pencarian terakhir anda</string>
+    <string name="memory_access">Akses ke memori:</string>
+    <string name="normal">Normal</string>
+    <string name="extended">Diperpanjang</string>
+    <string name="experimental">Eksperimental</string>
+    <string name="installing">__app_name__melakukan penginstalan dengan nama acak untuk menghindari game mendeteksi nya. Mohon tunggu...</string>
+    <string name="failed_install">Gagal untuk menginstall aplikasi. Coba lagi?</string>
+    <string name="failed_uninstall">Gagal untuk menghapus aplikasi. Coba lagi?</string>
+    <string name="download_it">Unduh</string>
+    <string name="more">Lebih banyak</string>
+    <string name="less">Kurang</string>
+    <string name="no_space">Tidak ada tempat yang tersisa di perangkat anda</string>
+    <string name="install_cancel_prompt">__app_name__ dapat terdeteksi ketika tidak di install. Apakah anda yakin ingin membatalkan?</string>
+    <string name="intercept">Mencegat</string>
+    <string name="need_restart">Target aplikasi harus di restart untuk menerapkan perubahan ini.</string>
+    <string name="must_be_root">"Agar program ini berjalan, device anda harus memiliki akses root.
+
+__app_name__bisa bekerja dalam jangka terbatas tanpa rooting melalui environment virtual. untuk contoh, melalui __vspace_list__dan banyak lagi.
+Baca Bantuan nya untuk detail lebih.
+
+Cara mendapat akses root: http://www.xda-developers.com/root/"</string>
+    <string name="skip_">lewati</string>
+    <string name="indent_for_the_status_bar">indent UI dari layar teratas</string>
+    <string name="start_collecting_data">memulai koleksi data</string>
+    <string name="data_collecting_in_progress">pengumpulan data dalam proses</string>
+    <string name="copy">Salin</string>
+    <string name="show_logcat">tampilkan logcat</string>
+    <string name="path_must_be">"path harus terdiri dari minimal 2 karakter dan dimulai dengan '/'."</string>
+    <string name="fix_it">perbaiki ini.</string>
+    <string name="change_log">data perubahan</string>
+    <string name="used_only_first">hanya gunakan item __d__ yang pertama</string>
+    <string name="need_select_more">perlu memilih item __d__ atau lebih.</string>
+    <string name="offset">Offset:</string>
+    <string name="result">Hasil:</string>
+    <string name="copy_hex_value">salin nilai hex:</string>
+    <string name="goto_pointer">menuju pointer:</string>
+    <string name="offset_calculator">kalkulator offset</string>
+    <string name="fill_toolbar">Isi toolbar:</string>
+    <string name="from_left">dari kiri</string>
+    <string name="from_center">dari tengah</string>
+    <string name="from_right">dari kanan</string>
+    <string name="unit_years_short">Thn</string>
+    <string name="unit_days_short">Hari</string>
+    <string name="unit_hours_short">Jam</string>
+    <string name="unit_minutes_short">Menit</string>
+    <string name="unit_seconds_short">detik</string>
+    <string name="speed_info">__s__ dalam waktu sebenarnya = __s__ didalam game</string>
+    <string name="search_helper">bantuan pencarian</string>
+    <string name="off">mati</string>
+    <string name="go_to_game">kembali ke game, jika nilai yang ditemukan banyak</string>
+    <string name="go_to_game_and_restore">kembali ke game, jika nilai yang ditemukan banyak dan pulihkan mode pencarian saat kembali membuka</string>
+    <string name="nothing">Tak ada</string>
+    <string name="sort">urutkan</string>
+    <string name="sort_and_remove_duplicates">urutkan dan hapus nilai yang sama</string>
+    <string name="help_basics_title">informasi dasar</string>
+    <string name="help_basics">"Setelah anda mebuka aplikasi dengan mengklik tombol \"__start__\", ikon mengambang akan muncul dilayar. ini bisa digeser ke mana saja.
+tekan sekali pada ikon akan membuka interface utama aplikasi, tekan dan tahan pada ikon akan menunjukan panel untuk mengubah kecepatan pada game.
+
+pada layar utama anda akan melihat :
+*di pojok kiri atas - ikon game. menekan ini mengijinkan anda untuk memilih game lain.
+*ditengah ada bookmark untuk navigasi seluruh tab. menekan pada tab yang diinginkan akan menampilkan tab tertentu.
+
+ada total 4 tab yaitu : seting, pencarian, list yang disimpan dan memori editor.
+*di pojok kanan atas ada tombol tutup. tekan ini maka seluruh interface akan disembunyikan, dan ikon mengambang akan muncul di layar.
+*di layar bawah ada status bar dan ikon mata. Jika anda tekan dan tahan ikon mata, seluruh interface akan menjadi transparan selama ditekan.
+*sisa isi tampilan layar bergantung pada tab mana anda sedang berada.
+
+dalam setiap tab, kecuali tab seting, terdapat tombol menu, yang berisi macam macam perintah. didalamnya anda akan menemukan perintah utama untuk tab tersebut.
+
+tab seting berisi macam macam setingan, bantuan, dan informasi tentang aplikasi. dan juga tombol keluar,
+
+tab pencarian berisi:
+*tombol pause, nama dari game yang dipilih, jumlah hasil pencarian dan tombol refresh.
+*dibawah ada panel dengan ikon akses cepat dan tombol menu. semua ikon adalah duplikasi dari menu, jadi jika anda tidak mengerti ikon tersebut, anda selalu bisa melihatnya dengan mengklik tombol menu (kebanyakan seperti itu)
+*dibawah ikon ikon tersebut adalah list hasil pencarian.
+
+tab list yang disimpan berisi:
+*tombol pause, nama aplikasi yang dipilih, tombol menu dan tombol refresh.
+dibawah ikon tersebut adalah lis dari nilai yang disimpan.
+
+tab memori editor mirip dengan tab sebelumnya, bedanya disini ditampilakn isi memori.
+
+dari tiga list (hasil pencarian, list yang disimpan dan memori editor) anda bisa menekan dan tahan item tertentu untuk memunculkan menu konteks."</string>
+    <string name="daemon_killed">"Daemon terbunuh oleh sesuatu.
+
+Biasanya bisa berupa:
+\u00091. Semua pembunuh atau pengoptimal memori. Anda harus menonaktifkan pembunuh apa pun atau menambahkan __app_name__ daftar putih di pengaturannya.
+\u00092. __daemon_killed_oom__
+\u00093. Kartu memori dilepas, sementara __app_name__ menyimpan file sementara di dalamnya. Untuk mencegah hal ini terjadi, tentukan jalur berbeda ke file sementara. Misalnya di memori internal."</string>
+    <string name="bad_settings">Preferensi burulk</string>
+    <string name="freeze_lags">menggunakan freeze value bersama dengan seting __hide_from_game__ bisa mengakibatkan lag pada game.</string>
+    <string name="improve_translation">terjemahan ini menggunakan penerjemah otomatis. anda bisa ikut memperbaikinya dengan menggunakan pelayanan terjemahan bersama sama.</string>
+    <string name="freeze_interval">Interval beku:</string>
+    <string name="saved_list_update_interval">Daftar tersimpan untuk perbarui interval:</string>
+    <string name="milliseconds_short">milidetik</string>
+    <string name="disable_floating_windows">Matikan floating windows dan restart aplikasi</string>
+    <string name="enable_floating_windows">aktifkan floating wondows dan restart aplikasi</string>
+    <string name="too_many">terlalu banyak</string>
+    <string name="help_range_search_title">area pencarian</string>
+    <string name="help_range_search">"* Pencarian jarak:
+\u00091. Beralih ke __app_name__ dari game.
+\u00092. Ketuk tombol \"__search_known_value__\" di tab \"__search__\".
+\u00093. Masukkan rentang pencarian perbatasan, dipisahkan dengan \"__tilde__\". Misalnya, untuk mencari nilai dari 100 hingga 150, masukkan:
+\u0009\u0009\u0009100__tilde__150
+\u0009\u0009Untuk mencari di luar rentang, Anda dapat menentukan karakter \"__tilde__\" dua kali:
+\u0009\u0009\u0009100__tilde____tilde__150
+\u0009\u0009Alternatifnya, Anda dapat memilih tanda \"__not_equal__\" dan menentukan karakter \"__tilde__\" sekali.
+\u0009\u0009Untuk memasukkan simbol tambahan, gunakan tombol \"__btn_hex__\" pada keyboard internal.
+\u00094. Pilih tipe data yang sesuai, atau pilih \"__type_auto__\" (jika Anda tidak yakin) dan opsi lain (jika perlu) dan klik \"__search__\".
+\u00095. Setelah selesai mencari, hasil pencarian akan ditampilkan dalam daftar.
+\u00096. Kembali ke permainan. Setelah nilainya berubah, alihkan ke __app_name__ lagi.
+\u00097. Ulangi pencarian jarak dengan perubahan yang sesuai.
+\u00098. Jika terlalu banyak hasil, ulangi langkah 6 dan 7.
+\u00099. Jika hanya sedikit hasil yang tersisa, Anda dapat mencoba mengubah, menyimpan, atau membekukan nilainya.
+
+\u0009Batasan rentang termasuk dalam hasil pencarian. Anda dapat memilih jenis pencarian \"__not_equal__\" untuk menemukan semua nilai yang tidak termasuk dalam kisaran tersebut.
+\u0009Dalam pencarian ini, semua nilai dianggap ditandatangani.
+"</string>
+    <string name="does_not_support">\"__s__\" tidak support \"__s__\".</string>
+    <string name="range_bounds_diff_types">batas area harus tipe yang sama.</string>
+    <string name="examples">contoh</string>
+    <string name="rtfm">baca bantuan untuk detail lebih lanjut</string>
+    <string name="icons_size">Ukuran icon:</string>
+    <string name="revert_and_remove">Kembalikan dan hapus</string>
+    <string name="remove">Hapus</string>
+    <string name="ordered_group_search">Urutan pencarian grup</string>
+    <string name="load_items">Item</string>
+    <string name="load_values">Nilai</string>
+    <string name="load_freeze">Beku</string>
+    <string name="video_tutorials">Video tutorial dan cara untuk retas</string>
+    <string name="make_copy">Buat salinan</string>
+    <string name="video">Video</string>
+    <string name="ordered">Terurut</string>
+    <string name="toolbars">Toolbar</string>
+    <string name="saved_list">Daftar tersimpan</string>
+    <string name="memory_editor">Pengedit memori</string>
+    <string name="restart_game">Restart game</string>
+    <string name="refine">Memurnikan</string>
+    <string name="internal_storage">Penyimpanan Internal</string>
+    <string name="external_storage">Penyimpanan Eksternal</string>
+    <string name="new_search">Pencarian baru</string>
+    <string name="load_saved_list">Muatkan daftar yg telah disimpan dari file</string>
+    <string name="save_saved_list">Simpan daftar tersimpan ke file</string>
+    <string name="append">Menambahkan</string>
+    <string name="xor_key">Kode XOR:</string>
+    <string name="only_memory">Hanya dengan jangkauan memori:</string>
+    <string name="dump_memory">Buang memori</string>
+    <string name="path">Jalan:</string>
+    <string name="dump_ended">Tempat sampah berakhir</string>
+    <string name="dump_failed">Pembuangan gagal</string>
+    <string name="eperm_error_defend">Tidak dapat melampirkan ke proses (PTRACE_ATTACH): Game dilindungi</string>
+    <string name="reset_on_exit">Setel ulang saat keluar:</string>
+    <string name="kill_game">Matikan game</string>
+    <string name="kill_game_info">Penghentian proses secara paksa tidak memberikan proses kesempatan untuk dimatikan dengan bersih dan dapat menyebabkan hilangnya data atau ketidakstabilan sistem.</string>
+    <string name="continue_ask">Lanjutkan?</string>
+    <string name="copy_memory">Salin memori</string>
+    <string name="copy_from">Salin dari:</string>
+    <string name="paste_to">Tempel ke:</string>
+    <string name="count_bytes">Hitungan byte:</string>
+    <string name="copy_ended">Salin memori berakhir</string>
+    <string name="copy_failed">Salin memori gagal</string>
+    <string name="help_encrypted_search_title">Cari nilai terenkripsi</string>
+    <string name="help_encrypted_search">"* Cari nilai terenkripsi:
+\u00091. Beralih ke __app_name__ dari game.
+\u00092. Ketuk tombol \"__search_known_value__\" di tab \"__search__\".
+\u00093. Masukkan nomor yang ditampilkan dalam game.
+\u00094. Pilih tipe data yang sesuai, atau pilih \"__type_auto__\" (jika Anda tidak yakin), opsi lain (jika perlu), centang \"__mode_hacking__\" dan klik \"__search__\".
+\u00095. Setelah selesai mencari, hasil pencarian akan ditampilkan dalam daftar.
+\u00096. Kembali ke permainan. Setelah nilainya berubah, alihkan ke __app_name__ lagi.
+7. Cari nilai yang berubah. Kotak centang \"__mode_hacking__\" harus dicentang.
+\u00098. Jika terlalu banyak hasil, lanjutkan ke langkah 6.
+\u00099. Jika hanya sedikit hasil yang tersisa, Anda dapat mencoba mengubah, menyimpan, atau membekukan nilainya.
+"</string>
+    <string name="help_faq_title">Pertanyaan yang sering diajukan</string>
+    <string name="help_faq_1_q">Mengapa saya tidak dapat memasukkan nilai lebih dari 99 atau 60.000?</string>
+    <string name="help_faq_1_a">Anda menemukan nilai __type_byte__ atau __type_word__. Cari __type_dword__ untuk memasukkan nilai yang lebih besar.</string>
+    <string name="help_faq_2_q">Bagaimana cara mencari nilai pecahan (__type_float__), tanpa bagian pecahan dari nilai tersebut?</string>
+    <string name="help_faq_2_a">Gunakan jenis data atau pencarian rentang \"__type_auto__\". Misalnya, untuk 11.345 Anda dapat mencari \"10__tilde__12\".</string>
+    <string name="help_faq_3_q">Saya menemukan nilainya dan mengubahnya, tetapi dalam permainan perubahan ini tidak melakukan apa-apa. Saya hanya mencoba menggunakannya tetapi semuanya kembali. Apa yang saya lakukan salah?</string>
+    <string name="help_faq_3_a">"Dalam beberapa permainan, nilai-nilai dilindungi atau dienkripsi. Sebelum menampilkan nilai, nilai didekripsi menjadi variabel lain. Anda mengubahnya.
+Karena nilai ini hanya digunakan untuk tampilan, maka tidak mempengaruhi mekanisme permainan. Untuk menemukan nilai sebenarnya, daripada nilai yang ditampilkan, gunakan pencarian untuk nilai terenkripsi, atau pencarian fuzzy.
+Terkadang nilai disimpan di server dan disinkronkan setiap saat. Dalam hal ini, tidak dapat diretas. Jika permainan tidak berfungsi tanpa internet dan cara-cara sebelumnya tidak membantu - kemungkinan besar ini masalahnya."</string>
+    <string name="help_faq_4_q">Tidak menemukan nilai dalam game X. Atau menemukannya, tetapi ketika diubah tidak ada yang terjadi. Atau menemukannya, tetapi setelah diubah, game tersebut crash. Bagaimana saya tahu apa masalahnya, apakah itu perlindungan dalam game atau dengan __app_name__?</string>
+    <string name="help_faq_4_a">"Anda harus mengambil program sederhana yang dijamin tidak memiliki perlindungan dan mencobanya. Saya lebih suka menggunakan \"Hill Climb Racing\". Gim ini sederhana, tidak rumit, dan tidak mengandung pertahanan apa pun. Anda dapat memeriksa peretasan uang sebagai pencarian langsung berdasarkan angka, dan pencarian kabur untuk perubahan.
+Jika peretasan pada gim sederhana ini berhasil, maka gim X itulah yang Anda coba retas. Jika tidak, maka masalahnya ada di __app_name__.
+Bahkan ada opsi yang lebih mudah: \"Tap Counter\". Pasang itu. Lari. Cobalah untuk memecahkan jumlah kaset yang ditampilkan di layar. Ini seharusnya sangat mudah. Jika tidak, maka masalahnya ada di __app_name__ atau pengaturannya.
+Coba versi lain dari __app_name__, coba cari deskripsi kesalahan yang diterima di forum pada topik yang relevan atau di Internet. Dalam kasus yang ekstrim, Anda dapat bertanya di forum."</string>
+    <string name="help_faq_5_q">Bagaimana cara mencari waktu?</string>
+    <string name="help_faq_5_a">"- Coba cari sebagai jumlah hari, jam, menit atau detik. Tipe data dapat berupa __type_byte__, __type_word__, __type_dword__ atau __type_qword__. Anda juga dapat menggunakan tipe __type_auto__.
+\u0009- Coba cari dalam satuan mili atau nanodetik. Jenis data adalah __type_dword__ atau __type_qword__.
+\u0009- Cobalah untuk mencari sebagai stempel waktu unix tanggal akhir. Ketik - __type_dword__. Ini dianggap sebagai perbedaan antara stempel waktu unix saat ini dan yang disimpan. Cari melalui pencarian jangkauan.
+Misalnya, jika 30 hari ditulis, maka Anda mencari 30 +/- 1 hari dari stempel waktu unix saat ini. Stempel waktu unix saat ini dapat dengan mudah dilihat di Internet."</string>
+    <string name="help_faq_6_q">Apakah mungkin meretas game online?</string>
+    <string name="help_faq_6_a">Dimungkinkan untuk meretas data yang disimpan di klien. Apa pun di server tidak dapat diretas. Dalam permainan yang berbeda bisa berbeda cara. Bahkan dalam permainan pemain tunggal, beberapa data mungkin ada di server, dan beberapa mungkin tidak.</string>
+    <string name="help_faq_7_q">Di mana speedhack bekerja?</string>
+    <string name="help_faq_7_a">"Speedhack mungkin tidak berfungsi pada perangkat / emulator x86 untuk game yang tidak memiliki perpustakaan x86.
+Juga untuk lingkungan ART, speedhack tidak berfungsi dengan pengatur waktu Java. Jika game menggunakannya dan Anda memiliki lingkungan ART (biasanya Android 5 ke atas), speedhack tidak akan berfungsi."</string>
+    <string name="help_faq_8_q">__app_name__ secara keseluruhan berfungsi untuk saya, tetapi di beberapa game saya mendapatkan kesalahan PTRACE_ATTACH. Mengapa dan apa yang harus dilakukan tentang itu?</string>
+    <string name="help_faq_8_a">Game ini dilengkapi dengan proteksi terhadap debugging dengan jenis proteksi SecNeo. __app_name__ tidak dapat melewati perlindungan ini. Melalui itu, Anda tidak dapat meretas game ini.</string>
+    <string name="help_faq_9_q">Mengapa aplikasi memiliki nama paket yang aneh? Mengapa aplikasinya tidak diperbarui, tetapi setiap kali dipasang secara terpisah? Mengapa setiap versi memiliki nama paket yang berbeda?</string>
+    <string name="help_faq_9_a">Untuk mencegah deteksi oleh anti-cheat dengan nama paket.</string>
+    <string name="help_faq_10_q">Di beberapa game, saat mengubah kecepatan (speedhack), mereka berhenti merespons klik. Apakah itu perlindungan game atau kesalahan program?</string>
+    <string name="help_faq_10_a">Ini berarti bahwa speedhacking Anda mencegat pengatur waktu antrian masukan dan mati. Anda harus memilih tanda centang hijau dalam daftar timer (dalam pengaturan __app_name__) agar hal ini tidak terjadi.</string>
+    <string name="help_faq_11_q">Mengapa ini mengeluarkan daftar kesalahan yang dipisahkan koma?</string>
+    <string name="help_faq_11_a">Karena pembatas angka adalah titik koma (\"__semicolon__\").</string>
+    <string name="help_faq_12_q">Bagaimana cara saya melakukan beberapa pencarian pada waktu yang bersamaan?</string>
+    <string name="help_faq_12_a">Saat ini, aplikasi tidak mengizinkannya, tetapi Anda dapat menginstal aplikasi beberapa kali dan menjalankan salinannya secara bersamaan jika tersedia cukup memori dan ruang disk.</string>
+    <string name="help_faq_13_q">Apakah saya perlu memperbarui aplikasi jika tidak ada perubahan yang signifikan?</string>
+    <string name="help_faq_13_a">Itu disarankan. Dukungan hanya untuk versi terbaru.</string>
+    <string name="help_faq_14_q">Apa sajakah simbol \"!\" dan \"#\", sebelum nama proses?</string>
+    <string name="help_faq_14_a">"Ini menandai proses yang dilacak.
+\u0009\"#\" - sebelum proses berarti itu dilacak oleh beberapa proses lain.
+\u0009\"!\" - sebelum proses, proses ini ditelusuri beberapa proses lainnya.
+Pelacakan adalah tipikal untuk debugging atau hacking. Juga digunakan dalam beberapa perlindungan. Biasanya, proses dengan tanda \"#\" adalah proses yang dilindungi."</string>
+    <string name="help_faq_15_q">Mengapa aplikasi setelah penginstalan standar juga melakukan penginstalannya sendiri, mengeluarkan permintaan untuk hak root?</string>
+    <string name="help_faq_15_a">__app_name__ menginstal ulang sendiri dengan data acak untuk mencegah pendeteksiannya oleh anti-cheat. Hak root diperlukan untuk penginstalan dan penginstalan \"diam\". Anda tidak bisa memberikannya. Dalam kasus ini, Anda harus menanggapi secara manual semua permintaan sistem untuk menginstal aplikasi.</string>
+    <string name="help_faq_16_q">Apa __pkg__? Apakah itu trojan atau virus? Apakah aman memberikan akses root pada aplikasi ini?</string>
+    <string name="help_faq_16_a">Ini adalah nama dasar paket __app_name__. Menerbitkan akses root aman jika __app_name__ diunduh dari sumber tepercaya.</string>
+    <string name="help_faq_17_q">Mengapa __app_name__ dalam daftar aplikasi terinstal dinamai sebagai rangkaian karakter acak? Mengapa rangkaian karakter ini meminta akses root? Mengapa saat meluncurkan __app_name__ menulis bahwa root tidak disediakan oleh __app_name__, tetapi oleh beberapa jenis abrakadabra?</string>
+    <string name="help_faq_17_a">Karena __app_name__ menggunakannya untuk menyembunyikan dirinya dari deteksi oleh anti-cheat.</string>
+    <string name="help_faq_18_q">Mengapa __app_name__ dari versi terbaru terkadang terdeteksi oleh anticheats, dan terkadang tidak?</string>
+    <string name="help_faq_18_a">Karena __app_name__ menggunakan berbagai hal untuk menyembunyikan dirinya dari deteksi oleh anti-cheat. Ini termasuk nama paket dan aplikasi acak. Pada setiap instalasi berbeda. Coba instal ulang __app_name__ untuk membuat ulang. Mungkin setelah anti-cheat ini akan berhenti melihat __app_name__.</string>
+    <string name="help_faq_19_q">Mengapa game saya tidak ada dalam daftar aplikasi?</string>
+    <string name="help_faq_19_a">Karena ini adalah daftar aplikasi yang berjalan, dan aplikasi Anda tidak berjalan. Jalankan, lalu pilih di __app_name__.</string>
+    <string name="help_faq_20_q">Mengapa aplikasi Java tidak dapat merespons speedhack di Android 5 ke atas?</string>
+    <string name="help_faq_20_a">Karena speedhack dirancang untuk game dengan perpustakaan asli. Aplikasi Anda tidak. Dan karena Android 5 menggunakan lingkungan ART, bukan Dalvik, yang membuatnya tidak mungkin untuk mencegat timer Java. Jangan lakukan apapun. Situasi tidak akan berubah di masa depan.</string>
+    <string name="help_faq_21_q">Saya menggunakan alat speedhack / hacking yang berbeda di Android 4 dan semuanya berfungsi. Sekarang saya meletakkan __app_name__ di Android 5 ke atas, tetapi metode itu tidak berfungsi. Mengapa?</string>
+    <string name="help_faq_21_a">"Karena banyak hal telah berubah dan utilitas Anda tidak akan berfungsi begitu saja. Jangan membuat ilusi Anda bahwa __app_name__ ini sangat buruk, tetapi jika ada utilitas itu, maka uh! Tidak ada hal seperti itu.
+Untuk mengujinya, instal __app_name__ di Android 4, dan ulangi semua tindakan yang sama seperti di utilitas itu. Hasilnya, Anda akan berhasil. Tetapi ini tidak berarti bahwa metode yang sama ini akan berfungsi di Android 5 ke atas.
+Fakta ini dikonfirmasi secara eksperimental, berulang kali."</string>
+    <string name="help_faq_22_q">Saya menonton sampel video / tangkapan layar dan ada data lain di editor memori. Mengapa?</string>
+    <string name="help_faq_22_a">Karena video / screenshot memiliki format keluaran yang berbeda. Di editor memori, tekan menu - pilih \"__value_format__\" dan konfigurasikan keluaran sebagaimana mestinya.</string>
+    <string name="help_faq_23_q">Saat nilainya dibekukan, permainan mulai rem atau tertinggal. Mengapa?</string>
+    <string name="help_faq_23_a">Karena Anda memiliki pada pengaturan __app_name__ opsi untuk \"__hide_from_game__\" diaktifkan. Matikan.</string>
+    <string name="help_faq_24_q">Bagaimana saya bisa menonaktifkan pemeriksaan versi baru ketika saya memulai aplikasi?</string>
+    <string name="help_faq_24_a">Tidak mungkin.</string>
+    <string name="help_faq_25_q">Bagaimana cara memundurkan waktu kembali dalam aplikasi? Mungkinkah membuat waktu melompat tidak maju, tetapi mundur?</string>
+    <string name="help_faq_25_a">Tidak mungkin. Kamu tidak bisa. Waktu harus selalu bertambah jika tidak game bisa crash. Namun, di versi terbaru kami menambahkan kemungkinan lompatan waktu negatif. Hasilnya mungkin hang of the game atau hilangnya data. Berhati-hatilah.</string>
+    <string name="help_faq_26_q">Saya meletakkan ikon itu dan itu menghilang. Bagaimana saya bisa mendapatkannya kembali?</string>
+    <string name="help_faq_26_a">Ikon menjadi transparan, tetapi Anda masih dapat mengkliknya. Klik di tempatnya, lalu ubah pengaturan melalui antarmuka.</string>
+    <string name="help_faq_27_q">Bagaimana cara mencari nilai jika ditampilkan dalam pembulatan dengan game? Misalnya, 1,85M.</string>
+    <string name="help_faq_27_a">Cari rentang pencarian. Batas kisaran tergantung pada aturan pembulatan. Misalnya, \"1845000__tilde__1854999\" untuk pembulatan standar.</string>
+    <string name="help_faq_28_q">Bagaimana cara mencari nilai persentase? Misalnya, 123__percent__.</string>
+    <string name="help_faq_28_a">Tergantung implementasinya. Untuk setiap permainan semuanya bisa berbeda. Misalnya 123__percent__. Bisa __type_float__ atau __type_double__ dengan nilai apa pun. Seperti 1.23 atau 123.0. Atau bisa juga tipe integer: __type_byte__, __type_word__, __type_dword__. Misal 123 atau 12300. Pada output bisa dibagi beberapa. 100 atau 345 atau apapun. Untuk setiap permainan bisa berbeda. Anda dapat mencoba kasus yang paling jelas. Untuk 123__percent__ bisa jadi 1,23 atau 123. Ketik - __type_auto__. Jika Anda beruntung bisa jadi yang Anda butuhkan.</string>
+    <string name="help_faq_29_q">Bagaimana jika game mendeteksi __app_name__?</string>
+    <string name="help_faq_29_a">"Coba opsi berikut (satu per satu atau dalam kombinasi apa pun):
+\u0009- Aktifkan opsi \"__hide_from_game__\". Biasanya cukup 2, 3 dan 4 pilihan.
+- Jangan membatalkan penginstalan ulang __app_name__ dengan nama acak. Ini dilakukan pertama kali __app_name__ dijalankan di luar ruang virtual.
+\u0009- Gunakan XPrivacy atau utilitas serupa. Cari di Internet untuk mengetahui cara melakukan ini.
+\u0009- Jika Anda memiliki hak root, gunakan root dari ruang virtual dengan instalasi aplikasi tersembunyi. Baca lebih lanjut dalam bantuan konteks untuk pengaturan \"__vspace_root__\"."</string>
+    <string name="work_without_selinux">Beralih ke kantor tanpa __selinux__ dan mulai ulang aplikasi</string>
+    <string name="work_with_selinux">Beralih untuk bekerja dengan __selinux__ dan mulai ulang aplikasi</string>
+    <string name="file">Mengajukan:</string>
+    <string name="file_not_found">Berkas tidak ditemukan:</string>
+    <string name="export_selected">Ekspor dipilih</string>
+    <string name="failed_list_dir">Gagal membaca daftar file.</string>
+    <string name="change_float_type">Pilih jenis jendela mengambang</string>
+    <string name="reset_float_type">Setel ulang jenis jendela mengambang</string>
+    <string name="mask">Topeng:</string>
+    <string name="mask_request">Masukkan alamat yang akan dicari</string>
+    <string name="help_mask_search_title">Pencarian alamat (topeng)</string>
+    <string name="help_mask_search">"* Pencarian alamat (topeng):
+\u0009Anda dapat mencari atau memfilter berdasarkan alamat dengan topeng.
+
+\u0009Contoh umumnya adalah menelusuri alamat yang diakhiri dengan nilai yang diketahui. Misalnya, di \"12E\".
+
+\u0009Parameter pencarian adalah alamat dan topeng.
+\u0009Di alamat dapat digunakan wildcard (\"__question__\"). Simbol ini berarti bahwa itu dapat berupa karakter apa saja dari \"0\" hingga \"F\".
+\u0009Masker tambahan dibentuk dari alamat, jadi angka nol di depannya penting. Jadi, pencarian \"0120\" dan pencarian \"120\" bukanlah hal yang sama.
+\u0009Dalam kasus pertama akan ditemukan: \"00010120\", \"00020120\", \"00030120\" dan seterusnya. Sedangkan di second: \"00001120\", \"00002120\", \"00003120\" dan seterusnya.
+
+\u0009Anda dapat mencari persamaan dan ketidaksamaan yang ditunjukkan oleh topeng. Opsi kedua dapat berguna untuk menghilangkan nilai yang tidak perlu.
+
+\u0009Alamat dan topeng dimasukkan dalam sistem heksadesimal dan tanpa huruf \"__hex__\" di akhir.
+\u0009Topeng yang diperoleh dari alamat berpotongan dengan topeng yang Anda masukkan. Ini adalah topeng pencarian yang dihasilkan.
+
+\u0009Contoh berikut ini setara, karena mask yang dihasilkan sama - \"FF0\"
+__mask_example__
+"</string>
+    <string name="use_sound_effects">Gunakan efek suara:</string>
+    <string name="from_range">Dari:</string>
+    <string name="to_range">Untuk:</string>
+    <string name="resultant_mask">Masker yang dihasilkan:</string>
+    <string name="show_time_jump_panel">Tampilkan panel lompat waktu:</string>
+    <string name="use_notification">Gunakan notifikasi:</string>
+    <string name="show_gg">Tampilkan __app_name__</string>
+    <string name="hide_gg">Sembunyikan __app_name__</string>
+    <string name="time_remaining">Waktu yang tersisa:</string>
+    <string name="help_fill_title">Isi nilai (kenaikan)</string>
+    <string name="help_fill">"* Isi nilai (kenaikan):
+\u0009Seringkali terjadi terlalu banyak nilai yang ditemukan, tetapi nilai tersebut tidak dapat diubah dari permainan.
+\u0009Dalam hal ini, isian datang untuk menyelamatkan.
+
+\u0009Contoh umum penggunaan adalah mencari harga suatu barang, dengan penggantian berikutnya dengan yang negatif.
+
+\u00091. Pilih item yang diinginkan.
+\u00092. Pilih \"__edit_selected__\".
+\u00093. Tekan tombol \"__more__\" untuk menampilkan kolom \"__increments__\", jika kolom ini tidak ada.
+\u00094. Dalam bidang \"__increments__\", masukkan nilai kenaikan. Biasanya ini adalah 1. Dan klik \"__yes__\".
+5. Item yang dipilih akan menerima nilai baru.
+\u00096. Pergi ke permainan dan lihat bagaimana nilai yang diinginkan telah berubah, bergerak melintasi layar permainan.
+\u00097. Jika nilainya tidak berubah, maka elemen yang diinginkan tidak termasuk yang dipilih. Kembali ke __app_name__ dan menggunakan \"__delete_selected__\" -&amp;gt; \"__revert_and_remove__\", hapus item yang dipilih, mengembalikannya ke nilai sebelumnya. Sekarang Anda dapat mencoba semuanya dari awal dengan elemen lain, jika ada.
+\u00098. Jika nilainya sudah berubah, maka elemen yang diinginkan adalah salah satu elemen yang dipilih. Ingat nilai baru dan kembali ke __app_name__.
+\u00099. Dalam daftar item yang dipilih, cari nilai yang diinginkan. Batalkan pilihan itu. Hapus semua nilai lainnya, menggunakan \"__delete_selected__\" -&amp;gt; \"__revert_and_remove__\", mengembalikan nilai sebelumnya.
+\u000910. Ubah nilai elemen yang diinginkan sesuai kebutuhan.
+
+\u0009Kesalahan umum adalah penghapusan tanpa pengembalian. Setelah itu, game bisa crash.
+
+\u0009Jika Anda menemukan banyak nilai, coba lakukan pengisian dalam porsi kecil untuk menghindari crash.
+"</string>
+    <string name="help_hint_1">* Jika Anda selalu menemukan nilai yang diinginkan di kawasan yang sama (huruf di akhir item dalam daftar hasil), Anda hanya dapat memilih kawasan ini untuk pencarian lebih cepat.</string>
+    <string name="help_faq_30_q">__app_name__ mencari nilai dengan sangat lambat dan untuk waktu yang lama di emulator Android pada PC.</string>
+    <string name="help_faq_30_a">"Kemungkinan besar virtualisasi Anda dinonaktifkan di BIOS PC. Hidupkan.
+__app_name__ berjalan di dalam emulator, jadi kecepatan kerjanya bergantung pada kecepatan emulator.
+Jika virtualisasi diaktifkan, tetapi kecepatannya masih rendah, periksa setelan emulator Anda, atau gunakan emulator lain.
+Anda juga dapat menggunakan alat lain - CheatEngine untuk PC - alat ini akan mencari lebih cepat dan memberi Anda banyak fitur yang tidak akan pernah ada di __app_name__."</string>
+    <string name="help_speed_up_title">Bagaimana mempercepat pencarian</string>
+    <string name="help_speed_up">"* Cara mempercepat pencarian:
+\u00090. Jika Anda menggunakan emulator Android pada PC (BlueStacks, Droid4X, Andy, NOX, Memu, AMIDuOS, Windroy, AVD, Genymotion, Koplayer, Leapdroid dll.), Periksa virtualisasi tersebut (Teknologi VT, Teknologi Vanderpool, Teknologi Virtualisasi , VTx, VT-d, VMX, Teknologi Virtual, Intel-VT, AMD-V, SVM, IOMMU) diaktifkan di BIOS PC.
+\u00091. Jika Anda memiliki banyak RAM, maka Anda dapat menyimpan data di sana. Ini sangat mempercepat pencarian. Setel pengaturan \"__data_in_ram__\" menjadi \"__yes__\". Di emulator Android di PC, ini dapat memperlambat pencarian.
+\u00092. Jika RAM Anda sedikit, data akan disimpan di kartu memori. Gunakan kartu memori dengan kecepatan tulis dan baca yang tinggi.
+3. Anda juga dapat menentukan penyimpanan data di memori internal perangkat, jika lebih cepat dari kartu memori. Setel pengaturan \"__set_path__\" ke jalur yang diinginkan.
+\u00094. Pada pencarian, pilih hanya wilayah yang diinginkan. Hindari daerah yang lambat (\"__slow__\") dan berbahaya (\"__dangerous__\").
+\u00095. Anda juga dapat menentukan batas jangkauan memori, untuk pencarian, jika Anda mengetahuinya. Klik tombol \"__more__\" di dialog pencarian dan masukkan batasnya.
+\u00096. Cari hanya jenis data yang diinginkan. Jenis data \"__type_auto__\" lambat.
+\u00097. Nonaktifkan semua kemungkinan opsi \"__hide_from_game__\".
+\u00098. Coba gunakan \"__experimental__\" atau \"__extended__\" di \"__memory_access__\". Opsi ini dapat menyebabkan pekerjaan tidak stabil.
+"</string>
+    <string name="help_faq_31_q">Setelah beberapa saat, ikon __app_name__ menghilang.</string>
+    <string name="help_faq_31_a">"Coba klik di tempat ikon itu berada. Jika ini membuka antarmuka __app_name__, maka ikon disembunyikan di pengaturan atau firmware Anda memiliki bug dengan menampilkan ikon.
+Jika antarmuka tidak terbuka, itu berarti __app_name__ telah dibongkar dari memori.
+Kemungkinan alasan:
+
+\u00091. Tidak ada cukup RAM pada perangkat - __app_name__ dibunuh oleh sistem. Coba gunakan lebih sedikit RAM. Dalam pengaturan __app_name__, jangan tentukan penyimpanan data dalam RAM, jangan tetapkan sejumlah besar hasil yang ditampilkan, keluarkan aplikasi \"ekstra\" dari RAM, gunakan analog \"ringan\" dari aplikasi yang tidak dapat dibongkar (misalnya, peluncur ). Dalam kasus yang sangat buruk, reboot perangkat sebelum menjalankan __app_name__ dengan game. Hampir semua firmware selalu mengalami kebocoran RAM. Lebih banyak waktu setelah reboot - semakin sedikit RAM yang tersedia.
+
+\u00092. Anda memiliki proses pembunuh yang membunuh __app_name__.
+
+Nonaktifkan pembunuh atau tambahkan __app_name__ ke pengecualiannya.
+Pembunuh juga semua jenis \"pengoptimal\" dan \"penyempurna\" RAM.
+Secara umum, lihat deskripsi perangkat lunak, apakah Anda tidak tahu itu pembunuh atau bukan.
+
+Untuk FlyMe: __app_name__ karena alasan tertentu setelah beberapa menit pekerjaan dibongkar - Anda harus mengizinkan pekerjaan di latar belakang untuk __app_name__ dan manajer root Anda (biasanya SuperSu).
+
+Anda juga dapat mencoba mengaktifkan \"__use_notification__\" di pengaturan __app_name__. Terkadang pencegahan ini membunuh __app_name__."</string>
+    <string name="quick_start_title">Quick start</string>
+    <string name="prevent_unload">Cegah pembongkaran:</string>
+    <string name="hot_key">Kunci pintas:</string>
+    <string name="hide">Menyembunyikan</string>
+    <string name="execute_script">Jalankan skrip</string>
+    <string name="execute">Menjalankan</string>
+    <string name="another_script">Skrip lain sedang berjalan. Hentikan itu?</string>
+    <string name="interrupt">Mengganggu</string>
+    <string name="script">Naskah:</string>
+    <string name="script_ended">Script berakhir:</string>
+    <string name="paused">Permainan dijeda:</string>
+    <string name="by_pause_button">dengan tombol jeda</string>
+    <string name="by_option">"dengan opsi '__s__'"</string>
+    <string name="new_search_short">Baru</string>
+    <string name="speedhack_loading">Memuat speedhack ...</string>
+    <string name="speedhack_loaded">Speedhack dimuat.</string>
+    <string name="busy_dialog_fail">Dialog kemajuan tidak dapat ditampilkan.</string>
+    <string name="site">Situs</string>
+    <string name="help_xor_search_title">Pencarian XOR</string>
+    <string name="help_xor_search">"* Pencarian XOR:
+Jika Anda mengetahui bahwa nilai yang Anda butuhkan dienkripsi dengan kunci XOR yang selalu berada pada jarak yang sama dari nilai tersebut, Anda dapat menggunakan mode ini untuk mencari berdasarkan nilai yang didekripsi.
+\u00091. Beralih ke __app_name__ dari game.
+\u00092. Ketuk tombol \"__search_known_value__\" di tab \"__search__\".
+\u00093. Masukkan nomor pencarian dan jarak kunci XOR, dipisahkan dengan \"__mode_xor__\". Misalnya, untuk mencari nilai 100 dengan kunci jarak 8, masukkan:
+\u0009\u0009\u0009100__mode_xor__8
+\u0009\u0009Untuk memasukkan simbol tambahan, gunakan tombol \"__btn_hex__\" pada keyboard internal.
+\u00094. Pilih tipe data yang sesuai, atau pilih \"__type_auto__\" (jika Anda tidak yakin) dan opsi lain (jika perlu) dan klik \"__search__\".
+\u00095. Setelah selesai mencari, hasil pencarian akan ditampilkan dalam daftar.
+\u00096. Kembali ke permainan. Setelah nilainya berubah, alihkan ke __app_name__ lagi.
+\u00097. Ulangi pencarian XOR dengan perubahan yang sesuai.
+\u00098. Jika terlalu banyak hasil, ulangi langkah 6 dan 7.
+\u00099. Jika hanya sedikit hasil yang tersisa, Anda dapat mencoba mengubah, menyimpan, atau membekukan nilainya.
+
+\u0009Anda dapat menggunakan pencarian XOR dengan pencarian jangkauan. Misalnya \"100__tilde__150__mode_xor__8\".
+\u0009Biasanya pencarian XOR lebih lambat dari pencarian nomor biasa.
+\u0009Mode ini tidak didukung dalam pencarian grup atau pencarian terenkripsi.
+\u0009Jarak harus dari 1 hingga 4096 inklusif.
+\u0009Anda dapat memasukkan jarak dalam bentuk hex dengan simbol __hex__ di bagian akhir: \"100__tilde__150__mode_xor__10h\".
+\u0009Jarak harus menghormati nilai-nilai yang sejajar. Misalnya, dword harus sejajar dengan batas 4 byte. Pencarian berarti \"40__mode_xor__7\" ini tidak berguna untuk dword karena 7 tidak dapat membagi menjadi 4.
+\u0009Menggabungkan mode ini dengan yang lain dapat menyebabkan masalah pada firmware yang buruk. Misalnya, jika Anda melakukan pencarian biasa dan setelah itu memperbaiki dalam mode XOR, ini dapat menyebabkan hang atau reboot perangkat Anda. Ini tidak boleh terjadi jika pencarian pertama dalam mode ini.
+\u0009Pencarian fuzzy dari mode ini tidak didukung. Anda dapat menggabungkannya tetapi pekerjaan kabur seperti biasa dan tidak menghormati kunci XOR Anda dengan jarak.
+\u0009Tanda nilai dihormati. Artinya Anda bisa mencari nilai tidak sama, lebih besar, lebih kecil dan seterusnya.
+\u0009Dalam pencarian ini, semua nilai dianggap ditandatangani.
+"</string>
+    <string name="help_faq_32_q">Apa bedanya dengan versi HW / SW? Dan mana yang harus saya gunakan?</string>
+    <string name="try_latest">Mungkin skrip ini memerlukan versi terbaru __app_name__. Coba perbarui ke versi terbaru.</string>
+    <string name="help_string_search_title">Pencarian teks (string, HEX, AoB)</string>
+    <string name="download_scripts">Unduh skrip</string>
+    <string name="hide_icons">Sembunyikan ikon peluncur</string>
+    <string name="select_mode">Pilih mode</string>
+    <string name="mode_string">Teks</string>
+    <string name="mode_mixed">Campuran</string>
+    <string name="string_search_prompt">Masukkan teks yang akan dicari, hingga __d__ byte. Sebagai contoh</string>
+    <string name="string_empty">Anda harus memasukkan teks.</string>
+    <string name="string_not_found">Teks \"__s__\" tidak ditemukan.</string>
+    <string name="string_found">Ditemukan __d__ yang cocok dengan teks \"__s__\".</string>
+    <string name="string_replace">Apakah Anda ingin menggantinya?</string>
+    <string name="string_replace_prompt">Masukkan teks untuk mengganti \"__s__\". Panjangnya tidak lebih dari __d__ byte.</string>
+    <string name="string_replaced">Mengganti \"__s__\" menjadi \"__s__\" di __d__ tempat.</string>
+    <string name="need_allow_background">Pada firmware ini, Anda harus mengizinkan kerja __app_name__ di latar belakang, dalam pengaturan sistem.</string>
+    <string name="calculate_offset_xor">Hitung offset, XOR</string>
+    <string name="select_copy_item">Pilih item untuk disalin:</string>
+    <string name="landscape">Pemandangan</string>
+    <string name="portrait">Potret</string>
+    <string name="toolbar_buttons">Tombol bilah alat</string>
+    <string name="need_update_to">Anda memerlukan versi terbaru __app_name__ untuk menjalankan skrip ini. Setidaknya versi __s__. Anda memiliki versi __s__.</string>
+    <string name="default_mark">default</string>
+    <string name="default_">Default:</string>
+    <string name="reset_button">Setel ulang</string>
+    <string name="help_hex_colors_title">Warna di editor memori</string>
+    <string name="help_hex_colors">"* __help_hex_colors_title__:
+Jika representasi hex bukan putih, tapi berwarna, maka kemungkinan besar nilai ini adalah pointer. Warna menunjukkan jenis memori yang dirujuk penunjuk ini.
+Ini bisa berupa memori __executable__, __writable__ atau __read_only__. Dalam kasus yang jarang terjadi, bisa berupa memori __writable_and_executable__."</string>
+    <string name="executable">dapat dieksekusi</string>
+    <string name="writable">dapat ditulis</string>
+    <string name="read_only">hanya baca</string>
+    <string name="writable_and_executable">dapat ditulis dan dieksekusi</string>
+    <string name="help_extract">Ekstrak bantuannya</string>
+    <string name="help_extract_done">Bantuan diekstraksi ke __s__</string>
+    <string name="help_extract_fail">Terjadi kesalahan saat mengekstrak bantuan:</string>
+    <string name="try_arm_version">Coba gunakan versi __app_name__ dengan dukungan untuk prosesor ARM yang lebih lama:</string>
+    <string name="back">Kembali</string>
+    <string name="forward">Meneruskan</string>
+    <string name="no_previous">Tidak ada entri sebelumnya</string>
+    <string name="no_next">Tidak ada entri berikutnya</string>
+    <string name="from_item">Dari item:</string>
+    <string name="from_context">Dari menu konteks:</string>
+    <string name="from_boundary">Dari batas</string>
+    <string name="from_goto">Hubungi goto</string>
+    <string name="from_calc">Dari kalkulator offset:</string>
+    <string name="help_add_to_value_title">Opsi \"__add_not_replace__\"</string>
+    <string name="help_add_to_value">"* __help_add_to_value_title__:
+Jika opsi ini dicentang, nilai yang dimasukkan akan ditambahkan ke nilai yang sudah ada, dan tidak menggantikannya. Misalnya, elemen memiliki nilai 5, dan Anda memasukkan 7, di bidang nilai. Jika opsi ini dicentang, elemen akan mendapatkan nilai baru 5 + 7, sama dengan 12. Jika tidak dicentang, maka 7.
+Anda dapat memasukkan nilai positif dan negatif.
+Opsi ini tidak kompatibel dengan pembekuan nilai."</string>
+    <string name="check_libs">Periksa arsitektur perpustakaan game:</string>
+    <string name="arm_libs">"Gim ini diinstal dengan pustaka ARM, meskipun dalam apk ada pustaka x86.
+Speedhack dan segala sesuatu yang berhubungan dengannya, tidak akan berfungsi.
+\"__skip__\" menonaktifkan pemeriksaan ini. Anda dapat mengaktifkannya kembali di pengaturan."</string>
+    <string name="manual_install">Anda dapat menginstal file .apk secara manual. Itu terletak di jalur berikut:</string>
+    <string name="as_text">Sebagai teks (tidak dapat dimuat)</string>
+    <string name="as_text_help">Menyimpan daftar dalam format teks, nyaman untuk dibaca manusia. Pemuatan format ini tidak didukung.</string>
+    <string name="help_pointer_search_title">Pencarian penunjuk</string>
+    <string name="help_pointer_search">Mencari nilai yang bisa menjadi petunjuk ke alamat yang diinginkan. Anda dapat menentukan batas maksimum untuk kemungkinan offset.</string>
+    <string name="all_memory">Di semua memori</string>
+    <string name="offset_help">Batas maksimum untuk kemungkinan offset.</string>
+    <string name="typical_values">Nilai tipikal</string>
+    <string name="su_command">Perintah superuser</string>
+    <string name="starts">Dimulai dengan</string>
+    <string name="ends">Berakhir dengan</string>
+    <string name="no_filter">Tidak ada filter.</string>
+    <string name="help_memory_filter_title">Memfilter di editor memori</string>
+    <string name="help_memory_filter">"* __help_memory_filter_title__:
+Anda dapat menentukan filter di editor memori. Hanya hasil yang cocok dengan filter yang akan ditampilkan.
+Filter mendukung karakter pengganti:
+\u0009__caret__ - awal data,
+\u0009__dollar__ - akhir dari data,
+\u0009__asterisk__ - sejumlah dari karakter apa pun,
+\u0009__question__ - salah satu karakter apapun.
+Misalnya, untuk mencari angka 42, Anda harus memasukkan __caret__42__dollar__."</string>
+    <string name="use_sh">Gunakan shell perintah</string>
+    <string name="backgrounds">Latar belakang hitam</string>
+    <string name="actions">Tindakan:</string>
+    <string name="game_settings">Pengaturan untuk game:</string>
+    <string name="global_settings">Pengaturan global:</string>
+    <string name="ui_settings">Pengaturan UI:</string>
+    <string name="others">Lainnya:</string>
+    <string name="skip_memory">Lewati area memori:</string>
+    <string name="empty_memory">Kosong</string>
+    <string name="without_protection">tanpa perlindungan</string>
+    <string name="help_games_protection_title">Cara menyiasati perlindungan dalam game</string>
+    <string name="help_games_protection">"\u0009Beberapa game dilengkapi dengan perlindungan terhadap editor memori. Anda dapat mencoba yang berikut ini:
+\u00091. \"__kill_game__\", lalu \"__restart_game_without_protection__\".
+\u00092. \"__disable_protection__\", lalu jalankan (atau restart) game.
+\u00093. Gunakan semua atau sebagian item di \"__hide_from_game__\". Semuanya memperlambat pencarian.
+\u00094. Cari saat permainan diminimalkan.
+\u00095. Cari saat game dihentikan sementara.
+\u00096. Hentikan atau jeda beberapa proses perlindungan game, jika game memiliki beberapa proses.
+\u00097. Gunakan XPrivacy atau alat serupa untuk melewati perlindungan.
+\u00098. Gunakan modifikasi game tanpa perlindungan.
+"</string>
+    <string name="disable_protection">Nonaktifkan perlindungan untuk semua aplikasi (sampai reboot)</string>
+    <string name="must_restart_if">Jika Anda menjalankan game sebelum menonaktifkan perlindungan, Anda harus memulai ulang.</string>
+    <string name="patch_loading">Memuat tambalan ...</string>
+    <string name="patch_loaded">Patch dimuat.</string>
+    <string name="patch_failed">Patch tidak dimuat.</string>
+    <string name="history_limit">Batasan sejarah:</string>
+    <string name="copy_as_search">Salin sebagai pencarian grup</string>
+    <string name="add_types">Tambahkan tipe</string>
+    <string name="add_size">Tambahkan ukuran grup</string>
+    <string name="copy_rhex_value">Salin nilai hex terbalik:</string>
+    <string name="mips_arch">Aplikasi ini tidak mendukung arsitektur MIPS.</string>
+    <string name="unrandomizer">Unrandomizer</string>
+    <string name="functions">fungsi</string>
+    <string name="help_unrandomizer">"
+Unrandomizer adalah fitur yang dirancang untuk menggantikan fungsi tertentu yang biasa digunakan dalam game untuk menghasilkan nilai acak. Pada level yang sangat sederhana, misalnya, mungkin ada game yang menggunakan fungsi pengacak untuk menentukan hadiah pemain. Mengaktifkan unrandomizer akan menyebabkan __app_name__ mencoba mengganti nilai acak ini dengan nilai yang ditentukan untuk mengubah hasilnya (misalnya, untuk mendapatkan hadiah tertentu).
+
+Unrandomizer tidak akan berfungsi di semua kasus. Ini hanya akan menangani fungsi yang diketahuinya. Dalam kebanyakan kasus dan untuk sebagian besar pengguna, ini tidak akan digunakan, karena ini lebih merupakan fitur lanjutan / eksperimental.
+
+Beberapa fungsi mengembalikan __type_qword__, beberapa - __type_double__ (jarang digunakan).
+
+Nilai __type_double__ harus dalam kisaran 0 hingga 1. Namun, Anda dapat menentukan nilai apa pun di sana, karena __app_name__ akan memperbaiki semua varian yang salah secara otomatis.
+
+Anda juga dapat menentukan langkah kenaikan. Dalam hal ini, setiap hasil selanjutnya akan meningkat sebesar nilai ini. Misalnya, untuk kenaikan 1 dan nilai awal 0, sebagai ganti nilai acak, 0, 1, 2, 3, ... akan dikembalikan.
+Opsi ini dapat berguna untuk pencarian lengkap dari semua kemungkinan hasil acak.
+
+Anda dapat menentukan fungsi mana yang akan diubah di pengaturan __app_name__.
+"</string>
+    <string name="count_replace">Berapa banyak hasil pertama yang harus diganti?</string>
+    <string name="unrandomizer_loading">Memuat unrandomizer ...</string>
+    <string name="unrandomizer_loaded">Unrandomizer dimuat.</string>
+    <string name="warn_restart_off_prot">"Opsi ini akan mencoba memulai ulang permainan tanpa perlindungan.
+Namun, banyak firmware mengandung bug yang dapat menyebabkan perangkat melakukan boot ulang.
+Jika ini terjadi, jangan coba memulai permainan lagi, karena ini akan memulai ulang perangkat lagi.
+Jalankan saja __app_name__ - ini akan menghapus pengaturan yang buruk.
+Anda juga dapat mencoba me-reboot perangkat dengan cara biasa, ini juga harus memperbaiki masalah.
+
+Jika reboot telah terjadi - jangan gunakan fungsi ini, ini tidak akan berfungsi pada firmware Anda."</string>
+    <string name="warn_patch_off_prot">"Opsi ini akan mencoba menambal sistem (sementara) sehingga semua aplikasi berjalan tanpa proteksi.
+Perubahan hanya akan berlaku untuk aplikasi baru yang dimulai. Oleh karena itu, aplikasi target, setelah patch berhasil, perlu direstart.
+Untuk membatalkan tambalan, cukup mulai ulang perangkat.
+Mungkin akan ada berbagai bug di sistem, setelah tambalan ini.
+
+Jika patch berhasil, tidak disarankan untuk menjalankan fungsi ini lagi, sebelum me-reboot perangkat.
+
+Jika Anda mengalami masalah, jangan gunakan fungsi ini."</string>
+    <string name="clear_history">Hapus riwayat masukan</string>
+    <string name="clear_history_warn">Semua entri, termasuk yang disematkan, akan dihapus.</string>
+    <string name="click_edit">Klik di sini untuk mengedit</string>
+    <string name="ignore_unknown_chars">Abaikan karakter yang tidak diketahui:</string>
+    <string name="need_root_mode">Fitur ini membutuhkan akses root. Saat ini __app_name__ berjalan dalam mode lingkungan virtual tanpa akses root.</string>
+    <string name="work_without_root_title">Bekerja tanpa root</string>
+    <string name="work_without_root">"__app_name__ dapat bekerja tanpa root, melalui lingkungan virtual. Misalnya, melalui __vspace_list__ dan banyak lainnya.
+__app_name__ harus diinstal di lingkungan virtual. Permainan juga harus dipasang di sana.
+Tidak semua fitur program didukung, tetapi sebagian besar fungsi harus berfungsi.
+
+Anda tidak akan bisa memecahkan game yang tidak dipasang di lingkungan virtual.
+
+Peluncuran pertama __app_name__, yang melakukan penginstalan ulang dengan nama paket acak, tidak boleh dilakukan melalui lingkungan virtual.
+Kemudian Anda dapat menambahkan __app_name__ ke lingkungan virtual dan menggunakan."</string>
+    <string name="help_game_not_listed_title">Mengapa game saya tidak ada dalam daftar proses?</string>
+    <string name="fractional_hint">"Bagian pecahan dari bilangan real \"x\" adalah kelebihan di luar bagian bilangan bulat dari bilangan tersebut.
+Untuk bilangan, bagian pecahannya sesuai dengan angka yang muncul setelah titik radix.
+
+Sebagai contoh:"</string>
+    <string name="pointer">Pointer:</string>
+    <string name="help_search_filter_title">Filter dalam pencarian</string>
+    <string name="help_search_filter">"Anda dapat memfilter hasil pencarian.
+Anda dapat menentukan:
+\u0009- batas alamat,
+\u0009- batas nilainya,
+\u0009- tipe data yang dibutuhkan,
+\u0009- bagian pecahan yang diinginkan dari nomor tersebut,
+\u0009- jenis penunjuk yang diinginkan.
+Anda dapat menggabungkan filter apa pun satu sama lain.
+Anda juga dapat menonaktifkan salah satu atau salah satu filter kapan saja.
+
+Namun, jika sejumlah besar data ditemukan, filter dapat memperlambat hasil.
+
+Filter pada bagian pecahan sebuah bilangan dapat berupa persamaan atau pertidaksamaan.
+Untuk tipe integer, bagian pecahannya adalah nol. Jika Anda tidak membutuhkan tipe integer, kecualikan mereka menggunakan filter tipe.
+
+Filter menurut jenis penunjuk memungkinkan untuk meninggalkan dalam keluaran hanya nilai-nilai yang dapat menjadi penunjuk ke jenis memori yang diinginkan.
+Jenis memori yang memungkinkan sesuai dengan warna di editor memori:
+Ini bisa berupa memori __executable__, __writable__ atau __read_only__. Dalam kasus yang jarang terjadi, bisa berupa memori __writable_and_executable__.
+
+Pseudo-type \"no pointer\" berhubungan dengan semua tipe data yang tidak bisa menjadi pointer, dan juga nilai pointer yang mengarah ke memori yang tidak terisi."</string>
+    <string name="unmount_kill">"Kartu memori dilepas, sementara __app_name__ menyimpan file sementara di dalamnya. Hal ini menyebabkan penutupan paksa daemon.
+
+Untuk mencegah hal ini terjadi, tentukan jalur berbeda ke file sementara. Misalnya di memori internal.
+Harus ada cukup ruang kosong."</string>
+    <string name="calls">Mode panggilan sistem:</string>
+    <string name="alternative">Alternatif</string>
+    <string name="help_calls">"Di beberapa firmware, misalnya Lenovo, mode alternatif dapat bekerja lebih cepat.
+
+Biasanya, Anda tidak perlu mengubah opsi ini."</string>
+    <string name="help_context_title">Bantuan kontekstual</string>
+    <string name="help_context">"Pada antarmuka, beberapa elemen ditandai dengan ikon khusus, di kanan atas, dengan simbol __i__ di lingkaran.
+Menekan atau menekan lama, pada elemen ini, menunjukkan bantuan pada elemen ini."</string>
+    <string name="waitpid_mode">Mode __waitpid__:</string>
+    <string name="help_waitpid">"Di beberapa firmware, panggilan sistem __waitpid__ tidak berfungsi seperti yang diharapkan. Ini biasanya karena pengaturan SeLinux yang salah.
+Ini mengarah ke pencarian tanpa akhir di __app_name__.
+Anda dapat mencoba menggunakan mode alternatif. Mungkin ini akan berhasil."</string>
+    <string name="microseconds_short">μs</string>
+    <string name="small_is_bad">Nilai yang terlalu kecil dapat menyebabkan beban tinggi pada prosesor dan kelambatan dalam permainan.</string>
+    <string name="freeze_interval_help">Interval di mana __app_name__ menimpa nilai dalam memori game.</string>
+    <string name="saved_list_update_interval_help">Interval di mana __app_name__ memperbarui nilai dalam daftar yang disimpan.</string>
+    <string name="icons_size_help">"Ukuran ikon di antarmuka __app_name__.
+Tidak berlaku untuk ikon mengambang."</string>
+    <string name="ignore_unknown_chars_help">Dapat membantu memecahkan masalah saat menyalin nomor dari tempat yang berbeda, jika karakter khusus disalin bersama dengan nomor tersebut.</string>
+    <string name="use_notification_help">"Penggunaan notifikasi di area notifikasi sistem Android.
+Pada beberapa firmware, ini meningkatkan prioritas aplikasi dan mencegahnya ditutup.
+Anda juga dapat menggunakan notifikasi untuk pergi ke __app_name__ atau game dengan mengkliknya.
+Ini dapat berguna jika Anda tidak dapat mengklik ikon mengambang."</string>
+    <string name="use_sound_effects_help">"Sistem berbunyi saat Anda menekan tombol dan item.
+Pada beberapa firmware, suara menyebabkan __app_name__ macet."</string>
+    <string name="keyboard_help">Keyboard internal membutuhkan lebih sedikit memori, memuat lebih cepat dan dioptimalkan untuk memasukkan angka.</string>
+    <string name="allow_suggestions_help">"Petunjuk dari keyboard eksternal.
+Pada beberapa firmware, petunjuk menyebabkan __app_name__ macet."</string>
+    <string name="autopause_help">Secara otomatis menghentikan game saat membuka antarmuka __app_name__.</string>
+    <string name="killed_by">__app_name__ ditutup paksa oleh aplikasi \"__s__\". Untuk menghindari hal ini, hapus aplikasi ini atau konfigurasikan sehingga tidak menghentikan __app_name__.</string>
+    <string name="killers_found">"Anda telah menginstal aplikasi yang dapat menutup paksa __app_name__:
+__s__
+Untuk menghindarinya, hapus, atau konfigurasikan agar tidak menghentikan __app_name__.
+
+Jika Anda tidak mengalami masalah dengan penutupan __app_name__ yang tidak terduga, maka tidak ada tindakan yang diperlukan, dan Anda dapat mengabaikan pesan ini."</string>
+    <string name="record_logcat">Rekam __logcat__</string>
+    <string name="record_logcat_info">"__app_name__ akan dimulai ulang dengan merekam __logcat__ ke dalam file:
+\"__s__\".
+
+Untuk mengakhiri perekaman, keluar dari __app_name__.
+Setelah itu, Anda dapat mengirim file log ke tempat yang Anda butuhkan."</string>
+    <string name="need_uninstall">Anda perlu menghapus penginstal, jika tidak, Anda akan memiliki 4 ikon, bukan 2. Game juga akan mendeteksinya.</string>
+    <string name="need_random_name">"__app_name__ menggunakan nama paket standar. Game dapat mendeteksinya.
+
+Untuk memperbaikinya - jalankan __app_name__ di luar ruang virtual sebagai aplikasi normal.
+Setelah penginstalan selesai, tambahkan salinan __app_name__ dengan nama acak ke ruang virtual."</string>
+    <string name="work_mode">Mode kerja</string>
+    <string name="root">akar</string>
+    <string name="no_root">tanpa akar</string>
+    <string name="how_no_root">"Anda perlu menginstal aplikasi ruang virtual. Seperti: __vspace_list__.
+
+Disarankan untuk menginstal versi yang dioptimalkan dari situs resmi __app_name__.
+
+Kemudian Anda harus menambahkan __app_name__ dan game Anda ke ruang virtual ini.
+
+Setelah itu Anda harus menjalankan game dan __app_name__ di ruang virtual."</string>
+    <string name="eperm_error_descr_0">Kemungkinan alasan:</string>
+    <string name="eperm_error_descr_1">Perlindungan dalam game.</string>
+    <string name="eperm_error_descr_2">Debugger atau cracker lain terhubung ke game.</string>
+    <string name="eperm_error_descr_3">Izin tidak cukup. Biasanya karena kesalahan konfigurasi __selinux__. Nonaktifkan atau konfigurasi __selinux__.</string>
+    <string name="eperm_error_descr_4">Kernel atau firmware buruk. Coba firmware lain atau perangkat lain.</string>
+    <string name="eperm_error_descr_5">Di firmware Anda, mode \"tanpa root\" tidak berfungsi. Coba firmware lain atau perangkat lain atau dapatkan root.</string>
+    <string name="ptrace_bypass_mode">Mode bypass untuk perlindungan ptrace:</string>
+    <string name="mode_restore">mengembalikan</string>
+    <string name="mode_nothing">tidak ada</string>
+    <string name="mode_freeze">membekukan</string>
+    <string name="ptrace_bypass_mode_help">"Menunjukkan apa yang harus dilakukan setelah menonaktifkan koneksi perlindungan:
+\u0009__mode_restore__ - pulihkan koneksi
+\u0009__mode_nothing__ - tidak melakukan apa-apa (biasanya perlindungan itu sendiri memulihkan koneksi)
+\u0009__mode_freeze__ - membekukan utas (seperti pada versi sebelumnya)
+
+Jika Anda memulihkan perlindungan, atau mengizinkan perlindungan melakukannya sendiri, pembekuan nilai di __app_name__ dapat menyebabkan kelambatan karena sambungan permanen / penonaktifan perlindungan."</string>
+    <string name="slow_emulator">"Anda menggunakan emulator \"__s__\". Ini lambat dan mengandung kesalahan. Karena itu, pencarian bisa sangat lambat.
+
+Kami merekomendasikan menggunakan emulator lain:"</string>
+    <string name="text">Teks</string>
+    <string name="show_debug_info">Tampilkan info debug</string>
+    <string name="mnt_expand">"__app_name__ diinstal pada kartu memori yang digunakan sebagai \"Penyimpanan internal\".
+Ini dapat mengganggu pengoperasian ruang virtual.
+Jika ini terjadi, instal __app_name__ di memori internal perangkat.
+Anda mungkin perlu memformat ulang kartu memori sebagai \"Penyimpanan portabel\"."</string>
+    <string name="help_game_not_listed_root">"Permainan harus berjalan untuk memilihnya.
+
+Jika gim sedang berjalan, tetapi masih tidak ada dalam daftar, mungkin Anda memiliki masalah dengan root, atau firmware.
+Coba root lain atau firmware lain."</string>
+    <string name="help_game_not_listed_noroot">"Game tersebut harus diluncurkan di ruang virtual agar dapat dipilih.
+
+Anda tidak dapat memilih game jika tidak berjalan di ruang virtual.
+
+Jika game berjalan di ruang virtual, tetapi masih tidak ada dalam daftar, coba ruang virtual lain, firmware lain, perangkat lain, atau dapatkan root."</string>
+    <string name="daemon_killed_oom">"Daemon dibunuh oleh sistem karena kekurangan memori.
+
+Setel \"__data_in_ram__\" menjadi \"__no__\".
+Gunakan akselerasi perangkat keras antarmuka, jika memungkinkan.
+Jangan gunakan aplikasi besar.
+Nonaktifkan semua aplikasi lain yang tidak digunakan.
+Coba gunakan __app_name__ setelah me-reboot perangkat Anda."</string>
+    <string name="selected_as_search_result">Dipilih sebagai hasil pencarian</string>
+    <string name="clear_results_prompt">Ini akan menggantikan hasil pencarian saat ini. Terus?</string>
+    <string name="position_in_memory_editor">Posisikan di editor memori</string>
+    <string name="script_prompt_internet">"Skrip ingin mengakses Internet. Jika Anda mengizinkan akses, skrip akan dapat mencuri login, kata sandi, simpanan, dan data lainnya dari game. Juga akan dapat mencuri skrip Anda yang lain, atau mengunduh virus ke perangkat Anda.
+
+Izinkan akses skrip ke Internet?"</string>
+    <string name="level">Tingkat</string>
+    <string name="float_prompt">"Untuk menjalankan __app_name__ dengan benar pada firmware Anda, Anda harus mengizinkan penggunaan jendela sembulan di pengaturan sistem untuk __s__.
+
+Popup tidak ditampilkan di ponsel Huawei secara default. Anda harus mengizinkan __s__ untuk menampilkan munculan. Silakan buka Manajer Telepon, kemudian Manajemen Dropzone dan pastikan telah diaktifkan untuk __s__.
+
+Popup juga tidak muncul di beberapa ponsel Xiaomi. Anda harus menuju ke Pengaturan -&amp;gt; Aplikasi yang diinstal -&amp;gt; __s__ -&amp;gt; Izin lain -&amp;gt; Tampilkan jendela pop-up.
+
+Selain itu, ponsel lain mungkin memiliki prosedur berbeda untuk mengizinkan aplikasi menampilkan jendela Popup. Semua aplikasi semacam itu biasanya terpengaruh dengan cara ini, misalnya aplikasi Google Translator dengan fungsi Ketuk Untuk Menerjemahkan. Oleh karena itu, Anda cukup google \"ketuk TELEPON ANDA untuk menerjemahkan\" untuk menemukan solusi. Misalnya untuk perangkat Xiaomi Redmi solusinya adalah sebagai berikut:"</string>
+    <string name="virtual_space">Aplikasi Ruang Virtual</string>
+    <string name="prevent_unload_help">"Cegah pembongkaran __app_name__ dari memori (tutup paksa).
+
+Setiap level berikutnya lebih kuat dari yang sebelumnya dan menyertakannya di dalamnya.
+
+Tingkat ketiga dapat menyebabkan masalah (hang toast, reboot atau crash) pada beberapa firmware dan emulator.
+
+Tanpa root, hanya level ketiga yang berfungsi."</string>
+    <string name="integer_type">Tipe data ini hanya untuk nilai integer dan tidak mendukung nilai pecahan. Gunakan __type_float__ atau __type_double__ untuk nilai pecahan.</string>
+    <string name="without_float">Anda juga dapat menggunakan __app_name__ tanpa jendela mengambang:</string>
+    <string name="any_value">nilai apapun</string>
+    <string name="help_group_search_any_value">Anda dapat menggunakan __any__ dalam pencarian grup terurut bersama dengan ukuran minimum untuk menentukan nilai apa pun dari jenis itu di posisi yang diinginkan.</string>
+    <string name="help_scripts_title">Skrip</string>
+    <string name="help_scripts">"* __help_scripts_title__:
+__app_name__ mendukung eksekusi skrip yang ditulis dalam Lua.
+
+Pada tab pencarian, klik menu dan pilih \"__execute_script__\".
+Di sini Anda dapat memilih file skrip untuk dieksekusi, melihat metode API __app_name__ yang ada, atau buka situs resmi untuk membaca bantuan tentang API atau mengunduh skrip siap pakai.
+Selain itu, Anda dapat mengekstrak bantuan dari API pada kartu memori untuk membacanya tanpa internet.
+
+Jika Anda ingin menulis skrip Anda sendiri, maka Anda memerlukan editor file teks eksternal.
+__app_name__ tidak mengizinkan skrip pengeditan, ia hanya menjalankannya.
+
+Baca bantuan API untuk lebih jelasnya."</string>
+    <string name="help_floating_icon_absent">Jika setelah mengklik tombol \"__start__\" Anda tidak melihat ikon mengambang:</string>
+    <string name="remove_all2">Menghapus semua</string>
+    <string name="debug_load">Buang semua pemuatan kode</string>
+    <string name="debug_log">Catat sebagian besar panggilan skrip</string>
+    <string name="vspace64">"Anda menjalankan __app_name__ di ruang virtual yang mendukung proses 64-bit.
+
+__app_name__ tidak akan melihat proses 32-bit yang berjalan di ruang ini.
+
+Instal salinan kedua __app_name__ dalam mode \"__for32__\" jika Anda ingin bekerja di __app_name__ dengan proses 32-bit."</string>
+    <string name="folder_new">Folder baru</string>
+    <string name="folder_exists">Folder ini sudah ada</string>
+    <string name="folder_file">Ada file dengan nama itu</string>
+    <string name="folder_failed">Gagal membuat folder</string>
+    <string name="force_close">"Penutupan aplikasi sebelumnya tidak terduga.
+
+Anda dapat meningkatkan level konfigurasi \"__prevent_unload__\" untuk menghindari hal ini di masa mendatang."</string>
+    <string name="help_force_close_title">Shutdown tak terduga</string>
+    <string name="install_mode">Pasang mode</string>
+    <string name="for32">Untuk meretas game 32-bit di ruang virtual 64-bit</string>
+    <string name="for64">Untuk meretas game 64-bit di ruang virtual 64-bit</string>
+    <string name="reset_ignore">Setel ulang semua pengabaian untuk semua dialog</string>
+    <string name="allocate_fail">Tidak dapat mengalokasikan halaman memori. Kesalahan</string>
+    <string name="allocated">Halaman memori yang dialokasikan:</string>
+    <string name="allocate_page">Alokasikan halaman memori</string>
+    <string name="prot_read">Dapat dibaca</string>
+    <string name="prot_write">Dapat ditulis</string>
+    <string name="prot_exec">Dapat dieksekusi</string>
+    <string name="install_finished">"Penginstalan berhasil.
+Jalankan salinan yang diinstal secara manual sehingga dapat memigrasi data Anda.
+Setelah itu, penginstal dapat dihapus."</string>
+    <string name="odd_vspace">__app_name__ diluncurkan di ruang virtual?</string>
+    <string name="record_script">Rekam skrip</string>
+    <string name="record">Merekam</string>
+    <string name="another_record">Rekor lain sedang berjalan. Hentikan?</string>
+    <string name="record_ended">Rekaman selesai:</string>
+    <string name="stop">Berhenti</string>
+    <string name="could_not_use">Tidak bisa menggunakan:</string>
+    <string name="not_optimized2">"Anda menggunakan versi ruang virtual yang tidak dioptimalkan (\"__s__\").
+Untuk memperbaiki kesalahan ini, hapus versi yang tidak dioptimalkan dari \"__s__\" dan instal salah satu ruang virtual yang dioptimalkan dari situs resmi __app_name__.
+Klik \"__fix_it__\" untuk menuju ke pemilihan ruang virtual yang dioptimalkan."</string>
+    <string name="fix_path">Kosongkan ruang atau tentukan jalur berbeda untuk file sementara dengan mengklik \"__fix_it__\".</string>
+    <string name="deep_read">Bacaan mendalam:</string>
+    <string name="help_deep_read">"Membaca memori dengan semua metode yang tersedia, jika tidak bisa dibaca.
+Dapat memperlambat pembacaan memori."</string>
+    <string name="ptrace_fail">Gagal mengubah memori melalui ptrace.</string>
+    <string name="ptrace_fail_partially">Beberapa fitur, speedhack dan segala sesuatu yang berhubungan dengannya, tidak akan berfungsi. Menulis ke memori hanya-baca (termasuk kode) tidak dimungkinkan.</string>
+    <string name="ptrace_fail_full">Sebagian besar fitur tidak akan berfungsi.</string>
+    <string name="ptrace_fail_solve">"Alasan tipikal adalah kernel rusak di firmware.
+Coba ubah firmware. Jika Anda baru saja memperbaruinya - instal versi sebelumnya.
+
+Jika ini tidak berhasil, ubah perangkat."</string>
+    <string name="feature_hide_4">Fitur ini tidak dapat bekerja jika item keempat dipilih di \"__hide_from_game__\".</string>
+    <string name="feature_firmware">Fitur ini tidak dapat berfungsi tanpa ptrace, yang tidak berfungsi pada firmware ini.</string>
+    <string name="feature_protection">Fitur ini tidak dapat berfungsi karena perlindungan ptrace dalam game.</string>
+    <string name="not_file">Path bukan file:</string>
+    <string name="not_execute">Tidak dapat mengeksekusi:</string>
+    <string name="check_install">Periksa apakah __app_name__ telah diinstal dengan benar.</string>
+    <string name="sdcard_install">Jika __app_name__ diinstal pada penyimpanan eksternal (kartu SD), kembalikan ke memori internal</string>
+    <string name="change_address_type">Ubah alamat / jenis</string>
+    <string name="bad_offset">Offset bukan kelipatan __d__.</string>
+    <string name="bad_result_address">Alamat yang dihasilkan bukan kelipatan __d__.</string>
+    <string name="correct_types">__d__ elemen akan mengubah tipenya untuk mengoreksi perataan yang tidak mungkin.</string>
+    <string name="reinstall_fail">"Tidak dapat menginstal ulang __app_name__ dengan nama acak.
+
+__app_name__ dapat dengan mudah dideteksi oleh game.
+
+Anda dapat merekam __logcat__, selama instalasi, dan menghubungi forum resmi untuk bantuan.
+
+Alasan penolakan:"</string>
+    <string name="empty_field">Bidang masukan kosong: tidak ada angka yang akan diubah</string>
+    <string name="need_integer">Anda harus memilih bilangan bulat untuk dikonversi.</string>
+    <string name="maps_failed">Tidak dapat membuka file \"__maps__\".</string>
+    <string name="game_protected">Game dilindungi.</string>
+    <string name="need_root">Perlu root untuk meretas game ini.</string>
+    <string name="vspace_error">"Masalah ruang virtual atau firmware atau perangkat.
+
+Mencoba:
+\u0009- gunakan ruang virtual lain
+\u0009- gunakan firmware lain
+\u0009- dapatkan root
+\u0009- gunakan perangkat lain"</string>
+    <string name="root_error">"Masalah firmware atau root atau perangkat.
+
+Mencoba:
+\u0009- gunakan firmware lain
+\u0009- gunakan root lain
+\u0009- gunakan perangkat lain"</string>
+    <string name="vspace_root">Gunakan root di ruang virtual:</string>
+    <string name="help_vspace_root">"Menggunakan root dari ruang virtual dapat membantu menyembunyikan fakta bahwa terdapat __app_name__ pada perangkat.
+
+Ini tidak berfungsi di semua firmware dan tidak di semua ruang virtual.
+
+Ruang virtual, firmware, dan root harus memungkinkan bekerja dengan root dari ruang virtual.
+Ruang virtual memungkinkan Anda untuk menginstal aplikasi ke dalam tanpa menginstalnya ke dalam sistem.
+
+Tidak semua ruang virtual dapat menyediakan ini.
+
+Tidak di semua firmware, mode ini akan berfungsi. Dan tidak dengan semua root.
+
+Karena hak root akan diberikan ke seluruh ruang virtual, Anda tidak boleh menginstal apa pun di dalamnya. Jika tidak, aplikasi apa pun dari ruang virtual dapat menggunakan hak root dengan konsekuensi yang tidak dapat diprediksi.
+
+Game harus dipasang di luar ruang virtual.
+
+__app_name__ harus dipasang hanya di dalam ruang virtual, tanpa menginstalnya ke dalam sistem.
+Bagaimana melakukan ini - lihat bantuan dari ruang virtual tertentu.
+
+Misalnya, untuk __vexp__, Anda dapat mengkloning __app_name__ dari sistem di __vexp__, lalu menghapus __app_name__ dari sistem."</string>
+    <string name="help_games_protection_9">9. Gunakan root di ruang virtual yang memungkinkan untuk menginstal aplikasi ke dalam diri Anda sendiri tanpa menginstal ke sistem.</string>
+    <string name="locale_ui">Di tempat Anda</string>
+    <string name="locale_script">Skrip selalu menggunakan bahasa Inggris</string>
+    <string name="locale_desc">"'__s__' - pemisah desimal
+'__s__' - ribuan pemisah
+'__semicolon__' - pemisah angka dalam pencarian grup"</string>
+    <string name="help_unaligned_title">Pencarian tidak selaras / pencarian big-endian</string>
+    <string name="help_unaligned">"Dalam beberapa aplikasi, (misalnya, seperti emulator konsol), nilai dalam memori mungkin tidak menghormati penyelarasan, atau disajikan dalam urutan byte big-endian.
+
+Nilai tersebut tidak dapat ditemukan melalui pencarian normal.
+
+Untuk menemukannya - gunakan skrip khusus dari situs resmi __app_name__:"</string>
+    <string name="help_formula_calculator_title">Kalkulator rumus</string>
+    <string name="help_formula_calculator">"Hampir di setiap bidang untuk memasukkan angka, Anda dapat memasukkan rumus matematika, setelah tanda sama dengan, misalnya, di bidang pencarian masukkan '= 2 + 2 * 3', dan program akan mencari hasil rumus, itu adalah, '8'.
+Rumusnya adalah ekspresi Lua. Anda dapat menggunakan semua kekuatan Lua yang tersedia di dalamnya.
+
+Semua operator aritmatika Lua 5.3 dapat diterima - penjumlahan (+), pengurangan (-), perkalian (*), pembagian (/), sisa pembagian (%), eksponen (^), pembagian integer (//), dan seterusnya.
+Juga tersedia operator bit - AND (&amp;amp;), OR (|), Exclusive OR (binary ~), NOT (unary ~), Shift to the right (&amp;gt;&amp;gt;), Shift to the left (&amp;lt;&amp;lt;). Urutan tindakan dapat diberikan dengan tanda kurung.
+Bacalah manual Lua untuk daftar lengkap operasi yang tersedia.
+
+Ini berguna jika Anda tahu bagaimana nilai dikodekan dalam permainan. Misalnya, 29 putaran dalam satu permainan dapat ditemukan sebagai '= 29 ~ 444444'. Ini setara dengan 29 XOR 444444. Dalam sampel video, harga ditemukan 3888 sampai XOR dengan 444444, sebagai '= 444444 ~ 3888'. Setelah ini, penggantian dilakukan ke '= 444444 ~ 1', yang menetapkan harga menjadi '1'. Di permainan lain, 125 emas seperti '= 125 * 10'.
+
+Tidak semua fungsi skrip tersedia di kalkulator rumus. Beberapa fungsi tidak tersedia. Jika Anda tidak memiliki cukup banyak - tulis skrip Anda, alih-alih menggunakan kalkulator rumus, ini dimaksudkan hanya untuk perhitungan sederhana. Tersedia: bagian dari fungsi dasar, 'bit32', 'table', 'string', 'utf8', 'math', bagian dari paket 'os'. Paket 'debug', 'package', 'gg', 'io' tidak tersedia.
+
+Saat Anda menulis '= 2 + 2 * 3', kata kunci 'kembali' akan ditambahkan sebelum rumus: 'return 2 + 2 * 3'. Namun, Anda dapat menentukan sendiri kata ini dalam rumus jika Anda memerlukan rumus yang kompleks.
+Misalnya, '= a = 5; b = 7; return a * 4 + b * 8 'akan dieksekusi sebagai' a = 5; b = 7; mengembalikan a * 4 + b * 8 '
+
+Hasil kalkulator rumus adalah string teks. String tersebut dapat berupa string apa pun yang valid untuk bidang masukan ini.
+Misalnya, itu mungkin string untuk pencarian grup atau pencarian rentang. '= a = 5; b = 7; mengembalikan .. \";\" .. b .. \":: 100\" 'sama dengan' 5; 7 :: 100 '.
+
+Kalkulator rumus tidak berfungsi dalam skrip, di sana Anda dapat langsung menggunakan Lua.
+Saat menulis skrip, hasil perhitungan rumus akan ditulis ke file, bukan rumus itu sendiri.
+
+Jika rumus tidak benar, Anda akan menerima pesan kesalahan saat Anda mengirimkan formulir.
+
+Saat menghitung, Anda harus memperhitungkan fakta bahwa perhitungan dilakukan dalam jenis yang ditentukan oleh operan pertama. Jika bilangan bulat, maka hasilnya adalah bilangan bulat.
+Misalnya, '= 3/2' adalah '1', dan '= 3.0 / 2' adalah '1.5'.
+
+Terlepas dari lokal yang dipilih, rumus bekerja dalam bahasa Inggris. Artinya, pemisah desimal selalu berupa titik ('.')."</string>
+    <string name="help_faq_32_b">"Dua ikon peluncuran. Yang pertama, dengan akselerasi perangkat lunak - \"__app_short_name_sw__\", yang kedua, dengan akselerasi perangkat keras - \"__app_short_name_hw__\". Sekarang akan selalu demikian.
+Pada beberapa firmware, hanya satu versi yang berfungsi, pada yang normal keduanya.
+Lebih baik menggunakan akselerasi perangkat lunak, ini bekerja kurang lancar, tetapi menghabiskan lebih sedikit memori.
+
+Anda dapat menyembunyikan salah satu ikon dalam pengaturan aplikasi: \"__hide_icons__\"."</string>
+    <string name="acceleration_help_">"Akselerasi antarmuka perangkat keras atau perangkat lunak __app_name__.
+Bergantung pada game dan firmware, beberapa opsi dapat menyebabkan masalah.
+Jika keduanya berfungsi, gunakan akselerasi perangkat lunak karena menggunakan lebih sedikit memori.
+
+Opsi ini terpisah dari ikon peluncuran dan hanya memengaruhi tampilan antarmuka __app_name__.
+Ikon peluncuran bertanggung jawab atas jenis percepatan layar mulai.
+
+Akselerasi perangkat keras menghabiskan lebih banyak memori, tetapi bekerja lebih lancar. Jika Anda memiliki sedikit RAM, selalu gunakan akselerasi perangkat lunak.
+
+Jika akselerasi perangkat keras menyebabkan kesalahan, __app_name__ dapat beralih ke akselerasi perangkat lunak."</string>
+    <string name="small_list_items">Item daftar kecil</string>
+    <string name="small_list_items_help">Memungkinkan Anda untuk menampilkan lebih banyak informasi dalam daftar item, tetapi bisa jadi lebih sulit untuk mengklik item yang diinginkan.</string>
+    <string name="format_asm_opcodes">__s__ opcode</string>
+    <string name="no_regions">Tidak ditemukan kawasan yang cocok.</string>
+    <string name="cannot_hide_launcher_icon">"Ikon ini digunakan untuk peluncuran saat ini.
+
+Anda tidak dapat menyembunyikan ikon yang digunakan untuk peluncuran saat ini.
+
+Mulai ulang aplikasi melalui ikon lain untuk dapat menyembunyikan ikon ini."</string>
+    <string name="screenshot">Ambil tangkapan layar</string>
+    <string name="screenshot_prompt">"Ikon tersebut akan disembunyikan selama __d__ detik sehingga Anda dapat mengambil screenshot.
+
+Setelah itu icon tersebut akan terlihat kembali."</string>
+    <string name="screenshot_action">Screenshot</string>
+    <string name="use_visible_type">Gunakan tipe data yang terlihat di editor memori:</string>
+    <string name="use_visible_type_help">Jangan meminta tipe data di editor memori jika hanya satu tipe data yang ditampilkan.</string>
+    <string name="wrong_float">Di lokal Anda, nomor \"__s__\" terlihat seperti \"__s__\". Jika ini bukan yang Anda butuhkan - pilih lokal (atau bahasa) yang berbeda di layar mulai.</string>
+    <string name="wrong_float2">Selain itu, dalam pengaturan __app_name__, Anda dapat mengganti lokal untuk memformat angka.</string>
+    <string name="number_locale">Lokal untuk memformat angka:</string>
+    <string name="fill">Mengisi</string>
+    <string name="help_text_search">"
+Untuk mencari teks, Anda harus menentukan pengubah dalam dialog pencarian biasa.
+
+Penyandiaksaraan yang paling umum digunakan adalah __utf8__ dan __utf16le__.
+Biasanya, __utf16le__ digunakan di __java__, dan __utf8__ digunakan di __c__.
+
+\u0009__utf16le__ adalah pengkodean dua byte. Setiap karakter selalu dikodekan dalam dua byte, sehingga direpresentasikan melalui __type_word__.
+\u0009__utf8__ - pengkodean dengan ukuran byte variabel per karakter. Diwakili melalui __type_byte__.
+\u0009__hex_input__ dan variannya selalu diwakili melalui __type_byte__.
+
+Gim ini dapat menggunakan pengkodean apa pun.
+Jika Anda memerlukan kumpulan byte tertentu - gunakan mode __hex_input__.
+
+Awalan yang tersedia:
+__text_prefixes__
+
+Untuk mode \"__hex_mixed__\", Anda dapat menentukan __utf8__ teks antara __apos__ karakter dan __utf16le__ karakter antara __quot__ karakter.
+
+Sebagai contoh:
+__text_examples__
+
+Karakter awalan harus menjadi karakter pertama dalam teks pencarian.
+
+Hasil pencarian akan menjadi urutan __type_byte__, atau urutan __type_word__, untuk kasus __utf16le__.
+
+Hasilnya bisa diubah - pilih semua dan klik \"__edit_selected__\".
+
+Di kolom nilai, masukkan nilai baru, dalam format yang sama seperti untuk string pencarian.
+
+Anda dapat menggunakan tombol isian. Klik \"__more__\" jika tidak terlihat.
+
+Nilai akan ditetapkan untuk setiap grup item yang terus-menerus mengikuti.
+Jika ada gap antar elemen maka akan menjadi grup baru.
+
+Jika Anda menentukan byte lebih dari yang dibutuhkan, maka hanya sebagian dari mereka yang akan digunakan.
+Jika Anda menentukan kurang dari yang dibutuhkan, maka sisa grup akan diisi dengan nol byte.
+
+Saat mengganti teks, coba tentukan teks dengan jumlah byte yang sama dengan aslinya untuk menghindari masalah.
+"</string>
+    <string name="fast_freeze">Pembekuan cepat:</string>
+    <string name="help_fast_freeze">"Ini bekerja jauh lebih cepat daripada pembekuan normal, tetapi tidak untuk semua memori.
+
+Jika pembekuan tidak berhasil, nonaktifkan opsi ini."</string>
+    <string name="debug_disassemble">Membongkar</string>
+    <string name="assembled">Berhasil dirakit ke file:</string>
+    <string name="warn_patch_off_prot2">"Jika Anda menggunakan __magisk_hide__ - nonaktifkan sebelum menerapkan tambalan. Setelah berhasil menerapkan tambalan, Anda dapat menyalakannya kembali.
+Jika tidak, tambalan tidak akan berhasil."</string>
+    <string name="help_games_protection_end">"
+Cara menyembunyikan __app_name__ dari game di ruang virtual
+
+\u00091. Instal ruang virtual, yang memungkinkan penginstalan aplikasi yang tersembunyi, tanpa menginstalnya di sistem. Misalnya, __vspace_hide__.
+\u00092. Instal __app_name__ ke dalam ruang virtual.
+\u00093. Pada __app_name__, hidupkan mode \"__vspace_root__\".
+\u00094. Berikan hak root ke ruang virtual. Jika Anda tidak dapat memberikan hak root - coba ruang virtual lain, hak root lain, firmware lain, atau ubah perangkat.
+\u00095. Hapus __app_name__ dari sistem.
+\u00096. Bekerja dengan __app_name__ dari ruang virtual.
+
+Untuk menghindari deteksi selama pencarian:
+\u0009Pilih item 2, 3 dan 4 dalam pengaturan \"__hide_from_game__\".
+
+Solusi umum (membutuhkan root, tanpa root Anda tidak akan berhasil):
+\u00091. Gunakan root dari ruang virtual. Baca bantuan untuk pengaturan \"__vspace_root__\".
+\u00092. Gunakan item 2, 3 dan 4 dalam pengaturan \"__hide_from_game__\".
+"</string>
+    <string name="force_close_2">Anda dapat menyetel \"__data_in_ram__\" menjadi \"__no__\" untuk menghindari hal ini di masa mendatang.</string>
+    <string name="script_wrote">Skrip menulis file __s__ hingga __d__.</string>
+    <string name="script_exit">Keluar</string>
+    <string name="script_interrupted">Skrip terputus.</string>
+    <string name="script_error">Kesalahan skrip</string>
+    <string name="script_oom">Kehabisan memori</string>
+    <string name="script_possible">Sepertinya Anda mencoba menjalankan __s__ sebagai skrip.</string>
+    <string name="script_web">halaman web</string>
+    <string name="script_saved_list">daftar yang disimpan</string>
+    <string name="speedhack_no_x86">Tetapi dalam game ini tidak ada perpustakaan x86, jadi mungkin itu tidak akan berfungsi.</string>
+    <string name="help_faq_33_q">Pesan teks (toast) tetap ada di layar, atau lingkaran gelap terlihat di bagian bawah layar saat __app_name__ berfungsi. Bagaimana memperbaikinya?</string>
+    <string name="help_faq_33_a">Menggunakan level ketiga \"__prevent_unload__\" pada beberapa firmware mengarah pada fakta bahwa pesan teks (toast) tetap ada di layar, atau lingkaran gelap terlihat (pesan kosong). Jika ini terjadi, jangan gunakan level ketiga.</string>
+    <string name="invalid_header_1">Header skrip biner tidak valid.</string>
+    <string name="unknown_version">Versi tidak diketahui.</string>
+    <string name="unknown_format">Format tidak diketahui.</string>
+    <string name="unknown_endianness">Ketahanan tidak diketahui.</string>
+    <string name="unknown_size_s">Ukuran tidak diketahui dari __s__.</string>
+    <string name="unknown_size_instr">Ukuran instruksi tidak diketahui.</string>
+    <string name="unknown_size_num">Ukuran nomor Lua tidak diketahui.</string>
+    <string name="expected_found">Diharapkan __s__ tetapi ditemukan __s__.</string>
+    <string name="or">atau</string>
+    <string name="invalid_header_2">Jalankan skripnya?</string>
+    <string name="invalid_header_3">"Di versi __app_name__ yang akan datang, skrip ini tidak dapat dijalankan.
+Tuliskan tentang ini kepada penulis naskah."</string>
+    <string name="skip_system_libs">Lewati perpustakaan sistem</string>
+    <string name="try_reinstall_x86">"Coba instal ulang game dengan perpustakaan x86?
+
+Game mungkin berhenti berfungsi setelah itu. Jika ini terjadi, instal ulang game dari apk yang terletak di __data_app__."</string>
+    <string name="reinstall_started">Penginstalan ulang dimulai ...</string>
+    <string name="reinstall_failed">Penginstalan ulang gagal:</string>
+    <string name="reinstall_ended">Penginstalan ulang selesai.</string>
+    <string name="help_lasm_title">Bongkar / pasang skrip</string>
+    <string name="help_lasm">"__app_name__ memiliki disassembler / assembler bawaan untuk skrip Lua.
+
+Anda dapat memilih opsi \"__debug_disassemble__\" di jendela peluncuran skrip, setelah mengklik tombol \"__more__\".
+
+File __ext_lasm__ yang dihasilkan dapat diedit dan dipilih di jendela peluncuran skrip. Hasilnya akan menjadi file biner __ext_lua__, dengan perubahan yang dibuat.
+
+Baca bantuan API skrip untuk lebih jelasnya.
+"</string>
+    <string name="help_hide_gg_title">Cara menyembunyikan __app_name__ dari game</string>
+    <string name="changed_as_search_result">Berubah sebagai hasil pencarian</string>
+    <string name="changed_not_found">Item yang diubah tidak ditemukan.</string>
+    <string name="too_far">Nilai-nilai ini tidak dapat ditemukan melalui pencarian grup, mereka terlalu berjauhan: __d__ byte. Jarak maksimum adalah __d__ byte.</string>
+    <string name="new_address">Alamat baru:</string>
+    <string name="hide_1_warn">Anda memilih item pertama. Nilai pembekuan dapat menyebabkan kelambatan yang parah dalam game.</string>
+    <string name="hide_4_warn">Anda memilih item keempat. Beberapa fitur tidak akan berfungsi: __speedhack__, __unrandomizer__, __allocate_page__.</string>
+    <string name="asm_failed">Gagal mengenali opcode __s__:</string>
+    <string name="asm_suggestion">Apakah maksud Anda: __s__?</string>
+    <string name="copy_opcode">Salin opcode __s__:</string>
+    <string name="search_nearby">Cari di sekitar</string>
+    <string name="before">Sebelum</string>
+    <string name="after">Setelah</string>
+    <string name="distance">Jarak:</string>
+    <string name="nearby">Dekat:</string>
+    <string name="need_fixer">"Masalah terdeteksi dengan ruang virtual 64-bit ini.
+
+Untuk memperbaikinya:
+
+1. Instal aplikasi __fixer__. (Dari dialog ini, baik secara manual di sepanjang jalur:
+__s__
+).
+
+2. Tambahkan __fixer__ ke ruang virtual.
+
+3. Jalankan __fixer__ di ruang virtual.
+
+4. Hapus __fixer__.
+
+5. Mulai ulang __app_name__ di ruang virtual."</string>
+    <string name="limit">Hanya hasil N pertama:</string>
+</resources>

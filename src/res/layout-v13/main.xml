@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.fix.LinearLayout
+    android:orientation="vertical"
+    android:id="@id/root"
+    android:background="@color/modern_background"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.fix.LinearLayout
+        android:gravity="center"
+        android:orientation="vertical"
+        android:id="@id/loader"
+        android:padding="@dimen/spacing_medium"
+        android:visibility="gone"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <android.fix.LinearLayout
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:background="@drawable/bg_modern_card"
+            android:paddingLeft="@dimen/spacing_large"
+            android:paddingRight="@dimen/spacing_large"
+            android:paddingTop="@dimen/spacing_medium"
+            android:paddingBottom="@dimen/spacing_medium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <android.fix.ProgressBar
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/spacing_medium" />
+            <android.fix.TextView
+                android:textAppearance="@style/MediumText"
+                android:textColor="@color/modern_text_primary"
+                android:layout_gravity="center_vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/loading" />
+        </android.fix.LinearLayout>
+    </android.fix.LinearLayout>
+    <android.fix.LinearLayout
+        android:gravity="center"
+        android:orientation="vertical"
+        android:id="@id/installer"
+        android:paddingLeft="@dimen/spacing_large"
+        android:paddingRight="@dimen/spacing_large"
+        android:paddingBottom="@dimen/spacing_medium"
+        android:visibility="gone"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <android.fix.LinearLayout
+            android:gravity="center"
+            android:orientation="vertical"
+            android:background="@drawable/bg_modern_card"
+            android:padding="@dimen/spacing_large"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <android.fix.LinearLayout
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <android.fix.ProgressBar
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/spacing_medium" />
+                <android.fix.TextView
+                    android:textAppearance="@style/MediumText"
+                    android:textColor="@color/modern_text_primary"
+                    android:layout_gravity="center_vertical"
+                    android:id="@id/installing"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </android.fix.LinearLayout>
+            <android.fix.TextView
+                android:textAppearance="@style/MediumText"
+                android:textColor="@color/modern_text_secondary"
+                android:gravity="center"
+                android:id="@id/progress_bar_text"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" />
+            <android.fix.ProgressBar
+                android:id="@id/progress_bar"
+                android:paddingTop="@dimen/spacing_medium"
+                android:paddingBottom="@dimen/spacing_medium"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:max="100"
+                android:progress="0"
+                android:indeterminate="true"
+                style="?android:progressBarStyleHorizontal" />
+            <android.fix.Button
+                android:textAppearance="@style/MediumText"
+                android:id="@id/abort_button"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/spacing_medium"
+                android:text="@string/skip_" />
+        </android.fix.LinearLayout>
+    </android.fix.LinearLayout>
+    <android.fix.LinearLayout
+        android:gravity="center"
+        android:orientation="vertical"
+        android:id="@id/starter"
+        android:paddingLeft="@dimen/spacing_large"
+        android:paddingRight="@dimen/spacing_large"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <android.fix.TextView
+            android:id="@id/front_text"
+            android:textColor="@color/modern_text_primary"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <android.fix.Button
+            android:id="@id/language"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <android.fix.Button
+            android:id="@id/help"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <android.fix.Button
+            android:id="@id/fix_it"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <android.fix.ImageView
+            android:id="@id/pivot_logo"
+            android:layout_width="200.0dip"
+            android:layout_height="200.0dip"
+            android:layout_marginBottom="@dimen/spacing_xlarge"
+            android:src="@drawable/pivot"
+            android:scaleType="fitCenter" />
+        <android.fix.LinearLayout
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:background="@drawable/bg_modern_card"
+            android:padding="@dimen/spacing_medium"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:baselineAligned="false">
+            <android.fix.Button
+                android:textSize="13.0sp"
+                android:textStyle="bold"
+                android:textAllCaps="true"
+                android:textColor="@color/modern_text_secondary"
+                android:id="@id/btn_stop_service"
+                android:background="@drawable/bg_modern_button"
+                android:layout_width="0.0dip"
+                android:layout_height="56.0dip"
+                android:layout_marginRight="@dimen/spacing_small"
+                android:text="EXIT"
+                android:layout_weight="1.0" />
+            <android.fix.Button
+                android:textSize="13.0sp"
+                android:textStyle="bold"
+                android:textAllCaps="true"
+                android:textColor="@color/modern_text_secondary"
+                android:id="@id/check"
+                android:background="@drawable/bg_modern_button"
+                android:visibility="gone"
+                android:layout_width="0.0dip"
+                android:layout_height="56.0dip"
+                android:layout_marginLeft="@dimen/spacing_small"
+                android:layout_marginRight="@dimen/spacing_small"
+                android:text="CHECK"
+                android:layout_weight="1.0" />
+            <android.fix.Button
+                android:textSize="13.0sp"
+                android:textStyle="bold"
+                android:textAllCaps="true"
+                android:textColor="@color/modern_on_accent"
+                android:id="@id/btn_start_usage"
+                android:background="@drawable/bg_modern_primary_button"
+                android:layout_width="0.0dip"
+                android:layout_height="56.0dip"
+                android:layout_marginLeft="@dimen/spacing_small"
+                android:text="START"
+                android:layout_weight="1.0" />
+        </android.fix.LinearLayout>
+    </android.fix.LinearLayout>
+</android.fix.LinearLayout>

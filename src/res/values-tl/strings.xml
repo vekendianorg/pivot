@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lang_code">~~~tl~~~</string>
+    <string name="front_text">Kung meron kang nais na malaman tungkol sa __app_name__, bumisita lamang sa aming forums: __forum__</string>
+    <string name="set_path">Panandaliang lokasyon</string>
+    <string name="number">Numero:</string>
+    <string name="type">Uri:</string>
+    <string name="name">Pangalan:</string>
+    <string name="reset">Pumili ng proseso</string>
+    <string name="set_range">Pumili ng sasakuping memory</string>
+    <string name="search">Hanapin</string>
+    <string name="save">I-save</string>
+    <string name="goto1">Puntahan</string>
+    <string name="address">Address:</string>
+    <string name="edit_all">I-edit lahat</string>
+    <string name="filter">Salain</string>
+    <string name="clear">Linisin</string>
+    <string name="max_show_rec">Ipakita:</string>
+    <string name="equal">Di nagbago</string>
+    <string name="inequal">Nagbago</string>
+    <string name="larger">Nadagdagan</string>
+    <string name="smaller">Nabawasan</string>
+    <string name="compare_current_last">Paano nagbago ang value?</string>
+    <string name="write_region_log">Sulatan ang region log</string>
+    <string name="old_version">Lumang bersyon</string>
+    <string name="found_old_version">Nakakita ng lumang bersyon ng __app_name__. Gusto mo ba itong i-uninstall?</string>
+    <string name="yes">Oo</string>
+    <string name="no">Hindi</string>
+    <string name="ok">OK</string>
+    <string name="failed_find_package_name">Hindi mahanap ang package name!</string>
+    <string name="path_for_temp_files">"Magtakda ng landas para sa mga temp file, hal. '__sdcard__'. Maaaring mangailangan ng ilang daang MB ng libreng puwang. Ang mga resulta ng kasalukuyang paghahanap ay mawawala."</string>
+    <string name="confirm">Ikumpirma</string>
+    <string name="cancel">Ikansela</string>
+    <string name="found_new_version">Nakakita ng bagong bersyon __s__</string>
+    <string name="daemon_failed">Nabigo ang daemon</string>
+    <string name="failed_run_daemon">Di napatakbo ang daemon. Naka-root ka ba?</string>
+    <string name="daemon_unexpected_closed">Di-inaasahang sarado ang daemon. Impormasyon:</string>
+    <string name="daemon_exited">Lumabas ang demonyo</string>
+    <string name="failed_load_daemon">Nabigo ang pag-load sa daemon</string>
+    <string name="is_device_rooted">Di makakuha ng root access.</string>
+    <string name="collect_data_to_region_log">Nagsimula ang koleksyon ng data upang sumulat sa log ng rehiyon ...</string>
+    <string name="log_saved">Mag-log-save sa __s__</string>
+    <string name="failed_save">Nabigong i-save sa __s__</string>
+    <string name="region_log">Log ng rehiyon</string>
+    <string name="apply">I-apply</string>
+    <string name="error">Error</string>
+    <string name="load">I-load</string>
+    <string name="delete_prompt">Gusto mo bang alisin ang item na ito?</string>
+    <string name="reset_search">Nakikita ang ERROR. I-reset ang listahan ng paghahanap.</string>
+    <string name="unknown_error">Hindi kilalang error</string>
+    <string name="out_of_memory">Wala nang memory</string>
+    <string name="bug_detected">May nakitang bug</string>
+    <string name="disk_full">Buong disk</string>
+    <string name="io_error">IO error</string>
+    <string name="game_dead">Patay na laro</string>
+    <string name="exit">Umalis</string>
+    <string name="skip">Balewalain</string>
+    <string name="unhandled_exception">Unhandled exception. Ipadala ang mga sumusunod sa development team?</string>
+    <string name="last_run_failed">Nabigo ang huling pagtakbo</string>
+    <string name="thank_you">Salamat!</string>
+    <string name="no_application">Walang napiling application.</string>
+    <string name="increments">Pag-abot:</string>
+    <string name="add_not_replace">Idagdag sa value, wag palitan</string>
+    <string name="eperm_error">Hindi ma-attach sa proseso (PTRACE_ATTACH): Hindi pinahihintulutan ang operasyon</string>
+    <string name="load_list">I-load ang listahan</string>
+    <string name="load_warning">Nag-load ka ng isang listahan na na-save mula sa isa pang halimbawa ng laro. Malamang, ang lahat ng mga address sa memorya ay nagbago at naka-load na data na hindi tumutugma sa data na dati nang na-save. Inirerekomenda naming suriin mo ang mga ito.</string>
+    <string name="from">Nakumpleto __d__ mula sa __d__ na yugto</string>
+    <string name="count_fuzzy_equal_run">"Bilang ng beses na tumakbo '__fuzzy_equal__':"</string>
+    <string name="slow">mabagal</string>
+    <string name="miui_restart">Dapat na muling i-restart ang __app_name__ upang mailapat ang mga pahintulot sa seguridad.</string>
+    <string name="out_of_memory_error">Wala sa memory error. Ang listahan ng kasalukuyang resulta ay na-clear. Mangyaring magtakda ng isang mas maliit na halaga para sa bilang ng mga resulta upang ipakita.</string>
+    <string name="loading">Naglo-load ...</string>
+    <string name="found_count">Mga nahanap: __d__</string>
+    <string name="fuzzy_equal">Halaga ay hindi nabago</string>
+    <string name="fuzzy_inequal">Binago ang halaga</string>
+    <string name="fuzzy_larger">Ang halaga ay tumaas</string>
+    <string name="fuzzy_smaller">Nabawasan ang halaga</string>
+    <string name="type_edit_limit">Maglagay ng value mula __s__ hanggang __s__</string>
+    <string name="number_name">numero</string>
+    <string name="step_name">dagdag</string>
+    <string name="number_less">"Ang numero na '__s__' ay mas mababa kaysa sa minimum na halaga (__d__) para sa ganitong uri."</string>
+    <string name="number_greater">"Ang numero na '__s__' ay mas malaki kaysa sa maximum na halaga (__d__) para sa ganitong uri."</string>
+    <string name="about">Patungkol</string>
+    <string name="owner">may-ari</string>
+    <string name="design">punong tagadesenyo</string>
+    <string name="pm">tagapangasiwa</string>
+    <string name="code">punong coder</string>
+    <string name="tech">sangguniang teknikal</string>
+    <string name="creator">may-akda (retirado)</string>
+    <string name="for_translators">Kung nais mong makatulong sa o gumawa ng isang pagsasalin ng application, maaari kang makipag-ugnay sa amin sa forum http://gameguardian.net/forum, upang makuha ang iyong pagsasalin kasama sa opisyal na paglabas ng application.</string>
+    <string name="version">Bersyon:</string>
+    <string name="developers">Mga developer:</string>
+    <string name="select_language">Pumili ng wika</string>
+    <string name="exit_confirm">Kailangan i-restart ang __app_name__ para ma-apply ang mga pagbabago.</string>
+    <string name="special_thanks">Espesyal na pasasalamat:</string>
+    <string name="nothing_found">Walang mahanap. Subukan ulit.</string>
+    <string name="try_more_ranges">Pwede mo ring dagdagan ang sakop na memory sa tab ng pagsasaayos (settings).</string>
+    <string name="try_fuzzy_search">Pwede mo ring subukan na maghanap ng unknown value.</string>
+    <string name="search_hint">"Para maghanap ng eksaktong value, pindutin ang \"__search_known_value__\".
+Kung encrypted o di alam ang value, pindutin ang \"__search_unknown_value__\".
+Kung maghahanap ng float values gamit ang integer, piliin ang '__type_auto__'.
+Pwede rin maghanap by group gamit ang '__semicolon__' bilang separator."</string>
+    <string name="freeze">I-freeze:</string>
+    <string name="freeze_normal">normal</string>
+    <string name="freeze_may_increase">nadadagdagan</string>
+    <string name="freeze_may_decrease">nababawasan</string>
+    <string name="freeze_in_range">nasa pagitan</string>
+    <string name="range_end_fail">"Saklaw ng pagtatapos ('__s__') ay dapat na mas malaki kaysa sa '__s__'."</string>
+    <string name="failed_add_window">Nabigong magdagdag ng window</string>
+    <string name="failed_remove_window">Nabigong alisin ang window</string>
+    <string name="system_service_stopped">Ang application ay hindi maaaring gumana nang normal dahil ang sistema ng serbisyo ay tumigil. Subukang i-restart ang application o i-reboot ang aparato.</string>
+    <string name="value_request">Maglagay ng value na hahanapin</string>
+    <string name="type_request">Pumili ng uri ng data na hahanapin</string>
+    <string name="type_change_request">Pumili ng uri ng data na babaguhin</string>
+    <string name="value">Value</string>
+    <string name="save_as">I-save bilang:</string>
+    <string name="restart">I-restart</string>
+    <string name="start">I-start</string>
+    <string name="wait_daemon">Di available ang function na to kung di nakabukas ang daemon. Hintayin na gumana ang daemon. (Nalimutan mo yata mag-grant ng root access? O kaya di ka naka-root?)</string>
+    <string name="daemon_fail">Di gumagana ang daemon</string>
+    <string name="config_icon_text">Icon: transparency = __d__ %%, itago - __s__</string>
+    <string name="icon_hide_after">pagkatapos ng __d__ segundo</string>
+    <string name="icon_hide_never">hinding-hindi</string>
+    <string name="keyboard">Keyboard:</string>
+    <string name="internal">Internal</string>
+    <string name="external">External</string>
+    <string name="failed_copy_text">Bigo na makopya papunta sa clipboard:</string>
+    <string name="copied">Kinopya</string>
+    <string name="copy_value">Kopyahin ang value:</string>
+    <string name="copy_address">Kopyahin ang address:</string>
+    <string name="goto_address">Puntahan ang address:</string>
+    <string name="search_unknown_value">Hindi kilalang (malabo) na paghahanap</string>
+    <string name="search_known_value">Kilalang (eksaktong) paghahanap</string>
+    <string name="speedhack_hint">Para pabilisin o pabagalin ang laro, i-long press ang floating icon ng __app_name__.</string>
+    <string name="bad_firmware">May error sa iyong firmware na pumipigil sa paggana nito.</string>
+    <string name="language">Wika</string>
+    <string name="acceleration">Pag-accelerate ng interface:</string>
+    <string name="hardware">Hardware</string>
+    <string name="software">Software</string>
+    <string name="speedhack">Speedhack</string>
+    <string name="data_in_ram">Ilagay ang data sa RAM:</string>
+    <string name="first_mb">Ang unang __d__ MB</string>
+    <string name="donate">Mag-donate</string>
+    <string name="speeds">bilis</string>
+    <string name="floating_window_fail">Di maipakita ang floating window</string>
+    <string name="check">Subukan kung gumagana</string>
+    <string name="check_success">Gumagana nga</string>
+    <string name="enable_draw_perm">Paki-enable ng mga permiso sa susunod na screen.</string>
+    <string name="speedhack_fail">Di suportado ng speedhack ang prosesong ito</string>
+    <string name="dangerous">delikado</string>
+    <string name="difference">Pagkakaiba</string>
+    <string name="old_value">Lumang value</string>
+    <string name="new_value">Bagong value</string>
+    <string name="mode_hacking">Encrypted ang value</string>
+    <string name="union">Paghahanap ng grupo</string>
+    <string name="speedhack_open">Mabubuksan ang speedhack sa pamamagitan ng pag-long press sa floating icon ng __app_name__.</string>
+    <string name="history">Nakaraan</string>
+    <string name="history_empty">Walang nakaraan</string>
+    <string name="allow_suggestions">Payagan na mag-suggest ang keyboard:</string>
+    <string name="invalid_area">Ang laki ng grupo ay dapat nasa pagitan ng __d__ at __d__:</string>
+    <string name="union_need_two_numbers">Para sa paghahanap ng grupo ay dapat na hindi bababa sa dalawang numero</string>
+    <string name="too_many_union_numbers">Masyadong maraming mga numero, higit sa:</string>
+    <string name="invalid_number">Di-wastong numero:</string>
+    <string name="input_number">Maglagay ng numero</string>
+    <string name="number_out_of_range">"Numero ng '__s__' sa posibleng hanay:"</string>
+    <string name="help_floating_icon">"* Ang lumulutang na icon:
+\u0009* I-tap upang buksan ang interface.
+\u0009* Tapikin at i-hold upang i-toggle ang speedhack panel.
+\u0009* Maaari itong ilipat sa anumang lugar sa pamamagitan ng pag-drag at pag-drop ng icon.
+\u0009* Maaaring i-customize ang transparency at itago ang timer sa mga setting ng app.
+"</string>
+    <string name="help_exact_search">"* Eksaktong paghahanap:
+\u00091. Lumipat sa __app_name__ mula sa isang laro.
+\u00092. I-tap ang pindutang \"__search_known_value__\" sa tab na \"__search__\".
+\u00093. Ipasok ang numero na ipinapakita sa laro.
+\u00094. Piliin ang naaangkop na uri ng data, o piliin ang \"__type_auto__\" (kung hindi ka sigurado) at iba pang mga pagpipilian (kung kinakailangan) at i-click ang \"__search__\".
+\u00095. Kapag natapos na maghanap, ang mga resulta ng paghahanap ay ipapakita sa listahan.
+\u00096. Bumalik sa laro. Matapos mabago ang halaga, lumipat muli sa __app_name__.
+\u00097. Hanapin ang halaga na nagbago.
+\u00098. Kung may napakaraming resulta, magpatuloy sa hakbang 6.
+\u00099. Kung ang ilang mga resulta ay naiwan, maaari mong subukan na baguhin, iimbak o i-freeze ang halaga.
+"</string>
+    <string name="help_speedhack">"* Speedhack:
+\u0009* Tapikin at hawakan ang lumulutang na icon upang ipakita ang speedhack panel.
+\u0009* Tapikin ang mga arrow sa magkabilang panig ng icon, upang baguhin ang bilis ng laro.
+\u0009* Tapikin at hawakan ang kasalukuyang numero ng bilis upang i-reset ang bilis ng laro.
+\u0009* Tapikin at hawakan ang lumulutang na icon upang itago ang speedhack panel.
+\u0009* Ang listahan ng mga bilis at timers na ginamit ay maaaring ipasadya sa mga setting ng app.
+\u0009* Kung ang laro ay hindi tumugon sa input o speedhack ay hindi gumagana, subukang gumamit ng iba pang mga green timers sa mga setting ng __app_name__.
+\u0009* Maaari mong gamitin ang \"__time_jump__\" upang lumipat nang maaga sa oras. Piliin lamang ang menu sa tab na paghahanap at piliin ang \"__time_jump__\". Kakailanganin mong tukuyin kung gaano karaming segundo ang tumalon. Ang halaga upang tumalon ay maaaring praksyonal.
+"</string>
+    <string name="help_fuzzy_search">"* Malabo paghahanap:
+\u00091. Lumipat sa __app_name__ mula sa isang laro.
+\u00092. I-tap ang \"__search_unknown_value__\" na butones sa \"__search__\" na tab.
+\u00093. Piliin ang angkop na uri ng data, o piliin ang \"__type_auto__\" (kung hindi ka sigurado) at i-click ang \"__search__\".
+\u00094. Kapag natapos na maghanap, ang mga resulta ng paghahanap ay ipapakita sa listahan.
+\u00095. Bumalik sa laro. Matapos ang halaga ay nagbago (o hindi), lumipat muli sa __app_name__.
+\u00096. I-tap ang pindutang \"__search_unknown_value__\" at piliin ang uri kung paano nagbago ang halaga.
+\u00097. Kung maraming mga resulta, magpatuloy sa hakbang na 5.
+\u00098. Kung ang ilang mga resulta ay naiwan, maaari mong subukan na baguhin, iimbak o i-freeze ang halaga.
+
+\u0009Maaari mong tukuyin ang eksaktong pagbabago ng halaga sa pamamagitan ng pag-click sa pindutan ng \"__more__\".
+\u0009Maaari kang magpasok ng saklaw bilang isang tumpak na pagbabago sa halaga:
+\u0009\u0009190__tilde__210
+\u0009Upang tukuyin ang pagbabago sa labas ng hanay ng mga halaga, maaari kang mag-input:
+\u0009\u000910__tilde____tilde__4000
+"</string>
+    <string name="help_group_search">"* Paghahanap ng pangkat:
+\u00091. Lumipat sa __app_name__ mula sa isang laro.
+\u00092. I-tap ang pindutang \"__search_known_value__\" sa tab na \"__search__\".
+\u00093. Magpasok ng kahilingan sa paghahanap para sa paghahanap ng grupo.
+\u0009\u0009Format: value 1 __semicolon__ value 2 __semicolon__ ... __semicolon__ halaga N __colon__ laki ng grupo
+\u0009\u00092-__max_group__ ang mga halaga ay maaaring hanapin sa parehong oras. Ang laki ng default na grupo ay 512. Ang laki ng grupo ay dapat nasa pagitan ng 2 at 65536.
+\u0009\u0009Halimbawa, kung nais mong maghanap ng 195 at 6543, dapat kang magpasok:
+\u0009\u0009\u0009195 __semicolon__ 6543
+\u0009\u0009Siyempre maaari mong tukuyin ang laki ng grupo (300):
+\u0009\u0009\u0009195 __semicolon__ 6543 __colon__ 300
+\u0009\u0009Gayundin, maaari kang magtakda ng isa o higit pang mga uri ng data:
+\u0009\u0009\u0009195__type_dword_short__ __semicolon__ 6543
+\u0009\u0009Nangangahulugan ito na gusto mong maghanap ng __type_dword__ na halaga na 195 at isang __type_auto__ na halaga na 6543.
+\u0009\u0009Ang mga posibleng uri ng data ay pareho katulad ng mga ito sa paghahanap:
+\u0009\u0009\u0009__type_byte_short__ - __type_byte__
+\u0009\u0009\u0009__type_word_short__ - __type_word__
+\u0009\u0009\u0009__type_dword_short__ - __type_dword__
+\u0009\u0009\u0009__type_xor_short__ - __type_xor__
+\u0009\u0009\u0009__type_qword_short__ - __type_qword__
+\u0009\u0009\u0009__type_float_short__ - __type_float__
+\u0009\u0009\u0009__type_double_short__ - __type_double__
+\u0009\u0009\u0009__type_auto_short__ - __type_auto__
+\u0009\u0009Maaari mo ring isulat ang numero sa hex (maliit-endian) notasyon:
+\u0009\u0009\u0009__hex_example____hex__ __semicolon__ 6543
+\u0009\u0009o sa reverse hex (big-endian) notasyon:
+\u0009\u0009\u0009__hex_example____rhex__ __semicolon__ 6543
+\u0009\u0009Upang mag-input ng mga karagdagang simbolo, gamitin ang \"__btn_hex__\" na pindutan sa panloob na keyboard.
+\u00094. Piliin ang naaangkop na uri ng data, o piliin ang \"__type_auto__\" (kung hindi ka sigurado) upang gamitin bilang default. Ang iba pang mga pagpipilian ay hindi mahalaga para sa ganitong uri ng paghahanap. I-click ang \"__search__\".
+\u00095. Kapag natapos na maghanap, ang resulta ng paghahanap ay ipapakita sa listahan.
+\u00096. Bumalik sa laro. Matapos mabago ang halaga, lumipat muli sa __app_name__.
+\u00097. Ulitin ang paghahanap ng pangkat na may naaangkop na mga pagbabago.
+\u00098. Kung may napakaraming mga resulta, ulitin ang mga hakbang 6 at 7.
+\u00099. Kung ilang mga resulta ang natitira, maaari mong subukan na baguhin, i-imbak o i-freeze ang halaga.
+
+\u0009Kung nais mong igalang ang pagkakasunud-sunod ng mga halaga pagkatapos ay tukuyin ang __colon__ dalawang beses.
+\u0009Kung walang laki ng grupo:
+\u0009\u0009195 __semicolon__ 6543 __colon____colon__
+\u0009Sa laki ng grupo:
+\u0009\u0009195 __semicolon__ 6543 __colon____colon__ 300
+
+\u0009Maaari kang maghanap sa hanay ng mga halaga:
+\u0009\u0009190__tilde__210 __semicolon__ 6543
+\u0009Maaari ka ring maghanap sa labas ng hanay ng mga halaga:
+\u0009\u000910__tilde____tilde__4000 __semicolon__ 6543
+"</string>
+    <string name="help_others">"* Iba pa:
+\u0009* Para sa mga bagong paghahanap, dapat mong i-clear ang nakaraang mga resulta ng paghahanap sa pamamagitan ng pagpili ng \"__clear__\" sa menu sa ilalim ng menu button.
+\u0009* Upang pumili ng isa pang tapikin ng laro sa icon ng laro sa itaas na kaliwang sulok.
+\u0009* Upang i-pause / ipagpatuloy ang isang laro - i-tap ang pindutan sa ibaba ng icon sa itaas na kaliwang sulok.
+\u0009* Kung lumipat ka sa isang laro habang pause ay aktibo, sa susunod na buksan mo ang __app_name__, ang laro ay awtomatikong i-pause.
+\u0009* Ang lahat ng mga nakapirming halaga ay awtomatikong idinagdag sa naka-save na listahan. Maaari mong pamahalaan ang mga ito sa ilalim ng naaangkop na tab.
+\u0009* Ang lahat ng data ng input ay nagse-save sa listahan ng \"__history__\". Maaari mong gamitin ang mga ito sa pamamagitan ng pagpindot sa pindutan ng kasaysayan.
+"</string>
+    <string name="help_typical_usage">"* Karaniwang paggamit algorithm:
+
+1) Ang halaga ay hindi naka-encrypt at kilala.
+\u0009Ang karaniwang kaso ay para sa pera, bituin, barya, mapagkukunan, atbp.
+
+\u0009Gumamit ng eksaktong paghahanap.
+
+2) Ang halaga ay hindi alam at / o naka-encrypt.
+\u0009Ang isang karaniwang kaso ng isang hindi kilalang halaga - anumang scale / bar. Halimbawa ng kalusugan, mana, nitro, atbp. Ang mga pagbabago ay nakikita, ngunit walang mga numerical value ang nakikita.
+\u0009Ang isang tipikal na kaso para sa mga naka-encrypt na halaga ay pera, bituin, barya, atbp, ngunit kapag naghahanap sa 1 algorithm ay hindi makahanap ng anumang bagay, o pagbabago ng nahanap na mga halaga ay hindi humantong sa mga numero ng pagbabago sa laro.
+
+\u0009Gumamit ng malabo na paghahanap.
+
+
+3) Ang halaga ay naka-encrypt (__mode_hacking__).
+\u0009Ang isang tipikal na kaso para sa mga naka-encrypt na halaga ay pera, bituin, barya, atbp, ngunit kapag naghahanap sa 1 algorithm ay hindi makahanap ng anumang bagay, o pagbabago ng nahanap na mga halaga ay hindi humantong sa mga numero ng pagbabago sa laro.
+
+\u0009Gumamit ng eksaktong paghahanap, ngunit laging piliin ang checkbox na \"__mode_hacking__\".
+\u0009Ang mga natuklasang resulta ay maaaring magkaroon ng mga kakaibang halaga dahil sa pag-encrypt.
+
+Ang Algorithm 3 ay mas mabilis kaysa sa 2, ngunit maaaring hindi ito gumana para sa lahat ng mga laro.
+
+4) Ang halaga ay hindi naka-encrypt, kilala at nakalagay malapit sa iba pang mga kilalang halaga.
+\u0009Ang isang tipikal na kaso ay para sa presyo sa tindahan, bayani stats, atbp.
+
+\u0009Gamitin ang paghahanap ng pangkat para sa lahat ng mga numero sa isang pagkakataon.
+"</string>
+    <string name="help_hints">"* Mga Pahiwatig:
+
+\u0009* Hindi lahat ng mga laro ay maaaring baguhin sa pamamagitan ng __app_name__. Karaniwang listahan ng mga halimbawa:
+\u0009\u0009* Ang data na nakaimbak sa isang server (server-sided games)
+\u0009\u0009* Ang laro ay nangangailangan ng patuloy na koneksyon sa internet
+\u0009\u0009* Maglaro ng network sa ibang mga manlalaro
+\u0009\u0009* Kailangan mong pumili ng isang server upang kumonekta sa simula ng laro
+\u0009\u0009* Hindi ka maaaring gumamit ng ilang mga bagay na walang internet
+\u0009\u0009* Ang laro ay naglo-load muli ng data mula sa server kung binago mo ang isang bagay
+\u0009* Ang mga halaga na nakikita ay hindi palaging katulad ng paraan na nakaimbak ang mga ito. Maaari silang magkaiba. Halimbawa sa screen na nakikita natin 34, ngunit sa memorya ang halaga ay 34000.
+\u0009* Kung hindi mo maaaring baguhin ang isang halaga - subukang baguhin ang mga halaga na apektado ang halagang ito. Halimbawa, sa halip na baguhin ang halaga ng ginto, maaari mong baguhin ang presyo ng bagay at ibenta ito. O bumili ng negatibong presyo.
+"</string>
+    <string name="help">Tulong</string>
+    <string name="help_floating_icon_title">Ang floating icon</string>
+    <string name="help_exact_search_title">Exact search</string>
+    <string name="help_speedhack_title">Speedhack</string>
+    <string name="help_group_search_title">Paghahanap ng grupo</string>
+    <string name="help_others_title">Iba pa</string>
+    <string name="help_typical_usage_title">Karaniwang mga algorithm sa paggamit</string>
+    <string name="help_hints_title">Mga pahiwatig</string>
+    <string name="value_format">Halaga ng format</string>
+    <string name="format_hex">Hex (maliit-endian) notasyon</string>
+    <string name="format_rhex">Reverse hex (big-endian) notasyon</string>
+    <string name="clear_selection">I-clear ang pagpili</string>
+    <string name="invert_selection">Baliktarin ang pagpili</string>
+    <string name="select_all">Piliin lahat</string>
+    <string name="edit_selected">I-edit ang mga napili</string>
+    <string name="delete_selected">Tanggalin ang mga napili</string>
+    <string name="save_selected">I-save ang mga napili</string>
+    <string name="nothing_selected">Walang napili</string>
+    <string name="items_added">Ang mga item (__d__) ay idinagdag sa naka-save na listahan</string>
+    <string name="no_items_for_editing">Walang mae-edit.</string>
+    <string name="edit_info">I-edit ang __s__ bilang __s__</string>
+    <string name="edit_all_info">I-edit ang __d__ mga address bilang __s__</string>
+    <string name="autopause">I-autopause ang laro:</string>
+    <string name="empty_list">"Walang items na naka-save.
+Pwede ka maglagay ng items mula sa resulta ng paghahanap o sa memory editor.
+Piliin lamang ang mga nais at pindutin ang  \"__save_selected__\" mula sa menu.
+Isa pang paraan - mag-edit ng value at i-check ang checkbox na \"__save_as__\".
+Tsaka automatic na nilalagay lahat ng mga naka-freeze na value."</string>
+    <string name="empty_save">Ang naka-save na listahan ay walang laman. Walang mai-save.</string>
+    <string name="revert_selected">I-revert ang mga napili</string>
+    <string name="nothing_to_revert">Walang mare-revert</string>
+    <string name="revert_prompt">Ibalik ang mga napiling item (__d__)?</string>
+    <string name="download">Ito ay mada-download mula sa:</string>
+    <string name="format_string">Representasyon ng string</string>
+    <string name="forgot_h">"Nakalimutan mo ba ang '__hex__' sa dulo?"</string>
+    <string name="time_jump">Tumalon sa oras</string>
+    <string name="time_jump_hint">Ipasok ang bilang ng mga segundo upang lumipat:</string>
+    <string name="hide_from_game">Itago ang __app_name__ mula sa laro:</string>
+    <string name="last_stats">Mga istatistika para sa iyong huling paghahanap</string>
+    <string name="memory_access">Access sa memorya:</string>
+    <string name="normal">Normal</string>
+    <string name="extended">Pinalawak</string>
+    <string name="experimental">Experimental</string>
+    <string name="installing">__app_name__ ay gumaganap ng muling pag-install ng sarili nito na may isang random na pangalan upang ibukod ang pagtukoy ng mga laro. Maghintay.</string>
+    <string name="failed_install">Bigo na ma-install ang app. Ulitin?</string>
+    <string name="failed_uninstall">Bigo na ma-uninstall ang app. Ulitin?</string>
+    <string name="download_it">I-download</string>
+    <string name="more">Extra</string>
+    <string name="less">Basic</string>
+    <string name="no_space">Wala nang space sa iyong device</string>
+    <string name="install_cancel_prompt">Maaaring makita ang __app_name__ kapag hindi naka-install. Gusto mo bang kanselahin?</string>
+    <string name="intercept">maharang</string>
+    <string name="need_restart">Kailangan i-restart ang app para ma-apply ang mga pagbabago.</string>
+    <string name="must_be_root">"Para sa pagpapatakbo ng programang ito, ang iyong aparato ay dapat magkaroon ng ugat.
+
+__app_name__ ay maaaring gumana sa limitadong mode nang walang ugat, sa pamamagitan ng isang virtual na kapaligiran. Halimbawa, sa pamamagitan ng __vspace_list__ at marami pang iba.
+Basahin ang tulong para sa higit pang mga detalye.
+
+Paano mag-ugat ng anumang device: http://www.xda-developers.com/root/"</string>
+    <string name="skip_">Laktawan</string>
+    <string name="indent_for_the_status_bar">Indent UI mula sa tuktok ng screen:</string>
+    <string name="start_collecting_data">Tumitingin sa mga proseso</string>
+    <string name="data_collecting_in_progress">Nangungulekta</string>
+    <string name="copy">Kopyahin</string>
+    <string name="show_logcat">Ipakita ang logcat</string>
+    <string name="path_must_be">"Ang path ay dapat na hindi bababa sa 2 character ang haba at nagsisimula sa '/'."</string>
+    <string name="fix_it">Ayusin</string>
+    <string name="change_log">Mga pagbabago</string>
+    <string name="used_only_first">Ginamit lamang ang unang __d__ na mga aytem.</string>
+    <string name="need_select_more">Kailangan piliin ang __d__ o higit pang mga item.</string>
+    <string name="offset">Offset:</string>
+    <string name="result">Resulta:</string>
+    <string name="copy_hex_value">Kopyahin ang hex value:</string>
+    <string name="goto_pointer">Pumunta sa pointer:</string>
+    <string name="offset_calculator">Offset calculator</string>
+    <string name="fill_toolbar">Punan ang toolbar:</string>
+    <string name="from_left">Mula sa kaliwa</string>
+    <string name="from_center">Mula sa gitna</string>
+    <string name="from_right">Mula sa kanan</string>
+    <string name="unit_years_short">y</string>
+    <string name="unit_days_short">d</string>
+    <string name="unit_hours_short">h</string>
+    <string name="unit_minutes_short">min</string>
+    <string name="unit_seconds_short">segundo</string>
+    <string name="speed_info">__s__ sa real time = __s__ sa oras ng laro</string>
+    <string name="search_helper">Maghanap ng katulong:</string>
+    <string name="off">Off</string>
+    <string name="go_to_game">Bumalik sa laro, kung maraming mga halaga ang natagpuan</string>
+    <string name="go_to_game_and_restore">Bumalik sa laro, kung maraming mga halaga ang natagpuan at ibalik ang mode ng paghahanap sa susunod na bukas</string>
+    <string name="nothing">Wala</string>
+    <string name="sort">Isaayos</string>
+    <string name="sort_and_remove_duplicates">Isaayos at burahin ang mga duplicate</string>
+    <string name="help_basics_title">Pangunahing impormasyon</string>
+    <string name="help_basics">"Pagkatapos mong simulan ang application, sa pamamagitan ng pag-click sa pindutan ng \"__start__\", lalabas ang isang lumulutang na icon sa screen. Maaari itong i-drag sa anumang lokasyon.
+Ang maikling pag-tap sa icon ay magbubukas sa pangunahing interface ng application, mahaba ang tap - magpakita ng isang panel para sa pagbabago ng bilis ng laro.
+
+Sa pangunahing screen makikita mo ang:
+\u0009* Sa itaas na kaliwang sulok - ang icon ng laro. Ang pag-tap dito ay nagpapahintulot sa iyo na pumili ng isa pang laro.
+\u0009* Matatagpuan sa gitna ang mga bookmark upang mag-navigate sa pamamagitan ng mga tab. Ang pag-tap sa nais na bookmark ay ipinapakita ang naaangkop na tab.
+
+Sa kabuuan mayroong 4 na mga tab: mga setting, paghahanap, naka-save na listahan at ang memory editor.
+\u0009* Sa itaas na kanang sulok ng interface ay ang pindutan ng pagsasara. Pindutin ito at itago ang interface, at lilitaw ang isang lumulutang na icon sa screen.
+\u0009* Sa ibaba ng screen mayroong isang status bar at ang icon ng mata. Kung pinindot mo at hawakan ang icon ng mata, ang interface ay magiging transparent, hangga't hindi mo ilabas ang iyong daliri.
+\u0009* Ang natitira sa mga nilalaman sa screen ay depende sa kung aling tab na ikaw ay nasa.
+
+Sa bawat tab, maliban sa tab ng mga setting, mayroong isang pindutan ng menu, na naglalaman ng iba't ibang posibleng mga aksyon. Dito makikita mo ang mga pangunahing pagkilos para sa tab na ito.
+
+Ang tab ng Mga Setting ay naglalaman ng iba't ibang mga setting, tulong, at impormasyon tungkol sa application, at ang pindutan ng exit.
+
+Ang tab ng paghahanap ay naglalaman ng:
+\u0009* I-pause ang pindutan, ang pangalan ng napiling laro, ang nahanap na bilang ng mga resulta, at ang refresh button.
+\u0009* Sa ibaba ay isang panel na may mabilisang mga icon ng pag-access at isang pindutan ng menu. Ang lahat ng mga icon ay doble sa menu, kaya kung hindi mo alam ang kahulugan ng icon, maaari itong palaging makita sa pamamagitan ng pag-click sa pindutan ng menu (ang pinakamakabuluhang).
+\u0009* Sa ibaba ng mga icon na iyon ay magiging listahan ng mga resulta ng paghahanap.
+
+Ang naka-save na tab ng listahan ay naglalaman ng:
+* I-pause ang pindutan, ang pangalan ng napiling application, ang menu button at ang refresh button.
+\u0009* Sa ibaba ng mga icon na iyon ay magiging listahan ng mga naka-save na halaga.
+
+Ang tab na editor ng memorya ay katulad ng naunang, tanging dito sa halip ng isang listahan ng mga naka-save na halaga na ipinapakita nito ang mga nilalaman ng memorya.
+
+Sa lahat ng tatlong listahan (ang mga resulta ng paghahanap, naka-save na mga halaga at editor ng memorya), maaari kang magsagawa ng isang mahabang tapikin sa mga item upang ipakita ang menu ng konteksto."</string>
+    <string name="daemon_killed">"Ang demonyo ay pinatay ng isang bagay.
+
+Karaniwan ito ay maaaring:
+\u00091. Anumang mga killer ng memorya o mga optimizer. Dapat mong hindi paganahin ang anumang mga killer o magdagdag ng __app_name__ ang puting listahan sa mga setting nito.
+\u00092. __daemon_killed_oom__
+\u00093. Ang memory card ay na-unmount, habang ang __app_name__ ay naka-imbak ng mga pansamantalang file dito. Upang maiwasang mangyari ito, tukuyin ang ibang landas sa mga pansamantalang file. Halimbawa, sa internal memory."</string>
+    <string name="bad_settings">Masamang mga setting</string>
+    <string name="freeze_lags">Ang paggamit ng mga halaga ng freeze kasama ang setting na __hide_from_game__ ay maaaring maging sanhi ng lag sa laro.</string>
+    <string name="improve_translation">Ang pagsasalin ay nilikha ng isang awtomatikong tagasalin. Maaari mong mapabuti ito sa pamamagitan ng paggamit ng aming kolektibong serbisyo sa pagsasalin.</string>
+    <string name="freeze_interval">Hihintaying oras para mag-freeze:</string>
+    <string name="saved_list_update_interval">Nai-save na pagitan ng listahan ng mga nai-save na listahan:</string>
+    <string name="milliseconds_short">MS</string>
+    <string name="disable_floating_windows">Tanggalin lahat ng mga floating window at i-restart ang app</string>
+    <string name="enable_floating_windows">Paganahin ang mga lumulutang na bintana at i-restart ang app</string>
+    <string name="too_many">Masyadong marami</string>
+    <string name="help_range_search_title">Saklaw ng paghahanap</string>
+    <string name="help_range_search">"* Saklaw ng paghahanap:
+\u00091. Lumipat sa __app_name__ mula sa isang laro.
+\u00092. I-tap ang pindutang \"__search_known_value__\" sa tab na \"__search__\".
+\u00093. Magpasok ng hanay ng paghahanap sa hangganan, na pinaghihiwalay ng \"__tilde__\". Halimbawa, upang maghanap ng mga halaga mula 100 hanggang 150, ipasok ang:
+\u0009\u0009\u0009100__tilde__150
+\u0009\u0009Upang maghanap sa labas ng range, maaari mong tukuyin ang character na \"__tilde__\" nang dalawang beses:
+\u0009\u0009\u0009100__tilde____tilde__150
+\u0009\u0009Bilang kahalili, maaari mong piliin ang sign \"__not_equal__\" at tukuyin ang character na \"__tilde__\" isang beses.
+\u0009\u0009Upang mag-input ng mga karagdagang simbolo, gamitin ang \"__btn_hex__\" na pindutan sa panloob na keyboard.
+\u00094. Piliin ang naaangkop na uri ng data, o piliin ang \"__type_auto__\" (kung hindi ka sigurado) at iba pang mga pagpipilian (kung kinakailangan) at i-click ang \"__search__\".
+\u00095. Kapag natapos na maghanap, ang mga resulta ng paghahanap ay ipapakita sa listahan.
+\u00096. Bumalik sa laro. Matapos mabago ang halaga, lumipat muli sa __app_name__.
+\u00097. Ulitin ang hanay ng paghahanap na may naaangkop na mga pagbabago.
+\u00098. Kung may napakaraming mga resulta, ulitin ang mga hakbang 6 at 7.
+\u00099. Kung ilang mga resulta ang natitira, maaari mong subukan na baguhin, i-imbak o i-freeze ang halaga.
+
+\u0009Ang mga hangganan ng saklaw na kasama sa mga resulta ng paghahanap. Maaari mong piliin ang uri ng paghahanap na \"__not_equal__\" upang mahanap ang lahat ng mga halaga na hindi nabibilang sa saklaw.
+\u0009Sa paghahanap na ito, ang lahat ng mga halaga ay itinuturing na naka-sign.
+"</string>
+    <string name="does_not_support">Ang \"__s__\" ay hindi sumusuporta sa \"__s__\".</string>
+    <string name="range_bounds_diff_types">Ang mga hangganan ng hanay ay dapat na parehong uri.</string>
+    <string name="examples">Halimbawa</string>
+    <string name="rtfm">Magbasa ng tulong para sa higit pang mga detalye.</string>
+    <string name="icons_size">Laki ng mga icon:</string>
+    <string name="revert_and_remove">Ibalik at alisin</string>
+    <string name="remove">Alisin</string>
+    <string name="ordered_group_search">Nag-order ng paghahanap ng grupo</string>
+    <string name="load_items">Mga item</string>
+    <string name="load_values">Mga Halaga</string>
+    <string name="load_freeze">I-freeze</string>
+    <string name="video_tutorials">Mga video tutorial at guide kung paano mag-hack</string>
+    <string name="make_copy">Gumawa ng kopya</string>
+    <string name="video">Mga video</string>
+    <string name="ordered">Nakaayos</string>
+    <string name="toolbars">Mga toolbar</string>
+    <string name="saved_list">Nai-save na listahan</string>
+    <string name="memory_editor">Editor ng memorya</string>
+    <string name="restart_game">I-restart ang laro</string>
+    <string name="refine">Salain</string>
+    <string name="internal_storage">Internal storage</string>
+    <string name="external_storage">External storage</string>
+    <string name="new_search">Maghanap ng bago</string>
+    <string name="load_saved_list">I-load ang naka-save na listahan mula sa file</string>
+    <string name="save_saved_list">I-save ang naka-save na listahan sa file</string>
+    <string name="append">Ilagay</string>
+    <string name="xor_key">XOR key:</string>
+    <string name="only_memory">Sa sakop lamang na memory:</string>
+    <string name="dump_memory">Dump memory</string>
+    <string name="path">Path:</string>
+    <string name="dump_ended">Nagtapos ang dump</string>
+    <string name="dump_failed">Nabigo ang dump</string>
+    <string name="eperm_error_defend">Hindi ma-attach sa proseso (PTRACE_ATTACH): Ang laro ay protektado</string>
+    <string name="reset_on_exit">I-reset sa pag-alis:</string>
+    <string name="kill_game">Patayin ang laro</string>
+    <string name="kill_game_info">Ang pagpatay sa isang proseso ay maaaring makapaminsala sa sistema at makapagdudulot ng kawalan ng data.</string>
+    <string name="continue_ask">Magpatuloy?</string>
+    <string name="copy_memory">Kopyahin ang memory</string>
+    <string name="copy_from">Kopyahin mula:</string>
+    <string name="paste_to">I-paste papuntang:</string>
+    <string name="count_bytes">Bilang ng bytes:</string>
+    <string name="copy_ended">Tapos ang pagkopya sa memory</string>
+    <string name="copy_failed">Nabigo ang kopya ng memorya</string>
+    <string name="help_encrypted_search_title">Maghanap para sa naka-encrypt na mga halaga</string>
+    <string name="help_encrypted_search">"* Maghanap para sa naka-encrypt na mga halaga:
+\u00091. Lumipat sa __app_name__ mula sa isang laro.
+\u00092. I-tap ang pindutang \"__search_known_value__\" sa tab na \"__search__\".
+\u00093. Ipasok ang numero na ipinapakita sa laro.
+\u00094. Piliin ang naaangkop na uri ng data, o piliin ang \"__type_auto__\" (kung hindi ka sigurado), anumang ibang mga pagpipilian (kung kinakailangan), lagyan ng tsek ang \"__mode_hacking__\" at i-click ang \"__search__\".
+\u00095. Kapag natapos na maghanap, ang mga resulta ng paghahanap ay ipapakita sa listahan.
+\u00096. Bumalik sa laro. Matapos mabago ang halaga, lumipat muli sa __app_name__.
+\u00097. Hanapin ang halaga na nagbago. Dapat na naka-check ang checkbox na \"__mode_hacking__.\"
+\u00098. Kung may napakaraming resulta, magpatuloy sa hakbang 6.
+\u00099. Kung ang ilang mga resulta ay naiwan, maaari mong subukan na baguhin, iimbak o i-freeze ang halaga.
+"</string>
+    <string name="help_faq_title">Mga palagiang tinatanong</string>
+    <string name="help_faq_1_q">Bakit di ako pwede maglagay ng value na higit sa 99 o 60,000?</string>
+    <string name="help_faq_1_a">Ang value na iyong nahanap ay __type_byte__ o __type_word__. Maghanap ng value na __type_dword__ para makapaglagay ng malaki.</string>
+    <string name="help_faq_2_q">Paano maghanap ng mga praksyonal (__type_float__) na mga halaga, nang walang praksyonal na bahagi ng halaga?</string>
+    <string name="help_faq_2_a">Gamitin ang uri ng data na \"__type_auto__\" o paghahanap ng saklaw. Halimbawa, para sa 11,345 maaari kang maghanap para sa \"10__tilde__12\".</string>
+    <string name="help_faq_3_q">Nahanap ko ang value at binago, pero di siya nagbabago sa laro. Ginagamit ko siya pero bumabalik lang sa dati. May mali ba akong nagawa?</string>
+    <string name="help_faq_3_a">"Sa ilang mga laro, ang mga halaga ay protektado o naka-encrypt. Bago ipakita ang halaga, ang halaga ay decrypted sa ibang variable. Binago mo ito.
+Dahil ang halagang ito ay ginagamit lamang para sa pagpapakita, hindi ito nakakaapekto sa mekanika ng laro. Upang mahanap ang tunay na halaga, sa halip na ipinapakita ang halaga, gamitin ang paghahanap para sa naka-encrypt na halaga, o ang malabo na paghahanap.
+Kung minsan ang halaga ay naka-imbak sa server at naka-synchronize sa bawat oras. Sa kasong ito, hindi ito maaaring na-hack. Kung ang laro ay hindi gumagana nang walang Internet at ang mga nakaraang paraan ay hindi nakatulong - malamang na ito ang kaso."</string>
+    <string name="help_faq_4_q">Hindi nahanap ang halaga sa laro X. O nahahanap ito, ngunit kapag nagbago walang mangyayari. O nahahanap ito, ngunit pagkatapos na ito ay nagbago ang pag-crash ng laro. Paano ko malalaman kung ano ang problema, ito ba ang proteksyon sa laro o may __app_name__?</string>
+    <string name="help_faq_4_a">"Dapat kang kumuha ng isang simpleng programa na garantisadong walang proteksyon at subukan ito. Mas gusto kong gamitin ang \"Hill Climb Racing\". Ang laro ay simple, hindi komplikado at walang naglalaman ng anumang mga panlaban. Maaari mong suriin ang pag-hack ng pera bilang isang direktang paghahanap sa pamamagitan ng numero, at malabo paghahanap para sa pagbabago.
+Kung ang pag-hack sa simpleng laro na ito ay gumagana, pagkatapos ito ay nasa laro na X na sinubukan mong i-hack. Kung hindi, kung gayon ang problema ay nasa __app_name__.
+Mayroong kahit isang mas madaling pagpipilian: \"Tapikin Counter\". I-install ito. Patakbuhin. Subukan upang i-crack ang bilang ng mga teyp na ipinapakita sa screen. Dapat itong maging madali. Kung hindi, kung gayon ang problema ay nasa __app_name__ o mga setting nito.
+Subukan ang isa pang bersyon ng __app_name__, subukang maghanap ng isang paglalarawan ng error na natanggap sa forum sa kaugnay na paksa o sa Internet. Sa matinding mga kaso, maaari kang magtanong sa paligid sa forum."</string>
+    <string name="help_faq_5_q">Paano maghanap ng oras?</string>
+    <string name="help_faq_5_a">"\u0009- Subukang maghanap bilang bilang ng mga araw, oras, minuto o segundo. Ang uri ng data ay maaaring alinman sa __type_byte__, __type_word__, __type_dword__ o __type_qword__. Gayundin maaari mong gamitin ang uri __type_auto__.
+\u0009- Subukan upang maghanap bilang isang bilang ng mga milli- o nanoseconds. Ang uri ng data ay __type_dword__ o __type_qword__.
+\u0009- Subukang maghanap bilang unix timestamp sa petsa ng pagtatapos. Type - __type_dword__. Ito ay itinuturing na ang pagkakaiba sa pagitan ng kasalukuyang timing ng unix at ang na-save na. Maghanap sa pamamagitan ng paghahanap sa saklaw.
+Halimbawa, kung 30 araw ay nakasulat, pagkatapos ay hinahanap mo ang 30 +/- 1 araw mula sa kasalukuyang timing ng unix. Ang kasalukuyang unix timestamp ay madaling maipakita sa Internet."</string>
+    <string name="help_faq_6_q">Posible bang mag-hack ng mga online na laro?</string>
+    <string name="help_faq_6_a">"Posibleng i-hack ang data na nakaimbak sa client. Ang anumang bagay sa server ay hindi maaaring hacked. Sa iba't ibang mga laro ay maaaring maging iba't ibang paraan. Kahit na sa loob ng isang laro ng manlalaro, ang ilan sa mga data ay maaaring nasa server, at ang ilan ay maaaring hindi."</string>
+    <string name="help_faq_7_q">Saan gumagana ang speedhack?</string>
+    <string name="help_faq_7_a">"Maaaring di gumana ang speedhack sa mga x86 na device o emulator para sa mga laro na walang libraries para sa x86.
+Pati na rin sa ART environment, di gumagana ang speedhack sa mga Java timer. Kung ginagamit ito ng laro at nasa ART environment ka (kadalasan Android 5 o higit pa), hindi gagana ang speedhack."</string>
+    <string name="help_faq_8_q">Pangkalahatan, ang __app_name__ ay gumagana, pero sa ibang laro, may lumalabas na PTRACE_ATTACH error. Bakit at anong meron dito?</string>
+    <string name="help_faq_8_a">Ang larong ito ay may proteksyon laban sa pag-debug ng uri ng proteksyon ng SecNeo. __app_name__ ay hindi maaaring laktawan ang proteksyon na ito. Sa pamamagitan ng ito, hindi mo maaaring tadtarin ang larong ito.</string>
+    <string name="help_faq_9_q">Bakit kakaiba ang pangalan ng package? Bakit di nag-aupdate ang app pero nag-iinstall ng panibago? Bakit iba-iba ang pangalan bawat bersyon?</string>
+    <string name="help_faq_9_a">Para di makita o ma-detect ng mga anti-cheat na nagbabase sa package name.</string>
+    <string name="help_faq_10_q">Sa ilang mga laro, kapag binabago ang bilis (speedhack), huminto silang tumugon sa mga pag-click. Ito ba ay proteksyon sa laro o error sa programa?</string>
+    <string name="help_faq_10_a">Nangangahulugan ito na ang iyong speedhacking ay humarang sa mga timers ng input queue at namatay ito. Kinakailangan upang pumili ng mga berdeng checkmark sa listahan ng mga timers (sa mga setting ng __app_name__) upang hindi ito mangyari.</string>
+    <string name="help_faq_11_q">Bakit nag-isyu ng isang listahan ng mga pagkakamali na pinaghihiwalay ng kuwit?</string>
+    <string name="help_faq_11_a">Dahil ang delimiter ng mga numero ay isang tuldok-kuwit (\"__semicolon__\").</string>
+    <string name="help_faq_12_q">Paano ako magsasagawa ng maraming paghahanap nang sabay-sabay?</string>
+    <string name="help_faq_12_a">Sa sandaling ito, ang application ay hindi pinapayagan ito, ngunit maaari mong i-install ang application ng ilang beses at patakbuhin ang mga kopya ng magkasama kung may sapat na memorya at disk space.</string>
+    <string name="help_faq_13_q">Kailangan ko bang i-update ang application kung walang makabuluhang pagbabago?</string>
+    <string name="help_faq_13_a">Iminungkahing ito. Ang suporta ay para lamang sa pinakabagong bersyon.</string>
+    <string name="help_faq_14_q">Ano ang mga simbolo \"!\" at \"#\", bago ang pangalan ng proseso?</string>
+    <string name="help_faq_14_a">"Ito ay nagmamarka ng mga proseso na sinusubaybayan.
+\u0009\"#\" - bago ang proseso ay nangangahulugang ito ay sinusubaybayan ng ibang proseso.
+\u0009\"!\" - bago ang proseso, ang prosesong ito ay sinusubaybayan ang ilang iba pang proseso.
+Ang pagsubaybay ay karaniwang para sa pag-debug o pag-hack. Gayundin ginagamit ito sa ilang mga proteksyon. Kadalasan, ang isang proseso na may isang \"#\" sign ay isang protektadong proseso."</string>
+    <string name="help_faq_15_q">Bakit gumagana ang application pagkatapos ng karaniwang pag-install ay nagsasagawa din ng sariling pag-install, na nagbibigay ng mga kahilingan para sa mga karapatan sa ugat?</string>
+    <string name="help_faq_15_a">__app_name__ reinstalls mismo na may random na data upang maiwasan ang pagtuklas nito sa pamamagitan ng mga anti-cheat. Kinakailangan ang mga karapatan sa root para sa pag-install at pag-uninstall ng \"tahimik\". Hindi ka maaaring magbigay sa kanila. Sa kasong ito, kailangan mong manu-manong tumugon sa lahat ng mga kahilingan ng system para sa pag-install ng mga application.</string>
+    <string name="help_faq_16_q">Ano ang __pkg__? Ito ba ay isang Trojan o isang virus? Ligtas bang bigyan ang access ng root ng application na ito?</string>
+    <string name="help_faq_16_a">Ito ang batayang pangalan ng __app_name__ package. Ang pag-isyu ng root access ay ligtas kung ang __app_name__ ay nai-download mula sa mga pinagkakatiwalaang pinagkukunan.</string>
+    <string name="help_faq_17_q">Bakit ang __app_name__ sa listahan ng mga naka-install na application na pinangalanan bilang isang random na character set? Bakit naka-request ang character na ito na humiling ng root access? Bakit kapag naglunsad ng __app_name__ nagsusulat na ang ugat ay hindi ibinigay ng __app_name__, ngunit sa pamamagitan ng ilang uri ng abracadabra?</string>
+    <string name="help_faq_17_a">Dahil ginagamit ito ng __app_name__ upang itago ang sarili nito mula sa pagtuklas ng mga anti-cheat.</string>
+    <string name="help_faq_18_q">Bakit ang __app_name__ ng mga pinakabagong bersyon kung minsan ay napansin ng mga anticheats, at kung minsan ay hindi?</string>
+    <string name="help_faq_18_a">"Dahil gumagamit ang __app_name__ ng iba't ibang mga bagay upang itago ang sarili mula sa pagtuklas ng mga anti-cheat. Kabilang dito ang isang random na pangalan ng pakete at application. Sa bawat pag-install ay iba ang mga ito. Subukan muli ang pag-install ng __app_name__ upang muling makabuo. Marahil pagkatapos ng anti-impostor na ito ay titigil na makita ang __app_name__."</string>
+    <string name="help_faq_19_q">Bakit wala ang laro ko sa listahan ng apps?</string>
+    <string name="help_faq_19_a">Dahil ito ay isang listahan ng mga pagpapatakbo ng mga application, at ang iyong application ay hindi tumatakbo. Patakbuhin ito, at pagkatapos ay piliin ito sa __app_name__.</string>
+    <string name="help_faq_20_q">Bakit hindi maaaring tumugon ang mga application ng Java sa speedhack sa Android 5 at sa itaas?</string>
+    <string name="help_faq_20_a">Dahil ang speedhack ay dinisenyo para sa mga laro na may mga native na aklatan. Ang iyong aplikasyon ay hindi. At dahil ginagamit ng Android 5 ang kapaligiran ng ART, sa halip ng Dalvik, na ginagawang imposible na maharang ang Java timers. Huwag kang magawa. Ang kalagayan ay hindi magbabago sa hinaharap.</string>
+    <string name="help_faq_21_q">Gumamit ako ng ibang speedhack / hacking tool sa Android 4 at lahat ng nagtrabaho. Ngayon ay inilagay ko ang __app_name__ sa Android 5 at sa itaas, ngunit ang mga pamamaraan ay hindi gumagana. Bakit?</string>
+    <string name="help_faq_21_a">"Dahil maraming bagay ang nagbago at ang iyong utility ay hindi gagana tulad nito. Huwag gumawa ng iyong mga illusions na ito __app_name__ ay kaya masama, ngunit kung may na utility, pagkatapos uh! Walang ganoong bagay.
+Upang subukan ito, i-install ang __app_name__ sa Android 4, at ulitin ang lahat ng parehong mga pagkilos tulad ng sa utility na iyon. Bilang resulta, magtatagumpay ka. Ngunit hindi ito nangangahulugan na ang parehong mga pamamaraan ay gagana sa Android 5 at sa itaas.
+Ang katotohanang ito ay nakumpirma nang eksperimento, paulit-ulit"</string>
+    <string name="help_faq_22_q">Nagmamasid ako ng sample / screenshot ng video at may iba pang data sa editor ng memorya. Bakit?</string>
+    <string name="help_faq_22_a">"Dahil ang video / screenshot ay may iba't ibang format ng output. Sa editor ng memorya, pindutin ang menu - piliin ang \"__value_format__\" at i-configure ang output ayon sa dapat."</string>
+    <string name="help_faq_23_q">Kapag ang halaga ay frozen, ang laro ay nagsisimula sa preno o lag. Bakit?</string>
+    <string name="help_faq_23_a">Dahil mayroon ka sa mga setting ng __app_name__ ang opsyon sa \"__hide_from_game__\" na pinagana. Patayin mo.</string>
+    <string name="help_faq_24_q">Paano ko pigilan na mag-check ng panibagong bersyon ang application?</string>
+    <string name="help_faq_24_a">Hindi pwede.</string>
+    <string name="help_faq_25_q">Paano i-rewind ang oras pabalik sa application? Posible bang gumawa ng isang oras tumalon hindi pasulong, ngunit paatras?</string>
+    <string name="help_faq_25_a">Walang paraan. Hindi mo magagawa. Dapat palaging dagdagan ang oras kung hindi man ay maaaring crash ang laro. Gayunpaman, sa mga pinakabagong bersyon idinagdag namin ang posibilidad ng isang negatibong paglundag ng oras. Ang resulta ay maaaring maging isang hang ng laro o pagkawala ng data. Mag-babala.</string>
+    <string name="help_faq_26_q">Inilagay ko ang icon at nawala ito. Paano ko maibabalik ito?</string>
+    <string name="help_faq_26_a">Ang icon ay nagiging transparent, ngunit maaari mo pa ring mag-click dito. I-click kung saan ito, pagkatapos ay baguhin ang setting sa pamamagitan ng interface.</string>
+    <string name="help_faq_27_q">Paano ako maghanap ng isang halaga kung ito ay ipinapakita sa pag-ikot ng laro? Halimbawa, 1.85M.</string>
+    <string name="help_faq_27_a">Maghanap para sa hanay ng paghahanap. Ang mga limitasyon sa hanay ay nakasalalay sa mga panuntunan sa pag-ikot. Halimbawa, \"1845000__tilde__1854999\" para sa standard rounding.</string>
+    <string name="help_faq_28_q">Paano ako maghanap ng isang porsyento na halaga? Halimbawa, 123__percent__.</string>
+    <string name="help_faq_28_a">Ito ay depende sa pagpapatupad. Para sa bawat laro maaari itong magkakaiba. Halimbawa 123__percent__. Maaari itong maging __type_float__ o __type_double__ na may anumang halaga. Tulad ng 1.23 o 123.0. O maaari itong maging mga uri ng integer: __type_byte__, __type_word__, __type_dword__. Halimbawa 123 o 12300. Sa output maaari itong mahati sa ilang numero. 100 o 345 o anumang iba pa. Para sa bawat laro maaari itong maging iba. Maaari mong subukan ang mga pinaka-halata na mga kaso. Para sa 123__percent__ maaari itong maging 1.23 o 123. Uri - __type_auto__. Kung ikaw ay mapalad maaari itong maging kung ano ang kailangan mo.</string>
+    <string name="help_faq_29_q">Paano kung nakikita ng laro ang __app_name__?</string>
+    <string name="help_faq_29_a">"Subukan ang mga sumusunod na pagpipilian (isa-isa o sa anumang kumbinasyon):
+\u0009- Paganahin ang \"__hide_from_game__\" mga pagpipilian. Kadalasan sapat 2, 3 at 4 na mga pagpipilian.
+\u0009- Do Hindi kanselahin ang reinstallation __app_name__ na may isang random na pangalan. Ginagawa ito sa unang pagkakataon __app_name__ ay tumakbo sa labas ng virtual na espasyo.
+\u0009- Gumamit ng XPrivacy o katulad na mga utility. Hanapin sa Internet para sa kung paano gawin ito.
+\u0009- Kung mayroon kang mga karapatan ugat, gamitin ang ugat mula sa virtual na espasyo na may mga nakatagong pag-install ng mga application. Magbasa nang higit pa sa konteksto ng tulong para sa \"__vspace_root__\" na setting."</string>
+    <string name="work_without_selinux">Lumipat sa trabaho nang walang __selinux__ at i-restart ang app</string>
+    <string name="work_with_selinux">Lumipat sa trabaho na may __selinux__ at i-restart ang app</string>
+    <string name="file">File:</string>
+    <string name="file_not_found">Hindi natagpuan ang file:</string>
+    <string name="export_selected">I-export ang napili</string>
+    <string name="failed_list_dir">Nabigong basahin ang listahan ng file.</string>
+    <string name="change_float_type">Piliin ang uri ng mga lumulutang na bintana</string>
+    <string name="reset_float_type">I-reset ang uri ng mga lumulutang na bintana</string>
+    <string name="mask">Mask:</string>
+    <string name="mask_request">Magpasok ng isang address upang maghanap</string>
+    <string name="help_mask_search_title">Paghahanap ng address (mask)</string>
+    <string name="help_mask_search">"* Address (mask) na paghahanap:
+\u0009Maaari kang maghanap o mag-filter sa pamamagitan ng address na may maskara.
+
+\u0009Ang isang tipikal na halimbawa ay naghahanap ng mga address na nagtatapos sa isang kilalang halaga. Halimbawa, sa \"12E\".
+
+\u0009Ang mga parameter ng paghahanap ay ang address at mask.
+\u0009Sa address maaaring magamit ang mga wildcard (\"__question__\"). Ang simbolo na ito ay nangangahulugan na ito ay maaaring maging anumang karakter mula sa \"0\" hanggang \"F\".
+\u0009Ang isang karagdagang mask ay nabuo mula sa address, kaya ang mga nangungunang zero ay mahalaga. Kaya, ang paghahanap para sa \"0120\" at ang paghahanap para sa \"120\" ay hindi ang parehong bagay.
+\u0009Sa unang kaso ay matatagpuan: \"00010120\", \"00020120\", \"00030120\" at iba pa. Habang nasa pangalawang: \"00001120\", \"00002120\", \"00003120\" at iba pa.
+
+\u0009Maaari kang maghanap para sa pagkakapantay-pantay at para sa hindi pagkakapareho na ipinahiwatig ng maskara. Ang pangalawang opsyon ay maaaring maging kapaki-pakinabang para maalis ang mga hindi kinakailangang halaga.
+
+\u0009Ang address at mask ay ipinasok sa sistema ng hexadecimal at walang titik na \"__hex__\" sa dulo.
+Ang mask na nakuha mula sa address ay tumutukoy sa mask na ipinasok mo. Ito ang nagresultang mask ng paghahanap.
+
+\u0009Ang sumusunod na mga halimbawa ay katumbas, dahil ang nagresultang mask ay pareho - \"FF0\"
+__mask_example__
+"</string>
+    <string name="use_sound_effects">Gumamit ng sound effects:</string>
+    <string name="from_range">Mula:</string>
+    <string name="to_range">Hanggang:</string>
+    <string name="resultant_mask">Resulta ng mask:</string>
+    <string name="show_time_jump_panel">Ipakita ang panel ng jump ng oras:</string>
+    <string name="use_notification">Gamitin ang notification:</string>
+    <string name="show_gg">Ipakita ang __app_name__</string>
+    <string name="hide_gg">Itago ang __app_name__</string>
+    <string name="time_remaining">Natitirang oras:</string>
+    <string name="help_fill_title">Punan (dagdagan) mga halaga</string>
+    <string name="help_fill">"* Punan (dagdagan) halaga:
+\u0009Madalas itong nangyayari na napakaraming mga halaga ang natagpuan, ngunit hindi ito maaaring mabago mula sa laro.
+\u0009Sa kasong ito, ang punan ay dumating sa pagsagip.
+
+\u0009Ang isang tipikal na halimbawa ng paggamit ay ang paghahanap para sa presyo ng isang item, na may kasunod na kapalit ng isang negatibong isa.
+
+\u00091. Piliin ang nais na mga item.
+\u00092. Piliin ang \"__edit_selected__\".
+\u00093. Pindutin ang pindutan ng \"__more__\" upang ipakita ang field na \"__increments__\", kung wala ang patlang na ito.
+\u00094. Sa patlang na \"__increments__\", ipasok ang halaga ng pagdagdag. Kadalasan ito ay 1. At i-click ang \"__yes__\".
+\u00095. Ang mga napiling item ay makakatanggap ng mga bagong halaga.
+\u00096. Pumunta sa laro at makita kung paano nagbago ang ninanais na halaga, paglipat sa mga screen ng laro.
+\u00097. Kung ang halaga ay hindi nagbago, pagkatapos ay ang nais na elemento hindi kasama sa napili. Bumalik sa __app_name__ at gamit ang \"__delete_selected__\" -> \"__revert_and_remove__\", alisin ang mga napiling item, ibabalik ang mga ito sa nakaraang halaga. Ngayon ay maaari mong subukan ang lahat ng bagay mula sa simula sa iba pang mga elemento, kung mayroong anumang.
+\u00098. Kung nagbago ang halaga, pagkatapos ay ang nais na elemento ay isa sa mga napiling elemento. Tandaan ang bagong halaga at bumalik sa __app_name__.
+\u00099. Sa listahan ng mga napiling item, hanapin ang ninanais na halaga. Alisin ito. Tanggalin ang lahat ng iba pang mga halaga, gamit ang \"__delete_selected__\" -> \"__revert_and_remove__\", ibabalik ang mga ito sa nakaraang halaga.
+\u000910. Baguhin ang nais na halaga ng sangkap na kailangan mo.
+
+\u0009Ang mga karaniwang error ay ang pag-alis nang walang ibalik. Pagkatapos nito, ang laro ay maaaring bumagsak.
+
+\u0009Kung nakakita ka ng maraming mga halaga, subukan na gawin ang mga maliit na bahagi upang maiwasan ang mga pag-crash.
+"</string>
+    <string name="help_hint_1">* Kung palagi mong makita ang nais na mga halaga sa parehong rehiyon (mga titik sa dulo ng mga item sa listahan ng mga resulta), maaari mong piliin lamang ang mga rehiyon na ito para sa isang mas mabilis na paghahanap.</string>
+    <string name="help_faq_30_q">__app_name__ hinahanap ang mga halaga ng mabagal at mahabang panahon sa emulator ng Android sa PC.</string>
+    <string name="help_faq_30_a">"Malamang na hindi mo pinagana ang virtualization sa PC BIOS. I-on ito.
+__app_name__ ay tumatakbo sa loob ng emulator, kaya ang bilis ng trabaho nito ay depende sa bilis ng emulator.
+Kung pinagana ang virtualization, ngunit ang bilis ay mababa pa, suriin ang mga setting ng iyong emulator, o gumamit ng ibang emulator.
+Maaari mo ring gamitin ang isa pang tool - CheatEngine para sa PC - mas mabilis itong maghanap at magbibigay sa iyo ng maraming mga tampok na hindi kailanman magiging sa __app_name__."</string>
+    <string name="help_speed_up_title">Paano mapabilis ang paghahanap</string>
+    <string name="help_speed_up">"* Paano mapabilis ang paghahanap:
+\u00090. Kung gumagamit ka ng Android emulator sa isang PC (BlueStacks, Droid4X, Andy, NOX, Memu, AMIDuOS, Windroy, AVD, Genymotion, Koplayer, Leapdroid atbp), tiyakin na ang virtualization (VT Technology, Vanderpool Technology, Virtualization Technology , VTx, VT-d, VMX, Virtual Technology, Intel-VT, AMD-V, SVM, IOMMU) ay pinagana sa PC BIOS.
+\u00091. Kung mayroon kang maraming RAM, maaari kang mag-imbak ng data doon. Ito ay lubos na nagpapabilis sa paghahanap. Itakda ang setting na \"__data_in_ram__\" sa \"__yes__\". Sa isang Android emulator sa isang PC, maaari itong pabagalin ang paghahanap.
+\u00092. Kung mayroon kang maliit na RAM, ang data ay maiimbak sa memory card. Gumamit ng memory card na may mataas na bilis ng pagsulat at pagbasa.
+\u00093. Maaari mo ring tukuyin ang imbakan ng data sa panloob na memorya ng aparato, kung ito ay mas mabilis kaysa sa memory card. Itakda ang setting na \"__set_path__\" sa nais na landas.
+\u00094. Sa paghahanap, piliin lamang ang nais na mga rehiyon. Iwasan ang mabagal (\"__slow__\") at mapanganib (\"__dangerous__\") na mga rehiyon.
+\u00095. Maaari mo ring tukuyin ang mga limitasyon ng hanay ng memorya, para sa paghahanap, kung alam mo ang mga ito. I-click ang pindutang \"__more__\" sa dialog ng paghahanap at ipasok ang mga limitasyon.
+\u00096. Maghanap lamang ng mga nais na uri ng data. Ang uri ng data na \"__type_auto__\" ay mabagal.
+\u00097. Huwag paganahin ang lahat ng posibleng \"__hide_from_game__\" na mga pagpipilian.
+\u00098. Subukang gumamit ng \"__experimental__\" o \"__extended__\" sa \"__memory_access__\". Ang mga opsyon na ito ay maaaring humantong sa hindi matatag na trabaho.
+"</string>
+    <string name="help_faq_31_q">Pagkaraan ng ilang sandali, nawala ang icon na __app_name__.</string>
+    <string name="help_faq_31_a">"Subukan ang pag-click sa lugar kung saan ang icon ay magiging. Kung bukas ito __app_name__ interface, pagkatapos ay ang icon ay nakatago sa mga setting o ang iyong firmware ay may mga bug na may display ang icon.
+Kung ang interface ay hindi bukas, ito ay nangangahulugan na __app_name__ ay nai-dload na mula sa memorya.
+Mga posibleng dahilan:
+
+\u00091. Walang sapat na RAM sa device - __app_name__ pumatay ng system. Subukang gumamit ng mas mababa RAM. Sa mga setting ng __app_name__, huwag tukuyin ang pag-iimbak ng data sa RAM, huwag magtakda ng malaking bilang ng mga ipinapakita na resulta, mag-ibis ng \"sobrang\" mga application mula sa RAM, gamitin ang \"light weight\" analogues ng mga application na hindi maaaring i-diskargado (halimbawa, launcher ). Sa mga partikular na masamang kaso, reboot ang aparato bago tumakbo __app_name__ gamit ang laro. Halos lahat ng firmware ay laging may leak RAM. Higit pang oras matapos ang pag-reboot - mas mababa magagamit RAM.
+
+\u00092. Mayroon kang isang killer na proseso na pumapatay ng __app_name__.
+
+Huwag paganahin ang mga killer o magdagdag ng __app_name__ sa mga eksepsiyon nito.
+Ang mga killer ay din ang lahat ng mga uri ng \"optimizers\" at \"improvers\" ng RAM.
+Sa pangkalahatan, tingnan ang paglalarawan para sa software, kung hindi mo alam na ang killer o hindi.
+
+Para sa FlyMe: __app_name__ para sa ilang kadahilanan pagkatapos ng ilang minuto ng trabaho na hindi na-load - kailangan mong pahintulutan ang trabaho sa background para sa __app_name__ at ang iyong root manager (karaniwang SuperSu).
+
+Maaari mo ring subukang paganahin ang \"__use_notification__\" sa mga setting ng __app_name__. Kung minsan, pinipigilan nito ang pagpatay ng __app_name__."</string>
+    <string name="quick_start_title">Mabilis na pagsisimula</string>
+    <string name="prevent_unload">Pigilan ang pag-ibis:</string>
+    <string name="hot_key">Hot key:</string>
+    <string name="hide">Itago</string>
+    <string name="execute_script">Execute script</string>
+    <string name="execute">Ipatupad</string>
+    <string name="another_script">Ang isa pang script ay tumatakbo. Matakpan ito?</string>
+    <string name="interrupt">Pagkagambala</string>
+    <string name="script">Script:</string>
+    <string name="script_ended">Natapos ang script:</string>
+    <string name="paused">Naka-pause ang laro:</string>
+    <string name="by_pause_button">sa pamamagitan ng pindutan ng pag-pause</string>
+    <string name="by_option">"sa pamamagitan ng opsyon na '__s__'"</string>
+    <string name="new_search_short">Bago</string>
+    <string name="speedhack_loading">Naglo-load ng speedhack ...</string>
+    <string name="speedhack_loaded">Naka-load ang Speedhack.</string>
+    <string name="busy_dialog_fail">Hindi maipakita ang dialog ng progreso.</string>
+    <string name="site">Website</string>
+    <string name="help_xor_search_title">XOR paghahanap</string>
+    <string name="help_xor_search">"* XOR paghahanap:
+\u0009\u0009Kung alam mo na ang halaga na kailangan mo ay naka-encrypt na may isang key XOR na palaging sa parehong distansya mula sa halaga, maaari mong gamitin ang mode na ito upang maghanap sa pamamagitan ng decrypted na halaga.
+\u00091. Lumipat sa __app_name__ mula sa isang laro.
+\u00092. I-tap ang pindutang \"__search_known_value__\" sa tab na \"__search__\".
+\u00093. Magpasok ng isang numero ng paghahanap at XOR key distansya, na pinaghihiwalay ng \"__mode_xor__\". Halimbawa, upang maghanap ng halagang 100 na may susi sa distansya 8, ipasok ang:
+\u0009\u0009\u0009100__mode_xor__8
+\u0009\u0009Upang mag-input ng mga karagdagang simbolo, gamitin ang \"__btn_hex__\" na pindutan sa panloob na keyboard.
+\u00094. Piliin ang naaangkop na uri ng data, o piliin ang \"__type_auto__\" (kung hindi ka sigurado) at iba pang mga pagpipilian (kung kinakailangan) at i-click ang \"__search__\".
+\u00095. Kapag natapos na maghanap, ang mga resulta ng paghahanap ay ipapakita sa listahan.
+\u00096. Bumalik sa laro. Matapos mabago ang halaga, lumipat muli sa __app_name__.
+\u00097. Ulitin ang XOR paghahanap na may naaangkop na mga pagbabago.
+\u00098. Kung may napakaraming mga resulta, ulitin ang mga hakbang 6 at 7.
+\u00099. Kung ilang mga resulta ang natitira, maaari mong subukan na baguhin, i-imbak o i-freeze ang halaga.
+
+\u0009Maaari mong gamitin ang paghahanap ng XOR sa paghahanap ng saklaw. Halimbawa \"100__tilde__150__mode_xor__8\".
+\u0009Karaniwan ang XOR na paghahanap ay mas mabagal mula sa karaniwang paghahanap ng numero.
+\u0009Ang mode na ito ay hindi suportado sa paghahanap ng grupo o sa naka-encrypt na paghahanap.
+\u0009Ang distansya ay dapat na mula 1 hanggang 4096 kasama.
+\u0009Maaari kang maglagay ng distansya sa hex form na may simbolong __hex__ sa dulo: \"100__tilde__150__mode_xor__10h\".
+\u0009Ang distansya ay dapat na igalang ang mga halaga na nakahanay Halimbawa, dapat na nakahanay ang dword sa hangganan ng 4-byte. Ang ibig sabihin ng paghahanap ay \"40__mode_xor__7\" ay walang silbi para sa dword dahil 7 hindi maaaring hatiin sa 4.
+\u0009Pagsamahin ang mode na ito sa iba pang maaaring maging sanhi ng mga problema sa masamang firmware. Halimbawa, kung gumawa ka ng karaniwang paghahanap at pagkatapos na pinuhin sa mode ng XOR maaari itong maging sanhi ng hang o i-reboot ang iyong device. Hindi ito dapat mangyari kung ang unang paghahanap ay nasa mode na ito.
+\u0009Ang isang malabo na paghahanap ng mode na ito ay hindi sinusuportahan. Maaari mong pagsamahin ito ngunit malabo na gawain gaya ng dati at huwag igalang ang iyong XOR key sa distansya.
+\u0009Ang pag-sign para sa mga halaga ay iginagalang. Ito ay nangangahulugan na maaari kang maghanap ng halaga na hindi katumbas, mas malaki, mas maliit at iba pa.
+\u0009Sa paghahanap na ito, ang lahat ng mga halaga ay itinuturing na naka-sign.
+"</string>
+    <string name="help_faq_32_q">Anong pinagkaiba ng SW sa HW? Ano ba dapat ang gamitin ko?</string>
+    <string name="try_latest">Marahil ang script na ito ay nangangailangan ng pinakabagong bersyon ng __app_name__. Subukang i-update sa pinakabagong bersyon.</string>
+    <string name="help_string_search_title">Paghahanap ng teksto (string, HEX, AoB)</string>
+    <string name="download_scripts">Mag-download ng mga script</string>
+    <string name="hide_icons">Itago ang mga icon ng launcher</string>
+    <string name="select_mode">Piliin ang mode</string>
+    <string name="mode_string">Teksto</string>
+    <string name="mode_mixed">Magkakahalo</string>
+    <string name="string_search_prompt">Magpasok ng isang teksto upang maghanap, hanggang sa __d__ bytes ang haba. Halimbawa</string>
+    <string name="string_empty">Maglagay ka ng text.</string>
+    <string name="string_not_found">Ang teksto na \"__s__\" ay hindi natagpuan.</string>
+    <string name="string_found">Natagpuan ang __d__ mga tugma para sa teksto na \"__s__\".</string>
+    <string name="string_replace">Gusto mo ba silang palitan?</string>
+    <string name="string_replace_prompt">Ipasok ang teksto upang palitan ang \"__s__\". Ang haba ay hindi hihigit sa __d__ bytes.</string>
+    <string name="string_replaced">Pinalitan ang \"__s__\" sa \"__s__\" sa __d__ mga lugar.</string>
+    <string name="need_allow_background">Sa firmware na ito, dapat mong pahintulutan ang pagtatrabaho __app_name__ sa background, sa mga setting ng system.</string>
+    <string name="calculate_offset_xor">Kalkulahin ang offset, XOR</string>
+    <string name="select_copy_item">Pumili ng isang item upang kopyahin:</string>
+    <string name="landscape">Pahalang</string>
+    <string name="portrait">Patayo</string>
+    <string name="toolbar_buttons">Mga pindutan ng Toolbar</string>
+    <string name="need_update_to">Kailangan mo ng mas bagong bersyon ng __app_name__ upang patakbuhin ang script na ito. Hindi bababa sa bersyon __s__. Mayroon kang bersyon __s__.</string>
+    <string name="default_mark">default</string>
+    <string name="default_">Default:</string>
+    <string name="reset_button">I-reset</string>
+    <string name="help_hex_colors_title">Mga kulay sa editor ng memorya</string>
+    <string name="help_hex_colors">"* __help_hex_colors_title__:
+Kung ang representasyon ng hex ay hindi puti, ngunit kulay, malamang sa halagang ito ay ang pointer. Ang kulay ay nagpapahiwatig kung aling uri ng memory ang pointer na ito ay tumutukoy.
+Ito ay maaaring __executable__ memorya, __writable__ o __read_only__. Sa mga bihirang kaso, maaari itong maging memory __writable_and_executable__."</string>
+    <string name="executable">napapagana</string>
+    <string name="writable">nasusulatan</string>
+    <string name="read_only">nababasa</string>
+    <string name="writable_and_executable">nasusulatan at napapagana</string>
+    <string name="help_extract">I-extract ang tulong</string>
+    <string name="help_extract_done">Ang tulong ay nakuha sa __s__</string>
+    <string name="help_extract_fail">Naganap ang isang error habang kinukuha ang tulong:</string>
+    <string name="try_arm_version">Subukang gamitin ang bersyon ng __app_name__ na may suporta para sa mas lumang mga processor ng ARM:</string>
+    <string name="back">Bumalik</string>
+    <string name="forward">Ipasa</string>
+    <string name="no_previous">Walang nakaraang mga entry</string>
+    <string name="no_next">Walang susunod na mga entry</string>
+    <string name="from_item">Mula sa item:</string>
+    <string name="from_context">Mula sa menu ng konteksto:</string>
+    <string name="from_boundary">Mula sa hangganan</string>
+    <string name="from_goto">Tumawag sa goto</string>
+    <string name="from_calc">Mula sa offset calculator:</string>
+    <string name="help_add_to_value_title">Pagpipilian \"__add_not_replace__\"</string>
+    <string name="help_add_to_value">"* __help_add_to_value_title__:
+Kung ang pagpipiliang ito ay naka-check, ang ipinasok na halaga ay idadagdag sa umiiral na halaga, at hindi palitan ito. Halimbawa, ang elemento ay may halaga na 5, at nagpasok ka ng 7, sa field na halaga. Kung naka-check ang opsyong ito, makakakuha ang elemento ng bagong halaga ng 5 + 7, katumbas ng 12. Kung hindi naka-check, pagkatapos ay 7.
+Maaari kang magpasok ng parehong positibo at negatibong mga halaga.
+Ang opsyon na ito ay hindi kaayon sa pagyeyelo ng halaga."</string>
+    <string name="check_libs">Suriin ang arkitektura ng mga library ng laro:</string>
+    <string name="arm_libs">"Ang laro ay naka-install na may mga ARM library, bagaman sa apk mayroong mga x86 library.
+Speedhack at lahat ng bagay na may kaugnayan dito, ay hindi gagana.
+\"__skip__\" hindi pinapagana ang mga tseke na ito. Maaari mo itong i-on muli sa mga setting."</string>
+    <string name="manual_install">Maaari mong i-install nang manu-mano ang .apk file. Matatagpuan ito sa sumusunod na landas:</string>
+    <string name="as_text">Bilang teksto (hindi ma-load)</string>
+    <string name="as_text_help">Nakakatipid ang listahan sa format ng teksto, maginhawa para sa pagbasa ng tao. Hindi sinusuportahan ang pagkarga ng format na ito.</string>
+    <string name="help_pointer_search_title">Paghahanap ng pointer</string>
+    <string name="help_pointer_search">Paghahanap para sa mga halaga na maaaring maging payo sa nais na address. Maaari mong tukuyin ang isang maximum na limitasyon para sa isang posibleng offset.</string>
+    <string name="all_memory">Sa lahat ng memorya</string>
+    <string name="offset_help">Ang maximum na limitasyon para sa isang posibleng offset.</string>
+    <string name="typical_values">Karaniwang mga halaga</string>
+    <string name="su_command">Superuser command</string>
+    <string name="starts">Magsisimula sa</string>
+    <string name="ends">Nagtatapos sa</string>
+    <string name="no_filter">Walang filter.</string>
+    <string name="help_memory_filter_title">Pag-filter sa editor ng memorya</string>
+    <string name="help_memory_filter">"* __help_memory_filter_title__:
+Maaari mong tukuyin ang isang filter sa editor ng memorya. Ang mga resulta na tumutugma sa filter ay ipapakita.
+Sinusuportahan ng filter ang mga wildcard:
+\u0009__caret__ - ang simula ng data,
+\u0009__dollar__ - ang katapusan ng data,
+\u0009__asterisk__ - anumang bilang ng anumang mga character,
+\u0009__question__ - ang isang karakter.
+Halimbawa, upang mahanap ang numero 42, kailangan mong ipasok ang __caret__42__dollar__."</string>
+    <string name="use_sh">Gamitin ang command shell</string>
+    <string name="backgrounds">Itim na background</string>
+    <string name="actions">Mga aksyon:</string>
+    <string name="game_settings">Mga setting para sa laro:</string>
+    <string name="global_settings">Mga setting ng Global:</string>
+    <string name="ui_settings">Mga setting ng UI:</string>
+    <string name="others">Iba pa:</string>
+    <string name="skip_memory">Laktawan ang mga lugar ng memorya:</string>
+    <string name="empty_memory">Walang laman</string>
+    <string name="without_protection">walang proteksyon</string>
+    <string name="help_games_protection_title">Paano upang makakuha ng proteksyon sa mga laro</string>
+    <string name="help_games_protection">"\u0009Ang ilang mga laro ay may proteksyon laban sa mga editor ng memory. Maaari mong subukan ang mga sumusunod:
+\u00091. \"__kill_game__\", at pagkatapos ay \"__restart_game_without_protection__\".
+\u00092. \"__disable_protection__\", at pagkatapos ay tumakbo (o i-restart) ang laro.
+\u00093. Gamitin ang lahat o bahagi ng mga item sa \"__hide_from_game__\". Lahat sila ay nagpapabagal sa paghahanap.
+\u00094. Maghanap kapag minimized ang laro.
+\u00095. Maghanap kapag ang laro ay naka-pause.
+\u00096. Patayin o i-pause ang ilan sa mga proteksiyong proseso ng laro, kung ang laro ay may ilang mga proseso.
+\u00097. Gumamit ng XPrivacy o katulad na mga tool upang i-bypass ang proteksyon.
+\u00098. Gamitin ang pagbabago ng laro nang walang proteksyon.
+"</string>
+    <string name="disable_protection">Huwag paganahin ang proteksyon para sa lahat ng mga application (hanggang sa reboot)</string>
+    <string name="must_restart_if">Kung nagpapatakbo ka ng laro bago pigilan ang proteksyon, dapat mong i-restart ito.</string>
+    <string name="patch_loading">Naglo-load ng patch ...</string>
+    <string name="patch_loaded">Naka-load ang patch.</string>
+    <string name="patch_failed">Ang Patch ay hindi na-load.</string>
+    <string name="history_limit">Limitasyon ng kasaysayan:</string>
+    <string name="copy_as_search">Kopyahin bilang paghahanap ng grupo</string>
+    <string name="add_types">Magdagdag ng mga uri</string>
+    <string name="add_size">Magdagdag ng laki ng pangkat</string>
+    <string name="copy_rhex_value">Kopyahin ang reverse hex value:</string>
+    <string name="mips_arch">Ang application na ito ay hindi sumusuporta sa MIPS architecture.</string>
+    <string name="unrandomizer">Unrandomizer</string>
+    <string name="functions">mga function</string>
+    <string name="help_unrandomizer">"
+Ang unrandomizer ay isang tampok na dinisenyo upang palitan ang ilang mga function na karaniwang ginagamit sa mga laro upang makabuo ng mga random na halaga. Sa isang napaka-simpleng antas, para sa isang halimbawa, maaaring mayroong isang laro na gumagamit ng isang randomizer function upang matukoy ang gantimpala ng manlalaro. Ang pagpapagana ng hindi nag-uudyok ay magiging sanhi ng __app_name__ upang subukang palitan ang random na halaga na ito sa tinukoy na halaga upang baguhin ang resulta (halimbawa, upang makakuha ng isang tiyak na gantimpala).
+
+Ang hindi nag-uusapan ay hindi gagana sa lahat ng mga kaso. Ito ay humahawak lamang ng mga function na alam nito. Sa karamihan ng mga kaso at para sa karamihan ng mga gumagamit, hindi ito gagamitin, dahil higit pa ito sa isang advanced / experimental na tampok.
+
+Ang ilang mga pag-andar ay bumalik __type_qword__, ilan - __type_double__ (bihirang ginagamit).
+
+Ang mga halaga ng __type_double__ ay dapat na nasa hanay mula sa 0 hanggang 1. Gayunpaman, maaari mong tukuyin ang anumang mga halaga doon, dahil __app_name__ ay awtomatikong itatama ang lahat ng maling mga variant.
+
+Maaari mo ring tukuyin ang isang hakbang na pagdagdag. Sa kasong ito, ang bawat kasunod na resulta ay tataas ng halaga na ito. Halimbawa, para sa pagdagdag ng 1 at ang unang halaga 0, sa halip ng isang random na halaga, 0, 1, 2, 3, ... ay ibabalik.
+Ang pagpipiliang ito ay maaaring maging kapaki-pakinabang para sa isang kumpletong paghahanap ng lahat ng posibleng random na mga resulta.
+
+Maaari mong tukuyin kung aling mga pag-andar ay maaaring baguhin sa mga setting ng __app_name__.
+"</string>
+    <string name="count_replace">Gaano karaming mga unang resulta upang palitan?</string>
+    <string name="unrandomizer_loading">Naglo-load ng unrandomizer ...</string>
+    <string name="unrandomizer_loaded">Naka-load ang unrandomizer.</string>
+    <string name="warn_restart_off_prot">"Ang pagpipiliang ito ay susubukang i-restart ang laro nang walang proteksyon.
+Gayunpaman, maraming firmware ay naglalaman ng mga bug na maaaring maging sanhi ng pag-reboot ng device.
+Kung mangyari ito, huwag subukang simulan ang laro muli, dahil muling i-restart ang device muli.
+Tumakbo lamang __app_name__ - aalisin nito ang mga hindi magandang setting.
+Gayundin maaari mong subukan na i-reboot ang aparato sa isang regular na paraan, ito rin ay dapat ayusin ang problema.
+
+Kung naganap ang reboot - huwag gamitin ang function na ito, hindi ito gagana sa iyong firmware."</string>
+    <string name="warn_patch_off_prot">"Susubukan ng pagpipiliang ito na i-patch ang system (pansamantala) upang ang lahat ng mga application ay tumakbo nang walang proteksyon.
+Ang mga pagbabago ay ilalapat lamang sa mga bagong pagsisimula ng mga application. Samakatuwid, ang target na application, pagkatapos ng isang matagumpay na patch, kailangang ma-restart.
+Upang kanselahin ang patch, i-restart ang aparato.
+Marahil magkakaroon ng iba't ibang mga bug sa system, pagkatapos ng patch na ito.
+
+Kung matagumpay ang patch, hindi na inirerekomenda na patakbuhin muli ang pag-andar na ito, bago i-reboot ang aparato.
+
+Kung mayroon kang mga problema, huwag gamitin ang function na ito."</string>
+    <string name="clear_history">I-clear ang kasaysayan ng pag-input</string>
+    <string name="clear_history_warn">Ang lahat ng mga entry, kabilang ang naka-pin, ay tatanggalin.</string>
+    <string name="click_edit">Mag-click dito upang mai-edit</string>
+    <string name="ignore_unknown_chars">Huwag pansinin ang mga hindi kilalang character:</string>
+    <string name="need_root_mode">Ang tampok na ito ay nangangailangan ng root access. Sa kasalukuyan ay __app_name__ ay tumatakbo sa isang virtual na kapaligiran mode nang walang ugat access.</string>
+    <string name="work_without_root_title">Magtrabaho nang walang ugat</string>
+    <string name="work_without_root">"__app_name__ ay maaaring gumana nang walang ugat, sa pamamagitan ng isang virtual na kapaligiran. Halimbawa, sa pamamagitan ng __vspace_list__ at marami pang iba.
+Dapat na naka-install ang __app_name__ sa isang virtual na kapaligiran. Ang laro ay dapat ding mai-install doon.
+Hindi lahat ng mga tampok ng programa ay sinusuportahan, ngunit karamihan sa mga function ay dapat gumana.
+
+Hindi mo magagawang i-crack ang mga laro na hindi naka-install sa isang virtual na kapaligiran.
+
+Ang unang paglulunsad ng __app_name__, na nagsasagawa ng muling pag-install na may isang random na pangalan ng pakete, ay hindi dapat gawin sa pamamagitan ng isang virtual na kapaligiran.
+Pagkatapos ay maaari kang magdagdag ng __app_name__ sa virtual na kapaligiran at paggamit."</string>
+    <string name="help_game_not_listed_title">Bakit ang aking laro ay wala sa listahan ng proseso?</string>
+    <string name="fractional_hint">"Ang praksyonal na bahagi ng isang tunay na bilang na \"x\" ay ang labis na lampas sa bahagi ng integer na numero.
+Para sa isang numero nito fractional bahagi kaya tumutugma sa mga digit na lumilitaw pagkatapos ng radix point.
+
+Halimbawa:"</string>
+    <string name="pointer">Pointer:</string>
+    <string name="help_search_filter_title">Mga filter sa paghahanap</string>
+    <string name="help_search_filter">"Maaari mong i-filter ang mga resulta ng paghahanap.
+Maaari mong tukuyin ang:
+\u0009- ang mga limitasyon para sa address,
+\u0009- ang mga limitasyon para sa halaga,
+\u0009- ang mga kinakailangang uri ng data,
+\u0009- ang ninanais na praksyonal na bahagi ng bilang,
+\u0009- ang nais na uri ng pointer.
+Maaari mong pagsamahin ang anumang mga filter sa bawat isa.
+Maaari mo ring i-disable ang isa o alinman sa mga filter sa anumang oras.
+
+Gayunpaman, kung ang isang malaking halaga ng data ay natagpuan, ang mga filter ay maaaring makapagpabagal sa mga resulta.
+
+Ang isang filter sa praksyonal na bahagi ng isang numero ay maaaring alinman sa pamamagitan ng pagkakapantay o sa pamamagitan ng hindi pagkakapantay-pantay.
+Para sa mga uri ng integer, ang praksyonal na bahagi ay zero. Kung hindi mo kailangan ang mga uri ng integer, ibukod ang mga ito gamit ang isang uri ng filter.
+
+Ang filter sa pamamagitan ng uri ng pointer ay nagbibigay-daan upang umalis sa output lamang ang mga halagang iyon na maaaring maging isang pointer sa nais na uri ng memorya.
+Ang mga posibleng uri ng memorya ay tumutugma sa mga kulay sa editor ng memorya:
+Ito ay maaaring __executable__ memorya, __writable__ o __read_only__. Sa mga bihirang kaso, maaari itong maging memory __writable_and_executable__.
+
+Ang pseudo-type na \"walang pointer\" ay tumutugma sa lahat ng mga uri ng data na hindi maaaring maging mga payo, at gayon din sa mga halaga ng mga payo na tumutukoy sa hindi nakatalang memorya."</string>
+    <string name="unmount_kill">"Ang memory card ay na-unmounted, habang ang __app_name__ ay naka-imbak ng mga pansamantalang file dito. Ito ang humantong sa sapilitang pagsasara ng demonyo.
+
+Upang maiwasang mangyari ito, tukuyin ang ibang landas sa mga pansamantalang file. Halimbawa, sa internal memory.
+Dapat mayroong sapat na libreng puwang."</string>
+    <string name="calls">Mode ng mga tawag sa system:</string>
+    <string name="alternative">Alternatibong</string>
+    <string name="help_calls">"Sa ilang mga firmware, halimbawa Lenovo, ang alternatibong mode ay maaaring gumana nang mas mabilis.
+
+Karaniwan, hindi mo kailangang baguhin ang pagpipiliang ito."</string>
+    <string name="help_context_title">Tulong sa konteksto</string>
+    <string name="help_context">"Sa interface, ang ilang mga elemento ay minarkahan ng isang espesyal na icon, sa kanang tuktok, na may simbolo na __i__ sa bilog.
+Ang pagpindot o mahabang pagpindot, sa elementong ito, ay nagpapakita ng tulong sa elementong ito."</string>
+    <string name="waitpid_mode">__waitpid__ mode:</string>
+    <string name="help_waitpid">"Sa ilang mga firmware, ang __waitpid__ sistema ng tawag ay hindi gumagana tulad ng inaasahan. Ito ay karaniwang dahil sa hindi tamang mga setting ng SeLinux.
+Ito ay humahantong sa isang walang katapusang paghahanap sa __app_name__.
+Maaari mong subukang gumamit ng alternatibong mode. Siguro ito ay gagana."</string>
+    <string name="microseconds_short">μs</string>
+    <string name="small_is_bad">Masyadong maliit na mga halaga ay maaaring maging sanhi ng isang mataas na load sa processor at lags sa laro.</string>
+    <string name="freeze_interval_help">Ang agwat sa pamamagitan ng kung saan __app_name__ overwrites ang mga halaga sa memorya ng laro.</string>
+    <string name="saved_list_update_interval_help">Ang agwat sa pamamagitan ng kung saan __app_name__ ina-update ang mga halaga sa naka-save na listahan.</string>
+    <string name="icons_size_help">"Ang laki ng mga icon sa interface na __app_name__.
+Hindi nalalapat sa isang lumulutang na icon."</string>
+    <string name="ignore_unknown_chars_help">"Makatutulong sa paglutas ng mga problema kapag kinopya ang mga numero mula sa iba't ibang lugar, kung ang mga espesyal na character ay kinopya kasama ang mga numero."</string>
+    <string name="use_notification_help">"Paggamit ng mga notification sa lugar ng notification ng system ng Android.
+Sa ilang firmware, pinapataas nito ang prayoridad ng application at pinipigilan ito mula sa pagsasara.
+Maaari mo ring gamitin ang notification upang pumunta sa __app_name__ o ang laro sa pamamagitan ng pag-click dito.
+Maaari itong maging kapaki-pakinabang kung hindi ka maaaring mag-click sa lumulutang na icon."</string>
+    <string name="use_sound_effects_help">"Ang tunog ng system kapag pinindot mo ang mga pindutan at mga item.
+Sa ilang mga firmware, ang mga tunog ay sanhi ng pag-crash ng __app_name__."</string>
+    <string name="keyboard_help">Ang panloob na keyboard ay tumatagal ng mas mababa memory, naglo-load nang mas mabilis at na-optimize para sa pagpasok ng mga numero.</string>
+    <string name="allow_suggestions_help">"Mga pahiwatig mula sa isang panlabas na keyboard.
+Sa ilang mga firmware, ang mga pahiwatig ay sanhi ng pag-crash ng __app_name__."</string>
+    <string name="autopause_help">Awtomatikong naglalagay ng laro sa pause kapag binubuksan ang __app_name__ interface.</string>
+    <string name="killed_by">__app_name__ ay sapilitang isinara ng aplikasyon na \"__s__\". Upang maiwasan ito, tanggalin ang application na ito o i-configure ito upang hindi ito wakasan ang __app_name__.</string>
+    <string name="killers_found">"Nag-install ka ng mga application na pwersahang isara __app_name__:
+__s__
+Upang maiwasan ito, tanggalin ang mga ito, o i-configure ang mga ito upang hindi nila tapusin ang __app_name__.
+
+Kung hindi ka nakakaranas ng mga problema sa hindi inaasahang pagsasara ng __app_name__, pagkatapos ay walang kinakailangang aksyon, at maaari mong huwag pansinin ang mensaheng ito."</string>
+    <string name="record_logcat">Itala __logcat__</string>
+    <string name="record_logcat_info">"__app_name__ ay i-restart sa pag-record ng __logcat__ sa file:
+\"__s__\".
+
+Upang tapusin ang pag-record, lumabas mula sa __app_name__.
+Pagkatapos nito, maaari mong ipadala ang log file kung saan kailangan mo ito."</string>
+    <string name="need_uninstall">Kailangan mong i-uninstall ang installer, kung hindi ay magkakaroon ka ng 4 na mga icon, hindi 2. Gayundin ang mga laro ay tiktikan ito.</string>
+    <string name="need_random_name">"Ang __app_name__ ay gumagamit ng karaniwang pangalan ng pakete. Maaaring makita ito ng mga laro.
+
+Upang ayusin ito - patakbuhin ang __app_name__ sa labas ng virtual space bilang isang normal na application.
+Matapos makumpleto ang pag-install, magdagdag ng isang kopya ng __app_name__ na may isang random na pangalan sa virtual space."</string>
+    <string name="work_mode">Work mode</string>
+    <string name="root">root</string>
+    <string name="no_root">walang ugat</string>
+    <string name="how_no_root">"Kailangan mong i-install ang virtual application na espasyo. Tulad ng: __vspace_list__.
+
+Inirerekomenda na i-install ang mga na-optimize na bersyon mula sa opisyal na site na __app_name__.
+
+Pagkatapos ay kailangan mong magdagdag ng __app_name__ at ang iyong laro sa virtual space na ito.
+
+Pagkatapos nito dapat mong patakbuhin ang laro at __app_name__ sa virtual space."</string>
+    <string name="eperm_error_descr_0">Mga posibleng dahilan:</string>
+    <string name="eperm_error_descr_1">Proteksyon sa laro.</string>
+    <string name="eperm_error_descr_2">Ang isa pang debugger o cracker ay konektado sa laro.</string>
+    <string name="eperm_error_descr_3">Hindi sapat na pahintulot. Karaniwan dahil sa maling na-configure na __selinux__. Huwag paganahin o i-configure ang __selinux__.</string>
+    <string name="eperm_error_descr_4">Masamang kernel o firmware. Subukan ang ibang firmware o iba pang device.</string>
+    <string name="eperm_error_descr_5">Sa iyong firmware, ang \"no root\" mode ay hindi gumagana. Subukan ang ibang firmware o iba pang device o makakuha ng ugat.</string>
+    <string name="ptrace_bypass_mode">Bypass mode para sa proteksyon ng ptrace:</string>
+    <string name="mode_restore">ibalik</string>
+    <string name="mode_nothing">wala</string>
+    <string name="mode_freeze">mag-freeze</string>
+    <string name="ptrace_bypass_mode_help">"Nagpapahiwatig kung ano ang dapat gawin pagkatapos i-disable ang koneksyon sa proteksyon:
+\u0009__mode_restore__ - ibalik ang koneksyon
+\u0009__mode_nothing__ - wala kang ginagawa (karaniwan ay pinanumbalik ng proteksyon ang koneksyon)
+\u0009__mode_freeze__ - i-freeze ang thread (tulad ng sa mga nakaraang bersyon)
+
+Kung ibabalik mo ang proteksyon, o pahintulutan ang proteksyon na gawin ito mismo, ang pagyeyelo ng mga halaga sa __app_name__ ay maaaring maging sanhi ng mga lags dahil sa permanenteng koneksyon / hindi pagpapagana ng proteksyon."</string>
+    <string name="slow_emulator">"Ginagamit mo ang \"__s__\" emulator. Ito ay mabagal at naglalaman ng mga pagkakamali. Dahil dito, ang paghahanap ay maaaring maging mabagal.
+
+Inirerekomenda namin ang paggamit ng iba pang mga emulator:"</string>
+    <string name="text">Teksto</string>
+    <string name="show_debug_info">Ipakita ang impormasyon ng debug</string>
+    <string name="mnt_expand">"__app_name__ ay naka-install sa isang memory card na ginagamit bilang \"Panloob na imbakan\".
+Maaari itong makagambala sa pagpapatakbo ng mga virtual space.
+Kung nangyari ito, mag-install ng __app_name__ sa internal memory ng device.
+Maaaring kailanganin mong i-reformat ang memory card bilang \"Portable storage\"."</string>
+    <string name="help_game_not_listed_root">"Ang laro ay dapat tumakbo upang piliin ito.
+
+Kung tumatakbo ang laro, ngunit hindi pa rin ito sa listahan, maaaring mayroon kang mga problema sa root, o firmware.
+Subukan ang ibang ugat o ibang firmware."</string>
+    <string name="help_game_not_listed_noroot">"Ang laro ay dapat ilunsad sa virtual space upang mapili ito.
+
+Hindi ka maaaring pumili ng isang laro kung hindi ito tumatakbo sa virtual space.
+
+Kung ang laro ay tumatakbo sa virtual na espasyo, ngunit hindi pa rin ito sa listahan, subukan ang isa pang virtual space, isa pang firmware, isa pang device o makakuha ng ugat."</string>
+    <string name="daemon_killed_oom">"Ang daemon ay pinatay ng system dahil sa kakulangan ng memorya.
+
+Itakda ang \"__data_in_ram__\" sa \"__no__\".
+Gamitin ang hardware acceleration ng interface, kung maaari.
+Huwag gumamit ng malalaking apps.
+Huwag paganahin ang lahat ng iba pang hindi nagamit na apps.
+Subukang gumamit ng __app_name__ matapos mag-reboot ng iyong device."</string>
+    <string name="selected_as_search_result">Napili bilang resulta ng paghahanap</string>
+    <string name="clear_results_prompt">Papalitan nito ang kasalukuyang mga resulta ng paghahanap. Magpatuloy?</string>
+    <string name="position_in_memory_editor">Posisyon sa editor ng memorya</string>
+    <string name="script_prompt_internet">"Nais ng script na ma-access ang Internet. Kung pinapayagan mo ang pag-access, ang script ay makakapag-magnakaw ng iyong mga pag-login, password, sine-save at iba pang data mula sa laro. Magagawa rin nito na magnakaw ang iyong iba pang mga script, o mag-download ng mga virus sa iyong device.
+
+Payagan ang access sa script sa Internet?"</string>
+    <string name="level">Antas</string>
+    <string name="float_prompt">"Upang maayos na tumakbo ang __app_name__ sa iyong firmware, kailangan mong payagan ang mga popup window ng paggamit sa mga setting ng system para sa __s__.
+
+Ang popup ay hindi nagpapakita sa mga teleponong HUAWEI bilang default. Kakailanganin mong payagan ang __s__ upang ipakita ang popup. Mangyaring buksan ang Manager ng Telepono, pagkatapos ay I-Dropzone Pamamahala at pakitiyak na naka-on ito para sa __s__.
+
+Ang Popup ay hindi rin nagpapakita sa ilang mga telepono ng Xiaomi. Kailangan mong magtungo sa Mga Setting -> Mga naka-install na app -> __s__ -> Iba't ibang mga pahintulot -> Ipakita ang pop-up na window.
+
+Gayundin, ang iba pang mga telepono ay maaaring magkaroon ng iba't ibang mga pamamaraan upang payagan ang mga app na ipakita ang mga Popup window. Ang lahat ng naturang apps ay karaniwang apektado sa ganitong paraan, halimbawa ang Google Translator app na may Tapikin Upang pag-andar ng Pag-translate. Samakatuwid, maaari mong i-google ang \"YOUR_PHONE i-tap upang i-translate\" upang mahanap ang solusyon. Halimbawa, para sa mga aparatong Xiaomi Redmi ang solusyon ay ang mga sumusunod:"</string>
+    <string name="virtual_space">Virtual Space App</string>
+    <string name="prevent_unload_help">"Pigilan ang pag-unload __app_name__ mula sa memorya (puwersa malapit).
+
+Ang bawat kasunod na antas ay mas malakas kaysa sa naunang isa at kabilang dito mismo.
+
+Ang ikatlong antas ay maaaring maging sanhi ng mga problema (mag-hang sa toast, reboot o pag-crash) sa ilang firmware at emulator.
+
+Walang ugat lamang ang gumagana sa ikatlong antas."</string>
+    <string name="integer_type">Ang uri ng data na ito ay para lamang sa mga halaga ng integer at hindi sumusuporta sa mga praksyonal na halaga. Gumamit ng __type_float__ o __type_double__ para sa mga praksyonal na halaga.</string>
+    <string name="without_float">Maaari mo ring gamitin ang __app_name__ nang walang mga lumulutang na bintana:</string>
+    <string name="any_value">anumang halaga</string>
+    <string name="help_group_search_any_value">Maaari mong gamitin ang __any__ sa paghahanap ng isang order na grupo kasama ang minimum na laki upang tukuyin ang anumang halaga ng uri na iyon sa ninanais na posisyon.</string>
+    <string name="help_scripts_title">Mga script</string>
+    <string name="help_scripts">"* __help_scripts_title__:
+Ang __app_name__ ay sumusuporta sa pagpapatupad ng mga script na isinulat sa Lua.
+
+Sa tab ng paghahanap, i-click ang menu at piliin ang \"__execute_script__\".
+Dito maaari mong piliin ang script file para sa pagpapatupad, tingnan ang umiiral na __app_name__ mga pamamaraan ng API, o pumunta sa opisyal na site upang mabasa ang tulong sa API o i-download ang handa na mga script.
+Gayundin, makakakuha ka ng tulong mula sa API sa memory card upang mabasa ito nang walang Internet.
+
+Kung nais mong isulat ang iyong sariling script, pagkatapos ay kailangan mo ng isang panlabas na editor ng teksto ng file.
+Hindi pinapahintulutan ng __app_name__ ang pag-edit ng mga script, ginagawa lamang nito ang mga ito.
+
+Basahin ang tulong ng API para sa higit pang mga detalye."</string>
+    <string name="help_floating_icon_absent">Kung matapos ang pag-click sa pindutan ng \"__start__\" hindi ka nakakakita ng lumulutang na icon:</string>
+    <string name="remove_all2">Alisin lahat</string>
+    <string name="debug_load">Dump ang lahat ng load ng code</string>
+    <string name="debug_log">Mag-log sa karamihan ng mga tawag sa script</string>
+    <string name="vspace64">"Pinatakbo mo ang __app_name__ sa isang virtual space na sumusuporta sa mga proseso ng 64-bit.
+
+__app_name__ ay hindi makakakita ng 32-bit na proseso na tumatakbo sa puwang na ito.
+
+I-install ang pangalawang kopya ng __app_name__ sa mode na \"__for32__\" kung gusto mong magtrabaho sa __app_name__ na may mga proseso ng 32-bit."</string>
+    <string name="folder_new">Bagong folder</string>
+    <string name="folder_exists">Mayroon nang folder na ito</string>
+    <string name="folder_file">May isang file na may pangalang iyon</string>
+    <string name="folder_failed">Nabigong lumikha ng folder</string>
+    <string name="force_close">"Ang nakaraang pag-shutdown ng app ay hindi inaasahang.
+
+Maaari mong itaas ang antas ng configuration ng \"__prevent_unload__\" upang maiwasan ito sa hinaharap."</string>
+    <string name="help_force_close_title">Hindi inaasahang pag-shutdown</string>
+    <string name="install_mode">I-install ang mode</string>
+    <string name="for32">Para sa pag-hack ng 32-bit na mga laro sa 64-bit virtual space</string>
+    <string name="for64">Para sa pag-hack ng 64-bit na mga laro sa 64-bit virtual space</string>
+    <string name="reset_ignore">I-reset ang lahat ng huwag pansinin para sa lahat ng mga dialog</string>
+    <string name="allocate_fail">Hindi maalok ang pahina ng memorya. Error</string>
+    <string name="allocated">Pinagkaloob na pahina ng memorya:</string>
+    <string name="allocate_page">Maglaan ng memorya ng pahina</string>
+    <string name="prot_read">Maaaring basahin</string>
+    <string name="prot_write">Maaaring nakasulat</string>
+    <string name="prot_exec">Maaaring papatayin</string>
+    <string name="install_finished">"Matagumpay ang pag-install.
+Patakbuhin nang manu-mano ang naka-install na kopya upang maaari itong ilipat ang iyong data.
+Pagkatapos nito, maaalis ang installer."</string>
+    <string name="odd_vspace">__app_name__ inilunsad sa virtual space?</string>
+    <string name="record_script">I-record ang script</string>
+    <string name="record">Mag-record</string>
+    <string name="another_record">Ang isa pang rekord ay tumatakbo. Itigil mo yan?</string>
+    <string name="record_ended">Nakumpleto ang pagre-record:</string>
+    <string name="stop">Itigil</string>
+    <string name="could_not_use">Hindi magamit:</string>
+    <string name="not_optimized2">"Gumagamit ka ng di-na-optimize na bersyon ng virtual space (\"__s__\").
+Upang ayusin ang error na ito, alisin ang hindi na-optimize na bersyon ng \"__s__\" at i-install ang isa sa mga na-optimize na virtual na puwang mula sa opisyal na site __app_name__.
+I-click ang \"__fix_it__\" upang pumunta sa pagpili ng mga na-optimize na virtual na puwang."</string>
+    <string name="fix_path">Libreng espasyo o tukuyin ang ibang landas para sa mga pansamantalang file sa pamamagitan ng pag-click sa \"__fix_it__\".</string>
+    <string name="deep_read">Malalim na nabasa:</string>
+    <string name="help_deep_read">"Pagbabasa ng memorya ng lahat ng magagamit na mga pamamaraan, kung hindi ito mababasa.
+Maaaring pabagalin ang pagbabasa ng memorya."</string>
+    <string name="ptrace_fail">Nabigong baguhin ang memorya sa pamamagitan ng ptrace.</string>
+    <string name="ptrace_fail_partially">Ang ilang mga tampok, speedhack at lahat ng nauugnay dito, ay hindi gagana. Ang pagsulat sa read-only na memorya (kasama ang code) ay hindi posible.</string>
+    <string name="ptrace_fail_full">Ang ganap na mayorya ng mga tampok ay hindi gagana.</string>
+    <string name="ptrace_fail_solve">"Ang pangkaraniwang dahilan ay isang nasira kernel sa firmware.
+Subukang baguhin ang firmware. Kung na-update mo kamakailan - i-install ang nakaraang bersyon.
+
+Kung hindi ito gumagana, palitan ang aparato."</string>
+    <string name="feature_hide_4">Ang tampok na ito ay hindi maaaring magtrabaho kung ang pang-apat na item ay pinili sa \"__hide_from_game__\".</string>
+    <string name="feature_firmware">Ang tampok na ito ay hindi maaaring gumana nang walang ptrace, na hindi gumagana sa firmware na ito.</string>
+    <string name="feature_protection">Ang tampok na ito ay hindi maaaring gumana dahil sa proteksyon ng ptrace sa laro.</string>
+    <string name="not_file">Path ay hindi isang file:</string>
+    <string name="not_execute">Hindi maisagawa:</string>
+    <string name="check_install">Suriin na ang __app_name__ ay naka-install nang wasto.</string>
+    <string name="sdcard_install">Kung naka-install ang __app_name__ sa panlabas na storage (SD card), ibalik ito sa internal memory</string>
+    <string name="change_address_type">Baguhin ang address / uri</string>
+    <string name="bad_offset">Ang offset ay hindi isang maramihang ng __d__.</string>
+    <string name="bad_result_address">Ang resultang address ay hindi isang maramihang ng __d__.</string>
+    <string name="correct_types">__d__ mga elemento ay magbabago sa uri nito upang iwasto ang imposible pagkakahanay.</string>
+    <string name="reinstall_fail">"Hindi ma-install muli ang __app_name__ na may random na pangalan.
+
+__app_name__ ay madaling makitang mga laro.
+
+Maaari kang mag-record ng __logcat__, sa panahon ng pag-install, at makipag-ugnay sa opisyal na forum para sa tulong.
+
+Ang dahilan ng pagtanggi:"</string>
+    <string name="empty_field">Walang laman na field ng input: walang numero upang i-convert</string>
+    <string name="need_integer">Dapat kang pumili ng isang integer na mag-convert.</string>
+    <string name="maps_failed">Hindi mabuksan ang \"__maps__\" na file.</string>
+    <string name="game_protected">Protektado ang laro.</string>
+    <string name="need_root">Kailangan ng ugat upang tadtarin ang larong ito.</string>
+    <string name="vspace_error">"Ang problema ng virtual space o firmware o device.
+
+Subukan:
+\u0009- Gumamit ng ibang virtual space
+\u0009- Gumamit ng ibang firmware
+\u0009- Kumuha ng ugat
+\u0009- Gumamit ng isa pang device"</string>
+    <string name="root_error">"Ang problema ng firmware o root o device.
+
+Subukan:
+\u0009- Gumamit ng ibang firmware
+\u0009- Gumamit ng ibang ugat
+\u0009- Gumamit ng isa pang device"</string>
+    <string name="vspace_root">Gumamit ng ugat sa virtual space:</string>
+    <string name="help_vspace_root">"Ang paggamit ng ugat mula sa virtual space ay maaaring makatulong sa itago ang katotohanan na mayroong isang __app_name__ sa device.
+
+Hindi ito gumagana sa lahat ng firmware at hindi sa lahat ng mga virtual na espasyo.
+
+Ang virtual na espasyo, firmware at root ay dapat pahintulutan ang pagtatrabaho sa ugat mula sa virtual space.
+Ang virtual na espasyo ay dapat magpapahintulot sa iyo na i-install ang mga aplikasyon papasok nang hindi mai-install ang mga ito sa system.
+
+Hindi lahat ng mga virtual na puwang ay maaaring magbigay ng ito.
+
+Hindi sa lahat ng firmware ang mode na ito ay gagana. At hindi sa lahat ng ugat.
+
+Dahil ang mga karapatan sa ugat ay ipagkakaloob sa buong virtual space, hindi ka dapat mag-install ng anumang bagay sa loob nito. Kung hindi man, ang anumang application mula sa virtual na espasyo ay maaaring gumamit ng mga karapatan sa ugat na may mga mahuhulaan na kahihinatnan.
+
+Dapat na mai-install ang laro sa labas ng virtual space.
+
+Ang __app_name__ ay dapat na naka-install lamang sa loob ng virtual na espasyo, nang hindi mai-install ito sa system.
+Paano ito gawin - makita ang tulong ng isang partikular na espasyo sa virtual.
+
+Halimbawa, para sa __vexp__, maaari mong i-clone ang __app_name__ mula sa system sa __vexp__, at saka tanggalin ang __app_name__ mula sa system."</string>
+    <string name="help_games_protection_9">9. Gamitin ang ugat sa mga virtual na espasyo na nagbibigay-daan sa pag-install ng mga application sa iyong sarili nang walang pag-install sa system.</string>
+    <string name="locale_ui">Sa iyong lokal na lugar</string>
+    <string name="locale_script">Gumagamit ang mga script ng lokal na Ingles</string>
+    <string name="locale_desc">"'__s__' - decimal separator
+'__s__' - libu-libong separator
+'__semicolon__' - numerong hiwalay sa paghahanap ng pangkat"</string>
+    <string name="help_unaligned_title">Hindi nakalista paghahanap / malaking-endian paghahanap</string>
+    <string name="help_unaligned">"Sa ilang mga application, (halimbawa, tulad ng console emulators), ang halaga sa memorya ay maaaring hindi igalang ang pagkakahanay, o iharap sa big-endian byte order.
+
+Ang nasabing halaga ay hindi matatagpuan sa pamamagitan ng normal na paghahanap.
+
+Upang mahanap ang mga ito - gumamit ng isang espesyal na script mula sa opisyal na __app_name__ website:"</string>
+    <string name="help_formula_calculator_title">Formula calculator</string>
+    <string name="help_formula_calculator">"Halos sa bawat larangan para sa pagpasok ng mga numero, maaari kang magpasok ng isang pormula sa matematika, pagkatapos ng pantay na pag-sign, halimbawa, sa larangan ng paghahanap ipasok '= 2 + 2 * 3', at ang programa ay maghanap para sa resulta ng pormula, na ay, '8'.
+Ang pormula ay isang expression ng Lua. Maaari mong gamitin ang lahat ng magagamit na kapangyarihan ng Lua sa loob nito.
+
+Ang lahat ng mga operator ng aritmetika Ang haba 5.3 ay katanggap-tanggap - karagdagan (+), pagbabawas (-), pagpaparami (*), dibisyon (/), dibisyon ng paghati (%), exponentiation (^), dibisyon ng integer (//), at iba pa.
+Magagamit din ang mga bit operator - AT (&amp;), O (|), Eksklusibo O (binary ~), HINDI (nagkakaisa ~), Shift sa kanan (>>), Shift sa kaliwa (&lt;&lt;). Ang pagkakasunud-sunod ng pagkilos ay maaaring ibigay ng mga bracket.
+Basahin ang manu-manong Lua para sa isang kumpletong listahan ng mga magagamit na operasyon.
+
+Ito ay kapaki-pakinabang kung alam mo kung paano ang halaga ay naka-code sa laro. Halimbawa, 29 rounds sa isang laro ay matatagpuan bilang '= 29 ~ 444444'. Ito ay katumbas ng 29 XOR 444444. Sa sample ng video, ang presyo ay natagpuan 3888 sa pamamagitan ng XOR na may 444444, bilang '= 444444 ~ 3888'. Pagkatapos nito, ang kapalit ay ginawa sa '= 444444 ~ 1', na nagtatakda ng presyo sa '1'. Sa isa pang laro, ang 125 ginto ay tulad ng '= 125 * 10'.
+
+Hindi lahat ng mga pag-andar ng script ay magagamit sa calculator ng formula. Ang ilang mga pag-andar ay hindi magagamit. Kung wala kang sapat sa kanila - isulat ang iyong script, sa halip na gumamit ng isang calculator ng formula, ito ay inilaan para lamang sa mga simpleng kalkulasyon. Magagamit na: bahagi ng mga pangunahing pag-andar, 'bit32', 'talahanayan', 'string', 'utf8', 'matematika', bahagi ng 'os' package. Ang mga package 'debug', 'package', 'gg', 'io' ay hindi magagamit.
+
+Kapag isinulat mo ang '= 2 + 2 * 3', ang keyword na 'return' ay idadagdag bago ang pormula: 'return 2 + 2 * 3'. Gayunpaman, maaari mong tukuyin ang salitang ito sa iyong sarili sa isang formula kung kailangan mo ng isang komplikadong pormula.
+Halimbawa, '= a = 5; b = 7; ibalik ang isang * 4 + b * 8 'ay isinasagawa bilang' a = 5; b = 7; bumalik isang * 4 + b * 8 '
+
+Ang resulta ng calculator ng formula ay isang string ng teksto. Ang string ay maaaring maging anumang wastong string para sa larangan ng pag-input na ito.
+Halimbawa, maaaring ito ay isang string para sa isang paghahanap sa grupo o isang paghahanap sa saklaw. '= a = 5; b = 7; bumalik ka .. \";\" .. b .. \":: 100\" 'ay katumbas ng' 5; 7 :: 100 '.
+
+Ang calculator ng formula ay hindi gumagana sa mga script, doon maaari kang direktang magamit ang Dalawa.
+Kapag nagsusulat ng isang script, ang resulta ng pagkalkula ng pormula ay isusulat sa file, hindi ang pormula mismo.
+
+Kung ang pormula ay hindi tama, makakatanggap ka ng isang mensahe ng error kapag nagsumite ka ng form.
+
+Kapag kinakalkula, dapat mong isaalang-alang ang katotohanan na ang mga pagkalkula ay isinasagawa sa uri na tinukoy ng unang operand. Kung ito ay isang integer, pagkatapos ang resulta ay magiging isang integer.
+Halimbawa, '= 3/2' ay '1', at '= 3.0 / 2' ay '1.5'.
+
+Anuman ang napiling lokal, gumagana ang mga formula sa Ingles na lokal. Nangangahulugan ito na ang perpeter na naghihiwalay ay palaging isang tuldok ('.')."</string>
+    <string name="help_faq_32_b">"Dalawang icon ng paglunsad. Ang una, na may software acceleration - \"__app_short_name_sw__\", ang pangalawa, na may hardware acceleration - \"__app_short_name_hw__\". Ngayon ay laging gayon.
+Sa ilang mga firmwares isang bersyon lamang ang gumagana, sa normal na parehong pareho.
+Mas mahusay na gumamit ng pagpabibilis ng software, mas mababa itong gumagana nang maayos, ngunit mas mababa ang memorya.
+
+Maaari mong itago ang isa sa mga icon sa mga setting ng application: \"__hide_icons__\"."</string>
+    <string name="acceleration_help_">"Hardware o software interface acceleration __app_name__.
+Depende sa laro at firmware, ang ilan sa mga opsyon ay maaaring maging sanhi ng mga problema.
+Kung ang parehong trabaho, gamitin ang pagpabibilis ng software dahil ito ay gumagamit ng mas kaunting memorya.
+
+Hiwalay ang opsyong ito mula sa mga icon ng paglulunsad at nakakaapekto lamang sa pagpapakita ng interface ng __app_name__.
+Ang mga icon ng paglulunsad ay may pananagutan para sa uri ng acceleration ng pagsisimula ng screen.
+
+Ang acceleration ng hardware ay gumagamit ng mas maraming memorya, ngunit mas gumagana nang maayos. Kung mayroon kang maliit na RAM, palaging gamitin ang pagpabilis ng software.
+
+Kung ang hardware acceleration ay nagdudulot ng mga error, maaaring lumipat sa __app_name__ ang software acceleration."</string>
+    <string name="small_list_items">Maliit na mga item sa listahan</string>
+    <string name="small_list_items_help">Pinapayagan kang magpakita ng higit pang impormasyon sa mga listahan ng item, ngunit maaaring mas mahirap i-click ang nais na item.</string>
+    <string name="format_asm_opcodes">__s__ opcodes</string>
+    <string name="no_regions">Walang nahanap na tumutugma sa mga rehiyon.</string>
+    <string name="cannot_hide_launcher_icon">"Ang icon na ito ay ginamit sa kasalukuyang paglulunsad.
+
+Hindi mo maaaring itago ang icon na ginamit sa kasalukuyang paglulunsad.
+
+I-restart ang application sa pamamagitan ng isa pang icon upang maitago ang icon na ito."</string>
+    <string name="screenshot">Kumuha ng screenshot</string>
+    <string name="screenshot_prompt">"Ang icon ay itatago para sa __d__ segundo upang maaari kang kumuha ng isang screenshot.
+
+Pagkatapos nito, ang icon ay makikita muli."</string>
+    <string name="screenshot_action">Screenshot</string>
+    <string name="use_visible_type">Gumamit ng nakikitang uri ng data sa editor ng memorya:</string>
+    <string name="use_visible_type_help">Huwag hilingin ang uri ng data sa editor ng memorya kung isang uri ng data lamang ang ipapakita.</string>
+    <string name="wrong_float">Sa iyong lokal, ang bilang na \"__s__\" ay mukhang \"__s__\". Kung hindi ito ang kailangan mo - pumili ng ibang locale (o wika) sa pagsisimula ng screen.</string>
+    <string name="wrong_float2">Gayundin, sa __app_name__ setting, maaari mong i-override ang lokal para sa mga numero ng pag-format.</string>
+    <string name="number_locale">Lokal para sa mga numero ng pag-format:</string>
+    <string name="fill">Punan</string>
+    <string name="help_text_search">"
+Upang maghanap ng teksto, dapat mong tukuyin ang mga modifier sa karaniwang dialog ng paghahanap.
+
+Ang mga karaniwang ginagamit na mga pag-encode ay __utf8__ at __utf16le__.
+Kadalasan, ang __utf16le__ ay ginagamit sa __java__, at __utf8__ ay ginagamit sa __c__.
+
+\u0009__utf16le__ ay isang dalawang-byte encoding. Ang bawat karakter ay palaging naka-encode sa dalawang byte, kaya ito ay kinakatawan sa pamamagitan ng __type_word__.
+\u0009__utf8__ - pag-encode sa variable na byte size bawat karakter. Kinakatawan sa pamamagitan ng __type_byte__.
+\u0009__hex_input__ at ang mga variant nito ay palaging kinakatawan sa pamamagitan ng __type_byte__.
+
+Ang laro ay maaaring gumamit ng alinman sa mga pag-encode.
+Kung kailangan mo ng isang tukoy na hanay ng mga byte - gamitin ang __hex_input__ mode.
+
+Mga magagamit na prefix:
+__text_prefixes__
+
+Para sa \"__hex_mixed__\" mode, maaari mong tukuyin ang __utf8__ na teksto sa pagitan ng __apos__ na mga character at __utf16le__ na teksto sa pagitan ng __quot__ na mga character.
+
+Halimbawa:
+__text_examples__
+
+Ang prefix na character ay dapat na ang unang character sa text sa paghahanap.
+
+Ang resulta ng paghahanap ay isang pagkakasunud-sunod ng __type_byte__, o isang __type_word__ pagkakasunud-sunod, para sa kaso ng __utf16le__.
+
+Ang mga resulta ay maaaring mabago - piliin ang lahat at mag-click sa \"__edit_selected__\".
+
+Sa field na halaga, ipasok ang bagong halaga, sa parehong format tulad ng sa string ng paghahanap.
+
+Maaari mong gamitin ang mga pindutan ng punan. I-click ang \"__more__\" kung hindi sila nakikita.
+
+Ang halaga ay itatakda para sa bawat grupo ng mga patuloy na sumusunod na mga item.
+Kung may puwang sa pagitan ng mga elemento, ito ay magiging isang bagong grupo.
+
+Kung tinutukoy mo ang higit pang mga byte kaysa sa kinakailangan, pagkatapos ay isang bahagi lamang ng mga ito ang gagamitin.
+Kung mas tiyak ang iyong tukuyin kaysa sa kinakailangan, ang iba pang grupo ay mapupunan ng zero bytes.
+
+Kapag pinapalitan ang teksto, subukang tukuyin ang teksto na may parehong bilang ng mga byte bilang orihinal upang maiwasan ang mga problema.
+"</string>
+    <string name="fast_freeze">Mabilis na pag-freeze:</string>
+    <string name="help_fast_freeze">"Gumagana ito nang mas mabilis kaysa sa normal na pagyeyelo, ngunit hindi para sa lahat ng memorya.
+
+Kung hindi gumagana ang freeze, huwag paganahin ang pagpipiliang ito."</string>
+    <string name="debug_disassemble">I-disassemble</string>
+    <string name="assembled">Matagumpay na binuo upang mag-file:</string>
+    <string name="warn_patch_off_prot2">"Kung gumagamit ka ng __magisk_hide__ - huwag paganahin ito bago ilapat ang patch. Pagkatapos ng matagumpay na pag-a-apply ng patch, maaari mo itong ibalik.
+Kung hindi mo, ang patch ay hindi magiging matagumpay."</string>
+    <string name="help_games_protection_end">"
+Paano itago ang __app_name__ mula sa laro sa virtual na espasyo
+
+\u00091. I-install ang virtual na puwang, na nagbibigay-daan sa nakatagong pag-install ng mga aplikasyon, nang hindi mai-install ang mga ito sa system. Halimbawa, __vspace_hide__.
+\u00092. I-install ang __app_name__ sa virtual space.
+\u00093. Sa __app_name__, i-on ang mode na \"__vspace_root__\".
+\u00094. Bigyan ang mga karapatan ng ugat sa virtual na puwang. Kung hindi mo magagawang magbigay ng mga karapatan sa ugat - subukan ang isa pang virtual space, iba pang mga karapatan sa ugat, iba't ibang firmware o baguhin ang aparato.
+\u00095. Alisin ang __app_name__ mula sa system.
+\u00096. Makipagtulungan sa __app_name__ mula sa virtual space.
+
+Para maiwasan ang pag-detect sa panahon ng paghahanap:
+\u0009Piliin ang mga item 2, 3 at 4 sa setting na \"__hide_from_game__\".
+
+Isang tipikal na solusyon (nangangailangan ng ugat, nang walang ugat hindi ka magtagumpay):
+\u00091. Gumamit ng ugat mula sa virtual space. Basahin ang tulong para sa setting na \"__vspace_root__\".
+\u00092. Gumamit ng mga item 2, 3 at 4 sa setting na \"__hide_from_game__\".
+"</string>
+    <string name="force_close_2">Maaari mong itakda ang \"__data_in_ram__\" sa \"__no__\" upang maiwasan ito sa hinaharap.</string>
+    <string name="script_wrote">Ang script ay nagsulat __s__ upang i __d__ file.</string>
+    <string name="script_exit">lumabas</string>
+    <string name="script_interrupted">Ang script nagambala.</string>
+    <string name="script_error">script error</string>
+    <string name="script_oom">Out of memory</string>
+    <string name="script_possible">Mukhang sinusubukan mong execute __s__ tulad ng isang script.</string>
+    <string name="script_web">isang web page</string>
+    <string name="script_saved_list">isang naka-save na listahan</string>
+    <string name="speedhack_no_x86">Ngunit sa larong ito ay walang x86 aklatan, kaya marahil ito ay hindi gagana.</string>
+    <string name="help_faq_33_q">Mga text message (toasts) mananatiling sa screen, o isang madilim na bilog ay makikita sa ibaba ng screen kapag __app_name__ ay nagtatrabaho. Kung paano ayusin ito?</string>
+    <string name="help_faq_33_a">Paggamit ng mga ikatlong antas ng \"__prevent_unload__\" sa ilang mga firmware ay humantong sa ang katunayan na ang mga text message (toasts) mananatiling sa screen, o isang madilim na lupon ay nakikita (walang laman message). Kung nangyari ito, huwag gumamit ng ikatlong antas.</string>
+    <string name="invalid_header_1">Di-wastong binary script header.</string>
+    <string name="unknown_version">Hindi kilalang bersyon.</string>
+    <string name="unknown_format">Hindi kilalang format.</string>
+    <string name="unknown_endianness">Unknown endianness.</string>
+    <string name="unknown_size_s">Unknown laki ng __s__.</string>
+    <string name="unknown_size_instr">Unknown laki ng pagtuturo.</string>
+    <string name="unknown_size_num">Unknown laki ng Lua numero.</string>
+    <string name="expected_found">Inaasahang __s__ ngunit natagpuan __s__.</string>
+    <string name="or">o</string>
+    <string name="invalid_header_2">Patakbuhin ang script pa rin?</string>
+    <string name="invalid_header_3">"Sa hinaharap na mga bersyon ng __app_name__, ang script na ito ay hindi maaaring tumakbo.
+Magsulat tungkol ito sa ang may-akda ng script."</string>
+    <string name="skip_system_libs">Laktawan aklatan ng sistema</string>
+    <string name="try_reinstall_x86">"Subukan muling i-install ang laro na may x86 aklatan?
+
+Ang laro ay maaaring huminto sa paggana pagkatapos nun. Kung nangyari ito, muling i-install ang laro mula sa apk matatagpuan sa __data_app__."</string>
+    <string name="reinstall_started">Reinstallation nagsimula ...</string>
+    <string name="reinstall_failed">Nabigo Reinstallation:</string>
+    <string name="reinstall_ended">Reinstallation nakumpleto.</string>
+    <string name="help_lasm_title">Kalasin / magtipon script</string>
+    <string name="help_lasm">"__app_name__ ay may built-in na disassembler / assembler para sa Lua script.
+
+Maaari mong piliin ang \"__debug_disassemble__\" na opsyon sa paglunsad window script, pagkatapos ng pag-click sa \"__more__\" na pindutan.
+
+Ang resultang __ext_lasm__ file ay maaaring ma-edit at napili sa window ng script ng paglunsad. Ang resulta ay isang binary __ext_lua__ file, na may mga pagbabago na ginawa.
+
+Basahin ang script API tulong para sa karagdagang detalye.
+"</string>
+    <string name="help_hide_gg_title">Paano upang itago __app_name__ mula sa laro</string>
+    <string name="changed_as_search_result">Binago ng resulta ng paghahanap</string>
+    <string name="changed_not_found">Pinalitan ang mga item ay hindi natagpuan.</string>
+    <string name="too_far">Ang mga halaga ay hindi maaaring matagpuan sa pamamagitan ng paghahanap ng grupo, ang mga ito ay masyadong malayo: __d__ bytes. Ang maximum na distansya ay __d__ bytes.</string>
+    <string name="new_address">Bagong tirahan:</string>
+    <string name="hide_1_warn">Pinili mo ang unang item. Nagyeyelong halaga ay maaaring maging sanhi ng malubhang pagkaantala sa laro.</string>
+    <string name="hide_4_warn">Pinili mo ang ika-apat na item. Ang ilang mga tampok ay hindi gagana: __speedhack__, __unrandomizer__, __allocate_page__.</string>
+    <string name="asm_failed">Nabigong upang makilala __s__ opcode:</string>
+    <string name="asm_suggestion">Ibig mo bang sabihin: __s__?</string>
+    <string name="copy_opcode">Kopyahin __s__ opcode:</string>
+    <string name="search_nearby">Maghanap ng malapit</string>
+    <string name="before">bago</string>
+    <string name="after">pagkatapos</string>
+    <string name="distance">distance:</string>
+    <string name="nearby">Kalapit:</string>
+    <string name="need_fixer">"May problemang nakita na may ganitong 64-bit virtual space.
+
+Upang ayusin ito:
+
+1. I-install ang __fixer__ application. (Mula sa dialog na ito, alinman sa mano-mano sa kahabaan ng path na ito:
+__s__
+).
+
+2. Magdagdag ng __fixer__ sa virtual na espasyo.
+
+3. Patakbuhin __fixer__ sa virtual na espasyo.
+
+4. Alisin __fixer__.
+
+5. I-restart ang __app_name__ sa virtual na espasyo."</string>
+    <string name="limit">Tanging ang unang resulta N:</string>
+</resources>

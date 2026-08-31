@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.fix.LinearLayout
+    android:paddingTop="3.0dip"
+    android:paddingBottom="3.0dip"
+    android:descendantFocusability="afterDescendants"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.fix.TextView
+        android:textAppearance="@style/MediumText"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_width="48.0dip"
+        android:layout_height="wrap_content"
+        android:text="\#"
+        android:layout_weight="0.0" />
+    <android.fix.TextView
+        android:textAppearance="@style/MediumText"
+        android:id="@id/app"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="App"
+        android:layout_weight="1.0" />
+    <android.fix.TextView
+        android:textAppearance="@style/MediumText"
+        android:id="@id/java"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Java"
+        android:layout_weight="1.0" />
+    <android.fix.TextView
+        android:textAppearance="@style/MediumText"
+        android:id="@id/system"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="System"
+        android:layout_weight="1.0" />
+    <android.fix.TextView
+        android:textAppearance="@style/MediumText"
+        android:id="@id/other"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Other"
+        android:layout_weight="1.0" />
+</android.fix.LinearLayout>

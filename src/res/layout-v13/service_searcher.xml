@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.fix.ScrollView
+    android:paddingLeft="6.0dip"
+    android:paddingRight="6.0dip"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.fix.LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <android.fix.TextView
+            android:textAppearance="@style/MediumText"
+            android:layout_gravity="center_vertical"
+            android:id="@id/message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Example of message text" />
+        <android.fix.LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <android.fix.LinearLayout
+                android:orientation="vertical"
+                android:id="@id/value_row"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+                <android.fix.TextView
+                    android:textAppearance="@style/SmallText"
+                    android:gravity="center_vertical"
+                    android:layout_gravity="center_vertical"
+                    android:id="@id/type_hint"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/type_edit_limit" />
+                <android.fix.LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content">
+                    <android.fix.TextView
+                        android:textAppearance="@style/SmallText"
+                        android:layout_gravity="center_vertical"
+                        android:id="@id/value"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/value" />
+                    <android.ext.SystemSpinner
+                        android:layout_gravity="center_vertical"
+                        android:id="@id/sign_spinner"
+                        android:layout_width="48.0dip"
+                        android:layout_height="wrap_content"
+                        android:text="≠" />
+                    <android.ext.EditTextMulti
+                        android:layout_gravity="center_vertical"
+                        android:id="@id/number"
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0"
+                        android:imeOptions="actionDone" />
+                    <android.ext.HexConverter
+                        android:layout_gravity="center_vertical"
+                        android:id="@id/number_converter"
+                        android:layout_width="48.0dip"
+                        android:layout_height="48.0dip" />
+                </android.fix.LinearLayout>
+            </android.fix.LinearLayout>
+            <android.fix.LinearLayout
+                android:orientation="vertical"
+                android:id="@id/edit_mask_row"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+                <android.fix.LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content">
+                    <android.fix.TextView
+                        android:textAppearance="@style/MediumText"
+                        android:layout_gravity="center_vertical"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/mask" />
+                    <android.ext.EditText
+                        android:layout_gravity="center_vertical"
+                        android:id="@id/edit_mask"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:imeOptions="actionNext" />
+                </android.fix.LinearLayout>
+                <android.fix.TextView
+                    android:textAppearance="@style/SmallText"
+                    android:layout_gravity="center_vertical"
+                    android:id="@id/mask_view"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/mask" />
+            </android.fix.LinearLayout>
+            <android.fix.LinearLayout
+                android:orientation="vertical"
+                android:id="@id/offset_row"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+                <android.fix.LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content">
+                    <android.fix.TextView
+                        android:textAppearance="@style/SmallText"
+                        android:layout_gravity="center_vertical"
+                        android:id="@id/offset_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/offset" />
+                    <android.ext.EditText
+                        android:layout_gravity="center_vertical"
+                        android:id="@id/offset"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:inputType="text"
+                        android:imeOptions="actionGo"
+                        android:textAllCaps="true" />
+                </android.fix.LinearLayout>
+                <android.fix.CheckBox
+                    android:id="@id/hex"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:checked="true"
+                    android:text="@string/hex_input" />
+            </android.fix.LinearLayout>
+            <android.fix.LinearLayout
+                android:orientation="horizontal"
+                android:id="@id/type_row"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+                <android.fix.TextView
+                    android:textAppearance="@style/SmallText"
+                    android:gravity="center_vertical"
+                    android:layout_gravity="center_vertical"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/type" />
+                <android.ext.SystemSpinnerType
+                    android:textAppearance="@style/SmallText"
+                    android:id="@id/type"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" />
+            </android.fix.LinearLayout>
+            <android.fix.LinearLayout
+                android:orientation="horizontal"
+                android:id="@id/mode_hacking_row"
+                android:layout_width="fill_parent"
+                android:layout_height="48.0dip">
+                <android.fix.CheckBox
+                    android:gravity="center_vertical"
+                    android:id="@id/mode_hacking"
+                    android:layout_width="0.0dip"
+                    android:layout_height="48.0dip"
+                    android:text="@string/mode_hacking"
+                    android:layout_weight="1.0" />
+                <android.fix.CheckBox
+                    android:gravity="center_vertical"
+                    android:id="@id/ordered"
+                    android:visibility="gone"
+                    android:layout_width="0.0dip"
+                    android:layout_height="48.0dip"
+                    android:text="@string/ordered"
+                    android:layout_weight="1.0" />
+                <android.fix.Button
+                    android:textSize="@dimen/button_text_size"
+                    android:id="@id/min_group_size"
+                    android:visibility="gone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="48.0dip"
+                    android:minWidth="48.0dip"
+                    android:text="::57"
+                    android:textAllCaps="false" />
+                <android.fix.Button
+                    android:textSize="@dimen/button_text_size"
+                    android:id="@id/hex1"
+                    android:visibility="gone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="48.0dip"
+                    android:minWidth="48.0dip"
+                    android:text="HEX+U8"
+                    android:textAllCaps="false" />
+                <android.fix.Button
+                    android:textSize="@dimen/button_text_size"
+                    android:id="@id/hex2"
+                    android:visibility="gone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="48.0dip"
+                    android:minWidth="48.0dip"
+                    android:text="HEX+U16"
+                    android:textAllCaps="false" />
+            </android.fix.LinearLayout>
+        </android.fix.LinearLayout>
+        <android.fix.LinearLayout
+            android:orientation="vertical"
+            android:id="@id/fuzzy_row"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <android.fix.TextView
+                android:textAppearance="@style/SmallText"
+                android:layout_gravity="center_vertical"
+                android:id="@id/fuzzy_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <android.fix.LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+                <android.fix.Button
+                    android:textSize="@dimen/button_text_size"
+                    android:id="@id/equal_btn"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/equal"
+                    android:layout_weight="1.0"
+                    android:textAllCaps="false" />
+                <android.fix.Button
+                    android:textSize="@dimen/button_text_size"
+                    android:id="@id/not_equal_btn"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:minWidth="64.0dip"
+                    android:text="@string/inequal"
+                    android:singleLine="false"
+                    android:layout_weight="1.0"
+                    android:textAllCaps="false" />
+            </android.fix.LinearLayout>
+            <android.fix.LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+                <android.fix.Button
+                    android:textSize="@dimen/button_text_size"
+                    android:id="@id/larger_btn"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/larger"
+                    android:layout_weight="1.0"
+                    android:textAllCaps="false" />
+                <android.fix.Button
+                    android:textSize="@dimen/button_text_size"
+                    android:id="@id/smaller_btn"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/smaller"
+                    android:layout_weight="1.0"
+                    android:textAllCaps="false" />
+            </android.fix.LinearLayout>
+        </android.fix.LinearLayout>
+        <android.fix.LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <android.fix.TextView
+                android:textAppearance="@style/SmallText"
+                android:gravity="center_vertical"
+                android:layout_gravity="center_vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/limit" />
+            <android.ext.EditText
+                android:id="@id/limit"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" />
+        </android.fix.LinearLayout>
+        <android.ext.MemoryRange
+            android:id="@id/memory_range"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+        <android.fix.LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <android.fix.Button
+                android:textSize="@dimen/button_text_size"
+                android:id="@id/cancel"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/cancel"
+                android:layout_weight="1.0"
+                android:textAllCaps="false" />
+            <android.fix.Button
+                android:textSize="@dimen/button_text_size"
+                android:id="@id/ext_btn"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/more"
+                android:layout_weight="1.0"
+                android:textAllCaps="false" />
+        </android.fix.LinearLayout>
+    </android.fix.LinearLayout>
+</android.fix.ScrollView>

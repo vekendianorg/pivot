@@ -1,0 +1,1366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lang_code">~~~et~~~</string>
+    <string name="front_text">"__improve_translation_hint__
+
+Kui teil on küsimusi __app_name__ või selle kasutamise kohta, külastage meie foorumeid aadressil __forum__"</string>
+    <string name="set_path">Ajutine tee</string>
+    <string name="number">Arv:</string>
+    <string name="type">Tüüp:</string>
+    <string name="name">Nimi:</string>
+    <string name="reset">Valige protsess</string>
+    <string name="set_range">Valige mälu vahemikud</string>
+    <string name="search">Otsing</string>
+    <string name="save">Salvesta</string>
+    <string name="goto1">Minema</string>
+    <string name="address">Aadress:</string>
+    <string name="edit_all">Muuda kõiki</string>
+    <string name="filter">Filter</string>
+    <string name="clear">Selge</string>
+    <string name="max_show_rec">Näita:</string>
+    <string name="equal">Muutmata</string>
+    <string name="inequal">Muudetud</string>
+    <string name="larger">Suurenenud</string>
+    <string name="smaller">Vähenenud</string>
+    <string name="compare_current_last">Kuidas väärtus on muutunud?</string>
+    <string name="write_region_log">Kirjutage regiooni logi</string>
+    <string name="old_version">Vana versioon</string>
+    <string name="found_old_version">Leitud vana versioon __app_name__. Kas soovite selle eemaldada?</string>
+    <string name="yes">Jah</string>
+    <string name="no">Ei</string>
+    <string name="ok">Okei</string>
+    <string name="failed_find_package_name">Rakenduspaketi nime leidmine ebaõnnestus!</string>
+    <string name="path_for_temp_files">Määra temp-failide tee, nt. \"__sdcard__\". See võib nõuda paar sada MB vaba ruumi. Praegused otsingutulemused kaovad.</string>
+    <string name="confirm">Kinnitage</string>
+    <string name="cancel">Tühista</string>
+    <string name="found_new_version">Leitud uus versioon __s__</string>
+    <string name="daemon_failed">Deemon ebaõnnestus</string>
+    <string name="failed_run_daemon">Deemonit ei õnnestunud käivitada. Kas juur on installitud?</string>
+    <string name="daemon_unexpected_closed">Daemon suleti ootamatult. Info:</string>
+    <string name="daemon_exited">Daemon väljus</string>
+    <string name="failed_load_daemon">Deemon laadimine ebaõnnestus</string>
+    <string name="is_device_rooted">Juurdepääsu ei ole võimalik saada.</string>
+    <string name="collect_data_to_region_log">Alustatud andmete kogumine, et kirjutada regiooni logi ...</string>
+    <string name="log_saved">Logi salvestatud __s__</string>
+    <string name="failed_save">Salvestamine __s__-le nurjus</string>
+    <string name="region_log">Piirkonna logi</string>
+    <string name="apply">Rakenda</string>
+    <string name="error">Viga</string>
+    <string name="load">Laadige</string>
+    <string name="delete_prompt">Kas soovite selle elemendi eemaldada?</string>
+    <string name="reset_search">ERROR tuvastati. Lähtesta otsingute loend.</string>
+    <string name="unknown_error">Tundmatu viga</string>
+    <string name="out_of_memory">Mälu täis</string>
+    <string name="bug_detected">Avastatud viga</string>
+    <string name="disk_full">Kett on täis</string>
+    <string name="io_error">IO viga</string>
+    <string name="game_dead">Mäng on surnud</string>
+    <string name="exit">Välju</string>
+    <string name="skip">Ignoreeri</string>
+    <string name="unhandled_exception">Käsitlemata erand. Saada alltoodud info arendusmeeskonnale?</string>
+    <string name="last_run_failed">Viimane töötamine nurjus</string>
+    <string name="thank_you">Aitäh!</string>
+    <string name="no_application">Rakendust pole valitud.</string>
+    <string name="increments">Kasv:</string>
+    <string name="add_not_replace">Lisa väärtusele, ei asenda</string>
+    <string name="eperm_error">Protsessi (PTRACE_ATTACH) ei saa kinnitada: toiming ei ole lubatud</string>
+    <string name="load_list">Laadige loend</string>
+    <string name="load_warning">Laadisite nimekirja, mis on salvestatud teisest mänguastmest. Tõenäoliselt on kõik mälus olevad aadressid muutunud ja laadinud andmeid, mis ei vasta varem salvestatud andmetele. Soovitame teil need kontrollida.</string>
+    <string name="from">Lõpetatud __d__ __d__ etapist</string>
+    <string name="count_fuzzy_equal_run">\"__fuzzy_equal__\" käivitamise kordade arv:</string>
+    <string name="slow">aeglane</string>
+    <string name="miui_restart">Turvaõiguste rakendamiseks tuleb uuesti käivitada __app_name__.</string>
+    <string name="out_of_memory_error">Mälu viga. Praegune tulemuste loend on kustutatud. Määrake näidatavate tulemuste arvu jaoks väiksem väärtus.</string>
+    <string name="loading">Laadimine ...</string>
+    <string name="found_count">Leitud: __d__</string>
+    <string name="fuzzy_equal">Väärtus ei muutu</string>
+    <string name="fuzzy_inequal">Väärtus muutus</string>
+    <string name="fuzzy_larger">Väärtus kasvas</string>
+    <string name="fuzzy_smaller">Väärtus vähenes</string>
+    <string name="type_edit_limit">Sisendväärtus alates __s__ kuni __s__</string>
+    <string name="number_name">number</string>
+    <string name="step_name">juurdekasv</string>
+    <string name="number_less">Number \"__s__\" on selle tüübi puhul väiksem kui minimaalne väärtus (__d__).</string>
+    <string name="number_greater">Number \"__s__\" on selle tüübi puhul suurem kui maksimaalne väärtus (__d__).</string>
+    <string name="about">Umbes</string>
+    <string name="owner">omanik</string>
+    <string name="design">juht disainer</string>
+    <string name="pm">projekti juht</string>
+    <string name="code">plii kooder</string>
+    <string name="tech">tehniline konsultant</string>
+    <string name="creator">looja (pensionär)</string>
+    <string name="for_translators">Kui soovite taotluse tõlkimisel abi teha või seda teha, võite meiega ühendust võtta foorumis http://gameguardian.net/forum, et saada tõlge, mis sisaldub taotluse ametlikus väljaandes.</string>
+    <string name="version">Versioon:</string>
+    <string name="developers">Arendajad:</string>
+    <string name="select_language">Vali keel</string>
+    <string name="exit_confirm">__app_name__ tuleb muudatuste rakendamiseks uuesti käivitada.</string>
+    <string name="special_thanks">Eriline tänu:</string>
+    <string name="nothing_found">Ei leitud midagi. Proovige uuesti otsida.</string>
+    <string name="try_more_ranges">Võite ka seadete vahekaardil valida rohkem vahemikke.</string>
+    <string name="try_fuzzy_search">Samuti võite proovida otsida tundmatut väärtust.</string>
+    <string name="search_hint">"Tuntud väärtuse otsimiseks vajutage \"__search_known_value__\".
+Kui väärtus on teadmata või krüpteeritud, klõpsake otsinguks \"__search_unknown_value__\".
+Ujuvväärtuste otsimine täisarvu järgi võib toimuda, valides otsingu tüübi „__type_auto__”.
+Samuti saate eraldajana kasutada grupiotsingut '__semicolon__'."</string>
+    <string name="freeze">Külmutamine:</string>
+    <string name="freeze_normal">normaalne</string>
+    <string name="freeze_may_increase">võib suureneda</string>
+    <string name="freeze_may_decrease">võib väheneda</string>
+    <string name="freeze_in_range">vahemikus</string>
+    <string name="range_end_fail">"Vahemiku lõpp ('__s__') peab olema suurem kui '__s__'."</string>
+    <string name="failed_add_window">Akna lisamine nurjus</string>
+    <string name="failed_remove_window">Akna eemaldamine ebaõnnestus</string>
+    <string name="system_service_stopped">Rakendus ei tööta normaalselt, sest süsteemi teenus peatati. Proovige rakendust taaskäivitada või taaskäivitada seade.</string>
+    <string name="value_request">Sisestage otsitav väärtus</string>
+    <string name="type_request">Valige otsitavate andmete tüüp</string>
+    <string name="type_change_request">Valige muudetav andmetüüp</string>
+    <string name="value">Väärtus</string>
+    <string name="save_as">Salvesta kui:</string>
+    <string name="restart">Taaskäivita</string>
+    <string name="start">Alusta</string>
+    <string name="wait_daemon">See funktsioon pole saadaval, kui deemon ei tööta. Oodake, kuni deemon käivitub. (Kas unustasite juurjuurdepääsu anda? Või on juur pole installitud?)</string>
+    <string name="daemon_fail">Demon ei tööta</string>
+    <string name="config_icon_text">Ikoon: läbipaistvus = __d__ %%, peida - __s__</string>
+    <string name="icon_hide_after">pärast __d__ sekundit</string>
+    <string name="icon_hide_never">mitte kunagi</string>
+    <string name="keyboard">Klaviatuur:</string>
+    <string name="internal">Sisemine</string>
+    <string name="external">Väline</string>
+    <string name="failed_copy_text">Teksti kopeerimine lõikepuhvrisse nurjus:</string>
+    <string name="copied">Kopeeritud</string>
+    <string name="copy_value">Kopeerige väärtus:</string>
+    <string name="copy_address">Kopeerige aadress:</string>
+    <string name="goto_address">Ava aadress:</string>
+    <string name="search_unknown_value">Tundmatu (fuzzy) otsing</string>
+    <string name="search_known_value">Tuntud (täpne) otsing</string>
+    <string name="speedhack_hint">Mängu kiiruse muutmiseks tehke pika vajutusega ujuv __app_name__ ikoon.</string>
+    <string name="bad_firmware">Teie püsivara sisaldab vigu, mis takistasid selle funktsiooni kasutamist.</string>
+    <string name="language">Keel</string>
+    <string name="acceleration">Liidese kiirendus:</string>
+    <string name="hardware">Riistvara</string>
+    <string name="software">Tarkvara</string>
+    <string name="speedhack">Speedhack</string>
+    <string name="data_in_ram">Andmed RAM-is:</string>
+    <string name="first_mb">Esimene __d__ MB</string>
+    <string name="donate">Anneta</string>
+    <string name="speeds">kiirused</string>
+    <string name="floating_window_fail">Ujuvat akent ei saa näidata</string>
+    <string name="check">Kontrollimine</string>
+    <string name="check_success">Kontrollimine oli edukas</string>
+    <string name="enable_draw_perm">Palun lubage õigused järgmisel ekraanil.</string>
+    <string name="speedhack_fail">Selle protsessi kiirhoiatust ei toetata</string>
+    <string name="dangerous">ohtlik</string>
+    <string name="difference">Erinevus</string>
+    <string name="old_value">Vana väärtus</string>
+    <string name="new_value">Uus väärtus</string>
+    <string name="mode_hacking">Väärtus on krüpteeritud</string>
+    <string name="union">Grupiotsing</string>
+    <string name="speedhack_open">Kiirklahvi saate avada ujuva __app_name__ ikooni pikal vajutamisel.</string>
+    <string name="history">Ajalugu</string>
+    <string name="history_empty">Ajalugu on tühi</string>
+    <string name="allow_suggestions">Lubage klaviatuurilt soovitused:</string>
+    <string name="invalid_area">Grupi suurus peab olema vahemikus __d__ ja __d__:</string>
+    <string name="union_need_two_numbers">Grupiotsingu puhul peab olema vähemalt kaks numbrit</string>
+    <string name="too_many_union_numbers">Liiga palju numbreid, rohkem kui:</string>
+    <string name="invalid_number">Kehtetu number:</string>
+    <string name="input_number">Sisestusnumber</string>
+    <string name="number_out_of_range">Number \"__s__\" võimalikust vahemikust:</string>
+    <string name="help_floating_icon">"* Ujuv ikoon:
+\u0009* Puuduta liidese avamiseks.
+\u0009* Puudutage ja hoidke kiirhoiatuse paneeli ümberlülitamiseks.
+* Seda saab liigutada igasse kohta, lohistades ikooni.
+\u0009* Läbipaistvust ja peitmise taimerit saab kohandada rakenduse seadetes.
+"</string>
+    <string name="help_exact_search">"* Täpne otsing:
+\u00091. Pöörake mängust __app_name__.
+\u00092. Puudutage vahekaardil \"__search__\" nuppu \"__search_known_value__\".
+\u00093. Sisestage mängus kuvatav number.
+\u00094. Valige sobiv andmetüüp või valige \"__type_auto__\" (kui te pole kindel) ja muud võimalused (kui vaja) ja klõpsake \"__search__\".
+\u00095. Kui otsing on lõppenud, kuvatakse otsingutulemused loendis.
+\u00096. Mine tagasi mängu. Pärast väärtuse muutumist lülitage uuesti __app_name__ peale.
+\u00097. Otsige muutunud väärtust.
+\u00098. Kui on liiga palju tulemusi, jätkake 6. sammuga.
+\u00099. Kui on jäänud vaid mõned tulemused, võite proovida väärtust muuta, salvestada või külmutada.
+"</string>
+    <string name="help_speedhack">"* Speedhack:
+\u0009* Puudutage ja hoidke ujuva ikooni all, et näidata kiirhoone paneeli.
+\u0009* Mängu kiiruse muutmiseks puudutage ikooni mõlemal pool asuvaid nooli.
+\u0009* Mängu kiiruse lähtestamiseks puudutage ja hoidke all jooksvat kiirusnumbrit.
+\u0009* Puudutage ja hoidke ujuva ikooni all, et peita kiirklahvi paneel.
+\u0009* Kasutatavate kiiruste ja taimerite loendit saab kohandada rakenduse seadetes.
+\u0009* Kui mäng ei reageeri sisendile või kiirhäälestus ei tööta, proovige __app_name__ seadetes kasutada teisi rohelisi taimereid.
+\u0009* Saate \"__time_jump__\" kasutada aegsasti hüpata. Lihtsalt valige menüü otsingulehel ja valige \"__time_jump__\". Peate täpsustama, mitu sekundit hüpata. Hüpata summa võib olla murdosa.
+"</string>
+    <string name="help_fuzzy_search">"* Fuzzy otsing:
+\u00091. Pöörake mängust __app_name__.
+\u00092. Puudutage vahekaardil \"__search__\" nuppu \"__search_unknown_value__\".
+\u00093. Valige sobiv andmetüüp või valige \"__type_auto__\" (kui te ei ole kindel) ja klõpsake \"__search__\".
+\u00094. Kui otsing on lõppenud, kuvatakse otsingutulemused loendis.
+\u00095. Tagasi mängu. Pärast väärtuse muutmist (või mitte) lülitage uuesti __app_name__ peale.
+\u00096. Puudutage nuppu \"__search_unknown_value__\" ja valige väärtuse muutmise viis.
+\u00097. Kui on liiga palju tulemusi, jätkake sammuga 5.
+\u00098. Kui on jäänud vaid mõned tulemused, võite proovida väärtust muuta, salvestada või külmutada.
+
+\u0009Väärtuse täpset muutmist saate määrata nupule \"__more__\".
+\u0009Saate sisestada vahemiku täpseks väärtuse muutmiseks:
+\u0009\u0009190__tilde__210
+\u0009Muutuste määramiseks väljaspool väärtuste vahemikku saate sisestada:
+\u0009\u000910__tilde____tilde__4000
+"</string>
+    <string name="help_group_search">"* Grupi otsing:
+\u00091. Pöörake mängust __app_name__.
+\u00092. Puudutage vahekaardil \"__search__\" nuppu \"__search_known_value__\".
+\u00093. Sisesta otsingupäring grupiotsingu jaoks.
+\u0009\u0009Formaat: väärtus 1 __semicolon__ väärtus 2 __semicolon__ ... __semicolon__ väärtus N __colon__ rühma suurus
+\u0009\u0009Samal ajal saab otsida väärtusi 2-__max_group__. Vaikimisi on grupi suurus 512. Grupi suurus peab olema vahemikus 2 kuni 65536.
+\u0009\u0009Näiteks kui soovite otsida 195 ja 6543, peaksite sisestama:
+\u0009\u0009\u0009195 __semicolon__ 6543
+\u0009\u0009Loomulikult saate määrata grupi suuruse (300):
+\u0009\u0009\u0009195 __semicolon__ 6543 __colon__ 300
+\u0009\u0009Samuti saate määrata ühe või mitu andmetüüpi:
+\u0009\u0009\u0009195__type_dword_short__ __semicolon__ 6543
+\u0009\u0009See tähendab, et soovite otsida __type_dword__ väärtust, mis on 195, ja __type_auto__ väärtust, mis on 6543.
+\u0009\u0009Võimalikud andmetüübid on samad, mida nad otsivad:
+\u0009\u0009\u0009__type_byte_short__ - __type_byte__
+\u0009\u0009\u0009__type_word_short__ - __type_word__
+\u0009\u0009\u0009__type_dword_short__ - __type_dword__
+\u0009\u0009\u0009__type_xor_short__ - __type_xor__
+\u0009\u0009\u0009__type_qword_short__ - __type_qword__
+\u0009\u0009\u0009__type_float_short__ - __type_float__
+\u0009\u0009\u0009__type_double_short__ - __type_double__
+\u0009\u0009\u0009__type_auto_short__ - __type_auto__
+\u0009\u0009Samuti saate kirjutada numbri kuuepikkuse märkega:
+\u0009\u0009\u0009__hex_example____hex__ __semicolon__ 6543
+\u0009\u0009või tagasipööratud hex (big-endian) märke:
+\u0009\u0009\u0009__hex_example____rhex__ __semicolon__ 6543
+\u0009\u0009Täiendavate sümbolite sisestamiseks kasutage nuppu \"__btn_hex__\" sisemises klaviatuuris.
+\u00094. Valige sobiv andmetüüp või valige \"__type_auto__\" (kui te pole kindel), et seda vaikimisi kasutada. Teised valikud ei ole seda tüüpi otsingu jaoks olulised. Klõpsake \"__search__\".
+\u00095. Kui otsing on lõppenud, kuvatakse otsingutulemused loendis.
+\u00096. Tagasi mängu. Pärast väärtuse muutumist lülitage uuesti __app_name__ peale.
+\u00097. Korrake grupiotsingut asjakohaste muudatustega.
+\u00098. Kui tulemusi on liiga palju, korrake samme 6 ja 7.
+\u00099. Kui on jäänud vähe tulemusi, võite proovida väärtust muuta, salvestada või külmutada.
+
+\u0009Kui soovite väärtuste järjekorda ajada, määrake kaks korda __colon__.
+\u0009Ilma grupi suurusega:
+\u0009\u0009195 __semicolon__ 6543 __colon____colon__
+\u0009Grupi suurusega:
+195 __semicolon__ 6543 __colon____colon__ 300
+
+\u0009Võite otsida väärtuste vahemikus:
+\u0009\u0009190__tilde__210 __semicolon__ 6543
+\u0009Samuti saate otsida väljaspool väärtuste vahemikku:
+\u0009\u000910__tilde____tilde__4000 __semicolon__ 6543
+"</string>
+    <string name="help_others">"* Muud:
+\u0009* Uute otsingute puhul peate kustutama eelmised otsingutulemused, valides menüünupu menüüst \"__clear__\".
+\u0009* Teise mängu valimiseks puudutage üleval vasakus nurgas olevat mängu ikooni.
+\u0009* Mängu peatamiseks / jätkamiseks puudutage vasakpoolses ülanurgas ikooni all olevat nuppu.
+\u0009* Kui lülitad mängule, kui paus on aktiivne, siis järgmine kord, kui avate __app_name__, peatatakse see mäng automaatselt.
+\u0009* Kõik külmutatud väärtused lisatakse automaatselt salvestatud nimekirja. Neid saab hallata vastava vahekaardi all.
+\u0009* Kõik sisendandmed salvestatakse nimekirja \"__history__\". Neid saab kasutada, vajutades ajaloo nuppu.
+"</string>
+    <string name="help_typical_usage">"* Tüüpilised kasutusalgoritmid:
+
+1) Väärtus ei ole krüpteeritud ja teada.
+\u0009Tüüpiline juhtum oleks raha, tähed, mündid, ressursid jne.
+
+\u0009Kasutage täpset otsingut.
+
+2) Väärtus on teadmata ja / või krüpteeritud.
+\u0009Tüüpiline tundmatu väärtus - mistahes skaala / baari. Näiteks tervishoid, mana, nitro jne. Muutused on näha, kuid numbrilisi väärtusi ei ole näha.
+\u0009Tüüpiline krüpteeritud väärtuste juhtum oleks raha, tähed, mündid jne, kuid 1 algoritmiga otsimisel ei leia midagi või leitud väärtuste muutmine ei too kaasa mängu muutumist.
+
+\u0009Kasutage fuzzy otsingut.
+
+
+3) Väärtus krüpteeritakse (__mode_hacking__).
+\u0009Tüüpiline krüpteeritud väärtuste juhtum oleks raha, tähed, mündid jne, kuid 1 algoritmiga otsimisel ei leia midagi või leitud väärtuste muutmine ei too kaasa mängu muutumist.
+
+\u0009Kasutage täpset otsingut, kuid valige alati märkeruut \"__mode_hacking__\".
+\u0009Leitud tulemustel võivad krüpteerimise tõttu olla kummalised väärtused.
+
+Algoritm 3 on palju kiirem kui 2, kuid see ei pruugi kõigi mängude puhul toimida.
+
+4) Väärtus ei ole krüpteeritud, tuntud ja asetatud teiste tuntud väärtuste lähedusse.
+\u0009Tüüpiline juhtum oleks hind laos, kangelase statistika jne.
+
+\u0009Kasutage grupiotsingut kõigi numbrite jaoks korraga.
+"</string>
+    <string name="help_hints">"* Vihjed:
+
+\u0009* Kõiki mänge ei saa __app_name__ muuta. Näidete tüüpiline loend:
+\u0009\u0009* serverisse salvestatud andmed (serveripoolsed mängud)
+\u0009\u0009* mäng vajab püsivat internetiühendust
+\u0009\u0009* võrgumäng teiste mängijatega
+\u0009\u0009* peate valima mängu alguses ühendamiseks vajaliku serveri
+\u0009\u0009* te ei saa kasutada mõningaid asju ilma internetita
+\u0009\u0009* mäng uuendab serverist andmeid, kui midagi muudate
+\u0009* Näidatud väärtused ei ole alati samad, mis nende salvestamisel. Nad võivad olla erinevad. Näiteks näeme ekraanil 34, kuid mälus on väärtus 34000.
+\u0009* Kui te ei saa väärtust muuta, proovige seda väärtust mõjutavaid väärtusi muuta. Näiteks võite kulla suuruse muutmise asemel muuta asja hinda ja müüa. Või osta negatiivse hinnaga.
+"</string>
+    <string name="help">Abi</string>
+    <string name="help_floating_icon_title">Ujuv ikoon</string>
+    <string name="help_exact_search_title">Täpne otsing</string>
+    <string name="help_speedhack_title">Speedhack</string>
+    <string name="help_group_search_title">Grupiotsing</string>
+    <string name="help_others_title">Teised</string>
+    <string name="help_typical_usage_title">Tüüpilised kasutusalgoritmid</string>
+    <string name="help_hints_title">Vihjed</string>
+    <string name="value_format">Väärtuse formaat</string>
+    <string name="format_hex">Hex (väike-endian) märge</string>
+    <string name="format_rhex">Pöördheks (big-endian) märge</string>
+    <string name="clear_selection">Selge valik</string>
+    <string name="invert_selection">Inverteeri valik</string>
+    <string name="select_all">Vali kõik</string>
+    <string name="edit_selected">Valitud redigeerimine</string>
+    <string name="delete_selected">Eemalda valitud</string>
+    <string name="save_selected">Salvesta valitud</string>
+    <string name="nothing_selected">Miski pole valitud</string>
+    <string name="items_added">Salvestatud loendisse lisatud üksused (__d__)</string>
+    <string name="no_items_for_editing">Muudatavaid üksusi pole.</string>
+    <string name="edit_info">Redigeeri __s__ kui __s__</string>
+    <string name="edit_all_info">Muuda __d__ aadresse kui __s__</string>
+    <string name="autopause">Mängu automaatne katkestamine:</string>
+    <string name="empty_list">"Salvestatud nimekiri on tühi.
+Saate lisada objekte otsingutulemuste loendist või mälu redaktorist.
+Lihtsalt vali soovitud elemendid ja vali menüüst \"__save_selected__\".
+Teine meetod - alustage väärtuse muutmist ja märkige ruut \"__save_as__\".
+Ka kõik külmutatud väärtused lisatakse siia automaatselt."</string>
+    <string name="empty_save">Salvestatud nimekiri on tühi. Ei ole midagi salvestada.</string>
+    <string name="revert_selected">Valitud tagasivõtmine</string>
+    <string name="nothing_to_revert">Mitte midagi tagasi pöörduda</string>
+    <string name="revert_prompt">Kas valitud üksused tagasi võtta (__d__)?</string>
+    <string name="download">Seda rakendust saab alla laadida:</string>
+    <string name="format_string">Stringide esitamine</string>
+    <string name="forgot_h">Kas unustasite lõpus „__hex__“?</string>
+    <string name="time_jump">Ajahüpe</string>
+    <string name="time_jump_hint">Sisestage sekundite arv, millele edasi minna:</string>
+    <string name="hide_from_game">Peida __app_name__ mängust:</string>
+    <string name="last_stats">Teie viimase otsingu statistika</string>
+    <string name="memory_access">Juurdepääs mälule:</string>
+    <string name="normal">Tavaline</string>
+    <string name="extended">Laiendatud</string>
+    <string name="experimental">Eksperimentaalne</string>
+    <string name="installing">__app_name__ teostab ennast uuesti juhusliku nimega, et välistada mängude tuvastamine. Oota.</string>
+    <string name="failed_install">Rakenduse installimine ebaõnnestus. Uuesti proovima?</string>
+    <string name="failed_uninstall">Rakenduse desinstallimine ebaõnnestus. Uuesti proovima?</string>
+    <string name="download_it">Lae alla</string>
+    <string name="more">Veel</string>
+    <string name="less">Vähem</string>
+    <string name="no_space">Seadmel pole tühikut</string>
+    <string name="install_cancel_prompt">__app_name__ saab tuvastada, kui seda pole installitud. Kas soovite tõesti tühistada?</string>
+    <string name="intercept">lõikama</string>
+    <string name="need_restart">Nende muudatuste rakendamiseks tuleb sihtrakendus taaskäivitada.</string>
+    <string name="must_be_root">"Selle programmi toimimiseks peab seadmel olema juur.
+
+__app_name__ saab töötada piiratud režiimis ilma juureta virtuaalse keskkonna kaudu. Näiteks __vspace_list__ ja paljud teised.
+Lisateabe saamiseks lugege abi.
+
+Kuidas juurutada mis tahes seadet: http://www.xda-developers.com/root/"</string>
+    <string name="skip_">Vahele jätma</string>
+    <string name="indent_for_the_status_bar">Sisestage kasutajaliides ekraani ülaosast:</string>
+    <string name="start_collecting_data">Alusta andmete kogumist</string>
+    <string name="data_collecting_in_progress">Andmete kogumine on pooleli</string>
+    <string name="copy">Kopeeri</string>
+    <string name="show_logcat">Näita logaritmi</string>
+    <string name="path_must_be">"Tee peab olema vähemalt 2 tähemärki ja algab '/'."</string>
+    <string name="fix_it">Paranda see ära</string>
+    <string name="change_log">Muuda logi</string>
+    <string name="used_only_first">Kasutatud ainult esimesed __d__ kirjed.</string>
+    <string name="need_select_more">Vajadus valida __d__ või rohkem punkte.</string>
+    <string name="offset">Nihe:</string>
+    <string name="result">Tulemus:</string>
+    <string name="copy_hex_value">Kopeeri kuu väärtus:</string>
+    <string name="goto_pointer">Minge kursorile:</string>
+    <string name="offset_calculator">Offset kalkulaator</string>
+    <string name="fill_toolbar">Täida tööriistariba:</string>
+    <string name="from_left">Vasakult</string>
+    <string name="from_center">Keskusest</string>
+    <string name="from_right">Paremal</string>
+    <string name="unit_years_short">y</string>
+    <string name="unit_days_short">d</string>
+    <string name="unit_hours_short">h</string>
+    <string name="unit_minutes_short">min</string>
+    <string name="unit_seconds_short">s</string>
+    <string name="speed_info">__s__ reaalajas = __s__ mängu ajal</string>
+    <string name="search_helper">Otsi abimees:</string>
+    <string name="off">Väljas</string>
+    <string name="go_to_game">Minge tagasi mängu juurde, kui leitakse palju väärtusi</string>
+    <string name="go_to_game_and_restore">Mine tagasi mängu juurde, kui leitakse palju väärtusi ja taastate otsingu režiimi järgmisel avamisel</string>
+    <string name="nothing">Midagi</string>
+    <string name="sort">Sorteeri</string>
+    <string name="sort_and_remove_duplicates">Sorteeri ja eemalda duplikaadid</string>
+    <string name="help_basics_title">Põhiandmed</string>
+    <string name="help_basics">"Pärast rakenduse käivitamist, klõpsates nupule \"__start__\", ilmub ekraanile ujuv ikoon. Seda saab lohistada mis tahes asukohta.
+Ikooni lühike koputamine avab põhirakenduse liidese, pika kraani - kuvab paneeli mängu kiiruse muutmiseks.
+
+Põhiekraanil näete:
+\u0009* Vasakus ülanurgas - mängu ikoon. Selle puudutamisel saate valida teise mängu.
+\u0009* Keskel asuvad järjehoidjad, et navigeerida vahekaartidel. Soovitud järjehoidja puudutamisel kuvatakse sobiv sakk.
+
+Kokku on 4 kaarti: seaded, otsing, salvestatud loend ja mälu redaktor.
+\u0009* Liidese paremas ülanurgas on sulgemisnupp. Vajutage seda ja liides on peidetud ning ekraanile ilmub ujuv ikoon.
+\u0009* Ekraani allosas on olekuriba ja silma ikoon. Kui vajutate ja hoiate silmade ikooni all, muutub liides läbipaistvaks, kui te sõrme ei vabasta.
+\u0009* Ülejäänud sisu ekraanil sõltub sellest, millist kaarti olete.
+
+Igal vahekaardil, välja arvatud seadete vahekaardil, on menüünupp, mis sisaldab erinevaid võimalikke meetmeid. Selles leiad selle vahekaardi peamised toimingud.
+
+Vahekaart Seaded sisaldab erinevaid seadeid, abi ja teavet rakenduse ning väljumise nupu kohta.
+
+Otsingulehel on:
+\u0009* Paus nupp, valitud mängu nimi, leitud tulemuste arv ja värskendamisnupp.
+\u0009* Allpool on paneel, millel on kiire juurdepääsu ikoonid ja menüünupp. Kõik ikoonid on menüüs dubleeritud, nii et kui te ei tea ikooni tähendust, saab seda alati vaadata, vajutades menüünupule (paremal).
+\u0009* Nende ikoonide all on otsingutulemuste loend.
+
+Salvestatud loendi vahekaart sisaldab:
+\u0009* Paus nupp, valitud rakenduse nimi, menüünupp ja värskendamisnupp.
+\u0009* Nende ikoonide all on salvestatud väärtuste loend.
+
+Mälu redaktori kaart on sarnane eelmisele, ainult siin salvestatud väärtuste loendi asemel kuvab see mälu sisu.
+
+Kõigis kolmes nimekirjas (otsingutulemused, salvestatud väärtused ja mälu redaktor) saate kontekstimenüü kuvamiseks teha pikki puudutavaid elemente."</string>
+    <string name="daemon_killed">"Daemon tapeti midagi.
+
+Tavaliselt võib see olla:
+\u00091. Kõik mälu tapjad või optimeerijad. Te peate kõik tapjad keelama või lisama oma seadistustesse valge nimekirja __app_name__.
+\u00092. __daemon_killed_oom__
+\u00093. Mälukaart eemaldati, samal ajal kui __app_name__ salvestas sellel ajutisi faile. Selle vältimiseks määrake ajutiste failide jaoks teine ​​tee. Näiteks sisemälus."</string>
+    <string name="bad_settings">Bad seaded</string>
+    <string name="freeze_lags">Külmutusväärtuste kasutamine koos seadistusega __hide_from_game__ võib mängus põhjustada viivitusi.</string>
+    <string name="improve_translation">See tõlge on loodud automaatse tõlkija poolt. Te saate seda parandada, kasutades meie kollektiivset tõlketeenust.</string>
+    <string name="freeze_interval">Külmutusintervall:</string>
+    <string name="saved_list_update_interval">Salvestatud loendi värskendusintervall:</string>
+    <string name="milliseconds_short">Prl</string>
+    <string name="disable_floating_windows">Keela ujuvad aknad ja taaskäivitage rakendus</string>
+    <string name="enable_floating_windows">Luba ujuvad aknad ja käivitage rakendus uuesti</string>
+    <string name="too_many">Liiga palju</string>
+    <string name="help_range_search_title">Vahemiku otsing</string>
+    <string name="help_range_search">"* Vahemiku otsing:
+\u00091. Pöörake mängust __app_name__.
+\u00092. Puudutage vahekaardil \"__search__\" nuppu \"__search_known_value__\".
+\u00093. Sisestage piiri otsingu vahemik, eraldatud numbriga \"__tilde__\". Näiteks väärtuste 100 kuni 150 otsimiseks sisestage:
+\u0009\u0009\u0009100__tilde__150
+\u0009\u0009Piirkonnast väljapoole otsimiseks saate märkida \"__tilde__\" kaks korda:
+\u0009\u0009\u0009100__tilde____tilde__150
+\u0009\u0009Teise võimalusena saate valida märgi \"__not_equal__\" ja määrata ühe märgi \"__tilde__\".
+\u0009\u0009Täiendavate sümbolite sisestamiseks kasutage nuppu \"__btn_hex__\" sisemises klaviatuuris.
+\u00094. Valige sobiv andmetüüp või valige \"__type_auto__\" (kui te pole kindel) ja muud võimalused (kui vaja) ja klõpsake \"__search__\".
+\u00095. Kui otsing on lõppenud, kuvatakse otsingutulemused loendis.
+\u00096. Tagasi mängu. Pärast väärtuse muutumist lülitage uuesti __app_name__ peale.
+\u00097. Korrake vahemikuotsingut asjakohaste muudatustega.
+\u00098. Kui tulemusi on liiga palju, korrake samme 6 ja 7.
+\u00099. Kui on jäänud vähe tulemusi, võite proovida väärtust muuta, salvestada või külmutada.
+
+\u0009Otsingutulemustes sisalduva vahemiku piirid. Saate valida otsingu tüübi \"__not_equal__\", et leida kõik väärtused, mis ei kuulu vahemikku.
+\u0009Selles otsingus loetakse kõik väärtused allkirjastatuks.
+"</string>
+    <string name="does_not_support">\"__s__\" ei toeta \"__s__\".</string>
+    <string name="range_bounds_diff_types">Vahemiku piirid peavad olema sama tüüpi.</string>
+    <string name="examples">Näited</string>
+    <string name="rtfm">Lisateabe saamiseks lugege abi.</string>
+    <string name="icons_size">Ikoonide suurus:</string>
+    <string name="revert_and_remove">Pöörake tagasi ja eemaldage</string>
+    <string name="remove">Eemalda</string>
+    <string name="ordered_group_search">Tellitud grupiotsing</string>
+    <string name="load_items">Üksused</string>
+    <string name="load_values">Väärtused</string>
+    <string name="load_freeze">Freeze</string>
+    <string name="video_tutorials">Video õpetused ja juhised häkkimiseks</string>
+    <string name="make_copy">Koopiat tegema</string>
+    <string name="video">Videod</string>
+    <string name="ordered">Tellitud</string>
+    <string name="toolbars">Tööriistaribad</string>
+    <string name="saved_list">Salvestatud loend</string>
+    <string name="memory_editor">Mälu redaktor</string>
+    <string name="restart_game">Taaskäivitage mäng</string>
+    <string name="refine">Täpsusta</string>
+    <string name="internal_storage">Sisemälu</string>
+    <string name="external_storage">Väline salvestus</string>
+    <string name="new_search">Uus otsing</string>
+    <string name="load_saved_list">Laadige salvestatud loend failist</string>
+    <string name="save_saved_list">Salvestage salvestatud loend faili</string>
+    <string name="append">Lisa</string>
+    <string name="xor_key">XOR-võti:</string>
+    <string name="only_memory">Ainult mälu vahemikus:</string>
+    <string name="dump_memory">Dump mälu</string>
+    <string name="path">Tee:</string>
+    <string name="dump_ended">Dump lõppes</string>
+    <string name="dump_failed">Dump ebaõnnestus</string>
+    <string name="eperm_error_defend">Protsessi ei saa kinnitada (PTRACE_ATTACH): Mäng on kaitstud</string>
+    <string name="reset_on_exit">Lähtestamine väljumisel:</string>
+    <string name="kill_game">Tapa mäng</string>
+    <string name="kill_game_info">Protsessi sunniviisiline lõpetamine ei anna protsessile võimalust puhtalt sulgeda ja võib põhjustada andmete kadumist või süsteemi ebastabiilsust.</string>
+    <string name="continue_ask">Jätka?</string>
+    <string name="copy_memory">Kopeeri mälu</string>
+    <string name="copy_from">Kopeeri:</string>
+    <string name="paste_to">Kleebi:</string>
+    <string name="count_bytes">Bittide arv:</string>
+    <string name="copy_ended">Kopeerige mälu</string>
+    <string name="copy_failed">Kopeeri mälu ebaõnnestus</string>
+    <string name="help_encrypted_search_title">Otsige krüpteeritud väärtusi</string>
+    <string name="help_encrypted_search">"* Krüpteeritud väärtuste otsimine:
+\u00091. Pöörake mängust __app_name__.
+\u00092. Puudutage vahekaardil \"__search__\" nuppu \"__search_known_value__\".
+\u00093. Sisestage mängus kuvatav number.
+\u00094. Valige sobiv andmetüüp või valige \"__type_auto__\" (kui te ei ole kindel), muud võimalused (vajadusel), \"__mode_hacking__\" ja \"__search__\".
+\u00095. Kui otsing on lõppenud, kuvatakse otsingutulemused loendis.
+\u00096. Mine tagasi mängu. Pärast väärtuse muutumist lülitage uuesti __app_name__ peale.
+\u00097. Otsige muutunud väärtust. Kontrollige märkeruutu \"__mode_hacking__\".
+\u00098. Kui on liiga palju tulemusi, jätkake 6. sammuga.
+\u00099. Kui on jäänud vaid mõned tulemused, võite proovida väärtust muuta, salvestada või külmutada.
+"</string>
+    <string name="help_faq_title">Korduma kippuvad küsimused</string>
+    <string name="help_faq_1_q">Miks ma ei saa sisestada väärtust, mis on suurem kui 99 või 60 000?</string>
+    <string name="help_faq_1_a">Leidsite väärtuse __type_byte__ või __type_word__. Otsige suuremaid väärtusi __type_dword__.</string>
+    <string name="help_faq_2_q">Kuidas otsida fraktsionaalseid (__type_float__) väärtusi ilma väärtuse murdosa?</string>
+    <string name="help_faq_2_a">Kasutage \"__type_auto__\" andme tüübi või vahemiku otsingut. Näiteks 11.345 jaoks on võimalik otsida \"10__tilde__12\".</string>
+    <string name="help_faq_3_q">Ma leidsin selle väärtuse ja muutsin seda, kuid mängus ei tee see muudatus. Ma lihtsalt üritan seda kasutada, kuid kõik tuleb tagasi. Mida ma valesti teen?</string>
+    <string name="help_faq_3_a">"Mõnes mängus on väärtused kaitstud või krüpteeritud. Enne väärtuse kuvamist dekodeeritakse väärtus teiseks muutujaks. Sa muutsid seda.
+Kuna seda väärtust kasutatakse ainult kuvamiseks, ei mõjuta see mängu mehaanikat. Et leida tegelikku väärtust, mitte kuvatud väärtust, kasutage krüpteeritud väärtuse otsingut või fuzzy otsingut.
+Mõnikord salvestatakse väärtus serveris ja sünkroniseeritakse iga kord. Sel juhul ei saa seda häkkida. Kui mäng ei tööta ilma internetita ja eelmised viisid ei aita - see on tõenäoliselt nii."</string>
+    <string name="help_faq_4_q">Ei leia mängus X väärtust. Või leiab selle, kuid kui muutunud ei juhtu midagi. Või leiab see, kuid pärast seda, kui see mängu jookseb kokku. Kuidas ma tean, mis probleem on, kas see on mängus või __app_name__ kaitse?</string>
+    <string name="help_faq_4_a">"Te peate võtma lihtsa programmi, millel on garanteeritud kaitse ja proovige seda. Ma eelistan kasutada \"Hill Climb Racing\". Mäng on lihtne, lihtne ja ei sisalda kaitset. Raha häkkimise saate otsida otsese otsinguna numbri järgi ja fuzzy otsida muutusi.
+Kui see lihtne mäng hakkab häkkima, siis on see selles X-mängus, mida sa üritasid häkkida. Kui ei, siis on probleem __app_name__.
+On isegi lihtsam valik: \"Puuduta loendurit\". Installige see. Käivita. Proovige lüüa ekraanil kuvatavate lintide arv. See peaks olema väga lihtne. Kui ei, siis on probleem __app_name__ või selle seaded.
+Proovige mõnda teist versiooni __app_name__, proovige otsida asjakohases teemas või Internetis foorumis saadud vea kirjeldust. Äärmuslikel juhtudel võite foorumil küsida."</string>
+    <string name="help_faq_5_q">Kuidas otsida aega?</string>
+    <string name="help_faq_5_a">"\u0009- Proovige otsida päevade, tundide, minutite või sekundite arvu järgi. Andmetüüp võib olla kas __type_byte__, __type_word__, __type_dword__ või __type_qword__. Samuti võite kasutada tüpi __type_auto__.
+\u0009- Proovige otsida mitmeid milli- või nanosekundeid. Andmetüüp on __type_dword__ või __type_qword__.
+\u0009- Proovige otsida lõppkuupäevaks unix-ajasalvena. Tüüp - __type_dword__. Seda peetakse erinevuseks praeguse unixi ajatempli ja salvestatud väärtuse vahel. Otsige vahemiku otsingu kaudu.
+Näiteks, kui on kirjutatud 30 päeva, siis otsite 30 +/- 1 päeva praegusest unixi ajatemplist. Praegust unixi ajatemplit on lihtne vaadata Internetis."</string>
+    <string name="help_faq_6_q">Kas online mänge on võimalik häkkida?</string>
+    <string name="help_faq_6_a">Kliendile salvestatud andmeid on võimalik häkkida. Kõiki serveris ei saa häkkida. Erinevates mängudes võivad olla erinevad viisid. Isegi ühe mängija mängus võivad mõned andmed olla serveris ja mõned ei pruugi seda teha.</string>
+    <string name="help_faq_7_q">Kuhu kiirabimäng töötab?</string>
+    <string name="help_faq_7_a">"Speedhack ei pruugi töötada x86 seadmetel / emulatoritel mängudes, kus ei ole x86 raamatukogusid.
+ART keskkonnas ei tööta kiirkiirus ka Java taimeritega. Kui mäng kasutab neid ja teil on ART keskkond (tavaliselt Android 5 ja uuem), siis Speedhack ei tööta."</string>
+    <string name="help_faq_8_q">__app_name__ tervikuna töötab minu jaoks, kuid mõnes mängus saan PTRACE_ATTACH vea. Miks ja mida sellega teha?</string>
+    <string name="help_faq_8_a">See mäng on varustatud kaitsega silumise eest SecNeo kaitse tüübi järgi. __app_name__ ei saa sellest kaitsest mööda minna. Selle kaudu ei saa sa seda mängu häkkida.</string>
+    <string name="help_faq_9_q">Miks on rakendusel selline kummaline paketi nimi? Miks rakendust ei uuendata, kuid iga kord eraldi installida? Miks on igal versioonil teistsugune paketi nimi?</string>
+    <string name="help_faq_9_a">Et vältida tuvastamist pettuste vastaste pakettide järgi.</string>
+    <string name="help_faq_10_q">Mõnes mängus peatuvad kiiruse muutmisel (kiirus) klikkidele reageerimine. Kas see on mängu kaitse või programmi viga?</string>
+    <string name="help_faq_10_a">See tähendab, et teie kiirhoiatus katkestab sisendjärjekorra taimerid ja see sureb. Taimerite loendis tuleb valida rohelised märgistused (__app_name__ seadistustes), et see ei juhtuks.</string>
+    <string name="help_faq_11_q">Miks väljastab see komadega eraldatud vigade nimekirja?</string>
+    <string name="help_faq_11_a">Kuna numbrite piiraja on semikoolon (\"__semicolon__\").</string>
+    <string name="help_faq_12_q">Kuidas korraga teha mitu otsingut?</string>
+    <string name="help_faq_12_a">Praegu ei luba rakendus seda lubada, kuid saate installida rakenduse mitu korda ja kopeerida koos, kui mälu ja kettaruumi on piisavalt.</string>
+    <string name="help_faq_13_q">Kas ma pean rakendust värskendama, kui muudatustes pole midagi olulist?</string>
+    <string name="help_faq_13_a">On soovitatav. Toetus on ainult uusim versioon.</string>
+    <string name="help_faq_14_q">Mis on sümbolid \"!\" ja \"#\" enne protsessi nime?</string>
+    <string name="help_faq_14_a">"See tähistab jälgitavaid protsesse.
+\u0009\"#\" - enne protsessi lõppu tähendab see seda, et seda jälgitakse mõne muu protsessiga.
+\u0009\"!\" - enne seda protsessi jälgitakse seda protsessi.
+Jälgimine on tüüpiline silumine või häkkimine. Samuti kasutatakse seda mõnes kaitses. Tavaliselt on # # märgiga protsess kaitstud protsess."</string>
+    <string name="help_faq_15_q">Miks rakenduse pärast standardse paigalduse teostamist ka ise installitakse, väljastades päringuõigusi?</string>
+    <string name="help_faq_15_a">__app_name__ taastab ennast juhuslike andmetega, et vältida selle avastamist pettusevastaste vahenditega. \"Vaiksete\" installide ja desinstallimise jaoks on vajalikud root õigused. Sa ei saa neid välja anda. Sel juhul peate rakenduste installimiseks süsteemi kõikidele päringutele käsitsi vastama.</string>
+    <string name="help_faq_16_q">Mis on __pkg__? Kas see on trooja või viirus? Kas selle rakenduse juurjuurdepääs on ohutu?</string>
+    <string name="help_faq_16_a">See on paketi __app_name__ baasnimi. Juurdepääsu väljastamine on turvaline, kui __app_name__ on alla laaditud usaldusväärsetest allikatest.</string>
+    <string name="help_faq_17_q">Miks on __app_name__ installitud rakenduste loendis, mida nimetatakse juhusliku märgistikuna? Miks taotleb see märgistiku juurjuurdepääs? Miks __app_name__ käivitamisel kirjutab, et juuret ei paku __app_name__, vaid mingi abracadabra?</string>
+    <string name="help_faq_17_a">Kuna __app_name__ kasutab seda pettuste vastase avastamise varjamiseks.</string>
+    <string name="help_faq_18_q">Miks __app_name__ on viimaste versioonide poolt mõnikord anticheats ja mõnikord mitte?</string>
+    <string name="help_faq_18_a">Kuna __app_name__ kasutab erinevaid asju, et peita ennast petturitest avastamise eest. See sisaldab juhuslikku paketi nime ja rakendust. Igas seadmes on need erinevad. Proovige taaselustada __app_name__ uuesti. Võib-olla pärast seda pettusevastast võitlust enam ei näe __app_name__.</string>
+    <string name="help_faq_19_q">Miks ei ole minu mäng rakenduste loendis?</string>
+    <string name="help_faq_19_a">Kuna see on käimasolevate rakenduste loend ja teie rakendus ei tööta. Käivitage see ja valige see menüüs __app_name__.</string>
+    <string name="help_faq_20_q">Miks ei saa Java-rakendused Android 5 ja uuematele kiirreageeringutele vastata?</string>
+    <string name="help_faq_20_a">Kuna kiirhoiatus on loodud mängude jaoks, mis on loodud kohalike raamatukogudega. Teie taotlus ei ole. Ja kuna Android 5 kasutas Dalviku asemel ART-i keskkonda, siis on Java-taimerite pealtkuulamine võimatu. Ära tee midagi. Olukord ei muutu tulevikus.</string>
+    <string name="help_faq_21_q">Ma kasutasin Android 4-s erinevat kiiruse / häkkimise tööriista ja kõik töötas. Nüüd panin __app_name__ Android 5 ja uuemasse, kuid need meetodid ei tööta. Miks?</string>
+    <string name="help_faq_21_a">"Sest paljud asjad on muutunud ja teie utiliit ei tööta just nii. Ärge looge oma illusioone, et see __app_name__ on nii halb, aga kui see utiliit oli, siis uh! Sellist asja pole.
+Selle testimiseks installige rakendusse Android 4 __app_name__ ja korrake kõiki samu toiminguid kui selles utiliidis. Selle tulemusena õnnestub. Kuid see ei tähenda, et need samad meetodid töötaksid Android 5 ja uuemate versioonidega.
+Seda asjaolu kinnitatakse korduvalt katseliselt."</string>
+    <string name="help_faq_22_q">Ma vaatan video proovi / ekraanipilte ja mälu redaktoris on ka teisi andmeid. Miks?</string>
+    <string name="help_faq_22_a">Kuna video / ekraanil on erinev väljundvorming. Vajutage mälu redaktoris menüüd - valige \"__value_format__\" ja konfigureerige väljund vastavalt sellele.</string>
+    <string name="help_faq_23_q">Kui väärtus on külmunud, hakkab mäng pidurdama või lagunema. Miks?</string>
+    <string name="help_faq_23_a">Kuna teil on __app_name__ seadetes valik \"__hide_from_game__\" lubatud. Lülita see välja.</string>
+    <string name="help_faq_24_q">Kuidas ma saan rakenduse käivitamisel keelata uute versioonide kontrollimise?</string>
+    <string name="help_faq_24_a">Pole võimalik.</string>
+    <string name="help_faq_25_q">Kuidas taasesitada aega rakenduses tagasi? Kas on võimalik teha aeg hüpata mitte edasi, vaid tagasi?</string>
+    <string name="help_faq_25_a">Pole võimalik. Sa ei saa. Aeg peab alati suurenema, vastasel juhul võib mäng kokku kukkuda. Kuid viimastes versioonides lisasime negatiivse ajahüpe võimaluse. Tulemuseks võib olla mängu mängimine või andmete kadumine. Ole hoiatatud.</string>
+    <string name="help_faq_26_q">Ma panin ikooni sisse ja see kadus. Kuidas ma saan selle tagasi?</string>
+    <string name="help_faq_26_a">Ikoon muutub läbipaistvaks, kuid saate seda ikka veel klõpsata. Klõpsake seal, kus see oli, seejärel muutke seadet liidese kaudu.</string>
+    <string name="help_faq_27_q">Kuidas otsida väärtust, kui see on mänguga ümardamisel kuvatud? Näiteks 1,85M.</string>
+    <string name="help_faq_27_a">Otsige otsinguvahemikku. Vahemiku piirid sõltuvad ümardamiseeskirjadest. Näiteks \"1845000__tilde__1854999\" standardse ümardamise jaoks.</string>
+    <string name="help_faq_28_q">Kuidas otsida protsentuaalset väärtust? Näiteks 123__percent__.</string>
+    <string name="help_faq_28_a">See sõltub rakendamisest. Iga mängu puhul võivad kõik olla erinevad. Näiteks 123__percent__. See võib olla mis tahes väärtusega __type_float__ või __type_double__. Nagu 1.23 või 123.0. Või võib see olla täisarvude tüübid: __type_byte__, __type_word__, __type_dword__. Näiteks 123 või 12300. Väljundil võib seda jagada mõnele numbrile. 100 või 345 või midagi muud. Iga mängu puhul võib see olla erinev. Võite proovida kõige ilmsemaid juhtumeid. 123__percent__ jaoks võib see olla 1,23 või 123. Tüüp - __type_auto__. Kui sul on õnnelik, võib see olla vajalik.</string>
+    <string name="help_faq_29_q">Mis siis, kui mäng tuvastab __app_name__?</string>
+    <string name="help_faq_29_a">"Proovige järgmisi võimalusi (üksikult või kombineeritult):
+\u0009- Luba \"__hide_from_game__\" võimalusi. Tavaliselt piisab 2, 3 ja 4 võimalusi.
+\u0009- ei tühista taasinstall __app_name__ juhusliku nime. Seda tehakse esmakordselt __app_name__ töötab väljaspool virtuaalses ruumis.
+\u0009- Kasutage XPrivacy või sarnase kasutusviisiga. Vaata internetis, kuidas seda teha.
+\u0009- Kui teil on root õigused, kasutamise root alates virtuaalses ruumis peidetud paigaldus rakendusi. Loe edasi kontekstis abiks \"__vspace_root__\" seade."</string>
+    <string name="work_without_selinux">Lülita tööle ilma __selinux__ töötamiseta ja taaskäivitage rakendus</string>
+    <string name="work_with_selinux">Lülitage tööle __selinux__ ja käivitage rakendus uuesti</string>
+    <string name="file">Fail:</string>
+    <string name="file_not_found">Faili ei leitud:</string>
+    <string name="export_selected">Ekspordi valimine</string>
+    <string name="failed_list_dir">Faililoendi lugemine ebaõnnestus.</string>
+    <string name="change_float_type">Valige ujuvate akende tüüp</string>
+    <string name="reset_float_type">Lähtestage ujuvate akende tüüp</string>
+    <string name="mask">Mask:</string>
+    <string name="mask_request">Sisestage otsitav aadress</string>
+    <string name="help_mask_search_title">Aadress (mask) otsing</string>
+    <string name="help_mask_search">"* Aadress (mask) otsing:
+\u0009Saate otsida või filtreerida aadressiga maski.
+
+\u0009Tüüpiline näide on teadaoleva väärtusega aadresside otsimine. Näiteks \"12E\".
+
+\u0009Otsinguparameetrid on aadress ja mask.
+\u0009Aadressi saab kasutada metamärke (\"__question__\"). See sümbol tähendab, et see võib olla mis tahes märk \"0\" - \"F\".
+\u0009Aadressist moodustatakse täiendav mask, nii et tähtsad nullid on olulised. Seega ei ole \"0120\" otsing ja \"120\" otsimine sama.
+\u0009Esimesel juhul leitakse: \"00010120\", \"00020120\", \"00030120\" ja nii edasi. Teises: \"00001120\", \"00002120\", \"00003120\" ja nii edasi.
+
+\u0009Võite otsida nii võrdsuse kui ka maski poolt täheldatud ebavõrdsuse eest. Teine võimalus võib olla vajalik tarbetute väärtuste kõrvaldamiseks.
+
+\u0009Aadress ja mask sisestatakse kuueteistkümnendsüsteemis ja ilma tähteta \"__hex__\".
+\u0009Aadressist saadud mask lõikub teie poolt sisestatud maskiga. See on otsingumask.
+
+Järgmised näited on samaväärsed, sest saadud maskil on sama - \"FF0\"
+__mask_example__
+"</string>
+    <string name="use_sound_effects">Kasutage heliefekte:</string>
+    <string name="from_range">Alates:</string>
+    <string name="to_range">To:</string>
+    <string name="resultant_mask">Tulemuslik mask:</string>
+    <string name="show_time_jump_panel">Näita ajahüppe paneeli:</string>
+    <string name="use_notification">Kasuta teatist:</string>
+    <string name="show_gg">Näita __app_name__</string>
+    <string name="hide_gg">Peida __app_name__</string>
+    <string name="time_remaining">Aega jäänud:</string>
+    <string name="help_fill_title">Täitke (juurdekasvu) väärtused</string>
+    <string name="help_fill">"* Täitke (juurdekasvu) väärtused:
+\u0009Sageli juhtub, et leitakse liiga palju väärtusi, kuid neid ei saa mängust muuta.
+\u0009Sellisel juhul tuleb täitmine täita.
+
+\u0009Tüüpiline näide kasutamise kohta on üksuse hinna otsimine, millele järgneb asendamine negatiivse väärtusega.
+
+\u00091. Valige soovitud üksused.
+\u00092. Valige \"__edit_selected__\".
+\u00093. Vajutage nuppu \"__more__\", et kuvada \"__increments__\" välja, kui see väli pole olemas.
+\u00094. Sisestage väljale \"__increments__\" juurdekasvu väärtus. Tavaliselt on see 1. Ja klõpsake \"__yes__\".
+\u00095. Valitud üksused saavad uusi väärtusi.
+\u00096. Minge mängu juurde ja vaadake, kuidas soovitud väärtus on muutunud, liikudes üle mänguekraanide.
+\u00097. Kui väärtus pole muutunud, siis ei ole soovitud element valitud. Tagasi __app_name__ juurde ja kasuta \"__delete_selected__\" -> \"__revert_and_remove__\", eemalda valitud elemendid, tagastades neile eelmise väärtuse. Nüüd saate kõik algusest peale proovida teiste elementidega, kui neid on.
+\u00098. Kui väärtus on muutunud, on soovitud element üks valitud elementidest. Jäta uus väärtus meelde ja naasta __app_name__.
+\u00099. Otsige valitud üksuste loendis soovitud väärtus. Tühistage see. Kustutage kõik muud väärtused, kasutades \"__delete_selected__\" -> \"__revert_and_remove__\", tagastades neile eelmise väärtuse.
+\u000910. Muuda soovitud elementi vastavalt vajadusele.
+
+\u0009Tüüpilised vead on eemaldamine ilma pöördumiseta. Pärast seda saab mäng kokku kukkuda.
+
+\u0009Kui leiad palju väärtusi, proovige õnnetuste vältimiseks täita väikesi portsjoneid.
+"</string>
+    <string name="help_hint_1">* Kui leiate alati soovitud väärtused samas piirkonnas (tähed tulemuste loendi üksuste lõpus), saate kiirema otsingu jaoks valida ainult need piirkonnad.</string>
+    <string name="help_faq_30_q">__app_name__ otsib arvuteid Android emulaatoris väga aeglaselt ja pikka aega.</string>
+    <string name="help_faq_30_a">"Tõenäoliselt on arvutis BIOSis virtualiseerimine keelatud. Lülita sisse.
+__app_name__ töötab emulaatori sees, nii et selle kiirus sõltub emulaatori kiirusest.
+Kui virtualiseerimine on lubatud, kuid kiirus on endiselt madal, kontrollige emulaatori seadeid või kasutage teist emulaatorit.
+Võite kasutada ka teist tööriista - CheatEngine PC-le - see otsib kiiremini ja annab teile palju funktsioone, mis pole kunagi __app_name__-s."</string>
+    <string name="help_speed_up_title">Kuidas kiirendada otsingut</string>
+    <string name="help_speed_up">"* Kuidas kiirendada otsingut:
+\u00090. Kui kasutate arvutil Android-emulaatorit (BlueStacks, Droid4X, Andy, NOX, Memu, AMIDuOS, Windroy, AVD, Genymotion, Koplayer, Leapdroid jne), kontrollige, kas virtualiseerimine (VT Technology, Vanderpool Technology, Virtualization Technology , VTx, VT-d, VMX, Virtual Technology, Intel-VT, AMD-V, SVM, IOMMU) on arvutis BIOSis lubatud.
+\u00091. Kui teil on palju RAM-i, siis saate seal andmeid salvestada. See kiirendab otsingut oluliselt. Seadistage seade \"__data_in_ram__\" väärtusele \"__yes__\". Arvuti Android-emulaatoril võib see otsingu aeglustada.
+\u00092. Kui teil on vähe RAM-i, salvestatakse andmed mälukaardile. Kasutage suure kirjutamis- ja lugemiskiirusega mälukaarti.
+\u00093. Saate määrata ka andmete salvestamise seadme sisemällu, kui see on kiirem kui mälukaart. Seadke seadistus \"__set_path__\" soovitud teele.
+\u00094. Valige otsingus ainult soovitud piirkonnad. Vältige aeglast (\"__slow__\") ja ohtlikku (\"__dangerous__\") piirkonda.
+\u00095. Saate määrata ka mälupiirkonna piirid, kui soovite neid otsida. Klõpsake otsingu dialoogis nuppu \"__more__\" ja sisestage piirid.
+\u00096. Otsige ainult soovitud tüüpi andmeid. Andmetüüp \"__type_auto__\" on aeglane.
+\u00097. Keela kõik võimalikud \"__hide_from_game__\" valikud.
+\u00098. Proovige kasutada \"__experimental__\" või \"__extended__\" jaotises \"__memory_access__\". Need võimalused võivad põhjustada ebastabiilset tööd.
+"</string>
+    <string name="help_faq_31_q">Mõne aja pärast kaob __app_name__ ikoon.</string>
+    <string name="help_faq_31_a">"Proovige klõpsata ikoonil. Kui see avatud __app_name__ liides, siis ikoon on peidetud seaded või teie firmware on vead kuvada ikoon.
+Kui liides ei avane, tähendab see seda, et __app_name__ on mälust tühjendatud.
+Võimalikud põhjused:
+
+\u00091. Seadmes ei ole piisavalt RAM-i - süsteem suri __app_name__. Proovige kasutada vähem RAM-i. Seadistustes __app_name__ ärge määrake RAM-i andmete salvestamist, ärge seadistage suurt hulka kuvatud tulemusi, tühjendage RAM-i \"ekstra\" rakendusi, kasutage rakenduste \"kergekaalulisi\" analooge, mida ei saa maha laadida (näiteks käivitaja ). Eriti halbadel juhtudel taaskäivitage seade enne mängu __app_name__ käivitamist. Peaaegu kõigil firmware-l on alati lekkemälu. Rohkem aega pärast taaskäivitamist - mida vähem on saadaval RAM.
+
+\u00092. Sul on protsessi tapjad, kes tapavad __app_name__.
+
+Keelake tapjad või lisage __app_name__ oma eranditele.
+Killers on ka igasuguseid RAM optimeerijaid ja parandajaid.
+Üldiselt vaadake tarkvara kirjeldust, kui te ei tea, kas tapja või mitte.
+
+FlyMe'i jaoks: __app_name__ mõnel põhjusel pärast mõne minuti pikkust tööd - peate lubama tööd __app_name__ ja juurehalduri (tavaliselt SuperSu) jaoks.
+
+Samuti võite proovida \"__use_notification__\" lubada __app_name__ seadetes. Mõnikord takistab see tappa __app_name__."</string>
+    <string name="quick_start_title">Kiire algus</string>
+    <string name="prevent_unload">Vältige mahalaadimist:</string>
+    <string name="hot_key">Kiirklahv:</string>
+    <string name="hide">Peida</string>
+    <string name="execute_script">Käivita skript</string>
+    <string name="execute">Käivita</string>
+    <string name="another_script">Käivitatakse teine ​​skript. Katkestage see?</string>
+    <string name="interrupt">Vahele segama</string>
+    <string name="script">Skript:</string>
+    <string name="script_ended">Skript lõppes:</string>
+    <string name="paused">Mäng on peatatud:</string>
+    <string name="by_pause_button">pausi nupu abil</string>
+    <string name="by_option">"valikuga '__s__'"</string>
+    <string name="new_search_short">Uus</string>
+    <string name="speedhack_loading">Kiirkäigu laadimine ...</string>
+    <string name="speedhack_loaded">Speedhack on laaditud.</string>
+    <string name="busy_dialog_fail">Edenemise dialoogi ei saa kuvada.</string>
+    <string name="site">Sait</string>
+    <string name="help_xor_search_title">XOR-otsing</string>
+    <string name="help_xor_search">"* XORi otsing:
+\u0009\u0009Kui teate, et vajaminev väärtus on krüpteeritud XOR-klahviga, mis on väärtusest alati sama kaugusel, saate seda režiimi kasutada dekrüpteeritud väärtuse järgi otsimiseks.
+\u00091. Pöörake mängust __app_name__.
+\u00092. Puudutage vahekaardil \"__search__\" nuppu \"__search_known_value__\".
+\u00093. Sisestage otsingu number ja võtme XOR kaugus, eraldatuna \"__mode_xor__\". Näiteks selleks, et otsida väärtust 100 võtmega 8, sisestage:
+\u0009\u0009\u0009100__mode_xor__8
+\u0009\u0009Täiendavate sümbolite sisestamiseks kasutage nuppu \"__btn_hex__\" sisemises klaviatuuris.
+\u00094. Valige sobiv andmetüüp või valige \"__type_auto__\" (kui te pole kindel) ja muud võimalused (kui vaja) ja klõpsake \"__search__\".
+\u00095. Kui otsing on lõppenud, kuvatakse otsingutulemused loendis.
+\u00096. Tagasi mängu. Pärast väärtuse muutumist lülitage uuesti __app_name__ peale.
+\u00097. Korrake XOR-otsingut asjakohaste muudatustega.
+\u00098. Kui tulemusi on liiga palju, korrake samme 6 ja 7.
+\u00099. Kui on jäänud vähe tulemusi, võite proovida väärtust muuta, salvestada või külmutada.
+
+\u0009XOR-otsingut saate kasutada vahemiku otsinguga. Näiteks \"100__tilde__150__mode_xor__8\".
+\u0009Tavaliselt on XOR-otsing tavalisest numbrite otsingust aeglasem.
+\u0009See režiim ei ole grupiotsingus või krüpteeritud otsingus toetatud.
+\u0009Kaugus peab olema 1 kuni 4096 (kaasa arvatud).
+\u0009Te saate sisestada vahemaa heksades vormingus __hex__ sümboliga lõpus: \"100__tilde__150__mode_xor__10h\".
+\u0009Kaugus peab austama väärtusi, mis on vastavuses. Näiteks peab dword olema joondatud 4-baidise piiriga. See tähendab, et otsing \"40__mode_xor__7\" on dwordi jaoks kasutu, sest 7 ei saa jagada 4-ga.
+\u0009Selle režiimi kombineerimine teise probleemiga võib põhjustada halva püsivara probleeme. Näiteks, kui teete tavapärast otsingut ja pärast seda täpsustate XOR-režiimis, võib see põhjustada seadme riputamise või taaskäivitamise. See ei tohi juhtuda, kui esimene otsing on selles režiimis.
+\u0009Selle režiimi fuzzy otsingut ei toetata. Seda saab kombineerida, kuid fuzzy töötab nagu tavaliselt ja ärge austage oma XOR võtit kaugusega.
+\u0009Väärtuste märk on austatud. See tähendab, et saate otsida väärtust, mis ei ole võrdne, suurem, väiksem ja nii edasi.
+\u0009Selles otsingus loetakse kõik väärtused allkirjastatuks.
+"</string>
+    <string name="help_faq_32_q">Mis vahe on HW / SW versioonides? Ja keda ma peaksin kasutama?</string>
+    <string name="try_latest">Võib-olla vajab see skript __app_name__ uusimat versiooni. Proovige värskendada uusimat versiooni.</string>
+    <string name="help_string_search_title">Tekst (string, HEX, AoB) otsing</string>
+    <string name="download_scripts">Laadige skriptid alla</string>
+    <string name="hide_icons">Peida käivitaja ikoonid</string>
+    <string name="select_mode">Valige režiim</string>
+    <string name="mode_string">Tekst</string>
+    <string name="mode_mixed">Segatud</string>
+    <string name="string_search_prompt">Sisestage otsitav tekst pikkusega kuni __d__ baiti. Näiteks</string>
+    <string name="string_empty">Peate sisestama teksti.</string>
+    <string name="string_not_found">Tekst \"__s__\" ei leitud.</string>
+    <string name="string_found">Leitud __d__ vastet tekstile \"__s__\".</string>
+    <string name="string_replace">Kas soovite need asendada?</string>
+    <string name="string_replace_prompt">Sisestage tekst \"__s__\" asendamiseks. Pikkus ei ületa __d__ baiti.</string>
+    <string name="string_replaced">Replaced \"__s__\" to \"__s__\" in __d__ places.</string>
+    <string name="need_allow_background">Selle püsivara puhul peate lubama töötada süsteemi __app_name__ taustasüsteemi seadetes.</string>
+    <string name="calculate_offset_xor">Arvuta offset, XOR</string>
+    <string name="select_copy_item">Valige kopeeritav element:</string>
+    <string name="landscape">Maastik</string>
+    <string name="portrait">Portree</string>
+    <string name="toolbar_buttons">Tööriistariba nupud</string>
+    <string name="need_update_to">Selle skripti käivitamiseks on vaja uuemat versiooni __app_name__. Vähemalt versioon __s__. Teil on versioon __s__.</string>
+    <string name="default_mark">vaikimisi</string>
+    <string name="default_">Vaikimisi:</string>
+    <string name="reset_button">Lähtesta</string>
+    <string name="help_hex_colors_title">Värvid mälu redaktoris</string>
+    <string name="help_hex_colors">"* __help_hex_colors_title__:
+Kui kuuekordne esitus ei ole valge, vaid värviline, siis tõenäoliselt on see väärtus näitaja. Värv näitab, millist tüüpi mälu see osuti viitab.
+See võib olla mälu __executable__, __writable__ või __read_only__. Harvadel juhtudel võib see olla mälu __writable_and_executable__."</string>
+    <string name="executable">käivitatav</string>
+    <string name="writable">kirjutatav</string>
+    <string name="read_only">Loe ainult</string>
+    <string name="writable_and_executable">kirjutatav ja käivitatav</string>
+    <string name="help_extract">Eemaldage abi</string>
+    <string name="help_extract_done">Abi antakse välja __s__</string>
+    <string name="help_extract_fail">Abi eraldamisel ilmnes viga:</string>
+    <string name="try_arm_version">Proovige kasutada versiooni __app_name__ vanemate ARM-protsessorite toel:</string>
+    <string name="back">tagasi</string>
+    <string name="forward">Edasi</string>
+    <string name="no_previous">Varasemate kirjete puudumine</string>
+    <string name="no_next">Järgmisi kirjeid ei ole</string>
+    <string name="from_item">Üksusest:</string>
+    <string name="from_context">Kontekstimenüüst:</string>
+    <string name="from_boundary">Piirist</string>
+    <string name="from_goto">Helista</string>
+    <string name="from_calc">Ofsetkalkulaatorist:</string>
+    <string name="help_add_to_value_title">Valik \"__add_not_replace__\"</string>
+    <string name="help_add_to_value">"* __help_add_to_value_title__:
+Kui see valik on märgitud, lisatakse sisestatud väärtus olemasolevale väärtusele ja ei asenda seda. Näiteks elemendi väärtus on 5 ja sisestasite väärtuse väljale 7. Kui see suvand on valitud, saab element uue väärtuse 5 + 7, mis on võrdne 12. Kui seda ei kontrollita, siis 7.
+Saate sisestada nii positiivseid kui ka negatiivseid väärtusi.
+See valik ei sobi väärtuse külmutamisega."</string>
+    <string name="check_libs">Kontrollige mängu raamatukogude arhitektuuri:</string>
+    <string name="arm_libs">"Mäng on paigaldatud ARM-i raamatukogudega, kuigi APK-s on x86-raamatukogusid.
+Speedhack ja kõik sellega seotud, ei tööta.
+\"__skip__\" keelab need kontrollid. Saate selle seadetes uuesti sisse lülitada."</string>
+    <string name="manual_install">.Apk-faili saate käsitsi installida. See asub järgmisel teel:</string>
+    <string name="as_text">Tekstina (ei saa laadida)</string>
+    <string name="as_text_help">Salvestab nimekirja tekstivormingus, mis on mugav inimese lugemiseks. Selle vormingu laadimist ei toetata.</string>
+    <string name="help_pointer_search_title">Pointer otsing</string>
+    <string name="help_pointer_search">Otsib väärtusi, mis võivad olla soovitud aadressi osutajad. Saate määrata võimaliku nihke maksimaalse limiidi.</string>
+    <string name="all_memory">Kogu mälus</string>
+    <string name="offset_help">Võimaliku tasaarvestuse ülempiir.</string>
+    <string name="typical_values">Tüüpilised väärtused</string>
+    <string name="su_command">Superuseri käsk</string>
+    <string name="starts">Alustab</string>
+    <string name="ends">Lõpeb</string>
+    <string name="no_filter">Ilma filtrita.</string>
+    <string name="help_memory_filter_title">Filtreerimine mälu redaktoris</string>
+    <string name="help_memory_filter">"* __help_memory_filter_title__:
+Mälu redaktoris saate määrata filtri. Kuvatakse ainult need tulemused, mis vastavad filtrile.
+Filter toetab metsamärke:
+\u0009__caret__ - andmete algus,
+\u0009__dollar__ - andmete lõpp,
+\u0009__asterisk__ - suvaline arv sümboleid
+\u0009__question__ - ükski märk.
+Näiteks, et leida number 42, peate sisestama __caret__42__dollar__."</string>
+    <string name="use_sh">Kasutage käsku</string>
+    <string name="backgrounds">Must taust</string>
+    <string name="actions">Toimingud:</string>
+    <string name="game_settings">Mängu seaded:</string>
+    <string name="global_settings">Üldised seaded:</string>
+    <string name="ui_settings">Kasutajaliidese seaded:</string>
+    <string name="others">Teised:</string>
+    <string name="skip_memory">Jäta mälu välja:</string>
+    <string name="empty_memory">Tühi</string>
+    <string name="without_protection">ilma kaitseta</string>
+    <string name="help_games_protection_title">Kuidas pääseda kaitsele mängudes</string>
+    <string name="help_games_protection">"\u0009Mõned mängud on varustatud kaitse mälu redaktoritega. Võite proovida järgmist:
+\u00091. \"__kill_game__\" ja seejärel \"__restart_game_without_protection__\".
+\u00092. \"__disable_protection__\" ja seejärel käivitage (või taaskäivitage) mäng.
+\u00093. Kasutage kõiki või osa elementidest jaotises \"__hide_from_game__\". Kõik nad aeglustavad otsingut.
+\u00094. Otsi, kui mäng on minimeeritud.
+\u00095. Otsi, kui mäng on peatatud.
+\u00096. Tapa või peatage mõned mängu kaitseprotsessid, kui mängul on mitu protsessi.
+\u00097. Kasutage XPrivacy'i või sarnaseid tööriistu kaitse kaitsmiseks.
+\u00098. Kasutage mängu muutmist ilma kaitseta.
+"</string>
+    <string name="disable_protection">Keela kõigi rakenduste kaitse (kuni taaskäivitamiseni)</string>
+    <string name="must_restart_if">Kui käivitate mängu enne kaitse keelamist, peate selle uuesti käivitama.</string>
+    <string name="patch_loading">Laadima plaastrit ...</string>
+    <string name="patch_loaded">Patch on laaditud.</string>
+    <string name="patch_failed">Patch pole laaditud.</string>
+    <string name="history_limit">Ajaloo piir:</string>
+    <string name="copy_as_search">Kopeeri grupiotsinguna</string>
+    <string name="add_types">Lisa tüübid</string>
+    <string name="add_size">Lisa grupi suurus</string>
+    <string name="copy_rhex_value">Kopeerige tagasikäik kuus väärtust:</string>
+    <string name="mips_arch">See rakendus ei toeta MIPS-arhitektuuri.</string>
+    <string name="unrandomizer">Unrandomizer</string>
+    <string name="functions">funktsioone</string>
+    <string name="help_unrandomizer">"
+Unrandomizer on funktsioon, mis on mõeldud mängudes kasutatavate teatud funktsioonide asendamiseks juhuslike väärtuste loomiseks. Väga lihtsal tasemel võib näiteks olla mäng, mis kasutab mängija tasu määramiseks juhuslikku funktsiooni. Unrandomizer'i lubamine põhjustaks __app_name__ proovida seda juhuslikku väärtust välja vahetada, et muuta tulemust (näiteks teatud tasu saamiseks).
+
+Unrandomizer ei tööta kõigil juhtudel. See tegeleb ainult funktsioonidega, mida ta teab. Enamikul juhtudel ja enamiku kasutajate puhul seda ei kasutata, kuna see on rohkem täiustatud / eksperimentaalne funktsioon.
+
+Mõned funktsioonid tagastavad __type_qword__, mõned - __type_double__ (harva kasutatud).
+
+__type_double__ väärtused peavad olema vahemikus 0 kuni 1. Siin saate siiski määrata mis tahes väärtusi, sest __app_name__ parandab kõik valed variandid automaatselt.
+
+Võite määrata ka juurdekasvu sammu. Sel juhul suureneb iga järgnev tulemus selle väärtuse võrra. Näiteks 1 ja algväärtuse 0 puhul tagastatakse juhusliku väärtuse asemel 0, 1, 2, 3, ....
+See valik võib olla kasulik kõigi võimalike juhuslike tulemuste täielikuks otsimiseks.
+
+Saate määrata, milliseid funktsioone __app_name__ seadetes muuta.
+"</string>
+    <string name="count_replace">Mitu esimest tulemust asendada?</string>
+    <string name="unrandomizer_loading">Laadige unrandomizer ...</string>
+    <string name="unrandomizer_loaded">Unrandomizer on laaditud.</string>
+    <string name="warn_restart_off_prot">"See valik üritab mängu ilma kaitseta taaskäivitada.
+Paljud püsivara aga sisaldavad vigu, mis võivad põhjustada seadme taaskäivitamise.
+Kui see juhtub, ärge proovige mängu uuesti alustada, kuna see taaskäivitab seadme uuesti.
+Käivitage lihtsalt __app_name__ - see kustutab halvad seaded.
+Samuti võite proovida seadet regulaarselt taaskäivitada, see peaks ka probleemi lahendama.
+
+Kui taaskäivitamine on toimunud - ärge seda funktsiooni kasutage, see ei tööta teie püsivara puhul."</string>
+    <string name="warn_patch_off_prot">"See valik püüab süsteemi (ajutiselt) paigutada, et kõik rakendused töötaksid ilma kaitseta.
+Muudatused kehtivad ainult uute rakenduste puhul. Seetõttu tuleb pärast edukat plaastrit sihtrakendust taaskäivitada.
+Plaastri tühistamiseks taaskäivitage seade.
+Võib-olla on pärast seda plaastrit süsteemis mitmeid vigu.
+
+Kui plaaster on edukas, ei ole soovitatav seda funktsiooni uuesti käivitada enne seadme taaskäivitamist.
+
+Kui teil on probleeme, ärge seda funktsiooni kasutage."</string>
+    <string name="clear_history">Selge sisend-ajalugu</string>
+    <string name="clear_history_warn">Kõik kirjed, sealhulgas kinnitatud, kustutatakse.</string>
+    <string name="click_edit">Muutmiseks klõpsake siia</string>
+    <string name="ignore_unknown_chars">Ignoreerige tundmatuid tähemärke:</string>
+    <string name="need_root_mode">See funktsioon nõuab juurjuurdepääsu. Praegu töötab __app_name__ virtuaalses keskkonnas ilma juurjuurdepääsuta.</string>
+    <string name="work_without_root_title">Töötage ilma juureta</string>
+    <string name="work_without_root">"__app_name__ saab töötada ilma juureta virtuaalse keskkonna kaudu. Näiteks __vspace_list__ ja paljud teised.
+__app_name__ tuleb paigaldada virtuaalsesse keskkonda. Mäng peab olema ka seal paigaldatud.
+Kõiki programmi funktsioone ei toetata, kuid enamik funktsioone peaks toimima.
+
+Te ei saa lõhkuda mänge, mida pole virtuaalses keskkonnas installitud.
+
+Esimest __app_name__ käivitamist, mis teostab uuesti installimist juhusliku paketi nimega, ei tohi läbi viia virtuaalse keskkonna kaudu.
+Seejärel saate virtuaalsesse keskkonda lisada ja lisada __app_name__."</string>
+    <string name="help_game_not_listed_title">Miks minu mäng pole protsesside loendis?</string>
+    <string name="fractional_hint">"Reaalarvu \"x\" murdosa on see arv, mis ületab selle arvu täisarvu.
+Selle numbri puhul vastab fraktsiooniline osa numbritele, mis ilmuvad pärast radixi punkti.
+
+Näiteks:"</string>
+    <string name="pointer">Pointer:</string>
+    <string name="help_search_filter_title">Filtrid otsingus</string>
+    <string name="help_search_filter">"Saate filtreerida otsingutulemused.
+Saate määrata:
+\u0009- aadressi piirmäärad,
+\u0009- väärtuse piirmäärad,
+\u0009- nõutavad andmed,
+\u0009- numbri soovitud osa,
+\u0009- soovitud kursoritüüp.
+Võite filtreid omavahel kombineerida.
+Samuti saate ühe või mõne filtri igal ajal keelata.
+
+Kui aga leitakse suur hulk andmeid, võivad filtrid tulemusi aeglustada.
+
+Filtri numbri murdosas võib olla kas võrdsus või ebavõrdsus.
+Täisarvuliikide puhul on murdosa osa null. Kui te ei vaja täisarvuliike, jätke need tüübifiltri abil välja.
+
+Kursori tüübi filter võimaldab jätta väljundisse ainult need väärtused, mis võivad olla soovitud mälu tüübi kursoriks.
+Võimalikud mälutüübid vastavad mälu redaktori värvidele:
+See võib olla mälu __executable__, __writable__ või __read_only__. Harvadel juhtudel võib see olla mälu __writable_and_executable__.
+
+Pseudotüüpi \"no pointer\" vastab kõikidele andmetüüpidele, mida ei saa näidata, ja ka nende punktide väärtustele, mis osutavad jaotamata mälule."</string>
+    <string name="unmount_kill">"Mälukaart eemaldati, samal ajal kui __app_name__ salvestas sellel ajutisi faile. See tõi kaasa deemonit sunniviisilise sulgemise.
+
+Selle vältimiseks määrake ajutiste failide jaoks teine ​​tee. Näiteks sisemälus.
+Seal peaks olema piisavalt vaba ruumi."</string>
+    <string name="calls">Süsteemi kõnede režiim:</string>
+    <string name="alternative">Alternatiiv</string>
+    <string name="help_calls">"Mõnel püsivara (nt Lenovo) puhul võib alternatiivne režiim toimida kiiremini.
+
+Tavaliselt ei ole teil seda valikut vaja muuta."</string>
+    <string name="help_context_title">Kontekstuaalne abi</string>
+    <string name="help_context">"Liideses on mõned elemendid tähistatud spetsiaalse ikooniga üleval paremal, sümboliga __i__ ringis.
+Selle elemendi vajutamine või selle vajutamine näitab selle elemendi abi."</string>
+    <string name="waitpid_mode">__waitpid__ režiim:</string>
+    <string name="help_waitpid">"Mõne püsivara puhul ei tööta süsteemikõne __waitpid__ ootuspäraselt. See on tavaliselt tingitud valedest SeLinuxi seadetest.
+See viib lõputu otsinguni __app_name__.
+Võite proovida kasutada alternatiivset režiimi. Võibolla see toimib."</string>
+    <string name="microseconds_short">μs</string>
+    <string name="small_is_bad">Liiga väikesed väärtused võivad tekitada protsessorile suure koormuse ja mängus püsida.</string>
+    <string name="freeze_interval_help">Intervall, mille kaudu __app_name__ kirjutab mängu mälu väärtused üle.</string>
+    <string name="saved_list_update_interval_help">Intervall, mille jooksul __app_name__ salvestab salvestatud nimekirja väärtused.</string>
+    <string name="icons_size_help">"__app_name__ liidese ikoonide suurus.
+Ei kehti ujuva ikooni kohta."</string>
+    <string name="ignore_unknown_chars_help">Võib aidata lahendada probleeme, kui kopeerite numbreid erinevatest kohtadest, kui koos numbritega kopeeritakse erimärke.</string>
+    <string name="use_notification_help">"Teavituste kasutamine Androidi süsteemi teavitusalal.
+Teatud püsivara puhul suurendab see rakenduse prioriteeti ja takistab selle sulgemist.
+Samuti saate teate abil minna __app_name__ või mängu juurde, klõpsates seda.
+See võib olla kasulik, kui te ei saa klõpsata ujuvale ikoonile."</string>
+    <string name="use_sound_effects_help">"Süsteem kõlab, kui vajutate nuppe ja üksusi.
+Teatud püsivara puhul põhjustavad helid __app_name__ krahhi."</string>
+    <string name="keyboard_help">Sisemine klaviatuur võtab vähem mälu, laadib kiiremini ja on optimeeritud numbrite sisestamiseks.</string>
+    <string name="allow_suggestions_help">"Vihjeid välisest klaviatuurist.
+Mõnel püsivara puhul põhjustavad vihjed __app_name__ krahhi."</string>
+    <string name="autopause_help">__app_name__ liidese avamisel paneb mängu automaatselt pausi.</string>
+    <string name="killed_by">__app_name__ suleti sunniviisiliselt taotlusega \"__s__\". Selle vältimiseks kustutage see rakendus või konfigureerige see nii, et see ei lõpetaks __app_name__.</string>
+    <string name="killers_found">"Olete installinud rakendusi, mis võivad sunniviisiliselt sulgeda __app_name__:
+__s__
+Selle vältimiseks kustutage need või konfigureerige need nii, et nad ei lõpetaks __app_name__.
+
+Kui teil ei ole probleeme __app_name__ ootamatu sulgemisega, siis pole mingit toimingut vaja ja seda teadet ignoreerida."</string>
+    <string name="record_logcat">Record __logcat__</string>
+    <string name="record_logcat_info">"__app_name__ taaskäivitatakse, salvestades faili __logcat__:
+\"__s__\".
+
+Salvestamise lõpetamiseks välju __app_name__.
+Seejärel saate logifaili saata, kuhu seda vajate."</string>
+    <string name="need_uninstall">Te peate installeri desinstallima, vastasel juhul on teil 4 ikooni, mitte 2. Ka mängud tuvastavad selle.</string>
+    <string name="need_random_name">"__app_name__ kasutab standardset paketi nime. Mängud suudavad seda avastada.
+
+Selle parandamiseks - tavalise rakendusega __app_name__ väljaspool virtuaalruumi.
+Pärast installi lõpuleviimist lisage virtuaalsesse kohta __app_name__ koopia juhusliku nimega."</string>
+    <string name="work_mode">Töörežiim</string>
+    <string name="root">juur</string>
+    <string name="no_root">juureta</string>
+    <string name="how_no_root">"Peate installima virtuaalruumi rakenduse. Näiteks: __vspace_list__.
+
+Soovitatav on paigaldada optimeeritud versioonid ametlikust __app_name__ saidist.
+
+Siis peate lisama sellele virtuaalsele ruumile __app_name__ ja oma mängu.
+
+Pärast seda peate mängima ja __app_name__ virtuaalses ruumis."</string>
+    <string name="eperm_error_descr_0">Võimalikud põhjused:</string>
+    <string name="eperm_error_descr_1">Kaitse mängus.</string>
+    <string name="eperm_error_descr_2">Mänguga on ühendatud veel üks silur või krakkija.</string>
+    <string name="eperm_error_descr_3">Piisavad õigused. Tavaliselt on __selinux__ valesti konfigureeritud. Keela või konfigureeri __selinux__.</string>
+    <string name="eperm_error_descr_4">Halb kernel või püsivara. Proovige teist püsivara või muud seadet.</string>
+    <string name="eperm_error_descr_5">Teie püsivara puhul ei tööta \"root\" režiim. Proovige teist püsivara või muud seadet või hankige juur.</string>
+    <string name="ptrace_bypass_mode">Väljumise režiim ptrace kaitse jaoks:</string>
+    <string name="mode_restore">taastama</string>
+    <string name="mode_nothing">midagi</string>
+    <string name="mode_freeze">külmutada</string>
+    <string name="ptrace_bypass_mode_help">"Näitab, mida teha pärast kaitseühenduse keelamist:
+\u0009__mode_restore__ - ühenduse taastamine
+\u0009__mode_nothing__ - ei tee midagi (tavaliselt kaitse taastab ise ühenduse)
+\u0009__mode_freeze__ - lõime külmutamine (nagu eelmistes versioonides)
+
+Kui taastate kaitse või lubate kaitset ise teha, võib väärtuste külmutamine __app_name__ põhjustada püsivaid seoseid / kaitse keelamist."</string>
+    <string name="slow_emulator">"Kasutate emulaatorit \"__s__\". See on aeglane ja sisaldab vigu. Seetõttu võib otsing olla väga aeglane.
+
+Soovitame kasutada teisi emulaatoreid:"</string>
+    <string name="text">Tekst</string>
+    <string name="show_debug_info">Kuva silumisinfo</string>
+    <string name="mnt_expand">"__app_name__ on paigaldatud mälukaardile, mida kasutatakse \"sisemäluks\".
+See võib häirida virtuaalsete ruumide toimimist.
+Sellisel juhul installige seadme sisemällu __app_name__.
+Teil võib tekkida vajadus vormindada mälukaart \"Portable storage\"."</string>
+    <string name="help_game_not_listed_root">"Selle valimiseks peab mäng olema käivitatud.
+
+Kui mäng töötab, kuid see pole veel nimekirjas, siis võib-olla on teil juure või püsivara probleem.
+Proovige teist juur- või muud püsivara."</string>
+    <string name="help_game_not_listed_noroot">"Mäng tuleb virtuaalses ruumis käivitada, et seda saaks valida.
+
+Sa ei saa mängu valida, kui see ei tööta virtuaalses ruumis.
+
+Kui mäng töötab virtuaalses ruumis, kuid see pole veel nimekirjas, proovige teist virtuaalset ruumi, teist püsivara, teist seadet või saada juur."</string>
+    <string name="daemon_killed_oom">"Süsteemi surmati deemon mälu puudumise tõttu.
+
+Määra \"__data_in_ram__\" väärtuseks \"__no__\".
+Võimaluse korral kasutage liidese riistvara kiirendust.
+Ärge kasutage suuri rakendusi.
+Keela kõik muud kasutamata rakendused.
+Proovige pärast seadme taaskäivitamist kasutada __app_name__."</string>
+    <string name="selected_as_search_result">Valitud otsingutulemuseks</string>
+    <string name="clear_results_prompt">See asendab praegused otsingutulemused. Jätka?</string>
+    <string name="position_in_memory_editor">Asukoht mälu redaktoris</string>
+    <string name="script_prompt_internet">"Skript soovib Interneti-ühendust. Kui lubate juurdepääsu, saab skript varastada teie sisselogimised, paroolid, salvestused ja muud mängu andmed. Samuti saab see varastada teie muud skriptid või laadida teie seadmesse viirused.
+
+Kas lubate skripti juurdepääsu Internetile?"</string>
+    <string name="level">Tase</string>
+    <string name="float_prompt">"Et __app_name__ korralikult püsivara käivitada, peate lubama __s__ süsteemi seadistustes hüpikaknad.
+
+Vaikimisi hüpikaken Huawei telefonides ei kuvata. Te peate lubama __s__ hüpikakna näitamiseks. Avage telefonihaldur, seejärel Dropzone'i juhtimine ja veenduge, et see on sisse lülitatud __s__ jaoks.
+
+Hüpikaken ei kuvata ka mõnes Xiaomi telefonis. Peate minema menüükäsuga Seaded -> Installitud rakendused -> __s__ -> Muud õigused -> Kuva hüpikaken.
+
+Samuti võivad teistel telefonidel olla erinevad toimingud, et võimaldada rakendustel hüpikaknaid kuvada. Kõik sellised rakendused mõjutavad seda tavaliselt, näiteks Google'i tõlkija rakendus, millel on funktsiooni Kopeeri tõlkimine. Seetõttu saate lahenduse leidmiseks lihtsalt google \"YOUR_PHONE puudutada, et tõlkida\". Näiteks Xiaomi Redmi seadmete puhul on lahendus järgmine:"</string>
+    <string name="virtual_space">Virtual Space App</string>
+    <string name="prevent_unload_help">"Vältige __app_name__ mahalaadimist mälust (jõu sulgemine).
+
+Iga järgnev tase on võimsam kui eelmine ja sisaldab seda iseenesest.
+
+Kolmas tase võib põhjustada mõningate püsivara ja emulaatorite probleeme (riputada röstsai, taaskäivitada või kaob).
+
+Ilma juureta töötab ainult kolmas tase."</string>
+    <string name="integer_type">See andmetüüp on ainult täisarvude puhul ja ei toeta fraktsioonilisi väärtusi. Fraktsiooniliste väärtuste puhul kasutage __type_float__ või __type_double__.</string>
+    <string name="without_float">Samuti saate kasutada __app_name__ ilma ujuvaid aknaid:</string>
+    <string name="any_value">väärtust</string>
+    <string name="help_group_search_any_value">__any__ saab tellitud grupiotsingus kasutada koos minimaalse suurusega, et määrata selle tüübi mis tahes väärtus soovitud asendis.</string>
+    <string name="help_scripts_title">Skriptid</string>
+    <string name="help_scripts">"* __help_scripts_title__:
+__app_name__ toetab Lua kirjutatud skriptide täitmist.
+
+Klõpsake otsingulehel menüüd ja valige \"__execute_script__\".
+Siin saab valida skriptifaili täitmiseks, vaadake olemasolevaid __app_name__ API meetodeid või minge ametlikule saidile, et lugeda API-i abi või saada valmis skriptid.
+Samuti saate mälukaardilt API-lt välja võtta, et seda ilma internetita lugeda.
+
+Kui soovite kirjutada oma skripti, siis on vaja välist tekstifaili redaktorit.
+__app_name__ ei luba skriptide redigeerimist, vaid täidab neid ainult.
+
+Lisateabe saamiseks lugege API abi."</string>
+    <string name="help_floating_icon_absent">Kui pärast nupule \"__start__\" klõpsamist ei näe te ujuva ikooni:</string>
+    <string name="remove_all2">Eemalda kõik</string>
+    <string name="debug_load">Kogu kõik koormused</string>
+    <string name="debug_log">Logige enamik skriptikõnesid</string>
+    <string name="vspace64">"Sa jooksid __app_name__ virtuaalses ruumis, mis toetab 64-bitisi protsesse.
+
+__app_name__ ei näe selles ruumis töötavaid 32-bitisi protsesse.
+
+Paigaldage __app_name__ teine ​​eksemplar režiimi \"__for32__\", kui soovite töötada __app_name__ 32-bitiste protsessidega."</string>
+    <string name="folder_new">Uus kaust</string>
+    <string name="folder_exists">See kaust on juba olemas</string>
+    <string name="folder_file">Sellise nimega fail on olemas</string>
+    <string name="folder_failed">Kausta loomine nurjus</string>
+    <string name="force_close">"Eelmine rakenduse seiskamine oli ootamatu.
+
+Selle vältimiseks võite tulevikus \"__prevent_unload__\" seadistustaset tõsta."</string>
+    <string name="help_force_close_title">Ootamatu seiskamine</string>
+    <string name="install_mode">Installimisrežiim</string>
+    <string name="for32">32-bitiste 64-bitiste virtuaalruumide mängimiseks</string>
+    <string name="for64">64-bitiste 64-bitiste virtuaalse ruumi mängimiseks</string>
+    <string name="reset_ignore">Kõigi dialoogide puhul lähtestage kõik ignoreerimised</string>
+    <string name="allocate_fail">Mälu lehekülge ei saanud eraldada. Viga</string>
+    <string name="allocated">Eraldatud mälu leht:</string>
+    <string name="allocate_page">Eraldage mälu leht</string>
+    <string name="prot_read">Võib lugeda</string>
+    <string name="prot_write">Võib kirjutada</string>
+    <string name="prot_exec">Võib täita</string>
+    <string name="install_finished">"Installimine oli edukas.
+Käivitage installitud koopia käsitsi, et see saaks teie andmeid üle kanda.
+Pärast seda saab paigaldaja eemaldada."</string>
+    <string name="odd_vspace">__app_name__ käivitati virtuaalses ruumis?</string>
+    <string name="record_script">Salvesta skript</string>
+    <string name="record">Salvestage</string>
+    <string name="another_record">Käib veel üks kirje. Lõpeta?</string>
+    <string name="record_ended">Salvestamine lõpetatud:</string>
+    <string name="stop">Peatus</string>
+    <string name="could_not_use">Ei saa kasutada:</string>
+    <string name="not_optimized2">"Kasutate virtuaalruumi optimeerimata versiooni (\"__s__\").
+Selle vea parandamiseks eemaldage \"__s__\" optimeerimata versioon ja installige üks optimeeritud virtuaalruumidest ametlikust veebisaidilt __app_name__.
+Optimeeritud virtuaalsete ruumide valimiseks klõpsake \"__fix_it__\"."</string>
+    <string name="fix_path">Vaba ruum või määrake ajutiste failide jaoks teine ​​tee, klõpsates \"__fix_it__\".</string>
+    <string name="deep_read">Sügav lugemine:</string>
+    <string name="help_deep_read">"Mälu lugemine kõigi olemasolevate meetodite abil, kui seda ei saa lugeda.
+Võib aeglustada mälu lugemist."</string>
+    <string name="ptrace_fail">Mälu muutmine ptrace kaudu ei õnnestunud.</string>
+    <string name="ptrace_fail_partially">Mõned funktsioonid, kiirus ja kõik sellega seotud, ei tööta. Kirjutamine ainult kirjutusmällu (sh kood) ei ole võimalik.</string>
+    <string name="ptrace_fail_full">Absoluutne enamus funktsioone ei tööta.</string>
+    <string name="ptrace_fail_solve">"Tüüpiline põhjus on purustatud kernel firmware.
+Proovige muuta püsivara. Kui värskendasite seda hiljuti - installige eelmine versioon.
+
+Kui see ei tööta, vahetage seade."</string>
+    <string name="feature_hide_4">See funktsioon ei toimi, kui neljas element on valitud \"__hide_from_game__\".</string>
+    <string name="feature_firmware">See funktsioon ei saa töötada ilma ptrace, mis ei tööta selle firmware.</string>
+    <string name="feature_protection">See funktsioon ei saa mängust tuleneva kaitse tõttu töötada.</string>
+    <string name="not_file">Tee pole fail:</string>
+    <string name="not_execute">Ei saa täita:</string>
+    <string name="check_install">Kontrollige, kas __app_name__ on õigesti paigaldatud.</string>
+    <string name="sdcard_install">Kui __app_name__ on paigaldatud välisele mälukaardile (SD-kaart), tagastage see sisemällu</string>
+    <string name="change_address_type">Muuda aadressi / tüüpi</string>
+    <string name="bad_offset">Tasaarvestus ei ole __d__ kordaja.</string>
+    <string name="bad_result_address">Saadud aadress ei ole __d__ kordaja.</string>
+    <string name="correct_types">__d__ elemendid muudavad selle tüübi, et parandada võimatu joondamist.</string>
+    <string name="reinstall_fail">"__app_name__ ei saa juhusliku nimega uuesti installida.
+
+__app_name__ saab mängude abil kergesti avastada.
+
+Saate installimise ajal salvestada __logcat__ ja pöörduda abi saamiseks ametliku foorumi poole.
+
+Tagasilükkamise põhjus:"</string>
+    <string name="empty_field">Tühi sisendivälja: teisendamiseks pole numbrit</string>
+    <string name="need_integer">Peate konverteerimiseks valima täisarvu.</string>
+    <string name="maps_failed">Faili __maps__ ei saa avada.</string>
+    <string name="game_protected">Mäng on kaitstud.</string>
+    <string name="need_root">Selle mängu häkimiseks on vaja juurt.</string>
+    <string name="vspace_error">"Virtuaalse ruumi või püsivara või seadme probleem.
+
+Proovige:
+\u0009- kasutage teist virtuaalset ruumi
+\u0009- kasutage mõnda muud püsivara
+\u0009- saada juur
+\u0009- kasutage teist seadet"</string>
+    <string name="root_error">"Püsivara või juure või seadme probleem.
+
+Proovige:
+\u0009- kasutage mõnda muud püsivara
+\u0009- kasutage teist juurt
+\u0009- kasutage teist seadet"</string>
+    <string name="vspace_root">Kasuta root virtuaalses ruumis:</string>
+    <string name="help_vspace_root">"Juurdepääsu kasutamine virtuaalruumist võib aidata varjata asjaolu, et seadmes on __app_name__.
+
+See ei tööta kõikidel püsivara ja mitte kõigil virtuaalsetel kohtadel.
+
+Virtuaalne ruum, püsivara ja juur peaks võimaldama töötada virtuaalse ruumi juurega.
+Virtuaalne ruum peaks võimaldama rakenduste installimist sissepoole ilma neid süsteemi installimata.
+
+Mitte kõik virtuaalsed ruumid ei suuda seda pakkuda.
+
+Mitte kõigil püsivara puhul, mida see režiim töötab. Ja mitte kogu juurega.
+
+Kuna root õigused antakse kogu virtuaalsele ruumile, ei tohiks te selles midagi muud installida. Vastasel juhul võib virtuaalruumi ükskõik milline rakendus kasutada ettearvamatute tagajärgedega root õigusi.
+
+Mäng peab olema paigaldatud väljaspool virtuaalset ruumi.
+
+__app_name__ tuleb paigaldada ainult virtuaalsesse ruumi, ilma seda süsteemi installimata.
+Kuidas seda teha - vaata konkreetse virtuaalse ruumi abi.
+
+Näiteks __vexp__ puhul saate __app_name__ kloonida süsteemi __vexp__ ja seejärel kustutada süsteemist __app_name__."</string>
+    <string name="help_games_protection_9">9. Kasutage juure virtuaalsetes ruumides, mis võimaldavad installida rakendusi ise ilma süsteemi installimata.</string>
+    <string name="locale_ui">Teie kohalikus keeles</string>
+    <string name="locale_script">Skriptid kasutavad alati inglise keelt</string>
+    <string name="locale_desc">"'__s__' - kümnend-eraldaja
+'__s__' - tuhanded eraldajad
+'__semicolon__' - rühmaotsingu numbrite eraldaja"</string>
+    <string name="help_unaligned_title">Otsinguta / suur-endian otsing</string>
+    <string name="help_unaligned">"Mõnes rakenduses (näiteks konsoolide emulaatorites) ei pruugi mälu väärtus olla joondatud või esitada suur-endi baitjärjestuses.
+
+Sellist väärtust ei saa leida tavalise otsingu kaudu.
+
+Nende leidmiseks kasutage ametlikku __app_name__ veebisaidilt spetsiaalset skripti:"</string>
+    <string name="help_formula_calculator_title">Valemikalkulaator</string>
+    <string name="help_formula_calculator">"Peaaegu igas numbrite sisestamise väljal saate sisestada matemaatilise valemi, pärast võrdusmärki sisestage näiteks otsinguväljale '= 2 + 2 * 3' ja programm otsib valemi tulemust, mis on '8'.
+Valem on Lua avaldis. Selles saate kasutada kogu saadaolevat Lua võimsust.
+
+Lubatud on kõik aritmeetilised operaatorid Lua 5.3 - liitmine (+), lahutamine (-), korrutamine (*), jagamine (/), jagamine ülejäänud osaga (%), eksponentsiatsioon (^), täisarv jagunemine (//) jne.
+Saadaval on ka bitioperaatorid - JA (&amp;), VÕI (|), Ainult VÕI (binaarne ~), EI (ühtne ~), Tõstuklahv paremale (>>), Nihutamine vasakule (&lt;&lt;). Toimingute järjekorra saab anda sulgudes.
+Olemasolevate toimingute täieliku loetelu leiate Lua juhendist.
+
+See on kasulik, kui teate, kuidas väärtus mängus kodeeritakse. Näiteks võib 29 mängu ühes mängus leida '= 29 ~ 444444'. See võrdub 29 XOR 444444-ga. Videonäidises leiti hind 3888 kuni XOR-i abil 444444-ga, kui '= 444444 ~ 3888'. Pärast seda asendati väärtuseks '= 444444 ~ 1', mis määras hinnaks '1'. Teises mängus on 125 kulda nagu '= 125 * 10'.
+
+Valemikalkulaatoris pole kõik skripti funktsioonid saadaval. Mõni funktsioon pole saadaval. Kui teil pole neid piisavalt - kirjutage skript, valemi kalkulaatori asemel, see on mõeldud ainult lihtsateks arvutusteks. Kättesaadav: osa põhifunktsioonidest, 'bit32', 'tabel', 'string', 'utf8', 'matemaatika', osa 'os' paketist. Paketid 'silumine', 'pakk', 'gg', 'io' pole saadaval.
+
+Kui kirjutate '= 2 + 2 * 3', lisatakse enne valemit märksõna 'tagasi': 'tagasi 2 + 2 * 3'. Kuid kui soovite keerulist valemit, saate selle sõna ise valemis täpsustada.
+Näiteks '= a = 5; b = 7; tagasta a * 4 + b * 8 'täidetakse kui' a = 5; b = 7; tagasta * 4 + b * 8 '
+
+Valemi kalkulaatori tulemuseks on tekstistring. String võib selle sisendvälja jaoks olla ükskõik milline kehtiv string.
+Näiteks võib see olla grupiotsingu või vahemiku otsingu string. '= a = 5; b = 7; tagasi a .. \";\" .. b .. \":: 100\" 'on samaväärne arvuga 5; 7: 100 '.
+
+Valemikalkulaator ei tööta skriptides, seal saate otse Lua-d kasutada.
+Skripti kirjutamisel kirjutatakse valemi arvutamise tulemus faili, mitte valem ise.
+
+Kui valem on vale, saate vormi esitamisel tõrketeate.
+
+Arvutamisel peate arvestama asjaoluga, et arvutused tehakse esimese operandi täpsustatud tüüpi. Kui see on täisarv, siis on tulemus täisarv.
+Näiteks '= 3/2' on '1' ja '= 3,0 / 2' on '1,5'.
+
+Sõltumata valitud lokaadist, töötavad valemid inglise keeles. See tähendab, et koma eraldaja on alati punkt ('.')."</string>
+    <string name="help_faq_32_b">"Kaks käivitamise ikooni. Esimene, tarkvara kiirendusega - \"__app_short_name_sw__\", teine ​​riistvara kiirendusega - \"__app_short_name_hw__\". Nüüd on see alati nii.
+Mõnedel firmadel on ainult üks versioon, mõlemal on tavaline.
+Tarkvara kiirendust on parem kasutada, see töötab vähem sujuvalt, kuid tarbib vähem mälu.
+
+Rakenduse seadetes on võimalik peita üks ikoonidest: \"__hide_icons__\"."</string>
+    <string name="acceleration_help_">"Riist- või tarkvaraliidese kiirendus __app_name__.
+Sõltuvalt mängust ja püsivaprogrammist võivad mõned võimalused põhjustada probleeme.
+Kui mõlemad töötavad, kasutage tarkvara kiirendust, sest see tarbib vähem mälu.
+
+See valik on käivitamise ikoonidest eraldi ja mõjutab ainult __app_name__ liidese kuvamist.
+Käivitamise ikoonid vastutavad ekraani kiirenduse tüübi eest.
+
+Riistvara kiirendus tarbib palju rohkem mälu, kuid see toimib sujuvamalt. Kui teil on vähe RAM, kasutage alati tarkvara kiirendust.
+
+Kui riistvarakiirendus põhjustab vigu, võib __app_name__ minna tarkvara kiirendamisele."</string>
+    <string name="small_list_items">Väikesed nimekirjad</string>
+    <string name="small_list_items_help">Võimaldab teil objektide nimekirjades rohkem teavet kuvada, kuid soovitud elemendile klõpsamine võib olla raskem.</string>
+    <string name="format_asm_opcodes">__s__ opcodes</string>
+    <string name="no_regions">Sobivaid piirkondi ei leitud.</string>
+    <string name="cannot_hide_launcher_icon">"Seda ikooni kasutati praegusele käivitamisele.
+
+Praeguseks käivitamiseks kasutatud ikooni ei saa peita.
+
+Selle ikooni varjamiseks taaskäivitage rakendus teise ikooni abil."</string>
+    <string name="screenshot">Tehke ekraanipilt</string>
+    <string name="screenshot_prompt">"Ikoon peitub __d__ sekundit, nii et saate pildistada.
+
+Pärast seda on ikoon jälle nähtav."</string>
+    <string name="screenshot_action">Ekraan</string>
+    <string name="use_visible_type">Kasutage mälu redaktoris nähtavat andmete tüüpi:</string>
+    <string name="use_visible_type_help">Ärge küsige mälu redaktoris andmetüüpi, kui kuvatakse ainult üks andmetüüp.</string>
+    <string name="wrong_float">Teie kohalikus keeles näeb number \"__s__\" välja nagu \"__s__\". Kui see pole see, mida te vajate - valige algusekraanil teine ​​asukoht (või keel).</string>
+    <string name="wrong_float2">Samuti saate __app_name__ seadete puhul vormindada numbri vormindamise.</string>
+    <string name="number_locale">Vormindamise numbrite asukoht:</string>
+    <string name="fill">Täitke</string>
+    <string name="help_text_search">"
+Teksti otsimiseks peate tavalisel otsingu dialoogis määrama modifikaatorid.
+
+Kõige sagedamini kasutatavad kodeeringud on __utf8__ ja __utf16le__.
+Tavaliselt kasutatakse __utf16le__ ühendit __java__ ja __utf8__ kasutatakse dokumendis __c__.
+
+\u0009__utf16le__ on kahebaidiline kodeering. Iga sümbol kodeeritakse alati kahes baasis, nii et see on esitatud __type_word__ kaudu.
+\u0009__utf8__ - kodeering muutuva baitsuurusega märgi kohta. Esindatud __type_byte__ kaudu.
+\u0009__hex_input__ ja selle variante on alati esindatud __type_byte__ kaudu.
+
+Mäng võib kasutada mis tahes kodeeringuid.
+Kui vajate teatud baitide kogumit - kasutage režiimi __hex_input__.
+
+Olemasolevad eesliited:
+__text_prefixes__
+
+Režiimi \"__hex_mixed__\" puhul saate määrata __utf8__ teksti __apos__ tähemärgi ja __utf16le__ teksti vahel __quot__ tähemärgi vahel.
+
+Näiteks:
+__text_examples__
+
+Eesliite märk peab olema otsingu tekstis esimene märk.
+
+Otsingu tulemus on __type_byte__ järjestus või __type_word__ järjestus __utf16le__ puhul.
+
+Tulemusi saab muuta - vali kõik ja klõpsa \"__edit_selected__\".
+
+Sisestage väärtuse väljale uus väärtus samas vormingus kui otsingu string.
+
+Võite kasutada täitmisnuppe. Klõpsake \"__more__\", kui need pole nähtavad.
+
+Väärtus määratakse igale pidevalt järgmiste elementide rühmale.
+Kui elementide vahel on lõhe, on see uus rühm.
+
+Kui määrate rohkem baiti kui vaja, kasutatakse ainult osa neist.
+Kui määrate vähem kui vaja, täidetakse ülejäänud grupp nulliga.
+
+Teksti asendamisel proovige probleemide vältimiseks täpsustada originaali sama arvu baiti.
+"</string>
+    <string name="fast_freeze">Kiire külmutamine:</string>
+    <string name="help_fast_freeze">"See töötab palju kiiremini kui tavaline külmutamine, kuid mitte kogu mälu puhul.
+
+Kui külmutamine ei toimi, lülitage see valik välja."</string>
+    <string name="debug_disassemble">Lahti võtta</string>
+    <string name="assembled">Edukalt failile monteeritud:</string>
+    <string name="warn_patch_off_prot2">"Kui kasutate __magisk_hide__ - lülitage see enne plaastri paigaldamist välja. Pärast plaastri edukat rakendamist saate selle uuesti sisse lülitada.
+Kui te seda ei tee, ei ole plaaster edukas."</string>
+    <string name="help_games_protection_end">"
+Kuidas peita __app_name__ mängu eest virtuaalses ruumis
+
+\u00091. Installige virtuaalne ruum, mis võimaldab rakenduste peidetud installimist, ilma et neid süsteemi oleks installitud. Näiteks __vspace_hide__.
+\u00092. Installige __app_name__ virtuaalsesse ruumi.
+\u00093. Lülitage režiimis __app_name__ sisse režiim \"__vspace_root__\".
+\u00094. Virtuaalsesse ruumi juurõiguste andmine. Kui te ei saa juurõigusi anda - proovige mõnda muud virtuaalset ruumi, muid juurõigusi, muud püsivara või muutke seadet.
+\u00095. Eemaldage süsteemist __app_name__.
+\u00096. Töötage __app_name__-ga virtuaalsest ruumist.
+
+Otsimise ajal tuvastamise vältimiseks:
+\u0009Valige seadistuses \"__hide_from_game__\" elemendid 2, 3 ja 4.
+
+Tüüpiline lahendus (nõuab juuri, ilma juurita ei õnnestu teil õnnestuda):
+\u00091. Kasutage virtuaalsest ruumist pärit juuri. Lugege sätte \"__vspace_root__\" abi.
+\u00092. Kasutage sätteid \"__hide_from_game__\" punkte 2, 3 ja 4.
+"</string>
+    <string name="force_close_2">Selle vältimiseks tulevikus saate valida \"__data_in_ram__\" väärtuseks \"__no__\".</string>
+    <string name="script_wrote">Skript kirjutas __s__-__d__ faile.</string>
+    <string name="script_exit">Väljapääs</string>
+    <string name="script_interrupted">Skript katkestada.</string>
+    <string name="script_error">skriptivea</string>
+    <string name="script_oom">Mälu täis</string>
+    <string name="script_possible">Tundub püüad täita __s__ kui skripti.</string>
+    <string name="script_web">veebilehe</string>
+    <string name="script_saved_list">Salvestatud nimekirja</string>
+    <string name="speedhack_no_x86">Aga selles mängus ei ole x86 raamatukogud, et äkki see ei toimi.</string>
+    <string name="help_faq_33_q">Tekstisõnumite (röstsaiaga) ekraanile jääda või pimedas ringi on nähtav allosas ekraani __app_name__ töötab. Kuidas seda parandada?</string>
+    <string name="help_faq_33_a">Kasutades kolmanda taseme \"__prevent_unload__\" mõned püsivara põhjustab asjaolu, et tekstisõnumite (röstsaiaga) ekraanile jääda või pimedas ringi on nähtav (tühi sõnum). Kui see juhtub, ei kasuta kolmanda taseme.</string>
+    <string name="invalid_header_1">Kehtetu binaarne skripti kaudu.</string>
+    <string name="unknown_version">Tundmatu versioon.</string>
+    <string name="unknown_format">Tundmatu formaadis.</string>
+    <string name="unknown_endianness">Tundmatu endianness.</string>
+    <string name="unknown_size_s">Tundmatu suurus __s__.</string>
+    <string name="unknown_size_instr">Tundmatu suurus juhendamine.</string>
+    <string name="unknown_size_num">Tundmatu suurus Lua number.</string>
+    <string name="expected_found">Oodatud __s__ kuid leidis __s__.</string>
+    <string name="or">või</string>
+    <string name="invalid_header_2">Käivita skript niikuinii?</string>
+    <string name="invalid_header_3">"Tulevikus versioonid __app_name__, see skript ei saa käivitada.
+Kirjutage sellest, et autor skripti."</string>
+    <string name="skip_system_libs">Otse süsteemi raamatukogud</string>
+    <string name="try_reinstall_x86">"Proovi uuesti mängu x86 raamatukogud?
+
+Mäng ei tööta enam pärast seda. Kui see juhtub, mäng uuesti APK asub __data_app__."</string>
+    <string name="reinstall_started">Taasinstalli algas ...</string>
+    <string name="reinstall_failed">Taasinstalli ebaõnnestus:</string>
+    <string name="reinstall_ended">Taasinstalli lõpetatud.</string>
+    <string name="help_lasm_title">Disassembleerida / kokku skripte</string>
+    <string name="help_lasm">"__app_name__ on sisseehitatud disassembleri / koostajale jaoks Lua skripte.
+
+Saate valida \"__debug_disassemble__\" variant skripti käivitamise aken pärast klõpsates \"__more__\" nuppu.
+
+Saadud __ext_lasm__ faili saab muuta ja valida skript käivitada aknas. Tulemuseks on binaarne __ext_lua__ faili tehtud muudatustega.
+
+Loe skripti API abi rohkem üksikasju.
+"</string>
+    <string name="help_hide_gg_title">Kuidas peita __app_name__ mängust</string>
+    <string name="changed_as_search_result">Muutunud otsingutulemused</string>
+    <string name="changed_not_found">Muutunud teemad ei leitud.</string>
+    <string name="too_far">Need väärtused ei ole võimalik leida läbi rühma otsing, nad on liiga kaugel: __d__ baiti. Maksimaalne kaugus on __d__ baiti.</string>
+    <string name="new_address">Uus aadress:</string>
+    <string name="hide_1_warn">Valisite esimene kirje. Külmutamine väärtused võivad põhjustada tõsiseid viitajaga mängu.</string>
+    <string name="hide_4_warn">Valisite neljas objekt. Mõned funktsioonid ei tööta: __speedhack__, __unrandomizer__, __allocate_page__.</string>
+    <string name="asm_failed">Ei tunnistanud __s__ opcode:</string>
+    <string name="asm_suggestion">Kas mõtlesite: __s__?</string>
+    <string name="copy_opcode">Kopeeri __s__ opcode:</string>
+    <string name="search_nearby">Otsi lähedal</string>
+    <string name="before">enne</string>
+    <string name="after">pärast</string>
+    <string name="distance">kaugus:</string>
+    <string name="nearby">Lähedal:</string>
+    <string name="need_fixer">"Probleem tuvastati käesoleva 64-bitine virtuaalses ruumis.
+
+Et seda parandada:
+
+1. Paigaldage __fixer__ taotluse. (Sellest dialoog, kas käsitsi mööda teed:
+__s__
+).
+
+2. Lisa __fixer__ virtuaalse ruumi.
+
+3. Run __fixer__ virtuaalses ruumis.
+
+4. Eemalda __fixer__.
+
+5. Taaskäivitage __app_name__ virtuaalses ruumis."</string>
+    <string name="limit">Ainult esimene N tulemusi:</string>
+</resources>

@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lang_code">~~~sr~~~</string>
+    <string name="front_text">"__improve_translation_hint__
+
+Тема на русском форуме: http://4pda.ru/forum/index.php?showtopic=259340
+
+Ако имате било каквих питања у вези __app_name__ или га користите, посетите наш форум __forum__"</string>
+    <string name="set_path">Путања за привремену датотеку</string>
+    <string name="number">Број:</string>
+    <string name="type">Тип:</string>
+    <string name="name">Име:</string>
+    <string name="reset">Изаберите процес</string>
+    <string name="set_range">Подесите регионе претраге</string>
+    <string name="search">Сеарцх</string>
+    <string name="save">Сачувај</string>
+    <string name="goto1">Иди на</string>
+    <string name="address">Адреса:</string>
+    <string name="edit_all">Уреди све</string>
+    <string name="filter">Филтер</string>
+    <string name="clear">Ведро</string>
+    <string name="max_show_rec">Прикажи:</string>
+    <string name="equal">Нот цхангед</string>
+    <string name="inequal">Променио се</string>
+    <string name="larger">Повећано</string>
+    <string name="smaller">Смањено</string>
+    <string name="compare_current_last">Како се значење промијенило?</string>
+    <string name="write_region_log">Врите лог ранге</string>
+    <string name="old_version">Стара верзија</string>
+    <string name="found_old_version">Пронађено стару верзију __app_name__. Избриши то?</string>
+    <string name="yes">Да</string>
+    <string name="no">Не</string>
+    <string name="ok">Ок</string>
+    <string name="failed_find_package_name">Није могуће пронаћи име пакета апликација!</string>
+    <string name="path_for_temp_files">Наведите путању до привремене датотеке, на примјер, \"__sdcard__\". Датотека може имати неколико стотина МБ. Ваши тренутни резултати претраживања ће бити изгубљени.</string>
+    <string name="confirm">Потврди</string>
+    <string name="cancel">Откажи</string>
+    <string name="found_new_version">Пронађена нова верзија __s__</string>
+    <string name="daemon_failed">Даемон еррор</string>
+    <string name="failed_run_daemon">Није могуће покренути демон. Нема коријена?</string>
+    <string name="daemon_unexpected_closed">Демон је неочекивано прекинут. Информације:</string>
+    <string name="daemon_exited">Даемон завршен</string>
+    <string name="failed_load_daemon">Није успело учитавање демона</string>
+    <string name="is_device_rooted">Није могуће добити роот приступ.</string>
+    <string name="collect_data_to_region_log">Почело је прикупљање података за дневнике домета ...</string>
+    <string name="log_saved">Дневник сачуван у __s__</string>
+    <string name="failed_save">Није успело сачувати пријаву у __s__</string>
+    <string name="region_log">Ранге Лог</string>
+    <string name="apply">То аппли</string>
+    <string name="error">Грешка</string>
+    <string name="load">Довнлоад</string>
+    <string name="delete_prompt">Брисање одабране ставке?</string>
+    <string name="reset_search">Откривена је грешка. Резултати претраге су избрисани.</string>
+    <string name="unknown_error">Непозната грешка</string>
+    <string name="out_of_memory">Недостатак меморије</string>
+    <string name="bug_detected">Откривена је грешка</string>
+    <string name="disk_full">Диск је пун</string>
+    <string name="io_error">И / О грешка</string>
+    <string name="game_dead">Гаме овер</string>
+    <string name="exit">Одјави се</string>
+    <string name="skip">Игнориши</string>
+    <string name="unhandled_exception">Изузетак. Пошаљите следеће информације девелоперу?</string>
+    <string name="last_run_failed">Последња вожња није успела</string>
+    <string name="thank_you">Хвала вам!</string>
+    <string name="no_application">Није одабрана ниједна апликација.</string>
+    <string name="increments">Пораст:</string>
+    <string name="add_not_replace">Додај у вредност, а не замени</string>
+    <string name="eperm_error">Није могуће повезати се са процесом (PTRACE_ATTACH): Операција није дозвољена</string>
+    <string name="load_list">Довнлоад лист</string>
+    <string name="load_warning">Отпремили сте листу која је сачувана из другог покретања игре. Највјероватније су се све адресе у меморији промијениле, а преузети подаци не одговарају онима који су претходно били спремљени. Саветујемо вам да проверите све.</string>
+    <string name="from">Довршено __d__ од __d__ у фазама</string>
+    <string name="count_fuzzy_equal_run">Број покретања претраживања \"__fuzzy_equal__\":</string>
+    <string name="slow">полако</string>
+    <string name="miui_restart">Морате поново покренути __app_name__ да бисте применили безбедносне поставке.</string>
+    <string name="out_of_memory_error">Нема слободне меморије. Тренутна листа резултата се брише. Наведите нижу вриједност за број приказаних резултата.</string>
+    <string name="loading">Учитавање ...</string>
+    <string name="found_count">Пронадјено: __d__</string>
+    <string name="fuzzy_equal">Вредност се није променила</string>
+    <string name="fuzzy_inequal">Вредност је промењена</string>
+    <string name="fuzzy_larger">Вредност је повећана</string>
+    <string name="fuzzy_smaller">Вриједност је смањена</string>
+    <string name="type_edit_limit">Унесите вредност од __s__ до __s__</string>
+    <string name="number_name">број</string>
+    <string name="step_name">прираст</string>
+    <string name="number_less">Број \"__s__\" је мањи од минималне могуће вредности (__d__) за овај тип.</string>
+    <string name="number_greater">Број \"__s__\" је већи од максималне могуће вредности (__d__) за овај тип.</string>
+    <string name="about">О програму</string>
+    <string name="owner">власника</string>
+    <string name="design">леад десигнер</string>
+    <string name="pm">управљање пројектима</string>
+    <string name="code">леад девелопер</string>
+    <string name="tech">технички консултант</string>
+    <string name="creator">креатор (у пензији)</string>
+    <string name="for_translators">Если вы желаете сделать или делаете перевод данного приложения, вы можете связаться с нами на форуме http://gameguardian.net/forum, чтобы ваш перевод был включен в официальный релиз приложения.</string>
+    <string name="version">Верзија:</string>
+    <string name="developers">Програмери:</string>
+    <string name="select_language">Изаберите језик</string>
+    <string name="exit_confirm">Морате поново покренути __app_name__ да бисте применили промене.</string>
+    <string name="special_thanks">Посебна захвала:</string>
+    <string name="nothing_found">Ништа није пронађено. Покушајте поново да претражите.</string>
+    <string name="try_more_ranges">Такође можете покушати да изаберете више опсега на картици са поставкама.</string>
+    <string name="try_fuzzy_search">Такође можете покушати тражити непознату вриједност.</string>
+    <string name="search_hint">"Да бисте пронашли познату вредност, притисните дугме \"__search_known_value__\".
+Ако је вредност непозната или шифрована, притисните дугме “__search_unknown_value__” да бисте пронашли непознату вредност.
+Да бисте тражили фракционе вредности за цео део, изаберите тип \"__type_auto__\".
+Претраживање група можете користити и као „сепаратор“ са „__semicolon__“."</string>
+    <string name="freeze">Замрзавање:</string>
+    <string name="freeze_normal">ок</string>
+    <string name="freeze_may_increase">може се повећати</string>
+    <string name="freeze_may_decrease">може се смањити</string>
+    <string name="freeze_in_range">у домету</string>
+    <string name="range_end_fail">Крај опсега (\"__s__\") мора бити већи од \"__s__\".</string>
+    <string name="failed_add_window">Додавање прозора није успело</string>
+    <string name="failed_remove_window">Није могуће уклонити прозор</string>
+    <string name="system_service_stopped">Апликација не може нормално радити јер је системска услуга заустављена. Покушајте да поново покренете апликацију или поново покренете уређај.</string>
+    <string name="value_request">Унесите вредност за претрагу</string>
+    <string name="type_request">Изаберите тип података за претрагу</string>
+    <string name="type_change_request">Изаберите тип података који желите да промените</string>
+    <string name="value">Значење</string>
+    <string name="save_as">Сачувај као:</string>
+    <string name="restart">Рестарт</string>
+    <string name="start">Лаунцх</string>
+    <string name="wait_daemon">Ова функција није доступна ако је демон искључен. Сачекајте да демон почне. (Заборавили сте да издате роот права? Или немате корена?)</string>
+    <string name="daemon_fail">Демон не ради</string>
+    <string name="config_icon_text">Икона: транспарент = __d__ %%, хиде - __s__</string>
+    <string name="icon_hide_after">ин __d__ сецондс</string>
+    <string name="icon_hide_never">никада</string>
+    <string name="keyboard">Тастатура:</string>
+    <string name="internal">унутрашњи</string>
+    <string name="external">вањски</string>
+    <string name="failed_copy_text">Копирање текста у клипборд није успело:</string>
+    <string name="copied">Копирано</string>
+    <string name="copy_value">Вредност копирања:</string>
+    <string name="copy_address">Копирај адресу:</string>
+    <string name="goto_address">Идите на адресу:</string>
+    <string name="search_unknown_value">Претраживање непознато (фуззи)</string>
+    <string name="search_known_value">Тражи познате (тачне, тачне)</string>
+    <string name="speedhack_hint">Да бисте променили брзину игре, притисните дугме на плутајућој икони __app_name__.</string>
+    <string name="bad_firmware">Постоје грешке у вашем фирмверу које вас спречавају да користите ову функцију.</string>
+    <string name="language">Лангуаге</string>
+    <string name="acceleration">Убрзање сучеља:</string>
+    <string name="hardware">хардвер</string>
+    <string name="software">софтвер</string>
+    <string name="speedhack">Спеедхацк</string>
+    <string name="data_in_ram">Подаци у РАМ-у:</string>
+    <string name="first_mb">Први __d__ МБ</string>
+    <string name="donate">Да донирам</string>
+    <string name="speeds">спеедс</string>
+    <string name="floating_window_fail">Није могуће приказати плутајући прозор</string>
+    <string name="check">Чек</string>
+    <string name="check_success">Верификација је успешна</string>
+    <string name="enable_draw_perm">Наведите дозволе на следећем екрану.</string>
+    <string name="speedhack_fail">Спеедхацк није подржан за овај процес.</string>
+    <string name="dangerous">опасно</string>
+    <string name="difference">Дифференце</string>
+    <string name="old_value">Старо значење</string>
+    <string name="new_value">Нова вредност</string>
+    <string name="mode_hacking">Вредност је шифрована</string>
+    <string name="union">Претрага групе</string>
+    <string name="speedhack_open">Можете активирати СпеедХацк дугим притиском на плутајућу икону __app_name__.</string>
+    <string name="history">Хистори</string>
+    <string name="history_empty">Прича је празна</string>
+    <string name="allow_suggestions">Дозволите предлоге за унос:</string>
+    <string name="invalid_area">Величина групе мора бити између __d__ и __d__:</string>
+    <string name="union_need_two_numbers">За групно претраживање мора бити најмање два броја.</string>
+    <string name="too_many_union_numbers">Превише бројева, више:</string>
+    <string name="invalid_number">Нетачан број:</string>
+    <string name="input_number">Унесите број</string>
+    <string name="number_out_of_range">Број \"__s__\" је изван домета:</string>
+    <string name="help_floating_icon">"* Плутајућа икона:
+* Кликните да отворите интерфејс.
+* Притисните и држите да бисте приказали или сакрили СпеедХацк панел.
+* Икона се може превући на било које место.
+* Тајмер за транспарентност и скривање се може променити у подешавањима апликације.
+"</string>
+    <string name="help_exact_search">"* Тачна претрага:
+1. Отворите __app_name__.
+2. Кликните на дугме \"__search_known_value__\" на картици \"__search__\".
+3. Унесите вредност из игре коју желите да хакујете.
+4. Изаберите одговарајући тип података или изаберите “__type_auto__” (ако нисте сигурни) и друге параметре (ако је потребно) и притисните дугме “__search__”.
+5. По завршетку операције, резултати претраге ће бити приказани на листи.
+6. Вратите се у игру. Након промене вредности, поново отворите __app_name__.
+7. Потражите нову вриједност.
+8. Ако се пронађе превише резултата, пређите на корак 6.
+9. Ако је остало само неколико резултата, можете покушати да их промените, сачувате или замрзнете.
+"</string>
+    <string name="help_speedhack">"* СпеедХацк:
+* Кликните и задржите плутајућу икону да бисте приказали СпеедХацк панел.
+* Кликните на стрелице са обе стране иконе да бисте променили брзину игре.
+* Притисните и држите индикатор брзине да бисте успорили брзину игре.
+* Кликните и задржите плутајућу икону да бисте сакрили СпеедХацк панел.
+* Листа брзина и коришћени тајмери ​​могу се променити у подешавањима апликације.
+* Ако игра не реагује на улаз или спеедхацк не ради, покушајте користити друге зелене тајмере у поставкама __app_name__.
+* Можете користити \"__time_jump__\" за скок напред у времену. Једноставно изаберите мени на картици за претрагу и изаберите \"__time_jump__.\" Мораћете да одредите број секунди за скок. Број може бити дјеломичан.
+"</string>
+    <string name="help_fuzzy_search">"* Фуззи сеарцх:
+1. Отворите __app_name__.
+2. Кликните на дугме \"__search_unknown_value__\" на картици \"__search__\".
+3. Изаберите одговарајући тип података или изаберите \"__type_auto__\" (ако нисте сигурни) и притисните дугме \"__search__\".
+4. Када је операција завршена, резултати претраге ће бити приказани на листи.
+5. Вратите се у игру. Након што се вредности промене (или се не промене), поново отворите __app_name__.
+6. Притисните дугме \"__search_unknown_value__\" и изаберите опцију која одговара промени вредности.
+7. Ако се пронађе превише резултата, пређите на корак 5. т
+8. Ако је остало само неколико резултата, можете покушати да их промените, сачувате или замрзнете.
+\u0009 
+Точну промену вредности можете одредити притиском на дугме \"__more__\".
+Можете да унесете опсег тачних промена вредности:
+190__tilde__210
+Можете да унесете и да бисте назначили промену изван опсега вредности:
+10__tilde____tilde__4000
+"</string>
+    <string name="help_group_search">"* Претрага групе:
+1. Отворите __app_name__.
+2. Кликните на дугме \"__search_known_value__\" на картици \"__search__\".
+3. Унесите упит за групно претраживање.
+Формат: валуе 1 __semicolon__ валуе 2 __semicolon__ ... __semicolon__ валуе Н __colon__ величина групе
+Можете претраживати истовремено 2-__max_group__ вриједности. Подразумевана величина групе је 512. Величина групе треба да буде између 2 и 65536.
+На пример, ако желите да пронађете 195 и 6543, морате да унесете:
+195 __semicolon__ 6543
+Наравно, можете одредити величину групе (300):
+195 __semicolon__ 6543 __colon__ 300
+Поред тога, можете поставити један или више типова података:
+195__type_dword_short__ __semicolon__ 6543
+То значи да желите да пронађете вредност 195 са типом __type_dword__ и вредношћу 6543 са типом __type_auto__.
+Могући типови података су исти као иу другим начинима претраживања:
+__type_byte_short__ - __type_byte__
+__type_word_short__ - __type_word__
+__type_dword_short__ - __type_dword__
+__type_xor_short__ - __type_xor__
+__type_qword_short__ - __type_qword__
+__type_float_short__ - __type_float__
+__type_double_short__ - __type_double__
+__type_auto_short__ - __type_auto__
+Можете и да напишете број у хексадецималном броју (мало-крајње):
+__hex_example____hex____semicolon__6543
+или у обрнутом хексадецималном (биг-ендиан):
+__hex_example____rhex__ __semicolon__ 6543
+Да бисте унели додатне знакове, користите дугме \"__btn_hex__\" на уграђеној тастатури.
+4. Изаберите одговарајући тип података или “__type_auto__” (ако нисте сигурни) да бисте га користили као подразумевани тип. Друге опције нису важне за ову врсту претраге. Кликните на дугме \"__search__\".
+5. По завршетку операције, резултати претраге ће бити приказани на листи.
+6. Вратите се у игру. Након промене вредности, поново отворите __app_name__.
+7. Поновите претрагу групе са одговарајућим променама.
+8. Ако се пронађе превише резултата, поновите кораке 6 и 7.
+9. Ако је остало само неколико резултата, можете покушати да их промените, сачувате или замрзнете.
+\u0009 
+Ако желите да узмете у обзир редослед вредности - наведите __colon__ двапут.
+Без величине групе:
+195 __semicolon__ 6543 __colon____colon__
+Са величином групе:
+195 __semicolon__ 6543 __colon____colon__ 300
+\u0009 
+Можете претраживати вредности у датом опсегу:
+190__tilde__210 __semicolon__ 6543
+Можете тражити и вриједности изван наведеног распона:
+10__tilde____tilde__4000 __semicolon__ 6543
+"</string>
+    <string name="help_others">"* Остало:
+* Да бисте започели нову претрагу, морате обрисати претходне резултате претраге тако што ћете изабрати “__clear__” на траци са алаткама.
+* Да бисте изабрали другу игру, кликните на икону игре у горњем левом углу.
+* Да бисте паузирали / наставили игру - кликните на дугме испод иконе у горњем левом углу.
+* Ако пређете на игру док је игра паузирана, следећи пут када отворите __app_name__, игра ће се аутоматски паузирати.
+* Све замрзнуте вредности се аутоматски додају у сачувану листу. Можете их управљати на одговарајућој картици.
+* Сви улазни подаци се спремају у листу \"__history__\". Можете га користити кликом на дугме Историја.
+"</string>
+    <string name="help_typical_usage">"* Типични алгоритми употребе:
+
+1) Вредност није шифрована и позната.
+Типичан случај је новац, звезде, кованице, ресурси итд.
+
+Користите прецизну претрагу.
+
+2) Вриједност непозната и / или шифрована.
+Типичан случај непознате вредности су било које скале / шипке. На пример, здравље, мана, нитро итд. Промене су видљиве, али нема бројева.
+Типичан случај за шифроване вриједности је новац, звијезде, кованице, итд., Али при претраживању користећи 1 алгоритам не налази ништа, или мијењање пронађених вриједности не доводи до промјена у игри.
+
+Користите неизразито претраживање.
+
+3) Вредност је шифрована (__mode_hacking__).
+Типичан случај за шифроване вриједности је новац, звијезде, кованице, итд., Али претраживање по алгоритму 1 не даје резултате, или промјена у пронађеним вриједностима не доводи до промјена у игри.
+
+Користите прецизну претрагу, али увек поставите заставицу \"__mode_hacking__\".
+Пронађени резултати могу имати чудне вриједности због енкрипције.
+
+Алгоритам 3 је много бржи од 2, али можда неће радити у неким играма.
+
+4) Вредност није шифрована, позната је и налази се поред других познатих вредности.
+Типичан случај су цене у продавници, карактеристике хероја итд.
+
+Користите претрагу група за све бројеве одједном.
+"</string>
+    <string name="help_hints">"* Савети:
+
+* Не могу све игре да се модификују коришћењем __app_name__. Типична листа примера:
+* Подаци ускладиштени на серверу (сервер-сидед гамес)
+* Игра захтева сталну интернет везу
+* Мултиплаиер са другим играчима
+* Морате изабрати сервер за повезивање на почетку игре.
+* Не можете користити неке ствари без Интернета
+* Игра поново учитава податке са сервера ако нешто промените
+* Приказане вредности се не поклапају увек са начином на који су сачуване. Могу се разликовати. На пример, видимо 34 на екрану, али вредност у меморији је 34000.
+* Ако не можете да промените вредност - покушајте да промените вредности које на њу утичу. На пример, уместо да мењате количину злата, можете променити цену неке ствари и продати је. Или купите са негативном ценом.
+"</string>
+    <string name="help">Помоћ</string>
+    <string name="help_floating_icon_title">Плутајућа икона</string>
+    <string name="help_exact_search_title">Тачна претрага</string>
+    <string name="help_speedhack_title">Спеедхацк</string>
+    <string name="help_group_search_title">Претрага групе</string>
+    <string name="help_others_title">Друго</string>
+    <string name="help_typical_usage_title">Типични алгоритми употребе</string>
+    <string name="help_hints_title">Савети</string>
+    <string name="value_format">Формат вредности</string>
+    <string name="format_hex">Хек приказ (мало-крај)</string>
+    <string name="format_rhex">Обрнути хексадецимални приказ (биг-ендиан)</string>
+    <string name="clear_selection">Обриши избор</string>
+    <string name="invert_selection">Инверт селецтион</string>
+    <string name="select_all">Изабери све</string>
+    <string name="edit_selected">Едит Селецтед</string>
+    <string name="delete_selected">Избриши изабрано</string>
+    <string name="save_selected">Саве Селецтед</string>
+    <string name="nothing_selected">Ништа није изабрано</string>
+    <string name="items_added">Ставке (__d__) су додате на сачувану листу.</string>
+    <string name="no_items_for_editing">Нема ставки за уређивање.</string>
+    <string name="edit_info">Цханге __s__ ас __s__</string>
+    <string name="edit_all_info">Цханге __d__ аддресс ас __s__</string>
+    <string name="autopause">Аутопаузе:</string>
+    <string name="empty_list">"Сачувана листа је празна.
+Ставке можете да додате из листе резултата претраге или из едитора меморије.
+Једноставно изаберите жељене ставке, а затим у менију изаберите \"__save_selected__\".
+Други начин је да започнете уређивање вредности и означите поље \"__save_as__\".
+Поред тога, све замрзнуте вредности се аутоматски додају овде."</string>
+    <string name="empty_save">Сачувана листа је празна. Ништа за спасавање.</string>
+    <string name="revert_selected">Роллбацк селецтед</string>
+    <string name="nothing_to_revert">Ништа за повратак</string>
+    <string name="revert_prompt">Поврати изабране ставке (__d__)?</string>
+    <string name="download">Ова апликација се може преузети са:</string>
+    <string name="format_string">Приказ низа</string>
+    <string name="forgot_h">Заборавили сте да додате \"__hex__\" на крају?</string>
+    <string name="time_jump">Тиме јумп</string>
+    <string name="time_jump_hint">Унесите број секунди за скок унапред:</string>
+    <string name="hide_from_game">Сакриј __app_name__ из игре:</string>
+    <string name="last_stats">Статистика задње претраге</string>
+    <string name="memory_access">Приступ меморији:</string>
+    <string name="normal">Нормално</string>
+    <string name="extended">Напредно</string>
+    <string name="experimental">Експериментално</string>
+    <string name="installing">__app_name__ извршава реинсталацију себе са насумичним именом како би искључио детекцију играма. Молимо сачекајте.</string>
+    <string name="failed_install">Није могуће инсталирати апликацију. Понови се?</string>
+    <string name="failed_uninstall">Није могуће избрисати апликацију. Понови се?</string>
+    <string name="download_it">Довнлоад</string>
+    <string name="more">Још</string>
+    <string name="less">Мање</string>
+    <string name="no_space">На уређају нема преосталог простора</string>
+    <string name="install_cancel_prompt">__app_name__ се може детектовати ако није инсталиран. Да ли сте сигурни да желите да откажете инсталацију?</string>
+    <string name="intercept">пресретање</string>
+    <string name="need_restart">Циљна апликација се мора поново покренути да би применила извршене измене.</string>
+    <string name="must_be_root">"Для работы этой программы ваше устройство должно иметь root.
+\u0009\u0009
+__app_name__ может работать в ограниченном режиме без root, через виртуальную среду. Например, через __vspace_list__ и многие другие.
+Прочтите справку для получения более подробной информации.
+
+Как получить root на любое устройство: http://www.xda-developers.com/root/"</string>
+    <string name="skip_">Скип</string>
+    <string name="indent_for_the_status_bar">УИ индент са врха екрана:</string>
+    <string name="start_collecting_data">Почело је прикупљање података</string>
+    <string name="data_collecting_in_progress">Подаци се прикупљају.</string>
+    <string name="copy">Копирај</string>
+    <string name="show_logcat">Схов логсат</string>
+    <string name="path_must_be">Путања мора садржати најмање 2 знака и започети са \"/\".</string>
+    <string name="fix_it">То фик</string>
+    <string name="change_log">Промена дневника</string>
+    <string name="used_only_first">Користе се само први __d__ елементи.</string>
+    <string name="need_select_more">Морате одабрати __d__ или више ставки.</string>
+    <string name="offset">Помак:</string>
+    <string name="result">Резултат:</string>
+    <string name="copy_hex_value">Копирај хексадецималну вредност:</string>
+    <string name="goto_pointer">Иди на показивач:</string>
+    <string name="offset_calculator">Оффсет цалцулатор</string>
+    <string name="fill_toolbar">Трака са алаткама за пуњење:</string>
+    <string name="from_left">Са лева на десно</string>
+    <string name="from_center">Из центра</string>
+    <string name="from_right">Десно на лево</string>
+    <string name="unit_years_short">године</string>
+    <string name="unit_days_short">д.</string>
+    <string name="unit_hours_short">х</string>
+    <string name="unit_minutes_short">мин</string>
+    <string name="unit_seconds_short">секунди</string>
+    <string name="speed_info">__s__ у реалном времену = __s__ у времену играња</string>
+    <string name="search_helper">Помоћник за претрагу:</string>
+    <string name="off">Офф</string>
+    <string name="go_to_game">Вратите се у игру ако је пронађено много вриједности</string>
+    <string name="go_to_game_and_restore">Вратите се у игру ако се пронађу многе вредности и вратите режим претраге на следећем отварању</string>
+    <string name="nothing">Ништа</string>
+    <string name="sort">Сорт</string>
+    <string name="sort_and_remove_duplicates">Сортирајте и избришите поновке</string>
+    <string name="help_basics_title">Опште информације</string>
+    <string name="help_basics">"Када покренете апликацију притиском на дугме \"__start__\", на екрану ће се појавити плутајући симбол. Можете га превући на било које место.
+Кратким притиском на икону отвориће се главни интерфејс апликације, дугим притиском на панел ће се приказати промена брзине игре.
+
+На главном екрану можете да видите:
+* У горњем левом углу - икона игре. Ако кликнете на њега, можете одабрати другу игру.
+* У центру се налазе ознаке за навигацију. Кликом на жељену картицу приказује се одговарајућа картица.
+\u0009
+Укупно, постоје 4 картице: подешавања, претрага, сачувана листа и уређивач меморије.
+* У горњем десном углу интерфејса налази се дугме за затварање. Кликните на њега и интерфејс ће бити скривен, а на екрану ће се појавити плутајућа икона.
+* На дну екрана је статусна трака и икона ока. Ако притиснете и држите прст на икони ока, интерфејс постаје транспарентан све док не отпустите прст.
+* Остатак садржаја на екрану зависи од картице на којој се налазите.
+
+На свакој картици, осим картице са поставкама, налази се дугме менија које садржи листу могућих радњи. У њему ћете наћи главне акције за ову картицу.
+
+Картица поставки садржи различите поставке, помоћ, као и информације о апликацији и дугмету за излаз.
+
+Картица Претраживање садржи:
+* Дугме за паузу, име изабране игре, број пронађених резултата и дугме за ажурирање листе резултата.
+* Испод се налази панел са иконама пречица и дугметом менија. Све иконе су дуплиране у менију, тако да ако не знате значење иконе, увек можете да је погледате кликом на дугме менија (десно).
+* Испод је листа резултата претраге.
+
+Картица са меморисаним листама садржи:
+* Дугме за паузу, име изабране апликације, тастер менија и дугме за ажурирање листе.
+* Испод је листа сачуваних вредности.
+
+Картица уређивача меморије је слична претходној, само овде, уместо листе сачуваних вредности, приказује се садржај меморије.
+
+У све три листе (резултати претраге, сачуване вредности и уређивач меморије) можете дугим кликом на ставку приказати контекстни мени."</string>
+    <string name="daemon_killed">"Демон је убијен нечим.
+
+По правилу, то може бити:
+1. Било које убилачке апликације (убице) или оптимизатори меморије. Морате да онемогућите све убице апликација или да додате __app_name__ у белу листу у њиховим поставкама.
+2. __daemon_killed_oom__
+3. Меморијска картица је демонтирана, док је __app_name__ сачувао привремене датотеке на њему. Да бисте спречили ово, наведите другу путању до привремених датотека. На пример, у интерној меморији."</string>
+    <string name="bad_settings">Лоше поставке</string>
+    <string name="freeze_lags">Употреба замрзнутих вредности заједно са __hide_from_game__ може изазвати заостајање у игри.</string>
+    <string name="improve_translation">Овај превод је направио аутоматски преводилац. Можете га побољшати користећи наш колективни превод.</string>
+    <string name="freeze_interval">Интервал замрзавање:</string>
+    <string name="saved_list_update_interval">Интервал ажурирања за сачувану листу:</string>
+    <string name="milliseconds_short">мс</string>
+    <string name="disable_floating_windows">Онемогућите плутајуће прозоре и поново покрените апликацију</string>
+    <string name="enable_floating_windows">Омогућите плутајуће прозоре и поново покрените апликацију</string>
+    <string name="too_many">Превише</string>
+    <string name="help_range_search_title">Претраживање опсега</string>
+    <string name="help_range_search">"* Распон претраге:
+1. Отворите __app_name__.
+2. Кликните на дугме \"__search_known_value__\" на картици \"__search__\".
+3. Унесите границе опсега претраживања тако што ћете их поделити на \"__tilde__\". На пример, да бисте потражили вредности од 100 до 150, унесите:
+100__tilde__150
+Да бисте извршили претрагу ван опсега, можете двапут кликнути на симбол \"__tilde__\":
+100__tilde____tilde__150
+Осим тога, можете одабрати знак “__not_equal__” и означити симбол “__tilde__” једном.
+Да бисте унели додатне знакове, користите дугме \"__btn_hex__\" на уграђеној тастатури.
+4. Изаберите одговарајући тип података или изаберите “__type_auto__” (ако нисте сигурни) и друге параметре (ако је потребно) и притисните дугме “__search__”.
+5. По завршетку операције, резултати претраге ће бити приказани на листи.
+6. Вратите се у игру. Након што се вредност промени, поново отворите __app_name__.
+7. Поновите тражење за распон вриједности са одговарајућим промјенама.
+8. Ако се пронађе превише резултата, поновите кораке 6 и 7.
+9. Ако је остало само неколико резултата, можете покушати да их промените, сачувате или замрзнете.
+
+Границе опсега су укључене у резултате претраге. Можете одабрати врсту претраге \"__not_equal__\" да бисте пронашли све вредности изван опсега.
+У овом начину претраживања све вриједности се сматрају потписаним.
+"</string>
+    <string name="does_not_support">“__s__” не подржава “__s__”.</string>
+    <string name="range_bounds_diff_types">Границе опсега морају бити истог типа.</string>
+    <string name="examples">Примери</string>
+    <string name="rtfm">Прочитајте помоћ за више детаља.</string>
+    <string name="icons_size">Величина икона:</string>
+    <string name="revert_and_remove">Поништи и избриши</string>
+    <string name="remove">Обриши</string>
+    <string name="ordered_group_search">Наређено групно претраживање</string>
+    <string name="load_items">Итемс</string>
+    <string name="load_values">Меанингс</string>
+    <string name="load_freeze">Фрост</string>
+    <string name="video_tutorials">Видео туторијали и водичи како хаковати</string>
+    <string name="make_copy">Направите копију</string>
+    <string name="video">Видео</string>
+    <string name="ordered">Наређено</string>
+    <string name="toolbars">Тоолбарс</string>
+    <string name="saved_list">Сачуване листе</string>
+    <string name="memory_editor">Уредник меморије</string>
+    <string name="restart_game">Поново покрените игру</string>
+    <string name="refine">Дропоут</string>
+    <string name="internal_storage">Интерна меморија</string>
+    <string name="external_storage">Ектернал стораге</string>
+    <string name="new_search">Нев сеарцх</string>
+    <string name="load_saved_list">Учитајте сачувану листу из датотеке</string>
+    <string name="save_saved_list">Сачувај сачувану листу у датотеку</string>
+    <string name="append">За додавање</string>
+    <string name="xor_key">КСОР кључ:</string>
+    <string name="only_memory">Само унутар меморијског опсега:</string>
+    <string name="dump_memory">Мемори думп</string>
+    <string name="path">Путања:</string>
+    <string name="dump_ended">Думп цомплете</string>
+    <string name="dump_failed">Думп еррор</string>
+    <string name="eperm_error_defend">Није могуће повезати се са процесом (PTRACE_ATTACH): игра је заштићена</string>
+    <string name="reset_on_exit">Враћање на излаз:</string>
+    <string name="kill_game">Килл гаме</string>
+    <string name="kill_game_info">Обвезни прекид поступка не даје му могућност да заврши посао чисто и може довести до губитка података или нестабилности система.</string>
+    <string name="continue_ask">Наставите?</string>
+    <string name="copy_memory">Копирај меморију</string>
+    <string name="copy_from">Копирај од:</string>
+    <string name="paste_to">Залијепи у:</string>
+    <string name="count_bytes">Број бајтова:</string>
+    <string name="copy_ended">Меморија је комплетна</string>
+    <string name="copy_failed">Цопи Мемори Еррор</string>
+    <string name="help_encrypted_search_title">Потражи шифроване вредности</string>
+    <string name="help_encrypted_search">"* Тражи шифроване вредности:
+1. Отворите __app_name__.
+2. Кликните на дугме \"__search_known_value__\" на картици \"__search__\".
+3. Унесите број који се приказује у игри.
+4. Изаберите одговарајући тип података или изаберите “__type_auto__” (ако нисте сигурни) и друге параметре (ако је потребно), означите “__mode_hacking__” и притисните дугме “__search__”.
+5. По завршетку операције, резултати претраге ће бити приказани на листи.
+6. Вратите се у игру. Након што се вредност промени, поново отворите __app_name__.
+7. Потражите нову вриједност. Потврдите избор у пољу за потврду \"__mode_hacking__\".
+8. Ако се пронађе превише резултата, пређите на корак 6.
+9. Ако је остало само неколико резултата, можете покушати да их промените, сачувате или замрзнете.
+"</string>
+    <string name="help_faq_title">Често постављана питања</string>
+    <string name="help_faq_1_q">Зашто не могу да унесем вредност већу од 99 или 60,000?</string>
+    <string name="help_faq_1_a">Пронашли сте вредност __type_byte__ или __type_word__. Потражите __type_dword__ да бисте унели веће вредности.</string>
+    <string name="help_faq_2_q">Како тражити фракциониране (__type_float__) вриједности, осим децималних мјеста?</string>
+    <string name="help_faq_2_a">Користите тип података \"__type_auto__\" или опсег претраживања. На пример, за 11.345 можете пронаћи “10__tilde__12”.</string>
+    <string name="help_faq_3_q">Пронашао сам вредност и променио је, али у игри ова промена није учинила ништа. Покушавам да га искористим, али све се враћа. Шта радим погрешно?</string>
+    <string name="help_faq_3_a">"У неким играма, вредности су заштићене или шифроване. Пре приказивања вредност се декодира у другу променљиву.
+Пошто се ова вредност користи само за приказ, она не утиче на механике игре. Да бисте пронашли стварну вредност, а не приказану вредност, користите претрагу за шифровану вредност или фуззи претраживање.
+Понекад се вредност чува на серверу и синхронизује сваки пут. У овом случају, не може бити хакиран. Ако игра не ради без Интернета, а претходне методе нису помогле - највероватније је."</string>
+    <string name="help_faq_4_q">Не проналази вриједност у игри Кс. Или је проналази, али када промијените ништа се не догоди. Или га проналази, али након промене, игра се руши. Како схватити у чему је проблем у заштити игре или у __app_name__?</string>
+    <string name="help_faq_4_a">"Требало би да узмете једноставан програм који је гарантован да не буде заштићен и покушајте да га хакујете. Више волим да користим Хилл Цлимб Рацинг. Игра је једноставна, јасна и не садржи никакву заштиту. Хаковање новца можете проверити као директну претрагу по количини и нејасну потрагу за променом.
+Ако хаковање на овој једноставној игри функционише, онда је поента у тој игри Кс коју сте покушали да хакујете. Ако не, онда је проблем __app_name__.
+Постоји још једноставнија опција: Додирните Цоунтер. Инсталирај. Покрени га. Покушајте да разбијете број кликова приказаних на екрану. Требало би да буде врло лако. Ако није, проблем је у __app_name__ или његовим поставкама.
+Покушајте да користите другу верзију __app_name__, покушајте да потражите опис грешке примљене на форуму у одговарајућој теми или на Интернету. На крају можете поставити питања на форуму."</string>
+    <string name="help_faq_5_q">Како тражити вријеме?</string>
+    <string name="help_faq_5_a">"- Покушајте претраживати као број дана, сати, минута или секунди. Тип података може бити __type_byte__, __type_word__, __type_dword__ или __type_qword__. Можете користити и тип __type_auto__.
+- Покушајте да потражите број милли или наносекунди. Тип података: __type_dword__ или __type_qword__.
+- Покушајте да претражите као датум завршетка временске ознаке. Тип - __type_dword__. Сматра се као разлика између тренутне временске ознаке и спремљене. Претражујте кроз претраживање опсега.
+На пример, ако се сними 30 дана, онда тражите 30 +/- 1 дан од тренутне временске ознаке за уник. Тренутна УНИКС временска ознака се може лако прегледати на Интернету."</string>
+    <string name="help_faq_6_q">Да ли је могуће хакирати онлине игре?</string>
+    <string name="help_faq_6_a">Могуће је сломити податке похрањене на клијенту. Све то не може бити хаковано на серверу. Различите игре могу имати различите начине. Чак и унутар једне игре, неки подаци могу бити на серверу, а неки - не.</string>
+    <string name="help_faq_7_q">Где ради спеедхацк?</string>
+    <string name="help_faq_7_a">"Спеедхацк можда неће радити на к86 уређајима / емулаторима за игре које немају к86 библиотеке.
+Такође, за АРТ, спеедхацк не ради са Јава тимерима. Ако их игра користи и имате АРТ (обично Андроид 5 и више), онда спеедхацк неће радити."</string>
+    <string name="help_faq_8_q">__app_name__ као цјелина ради за мене, али у неким играма добијам грешку PTRACE_ATTACH. Зашто и што с њом?</string>
+    <string name="help_faq_8_a">Ова игра је опремљена дебуггинг заштитом СецНео типа заштите. __app_name__ не може заобићи ову заштиту. Кроз њега не можете хакирати ову игру.</string>
+    <string name="help_faq_9_q">Зашто апликација има тако чудно име пакета? Зашто апликација није ажурирана, али сваки пут када се инсталира одвојено? Зашто свака верзија има другачије име пакета?</string>
+    <string name="help_faq_9_a">Да бисте спречили откривање анти-варања име пакета.</string>
+    <string name="help_faq_10_q">У неким играма, када се брзина промени, престају да реагују на кликове. Да ли је ово игра одбране или софтверска грешка?</string>
+    <string name="help_faq_10_a">То значи да ваш спеедхацк пресреће тајмере улазног реда и умре. Потребно је изабрати зелене крпеље у листи тајмера (у поставкама __app_name__) да би се спречило да се то деси.</string>
+    <string name="help_faq_11_q">Зашто се појављује грешка када се групно претраживање раздваја зарезима?</string>
+    <string name="help_faq_11_a">Зато што је сепаратор бројева тачка и зарез (\"__semicolon__\").</string>
+    <string name="help_faq_12_q">Како вршити више претраживања истовремено?</string>
+    <string name="help_faq_12_a">Тренутно, апликација не подржава ову функцију, али можете инсталирати апликацију неколико пута и покренути копије заједно ако има довољно простора на диску и меморије за то.</string>
+    <string name="help_faq_13_q">Да ли треба да ажурирам апликацију ако у променама нема ничег значајног?</string>
+    <string name="help_faq_13_a">Пожељно је. Подршка је обезбеђена само за најновију верзију.</string>
+    <string name="help_faq_14_q">Шта значе симболи “!” И “#” пре имена процеса?</string>
+    <string name="help_faq_14_a">"То су ознаке за праћене процесе.
+\"#\" - пре процеса значи да га прати неки други процес.
+“!” Значи прије процеса тај процес се прати неким другим процесом.
+Трагирање је типично за отклањање грешака или хаковање. Користи се иу неким одбранама. Обично је процес са знаком \"#\" заштићени процес."</string>
+    <string name="help_faq_15_q">Зашто, након стандардне инсталације, апликација изводи и своју инсталацију, тражећи роот права?</string>
+    <string name="help_faq_15_a">__app_name__ се поново инсталира са случајним подацима да би се спречило њихово откривање помоћу анти-цхеата. За тиху инсталацију и уклањање потребна су основна права. Не можете их издати. У овом случају, морат ћете ручно одговорити на све системске захтјеве за инсталирање апликација.</string>
+    <string name="help_faq_16_q">Шта је __pkg__? Је ли то тројанац или вирус? Да ли је безбедно дати роот приступ овој апликацији?</string>
+    <string name="help_faq_16_a">Ово је име основног пакета __app_name__. Безбедно је издати роот ако се __app_name__ преузме из поузданих извора.</string>
+    <string name="help_faq_17_q">Зашто __app_name__ на листи инсталираних апликација има име као насумични скуп знакова? Зашто овај скуп знакова захтева роот приступ? Зашто када покренем __app_name__, каже ли се да роот није предвиђен за __app_name__, већ за неку врсту абракадабре?</string>
+    <string name="help_faq_17_a">Зато што се __app_name__ користи за скривање од анти-цхеат детекције.</string>
+    <string name="help_faq_18_q">Зашто је најновија верзија __app_name__ понекад откривена као анти-цхеат, а понекад не?</string>
+    <string name="help_faq_18_a">Зато што __app_name__ користи различите приступе како би се сакрио од детекције анти-цхеата. Ово укључује име произвољног пакета и апликацију. Свака инсталација ће бити различита. Покушајте да поново инсталирате __app_name__ да бисте их променили. Можда ће овај анти-цхеат престати да открива __app_name__.</string>
+    <string name="help_faq_19_q">Зашто моја игра није на листи апликација?</string>
+    <string name="help_faq_19_a">Зато што је то списак покренутих апликација и ваша апликација се не покреће. Покрените га и изаберите је на __app_name__.</string>
+    <string name="help_faq_20_q">Зашто Јава апликације не реагују на СпеедХацк на Андроид 5 и новијим?</string>
+    <string name="help_faq_20_a">Зато што је спеедхацк дизајниран за игре с изворним библиотекама. Ваша пријава није. Пошто се, почевши са Андроидом 5, користи АРТ, а не Далвик, то онемогућава пресретање Јава тимера. Ништа се не може урадити. У будућности ситуација се неће променити.</string>
+    <string name="help_faq_21_q">Користио сам још један алат за убрзање / хаковање на Андроиду 4, и то је функционисало. Сада сам ставио __app_name__ на Андроид 5 и изнад, али ове методе не раде. Зашто?</string>
+    <string name="help_faq_21_a">"Зато што су се многе ствари промениле, и ваша услужност једноставно не би функционисала. Не забављајте се са илузијама да је ово __app_name__ тако лоше, али ако је то било, онда ох! Не постоји таква ствар.
+Да бисте ово проверили, довољно је да ставите __app_name__ на Андроид 4 и поновите исте кораке као у овом услужном програму. Као резултат тога, успећете. Али то не значи да ће исте методе радити на Андроид 5 и новијим верзијама.
+Ова чињеница је потврђена експериментално, више пута."</string>
+    <string name="help_faq_22_q">Гледам видео примере / сцреенсхотове и постоје други подаци у уређивачу меморије. Зашто?</string>
+    <string name="help_faq_22_a">Због тога што је у видео / сцреенсхотовима изабран други излазни формат. У уређивачу меморије притисните мени - изаберите \"__value_format__\" и подесите излаз како вам је потребно.</string>
+    <string name="help_faq_23_q">Када замрзнете вредност, игра почиње да успорава или заостаје. Зашто?</string>
+    <string name="help_faq_23_a">Зато што је опција \"__hide_from_game__\" омогућена у поставкама __app_name__. Унплуг.</string>
+    <string name="help_faq_24_q">Како онемогућити провјеру нових верзија приликом покретања апликације?</string>
+    <string name="help_faq_24_a">Не</string>
+    <string name="help_faq_25_q">Како вратити време уназад у апликацији? Да ли је могуће направити скок времена, а не напријед, али унатраг?</string>
+    <string name="help_faq_25_a">Не То је немогуће. Време се мора увек повећавати, иначе игра може да лети. Међутим, у новијим верзијама додали смо могућност негативног временског скока. Резултат може бити замрзавање игре или губитак података. Упозорили смо.</string>
+    <string name="help_faq_26_q">Поставио сам да сакријем икону и она је нестала. Како га вратити?</string>
+    <string name="help_faq_26_a">Икона постаје прозирна, али и даље можете кликнути на њу. Кликните где је, а затим промените поставку преко интерфејса.</string>
+    <string name="help_faq_27_q">Како тражити вриједност ако је приказана у игри са заокруживањем? На пример, 1.85М.</string>
+    <string name="help_faq_27_a">Претражујте по опсегу претраживања. Границе опсега зависе од правила заокруживања. На пример, “1845000__tilde__1854999” за стандардно заокруживање.</string>
+    <string name="help_faq_28_q">Како пронаћи процентуалну вриједност? На пример, 123__percent__.</string>
+    <string name="help_faq_28_a">То зависи од имплементације. За сваку игру, све може бити другачије. На пример, 123__percent__. То може бити __type_float__ или __type_double__ са било којом вредношћу. На пример, 1.23 или 123.0. Или могу бити целобројни типови: __type_byte__, __type_word__, __type_dword__. На пример, 123 или 12300. Приликом излаза, може се поделити на број. 100 или 345 или нешто друго. За сваку игру, све може бити другачије. Можете испробати најочигледније случајеве. За 123__percent__ може бити 1.23 или 123. Тип - __type_auto__. Ако имате среће, ово може бити оно што вам је потребно.</string>
+    <string name="help_faq_29_q">Шта ако игра открије __app_name__?</string>
+    <string name="help_faq_29_a">"Покушајте следеће (сам или у било којој комбинацији):
+- Укључи опције \"__hide_from_game__\". Обично довољно 2, 3 и 4 поена.
+- не отказали поновну инсталацију __app_name__ са случајним именом. Изводи се када почнете да се __app_name__ виртуелне просторе.
+- Користи КСПриваци или сличан утилити. Како би изгледало на Интернету.
+- Ако имате роот приступ, користе корен у виртуелном простору са испирањем моунт апликације. Прочитајте више у мрежи помоћ у износу од \"__vspace_root__\"."</string>
+    <string name="work_without_selinux">Пређите на рад без __selinux__ и поново покрените апликацију.</string>
+    <string name="work_with_selinux">Пређите на рад са __selinux__ и поново покрените апликацију.</string>
+    <string name="file">Филе:</string>
+    <string name="file_not_found">Датотека није пронађена:</string>
+    <string name="export_selected">Извези извоз</string>
+    <string name="failed_list_dir">Није могуће прочитати листу датотека.</string>
+    <string name="change_float_type">Изаберите врсту плутајућих прозора</string>
+    <string name="reset_float_type">Поништите тип плутајућег прозора</string>
+    <string name="mask">Маска:</string>
+    <string name="mask_request">Унесите адресу претраге</string>
+    <string name="help_mask_search_title">Претраживање адресе (по маски)</string>
+    <string name="help_mask_search">"* Претраживање по адреси (по маски):
+Можете претраживати или филтрирати по адреси користећи маску.
+\u0009
+Типичан пример је претрага адреса које завршавају са познатом вредношћу. На пример, на \"12Е\".
+
+Параметри претраге су адреса и маска.
+Можете користити замјенске знакове у адреси (\"__question__\"). Овај симбол значи да може бити било који знак од “0” до “Ф”.
+Додатна маска се формира из адресе, тако да су водеће нуле важне. Дакле, потрага за „0120“ и потрага за „120“ нису иста ствар.
+У првом случају ће се наћи: \"00010120\", \"00020120\", \"00030120\" и тако даље. Док је у другом: \"00001120\", \"00002120\", \"00003120\" и тако даље.
+
+Можете тражити и једнакост и неједнакост означену маском. Друга опција може бити корисна за уклањање непотребних вриједности.
+
+Адреса и маска се уносе у хексадецималном и без слова \"__hex__\" на крају.
+Маска примљена од адресе сијече се с маском коју сте унијели. Ово је резултирајућа маска за претраживање.
+
+Следећи примери су еквивалентни, јер резултујућа маска има исту вредност - \"ФФ0\"
+__mask_example__
+"</string>
+    <string name="use_sound_effects">Користи звучне ефекте:</string>
+    <string name="from_range">Од:</string>
+    <string name="to_range">Пре:</string>
+    <string name="resultant_mask">Резултујућа маска:</string>
+    <string name="show_time_jump_panel">Прикажи панел за скок у времену:</string>
+    <string name="use_notification">Користи обавештење:</string>
+    <string name="show_gg">Показать __app_name__</string>
+    <string name="hide_gg">Сакриј __app_name__</string>
+    <string name="time_remaining">Преостало време:</string>
+    <string name="help_fill_title">Попуњавање (увећање) вредности</string>
+    <string name="help_fill">"* Попуњавање (повећање) вредности:
+Често се дешава да се нађе превише вредности и не можете их променити из игре.
+У том случају долази до спашавања.
+
+Типичан пример коришћења је тражење цене ставке, након чега следи замена негативном.
+
+1. Изаберите жељене ставке.
+2. Изаберите \"__edit_selected__\".
+3. Притисните дугме \"__more__\" да бисте приказали поље \"__increments__\" ако ово поље није присутно.
+4. У поље \"__increments__\" унесите корак инкремента. Обично је 1. И притисните \"__yes__\".
+5. Одабране ставке ће примити нове вриједности.
+6. Идите на игру и погледајте како се променила жељена вредност, крећући се по екранима.
+7. Ако се вредност није променила, онда жељена ставка није била међу њима. Враћајући се на __app_name__ и користећи ставку \"__delete_selected__\" -> \"__revert_and_remove__\", избришите изабране елементе, враћајући им претходну вредност. Сада можете испробати све од почетка до других елемената, ако их има.
+8. Ако се вредност променила, онда је жељена присутна међу изабраним елементима. Запамтите нову вриједност и вратите се на __app_name__.
+9. У листи изабраних ставки потражите жељену вредност. Са њим уклоните избор. Све остале вредности, користећи ставку \"__delete_selected__\" -> \"__revert_and_remove__\", бришу, враћају им претходну вредност.
+10. Промијените преостали дио према потреби.
+
+Типичне грешке - брисање без повраћаја. После тога, игра може да лети.
+
+Ако нађете много вредности, покушајте да урадите аутоматско попуњавање у малим деловима да бисте избегли падове.
+"</string>
+    <string name="help_hint_1">* Ако увек пронађете жељене вредности у истом региону (слова на крају ставки на листи резултата), можете изабрати само ове регионе за брже претраживање.</string>
+    <string name="help_faq_30_q">__app_name__ претражује вриједности врло споро и дуго времена у Андроид емулатору на ПЦ-у.</string>
+    <string name="help_faq_30_a">"Највјероватније сте онемогућили виртуализацију у БИОС-у рачунара. Укључите га.
+__app_name__ ради унутар емулатора, тако да његова брзина зависи од брзине емулатора.
+Ако је омогућена виртуализација, али је брзина још увек ниска, проверите подешавања вашег емулатора или користите други емулатор.
+Можете користити и другу алатку - ЦхеатЕнгине за ПЦ - она ​​ће претраживати брже и дати вам многе могућности које нису и никада неће бити у __app_name__."</string>
+    <string name="help_speed_up_title">Како убрзати претрагу</string>
+    <string name="help_speed_up">"* Како убрзати претрагу:
+0. Ако користите Андроид емулатор на ПЦ-у (БлуеСтацкс, Дроид4Кс, Анди, НОКС, Мему, АМИДуОС, Виндрои, АВД, Генимотион, Коплаиер, Леапдроид, итд.), Побрините се да виртуализација (Виртуализација, ВТ технологија, Вандерпоол технологија) Технологија виртуализације, ВТк, ВТ-д, ВМКС, виртуална технологија, Интел-ВТ, АМД-В, СВМ, ИОММУ) су укључени у БИОС рачунара.
+1. Ако имате много РАМ-а, можете тамо похранити податке. То увелико убрзава претрагу. Подесите параметар \"__data_in_ram__\" на \"__yes__\". У Андроид емулатору на ПЦ-у, то може успорити претрагу.
+2. Ако имате мало РАМ-а, подаци ће бити сачувани на меморијској картици. Користите меморијску картицу са високим брзинама писања и читања.
+3. Такође можете да одредите складиште података у интерној меморији уређаја ако је брже од меморијске картице. Подесите параметар \"__set_path__\" на жељену путању.
+4. Када претражујете, изаберите само жељене регионе. Избегавајте споре (\"__slow__\") и опасне (\"__dangerous__\") регионе.
+5. Можете и да одредите границе меморијског опсега за тражење, ако их знате. Кликните на дугме \"__more__\" у дијалогу за претрагу и унесите ограничења.
+6. Тражите само жељене типове података. Тип података \"__type_auto__\" је спор.
+7. Онемогућите све могуће опције \"__hide_from_game__\".
+8. Покушајте да користите “__experimental__” или “__extended__” у “__memory_access__”. Ови параметри могу довести до нестабилног рада.
+"</string>
+    <string name="help_faq_31_q">Након неког времена, икона __app_name__ нестаје.</string>
+    <string name="help_faq_31_a">"Покушајте да кликнете на место где је икона била. Ако се отвори интерфејс __app_name__, икона је сакривена у поставкама, или ваш фирмвер има грешке са приказаном иконом.
+Ако се интерфејс не отвори, то значи да је __app_name__ извађен из меморије.
+Могући разлози:
+1. Уређај нема довољно РАМ-а - __app_name__ је убијен од стране система. Покушајте користити мање РАМ-а. У поставкама __app_name__, не специфицирајте складиштење података у РАМ-у, немојте инсталирати велики број приказаних резултата, извадите \"додатне\" апликације из РАМ-а, користите \"лаке\" аналогије апликација које се не могу истоварити (на примјер, лансер). У посебно лошим случајевима, поново покрените уређај пре покретања __app_name__ и игре. Скоро све фирмваре-а увијек има цурење меморије. Више времена након поновног покретања - мање доступне РАМ-а.
+2. Имате убилачке процесе који убијају __app_name__.
+Онемогућите убице или додајте __app_name__ њиховим изузецима.
+Убице су све врсте \"оптимизатора\" и \"побољшивача\" РАМ-а.
+Генерално, погледајте опис софтвера, ако не знате шта је убица или не.
+
+За ФлиМе: __app_name__ се из неког разлога искрцава након неколико минута рада - морате омогућити рад у позадини за __app_name__ и ваш роот манагер (обично СуперСу).
+
+Такођер можете омогућити \"__use_notification__\" у поставкама __app_name__. То понекад спречава затварање __app_name__."</string>
+    <string name="quick_start_title">Водич за брзи почетак</string>
+    <string name="prevent_unload">Спречите истовар:</string>
+    <string name="hot_key">Хот Кеи:</string>
+    <string name="hide">Сакриј</string>
+    <string name="execute_script">Покрени скрипту</string>
+    <string name="execute">Рун</string>
+    <string name="another_script">Покретање друге скрипте. Прекид?</string>
+    <string name="interrupt">Интеррупт</string>
+    <string name="script">Сцрипт:</string>
+    <string name="script_ended">Скрипт довршен:</string>
+    <string name="paused">Игра је суспендована:</string>
+    <string name="by_pause_button">дугме за паузу</string>
+    <string name="by_option">подешавање \"__s__\"</string>
+    <string name="new_search_short">Нев</string>
+    <string name="speedhack_loading">Спеедхацк учитавање ...</string>
+    <string name="speedhack_loaded">Спеедхацк лоадед.</string>
+    <string name="busy_dialog_fail">Није успело приказивање дијалога о напретку.</string>
+    <string name="site">Вебсите</string>
+    <string name="help_xor_search_title">КСОР сеарцх</string>
+    <string name="help_xor_search">"* КСОР претрага:
+Ако знате да је захтевана вредност шифрована са КСОР кључем, који је увек на истој удаљености од вредности, онда можете користити овај режим да претражујете по дешифрованој вредности.
+1. Отворите __app_name__.
+2. Кликните на дугме \"__search_known_value__\" на картици \"__search__\".
+3. Унесите вредност из игре и растојање до КСОР кључа, подељено са \"__mode_xor__\". На пример, да бисте пронашли вредност 100 са кључем на удаљености од 8, унесите:
+100__mode_xor__8
+Да бисте унели додатне знакове, користите дугме \"__btn_hex__\" на уграђеној тастатури.
+4. Изаберите одговарајући тип података или изаберите “__type_auto__” (ако нисте сигурни) и друге параметре (ако је потребно) и притисните дугме “__search__”.
+5. Након што је претраживање завршено, резултати претраге ће бити приказани на листи.
+6. Вратите се у игру. Након промене вредности, поново отворите __app_name__.
+7. Поновите КСОР претрагу са одговарајућим променама.
+8. Ако се пронађе превише резултата, пређите на корак 6.
+9. Ако је остало само неколико резултата, можете покушати да их промените, сачувате или замрзнете.
+
+Можете користити КСОР претраживање заједно са претраживањем опсега. На пример, \"100__tilde__150__mode_xor__8\".
+Обично је КСОР претрага спорија од нормалне претраге по вриједности.
+Овај режим није подржан у групној или шифрованој претрази.
+Удаљеност од КСОР кључа треба да буде од 1 до 4096 укључиво.
+Удаљеност можете унети у хексадецималном облику са симболом __hex__ на крају: \"100__tilde__150__mode_xor__10х\".
+Удаљеност мора одговарати вредностима. На пример, дворд мора бити поравнат на граници од 4 бајта. На пример, претрага \"40__mode_xor__7\" је бескорисна за дворд, јер 7 није дељиво са 4.
+Комбиновањем овог режима са другим може доћи до проблема са лошим фирмваре-ом. На пример, ако обавите нормалну претрагу, а затим одредите КСОР режим, може доћи до замрзавања или поновног покретања уређаја. Ово се не би требало десити ако је прва претрага у овом моду.
+Неодговарајуће претраживање за овај режим није подржано. Можете их комбиновати, али неизразито претраживање ће радити као и обично и неће узети у обзир КСОР кључ.
+Ознака се узима у обзир. То значи да можете претраживати: вриједност није једнака, више, мање и тако даље.
+У овој претрази се све вредности сматрају потписаним.
+"</string>
+    <string name="help_faq_32_q">Која је разлика између ХВ / СВ верзије иконе покретања? Коју бих требао користити?</string>
+    <string name="try_latest">Можда ова скрипта треба најновију верзију __app_name__. Покушајте надоградњу на најновију верзију.</string>
+    <string name="help_string_search_title">Текстуално претраживање (низови, ХЕКС, АоБ)</string>
+    <string name="download_scripts">Довнлоад сцриптс</string>
+    <string name="hide_icons">Сакриј иконе покретања</string>
+    <string name="select_mode">Изаберите режим</string>
+    <string name="mode_string">Текст</string>
+    <string name="mode_mixed">Микед</string>
+    <string name="string_search_prompt">Унесите текст за претрагу, до __d__ бајтова. На пример</string>
+    <string name="string_empty">Морате да унесете текст.</string>
+    <string name="string_not_found">Текст \"__s__\" није пронађен.</string>
+    <string name="string_found">Пронађено __d__ резултата за текст \"__s__\".</string>
+    <string name="string_replace">Да ли желите да их замените?</string>
+    <string name="string_replace_prompt">Унесите текст да бисте заменили \"__s__\". Дугачка не већа од __d__ бајтова.</string>
+    <string name="string_replaced">Замењен \"__s__\" под \"__s__\" на __d__ местима.</string>
+    <string name="need_allow_background">На овом фирмверу, дозволите __app_name__ да ради у позадини у системским поставкама.</string>
+    <string name="calculate_offset_xor">Израчунајте офсет, КСОР</string>
+    <string name="select_copy_item">Изаберите ставку за копирање:</string>
+    <string name="landscape">Албум</string>
+    <string name="portrait">Портрет</string>
+    <string name="toolbar_buttons">Дугмад алатне траке</string>
+    <string name="need_update_to">За покретање ове скрипте потребна вам је новија верзија __app_name__. Најмања верзија __s__. Имате верзију __s__.</string>
+    <string name="default_mark">тишина</string>
+    <string name="default_">Подразумевано:</string>
+    <string name="reset_button">Ресет</string>
+    <string name="help_hex_colors_title">Боје у уређивачу меморије</string>
+    <string name="help_hex_colors">"* __help_hex_colors_title__:
+Ако хексадецимални приказ није бели, али обојен, онда је, вероватно, у овој вредности показивач. Боја означава на коју врсту меморије овај показивач показује.
+То може бити __executable__ меморија, __writable__ или __read_only__. У ретким случајевима, може бити __writable_and_executable__ меморије."</string>
+    <string name="executable">извршни</string>
+    <string name="writable">снимљен</string>
+    <string name="read_only">само за читање</string>
+    <string name="writable_and_executable">могућност снимања и извршавања</string>
+    <string name="help_extract">Екстракт помоћи</string>
+    <string name="help_extract_done">Помоћ је екстрахована на __s__</string>
+    <string name="help_extract_fail">Дошло је до грешке приликом преузимања помоћи:</string>
+    <string name="try_arm_version">Покушајте да користите верзију __app_name__ са подршком за старије АРМ процесоре:</string>
+    <string name="back">Назад</string>
+    <string name="forward">Напријед</string>
+    <string name="no_previous">Нема претходних уноса</string>
+    <string name="no_next">Нема следећих уноса</string>
+    <string name="from_item">Из ставке:</string>
+    <string name="from_context">Из контекстног менија:</string>
+    <string name="from_boundary">Од границе</string>
+    <string name="from_goto">Цалл гото</string>
+    <string name="from_calc">Фром оффсет цалцулатор:</string>
+    <string name="help_add_to_value_title">Опција \"__add_not_replace__\"</string>
+    <string name="help_add_to_value">"* __help_add_to_value_title__:
+Ако је ова заставица постављена, унета вриједност ће бити додата постојећој и неће бити замијењена. На пример, елемент има вредност 5, а ви сте унели 7 у поље вредности. Ако је ова опција означена, ставка ће добити нову вриједност од 5 + 7, што је једнако 12. Ако није означено, тада 7.
+Можете да унесете и позитивне и негативне вредности.
+Овај параметар није компатибилан са вриједностима смрзавања."</string>
+    <string name="check_libs">Проверите архитектуру библиотеке игара:</string>
+    <string name="arm_libs">"Игра је инсталирана са АРМ библиотекама, мада апк има к86 библиотеке.
+Спеедхацк и све повезано са њим неће радити.
+\"__skip__\" онемогућава ову проверу. Можете га омогућити у поставкама."</string>
+    <string name="manual_install">Можете да инсталирате .апк датотеку ручно. Налази се на следећем путу:</string>
+    <string name="as_text">Као текст (не може се учитати)</string>
+    <string name="as_text_help">Чува листу у текстуалном формату који је лако читљив. Преузимање овог формата није подржано.</string>
+    <string name="help_pointer_search_title">Сеарцх поинтер</string>
+    <string name="help_pointer_search">Претражује вредности које могу бити показивачи на жељену адресу. Можете одредити максимално ограничење за могуће одступање.</string>
+    <string name="all_memory">У цијелој меморији</string>
+    <string name="offset_help">Максимално ограничење за могуће одступање.</string>
+    <string name="typical_values">Типичне вредности</string>
+    <string name="su_command">Команда суперкорисника</string>
+    <string name="starts">Почиње са</string>
+    <string name="ends">Завршава се</string>
+    <string name="no_filter">Нема филтера.</string>
+    <string name="help_memory_filter_title">Филтрирање у уређивачу меморије</string>
+    <string name="help_memory_filter">"* __help_memory_filter_title__:
+Можете одредити филтер у уређивачу меморије. Приказују се само они резултати који одговарају филтеру.
+Филтер подржава замјенске знакове:
+__caret__ - почетак података
+__dollar__ - крај података,
+__asterisk__ - било који број знакова,
+__question__ - исти лик.
+На пример, да бисте пронашли број 42, потребно је да унесете __caret__42__dollar__."</string>
+    <string name="use_sh">Користите командну љуску</string>
+    <string name="backgrounds">Црна позадина</string>
+    <string name="actions">Акције:</string>
+    <string name="game_settings">Подешавања за игру:</string>
+    <string name="global_settings">Глобалне поставке:</string>
+    <string name="ui_settings">Подешавања корисничког интерфејса:</string>
+    <string name="others">Остало:</string>
+    <string name="skip_memory">Прескочи подручја меморије:</string>
+    <string name="empty_memory">Празно</string>
+    <string name="without_protection">без заштите</string>
+    <string name="help_games_protection_title">Како заобићи заштиту у играма</string>
+    <string name="help_games_protection">"Неке игре су опремљене заштитом од уредника меморије. Можете покушати сљедеће:
+1. \"__kill_game__\" и затим \"__restart_game_without_protection__\".
+2. \"__disable_protection__\", а затим покрените (или поново покрените) игру.
+3. Користите све или део ставки у “__hide_from_game__”. Сви успоравају потрагу.
+4. Потражите када је игра минимизирана.
+5. Потражите када је игра паузирана.
+6. Убити или паузирати део процеса одбране у игри, ако игра има неколико процеса.
+7. Користите КСПриваци или слична средства за заобилажење заштите.
+8. Користите модификацију игре без заштите.
+"</string>
+    <string name="disable_protection">Онемогућите заштиту за све апликације (пре поновног покретања)</string>
+    <string name="must_restart_if">Ако сте започели игру пре него што сте онемогућили заштиту, морате је поново покренути.</string>
+    <string name="patch_loading">Учитавање закрпе ...</string>
+    <string name="patch_loaded">Патцх уплоадед.</string>
+    <string name="patch_failed">Патцх није учитан.</string>
+    <string name="history_limit">Ограничење историје:</string>
+    <string name="copy_as_search">Копирај као групно претраживање</string>
+    <string name="add_types">Додај типове</string>
+    <string name="add_size">Додај величину групе</string>
+    <string name="copy_rhex_value">Копирај Рхек вредност:</string>
+    <string name="mips_arch">Ова апликација не подржава МИПС архитектуру.</string>
+    <string name="unrandomizer">Антиранд</string>
+    <string name="functions">функције</string>
+    <string name="help_unrandomizer">"
+Анти-ранд је функција дизајнирана да замени неке од функција које се обично користе у играма за креирање случајних вредности. На веома једноставном нивоу, на пример, може постојати игра у којој се рандомизована функција користи за одређивање награде играча. Укључивање анти-хоме ће резултирати тиме да __app_name__ покушава да замени ову случајну вредност са датом вредношћу да би променио резултат (на пример, да добије одређену награду).
+
+Анти-ранд неће радити у свим случајевима. Обрађиваће само оне функције о којима зна. У већини случајева, и за већину корисника, то неће бити корисно, јер је то већ напредна / експериментална значајка.
+
+Неке функције враћају __type_qword__, неке - __type_double__ (ретко се користе).
+
+Вредности __type_double__ треба да буду у опсегу од 0 до 1. Међутим, тамо можете да наведете било коју вредност, јер ће __app_name__ аутоматски исправити све погрешне опције.
+
+Такође можете одредити корак повећавања. У овом случају, сваки сљедећи резултат ће се повећати за ову вриједност. На пример, за инкременте од 1 и почетну вредност од 0, 0, 1, 2, 3, ... се враћају уместо случајне вредности.
+Овај параметар може бити користан за комплетну претрагу свих могућих случајних резултата.
+
+Можете да одредите које карактеристике треба да се замене у подешавањима __app_name__.
+"</string>
+    <string name="count_replace">Колико првих резултата замијенити?</string>
+    <string name="unrandomizer_loading">Анти-ранд се учитава ...</string>
+    <string name="unrandomizer_loaded">Анти-ранд учитан.</string>
+    <string name="warn_restart_off_prot">"Ова опција ће покушати поново покренути игру без заштите.
+Међутим, многи фирмвер садржи грешке које могу довести до поновног покретања уређаја.
+Ако се то деси, не покушавајте поново да покренете игру, јер ће то поново покренути уређај.
+Само покрените __app_name__ - избришите лоше поставке.
+Такође можете покушати да редовно покрећете уређај, што би такође требало да реши проблем.
+
+Ако је дошло до поновног покретања - немојте користити ову функцију, неће радити на вашем фирмверу."</string>
+    <string name="warn_patch_off_prot">"Ова опција ће покушати да закрпи систем (привремено) тако да све апликације раде без заштите.
+Промене ће утицати само на нове лансирање апликација. Стога, циљна апликација, након успјешне закрпе, морате поново покренути.
+Да бисте отказали закрпу, само поново покрените уређај.
+Можда ће бити различитих грешака у систему, након ове закрпе.
+
+Ако је закрпа успешна, не препоручује се поновно покретање ове функције док се уређај не поново покрене.
+
+Ако имате проблема, немојте користити ову функцију."</string>
+    <string name="clear_history">Обриши историју уноса</string>
+    <string name="clear_history_warn">Сви записи, укључујући и постове, биће избрисани.</string>
+    <string name="click_edit">Кликните овде да бисте променили</string>
+    <string name="ignore_unknown_chars">Занемари непознате знакове:</string>
+    <string name="need_root_mode">Ова функција захтева приступ роот-у. Сада __app_name__ ради у режиму виртуелног окружења без роот приступа.</string>
+    <string name="work_without_root_title">Радите без корена</string>
+    <string name="work_without_root">"__app_name__ може радити без коријена, кроз виртуално окружење. На пример, преко __vspace_list__ и многих других.
+__app_name__ мора бити инсталиран у виртуелном окружењу. Игра би такође требала бити инсталирана тамо.
+Не подржавају се све функције програма, али већина функција би требала радити.
+
+Нећете моћи да хакујете игре које нису инсталиране у виртуелном окружењу.
+
+Прво покретање __app_name__, које врши поновну инсталацију са насумичним називом пакета, не би требало да се изводи преко виртуелног окружења.
+Тада можете додати __app_name__ у виртуално окружење и користити га."</string>
+    <string name="help_game_not_listed_title">Зашто моја игра није на листи процеса?</string>
+    <string name="fractional_hint">"Фракциони део реалног броја \"к\" је вишак који прелази целобројни део тог броја.
+За број њеног фракционог дела, дакле, одговара бројевима који се појављују после децималне тачке.
+
+На пример:"</string>
+    <string name="pointer">Поинтер:</string>
+    <string name="help_search_filter_title">Филтри у претрази</string>
+    <string name="help_search_filter">"Можете филтрирати резултате претраге.
+Можете навести:
+- ограничења за промену адресе,
+- границе промјене вриједности,
+- жељене типове података
+- жељени дјеломични дио броја,
+- жељени тип показивача.
+Можете да комбинујете све филтере један са другим.
+Такође можете да онемогућите један или неки од филтера у било ком тренутку.
+
+Међутим, ако се пронађе велика количина података, филтри могу успорити резултате.
+
+Филтер на фракцијском делу броја може бити једнак или неједнак.
+За целобројне типове, фракцијски део је нула. Ако вам нису потребни целобројни типови, искључите их помоћу филтера типа.
+
+Филтрирање по типу показивача омогућава да у излазу оставите само оне вриједности које могу бити показивач на жељени тип меморије.
+Могуће врсте меморије одговарају бојама у уређивачу меморије:
+То може бити __executable__ меморија, __writable__ или __read_only__. У ретким случајевима, може бити __writable_and_executable__ меморије.
+
+Не-показивачки тип одговара свим типовима података који не могу бити показивачи, као и онима који указују на нераспоређене меморије."</string>
+    <string name="unmount_kill">"Меморијска картица је била демонтирана, док је __app_name__ сачувао привремене датотеке на њему. То је довело до присилног затварања демона.
+
+Да бисте спречили ово, наведите другу путању до привремених датотека. На пример, у интерној меморији.
+Требало би бити довољно слободног простора."</string>
+    <string name="calls">Режим системског позива:</string>
+    <string name="alternative">Алтернативна</string>
+    <string name="help_calls">"На неким фирмварес, као што је Леново, алтернативни начин рада може радити брже.
+
+Обично није потребно мењати ову опцију."</string>
+    <string name="help_context_title">Помоћ у контексту</string>
+    <string name="help_context">"У интерфејсу, неки елементи су означени посебном иконом у горњем десном углу са симболом __i__ у кругу.
+Притиском или дугим притиском на ову ставку приказује се помоћ за ову ставку."</string>
+    <string name="waitpid_mode">Моде __waitpid__:</string>
+    <string name="help_waitpid">"На неким фирмварес, __waitpid__ системски позив не ради како се очекивало. Ово је обично због нетачних поставки за СеЛинук.
+Ово води до бескрајне потраге на __app_name__.
+Можете покушати да користите алтернативни режим. Могло би упалити."</string>
+    <string name="microseconds_short">мс</string>
+    <string name="small_is_bad">Премале вредности могу довести до великог оптерећења процесора и заостајања у игри.</string>
+    <string name="freeze_interval_help">Интервал кроз који __app_name__ преписује вредности у меморији игре.</string>
+    <string name="saved_list_update_interval_help">Интервал у којем __app_name__ ажурира вриједности у спремљеној листи.</string>
+    <string name="icons_size_help">"Величина икона у интерфејсу је __app_name__.
+Није применљиво на плутајућу икону."</string>
+    <string name="ignore_unknown_chars_help">То може помоћи у рјешавању проблема приликом копирања бројева с различитих мјеста, ако се посебни знакови копирају с бројевима.</string>
+    <string name="use_notification_help">"Коришћење обавештења у области за обавештења Андроид система.
+На неким фирмверима ово повећава приоритет апликације и спречава њено затварање.
+Такође можете користити обавештење да бисте отишли ​​на __app_name__ или игру кликом на њу.
+Ово може бити корисно ако не можете кликнути на плутајућу икону."</string>
+    <string name="use_sound_effects_help">"Користите системске звукове када кликнете на дугмад и ставке.
+На неким фирмверима, звук узрокује пад __app_name__."</string>
+    <string name="keyboard_help">Интерна тастатура заузима мање меморије, брже се учитава и оптимизована је за унос бројева.</string>
+    <string name="allow_suggestions_help">"Савети са спољне тастатуре.
+На неким фирмваре саветима долази до пада __app_name__."</string>
+    <string name="autopause_help">Аутоматско паузирање игре приликом отварања интерфејса __app_name__.</string>
+    <string name="killed_by">__app_name__ је присилно затворена пријавом \"__s__\". Да бисте то избегли, избришите ову апликацију или је конфигуришите тако да не заврши __app_name__.</string>
+    <string name="killers_found">"Инсталирали сте апликације које могу присилно затворити __app_name__:
+__s__
+Да бисте то избегли, избришите их или конфигуришите тако да не попуне __app_name__.
+
+Ако немате проблема са неочекиваним затварањем __app_name__, онда није потребна никаква акција и можете игнорисати ову поруку."</string>
+    <string name="record_logcat">Рецорд __logcat__</string>
+    <string name="record_logcat_info">"__app_name__ ће се поново покренути са записом __logcat__ у датотеку:
+\"__s__\".
+
+Да бисте завршили снимање, изађите из __app_name__.
+Тада можете послати датотеку дневника тамо где вам је потребна."</string>
+    <string name="need_uninstall">Потребно је деинсталирати програм за инсталацију, иначе ћете имати 4 иконе, а не 2. Исто тако, игра ће је открити.</string>
+    <string name="need_random_name">"__app_name__ користи стандардно име пакета. Игре га могу открити.
+
+Да бисте ово поправили, покрените __app_name__ ван виртуелног простора, као нормална апликација.
+Када се инсталација заврши, додајте копију __app_name__ са насумичним називом у виртуелни простор."</string>
+    <string name="work_mode">Режим рада</string>
+    <string name="root">роот</string>
+    <string name="no_root">но роот</string>
+    <string name="how_no_root">"Потребно је да инсталирате апликацију виртуелног простора. На пример: __vspace_list__.
+
+Препоручује се инсталирање оптимизованих верзија са званичног сајта __app_name__.
+
+Онда морате додати __app_name__ и вашу игру овом виртуелном простору.
+
+Након тога морате почети игру и __app_name__ у виртуалном простору."</string>
+    <string name="eperm_error_descr_0">Могући разлози:</string>
+    <string name="eperm_error_descr_1">Заштита у игри.</string>
+    <string name="eperm_error_descr_2">Још један дебагер или хакер је повезан са игром.</string>
+    <string name="eperm_error_descr_3">Нема довољно права. Обично због погрешно конфигурисане __selinux__. Онемогућите или конфигуришите __selinux__.</string>
+    <string name="eperm_error_descr_4">Лоша језгра или фирмвер. Испробајте други фирмвер или други уређај.</string>
+    <string name="eperm_error_descr_5">На вашем фирмваре-у, режим „без коријена“ не ради. Пробајте други фирмвер или други уређај или преузмите роот.</string>
+    <string name="ptrace_bypass_mode">Режим заобилажења ради заштите птраце:</string>
+    <string name="mode_restore">опоравити</string>
+    <string name="mode_nothing">не ради ништа</string>
+    <string name="mode_freeze">то фреезе</string>
+    <string name="ptrace_bypass_mode_help">"Одређује шта учинити након онемогућавања безбедносне везе:
+__mode_restore__ - рецоннецт
+__mode_nothing__ - не ради ништа (обично се обрана поново повезује)
+__mode_freeze__ - замрзните стреам (као у претходним верзијама)
+
+Ако вратите заштиту или дозволите да сама ради заштиту, замрзавање вредности у __app_name__ може довести до кашњења услед сталног повезивања / искључења заштите."</string>
+    <string name="slow_emulator">"Користите емулатор \"__s__\". Спор је и има грешке. Због тога, претрага може бити врло спора.
+\u0009\u0009
+Препоручујемо употребу других емулатора:"</string>
+    <string name="text">Текст</string>
+    <string name="show_debug_info">Прикажи информације о дебугу</string>
+    <string name="mnt_expand">"__app_name__ инсталиран на меморијску картицу која се користи као \"Интерна меморија\".
+Ово може ометати рад виртуалних простора.
+Ако се то деси, инсталирајте __app_name__ у интерну меморију уређаја.
+Можда ћете морати да поново форматирате меморијску картицу као „Преносива меморија“."</string>
+    <string name="help_game_not_listed_root">"Игра мора бити покренута да бисте је одабрали.
+
+Ако је игра покренута, али још није на листи, можда имате проблема са роот или фирмваре-ом.
+Испробајте други роот или други фирмваре."</string>
+    <string name="help_game_not_listed_noroot">"Игра мора бити покренута у виртуелном простору тако да може бити изабрана.
+
+Не можете одабрати игру ако се не изводи у виртуелном простору.
+
+Ако се игра покреће у виртуелном простору, али још увијек није на попису, покушајте с другим виртуалним простором, другим фирмвареом, другим уређајем или преузмите роот."</string>
+    <string name="daemon_killed_oom">"Систем је прекинут даемоном због недовољне меморије.
+
+Подесите \"__data_in_ram__\" на \"__no__\".
+Ако је могуће, користите хардверско убрзање интерфејса.
+Не користите велике апликације.
+Онемогућите све остале неискоришћене апликације.
+Покушајте да користите __app_name__ након поновног покретања уређаја."</string>
+    <string name="selected_as_search_result">Изабрано као резултат претраге</string>
+    <string name="clear_results_prompt">Ово ће заменити тренутне резултате претраге. Наставите?</string>
+    <string name="position_in_memory_editor">Позиција у уређивачу меморије</string>
+    <string name="script_prompt_internet">"Скрипта жели да приступи Интернету. Ако дозволите приступ, скрипта ће моћи да украде ваше пријаве, лозинке, сачувате и друге податке из игре. Такође, он може да украде и друге скрипте, или да преузме вирусе на ваш уређај.
+
+Дозволи приступ скрипти Интернету?"</string>
+    <string name="level">Левел</string>
+    <string name="float_prompt">"Да бисте исправно покренули __app_name__ на вашем фирмверу, морате омогућити употребу искачућих прозора у системским поставкама за __s__.
+
+Подразумевано, искачући прозор се не приказује на Хуавеи телефонима. Мораћете да дозволите __s__ да прикаже скочни прозор. Отворите Пхоне Манагер, затим Манаге Дропзоне и проверите да ли је омогућен за __s__.
+
+Поп-уп прозор се такође не приказује на неким Ксиаоми телефонима. Потребно је да одете у Подешавања -> Инсталиране апликације -> __s__ -> Остале дозволе -> Прикажи попуп.
+
+Поред тога, други телефони могу имати различите процедуре које дозвољавају апликацијама да приказују искачуће прозоре. Ово се односи на све такве апликације, на пример, Гоогле Транслатор апликацију са функцијом Тап То Транслате. Дакле, можете једноставно претраживати гоогле “ИОУР_ПХОНЕ тап то транслате” да бисте пронашли рјешење. На пример, за Ксиаоми Редми уређаје, решење је следеће:"</string>
+    <string name="virtual_space">Апликација виртуалног простора</string>
+    <string name="prevent_unload_help">"Спречите истовар __app_name__ из меморије (присилно затварање).
+
+Сваки следећи ниво је моћнији од претходног, и укључује га сам по себи.
+
+Трећи ниво може проузроковати проблеме (тресање, поновно покретање или рушење) на неким фирмверима и емулаторима.
+
+Без корена ради само трећи ниво."</string>
+    <string name="integer_type">Овај тип података је намењен само за целобројне вредности и не подржава фракционе вредности. Користите __type_float__ или __type_double__ за фракционе вредности.</string>
+    <string name="without_float">Такође можете користити __app_name__ без плутајућих прозора:</string>
+    <string name="any_value">било која вредност</string>
+    <string name="help_group_search_any_value">Можете користити __any__ у груписаној претрази скупа са минималном величином групе да наведете било коју вредност специфицираног типа у жељеној позицији.</string>
+    <string name="help_scripts_title">Скрипте</string>
+    <string name="help_scripts">"* __help_scripts_title__:
+__app_name__ подржава извршавање скрипти написаних у Луа.
+
+На картици претраге кликните на мени и изаберите \"__execute_script__.\"
+Овде можете да изаберете датотеку скрипте за извршавање, прегледате постојеће АПИ __app_name__ или идите на званични сајт да бисте прочитали АПИ помоћ или преузели готове скрипте.
+Можете и да извадите АПИ помоћ на меморијској картици да бисте је читали без Интернета.
+
+Ако желите да напишете сопствени скрипт, онда вам је потребан екстерни уређивач текстуалних датотека.
+__app_name__ не дозвољава уређивање скрипти, само их извршава.
+
+Прочитајте АПИ помоћ за више детаља."</string>
+    <string name="help_floating_icon_absent">Ако након притиска на дугме \"__start__\" не видите плутајућу икону:</string>
+    <string name="remove_all2">Избриши све</string>
+    <string name="debug_load">Извезите сва преузимања кода</string>
+    <string name="debug_log">Пријавите највише позива за скрипте</string>
+    <string name="vspace64">"Покренули сте __app_name__ у виртуалном простору који подржава 64-битне процесе.
+
+__app_name__ неће видети 32-битне процесе који се изводе у овом простору.
+
+Инсталирајте другу копију __app_name__ у режим \"__for32__\", ако желите да радите у __app_name__ са 32-битним процесима."</string>
+    <string name="folder_new">Нев фолдер</string>
+    <string name="folder_exists">Ова фасцикла већ постоји.</string>
+    <string name="folder_file">Постоји датотека са тим именом.</string>
+    <string name="folder_failed">Креирање фасцикле није успело</string>
+    <string name="force_close">"Претходна пријава је неочекивана.
+
+Можете подићи поставку „__prevent_unload__“ да бисте то избегли у будућности."</string>
+    <string name="help_force_close_title">Неочекивани завршетак</string>
+    <string name="install_mode">Начин инсталације</string>
+    <string name="for32">За хаковање 32-битних игара у 64-битном виртуелном простору</string>
+    <string name="for64">За хаковање 64-битних игара у 64-битном виртуелном простору</string>
+    <string name="reset_ignore">Поништите све занемаривања за све разговоре.</string>
+    <string name="allocate_fail">Није могуће доделити меморију странице. Грешка</string>
+    <string name="allocated">Додељена страница меморије:</string>
+    <string name="allocate_page">Означите страницу меморије</string>
+    <string name="prot_read">Може се читати</string>
+    <string name="prot_write">Може се снимати</string>
+    <string name="prot_exec">Може се извести</string>
+    <string name="install_finished">"Инсталација је успјешно завршена.
+Ручно покрените инсталирану копију тако да може преносити ваше податке.
+Након тога, инсталатер се може уклонити."</string>
+    <string name="odd_vspace">__app_name__ ради у виртуелном простору?</string>
+    <string name="record_script">Сцрипт ентри</string>
+    <string name="record">Рецорд</string>
+    <string name="another_record">Други унос се изводи. Стоп?</string>
+    <string name="record_ended">Снимање завршено:</string>
+    <string name="stop">Стоп</string>
+    <string name="could_not_use">Није могуће користити:</string>
+    <string name="not_optimized2">"Користите не-оптимизовану верзију виртуелног простора (\"__s__\").
+Да бисте решили ову грешку, уклоните не-оптимизовану верзију \"__s__\" и инсталирајте један од оптимизованих виртуелних простора са званичног сајта __app_name__.
+Кликните на “__fix_it__” да пређете на избор оптимизованих виртуелних простора."</string>
+    <string name="fix_path">Ослободите простор или одредите другу путању за привремене датотеке кликом на \"__fix_it__\".</string>
+    <string name="deep_read">Дубоко читање:</string>
+    <string name="help_deep_read">"Читање меморије на све доступне начине, ако је немогуће прочитати.
+Може успорити читање меморије."</string>
+    <string name="ptrace_fail">Промена меморије преко птраце није успела.</string>
+    <string name="ptrace_fail_partially">Неке функције, спеедхацк и све повезано са њим неће радити. Писање у меморију само за читање (укључујући код) није могуће.</string>
+    <string name="ptrace_fail_full">Апсолутна већина функција неће радити.</string>
+    <string name="ptrace_fail_solve">"Типичан разлог је сломљена језгра у фирмверу.
+Покушајте да промените фирмвер. Ако сте га недавно ажурирали, инсталирајте претходну верзију.
+
+Ако ово не функционише, замените уређај."</string>
+    <string name="feature_hide_4">Ова функција не може радити ако је 4 ставке одабрано у “__hide_from_game__”.</string>
+    <string name="feature_firmware">Ова функција не може радити без птраце-а, који не ради на овом фирмваре-у.</string>
+    <string name="feature_protection">Ова функција не може радити због заштите од птраце игре.</string>
+    <string name="not_file">Путања није датотека:</string>
+    <string name="not_execute">Није успело:</string>
+    <string name="check_install">Проверите да ли је инсталација __app_name__.</string>
+    <string name="sdcard_install">Ако је __app_name__ инсталиран на вањску меморију (СД картица), вратите је у интерну меморију</string>
+    <string name="change_address_type">Промените адресу / тип</string>
+    <string name="bad_offset">Помак није вишеструки од __d__.</string>
+    <string name="bad_result_address">Добијена адреса није вишеструка од __d__.</string>
+    <string name="correct_types">__d__ елементи ће променити свој тип да би исправили немогуће поравнање.</string>
+    <string name="reinstall_fail">"Није могуће поново инсталирати __app_name__ са насумичним називом.
+
+__app_name__ може се лако детектовати играма.
+
+Током инсталације можете записати __logcat__ и контактирати службени форум за помоћ.
+
+Разлог за неуспех:"</string>
+    <string name="empty_field">Празно поље за унос: нема броја за конверзију</string>
+    <string name="need_integer">Морате одабрати цијели број за конверзију.</string>
+    <string name="maps_failed">Није могуће отворити датотеку \"__maps__\".</string>
+    <string name="game_protected">Игра је заштићена.</string>
+    <string name="need_root">Треба вам корен за хаковање ове игре.</string>
+    <string name="vspace_error">"Проблем виртуалног простора или фирмвера или уређаја.
+
+Покушајте:
+- користити други виртуални простор
+- користите други фирмвер
+- добити роот
+- користите други уређај"</string>
+    <string name="root_error">"Проблем са фирмваре-ом или роот-ом или уређајем.
+
+Покушајте:
+- користите други фирмвер
+- користите други корен
+- користите други уређај"</string>
+    <string name="vspace_root">Користи роот у виртуелном простору:</string>
+    <string name="help_vspace_root">"Коришћење роот-а из циберспаце-а може помоћи да се сакрије чињеница да је __app_name__ инсталиран на уређају.
+
+Не ради на свим фирмверима, а не на свим виртуалним просторима.
+
+Виртуални простор, фирмваре и роот би требало да омогуће рад са роот-ом из виртуелног простора.
+Виртуални простор би требало да вам омогући да инсталирате апликације унутра без инсталирања у систем.
+
+Ово не могу да пруже сви виртуални простори.
+
+Не на свим фирмверима овај мод ће радити. И не са свим коренима.
+
+Пошто ће роот права бити додељена целом виртуелном простору, не би требало да инсталирате ништа друго у њега. У супротном, свака апликација из виртуелног простора може да користи роот права са непредвидивим последицама.
+
+Игра мора бити инсталирана изван виртуалног простора.
+
+__app_name__ треба да се инсталира само унутар виртуелног простора, без инсталирања у систем.
+Како то урадити - погледајте помоћ одређеног виртуелног простора.
+
+На пример, за __vexp__ можете клонирати __app_name__ из система на __vexp__, а затим обрисати __app_name__ из система."</string>
+    <string name="help_games_protection_9">9. Користите роот у виртуелним просторима који вам дозвољавају да инсталирате апликације у себе без инсталирања у систем.</string>
+    <string name="locale_ui">У вашем локалу</string>
+    <string name="locale_script">Скрипте увек користе енглески језик.</string>
+    <string name="locale_desc">"'__s__' децимални сепаратор
+'__s__' - сепаратор хиљада
+'__semicolon__' - гранични број за претрагу група"</string>
+    <string name="help_unaligned_title">Тражи без поравнавања / велике претраге</string>
+    <string name="help_unaligned">"У неким апликацијама (на пример, као што су конзолни емулатори), вредност у меморији можда неће одговарати поравнању или бити представљена у великом редоследу бајтова.
+
+Таква вредност се не може наћи уобичајеном претрагом.
+
+Да бисте их пронашли - користите посебну скрипту са званичног сајта __app_name__:"</string>
+    <string name="help_formula_calculator_title">Формула цалцулатор</string>
+    <string name="help_formula_calculator">"У скоро сваком пољу за унос бројева можете унети математичку формулу, после знака једнаке, на пример, у поље за претрагу унесите '= 2 + 2 * 3', а програм ће тражити резултат формуле, то јест \"8\".
+Формула је израз Луа. Можете да користите сву доступну снагу Луа.
+
+Сви аритметички оператори Луа 5.3 су дозвољени - сабирање (+), одузимање (-), множење (*), дељење (/), остатак дељења (%), експоненција (^), цела подјела (//) и тако даље .
+Доступни су и битни оператери - АНД (&amp;), ОР (|), Екцлусиве ОР (бинари ~), НОТ (сингле ~), Схифт Ригхт (>>), Схифт лефт (&lt;&lt;). Редослијед поступака може се одредити заградама.
+Прочитајте Луа приручник за потпуну листу доступних операција.
+
+Ово је корисно ако знате како се вриједност кодира у игри. На пример, 29 рунди у једној игри може се наћи као „= 29 ~ 444444“. То је еквивалентно 29 КСОР 444444. У примеру видео записа цена је пронађена 3888, преко КСОР-а са 444444, као '= 444444 ~ 3888'. Након тога извршена је замена на „= 444444 ~ 1“, што је цену поставило на „1“. У другој игри 125 злата је једнако '= 125 * 10'.
+
+Нису све функције скрипта доступне у калкулатору формула. Неке функције нису доступне. Ако их нема довољно - напишите своју скрипту, а уместо да користи калкулатор формуле, она је намењена само једноставним прорачунима. Доступно: део основних функција, „бит32“, „табле“, „стринг“, „утф8“, „математика“, део пакета „ос“. Пакети „исправка“, „пакет“, „гг“, „ио“ нису доступни.
+
+Када напишете \"= 2 + 2 * 3\", кључна реч \"ретурн\" биће додата пре формуле: \"ретурн 2 + 2 * 3\". Међутим, можете сами одредити ову реч у формули ако вам је потребна сложена формула.
+На пример, '= а = 5; б = 7; ретурн а * 4 + б * 8 'извршава се као' а = 5; б = 7; повратак * 4 + б * 8 '
+
+Резултат калкулатора формуле је текстуални низ. Низ може бити било који валидни низ за ово поље за унос.
+На пример, то може бити низ за претрагу групе или за претраживање по распону. '= а = 5; б = 7; ретурн а .. \";\" .. б .. \":: 100\" 'је еквивалент' 5; 7 :: 100 '.
+
+Калкулатор формуле не функционише у скриптама, тамо можете директно користити Луа.
+Када пишете скрипту, резултат израчунавања формуле биће записан у датотеку, а не сама формула.
+
+Ако је формула нетачна, примит ћете поруку о грешци приликом слања обрасца.
+
+Приликом израчунавања потребно је узети у обзир чињеницу да се прорачуни изводе у типу који је назначио први операнд. Ако је цео број, резултат је цео број.
+На пример, „= 3/2“ ће бити „1“, а „= 3,0 / 2“ ће бити „1,5“.
+
+Без обзира на изабрани језик, формуле раде на енглеском језику. То значи да је децимални сепаратор увек тачка ('.')."</string>
+    <string name="help_faq_32_b">"Две иконе покретања. Први, са софтверским убрзањем - \"__app_short_name_sw__\", други, са хардверским убрзањем - \"__app_short_name_hw__\". Сада ће увек бити тако.
+На неким фирмваресима ради само једна икона, на нормалним обоје.
+Боље је користити софтверско убрзање, мање је глатко, али троши мање меморије.
+
+Можете да сакријете једну од икона у подешавањима апликације: \"__hide_icons__\"."</string>
+    <string name="acceleration_help_">"Хардверско или софтверско убрзање интерфејса __app_name__.
+У зависности од игре и фирмвера, неке од опција могу изазвати проблеме.
+Ако оба раде, користите софтверско убрзање јер троши мање меморије.
+
+Ова поставка се разликује од икона покретања и утиче само на приказ __app_name__ интерфејса.
+Иконе за покретање су одговорне за тип убрзања почетног екрана.
+
+Хардверско убрзање троши много више меморије, али ради боље. Ако имате мало РАМ-а, увек користите софтверско убрзање.
+
+Ако хардверско убрзање узрокује грешке, __app_name__ се може пребацити на софтверско убрзање."</string>
+    <string name="small_list_items">Ставке мале листе</string>
+    <string name="small_list_items_help">Омогућава вам да прикажете више информација на листама ставки, али може бити теже кликнути на жељену ставку.</string>
+    <string name="format_asm_opcodes">Кодови __s__</string>
+    <string name="no_regions">Није пронађен ниједан одговарајући регион.</string>
+    <string name="cannot_hide_launcher_icon">"Ова икона је кориштена за тренутно покретање.
+
+Не можете сакрити икону која је коришћена за тренутно покретање.
+
+Поново покрените апликацију користећи другу икону да бисте сакрили ову икону."</string>
+    <string name="screenshot">Снимите снимак екрана</string>
+    <string name="screenshot_prompt">"Икона ће бити скривена __d__ секунди тако да можете снимити снимак екрана.
+
+Након тога, икона ће бити поново видљива."</string>
+    <string name="screenshot_action">Сцреенсхот</string>
+    <string name="use_visible_type">Користите видљиви тип података у уређивачу меморије:</string>
+    <string name="use_visible_type_help">Немојте тражити тип података у уређивачу меморије ако је приказан само један тип података.</string>
+    <string name="wrong_float">У вашем локалу, број \"__s__\" изгледа као \"__s__\". Ако то није оно што вам је потребно - изаберите другу локацију (или језик) на почетном екрану.</string>
+    <string name="wrong_float2">Поред тога, у поставкама __app_name__ можете прегазити локализацију за форматирање бројева.</string>
+    <string name="number_locale">Локал за форматирање бројева:</string>
+    <string name="fill">За попуњавање</string>
+    <string name="help_text_search">"
+Да бисте претраживали текст, морате да наведете модификаторе у уобичајеном дијалогу за претраживање.
+
+Најчешће коришћена кодирања су __utf8__ и __utf16le__.
+По правилу, __utf16le__ се користи у __java__, а __utf8__ се користи у __c__.
+
+__utf16le__ - двобајтно кодирање. Сваки знак је увијек кодиран у два бајта, тако да је приказан кроз __type_word__.
+__utf8__ - кодирање са променљивом величином бајта по карактеру. Послато преко __type_byte__.
+__hex_input__ и његове варијанте увек се приказују преко __type_byte__.
+
+Игра може да користи било које од кодирања.
+Ако вам је потребан одређени сет бајтова - користите режим __hex_input__.
+
+Доступни префикси:
+__text_prefixes__
+
+За начин \"__hex_mixed__\" можете одредити текст __utf8__ између __apos__ знакова и __utf16le__ текст између __quot__ знакова.
+
+На пример:
+__text_examples__
+
+Карактер префикса мора бити први знак у тексту за претрагу.
+
+Резултат претраге је секвенца __type_byte__ или секвенца __type_word__ за случај __utf16le__.
+
+Резултати се могу променити - изаберите све и кликните на \"__edit_selected__\".
+
+У поље вредности унесите нову вредност у истом формату као и за тражени низ.
+
+Можете користити дугмад за попуњавање. Кликните на \"__more__\" ако нису видљиви.
+
+Вредност ће бити подешена за сваку групу непрекидних ставки.
+Ако постоји јаз између елемената, то ће бити нова група.
+
+Ако наведете више бајтова него што је потребно, користиће се само мали број њих.
+Ако наведете мање од потребног, остатак групе ће бити попуњен са нула бајтова.
+
+Када замењујете текст, покушајте да одредите текст са истим бројем бајтова као оригинал да бисте избегли проблеме.
+"</string>
+    <string name="fast_freeze">Брзо замрзавање:</string>
+    <string name="help_fast_freeze">"Ово ради много брже од нормалног замрзавања, али не и за сву меморију.
+
+Ако замрзавање не ради, онемогућите ову опцију."</string>
+    <string name="debug_disassemble">Дисассембле</string>
+    <string name="assembled">Успешно је састављено у датотеку:</string>
+    <string name="warn_patch_off_prot2">"Ако користите __magisk_hide__ - онемогућите га пре инсталирања закрпе. Након успјешне примјене закрпе, можете је поново укључити.
+Ако то не урадите, закрпа неће бити успешна."</string>
+    <string name="help_games_protection_end">"
+Како сакрити __app_name__ од игре у виртуелном простору
+
+1. Инсталирајте виртуелни простор који омогућава скривену инсталацију апликација без инсталирања у систем. На пример, __vspace_hide__.
+2. Инсталирајте __app_name__ у виртуелни простор.
+3. У __app_name__ укључите режим \"__vspace_root__\".
+4. Доделите роот права на виртуелни простор. Ако не можете да обезбедите коренска права, покушајте са другим виртуелним простором, другим коренским правима, другим фирмвером или промените уређај.
+5. Уклоните __app_name__ из система.
+6. Радите са __app_name__ из виртуелног простора.
+
+Да бисте избегли откривање током претраге:
+Изаберите ставке 2, 3 и 4 у поставци \"__hide_from_game__\".
+
+Типично решење (захтева роот, без корена нећете успети):
+1. Користите роот из виртуелног простора. Прочитајте помоћ за подешавање за __vspace_root__.
+2. Користите ставке 2, 3 и 4 у поставци \"__hide_from_game__\".
+"</string>
+    <string name="force_close_2">Можете да поставите „__data_in_ram__“ на „__no__“ да бисте то избегли у будућности.</string>
+    <string name="script_wrote">Сценарио је забележен у __s__ __d__ фајловима.</string>
+    <string name="script_exit">завршен</string>
+    <string name="script_interrupted">Сценарио је прекинута.</string>
+    <string name="script_error">скрипта грешка</string>
+    <string name="script_oom">Нема довољно меморије</string>
+    <string name="script_possible">Чини се да покушавате да __s__ као сценарију.</string>
+    <string name="script_web">веб страна</string>
+    <string name="script_saved_list">сачуван листа</string>
+    <string name="speedhack_no_x86">Али у овој игри нема к86 библиотеке, па можда неће радити.</string>
+    <string name="help_faq_33_q">На екрану су текстуалне поруке (здравице), или погледајте тамно круг на дну екрана приликом покретања __app_name__. Како то поправити?</string>
+    <string name="help_faq_33_a">Коришћење трећег нивоа \"__prevent_unload__\" на неки фирмваре узрокује да се текстуалне поруке (тост) остају на екрану или погледајте тамно круг (празно поруку). Ако се то догоди, не користе трећи ниво.</string>
+    <string name="invalid_header_1">Инвалид заглавље бинарни сценарио.</string>
+    <string name="unknown_version">Непознат верзија.</string>
+    <string name="unknown_format">Непознат формат.</string>
+    <string name="unknown_endianness">Непознат Бите Ордер.</string>
+    <string name="unknown_size_s">Сизе __s__.</string>
+    <string name="unknown_size_instr">Непознат упутство величина.</string>
+    <string name="unknown_size_num">Непознат величина Луа.</string>
+    <string name="expected_found">__s__ очекује, али није пронашла __s__.</string>
+    <string name="or">или</string>
+    <string name="invalid_header_2">И даље радити сценарио?</string>
+    <string name="invalid_header_3">"Этот скрипт нельзя будет запустить в будущих версиях __app_name__.
+Пишите аутору овог сценарија."</string>
+    <string name="skip_system_libs">Скип системске библиотеке</string>
+    <string name="try_reinstall_x86">"Покушајте да поново инсталирате игру са библиотекама к86?
+
+Игра може престати са радом након тога. Ако се то догоди, ресет игру са АПК, која се налази на __data_app__."</string>
+    <string name="reinstall_started">Поновно је почела ...</string>
+    <string name="reinstall_failed">Поновно фаилед:</string>
+    <string name="reinstall_ended">Ресетовање је завршена.</string>
+    <string name="help_lasm_title">Монтер / Дисассемблер скрипте</string>
+    <string name="help_lasm">"__app_name__ има уграђен растављања / асемблер на Луа сцриптс.
+
+Можете да одаберете \"__debug_disassemble__\" у кутији, покрените скрипту, након клика на дугме \"__more__\".
+
+__ext_lasm__ крајња слика се могу мењати и изабран у стартуп скрипта. Резултат је бинарна датотека __ext_lua__, са изменама.
+
+Прочитајте Често АПИ скрипте за више информација.
+"</string>
+    <string name="help_hide_gg_title">__app_name__ како да се сакрије од игре</string>
+    <string name="changed_as_search_result">Алтеред као резултат претраге</string>
+    <string name="changed_not_found">фоунд измењених ставки.</string>
+    <string name="too_far">Ове вредности се не могу наћи кроз групу за претрагу - оне су сувише далеко једни од других: __d__ бајтова. Размак максимум __d__ бајтова.</string>
+    <string name="new_address">Нова адреса:</string>
+    <string name="hide_1_warn">Изабрали сте прву опцију. Замрзавање вредности може изазвати озбиљне лаг у игри.</string>
+    <string name="hide_4_warn">Изабрали сте четврти пасус. Неке функције неће радити: __speedhack__, __unrandomizer__, __allocate_page__.</string>
+    <string name="asm_failed">Ми нисмо препознали __s__ операциони:</string>
+    <string name="asm_suggestion">Да ли сте мислили: __s__?</string>
+    <string name="copy_opcode">Копирање __s__ операциони:</string>
+    <string name="search_nearby">Истрага у близини</string>
+    <string name="before">пре</string>
+    <string name="after">после</string>
+    <string name="distance">удаљеност:</string>
+    <string name="nearby">у близини:</string>
+    <string name="need_fixer">"Детектује проблем са овим 64-битним виртуелном простору.
+
+Како да се поправи
+
+1. Инсталирајте апликацију __fixer__. (у овом дијалогу, било ручно успут:
+__s__
+).
+
+__fixer__ 2. Додајте виртуелни простор.
+
+3. Покрените __fixer__ у виртуелном простору.
+
+4. Уклоните __fixer__.
+
+5. Рестарт __app_name__ у виртуелном простору."</string>
+    <string name="limit">Само првих Н резултати:</string>
+</resources>

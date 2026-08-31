@@ -1,0 +1,1366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lang_code">~~~hi~~~</string>
+    <string name="front_text">"__improve_translation_hint__
+
+यदि आपके पास __app_name__ या इसके उपयोग के बारे में कोई प्रश्न हैं, तो कृपया हमारे मंचों पर __forum__ पर जाएँ"</string>
+    <string name="set_path">अस्थायी पथ</string>
+    <string name="number">संख्या:</string>
+    <string name="type">प्रकार:</string>
+    <string name="name">नाम:</string>
+    <string name="reset">प्रक्रिया का चयन करें</string>
+    <string name="set_range">मेमोरी रेंज का चयन करें</string>
+    <string name="search">खोज</string>
+    <string name="save">बचाना</string>
+    <string name="goto1">के लिए जाओ</string>
+    <string name="address">पता:</string>
+    <string name="edit_all">सभी को संपादित करें</string>
+    <string name="filter">फ़िल्टर</string>
+    <string name="clear">स्पष्ट</string>
+    <string name="max_show_rec">प्रदर्शन:</string>
+    <string name="equal">स्थिर</string>
+    <string name="inequal">बदला हुआ</string>
+    <string name="larger">बढ़ी हुई</string>
+    <string name="smaller">में कमी</string>
+    <string name="compare_current_last">मूल्य कैसे बदल गया है?</string>
+    <string name="write_region_log">क्षेत्र लॉग लिखें</string>
+    <string name="old_version">पुराना संस्करण</string>
+    <string name="found_old_version">__app_name__ का पुराना संस्करण मिला है। क्या आप इसे अनइंस्टॉल करना चाहते हैं?</string>
+    <string name="yes">हाँ</string>
+    <string name="no">नहीं</string>
+    <string name="ok">ठीक</string>
+    <string name="failed_find_package_name">एप्लिकेशन पैकेज नाम खोजने में विफल!</string>
+    <string name="path_for_temp_files">"अस्थायी फ़ाइलों के लिए पथ सेट करें, उदा। '__sdcard__'। इसमें कुछ सौ एमबी खाली जगह की आवश्यकता हो सकती है। वर्तमान खोज परिणाम खो जाएंगे।"</string>
+    <string name="confirm">की पुष्टि करें</string>
+    <string name="cancel">रद्द करना</string>
+    <string name="found_new_version">नया संस्करण मिला __s__</string>
+    <string name="daemon_failed">डेमॉन फेल हो गया</string>
+    <string name="failed_run_daemon">डेमॉन चलाने में विफल। जड़ स्थापित है?</string>
+    <string name="daemon_unexpected_closed">डेमन अप्रत्याशित रूप से बंद हो गया। जानकारी:</string>
+    <string name="daemon_exited">डेमन बाहर निकल गया</string>
+    <string name="failed_load_daemon">डेमॉन लोड करने में विफल</string>
+    <string name="is_device_rooted">रूट एक्सेस प्राप्त करने में असमर्थ।</string>
+    <string name="collect_data_to_region_log">क्षेत्र लॉग में लिखने के लिए डेटा का संग्रह शुरू किया ...</string>
+    <string name="log_saved">लॉग __s__ पर सहेजा गया</string>
+    <string name="failed_save">__s__ पर सहेजने में विफल</string>
+    <string name="region_log">क्षेत्र लॉग</string>
+    <string name="apply">लागू करें</string>
+    <string name="error">त्रुटि</string>
+    <string name="load">भार</string>
+    <string name="delete_prompt">क्या आप इस आइटम को निकालना चाहते हैं?</string>
+    <string name="reset_search">ERROR का पता चला। खोज सूची रीसेट करें।</string>
+    <string name="unknown_error">अज्ञात त्रुटि</string>
+    <string name="out_of_memory">स्मृति से बाहर</string>
+    <string name="bug_detected">बग का पता चला</string>
+    <string name="disk_full">भरी हुई डिस्क</string>
+    <string name="io_error">IO त्रुटि</string>
+    <string name="game_dead">खेल मर गया</string>
+    <string name="exit">बाहर जाएं</string>
+    <string name="skip">नज़रअंदाज़ करना</string>
+    <string name="unhandled_exception">अनियंत्रित अपवाद। विकास टीम को नीचे दी गई जानकारी भेजें?</string>
+    <string name="last_run_failed">अंतिम रन विफल</string>
+    <string name="thank_you">धन्यवाद!</string>
+    <string name="no_application">किसी भी आवेदन का चयन नहीं किया गया है।</string>
+    <string name="increments">बढ़ते क्रम में:</string>
+    <string name="add_not_replace">मूल्य में जोड़ें, प्रतिस्थापित न करें</string>
+    <string name="eperm_error">प्रक्रिया (PTRACE_ATTACH) के साथ संलग्न नहीं किया जा सका: ऑपरेशन की अनुमति नहीं है</string>
+    <string name="load_list">लोड सूची</string>
+    <string name="load_warning">आपने एक सूची लोड की है जो खेल के दूसरे उदाहरण से बचाई गई है। सबसे अधिक संभावना है, मेमोरी में सभी पते बदल गए हैं और डेटा लोड किया है जो उन डेटा के अनुरूप नहीं है जो पहले सहेजे गए थे। हम आपको इनकी जाँच करने की सलाह देते हैं।</string>
+    <string name="from">__d__ चरणों में से __d__ पूरा किया</string>
+    <string name="count_fuzzy_equal_run">"'__fuzzy_equal__' चलाने के लिए समय की संख्या:"</string>
+    <string name="slow">धीमा</string>
+    <string name="miui_restart">सुरक्षा अनुमतियाँ लागू करने के लिए __app_name__ को पुनः आरंभ करने की आवश्यकता है।</string>
+    <string name="out_of_memory_error">बाहर स्मृति त्रुटि। वर्तमान परिणाम सूची साफ़ हो गई कृपया परिणामों की संख्या दिखाने के लिए एक छोटा मान सेट करें।</string>
+    <string name="loading">लोड हो रहा है...</string>
+    <string name="found_count">मिला: __d__</string>
+    <string name="fuzzy_equal">मान अपरिवर्तित</string>
+    <string name="fuzzy_inequal">मान बदल गया</string>
+    <string name="fuzzy_larger">मान बढ़ा</string>
+    <string name="fuzzy_smaller">मूल्य घट गया</string>
+    <string name="type_edit_limit">इनपुट मूल्य __s__ से __s__</string>
+    <string name="number_name">संख्या</string>
+    <string name="step_name">वेतन वृद्धि</string>
+    <string name="number_less">"संख्या '__s__' इस प्रकार के लिए न्यूनतम मूल्य (__d__) से कम है।"</string>
+    <string name="number_greater">"संख्या '__s__' इस प्रकार के लिए अधिकतम मूल्य (__d__) से अधिक है।"</string>
+    <string name="about">के बारे में</string>
+    <string name="owner">मालिक</string>
+    <string name="design">नेतृत्व डिजाइनर</string>
+    <string name="pm">परियोजना प्रबंधन</string>
+    <string name="code">लीड कोडर</string>
+    <string name="tech">तकनीकी सलाहकार</string>
+    <string name="creator">निर्माता (सेवानिवृत्त)</string>
+    <string name="for_translators">यदि आप आवेदन का अनुवाद करने में मदद करना चाहते हैं या करना चाहते हैं, तो आप आवेदन की आधिकारिक विज्ञप्ति में शामिल किए गए अपने अनुवाद को प्राप्त करने के लिए मंच http://gameguardian.net/forum पर संपर्क कर सकते हैं।</string>
+    <string name="version">संस्करण:</string>
+    <string name="developers">डेवलपर्स:</string>
+    <string name="select_language">भाषा चुनिए</string>
+    <string name="exit_confirm">परिवर्तनों को लागू करने के लिए __app_name__ को पुनः आरंभ करने की आवश्यकता है।</string>
+    <string name="special_thanks">विशेष धन्यवाद:</string>
+    <string name="nothing_found">कुछ नहीं मिला। पुनः खोजने का प्रयास करें।</string>
+    <string name="try_more_ranges">आप सेटिंग टैब में अधिक रेंज चुनने का भी प्रयास कर सकते हैं।</string>
+    <string name="try_fuzzy_search">आप अज्ञात मूल्य के लिए खोज करने का भी प्रयास कर सकते हैं।</string>
+    <string name="search_hint">"एक ज्ञात मूल्य की खोज करने के लिए, \"__search_known_value__\" दबाएं।
+यदि मान अज्ञात है या एन्क्रिप्ट किया गया है - खोज के लिए \"__search_unknown_value__\" पर क्लिक करें।
+उनके पूर्णांक भाग द्वारा फ्लोट मानों के लिए खोज '__type_auto__' खोज प्रकार का चयन करके किया जा सकता है।
+इसके अलावा, आप एक विभाजक के रूप में '__semicolon__' के साथ एक समूह खोज का उपयोग कर सकते हैं।"</string>
+    <string name="freeze">फ्रीज:</string>
+    <string name="freeze_normal">साधारण</string>
+    <string name="freeze_may_increase">बढ़ सकता है</string>
+    <string name="freeze_may_decrease">घट सकता है</string>
+    <string name="freeze_in_range">रेंज में</string>
+    <string name="range_end_fail">"रेंज एंड ('__s__') '__s__' से अधिक होना चाहिए।"</string>
+    <string name="failed_add_window">विंडो जोड़ने में विफल</string>
+    <string name="failed_remove_window">विंडो हटाने में विफल</string>
+    <string name="system_service_stopped">एप्लिकेशन सामान्य रूप से काम नहीं कर सकता क्योंकि सिस्टम सेवा बंद कर दी गई थी। एप्लिकेशन को पुनरारंभ करने या डिवाइस को रिबूट करने का प्रयास करें।</string>
+    <string name="value_request">खोजने के लिए एक मान दर्ज करें</string>
+    <string name="type_request">खोज करने के लिए डेटा का प्रकार चुनें</string>
+    <string name="type_change_request">बदलने के लिए डेटा प्रकार का चयन करें</string>
+    <string name="value">मूल्य</string>
+    <string name="save_as">के रूप रक्षित करें:</string>
+    <string name="restart">पुनः आरंभ करें</string>
+    <string name="start">शुरु</string>
+    <string name="wait_daemon">यदि डेमन नहीं चल रहा है तो यह फ़ंक्शन उपलब्ध नहीं है। प्रतीक्षा करें जब तक डेमॉन शुरू न हो जाए। (क्या आप रूट एक्सेस देना भूल गए हैं? या रूट स्थापित नहीं है?)</string>
+    <string name="daemon_fail">डेमॉन नहीं चल रहा है</string>
+    <string name="config_icon_text">आइकन: पारदर्शिता = __d__ %%, छिपाएँ - __s__</string>
+    <string name="icon_hide_after">__d__ सेकंड के बाद</string>
+    <string name="icon_hide_never">कभी नहीँ</string>
+    <string name="keyboard">कीबोर्ड:</string>
+    <string name="internal">अंदर का</string>
+    <string name="external">बाहरी</string>
+    <string name="failed_copy_text">क्लिपबोर्ड पर पाठ कॉपी करने में विफल:</string>
+    <string name="copied">कॉपी किया गया</string>
+    <string name="copy_value">मान की प्रतिलिपि बनाएँ:</string>
+    <string name="copy_address">पते की प्रतिलिपि बनाएँ:</string>
+    <string name="goto_address">पते पर जाएं:</string>
+    <string name="search_unknown_value">अज्ञात (फजी) खोज</string>
+    <string name="search_known_value">ज्ञात (सटीक) खोज</string>
+    <string name="speedhack_hint">गेम की गति को बदलने के लिए, फ्लोटिंग __app_name__ आइकन पर एक लंबा प्रेस करें।</string>
+    <string name="bad_firmware">आपके फर्मवेयर में त्रुटियां हैं जो इस सुविधा के उपयोग को रोकती हैं।</string>
+    <string name="language">भाषा</string>
+    <string name="acceleration">इंटरफ़ेस त्वरण:</string>
+    <string name="hardware">हार्डवेयर</string>
+    <string name="software">सॉफ्टवेयर</string>
+    <string name="speedhack">गति हैक</string>
+    <string name="data_in_ram">RAM में डेटा:</string>
+    <string name="first_mb">पहले __d__ एमबी</string>
+    <string name="donate">दान करना</string>
+    <string name="speeds">गति</string>
+    <string name="floating_window_fail">फ्लोटिंग विंडो दिखाने में असमर्थ</string>
+    <string name="check">सत्यापन</string>
+    <string name="check_success">सत्यापन सफल रहा</string>
+    <string name="enable_draw_perm">कृपया अगली स्क्रीन पर अनुमतियां सक्षम करें।</string>
+    <string name="speedhack_fail">इस प्रक्रिया के लिए स्पीडहॉक समर्थित नहीं है</string>
+    <string name="dangerous">खतरनाक</string>
+    <string name="difference">अंतर</string>
+    <string name="old_value">पुराना मूल्य</string>
+    <string name="new_value">नया मूल्य</string>
+    <string name="mode_hacking">मान एन्क्रिप्ट किया गया है</string>
+    <string name="union">समूह खोज</string>
+    <string name="speedhack_open">फ्लोटिंग __app_name__ आइकन पर लंबे समय तक दबाकर आप स्पीडहाक खोल सकते हैं</string>
+    <string name="history">इतिहास</string>
+    <string name="history_empty">इतिहास खाली है</string>
+    <string name="allow_suggestions">कीबोर्ड से सुझाव दें:</string>
+    <string name="invalid_area">समूह का आकार __d__ और __d__ के बीच होना चाहिए:</string>
+    <string name="union_need_two_numbers">समूह खोज के लिए कम से कम दो संख्याएँ होनी चाहिए</string>
+    <string name="too_many_union_numbers">बहुत अधिक संख्या, इससे अधिक:</string>
+    <string name="invalid_number">अमान्य संख्या:</string>
+    <string name="input_number">इनपुट नंबर</string>
+    <string name="number_out_of_range">"संभावित सीमा से बाहर नंबर '__s__':"</string>
+    <string name="help_floating_icon">"* फ्लोटिंग आइकन:
+\u0009* इंटरफ़ेस खोलने के लिए टैप करें।
+\u0009* स्पीडहाक पैनल को टॉगल करने के लिए टैप और होल्ड करें।
+* आइकन को खींचकर और गिराकर इसे किसी भी स्थान पर ले जाया जा सकता है।
+\u0009* ट्रांसपेरेंसी और हाईड टाइमर को ऐप सेटिंग में कस्टमाइज किया जा सकता है।
+"</string>
+    <string name="help_exact_search">"* सटीक खोज:
+\u00091. एक गेम से __app_name__ पर स्विच करें।
+\u00092. \"__search__\" टैब में \"__search_known_value__\" बटन पर टैप करें।
+\u00093. उस नंबर पर इनपुट करें जो खेल में प्रदर्शित होता है।
+\u00094. उपयुक्त डेटा प्रकार का चयन करें, या \"__type_auto__\" चुनें (यदि आपको यकीन नहीं है) और अन्य विकल्प (यदि आवश्यक हो) और \"__search__\" पर क्लिक करें।
+\u00095. जब खोज समाप्त हो जाती है, तो खोज परिणाम सूची में प्रदर्शित किए जाएंगे।
+\u00096. खेल पर वापस जाएं। मान बदलने के बाद, फिर से __app_name__ पर स्विच करें।
+\u00097. उस मान के लिए खोजें जो बदल गया है।
+\u00098. यदि बहुत अधिक परिणाम हैं, तो चरण 6 पर जारी रखें।
+\u00099. यदि केवल कुछ परिणाम बचे हैं, तो आप मूल्य को संशोधित, संग्रहीत या फ्रीज करने का प्रयास कर सकते हैं।
+"</string>
+    <string name="help_speedhack">"* गति हैक:
+\u0009* स्पीडहॉक पैनल दिखाने के लिए फ्लोटिंग आइकन पर टैप करें और दबाए रखें।
+\u0009* आइकन के दोनों ओर तीर को टैप करें, खेल की गति को बदलने के लिए।
+\u0009* गेम की गति को रीसेट करने के लिए वर्तमान गति संख्या को टैप करें और दबाए रखें।
+\u0009* स्पीडहॉक पैनल को छिपाने के लिए फ्लोटिंग आइकन को टैप करें और दबाए रखें।
+\u0009* गति और टाइमर की सूची का उपयोग ऐप सेटिंग्स में अनुकूलित किया जा सकता है।
+\u0009* यदि गेम इनपुट पर प्रतिक्रिया नहीं देता है या स्पीडहैक काम नहीं करता है, तो __app_name__ सेटिंग्स में अन्य हरी टाइमर का उपयोग करने का प्रयास करें।
+\u0009* समय से पहले कूदने के लिए आप \"__time_jump__\" का उपयोग कर सकते हैं। बस खोज टैब पर मेनू चुनें और \"__time_jump__\" चुनें। आपको यह निर्दिष्ट करने की आवश्यकता होगी कि कूदने के लिए कितने सेकंड हैं। कूदने के लिए राशि आंशिक हो सकती है।
+"</string>
+    <string name="help_fuzzy_search">"* अस्पष्ट खोज:
+\u00091. एक गेम से __app_name__ पर स्विच करें।
+\u00092. \"__search__\" टैब में \"__search_unknown_value__\" बटन पर टैप करें।
+\u00093. उपयुक्त डेटा प्रकार का चयन करें, या \"__type_auto__\" चुनें (यदि आपको यकीन नहीं है) और \"__search__\" पर क्लिक करें।
+\u00094. जब खोज समाप्त हो जाती है, तो खोज परिणाम सूची में प्रदर्शित किए जाएंगे।
+\u00095. खेल के लिए वापस। मान बदलने (या नहीं) के बाद, फिर से __app_name__ पर स्विच करें।
+\u00096. \"__search_unknown_value__\" बटन पर टैप करें और मूल्य को कैसे बदला गया है इसके लिए प्रकार का चयन करें।
+\u00097. यदि बहुत अधिक परिणाम हैं, तो चरण 5 पर जारी रखें।
+\u00098. यदि केवल कुछ परिणाम बचे हैं, तो आप मूल्य को संशोधित, संग्रहीत या फ्रीज करने का प्रयास कर सकते हैं।
+
+\u0009आप \"__more__\" बटन पर क्लिक करके मूल्य के सटीक परिवर्तन को निर्दिष्ट कर सकते हैं।
+\u0009आप एक सटीक मान परिवर्तन के रूप में एक सीमा में प्रवेश कर सकते हैं:
+\u0009\u0009190__tilde__210
+\u0009मानों की श्रेणी के बाहर परिवर्तन निर्दिष्ट करने के लिए, आप इनपुट कर सकते हैं:
+\u0009\u000910__tilde____tilde__4000
+"</string>
+    <string name="help_group_search">"* समूह खोज:
+\u00091. एक गेम से __app_name__ पर स्विच करें।
+\u00092. \"__search__\" टैब में \"__search_known_value__\" बटन पर टैप करें।
+\u00093. समूह खोज के लिए इनपुट खोज अनुरोध।
+\u0009\u0009प्रारूप: मूल्य 1 __semicolon__ मूल्य 2 __semicolon__ ... __semicolon__ मूल्य एन __colon__ समूह आकार
+\u0009\u0009एक ही समय में 2-__max_group__ मूल्यों को खोजा जा सकता है। डिफ़ॉल्ट समूह का आकार 512 है। समूह का आकार 2 से 65536 के बीच होना चाहिए।
+\u0009\u0009उदाहरण के लिए, यदि आप 195 और 6543 को खोजना चाहते हैं, तो आपको इनपुट करना चाहिए:
+\u0009\u0009\u0009195 __semicolon__ 6543
+\u0009\u0009बेशक आप समूह का आकार निर्दिष्ट कर सकते हैं (300):
+\u0009\u0009\u0009195 __semicolon__ 6543 __colon__ 300
+\u0009\u0009इसके अलावा, आप एक या अधिक डेटा प्रकार सेट कर सकते हैं:
+\u0009\u0009\u0009195__type_dword_short__ __semicolon__ 6543
+\u0009\u0009इसका मतलब है कि आप __type_dword__ मूल्य की खोज करना चाहते हैं जो कि 195 है और __type_auto__ मान 6543 है।
+\u0009\u0009संभावित डेटा प्रकार वही हैं जो वे खोज में हैं:
+\u0009\u0009\u0009__type_byte_short__ - __type_byte__
+\u0009\u0009\u0009__type_word_short__ - __type_word__
+\u0009\u0009\u0009__type_dword_short__ - __type_dword__
+\u0009\u0009\u0009__type_xor_short__ - __type_xor__
+\u0009\u0009\u0009__type_qword_short__ - __type_qword__
+\u0009\u0009\u0009__type_float_short__ - __type_float__
+\u0009\u0009\u0009__type_double_short__ - __type_double__
+\u0009\u0009\u0009__type_auto_short__ - __type_auto__
+\u0009\u0009इसके अलावा, आप संख्या को हेक्स (थोड़ा-एंडियन) अंकन में लिख सकते हैं:
+\u0009\u0009\u0009__hex_example____hex__ __semicolon__ 6543
+\u0009\u0009या रिवर्स हेक्स (बिग-एंडियन) संकेतन में:
+\u0009\u0009\u0009__hex_example____rhex__ __semicolon__ 6543
+\u0009\u0009अतिरिक्त प्रतीकों को इनपुट करने के लिए, आंतरिक कीबोर्ड पर \"__btn_hex__\" बटन का उपयोग करें।
+\u00094. उपयुक्त डेटा प्रकार का चयन करें, या डिफ़ॉल्ट के रूप में उपयोग करने के लिए \"__type_auto__\" (यदि आप सुनिश्चित नहीं हैं) का चयन करें। इस प्रकार की खोज के लिए अन्य विकल्प मायने नहीं रखते। \"__search__\" पर क्लिक करें।
+\u00095. जब खोज समाप्त हो जाती है, तो खोज परिणाम सूची में प्रदर्शित किया जाएगा।
+\u00096. खेल में वापस। मान बदलने के बाद, फिर से __app_name__ पर स्विच करें।
+\u00097. उचित परिवर्तनों के साथ समूह खोज को दोहराएं।
+\u00098. यदि बहुत अधिक परिणाम हैं, तो चरण 6 और 7 दोहराएं।
+\u00099. यदि कुछ परिणाम बचे हैं, तो आप मूल्य को संशोधित, संग्रहीत या फ्रीज करने का प्रयास कर सकते हैं।
+
+\u0009यदि आप मानों का सम्मान क्रम चाहते हैं तो __colon__ को दो बार निर्दिष्ट करें।
+\u0009समूह आकार के बिना:
+\u0009\u0009195 __semicolon__ 6543 __colon____colon__
+\u0009समूह आकार के साथ:
+195 __semicolon__ 6543 __colon____colon__ 300
+
+\u0009आप मानों की श्रेणी में खोज कर सकते हैं:
+\u0009\u0009190__tilde__210 __semicolon__ 6543
+\u0009इसके अलावा, आप मूल्यों की सीमा के बाहर खोज कर सकते हैं:
+\u0009\u000910__tilde____tilde__4000 __semicolon__ 6543
+"</string>
+    <string name="help_others">"* अन्य:
+\u0009* नई खोजों के लिए, आपको मेनू बटन के नीचे मेनू में \"__clear__\" का चयन करके पिछले खोज परिणामों को साफ़ करना होगा।
+\u0009* ऊपरी बाएं कोने में गेम आइकन पर एक और गेम टैप चुनें।
+\u0009* गेम को रोकने / फिर से शुरू करने के लिए - ऊपरी बाएँ कोने में आइकन के नीचे बटन पर टैप करें।
+\u0009* यदि आप पॉज़ सक्रिय होने के दौरान किसी गेम में जाते हैं, तो अगली बार जब आप __app_name__ खोलते हैं, तो वह गेम अपने आप बंद हो जाएगा।
+\u0009* सभी जमे हुए मान स्वचालित रूप से सहेजी गई सूची में जोड़ दिए जाते हैं। आप उन्हें उपयुक्त टैब के तहत प्रबंधित कर सकते हैं।
+\u0009* सभी इनपुट डेटा \"__history__\" सूची में सहेजता है। आप इतिहास बटन दबाकर उनका उपयोग कर सकते हैं।
+"</string>
+    <string name="help_typical_usage">"* विशिष्ट उपयोग एल्गोरिदम:
+
+1) मान एन्क्रिप्टेड और ज्ञात नहीं है।
+\u0009एक विशिष्ट मामला पैसे, सितारों, सिक्कों, संसाधनों आदि का होगा।
+
+\u0009सटीक खोज का उपयोग करें।
+
+2) मान अज्ञात और / या एन्क्रिप्ट किया गया है।
+\u0009एक अज्ञात मूल्य का एक विशिष्ट मामला - किसी भी पैमाने / बार। उदाहरण के लिए स्वास्थ्य, मन, नाइट्रो, आदि में परिवर्तन देखा जाता है, लेकिन कोई संख्यात्मक मान दिखाई नहीं देता है।
+\u0009एन्क्रिप्टेड मूल्यों के लिए एक विशिष्ट मामला पैसा, सितारे, सिक्के आदि होगा, लेकिन जब 1 एल्गोरिथ्म के साथ खोज करने पर कुछ भी नहीं मिलता है, या पाया गया मूल्यों के परिवर्तन से गेम में नंबर नहीं बदलते हैं।
+
+\u0009फजी सर्च का इस्तेमाल करें।
+
+
+3) मान एन्क्रिप्ट किया गया है (__mode_hacking__)।
+\u0009एन्क्रिप्टेड मूल्यों के लिए एक विशिष्ट मामला पैसा, सितारे, सिक्के आदि होगा, लेकिन जब 1 एल्गोरिथ्म के साथ खोज करने पर कुछ भी नहीं मिलता है, या पाया गया मूल्यों के परिवर्तन से गेम में नंबर नहीं बदलते हैं।
+
+\u0009सटीक खोज का उपयोग करें, लेकिन हमेशा चेकबॉक्स \"__mode_hacking__\" का चयन करें।
+\u0009एन्क्रिप्शन के कारण मिले परिणामों में अजीब मूल्य हो सकते हैं।
+
+एल्गोरिथम 3 2 की तुलना में बहुत तेज है, लेकिन यह सभी खेलों के लिए काम नहीं कर सकता है।
+
+4) मान एन्क्रिप्टेड, ज्ञात नहीं है और अन्य ज्ञात मूल्यों के पास रखा गया है।
+\u0009एक विशिष्ट मामला स्टोर, हीरो स्टैटिस्टिक्स आदि में कीमत के लिए होगा।
+
+\u0009एक समय में सभी नंबरों के लिए समूह खोज का उपयोग करें।
+"</string>
+    <string name="help_hints">"* संकेत:
+
+\u0009* सभी खेल __app_name__ द्वारा संशोधित नहीं किए जा सकते। उदाहरणों की विशिष्ट सूची:
+\u0009\u0009एक सर्वर (सर्वर-साइड गेम) पर संग्रहीत डेटा
+\u0009\u0009* खेल को लगातार इंटरनेट कनेक्शन की आवश्यकता होती है
+\u0009\u0009* नेटवर्क अन्य खिलाड़ियों के साथ खेलते हैं
+\u0009\u0009* आप खेल की शुरुआत में कनेक्ट करने के लिए एक सर्वर का चयन करने की जरूरत है
+\u0009\u0009* आप इंटरनेट के बिना कुछ चीजों का उपयोग नहीं कर सकते
+\u0009\u0009* यदि आप कुछ बदलते हैं तो सर्वर से गेम का डेटा पुनः लोड करता है
+\u0009* जो मूल्य देखे जाते हैं वे हमेशा उसी तरह नहीं होते हैं जैसे वे संग्रहीत होते हैं। वे अलग-अलग हो सकते हैं। उदाहरण के लिए स्क्रीन पर हम 34 देखते हैं, लेकिन मेमोरी में मूल्य 34000 है।
+\u0009* यदि आप एक मान को संशोधित नहीं कर सकते हैं - उन मूल्यों को संशोधित करने का प्रयास करें, जिन्होंने इस मूल्य को प्रभावित किया है। उदाहरण के लिए, सोने की मात्रा को बदलने के बजाय, आप चीज़ की कीमत को बदल सकते हैं और बेच सकते हैं। या एक नकारात्मक मूल्य के साथ खरीदते हैं।
+"</string>
+    <string name="help">मदद</string>
+    <string name="help_floating_icon_title">फ्लोटिंग आइकन</string>
+    <string name="help_exact_search_title">सटीक खोज</string>
+    <string name="help_speedhack_title">गति हैक</string>
+    <string name="help_group_search_title">समूह खोज</string>
+    <string name="help_others_title">अन्य लोग</string>
+    <string name="help_typical_usage_title">विशिष्ट उपयोग एल्गोरिदम</string>
+    <string name="help_hints_title">संकेत</string>
+    <string name="value_format">मान स्वरूप</string>
+    <string name="format_hex">हेक्स (थोड़ा-सा एंडियन) अंकन</string>
+    <string name="format_rhex">रिवर्स हेक्स (बिग-एंडियन) संकेतन</string>
+    <string name="clear_selection">चयन साफ़ करें</string>
+    <string name="invert_selection">चयन को उल्टा करें</string>
+    <string name="select_all">सभी का चयन करे</string>
+    <string name="edit_selected">चयनित संपादित करें</string>
+    <string name="delete_selected">चुना हुआ हटाओ</string>
+    <string name="save_selected">चयनित सहेजें</string>
+    <string name="nothing_selected">कुछ भी चयनित नहीं</string>
+    <string name="items_added">आइटम (__d__) सहेजी गई सूची में जोड़े गए</string>
+    <string name="no_items_for_editing">संपादित करने के लिए कोई आइटम नहीं हैं।</string>
+    <string name="edit_info">__s__ के रूप में __s__ संपादित करें</string>
+    <string name="edit_all_info">Edit __d__ addresses as __s__</string>
+    <string name="autopause">ऑटोपॉज गेम:</string>
+    <string name="empty_list">"बचाई गई सूची खाली है।
+आप खोज परिणाम सूची से या मेमोरी एडिटर से इसमें आइटम जोड़ सकते हैं।
+बस वांछित तत्वों का चयन करें और मेनू में \"__save_selected__\" चुनें।
+एक अन्य विधि - एक मूल्य संपादित करना शुरू करें और चेकबॉक्स \"__save_as__\" की जांच करें।
+साथ ही सभी जमे हुए मूल्य यहां स्वचालित रूप से जोड़े जाते हैं।"</string>
+    <string name="empty_save">बचाई गई सूची खाली है। बचाने के लिए कुछ भी नहीं है।</string>
+    <string name="revert_selected">चयनित वापस करें</string>
+    <string name="nothing_to_revert">कुछ भी उल्टा नहीं</string>
+    <string name="revert_prompt">चयनित आइटम (__d__) वापस लाएं?</string>
+    <string name="download">इस ऐप से डाउनलोड किया जा सकता है:</string>
+    <string name="format_string">स्ट्रिंग प्रतिनिधित्व</string>
+    <string name="forgot_h">"क्या आप अंत में '__hex__' को भूल गए?"</string>
+    <string name="time_jump">समय की छलांग</string>
+    <string name="time_jump_hint">आगे बढ़ने के लिए सेकंड की संख्या दर्ज करें:</string>
+    <string name="hide_from_game">खेल से __app_name__ छिपाएँ:</string>
+    <string name="last_stats">आपकी अंतिम खोज के लिए आँकड़े</string>
+    <string name="memory_access">स्मृति तक पहुँच:</string>
+    <string name="normal">साधारण</string>
+    <string name="extended">विस्तृत</string>
+    <string name="experimental">प्रयोगात्मक</string>
+    <string name="installing">__app_name__ खेलों द्वारा पहचान का पता लगाने के लिए एक यादृच्छिक नाम के साथ खुद का एक पुनर्स्थापना करता है। रुकिए।</string>
+    <string name="failed_install">एप्लिकेशन इंस्टॉल करने में विफल। पुनः प्रयास करें?</string>
+    <string name="failed_uninstall">एप्लिकेशन को अनइंस्टॉल करने में विफल। पुनः प्रयास करें?</string>
+    <string name="download_it">डाउनलोड</string>
+    <string name="more">अधिक</string>
+    <string name="less">कम</string>
+    <string name="no_space">आपके डिवाइस पर कोई स्थान नहीं बचा है</string>
+    <string name="install_cancel_prompt">स्थापित नहीं होने पर __app_name__ का पता लगाया जा सकता है। क्या आप वास्तव में रद्द करना चाहते हैं?</string>
+    <string name="intercept">अवरोधन</string>
+    <string name="need_restart">इन परिवर्तनों को लागू करने के लिए लक्ष्य एप्लिकेशन को पुनः आरंभ किया जाना चाहिए।</string>
+    <string name="must_be_root">"इस प्रोग्राम के संचालन के लिए, आपके डिवाइस में रूट होना चाहिए।
+
+__app_name__ एक आभासी वातावरण के माध्यम से जड़ के बिना सीमित मोड में काम कर सकता है। उदाहरण के लिए, __vspace_list__ और कई अन्य लोगों के माध्यम से।
+अधिक जानकारी के लिए मदद पढ़ें।
+
+किसी भी उपकरण को कैसे रूट करें: http://www.xda-developers.com/root/"</string>
+    <string name="skip_">छोड़ें</string>
+    <string name="indent_for_the_status_bar">स्क्रीन के ऊपर से यूआई का संकेत:</string>
+    <string name="start_collecting_data">डेटा एकत्र करना शुरू करें</string>
+    <string name="data_collecting_in_progress">डेटा संग्रह प्रगति पर है</string>
+    <string name="copy">प्रतिलिपि</string>
+    <string name="show_logcat">लॉगकाट दिखाएं</string>
+    <string name="path_must_be">"पाथ कम से कम 2 अक्षर लंबा होना चाहिए और '/' से शुरू होता है।"</string>
+    <string name="fix_it">इसे ठीक करो</string>
+    <string name="change_log">लॉग बदलें</string>
+    <string name="used_only_first">पहले केवल __d__ वस्तुओं का उपयोग किया गया था।</string>
+    <string name="need_select_more">__d__ या अधिक आइटम का चयन करें।</string>
+    <string name="offset">ऑफसेट:</string>
+    <string name="result">परिणाम:</string>
+    <string name="copy_hex_value">हेक्स मान कॉपी करें:</string>
+    <string name="goto_pointer">पॉइंटर पर जाएं:</string>
+    <string name="offset_calculator">ऑफसेट कैलकुलेटर</string>
+    <string name="fill_toolbar">टूलबार भरें:</string>
+    <string name="from_left">बाएं से</string>
+    <string name="from_center">केंद्र से</string>
+    <string name="from_right">दाईं ओर से</string>
+    <string name="unit_years_short">y</string>
+    <string name="unit_days_short">घ</string>
+    <string name="unit_hours_short">ज</string>
+    <string name="unit_minutes_short">मिनट</string>
+    <string name="unit_seconds_short">सेकंड</string>
+    <string name="speed_info">__s__ वास्तविक समय में = __s__ खेल समय में</string>
+    <string name="search_helper">खोज सहायक:</string>
+    <string name="off">बंद</string>
+    <string name="go_to_game">बहुत सारे मान पाए जाने पर खेल पर वापस जाएं</string>
+    <string name="go_to_game_and_restore">खेल में वापस जाएं, यदि बहुत सारे मान पाए जाते हैं और अगले खुले पर खोज मोड को पुनर्स्थापित करें</string>
+    <string name="nothing">कुछ भी तो नहीं</string>
+    <string name="sort">तरह</string>
+    <string name="sort_and_remove_duplicates">डुप्लिकेट को सॉर्ट और निकालें</string>
+    <string name="help_basics_title">मूलभूत जानकारी</string>
+    <string name="help_basics">"एप्लिकेशन शुरू करने के बाद, \"__start__\" बटन पर क्लिक करके स्क्रीन पर एक फ्लोटिंग आइकन दिखाई देगा। इसे किसी भी स्थान पर खींचा जा सकता है।
+आइकन पर शॉर्ट टैपिंग से मुख्य एप्लिकेशन इंटरफ़ेस खुल जाएगा, लंबा टैप - गेम की गति को बदलने के लिए एक पैनल दिखाएगा।
+
+मुख्य स्क्रीन में आप देख सकते हैं:
+\u0009* ऊपरी बाएं कोने में - खेल का आइकन। इस पर टैप करने से आप दूसरे गेम का चयन कर सकते हैं।
+\u0009* केंद्र में स्थित टैब के माध्यम से नेविगेट करने के लिए बुकमार्क हैं। वांछित बुकमार्क पर टैप करने से उपयुक्त टैब प्रदर्शित होता है।
+
+कुल में 4 टैब हैं: सेटिंग्स, खोज, सहेजी गई सूची और मेमोरी एडिटर।
+\u0009* इंटरफ़ेस के ऊपरी दाएँ कोने में समापन बटन है। इसे दबाएं और इंटरफ़ेस छिपा दिया जाएगा, और स्क्रीन पर एक फ्लोटिंग आइकन दिखाई देगा।
+\u0009* स्क्रीन के नीचे एक स्टेटस बार और आई आइकन है। यदि आप आंख के आइकन पर दबाते हैं और पकड़ते हैं, तो इंटरफ़ेस पारदर्शी हो जाता है, जब तक आप अपनी उंगली जारी नहीं करते हैं।
+\u0009* स्क्रीन की बाकी सामग्री इस बात पर निर्भर करती है कि आप किस टैब पर हैं।
+
+प्रत्येक टैब पर, सेटिंग्स टैब को छोड़कर, एक मेनू बटन होता है, जिसमें विभिन्न संभावित क्रियाएं होती हैं। इसमें आपको इस टैब के लिए मुख्य क्रियाएं मिलेंगी।
+
+सेटिंग्स टैब में विभिन्न प्रकार की सेटिंग्स, मदद और एप्लिकेशन और निकास बटन के बारे में जानकारी होती है।
+
+खोज टैब में शामिल हैं:
+\u0009* पॉज़ बटन, चयनित गेम का नाम, पाए गए परिणामों की संख्या और ताज़ा बटन।
+\u0009* नीचे एक पैनल है जिसमें क्विक एक्सेस आइकन और एक मेनू बटन है। सभी आइकन मेनू पर डुप्लिकेट हैं, इसलिए यदि आप आइकन का अर्थ नहीं जानते हैं, तो इसे हमेशा मेनू बटन (सबसे दाएं) पर क्लिक करके देखा जा सकता है।
+\u0009* उन आइकन के नीचे खोज परिणामों की सूची होगी।
+
+सहेजे गए सूची टैब में शामिल हैं:
+\u0009* पॉज बटन, चयनित एप्लिकेशन का नाम, मेनू बटन और रिफ्रेश बटन।
+\u0009* उन आइकन के नीचे सहेजे गए मूल्यों की सूची होगी।
+
+मेमोरी एडिटर टैब पहले की तरह ही है, केवल यहां सेव किए गए मानों की सूची के बजाय यह मेमोरी कंटेंट प्रदर्शित करता है।
+
+सभी तीन सूचियों में (खोज परिणाम, सहेजे गए मान और मेमोरी एडिटर), आप संदर्भ मेनू दिखाने के लिए आइटम पर एक लंबा टैप कर सकते हैं।"</string>
+    <string name="daemon_killed">"डेमन किसी चीज से मारा गया था।
+
+आमतौर पर यह हो सकता है:
+\u00091. कोई भी स्मृति हत्यारे या आशावादी। आपको किसी भी हत्यारे को अक्षम करना होगा या इसकी सेटिंग में __app_name__ सफेद सूची को जोड़ना होगा।
+\u00092. __daemon_killed_oom__
+\u00093. मेमोरी कार्ड अनमाउंट किया गया था, जबकि __app_name__ ने इस पर अस्थायी फाइलें संग्रहीत की थीं। ऐसा होने से रोकने के लिए, अस्थायी फ़ाइलों के लिए एक अलग पथ निर्दिष्ट करें। उदाहरण के लिए, आंतरिक मेमोरी में।"</string>
+    <string name="bad_settings">खराब सेटिंग्स</string>
+    <string name="freeze_lags">__hide_from_game__ सेटिंग के साथ फ्रीज मूल्यों का उपयोग करने से खेल में अंतराल हो सकता है।</string>
+    <string name="improve_translation">यह अनुवाद एक स्वचालित अनुवादक द्वारा बनाया गया था। आप हमारी सामूहिक अनुवाद सेवा का उपयोग करके इसे सुधार सकते हैं।</string>
+    <string name="freeze_interval">फ्रीज अंतराल:</string>
+    <string name="saved_list_update_interval">सहेजे गए सूची अपडेट अंतराल:</string>
+    <string name="milliseconds_short">सुश्री</string>
+    <string name="disable_floating_windows">फ़्लोटिंग विंडो को अक्षम करें और ऐप को पुनरारंभ करें</string>
+    <string name="enable_floating_windows">फ़्लोटिंग विंडो को सक्षम करें और ऐप को पुनरारंभ करें</string>
+    <string name="too_many">बहुत अधिक</string>
+    <string name="help_range_search_title">श्रेणी खोज</string>
+    <string name="help_range_search">"* रेंज खोज:
+\u00091. एक गेम से __app_name__ पर स्विच करें।
+\u00092. \"__search__\" टैब में \"__search_known_value__\" बटन पर टैप करें।
+\u00093. \"__tilde__\" द्वारा अलग किया गया एक सीमा खोज सीमा दर्ज करें। उदाहरण के लिए, 100 से 150 तक के मानों की खोज करने के लिए:
+\u0009\u0009\u0009100__tilde__150
+\u0009\u0009सीमा के बाहर खोजने के लिए, आप दो बार \"__tilde__\" वर्ण निर्दिष्ट कर सकते हैं:
+\u0009\u0009\u0009100__tilde____tilde__150
+\u0009\u0009वैकल्पिक रूप से, आप \"__not_equal__\" पर हस्ताक्षर का चयन कर सकते हैं और एक बार \"__tilde__\" चरित्र निर्दिष्ट कर सकते हैं।
+\u0009\u0009अतिरिक्त प्रतीकों को इनपुट करने के लिए, आंतरिक कीबोर्ड पर \"__btn_hex__\" बटन का उपयोग करें।
+\u00094. उपयुक्त डेटा प्रकार का चयन करें, या \"__type_auto__\" चुनें (यदि आपको यकीन नहीं है) और अन्य विकल्प (यदि आवश्यक हो) और \"__search__\" पर क्लिक करें।
+\u00095. जब खोज समाप्त हो जाती है, तो खोज परिणाम सूची में प्रदर्शित किए जाएंगे।
+\u00096. खेल में वापस। मान बदलने के बाद, फिर से __app_name__ पर स्विच करें।
+\u00097. उपयुक्त बदलावों के साथ रिपीट रेंज सर्च।
+\u00098. यदि बहुत अधिक परिणाम हैं, तो चरण 6 और 7 दोहराएं।
+\u00099. यदि कुछ परिणाम बचे हैं, तो आप मूल्य को संशोधित, संग्रहीत या फ्रीज करने का प्रयास कर सकते हैं।
+
+\u0009खोज परिणामों में शामिल सीमा की सीमाएँ। आप उन सभी मूल्यों को खोजने के लिए खोज के प्रकार \"__not_equal__\" का चयन कर सकते हैं जो सीमा से संबंधित नहीं हैं।
+\u0009इस खोज में, सभी मानों पर हस्ताक्षर किए गए माने जाते हैं।
+"</string>
+    <string name="does_not_support">\"__s__\" \"__s__\" का समर्थन नहीं करता है।</string>
+    <string name="range_bounds_diff_types">सीमा सीमा एक ही प्रकार की होनी चाहिए।</string>
+    <string name="examples">उदाहरण</string>
+    <string name="rtfm">अधिक जानकारी के लिए मदद पढ़ें।</string>
+    <string name="icons_size">प्रतीक का आकार:</string>
+    <string name="revert_and_remove">वापस लाएं और निकालें</string>
+    <string name="remove">हटाना</string>
+    <string name="ordered_group_search">समूह खोज का आदेश दिया गया</string>
+    <string name="load_items">आइटम</string>
+    <string name="load_values">मान</string>
+    <string name="load_freeze">फ्रीज</string>
+    <string name="video_tutorials">वीडियो ट्यूटोरियल और गाइड कैसे हैक करने के लिए</string>
+    <string name="make_copy">एक प्रति बनाओ</string>
+    <string name="video">वीडियो</string>
+    <string name="ordered">आदेश दिया</string>
+    <string name="toolbars">उपकरण पट्टियाँ</string>
+    <string name="saved_list">सहेजे गए सूची</string>
+    <string name="memory_editor">मेमोरी एडिटर</string>
+    <string name="restart_game">खेल को पुनरारंभ करें</string>
+    <string name="refine">परिष्कृत</string>
+    <string name="internal_storage">आंतरिक स्टोरेज</string>
+    <string name="external_storage">बाह्य भंडारण</string>
+    <string name="new_search">नयी शोध</string>
+    <string name="load_saved_list">सहेजी गई सूची को फ़ाइल से लोड करें</string>
+    <string name="save_saved_list">सहेजे गए सूची को फ़ाइल में सहेजें</string>
+    <string name="append">जोड़ना</string>
+    <string name="xor_key">XOR कुंजी:</string>
+    <string name="only_memory">केवल मेमोरी रेंज के भीतर:</string>
+    <string name="dump_memory">स्मृति को नम करें</string>
+    <string name="path">पथ:</string>
+    <string name="dump_ended">डंप समाप्त हुआ</string>
+    <string name="dump_failed">डंप विफल रहा</string>
+    <string name="eperm_error_defend">प्रक्रिया (PTRACE_ATTACH) से जुड़ नहीं सका: खेल सुरक्षित है</string>
+    <string name="reset_on_exit">बाहर निकलने पर रीसेट करें:</string>
+    <string name="kill_game">खेल को मार डालो</string>
+    <string name="kill_game_info">किसी प्रक्रिया को जबरन समाप्त करना प्रक्रिया को सफाई से बंद करने का अवसर नहीं देता है और डेटा हानि या सिस्टम अस्थिरता का कारण बन सकता है।</string>
+    <string name="continue_ask">जारी रहना?</string>
+    <string name="copy_memory">स्मृति की प्रतिलिपि बनाएँ</string>
+    <string name="copy_from">से प्रतिलिपि बनाएँ:</string>
+    <string name="paste_to">इसे चिपकाएँ:</string>
+    <string name="count_bytes">गणना बाइट्स:</string>
+    <string name="copy_ended">कॉपी मेमोरी खत्म हो गई</string>
+    <string name="copy_failed">कॉपी मेमोरी विफल रही</string>
+    <string name="help_encrypted_search_title">एन्क्रिप्टेड मूल्यों के लिए खोजें</string>
+    <string name="help_encrypted_search">"* एन्क्रिप्टेड मूल्यों के लिए खोजें:
+\u00091. एक गेम से __app_name__ पर स्विच करें।
+\u00092. \"__search__\" टैब में \"__search_known_value__\" बटन पर टैप करें।
+\u00093. उस नंबर पर इनपुट करें जो खेल में प्रदर्शित होता है।
+\u00094. उपयुक्त डेटा प्रकार का चयन करें, या \"__type_auto__\" (यदि आप निश्चित नहीं हैं), किसी अन्य विकल्प (यदि आवश्यक हो) का चयन करें, \"__mode_hacking__\" जांचें और \"__search__\" पर क्लिक करें।
+\u00095. जब खोज समाप्त हो जाती है, तो खोज परिणाम सूची में प्रदर्शित किए जाएंगे।
+\u00096. खेल पर वापस जाएं। मान बदलने के बाद, फिर से __app_name__ पर स्विच करें।
+\u00097. उस मान के लिए खोजें जो बदल गया है। चेकबॉक्स \"__mode_hacking__\" को चेक करना होगा।
+\u00098. यदि बहुत अधिक परिणाम हैं, तो चरण 6 पर जारी रखें।
+\u00099. यदि केवल कुछ परिणाम बचे हैं, तो आप मूल्य को संशोधित, संग्रहीत या फ्रीज करने का प्रयास कर सकते हैं।
+"</string>
+    <string name="help_faq_title">अक्सर पूछे जाने वाले प्रश्न</string>
+    <string name="help_faq_1_q">मैं 99 या 60,000 से अधिक मूल्य दर्ज क्यों नहीं कर सकता?</string>
+    <string name="help_faq_1_a">आपको __type_byte__ या __type_word__ का मान मिला। बड़े मान दर्ज करने के लिए __type_dword__ देखें।</string>
+    <string name="help_faq_2_q">मूल्य के आंशिक भाग के बिना, आंशिक (__type_float__) मूल्यों की खोज कैसे करें?</string>
+    <string name="help_faq_2_a">\"__type_auto__\" डेटा प्रकार या श्रेणी खोज का उपयोग करें। उदाहरण के लिए, 11.345 के लिए आप \"10__tilde__12\" खोज सकते हैं।</string>
+    <string name="help_faq_3_q">मैंने मूल्य पाया और इसे बदल दिया, लेकिन खेल में यह बदलाव कुछ भी नहीं करता है। मैं इसे इस्तेमाल करने की कोशिश कर रहा हूं, लेकिन सब कुछ वापस आ गया है। मैं क्या गलत कर रहा हूं?</string>
+    <string name="help_faq_3_a">"कुछ खेलों में, मान संरक्षित या एन्क्रिप्ट किए गए हैं। मान प्रदर्शित करने से पहले, मान को दूसरे चर में डिक्रिप्ट किया जाता है। आपने इसे बदल दिया।
+चूंकि यह मान केवल प्रदर्शन के लिए उपयोग किया जाता है, इसलिए यह खेल यांत्रिकी को प्रभावित नहीं करता है। प्रदर्शित मूल्य के बजाय वास्तविक मूल्य को खोजने के लिए, एन्क्रिप्ट किए गए मूल्य की खोज, या फ़ज़ी खोज का उपयोग करें।
+कभी-कभी मान सर्वर पर संग्रहीत होता है और हर बार सिंक्रनाइज़ होता है। इस मामले में, इसे हैक नहीं किया जा सकता है। यदि गेम इंटरनेट के बिना काम नहीं करता है और पिछले तरीकों से मदद नहीं मिली है - सबसे अधिक संभावना है कि यह मामला है।"</string>
+    <string name="help_faq_4_q">खेल X में मान नहीं पाता है। या इसे ढूंढता है, लेकिन जब कुछ भी नहीं होता है तब बदल जाता है। या यह इसे पाता है, लेकिन इसके बाद गेम क्रैश हो जाता है। मुझे कैसे पता चलेगा कि समस्या क्या है, क्या यह गेम में सुरक्षा है या __app_name__ के साथ है?</string>
+    <string name="help_faq_4_a">"आपको एक सरल प्रोग्राम लेना चाहिए, जिसकी कोई सुरक्षा न होने और उसे आज़माने की गारंटी हो। मैं \"हिल क्लाइंब रेसिंग\" का उपयोग करना पसंद करता हूं। खेल सरल है, सरल है और इसमें कोई बचाव नहीं है। आप संख्या द्वारा प्रत्यक्ष खोज के रूप में धन की हैकिंग की जांच कर सकते हैं, और परिवर्तन के लिए फजी खोज कर सकते हैं।
+यदि इस सरल गेम पर हैकिंग काम करती है, तो यह उस एक्स गेम में है जिसे आपने हैक करने की कोशिश की थी। यदि नहीं, तो समस्या __app_name__ में है।
+यहां तक ​​कि एक आसान विकल्प भी है: \"टैप काउंटर\"। इसे स्थापित करो। चलाएँ। स्क्रीन पर प्रदर्शित टेप की संख्या को क्रैक करने का प्रयास करें। यह बहुत आसान होना चाहिए। यदि नहीं, तो समस्या __app_name__ या उसकी सेटिंग्स में है।
+__app_name__ के दूसरे संस्करण का प्रयास करें, संबंधित विषय पर या इंटरनेट पर मंच पर प्राप्त त्रुटि के विवरण की खोज करने का प्रयास करें। चरम मामलों में, आप मंच में चारों ओर पूछ सकते हैं।"</string>
+    <string name="help_faq_5_q">समय की खोज कैसे करें?</string>
+    <string name="help_faq_5_a">"\u0009- दिन, घंटे, मिनट या सेकंड की संख्या के रूप में खोजने का प्रयास करें। डेटा प्रकार या तो __type_byte__, __type_word__, __type_dword__ या __type_qword__ हो सकता है। इसके अलावा आप टाइप कर सकते हैं __type_auto__।
+\u0009- मिलि या नैनोसेकंड की एक संख्या के रूप में खोजने का प्रयास करें। डेटा प्रकार __type_dword__ या __type_qword__ है।
+\u0009- अंतिम तिथि को यूनिक्स टाइमस्टैम्प के रूप में खोजने का प्रयास करें। टाइप - __type_dword__. इसे वर्तमान यूनिक्स टाइमस्टैम्प और सेव्ड वन के बीच का अंतर माना जाता है। श्रेणी खोज के माध्यम से खोजें।
+उदाहरण के लिए, यदि 30 दिन लिखे गए हैं, तो आप वर्तमान यूनिक्स टाइमस्टैम्प से 30 +/- 1 दिन की तलाश कर रहे हैं। वर्तमान यूनिक्स टाइमस्टैम्प को आसानी से इंटरनेट पर देखा जा सकता है।"</string>
+    <string name="help_faq_6_q">क्या ऑनलाइन गेम हैक करना संभव है?</string>
+    <string name="help_faq_6_a">क्लाइंट पर संग्रहीत डेटा को हैक करना संभव है। सर्वर पर कुछ भी हैक नहीं किया जा सकता है। अलग-अलग खेलों में अलग-अलग तरीके हो सकते हैं। एक खिलाड़ी के खेल के भीतर भी, कुछ डेटा सर्वर पर हो सकते हैं, और कुछ नहीं हो सकते हैं।</string>
+    <string name="help_faq_7_q">स्पीडहाक कहां काम करता है?</string>
+    <string name="help_faq_7_a">"स्पीडहैक उन x86 डिवाइस / एमुलेटर पर काम नहीं कर सकता है, जिनके गेम में x86 लाइब्रेरी नहीं है।
+एआरटी वातावरण के लिए, जावा टाइमर के साथ स्पीडहॉक काम नहीं करता है। यदि खेल उनका उपयोग करता है और आपके पास एआरटी वातावरण (आमतौर पर एंड्रॉइड 5 और ऊपर) है, तो स्पीडहैक काम नहीं करेगा।"</string>
+    <string name="help_faq_8_q">__app_name__ मेरे लिए पूरी तरह से काम करता है, लेकिन कुछ खेलों में मुझे PTRACE_ATTACH त्रुटि हो रही है। इसके बारे में क्यों और क्या करना है?</string>
+    <string name="help_faq_8_a">यह गेम SecNeo प्रोटेक्शन के प्रकार से डिबगिंग से सुरक्षा से लैस है। __app_name__ इस सुरक्षा को दरकिनार नहीं कर सकता। इसके माध्यम से, आप इस गेम को हैक नहीं कर सकते।</string>
+    <string name="help_faq_9_q">आवेदन में इस तरह के एक अजीब पैकेज का नाम क्यों है? एप्लिकेशन को अपडेट क्यों नहीं किया जाता है, लेकिन हर बार अलग से इंस्टॉल किया जाता है? प्रत्येक संस्करण का अलग पैकेज नाम क्यों होता है?</string>
+    <string name="help_faq_9_a">पैकेज के नाम से विरोधी धोखा देती है।</string>
+    <string name="help_faq_10_q">कुछ खेलों में, जब गति (स्पीडकॉक) बदलती है, तो वे क्लिक पर प्रतिक्रिया देना बंद कर देते हैं। क्या यह गेम प्रोटेक्शन या प्रोग्राम एरर है?</string>
+    <string name="help_faq_10_a">इसका मतलब है कि आपका स्पीडहॉकिंग इनपुट कतार टाइमर को स्वीकार करता है और यह मर जाता है। टाइमर (__app_name__ की सेटिंग्स में) की सूची में हरे रंग के चेकमार्क का चयन करना आवश्यक है ताकि ऐसा न हो।</string>
+    <string name="help_faq_11_q">यह त्रुटियों की अल्पविराम से अलग सूची क्यों जारी करता है?</string>
+    <string name="help_faq_11_a">क्योंकि संख्याओं का परिसीमन एक अर्धविराम (\"__semicolon__\") है।</string>
+    <string name="help_faq_12_q">मैं एक ही समय में कई खोज कैसे करूं?</string>
+    <string name="help_faq_12_a">फिलहाल, एप्लिकेशन इसे अनुमति नहीं देता है, लेकिन आप कई बार एप्लिकेशन इंस्टॉल कर सकते हैं और पर्याप्त मेमोरी और डिस्क स्थान होने पर कॉपियों को एक साथ चला सकते हैं।</string>
+    <string name="help_faq_13_q">यदि परिवर्तनों में कुछ भी महत्वपूर्ण नहीं है, तो क्या मुझे एप्लिकेशन को अपडेट करने की आवश्यकता है?</string>
+    <string name="help_faq_13_a">यह सुझाव दिया गया है। समर्थन केवल नवीनतम संस्करण के लिए है।</string>
+    <string name="help_faq_14_q">क्या प्रतीक हैं \"!\" और \"#\", प्रक्रिया के नाम से पहले?</string>
+    <string name="help_faq_14_a">"यह निशान वाली प्रक्रियाओं को चिह्नित करता है।
+\u0009\"#\" - प्रक्रिया से पहले इसका मतलब है कि यह किसी अन्य प्रक्रिया द्वारा पता लगाया गया है।
+\u0009\"!\" - प्रक्रिया से पहले, इस प्रक्रिया को किसी अन्य प्रक्रिया का पता लगाया जाता है।
+ट्रेसिंग डिबगिंग या हैकिंग के लिए विशिष्ट है। साथ ही इसका उपयोग कुछ सुरक्षा में किया जाता है। आमतौर पर, \"#\" चिन्ह वाली एक प्रक्रिया एक संरक्षित प्रक्रिया है।"</string>
+    <string name="help_faq_15_q">मानक स्थापना के बाद भी एप्लिकेशन अपना स्वयं का इंस्टॉलेशन क्यों करता है, रूट अधिकारों के लिए अनुरोध जारी करता है?</string>
+    <string name="help_faq_15_a">__app_name__ एंटी-चीट्स द्वारा इसकी पहचान को रोकने के लिए यादृच्छिक डेटा के साथ खुद को बहाल करता है। \"मूक\" स्थापना और स्थापना रद्द करने के लिए रूट अधिकारों की आवश्यकता होती है। आप उन्हें बाहर नहीं दे सकते। इस मामले में, आपको एप्लिकेशन इंस्टॉल करने के लिए सिस्टम के सभी अनुरोधों का मैन्युअल रूप से जवाब देना होगा।</string>
+    <string name="help_faq_16_q">__pkg__ क्या है? क्या यह ट्रोजन या वायरस है? क्या इस एप्लिकेशन को रूट एक्सेस देना सुरक्षित है?</string>
+    <string name="help_faq_16_a">यह __app_name__ पैकेज का आधार नाम है। विश्वसनीय स्रोतों से __app_name__ डाउनलोड होने पर रूट एक्सेस जारी करना सुरक्षित है।</string>
+    <string name="help_faq_17_q">एक यादृच्छिक चरित्र सेट के रूप में स्थापित अनुप्रयोगों की सूची में __app_name__ क्यों है? इस चरित्र ने रूट एक्सेस का अनुरोध क्यों किया है? __app_name__ को लॉन्च करते समय क्यों लिखा गया है कि रूट __app_name__ द्वारा प्रदान नहीं किया गया है, लेकिन किसी तरह के अब्राक्राबरा द्वारा?</string>
+    <string name="help_faq_17_a">क्योंकि __app_name__ इसका उपयोग एंटी-चीट्स द्वारा पता लगाने से खुद को छिपाने के लिए करता है।</string>
+    <string name="help_faq_18_q">__app_name__ नवीनतम संस्करणों में कभी-कभी एंटीचैट द्वारा पता लगाया जाता है, और कभी-कभी क्यों नहीं?</string>
+    <string name="help_faq_18_a">क्योंकि __app_name__ एंटी-चीट्स द्वारा खुद को पहचानने से छिपाने के लिए विभिन्न चीजों का उपयोग करता है। इसमें एक यादृच्छिक पैकेज नाम और एप्लिकेशन शामिल है। प्रत्येक स्थापना पर वे अलग हैं। पुन: उत्पन्न करने के लिए __app_name__ पुनः इंस्टॉल करने का प्रयास करें। शायद इसके बाद एंटी-चीट __app_name__ को देखना बंद कर देगा।</string>
+    <string name="help_faq_19_q">मेरा गेम एप्लिकेशन सूची में क्यों नहीं है?</string>
+    <string name="help_faq_19_a">क्योंकि यह रनिंग एप्लिकेशन की एक सूची है, और आपका एप्लिकेशन नहीं चल रहा है। इसे चलाएं, और फिर इसे __app_name__ में चुनें।</string>
+    <string name="help_faq_20_q">एंड्रॉइड 5 और इसके बाद के संस्करण पर जावा एप्लिकेशन स्पीडबैक का जवाब क्यों नहीं दे सकता है?</string>
+    <string name="help_faq_20_a">क्योंकि स्पीडहाक को देशी पुस्तकालयों वाले खेलों के लिए डिज़ाइन किया गया है। आपका आवेदन नहीं है। और चूंकि एंड्रॉइड 5 ने डेल्विक के बजाय एआरटी के वातावरण का उपयोग किया, जिससे जावा टाइमर को बाधित करना असंभव हो जाता है। कुछ मत करो। भविष्य में स्थिति नहीं बदलेगी।</string>
+    <string name="help_faq_21_q">मैंने एंड्रॉइड 4 पर एक अलग स्पीडहैक / हैकिंग टूल का उपयोग किया और सब कुछ काम किया। अब मैंने एंड्रॉइड 5 और इसके बाद के संस्करण पर __app_name__ डाला, लेकिन वे तरीके काम नहीं करते हैं। क्यूं कर?</string>
+    <string name="help_faq_21_a">"क्योंकि बहुत सी चीजें बदल गई हैं और आपकी उपयोगिता सिर्फ उसी तरह काम नहीं करेगी। अपने भ्रम पैदा न करें कि यह __app_name__ इतना बुरा है, लेकिन अगर वह उपयोगिता थी, तो उह! ऐसा कुछ भी नहीं है।
+इसका परीक्षण करने के लिए, एंड्रॉइड 4 पर __app_name__ स्थापित करें, और उस उपयोगिता में सभी समान कार्यों को दोहराएं। नतीजतन, आप सफल होंगे। लेकिन इसका मतलब यह नहीं है कि ये वही तरीके एंड्रॉइड 5 और इसके बाद के संस्करण पर काम करेंगे।
+इस तथ्य की पुष्टि प्रयोगात्मक रूप से, बार-बार की जाती है।"</string>
+    <string name="help_faq_22_q">मैं एक वीडियो नमूना / स्क्रीनशॉट देख रहा हूं और मेमोरी एडिटर में अन्य डेटा हैं। क्यूं कर?</string>
+    <string name="help_faq_22_a">क्योंकि वीडियो / स्क्रीनशॉट का एक अलग आउटपुट प्रारूप है। मेमोरी एडिटर में, मेनू दबाएं - \"__value_format__\" चुनें और आउटपुट को कॉन्फ़िगर करें जैसा कि इसे करना चाहिए।</string>
+    <string name="help_faq_23_q">जब मान जम जाता है, तो खेल ब्रेक या अंतराल शुरू होता है। क्यूं कर?</string>
+    <string name="help_faq_23_a">क्योंकि आपके पास __app_name__ सेटिंग्स में \"__hide_from_game__\" सक्षम करने का विकल्प है। इसे बंद करें।</string>
+    <string name="help_faq_24_q">जब मैं आवेदन शुरू करता हूं तो नए संस्करणों के लिए जाँच को कैसे निष्क्रिय कर सकता हूँ?</string>
+    <string name="help_faq_24_a">बिल्कुल नहीं।</string>
+    <string name="help_faq_25_q">आवेदन में वापस समय को कैसे वापस करें? क्या यह संभव है कि टाइम जंप आगे नहीं, बल्कि पिछड़ा हुआ है?</string>
+    <string name="help_faq_25_a">बिल्कुल नहीं। आप नहीं कर सकते। समय हमेशा बढ़ाना चाहिए अन्यथा खेल दुर्घटनाग्रस्त हो सकता है। हालांकि, नवीनतम संस्करणों में हमने एक नकारात्मक समय कूदने की संभावना को जोड़ा। परिणाम खेल का लटका या डेटा की हानि हो सकती है। चेतावनी दी।</string>
+    <string name="help_faq_26_q">मैंने आइकन डाला और वह गायब हो गया। मुझे यह कैसे वापस मिल सकता है?</string>
+    <string name="help_faq_26_a">आइकन पारदर्शी हो जाता है, लेकिन आप फिर भी उस पर क्लिक कर सकते हैं। जहां यह था, वहां क्लिक करें, फिर इंटरफ़ेस के माध्यम से सेटिंग बदलें।</string>
+    <string name="help_faq_27_q">यदि मैं खेल के साथ गोलाई में प्रदर्शित होता है तो मैं एक मूल्य कैसे खोजूं? उदाहरण के लिए, 1.85 एम।</string>
+    <string name="help_faq_27_a">खोज रेंज के लिए खोजें। रेंज की सीमाएं राउंडिंग नियमों पर निर्भर करती हैं। उदाहरण के लिए, मानक गोलाई के लिए \"1845000__tilde__1854999\"।</string>
+    <string name="help_faq_28_q">मैं प्रतिशत मान कैसे खोजूं? उदाहरण के लिए, 123__percent__।</string>
+    <string name="help_faq_28_a">यह कार्यान्वयन पर निर्भर करता है। प्रत्येक खेल के लिए यह सब अलग हो सकता है। उदाहरण के लिए 123__percent__। यह किसी भी मूल्य के साथ __type_float__ या __type_double__ हो सकता है। जैसे 1.23 या 123.0। या यह पूर्णांक प्रकार हो सकता है: __type_byte__, __type_word__, __type_dword__। उदाहरण के लिए 123 या 12300। आउटपुट पर इसे कुछ संख्या पर विभाजित किया जा सकता है। 100 या 345 या कुछ और। प्रत्येक खेल के लिए यह अलग हो सकता है। आप सबसे स्पष्ट मामलों की कोशिश कर सकते हैं। 123__percent__ के लिए यह 1.23 या 123 हो सकता है। टाइप - __type_auto__। यदि आप भाग्यशाली हैं तो आपको इसकी आवश्यकता हो सकती है।</string>
+    <string name="help_faq_29_q">क्या होगा यदि खेल __app_name__ का पता लगाता है?</string>
+    <string name="help_faq_29_a">"इन विकल्पों के (अकेले या किसी भी संयोजन में) का प्रयास करें:
+\u0009- \"__hide_from_game__\" विकल्प सक्षम करें। आमतौर पर पर्याप्त 2, 3 और 4 विकल्प।
+\u0009- क्या एक यादृच्छिक नाम के साथ पुनर्स्थापना __app_name__ रद्द नहीं। यह पहली बार है __app_name__ आभासी अंतरिक्ष के बाहर चलाया जाता है किया जाता है।
+\u0009- उपयोग XPrivacy या इसी तरह की सुविधाएं शामिल हैं। ऐसा करने के तरीके के लिए इंटरनेट पर देखो।
+\u0009- आप आवेदनों की छिपा स्थापना के साथ आभासी अंतरिक्ष से जड़ अधिकार, उपयोग जड़ है। \"__vspace_root__\" सेटिंग संदर्भ मदद में अधिक पढ़ें।"</string>
+    <string name="work_without_selinux">__selinux__ के बिना काम करने के लिए स्विच करें और ऐप को पुनरारंभ करें</string>
+    <string name="work_with_selinux">__selinux__ के साथ काम करने के लिए स्विच करें और ऐप को पुनरारंभ करें</string>
+    <string name="file">फ़ाइल:</string>
+    <string name="file_not_found">फाइल नहीं मिली:</string>
+    <string name="export_selected">निर्यात चयनित है</string>
+    <string name="failed_list_dir">फ़ाइल सूची पढ़ने में विफल।</string>
+    <string name="change_float_type">फ्लोटिंग विंडो के प्रकार का चयन करें</string>
+    <string name="reset_float_type">फ़्लोटिंग विंडो के प्रकार को रीसेट करें</string>
+    <string name="mask">मुखौटा:</string>
+    <string name="mask_request">खोजने के लिए एक पता दर्ज करें</string>
+    <string name="help_mask_search_title">पता (मुखौटा) खोज</string>
+    <string name="help_mask_search">"* पता (मुखौटा) खोज:
+\u0009आप मुखौटा के साथ पता द्वारा खोज या फ़िल्टर कर सकते हैं।
+
+\u0009एक विशिष्ट उदाहरण उन पतों की खोज कर रहा है जो एक ज्ञात मूल्य के साथ समाप्त होते हैं। उदाहरण के लिए, \"12 ई\" पर।
+
+\u0009खोज पैरामीटर पता और मुखौटा हैं।
+\u0009पते में वाइल्डकार्ड (\"__question__\") का उपयोग किया जा सकता है। इस प्रतीक का अर्थ है कि यह \"0\" से लेकर \"F\" तक कोई भी वर्ण हो सकता है।
+\u0009पते से एक अतिरिक्त मुखौटा बनता है, इसलिए अग्रणी शून्य महत्वपूर्ण हैं। इस प्रकार, \"0120\" की खोज और \"120\" की खोज एक ही बात नहीं है।
+\u0009पहले मामले में पाया जाएगा: \"00010120\", \"00020120\", \"00030120\" और इसी तरह। जबकि दूसरे में: \"00001120\", \"00002120\", \"00003120\" और इसी तरह।
+
+\u0009आप मुखौटा द्वारा इंगित समानता और असमानता के लिए दोनों की खोज कर सकते हैं। दूसरा विकल्प अनावश्यक मूल्यों को खत्म करने के लिए उपयोगी हो सकता है।
+
+\u0009पता और मुखौटा हेक्साडेसिमल प्रणाली में और अंत में \"__hex__\" पत्र के बिना दर्ज किया गया है।
+\u0009पते से प्राप्त मुखौटा आपके द्वारा दर्ज किए गए मुखौटे के साथ प्रतिच्छेद करता है। यह परिणामी खोज मुखौटा है।
+
+निम्नलिखित उदाहरण समतुल्य हैं, क्योंकि परिणामस्वरूप मास्क में समान है - \"FF0\"
+__mask_example__
+"</string>
+    <string name="use_sound_effects">ध्वनि प्रभाव का उपयोग करें:</string>
+    <string name="from_range">से:</string>
+    <string name="to_range">सेवा मेरे:</string>
+    <string name="resultant_mask">परिणामी मुखौटा:</string>
+    <string name="show_time_jump_panel">टाइम जंप पैनल दिखाएं:</string>
+    <string name="use_notification">अधिसूचना का उपयोग करें:</string>
+    <string name="show_gg">__app_name__ दिखाएँ</string>
+    <string name="hide_gg">__app_name__ छिपाएँ</string>
+    <string name="time_remaining">समय शेष:</string>
+    <string name="help_fill_title">(वेतन वृद्धि) मान भरें</string>
+    <string name="help_fill">"* भरें (वेतन वृद्धि) मान:
+\u0009अक्सर ऐसा होता है कि बहुत अधिक मूल्य पाए जाते हैं, लेकिन उन्हें खेल से नहीं बदला जा सकता है।
+\u0009इस मामले में, बचाव के लिए भरण आता है।
+
+\u0009उपयोग का एक विशिष्ट उदाहरण एक आइटम की कीमत की खोज है, एक नकारात्मक एक के बाद के प्रतिस्थापन के साथ।
+
+\u00091. इच्छित वस्तुओं का चयन करें।
+\u00092. \"__edit_selected__\" चुनें।
+\u00093. \"__increments__\" फ़ील्ड प्रदर्शित करने के लिए \"__more__\" बटन दबाएँ, यदि यह फ़ील्ड मौजूद नहीं है।
+\u00094. \"__increments__\" फ़ील्ड में, वेतन वृद्धि दर्ज करें। आमतौर पर यह 1. है और \"__yes__\" पर क्लिक करें।
+\u00095. चयनित वस्तुओं को नए मूल्य प्राप्त होंगे।
+\u00096. खेल पर जाएं और देखें कि वांछित मूल्य कैसे बदल गया है, खेल स्क्रीन पर घूम रहा है।
+\u00097. यदि मान नहीं बदला है, तो वांछित तत्व चयनित नहीं है। __app_name__ पर वापस लौटें और \"__delete_selected__\" -> \"__revert_and_remove__\" का उपयोग करके, चयनित वस्तुओं को हटा दें, उन्हें पिछला मान लौटा दें। अब आप शुरू से ही अन्य तत्वों के साथ सब कुछ आज़मा सकते हैं, अगर कोई हो।
+\u00098. यदि मूल्य बदल गया है, तो वांछित तत्व चयनित तत्वों में से एक है। नया मूल्य याद रखें और __app_name__ पर वापस लौटें।
+\u00099. चयनित वस्तुओं की सूची में, वांछित मूल्य की खोज करें। इसे अचयनित करें। \"__delete_selected__\" -> \"__revert_and_remove__\" का उपयोग करके, अन्य सभी मूल्यों को हटा दें, उन्हें पिछले मूल्य वापस लौटा दें
+\u000910. वांछित तत्व मान को संशोधित करें जैसा आपको चाहिए।
+
+\u0009विशिष्ट त्रुटियों को बिना पीछे हटाए जा रहे हैं। इसके बाद, खेल क्रैश हो सकता है।
+
+\u0009यदि आपको बहुत सारे मान मिलते हैं, तो क्रैश से बचने के लिए छोटे हिस्से को भरने की कोशिश करें।
+"</string>
+    <string name="help_hint_1">* यदि आप हमेशा एक ही क्षेत्र में वांछित मान पाते हैं (परिणाम सूची में आइटम के अंत में अक्षर), तो आप केवल तेज खोज के लिए इन क्षेत्रों का चयन कर सकते हैं।</string>
+    <string name="help_faq_30_q">__app_name__ पीसी पर एंड्रॉइड एमुलेटर में बहुत धीरे और लंबे समय तक मूल्यों की खोज करता है।</string>
+    <string name="help_faq_30_a">"सबसे अधिक संभावना है कि आपके पास पीसी BIOS में वर्चुअलाइजेशन अक्षम है। इसे चालू करो।
+__app_name__ एमुलेटर के अंदर चलता है, इसलिए काम की गति एमुलेटर की गति पर निर्भर करती है।
+यदि वर्चुअलाइजेशन सक्षम है, लेकिन गति अभी भी कम है, तो अपने एमुलेटर की सेटिंग्स की जांच करें, या किसी अन्य एमुलेटर का उपयोग करें।
+आप पीसी के लिए एक और टूल - चीटएंगइन का उपयोग कर सकते हैं - यह तेजी से खोज करेगा और आपको कई सुविधाएँ देगा जो कभी भी __app_name__ में नहीं होंगे।"</string>
+    <string name="help_speed_up_title">सर्च को कैसे तेज करें</string>
+    <string name="help_speed_up">"* खोज को गति कैसे दें:
+\u00090. यदि आप एक पीसी (ब्लूस्टैक्स, Droid4X, एंडी, NOX, मेमू, AMIDuOS, Windroy, AVD, Genymotion, Koplayer, Leapdroid आदि) पर एंड्रॉइड एमुलेटर का उपयोग कर रहे हैं, तो जांचें कि वर्चुअलाइजेशन (वीटी टेक्नोलॉजी, वेंडरपूल टेक्नोलॉजी, वर्चुअलाइजेशन टेक्नोलॉजी) , वीटीएक्स, वीटी-डी, वीएमएक्स, वर्चुअल टेक्नोलॉजी, इंटेल-वीटी, एएमडी-वी, एसवीएम, आईओएमएमयू) पीसी BIOS में सक्षम है।
+\u00091. यदि आपके पास बहुत अधिक रैम है, तो आप डेटा को वहां स्टोर कर सकते हैं। यह खोज को बहुत तेज करता है। सेटिंग \"__data_in_ram__\" से \"__yes__\" पर सेट करें। एक पीसी पर एक एंड्रॉइड एमुलेटर में, यह खोज को धीमा कर सकता है।
+\u00092. यदि आपके पास कम रैम है, तो डेटा मेमोरी कार्ड पर संग्रहीत किया जाएगा। उच्च लिखने और पढ़ने की गति के साथ मेमोरी कार्ड का उपयोग करें।
+\u00093. आप डिवाइस की आंतरिक मेमोरी में डेटा के भंडारण को भी निर्दिष्ट कर सकते हैं, अगर यह मेमोरी कार्ड से तेज है। सेटिंग \"__set_path__\" वांछित पथ पर सेट करें।
+\u00094. खोज पर, केवल वांछित क्षेत्रों का चयन करें। धीमे (\"__slow__\") और खतरनाक (\"__dangerous__\") क्षेत्रों से बचें।
+\u00095. आप खोज के लिए, मेमोरी रेंज की सीमाएँ भी निर्दिष्ट कर सकते हैं, यदि आप उन्हें जानते हैं। खोज संवाद में \"__more__\" बटन पर क्लिक करें और सीमाएं दर्ज करें।
+\u00096. केवल वांछित प्रकार के डेटा के लिए खोजें। डेटा प्रकार \"__type_auto__\" धीमा है।
+\u00097. सभी संभव \"__hide_from_game__\" विकल्प अक्षम करें।
+\u00098. \"__memory_access__\" में \"__experimental__\" या \"__extended__\" का उपयोग करने का प्रयास करें। इन विकल्पों से अस्थिर काम हो सकता है।
+"</string>
+    <string name="help_faq_31_q">थोड़ी देर बाद, __app_name__ आइकन गायब हो जाते हैं।</string>
+    <string name="help_faq_31_a">"उस जगह पर क्लिक करने का प्रयास करें जहां आइकन था। यदि यह __app_name__ इंटरफ़ेस खोलता है, तो आइकन सेटिंग्स में छिपा हुआ है या आपके फर्मवेयर में आइकन प्रदर्शित करने के साथ बग हैं।
+यदि इंटरफ़ेस नहीं खुलता है, तो इसका मतलब है कि __app_name__ मेमोरी से अनलोड किया गया है।
+संभावित कारण:
+
+\u00091. डिवाइस पर पर्याप्त रैम नहीं है - सिस्टम द्वारा मारे गए __app_name__। कम रैम का उपयोग करने की कोशिश करें। __app_name__ सेटिंग्स में, रैम में डेटा के भंडारण को निर्दिष्ट न करें, बड़ी संख्या में प्रदर्शित परिणाम सेट न करें, रैम से \"अतिरिक्त\" एप्लिकेशन अनलोड करें, \"हल्के वजन\" के अनुप्रयोगों के एनालॉग्स का उपयोग करें जिन्हें अनलोड नहीं किया जा सकता है (उदाहरण के लिए, लॉन्चर )। विशेष रूप से खराब मामलों में, खेल के साथ __app_name__ चलाने से पहले डिवाइस को रिबूट करें। लगभग सभी फर्मवेयर में हमेशा रिसाव रैम होता है। रिबूट के बाद अधिक समय - कम उपलब्ध रैम।
+
+\u00092. आपके पास एक प्रक्रिया हत्यारे हैं जो __app_name__ को मारते हैं।
+
+हत्यारों को अक्षम करें या इसके अपवादों में __app_name__ जोड़ें।
+हत्यारे भी सभी प्रकार के \"ऑप्टिमाइज़र\" और रैम के \"इंप्रोवाइज़र\" हैं।
+सामान्य तौर पर, सॉफ़्टवेयर के लिए विवरण देखें, यदि आपको नहीं पता है कि हत्यारा है या नहीं।
+
+फ्लाईमे के लिए: __app_name__ किसी कारण से काम के कुछ मिनटों के बाद अनलोड - आपको __app_name__ और अपने रूट मैनेजर (आमतौर पर सुपरसु) के लिए पृष्ठभूमि में काम करने की अनुमति देने की आवश्यकता है।
+
+आप __app_name__ सेटिंग्स में \"__use_notification__\" को सक्षम करने का भी प्रयास कर सकते हैं। कभी-कभी यह मार __app_name__ को रोकता है।"</string>
+    <string name="quick_start_title">जल्दी शुरू</string>
+    <string name="prevent_unload">अनलोड रोकें:</string>
+    <string name="hot_key">गर्म कुंजी:</string>
+    <string name="hide">छिपाना</string>
+    <string name="execute_script">स्क्रिप्ट निष्पादित करें</string>
+    <string name="execute">निष्पादित</string>
+    <string name="another_script">एक और स्क्रिप्ट चल रही है। इसे बाधित करें?</string>
+    <string name="interrupt">इंटरप्ट</string>
+    <string name="script">स्क्रिप्ट:</string>
+    <string name="script_ended">स्क्रिप्ट समाप्त:</string>
+    <string name="paused">खेल रोका गया है:</string>
+    <string name="by_pause_button">ठहराव बटन द्वारा</string>
+    <string name="by_option">"विकल्प '__s__' द्वारा"</string>
+    <string name="new_search_short">नया</string>
+    <string name="speedhack_loading">स्पीडहैक लोड हो रहा है ...</string>
+    <string name="speedhack_loaded">स्पीडहॉक लोड किया गया है।</string>
+    <string name="busy_dialog_fail">प्रगति संवाद प्रदर्शित नहीं किया जा सका।</string>
+    <string name="site">साइट</string>
+    <string name="help_xor_search_title">XOR खोज</string>
+    <string name="help_xor_search">"* XOR खोज:
+\u0009\u0009यदि आप जानते हैं कि आपके लिए आवश्यक मूल्य एक XOR कुंजी के साथ एन्क्रिप्ट किया गया है जो हमेशा मूल्य से समान दूरी पर है, तो आप डिक्रिप्ट किए गए मूल्य द्वारा खोज करने के लिए इस मोड का उपयोग कर सकते हैं।
+\u00091. एक गेम से __app_name__ पर स्विच करें।
+\u00092. \"__search__\" टैब में \"__search_known_value__\" बटन पर टैप करें।
+\u00093. \"__mode_xor__\" द्वारा अलग एक खोज संख्या और XOR कुंजी दूरी दर्ज करें। उदाहरण के लिए, दूरी 8 पर एक कुंजी के साथ मान 100 खोजने के लिए, दर्ज करें:
+\u0009\u0009\u0009100__mode_xor__8
+\u0009\u0009अतिरिक्त प्रतीकों को इनपुट करने के लिए, आंतरिक कीबोर्ड पर \"__btn_hex__\" बटन का उपयोग करें।
+\u00094. उपयुक्त डेटा प्रकार का चयन करें, या \"__type_auto__\" चुनें (यदि आपको यकीन नहीं है) और अन्य विकल्प (यदि आवश्यक हो) और \"__search__\" पर क्लिक करें।
+\u00095. जब खोज समाप्त हो जाती है, तो खोज परिणाम सूची में प्रदर्शित किए जाएंगे।
+\u00096. खेल में वापस। मान बदलने के बाद, फिर से __app_name__ पर स्विच करें।
+\u00097. उपयुक्त परिवर्तनों के साथ XOR खोज दोहराएं।
+\u00098. यदि बहुत अधिक परिणाम हैं, तो चरण 6 और 7 दोहराएं।
+\u00099. यदि कुछ परिणाम बचे हैं, तो आप मूल्य को संशोधित, संग्रहीत या फ्रीज करने का प्रयास कर सकते हैं।
+
+\u0009आप श्रेणी खोज के साथ XOR खोज का उपयोग कर सकते हैं। उदाहरण के लिए \"100__tilde__150__mode_xor__8\"।
+\u0009आमतौर पर XOR खोज सामान्य संख्या खोज से धीमी होती है।
+\u0009यह मोड समूह खोज या एन्क्रिप्टेड खोज में समर्थित नहीं है।
+\u0009दूरी 1 से 4096 समावेशी होनी चाहिए।
+\u0009आप अंत में __hex__ प्रतीक के साथ हेक्स रूप में दूरी तय कर सकते हैं: \"100__tilde__150__mode_xor__10h\"।
+\u0009दूरी का मान सम्मान संरेखित करना चाहिए। उदाहरण के लिए, डॉर्ड को 4-बाइट्स सीमा से संरेखित किया जाना चाहिए। इसका मतलब खोज \"40__mode_xor__7\" डॉर्ड के लिए बेकार है क्योंकि 7 को 4 से विभाजित नहीं किया जा सकता है।
+\u0009इस मोड को एक और के साथ मिलाएं इससे खराब फर्मवेयर पर समस्या हो सकती है। उदाहरण के लिए, यदि आप सामान्य खोज करते हैं और उसके बाद XOR मोड में रिफाइन करते हैं तो यह आपके डिवाइस को हैंग या रिबूट कर सकता है। ऐसा नहीं होना चाहिए अगर पहली खोज इस मोड में होगी।
+\u0009इस मोड की फ़ज़ी खोज समर्थित नहीं है। आप इसे जोड़ सकते हैं लेकिन हमेशा की तरह फजी काम कर सकते हैं और दूरी के साथ अपनी XOR कुंजी का सम्मान नहीं करते हैं।
+\u0009मूल्यों के लिए हस्ताक्षर का सम्मान किया जाता है। इसका मतलब है कि आप मूल्य को समान, अधिक, छोटे और इतने पर नहीं खोज सकते हैं।
+\u0009इस खोज में, सभी मानों पर हस्ताक्षर किए गए माने जाते हैं।
+"</string>
+    <string name="help_faq_32_q">HW / SW संस्करणों के साथ क्या अंतर है? और मुझे कौन सा उपयोग करना चाहिए?</string>
+    <string name="try_latest">शायद इस स्क्रिप्ट को __app_name__ के नवीनतम संस्करण की आवश्यकता है। नवीनतम संस्करण को अपडेट करने का प्रयास करें।</string>
+    <string name="help_string_search_title">पाठ (स्ट्रिंग, एचईएक्स, एओबी) खोज</string>
+    <string name="download_scripts">स्क्रिप्ट डाउनलोड करें</string>
+    <string name="hide_icons">लॉन्चर आइकन छिपाएं</string>
+    <string name="select_mode">मोड का चयन करें</string>
+    <string name="mode_string">टेक्स्ट</string>
+    <string name="mode_mixed">मिश्रित</string>
+    <string name="string_search_prompt">लंबाई में __d__ बाइट तक, खोजने के लिए एक पाठ दर्ज करें। उदाहरण के लिए</string>
+    <string name="string_empty">आपको एक पाठ दर्ज करना होगा।</string>
+    <string name="string_not_found">\"__s__\" टेक्स्ट नहीं मिला।</string>
+    <string name="string_found">Found __d__ matches for the text \"__s__\".</string>
+    <string name="string_replace">क्या आप उन्हें बदलना चाहते हैं?</string>
+    <string name="string_replace_prompt">\"__s__\" को बदलने के लिए पाठ दर्ज करें। लंबाई __d__ बाइट्स से अधिक नहीं है।</string>
+    <string name="string_replaced">Replaced \"__s__\" to \"__s__\" in __d__ places.</string>
+    <string name="need_allow_background">इस फर्मवेयर पर, आपको सिस्टम सेटिंग्स में पृष्ठभूमि में __app_name__ काम करने की अनुमति होनी चाहिए।</string>
+    <string name="calculate_offset_xor">ऑफसेट, XOR की गणना करें</string>
+    <string name="select_copy_item">कॉपी करने के लिए एक आइटम का चयन करें:</string>
+    <string name="landscape">परिदृश्य</string>
+    <string name="portrait">चित्र</string>
+    <string name="toolbar_buttons">टूलबार बटन</string>
+    <string name="need_update_to">इस स्क्रिप्ट को चलाने के लिए आपको __app_name__ का एक नया संस्करण चाहिए। कम से कम __s__ संस्करण। आपके पास __s__ संस्करण है।</string>
+    <string name="default_mark">चूक</string>
+    <string name="default_">चूक:</string>
+    <string name="reset_button">रीसेट</string>
+    <string name="help_hex_colors_title">स्मृति संपादक में रंग</string>
+    <string name="help_hex_colors">"* __help_hex_colors_title__:
+यदि हेक्स प्रतिनिधित्व सफेद नहीं है, लेकिन रंग है, तो इस मूल्य में सबसे अधिक संभावना सूचक है। रंग इंगित करता है कि यह सूचक किस प्रकार की मेमोरी को संदर्भित करता है।
+This can be __executable__ memory, __writable__ or __read_only__. In rare cases, it can be __writable_and_executable__ memory."</string>
+    <string name="executable">निष्पादन</string>
+    <string name="writable">लिखने योग्य</string>
+    <string name="read_only">सिफ़ पढ़िये</string>
+    <string name="writable_and_executable">योग्य और निष्पादन योग्य</string>
+    <string name="help_extract">मदद निकालें</string>
+    <string name="help_extract_done">मदद __s__ पर निकाली जाती है</string>
+    <string name="help_extract_fail">मदद निकालते समय एक त्रुटि हुई:</string>
+    <string name="try_arm_version">पुराने ARM प्रोसेसर के समर्थन के साथ __app_name__ के संस्करण का उपयोग करने का प्रयास करें:</string>
+    <string name="back">वापस</string>
+    <string name="forward">आगे</string>
+    <string name="no_previous">पिछली प्रविष्टियाँ नहीं</string>
+    <string name="no_next">अगली प्रविष्टियाँ नहीं</string>
+    <string name="from_item">आइटम से:</string>
+    <string name="from_context">संदर्भ मेनू से:</string>
+    <string name="from_boundary">सीमा से</string>
+    <string name="from_goto">गोटो को बुलाओ</string>
+    <string name="from_calc">ऑफसेट कैलकुलेटर से:</string>
+    <string name="help_add_to_value_title">विकल्प \"__add_not_replace__\"</string>
+    <string name="help_add_to_value">"* __help_add_to_value_title__:
+यदि यह विकल्प जांचा जाता है, तो दर्ज किया गया मूल्य मौजूदा मूल्य में जोड़ा जाएगा, और इसे प्रतिस्थापित नहीं करेगा। उदाहरण के लिए, तत्व का मान 5 है, और आपने मान फ़ील्ड में 7 दर्ज किया है। यदि इस विकल्प की जाँच की जाती है, तो तत्व को 12 के बराबर 5 + 7 का नया मान मिलेगा, यदि जाँच नहीं की जाती है, तो 7।
+आप सकारात्मक और नकारात्मक दोनों मान दर्ज कर सकते हैं।
+यह विकल्प मूल्य के ठंड के साथ असंगत है।"</string>
+    <string name="check_libs">खेल पुस्तकालयों की वास्तुकला की जाँच करें:</string>
+    <string name="arm_libs">"खेल एआरएम पुस्तकालयों के साथ स्थापित किया गया है, हालांकि एपीके में x86 पुस्तकालय हैं।
+स्पीडहॉक और इससे जुड़ी हर चीज, काम नहीं करेगी।
+\"__skip__\" इन चेकों को निष्क्रिय करता है। आप इसे सेटिंग्स में वापस चालू कर सकते हैं।"</string>
+    <string name="manual_install">आप .apk फ़ाइल मैन्युअल रूप से स्थापित कर सकते हैं। यह निम्नलिखित पथ पर स्थित है:</string>
+    <string name="as_text">पाठ के रूप में (लोड नहीं किया जा सकता)</string>
+    <string name="as_text_help">पाठ प्रारूप में सूची बचाता है, मानव पढ़ने के लिए सुविधाजनक है। इस प्रारूप का लोडिंग समर्थित नहीं है।</string>
+    <string name="help_pointer_search_title">सूचक खोज</string>
+    <string name="help_pointer_search">उन मानों के लिए खोजें जो वांछित पते पर संकेत दे सकती हैं। आप एक संभावित ऑफसेट के लिए अधिकतम सीमा निर्दिष्ट कर सकते हैं।</string>
+    <string name="all_memory">सभी स्मृति में</string>
+    <string name="offset_help">एक संभावित ऑफसेट के लिए अधिकतम सीमा।</string>
+    <string name="typical_values">सामान्य मूल्य</string>
+    <string name="su_command">सुपरयुसर कमांड</string>
+    <string name="starts">इसके साथ आरंभ होता है</string>
+    <string name="ends">इसी के साथ समाप्त होता है</string>
+    <string name="no_filter">कोई फिल्टर नहीं।</string>
+    <string name="help_memory_filter_title">मेमोरी एडिटर में फ़िल्टरिंग</string>
+    <string name="help_memory_filter">"* __help_memory_filter_title__:
+आप स्मृति संपादक में एक फ़िल्टर निर्दिष्ट कर सकते हैं। केवल वे परिणाम जो फ़िल्टर से मेल खाते हैं, प्रदर्शित किए जाएंगे।
+फ़िल्टर वाइल्डकार्ड का समर्थन करता है:
+\u0009__caret__ - डेटा की शुरुआत,
+\u0009__dollar__ - डेटा का अंत,
+\u0009__asterisk__ - किसी भी वर्ण की कोई भी संख्या,
+\u0009__question__ - कोई भी चरित्र।
+उदाहरण के लिए, संख्या 42 को खोजने के लिए, आपको __caret__42__dollar__ दर्ज करना होगा।"</string>
+    <string name="use_sh">कमांड शेल का उपयोग करें</string>
+    <string name="backgrounds">काले रंग की पृष्ठभूमि</string>
+    <string name="actions">क्रियाएँ:</string>
+    <string name="game_settings">खेल के लिए सेटिंग्स:</string>
+    <string name="global_settings">वैश्विक व्यवस्था:</string>
+    <string name="ui_settings">यूआई सेटिंग्स:</string>
+    <string name="others">अन्य:</string>
+    <string name="skip_memory">स्मृति क्षेत्र छोड़ें:</string>
+    <string name="empty_memory">खाली</string>
+    <string name="without_protection">बिना सुरक्षा के</string>
+    <string name="help_games_protection_title">खेलों में सुरक्षा कैसे प्राप्त करें</string>
+    <string name="help_games_protection">"\u0009कुछ गेम मेमोरी एडिटर्स के खिलाफ सुरक्षा से लैस हैं। आप निम्नलिखित की कोशिश कर सकते हैं:
+\u00091. \"__kill_game__\", और फिर \"__restart_game_without_protection__\"।
+\u00092. \"__disable_protection__\", और फिर गेम चलाएं (या पुनरारंभ करें)।
+\u00093. \"__hide_from_game__\" में सभी या वस्तुओं का उपयोग करें। उन सभी ने खोज को धीमा कर दिया।
+\u00094. खेल कम से कम होने पर खोजें।
+\u00095. खेल रुकने पर खोजें।
+\u00096. खेल की कुछ सुरक्षात्मक प्रक्रियाओं को मारें या रोकें, यदि खेल में कई प्रक्रियाएँ हैं।
+\u00097. सुरक्षा को बायपास करने के लिए XP गोपनीयता या समान टूल का उपयोग करें।
+\u00098. सुरक्षा के बिना खेल के संशोधन का उपयोग करें।
+"</string>
+    <string name="disable_protection">सभी अनुप्रयोगों के लिए सुरक्षा अक्षम करें (रिबूट तक)</string>
+    <string name="must_restart_if">यदि आप सुरक्षा को अक्षम करने से पहले गेम चलाते हैं, तो आपको इसे पुनरारंभ करना होगा।</string>
+    <string name="patch_loading">पैच लोड हो रहा है ...</string>
+    <string name="patch_loaded">पैच लोड है।</string>
+    <string name="patch_failed">पैच लोड नहीं है।</string>
+    <string name="history_limit">इतिहास की सीमा:</string>
+    <string name="copy_as_search">एक समूह खोज के रूप में कॉपी करें</string>
+    <string name="add_types">प्रकार जोड़ें</string>
+    <string name="add_size">समूह आकार जोड़ें</string>
+    <string name="copy_rhex_value">रिवर्स हेक्स मान कॉपी करें:</string>
+    <string name="mips_arch">यह एप्लिकेशन MIPS आर्किटेक्चर का समर्थन नहीं करता है।</string>
+    <string name="unrandomizer">Unrandomizer</string>
+    <string name="functions">कार्यों</string>
+    <string name="help_unrandomizer">"
+अनरिजाइमर एक ऐसा फीचर है, जो गेम्स में इस्तेमाल होने वाले कुछ फंक्शन को रैंडम वैल्यू बनाने के लिए डिजाइन किया जाता है। फिर एक बहुत ही सरल स्तर पर, उदाहरण के लिए, एक गेम हो सकता है जो खिलाड़ी के इनाम को निर्धारित करने के लिए एक रैंडमाइज़र फ़ंक्शन का उपयोग करता है। इसके बाद परिणाम बदलने के लिए (उदाहरण के लिए, एक निश्चित इनाम पाने के लिए) इस यादृच्छिक मान को निर्दिष्ट मान के साथ बदलने की कोशिश करने के लिए __app_name__ का कारण होगा।
+
+सभी मामलों में काम नहीं करेगा। यह केवल उन फ़ंक्शन को हैंडल करेगा जिनके बारे में यह जानता है। ज्यादातर मामलों में और अधिकांश उपयोगकर्ताओं के लिए, इसका उपयोग नहीं किया जाएगा, क्योंकि यह एक उन्नत / प्रायोगिक सुविधा से अधिक है।
+
+कुछ फ़ंक्शन __type_qword__, कुछ - __type_double__ (शायद ही कभी उपयोग किए गए) वापस करते हैं।
+
+__type_double__ मान 0 से 1 के बीच की सीमा में होना चाहिए। हालाँकि, आप वहां कोई भी मान निर्दिष्ट कर सकते हैं, क्योंकि __app_name__ सभी गलत वेरिएंट को स्वचालित रूप से सही कर देगा।
+
+आप एक वेतन वृद्धि कदम भी निर्दिष्ट कर सकते हैं। इस मामले में, प्रत्येक बाद का परिणाम इस मूल्य से बढ़ेगा। उदाहरण के लिए, वेतन वृद्धि 1 और प्रारंभिक मूल्य 0 के लिए, यादृच्छिक मान के बजाय, 0, 1, 2, 3, ... लौटाया जाएगा।
+यह विकल्प सभी संभावित यादृच्छिक परिणामों की पूरी खोज के लिए उपयोगी हो सकता है।
+
+आप निर्दिष्ट कर सकते हैं कि __app_name__ सेटिंग्स में कौन से फ़ंक्शंस को संशोधित करना है।
+"</string>
+    <string name="count_replace">प्रतिस्थापित करने के लिए कितने पहले परिणाम हैं?</string>
+    <string name="unrandomizer_loading">अनधिकृत लोड हो रहा है ...</string>
+    <string name="unrandomizer_loaded">अनरिजाइमर लोड किया गया है।</string>
+    <string name="warn_restart_off_prot">"यह विकल्प सुरक्षा के बिना गेम को पुनरारंभ करने का प्रयास करेगा।
+हालांकि, कई फर्मवेयर में बग होते हैं जो डिवाइस को रिबूट करने का कारण बन सकते हैं।
+यदि ऐसा होता है, तो गेम को फिर से शुरू करने का प्रयास न करें, क्योंकि इससे डिवाइस फिर से चालू हो जाएगा।
+बस __app_name__ चलाएं - यह खराब सेटिंग्स को साफ कर देगा।
+इसके अलावा, आप नियमित रूप से डिवाइस को रिबूट करने का प्रयास कर सकते हैं, यह भी समस्या को ठीक करना चाहिए।
+
+यदि रिबूट हुआ है - इस फ़ंक्शन का उपयोग न करें, यह आपके फर्मवेयर पर काम नहीं करेगा।"</string>
+    <string name="warn_patch_off_prot">"यह विकल्प सिस्टम (अस्थायी रूप से) को पैच करने की कोशिश करेगा ताकि सभी एप्लिकेशन बिना सुरक्षा के चलें।
+परिवर्तन केवल नए अनुप्रयोगों के शुरू होने पर लागू होंगे। इसलिए, एक सफल पैच के बाद लक्ष्य अनुप्रयोग, को फिर से शुरू करने की आवश्यकता है।
+पैच को रद्द करने के लिए, बस डिवाइस को पुनरारंभ करें।
+शायद इस पैच के बाद सिस्टम में विभिन्न बग होंगे।
+
+यदि पैच सफल होता है, तो डिवाइस को रिबूट करने से पहले, इस फ़ंक्शन को फिर से चलाने की अनुशंसा नहीं की जाती है।
+
+यदि आपको समस्याएं हैं, तो इस फ़ंक्शन का उपयोग न करें।"</string>
+    <string name="clear_history">इनपुट इतिहास साफ़ करें</string>
+    <string name="clear_history_warn">पिन की गई सभी प्रविष्टियाँ हटा दी जाएंगी।</string>
+    <string name="click_edit">संपादित करने के लिए यहां क्लिक करें</string>
+    <string name="ignore_unknown_chars">अज्ञात वर्णों को अनदेखा करें:</string>
+    <string name="need_root_mode">इस सुविधा के लिए रूट एक्सेस की आवश्यकता है। वर्तमान में __app_name__ रूट एक्सेस के बिना वर्चुअल वातावरण मोड में चल रहा है।</string>
+    <string name="work_without_root_title">बिना जड़ के काम</string>
+    <string name="work_without_root">"वर्चुअल वातावरण के माध्यम से __app_name__ बिना रूट के काम कर सकता है। उदाहरण के लिए, __vspace_list__ और कई अन्य लोगों के माध्यम से।
+__app_name__ वर्चुअल वातावरण में स्थापित किया जाना चाहिए। खेल भी वहाँ स्थापित किया जाना चाहिए।
+कार्यक्रम की सभी विशेषताओं का समर्थन नहीं किया जाता है, लेकिन अधिकांश कार्यों को काम करना चाहिए।
+
+आप उन गेम को क्रैक नहीं कर पाएंगे जो वर्चुअल वातावरण में स्थापित नहीं हैं।
+
+__app_name__ का पहला लॉन्च, जो एक यादृच्छिक पैकेज नाम के साथ एक पुनर्स्थापना करता है, आभासी वातावरण के माध्यम से नहीं किया जाना चाहिए।
+फिर आप वर्चुअल वातावरण में __app_name__ जोड़ सकते हैं और उपयोग कर सकते हैं।"</string>
+    <string name="help_game_not_listed_title">मेरा गेम प्रक्रिया सूची में क्यों नहीं है?</string>
+    <string name="fractional_hint">"वास्तविक संख्या \"x\" का आंशिक भाग उस संख्या के पूर्णांक भाग से अधिक होता है।
+एक संख्या के लिए इसका आंशिक भाग इसलिए मूलांक के बाद आने वाले अंकों से मेल खाता है।
+
+उदाहरण के लिए:"</string>
+    <string name="pointer">सूचक:</string>
+    <string name="help_search_filter_title">खोज में फिल्टर</string>
+    <string name="help_search_filter">"आप खोज परिणामों को फ़िल्टर कर सकते हैं।
+आप निर्दिष्ट कर सकते हैं:
+\u0009- पते की सीमा,
+\u0009- मान के लिए सीमाएँ,
+\u0009- आवश्यक डेटा प्रकार,
+\u0009- संख्या का वांछित अंश,
+\u0009- सूचक का वांछित प्रकार।
+आप किसी भी फ़िल्टर को एक दूसरे के साथ जोड़ सकते हैं।
+आप किसी भी समय एक या किसी भी फ़िल्टर को अक्षम कर सकते हैं।
+
+हालाँकि, यदि बड़ी मात्रा में डेटा मिलता है, तो फ़िल्टर परिणामों को धीमा कर सकते हैं।
+
+किसी संख्या के भिन्नात्मक भाग पर एक फ़िल्टर समानता या असमानता से हो सकता है।
+पूर्णांक प्रकारों के लिए, आंशिक भाग शून्य है। यदि आपको पूर्णांक प्रकारों की आवश्यकता नहीं है, तो उन्हें एक प्रकार के फ़िल्टर का उपयोग करके बाहर करें।
+
+पॉइंटर प्रकार से फ़िल्टर आउटपुट में केवल उन मूल्यों को छोड़ने की अनुमति देता है जो वांछित प्रकार की मेमोरी के लिए एक पॉइंटर हो सकते हैं।
+संभव स्मृति प्रकार स्मृति संपादक में रंगों के अनुरूप है:
+This can be __executable__ memory, __writable__ or __read_only__. In rare cases, it can be __writable_and_executable__ memory.
+
+छद्म प्रकार \"नो पॉइंटर\" सभी प्रकार के डेटा से मेल खाता है जो पॉइंटर्स नहीं हो सकता है, और पॉइंटर्स के उन मूल्यों के लिए भी है जो अनलोकेटेड मेमोरी को इंगित करते हैं।"</string>
+    <string name="unmount_kill">"मेमोरी कार्ड अनमाउंट किया गया था, जबकि __app_name__ ने इस पर अस्थायी फाइलें संग्रहीत की थीं। इसके चलते डेमन को मजबूर होना पड़ा।
+
+ऐसा होने से रोकने के लिए, अस्थायी फ़ाइलों के लिए एक अलग पथ निर्दिष्ट करें। उदाहरण के लिए, आंतरिक मेमोरी में।
+पर्याप्त खाली स्थान होना चाहिए।"</string>
+    <string name="calls">सिस्टम कॉल मोड:</string>
+    <string name="alternative">विकल्प</string>
+    <string name="help_calls">"कुछ फर्मवेयर पर, उदाहरण के लिए लेनोवो, वैकल्पिक मोड तेजी से काम कर सकता है।
+
+आम तौर पर, आपको इस विकल्प को बदलने की आवश्यकता नहीं है।"</string>
+    <string name="help_context_title">प्रासंगिक मदद</string>
+    <string name="help_context">"इंटरफ़ेस में, कुछ तत्वों को एक विशेष आइकन के साथ चिह्नित किया जाता है, शीर्ष दाईं ओर, चक्र में __i__ प्रतीक के साथ।
+इस तत्व पर दबाने या लंबे समय तक दबाने से इस तत्व पर मदद मिलती है।"</string>
+    <string name="waitpid_mode">__waitpid__ मोड:</string>
+    <string name="help_waitpid">"कुछ फर्मवेयर पर, __waitpid__ सिस्टम कॉल अपेक्षा के अनुरूप काम नहीं करता है। यह आमतौर पर गलत सेलिनक्स सेटिंग्स के कारण होता है।
+यह __app_name__ में एक अंतहीन खोज की ओर जाता है।
+आप एक वैकल्पिक मोड का उपयोग करके देख सकते हैं। शायद यह काम करेगा।"</string>
+    <string name="microseconds_short">μs</string>
+    <string name="small_is_bad">बहुत छोटे मान खेल में प्रोसेसर और लैग पर एक उच्च भार का कारण बन सकते हैं।</string>
+    <string name="freeze_interval_help">अंतराल जिसके माध्यम से __app_name__ खेल मेमोरी में मूल्यों को अधिलेखित करता है।</string>
+    <string name="saved_list_update_interval_help">अंतराल जिसके माध्यम से __app_name__ सहेजे गए सूची में मूल्यों को अद्यतन करता है।</string>
+    <string name="icons_size_help">"__app_name__ इंटरफ़ेस में आइकन का आकार।
+फ्लोटिंग आइकन पर लागू नहीं होता है।"</string>
+    <string name="ignore_unknown_chars_help">विभिन्न स्थानों से संख्याओं की प्रतिलिपि बनाते समय समस्याओं को हल करने में मदद कर सकते हैं, यदि संख्याओं के साथ विशेष वर्णों की प्रतिलिपि बनाई जाती है।</string>
+    <string name="use_notification_help">"Android के सिस्टम अधिसूचना क्षेत्र में सूचनाओं का उपयोग।
+कुछ फर्मवेयर पर, यह एप्लिकेशन की प्राथमिकता को बढ़ाता है और इसे बंद होने से रोकता है।
+इसके अलावा आप __app_name__ या गेम पर क्लिक करके नोटिफिकेशन का उपयोग कर सकते हैं।
+यह उपयोगी हो सकता है यदि आप फ्लोटिंग आइकन पर क्लिक नहीं कर सकते हैं।"</string>
+    <string name="use_sound_effects_help">"जब आप बटन और आइटम दबाते हैं तो सिस्टम लगता है।
+कुछ फर्मवेयर पर, ध्वनि __app_name__ दुर्घटना का कारण बनती है।"</string>
+    <string name="keyboard_help">आंतरिक कीबोर्ड कम मेमोरी लेता है, तेजी से लोड होता है और नंबर दर्ज करने के लिए अनुकूलित होता है।</string>
+    <string name="allow_suggestions_help">"बाहरी कीबोर्ड से संकेत।
+कुछ फर्मवेयर पर, संकेत __app_name__ दुर्घटना का कारण बनते हैं।"</string>
+    <string name="autopause_help">__app_name__ इंटरफ़ेस को खोलने पर स्वचालित रूप से गेम को रोक देता है।</string>
+    <string name="killed_by">__app_name__ \"__s__\" एप्लिकेशन द्वारा जबरन बंद कर दिया गया था। इससे बचने के लिए, इस एप्लिकेशन को हटा दें या इसे कॉन्फ़िगर करें ताकि यह __app_name__ समाप्त न हो।</string>
+    <string name="killers_found">"आपने ऐसे एप्लिकेशन इंस्टॉल किए हैं जो __app_name__ को जबरन बंद कर सकते हैं:
+__s__
+इससे बचने के लिए, उन्हें हटा दें, या उन्हें कॉन्फ़िगर करें ताकि वे __app_name__ को समाप्त न करें।
+
+यदि आप __app_name__ के अप्रत्याशित समापन के साथ समस्याओं का अनुभव नहीं करते हैं, तो कोई कार्रवाई की आवश्यकता नहीं है, और आप इस संदेश को अनदेखा कर सकते हैं।"</string>
+    <string name="record_logcat">रिकॉर्ड __logcat__</string>
+    <string name="record_logcat_info">"__app_name__ को फ़ाइल में __logcat__ रिकॉर्ड करने के साथ पुनः आरंभ किया जाएगा:
+\"__s__\"।
+
+रिकॉर्डिंग समाप्त करने के लिए, __app_name__ से बाहर निकलें।
+उसके बाद, आप लॉग फ़ाइल को भेज सकते हैं जहां आपको इसकी आवश्यकता है।"</string>
+    <string name="need_uninstall">आपको इंस्टॉलर को अनइंस्टॉल करने की आवश्यकता है, अन्यथा आपके पास 4 आइकन होंगे, न कि 2. गेम भी इसका पता लगाएंगे।</string>
+    <string name="need_random_name">"__app_name__ मानक पैकेज नाम का उपयोग करता है। खेल इसका पता लगा सकते हैं।
+
+इसे ठीक करने के लिए - एक सामान्य एप्लिकेशन के रूप में वर्चुअल स्पेस के बाहर __app_name__ चलाएं।
+इंस्टॉलेशन पूरा होने के बाद, एक यादृच्छिक नाम के साथ __app_name__ की कॉपी को वर्चुअल स्पेस में जोड़ें।"</string>
+    <string name="work_mode">कार्य का तरीका</string>
+    <string name="root">जड़</string>
+    <string name="no_root">कोई जड़ नहीं</string>
+    <string name="how_no_root">"आपको वर्चुअल स्पेस एप्लिकेशन इंस्टॉल करना होगा। जैसे: __vspace_list__
+
+आधिकारिक __app_name__ साइट से अनुकूलित संस्करण स्थापित करने की सिफारिश की गई है।
+
+फिर आपको इस वर्चुअल स्पेस में __app_name__ और अपना गेम जोड़ना होगा।
+
+उसके बाद आपको वर्चुअल स्पेस में गेम और __app_name__ चलाना होगा।"</string>
+    <string name="eperm_error_descr_0">संभावित कारण:</string>
+    <string name="eperm_error_descr_1">खेल में संरक्षण।</string>
+    <string name="eperm_error_descr_2">एक अन्य डिबगर या क्रैकर खेल से जुड़ा है।</string>
+    <string name="eperm_error_descr_3">अपर्याप्त अनुमति। आमतौर पर गलत तरीके से कॉन्फ़िगर किए गए __selinux__ के कारण। __selinux__ को अक्षम या कॉन्फ़िगर करें।</string>
+    <string name="eperm_error_descr_4">खराब कर्नेल या फर्मवेयर। एक और फर्मवेयर या अन्य डिवाइस आज़माएं।</string>
+    <string name="eperm_error_descr_5">आपके फर्मवेयर पर, \"नो रूट\" मोड काम नहीं करता है। एक और फर्मवेयर या अन्य डिवाइस आज़माएं या रूट प्राप्त करें।</string>
+    <string name="ptrace_bypass_mode">Ptrace सुरक्षा के लिए बाईपास मोड:</string>
+    <string name="mode_restore">बहाल</string>
+    <string name="mode_nothing">कुछ भी तो नहीं</string>
+    <string name="mode_freeze">फ्रीज</string>
+    <string name="ptrace_bypass_mode_help">"सुरक्षा कनेक्शन को अक्षम करने के बाद क्या करना है:
+\u0009__mode_restore__ - कनेक्शन बहाल करें
+\u0009__mode_nothing__ - कुछ भी न करें (आमतौर पर सुरक्षा ही कनेक्शन को पुनर्स्थापित करती है)
+\u0009__mode_freeze__ - थ्रेड को फ्रीज करें (पिछले संस्करणों में)
+
+यदि आप सुरक्षा को पुनर्स्थापित करते हैं, या सुरक्षा को स्वयं करने की अनुमति देते हैं, तो __app_name__ में मूल्यों का ठंड स्थायी कनेक्शन / अक्षमता के कारण पिछड़ सकता है।"</string>
+    <string name="slow_emulator">"आप \"__s__\" एमुलेटर का उपयोग कर रहे हैं। यह धीमा है और इसमें त्रुटियाँ हैं। इस वजह से, खोज बहुत धीमी हो सकती है।
+
+हम अन्य एमुलेटर का उपयोग करने की सलाह देते हैं:"</string>
+    <string name="text">टेक्स्ट</string>
+    <string name="show_debug_info">डिबग जानकारी दिखाएँ</string>
+    <string name="mnt_expand">"__app_name__ एक मेमोरी कार्ड पर स्थापित है जिसे \"आंतरिक भंडारण\" के रूप में उपयोग किया जाता है।
+यह वर्चुअल स्पेस के संचालन में हस्तक्षेप कर सकता है।
+यदि ऐसा होता है, तो डिवाइस की आंतरिक मेमोरी में __app_name__ स्थापित करें।
+आपको मेमोरी कार्ड को \"पोर्टेबल स्टोरेज\" के रूप में पुन: स्वरूपित करने की आवश्यकता हो सकती है।"</string>
+    <string name="help_game_not_listed_root">"इसे चुनने के लिए गेम रनिंग होना चाहिए।
+
+यदि खेल चल रहा है, लेकिन फिर भी यह सूची में नहीं है, तो हो सकता है कि आपको रूट, या फ़र्मवेयर की समस्या हो।
+किसी अन्य रूट या अन्य फर्मवेयर का प्रयास करें।"</string>
+    <string name="help_game_not_listed_noroot">"गेम को वर्चुअल स्पेस में लॉन्च किया जाना चाहिए ताकि इसे चुना जा सके।
+
+यदि आप वर्चुअल स्पेस में नहीं चल रहे हैं तो आप गेम का चयन नहीं कर सकते।
+
+यदि गेम वर्चुअल स्पेस में चल रहा है, लेकिन फिर भी यह सूची में नहीं है, तो किसी अन्य वर्चुअल स्पेस, किसी अन्य फर्मवेयर, किसी अन्य डिवाइस या रूट की कोशिश करें।"</string>
+    <string name="daemon_killed_oom">"स्मृति की कमी के कारण सिस्टम द्वारा डेमन को मार दिया गया था।
+
+\"__data_in_ram__\" पर \"__no__\" पर सेट करें।
+यदि संभव हो तो इंटरफ़ेस के हार्डवेयर त्वरण का उपयोग करें।
+बड़े एप्लिकेशन का उपयोग न करें।
+अन्य सभी अप्रयुक्त एप्लिकेशन अक्षम करें।
+अपने डिवाइस को रिबूट करने के बाद __app_name__ का उपयोग करने का प्रयास करें।"</string>
+    <string name="selected_as_search_result">खोज परिणाम के रूप में चुना गया</string>
+    <string name="clear_results_prompt">यह वर्तमान खोज परिणामों को बदल देगा। जारी रहना?</string>
+    <string name="position_in_memory_editor">मेमोरी एडिटर में स्थिति</string>
+    <string name="script_prompt_internet">"स्क्रिप्ट इंटरनेट एक्सेस करना चाहती है। यदि आप एक्सेस की अनुमति देते हैं, तो स्क्रिप्ट गेम से आपके लॉगिन, पासवर्ड, सेव और अन्य डेटा चोरी करने में सक्षम होगी। इसके अलावा यह आपकी अन्य स्क्रिप्ट्स को चुराने, या आपके डिवाइस में वायरस डाउनलोड करने में सक्षम होगा।
+
+इंटरनेट तक स्क्रिप्ट की पहुंच की अनुमति दें?"</string>
+    <string name="level">स्तर</string>
+    <string name="float_prompt">"अपने फर्मवेयर पर __app_name__ को ठीक से चलाने के लिए, आपको __s__ के लिए सिस्टम सेटिंग्स में उपयोग पॉपअप विंडोज़ की अनुमति देने की आवश्यकता है।
+
+पॉपअप Huawei फोन पर डिफ़ॉल्ट रूप से नहीं दिखता है। आपको पॉपअप दिखाने के लिए __s__ की अनुमति देने की आवश्यकता होगी। कृपया फ़ोन प्रबंधक खोलें, फिर ड्रॉपज़ोन प्रबंधन और कृपया सुनिश्चित करें कि यह __s__ पर चालू है।
+
+पॉपअप भी कुछ Xiaomi फोन पर नहीं दिखा। आपको सेटिंग्स पर जाना होगा -> इंस्टॉल किए गए ऐप्स -> __s__ -> अन्य अनुमतियां -> पॉप-अप विंडो प्रदर्शित करें।
+
+इसके अलावा, अन्य फोनों में ऐप्स को पॉपअप विंडो दिखाने की अनुमति देने के लिए अलग-अलग प्रक्रियाएं हो सकती हैं। ऐसे सभी एप्लिकेशन आमतौर पर इस तरह से प्रभावित होते हैं, उदाहरण के लिए टैप ट्रांसलेशन कार्यक्षमता के साथ Google अनुवादक ऐप। इसलिए, आप समाधान खोजने के लिए बस \"Your_PHONE टैप टू ट्रांसलेट\" को गूगल कर सकते हैं। उदाहरण के लिए, Xiaomi Redmi उपकरणों के लिए समाधान निम्नानुसार है:"</string>
+    <string name="virtual_space">वर्चुअल स्पेस ऐप</string>
+    <string name="prevent_unload_help">"मेमोरी (बल पास) से __app_name__ उतारना बंद करें।
+
+प्रत्येक बाद का स्तर पिछले वाले की तुलना में अधिक शक्तिशाली है और इसे अपने आप में शामिल करता है।
+
+तीसरे स्तर पर कुछ फर्मवेयर और एमुलेटर पर समस्याएं (हैंग टोस्ट, रिबूट या क्रैश) हो सकती हैं।
+
+जड़ के बिना केवल तीसरा स्तर काम करता है।"</string>
+    <string name="integer_type">यह डेटा प्रकार केवल पूर्णांक मानों के लिए है और यह आंशिक मानों का समर्थन नहीं करता है। आंशिक मूल्यों के लिए __type_float__ या __type_double__ का उपयोग करें।</string>
+    <string name="without_float">इसके अलावा आप अस्थायी खिड़कियों के बिना __app_name__ का उपयोग कर सकते हैं:</string>
+    <string name="any_value">कोई मान</string>
+    <string name="help_group_search_any_value">वांछित स्थिति में उस प्रकार के किसी भी मूल्य को निर्दिष्ट करने के लिए आप न्यूनतम आकार के साथ एक आदेशित समूह खोज में __any__ का उपयोग कर सकते हैं।</string>
+    <string name="help_scripts_title">स्क्रिप्ट</string>
+    <string name="help_scripts">"* __help_scripts_title__:
+__app_name__ लुआ में लिखी गई लिपियों के निष्पादन का समर्थन करता है।
+
+खोज टैब पर, मेनू पर क्लिक करें और \"__execute_script__\" चुनें।
+यहां आप निष्पादन के लिए स्क्रिप्ट फ़ाइल का चयन कर सकते हैं, मौजूदा __app_name__ एपीआई तरीके देख सकते हैं, या एपीआई पर मदद पढ़ने या तैयार स्क्रिप्ट डाउनलोड करने के लिए आधिकारिक साइट पर जा सकते हैं।
+इसके अलावा, आप इसे इंटरनेट के बिना पढ़ने के लिए मेमोरी कार्ड पर एपीआई से मदद निकाल सकते हैं।
+
+यदि आप अपनी खुद की स्क्रिप्ट लिखना चाहते हैं, तो आपको एक बाहरी पाठ फ़ाइल संपादक की आवश्यकता है।
+__app_name__ संपादन स्क्रिप्ट की अनुमति नहीं देता है, यह केवल उन्हें निष्पादित करता है।
+
+अधिक जानकारी के लिए एपीआई सहायता पढ़ें।"</string>
+    <string name="help_floating_icon_absent">यदि \"__start__\" बटन पर क्लिक करने के बाद आपको फ्लोटिंग आइकन नहीं दिखता है:</string>
+    <string name="remove_all2">सभी हटाएं</string>
+    <string name="debug_load">सभी कोड लोड करें</string>
+    <string name="debug_log">अधिकांश स्क्रिप्ट कॉल लॉग करें</string>
+    <string name="vspace64">"आपने 64-बिट प्रक्रियाओं का समर्थन करने वाले वर्चुअल स्पेस में __app_name__ चलाए।
+
+__app_name__ इस जगह में 32-बिट प्रक्रियाओं को नहीं देखेगा।
+
+__app_name__ की दूसरी प्रति \"__for32__\" मोड में स्थापित करें यदि आप 32-बिट प्रक्रियाओं के साथ __app_name__ में काम करना चाहते हैं।"</string>
+    <string name="folder_new">नया फोल्डर</string>
+    <string name="folder_exists">यह फ़ोल्डर पहले से मौजूद है</string>
+    <string name="folder_file">उस नाम के साथ एक फ़ाइल है</string>
+    <string name="folder_failed">फ़ोल्डर बनाने में विफल</string>
+    <string name="force_close">"पिछला ऐप शटडाउन अप्रत्याशित था।
+
+आप भविष्य में इससे बचने के लिए \"__prevent_unload__\" कॉन्फ़िगरेशन स्तर उठा सकते हैं।"</string>
+    <string name="help_force_close_title">अप्रत्याशित रूप से बंद</string>
+    <string name="install_mode">मोड स्थापित करें</string>
+    <string name="for32">64-बिट वर्चुअल स्पेस में 32-बिट गेम हैक करें</string>
+    <string name="for64">64-बिट वर्चुअल स्पेस में 64-बिट गेम हैक करें</string>
+    <string name="reset_ignore">सभी संवादों के लिए सभी रीसेट को अनदेखा करें</string>
+    <string name="allocate_fail">मेमोरी पेज आवंटित नहीं किया जा सका। त्रुटि</string>
+    <string name="allocated">आवंटित स्मृति पृष्ठ:</string>
+    <string name="allocate_page">मेमोरी पेज आवंटित करें</string>
+    <string name="prot_read">पढ़ा जा सकता है</string>
+    <string name="prot_write">लिखा जा सकता है</string>
+    <string name="prot_exec">अंजाम दिया जा सकता है</string>
+    <string name="install_finished">"स्थापना सफल रही।
+इंस्टॉल की गई कॉपी को मैन्युअल रूप से चलाएं ताकि वह आपके डेटा को माइग्रेट कर सके।
+उसके बाद, इंस्टॉलर को हटाया जा सकता है।"</string>
+    <string name="odd_vspace">वर्चुअल स्पेस में लॉन्च किया गया __app_name__?</string>
+    <string name="record_script">रिकॉर्ड स्क्रिप्ट</string>
+    <string name="record">अभिलेख</string>
+    <string name="another_record">एक और रिकॉर्ड चल रहा है। इसे रोक?</string>
+    <string name="record_ended">रिकॉर्डिंग पूरी हुई:</string>
+    <string name="stop">रुकें</string>
+    <string name="could_not_use">उपयोग नहीं कर सका:</string>
+    <string name="not_optimized2">"आप वर्चुअल स्पेस (\"__s__\") के गैर-अनुकूलित संस्करण का उपयोग कर रहे हैं।
+इस त्रुटि को ठीक करने के लिए, \"__s__\" के गैर-अनुकूलित संस्करण को हटा दें और आधिकारिक साइट __app_name__ में से एक अनुकूलित वर्चुअल स्थान स्थापित करें।
+अनुकूलित वर्चुअल स्पेस के चयन में जाने के लिए \"__fix_it__\" पर क्लिक करें।"</string>
+    <string name="fix_path">नि: शुल्क स्थान या \"__fix_it__\" पर क्लिक करके अस्थायी फ़ाइलों के लिए एक अलग रास्ता निर्दिष्ट करें।</string>
+    <string name="deep_read">गहरा पढ़ें:</string>
+    <string name="help_deep_read">"सभी उपलब्ध तरीकों से मेमोरी पढ़ना, अगर यह पढ़ा नहीं जा सका।
+मेमोरी रीडिंग को धीमा कर सकता है।"</string>
+    <string name="ptrace_fail">Ptrace के माध्यम से मेमोरी बदलने में विफल।</string>
+    <string name="ptrace_fail_partially">कुछ फीचर्स, स्पीडहॉक और इससे जुड़ी हर चीज, काम नहीं करेगी। केवल पढ़ने के लिए मेमोरी (कोड सहित) संभव नहीं है।</string>
+    <string name="ptrace_fail_full">सुविधाओं का पूर्ण बहुमत काम नहीं करेगा।</string>
+    <string name="ptrace_fail_solve">"सामान्य कारण फर्मवेयर में टूटा हुआ कर्नेल है।
+फर्मवेयर बदलने की कोशिश करें। यदि आपने हाल ही में इसे अपडेट किया है - पिछले संस्करण को स्थापित करें।
+
+यदि यह काम नहीं करता है, तो डिवाइस को बदलें।"</string>
+    <string name="feature_hide_4">यदि चौथी वस्तु \"__hide_from_game__\" में चुनी गई है तो यह सुविधा काम नहीं कर सकती है।</string>
+    <string name="feature_firmware">यह सुविधा ptrace के बिना काम नहीं कर सकती है, जो इस फर्मवेयर पर काम नहीं करती है।</string>
+    <string name="feature_protection">यह सुविधा गेम में ptrace सुरक्षा के कारण काम नहीं कर सकती है।</string>
+    <string name="not_file">पथ एक फ़ाइल नहीं है:</string>
+    <string name="not_execute">निष्पादित नहीं कर सकते:</string>
+    <string name="check_install">जांचें कि __app_name__ सही तरीके से स्थापित है।</string>
+    <string name="sdcard_install">यदि __app_name__ बाह्य संग्रहण (एसडी कार्ड) पर स्थापित है, तो इसे आंतरिक मेमोरी पर लौटा दें</string>
+    <string name="change_address_type">पता / प्रकार बदलें</string>
+    <string name="bad_offset">ऑफ़सेट __d__ से अधिक नहीं है।</string>
+    <string name="bad_result_address">परिणामी पता __d__ का गुणक नहीं है।</string>
+    <string name="correct_types">__d__ तत्व असंभव संरेखण को सही करने के लिए इसके प्रकार को बदल देंगे।</string>
+    <string name="reinstall_fail">"यादृच्छिक नाम के साथ __app_name__ को पुनर्स्थापित करने में असमर्थ।
+
+__app_name__ को खेलों द्वारा आसानी से पता लगाया जा सकता है।
+
+आप स्थापना के दौरान __logcat__ रिकॉर्ड कर सकते हैं, और मदद के लिए आधिकारिक मंच से संपर्क कर सकते हैं।
+
+अस्वीकृति का कारण:"</string>
+    <string name="empty_field">खाली इनपुट फ़ील्ड: कन्वर्ट करने के लिए कोई संख्या नहीं</string>
+    <string name="need_integer">कनवर्ट करने के लिए आपको एक पूर्णांक का चयन करना होगा।</string>
+    <string name="maps_failed">\"__maps__\" फ़ाइल नहीं खोल सका।</string>
+    <string name="game_protected">खेल संरक्षित है।</string>
+    <string name="need_root">इस गेम को हैक करने के लिए रूट की जरूरत है।</string>
+    <string name="vspace_error">"वर्चुअल स्पेस या फ़र्मवेयर या डिवाइस की समस्या।
+
+प्रयत्न:
+\u0009- दूसरे वर्चुअल स्पेस का इस्तेमाल करें
+\u0009- एक और फर्मवेयर का उपयोग करें
+\u0009- जड़ प्राप्त करें
+\u0009- किसी अन्य डिवाइस का उपयोग करें"</string>
+    <string name="root_error">"फर्मवेयर या रूट या डिवाइस की समस्या।
+
+प्रयत्न:
+\u0009- एक और फर्मवेयर का उपयोग करें
+\u0009- एक और जड़ का उपयोग करें
+\u0009- किसी अन्य डिवाइस का उपयोग करें"</string>
+    <string name="vspace_root">वर्चुअल स्पेस में रूट का उपयोग करें:</string>
+    <string name="help_vspace_root">"वर्चुअल स्पेस से रूट का उपयोग इस तथ्य को छिपाने में मदद कर सकता है कि डिवाइस पर __app_name__ है।
+
+यह सभी फर्मवेयर पर काम नहीं करता है और सभी वर्चुअल स्पेस पर नहीं।
+
+वर्चुअल स्पेस, फर्मवेयर और रूट को वर्चुअल स्पेस से रूट के साथ काम करने देना चाहिए।
+वर्चुअल स्पेस आपको एप्लिकेशन को सिस्टम में इंस्टॉल किए बिना आवक स्थापित करने की अनुमति देनी चाहिए।
+
+सभी वर्चुअल स्पेस इसे प्रदान नहीं कर सकते हैं।
+
+सभी फर्मवेयर पर नहीं यह मोड काम करेगा। और सब जड़ से नहीं।
+
+चूंकि पूरे वर्चुअल स्थान पर रूट अधिकार दिए जाएंगे, इसलिए आपको इसमें कुछ और स्थापित नहीं करना चाहिए। अन्यथा, वर्चुअल स्पेस का कोई भी एप्लिकेशन अप्रत्याशित परिणामों के साथ रूट अधिकारों का उपयोग कर सकता है।
+
+गेम को वर्चुअल स्पेस के बाहर स्थापित किया जाना चाहिए।
+
+__app_name__ सिस्टम में स्थापित किए बिना, केवल वर्चुअल स्पेस के अंदर स्थापित किया जाना चाहिए।
+यह कैसे करें - किसी विशेष वर्चुअल स्पेस की मदद देखें।
+
+उदाहरण के लिए, __vexp__ के लिए, आप __vexp__ में सिस्टम से __app_name__ क्लोन कर सकते हैं, और फिर सिस्टम से __app_name__ हटा सकते हैं।"</string>
+    <string name="help_games_protection_9">9. वर्चुअल स्पेस में रूट का उपयोग करें जो सिस्टम में इंस्टॉल किए बिना अपने आप में एप्लिकेशन इंस्टॉल करने की अनुमति देता है।</string>
+    <string name="locale_ui">अपने लोकल में</string>
+    <string name="locale_script">लिपियों में हमेशा अंग्रेजी लोकेल का उपयोग होता है</string>
+    <string name="locale_desc">"'__s__' - दशमलव विभाजक
+'__s__' - हजारों विभाजक
+'__semicolon__' - समूह खोज में नंबर विभाजक"</string>
+    <string name="help_unaligned_title">बिना खोज वाली खोज / बड़ा-एंडियन खोज</string>
+    <string name="help_unaligned">"कुछ अनुप्रयोगों में, (उदाहरण के लिए, जैसे कंसोल एमुलेटर), मेमोरी में मूल्य संरेखण का सम्मान नहीं कर सकता है, या बड़े-एंडियन बाइट ऑर्डर में प्रस्तुत किया जा सकता है।
+
+इस तरह के मूल्य को एक सामान्य खोज के माध्यम से नहीं पाया जा सकता है।
+
+उन्हें खोजने के लिए - आधिकारिक __app_name__ वेबसाइट से एक विशेष स्क्रिप्ट का उपयोग करें:"</string>
+    <string name="help_formula_calculator_title">सूत्र कैलकुलेटर</string>
+    <string name="help_formula_calculator">"संख्याओं को दर्ज करने के लिए लगभग प्रत्येक क्षेत्र में, आप गणितीय सूत्र में प्रवेश कर सकते हैं, समान चिह्न के बाद, उदाहरण के लिए, खोज फ़ील्ड में '= 2 + 2 * 3' दर्ज करें, और कार्यक्रम सूत्र के परिणाम के लिए खोज करेगा, है, '8'।
+सूत्र एक लुआ अभिव्यक्ति है। आप इसमें Lua की सभी उपलब्ध शक्ति का उपयोग कर सकते हैं।
+
+सभी अंकगणितीय संचालक लूआ 5.3 स्वीकार्य हैं - जोड़ (+), घटाव (-), गुणा (*), विभाजन (/), विभाजन शेष (%), प्रतिपादक (^), पूर्णांक विभाजन (//), और इसी तरह।
+उपलब्ध बिट ऑपरेटर भी हैं - और (&amp;), या (!), एक्सक्लूसिव OR (बाइनरी ~), NOT (यूनेरी ~), दाईं ओर शिफ्ट (>>), बाईं ओर शिफ्ट (&lt;&lt;)। कार्रवाई का आदेश कोष्ठक द्वारा दिया जा सकता है।
+उपलब्ध संचालन की पूरी सूची के लिए Lua मैनुअल पढ़ें।
+
+यह उपयोगी है यदि आप जानते हैं कि खेल में मूल्य को कैसे कोडित किया गया है। उदाहरण के लिए, एक गेम में 29 राउंड को '= 29 ~ 444444' के रूप में पाया जा सकता है। यह 29 XOR 444444 के बराबर है। वीडियो सैंपल में, XOR के माध्यम से 444444 के साथ कीमत 3888 पाई गई, जैसा कि '= 444444 ~ 3888' है। इसके बाद, प्रतिस्थापन को '= 444444 ~ 1' किया गया, जिसने मूल्य को '1' पर सेट किया। एक अन्य खेल में, 125 स्वर्ण '= 125 * 10' की तरह होता है।
+
+सभी स्क्रिप्ट फ़ंक्शंस सूत्र कैलकुलेटर में उपलब्ध नहीं हैं। कुछ कार्य उपलब्ध नहीं हैं। यदि आपके पास उनमें से पर्याप्त नहीं है - अपनी स्क्रिप्ट लिखें, तो सूत्र कैलकुलेटर का उपयोग करने के बजाय, यह केवल सरल गणना के लिए है। उपलब्ध: बुनियादी कार्यों का हिस्सा, 'बिट 32', 'टेबल', 'स्ट्रिंग', 'यूटीएफ 8', 'गणित', 'ओएस' पैकेज का हिस्सा। पैकेज 'डिबग', 'पैकेज', 'जीजी', 'आईओ' उपलब्ध नहीं हैं।
+
+जब आप '= 2 + 2 * 3' लिखते हैं, तो सूत्र से पहले 'रिटर्न' कीवर्ड जोड़ा जाएगा: '2 + 2 * 3'। हालाँकि, आप इस शब्द को एक सूत्र में स्वयं निर्दिष्ट कर सकते हैं यदि आपको एक जटिल सूत्र की आवश्यकता है।
+उदाहरण के लिए, '= a = 5; बी = 7; वापसी एक * 4 + बी * 8 '' ए = 5 के रूप में निष्पादित किया जाएगा; बी = 7; वापसी एक * 4 + बी * 8 '
+
+सूत्र कैलकुलेटर का परिणाम एक पाठ स्ट्रिंग है। इस इनपुट फ़ील्ड के लिए स्ट्रिंग कोई भी मान्य स्ट्रिंग हो सकती है।
+उदाहरण के लिए, यह समूह खोज या श्रेणी खोज के लिए एक स्ट्रिंग हो सकता है। '= a = 5; बी = 7; वापसी एक .. \";\" .. b .. \":: 100\" '' 5 के बराबर है; 7 :: 100 '।
+
+फॉर्मूला कैलकुलेटर लिपियों में काम नहीं करता है, वहां आप सीधे लुआ का उपयोग कर सकते हैं।
+स्क्रिप्ट लिखते समय, सूत्र गणना का परिणाम फ़ाइल को लिखा जाएगा, सूत्र को ही नहीं।
+
+यदि फॉर्मूला गलत है, तो फॉर्म जमा करते समय आपको एक त्रुटि संदेश प्राप्त होगा।
+
+गणना करते समय, आपको इस तथ्य को ध्यान में रखना चाहिए कि गणना उस प्रकार से की जाती है जो पहले ऑपरेंड निर्दिष्ट करता है। यदि यह एक पूर्णांक है, तो परिणाम पूर्णांक होगा।
+उदाहरण के लिए, '= 3/2' '1' है, और '= 3.0 / 2' '1.5' है।
+
+चुने हुए स्थान के बावजूद, सूत्र अंग्रेजी लोकेल में काम करते हैं। इसका मतलब है कि दशमलव विभाजक हमेशा एक बिंदु ('।') है।"</string>
+    <string name="help_faq_32_b">"दो लॉन्च आइकन। सॉफ्टवेयर त्वरण के साथ पहला, - \"__app_short_name_sw__\", दूसरा, हार्डवेयर त्वरण के साथ - \"__app_short_name_hw__\"। अब ऐसा हमेशा रहेगा।
+कुछ फर्मवरों पर केवल एक संस्करण काम करता है, सामान्य दोनों पर।
+सॉफ्टवेयर त्वरण का उपयोग करना बेहतर है, यह कम सुचारू रूप से काम करता है, लेकिन कम मेमोरी का उपभोग करता है।
+
+आप एप्लिकेशन सेटिंग्स में एक आइकन छिपा सकते हैं: \"__hide_icons__\"।"</string>
+    <string name="acceleration_help_">"हार्डवेयर या सॉफ्टवेयर इंटरफ़ेस त्वरण __app_name__।
+गेम और फर्मवेयर के आधार पर, विकल्पों में से कुछ समस्याएं पैदा कर सकते हैं।
+यदि दोनों काम करते हैं, तो सॉफ्टवेयर त्वरण का उपयोग करें क्योंकि यह कम मेमोरी का उपभोग करता है।
+
+यह विकल्प लॉन्च आइकन से अलग है और केवल __app_name__ इंटरफ़ेस के प्रदर्शन को प्रभावित करता है।
+लॉन्च स्क्रीन के त्वरण के प्रकार के लिए लॉन्च आइकन जिम्मेदार हैं।
+
+हार्डवेयर त्वरण बहुत अधिक मेमोरी का उपभोग करता है, लेकिन यह अधिक सुचारू रूप से काम करता है। यदि आपके पास कम रैम है, तो हमेशा सॉफ्टवेयर त्वरण का उपयोग करें।
+
+यदि हार्डवेयर त्वरण त्रुटियों का कारण बनता है, तो __app_name__ सॉफ्टवेयर त्वरण पर स्विच कर सकता है।"</string>
+    <string name="small_list_items">छोटी सूची आइटम</string>
+    <string name="small_list_items_help">आपको आइटम सूचियों में अधिक जानकारी प्रदर्शित करने की अनुमति देता है, लेकिन वांछित आइटम पर क्लिक करना अधिक कठिन हो सकता है।</string>
+    <string name="format_asm_opcodes">__s__ ऑपकोड</string>
+    <string name="no_regions">कोई मिलान क्षेत्र नहीं मिला।</string>
+    <string name="cannot_hide_launcher_icon">"यह आइकन वर्तमान लॉन्च के लिए उपयोग किया गया था।
+
+आप उस आइकन को नहीं छिपा सकते जिसका उपयोग वर्तमान लॉन्च में किया गया था।
+
+इस आइकन को छिपाने में सक्षम होने के लिए किसी अन्य आइकन के माध्यम से एप्लिकेशन को पुनरारंभ करें।"</string>
+    <string name="screenshot">कोई स्क्रीनशॉट लें</string>
+    <string name="screenshot_prompt">"आइकन __d__ सेकंड के लिए छिपाया जाएगा ताकि आप स्क्रीनशॉट ले सकें।
+
+उसके बाद, आइकन फिर से दिखाई देगा।"</string>
+    <string name="screenshot_action">स्क्रीनशॉट</string>
+    <string name="use_visible_type">मेमोरी एडिटर में दृश्यमान डेटा प्रकार का उपयोग करें:</string>
+    <string name="use_visible_type_help">मेमोरी एडिटर में डेटा टाइप के लिए न पूछें यदि केवल एक डेटा टाइप प्रदर्शित होता है।</string>
+    <string name="wrong_float">आपके स्थान पर, \"__s__\" नंबर \"__s__\" जैसा दिखता है। यदि यह वह नहीं है जो आपको चाहिए - स्टार्ट स्क्रीन पर एक अलग लोकेल (या भाषा) का चयन करें।</string>
+    <string name="wrong_float2">इसके अलावा, __app_name__ सेटिंग्स में, आप संख्याओं को प्रारूपित करने के लिए लोकेल को ओवरराइड कर सकते हैं।</string>
+    <string name="number_locale">प्रारूपण संख्याओं के लिए स्थान:</string>
+    <string name="fill">भरना</string>
+    <string name="help_text_search">"
+पाठ की खोज करने के लिए, आपको सामान्य खोज संवाद में संशोधक निर्दिष्ट करना होगा।
+
+सबसे अधिक उपयोग किए जाने वाले एन्कोडिंग __utf8__ और __utf16le__ हैं।
+आमतौर पर, __utf16le__ का __java__ में और __utf8__ का __c__ में उपयोग किया जाता है।
+
+\u0009__utf16le__ एक दो-बाइट एन्कोडिंग है। प्रत्येक चरित्र को हमेशा दो बाइट्स में एन्कोड किया जाता है, इसलिए इसे __type_word__ के माध्यम से दर्शाया जाता है।
+\u0009__utf8__ - प्रति वर्ण चर बाइट आकार के साथ एन्कोडिंग। __type_byte__ के माध्यम से प्रस्तुत किया गया।
+\u0009__hex_input__ और इसके वेरिएंट को हमेशा __type_byte__ के माध्यम से दर्शाया गया है।
+
+खेल किसी भी एन्कोडिंग का उपयोग कर सकता है।
+यदि आपको बाइट्स के एक विशिष्ट सेट की आवश्यकता है - __hex_input__ मोड का उपयोग करें।
+
+उपलब्ध उपसर्ग:
+__text_prefixes__
+
+\"__hex_mixed__\" मोड के लिए, आप __apos__ अक्षरों के बीच __utf8__ पाठ और __quot__ वर्णों के बीच __utf16le__ पाठ निर्दिष्ट कर सकते हैं।
+
+उदाहरण के लिए:
+__text_examples__
+
+खोज पाठ में उपसर्ग वर्ण पहले वर्ण होना चाहिए।
+
+The result of the search will be a __type_byte__ sequence, or a __type_word__ sequence, for the case of __utf16le__.
+
+परिणाम बदले जा सकते हैं - सभी का चयन करें और \"__edit_selected__\" पर क्लिक करें।
+
+मान फ़ील्ड में, नया मान दर्ज करें, उसी स्वरूप में खोज स्ट्रिंग के लिए।
+
+आप फिल बटन का उपयोग कर सकते हैं। यदि वे दिखाई नहीं दे रहे हैं तो \"__more__\" पर क्लिक करें।
+
+मूल्य प्रत्येक निम्न आइटम के प्रत्येक समूह के लिए सेट किया जाएगा।
+यदि तत्वों के बीच कोई अंतर है, तो यह एक नया समूह होगा।
+
+यदि आप आवश्यकता से अधिक बाइट्स निर्दिष्ट करते हैं, तो उनमें से केवल एक भाग का उपयोग किया जाएगा।
+यदि आप आवश्यकता से कम निर्दिष्ट करते हैं, तो शेष समूह शून्य बाइट्स से भर जाएगा।
+
+पाठ को प्रतिस्थापित करते समय, समस्याओं से बचने के लिए मूल के समान बाइट्स के साथ पाठ को निर्दिष्ट करने का प्रयास करें।
+"</string>
+    <string name="fast_freeze">तेज बर्फीली:</string>
+    <string name="help_fast_freeze">"यह सामान्य ठंड की तुलना में बहुत तेजी से काम करता है, लेकिन सभी मेमोरी के लिए नहीं।
+
+यदि फ्रीज काम नहीं करता है, तो इस विकल्प को अक्षम करें।"</string>
+    <string name="debug_disassemble">अलग करना</string>
+    <string name="assembled">फ़ाइल में सफलतापूर्वक इकट्ठा किया गया:</string>
+    <string name="warn_patch_off_prot2">"यदि आप __magisk_hide__ का उपयोग कर रहे हैं - पैच लगाने से पहले इसे अक्षम कर दें। पैच को सफलतापूर्वक लागू करने के बाद, आप इसे वापस चालू कर सकते हैं।
+यदि आप नहीं करते हैं, तो पैच सफल नहीं होगा।"</string>
+    <string name="help_games_protection_end">"
+वर्चुअल स्पेस में गेम से __app_name__ कैसे छिपाएं
+
+\u00091. वर्चुअल स्पेस स्थापित करें, जो एप्लिकेशन की छिपी स्थापना को सिस्टम में स्थापित किए बिना अनुमति देता है। उदाहरण के लिए, __vspace_hide__।
+\u00092. वर्चुअल स्पेस में __app_name__ इंस्टॉल करें।
+\u00093. __app_name__ में, \"__vspace_root__\" मोड चालू करें।
+\u00094. Grant root rights to virtual space. If you do not able to grant root rights - try another virtual space, other root rights, different firmware or change the device.
+\u00095. सिस्टम से __app_name__ निकालें।
+\u00096. वर्चुअल स्पेस से __app_name__ के साथ काम करें।
+
+खोज के दौरान पता लगाने से बचें:
+\u0009\"__hide_from_game__\" सेटिंग में आइटम 2, 3 और 4 का चयन करें।
+
+एक विशिष्ट समाधान (रूट की आवश्यकता होती है, बिना रूट के आप सफल नहीं होते):
+\u00091. वर्चुअल स्पेस से रूट का उपयोग करें। \"__vspace_root__\" सेटिंग के लिए सहायता पढ़ें।
+\u00092. \"__hide_from_game__\" सेटिंग में 2, 3 और 4 आइटम का उपयोग करें।
+"</string>
+    <string name="force_close_2">आप भविष्य में इससे बचने के लिए \"__data_in_ram__\" को \"__no__\" पर सेट कर सकते हैं।</string>
+    <string name="script_wrote">स्क्रिप्ट __s__ __d__ के लिए फ़ाइलों को लिखा था।</string>
+    <string name="script_exit">बाहर जाएं</string>
+    <string name="script_interrupted">स्क्रिप्ट बाधित।</string>
+    <string name="script_error">लिपि की गलती</string>
+    <string name="script_oom">स्मृति से बाहर</string>
+    <string name="script_possible">ऐसा लगता है कि आप एक स्क्रिप्ट के रूप में __s__ निष्पादित करने के लिए कोशिश कर रहे हैं लग रहा है।</string>
+    <string name="script_web">एक वेब पेज</string>
+    <string name="script_saved_list">कोई सहेजी गई सूची</string>
+    <string name="speedhack_no_x86">लेकिन इस खेल में कोई 86 पुस्तकालयों है, इसलिए हो सकता है यह काम नहीं करेगा।</string>
+    <string name="help_faq_33_q">पाठ संदेश (टोस्ट) स्क्रीन पर बने हुए हैं, या जब __app_name__ काम कर रहा है एक अंधेरे चक्र स्क्रीन के तल पर दिखाई देता है। इसे कैसे जोड़ेंगे?</string>
+    <string name="help_faq_33_a">तीसरे स्तर \"__prevent_unload__\" कुछ फर्मवेयर पर का उपयोग तथ्य यह है कि पाठ संदेश (टोस्ट) स्क्रीन पर बने हुए हैं, या एक अंधेरे चक्र दिखाई (खाली संदेश) है की ओर जाता है। यदि ऐसा होता है, तीसरे स्तर का उपयोग नहीं करते।</string>
+    <string name="invalid_header_1">अमान्य द्विआधारी स्क्रिप्ट हेडर।</string>
+    <string name="unknown_version">अज्ञात संस्करण।</string>
+    <string name="unknown_format">अज्ञात फ़ॉरमेट।</string>
+    <string name="unknown_endianness">अज्ञात endianness।</string>
+    <string name="unknown_size_s">__s__ की अज्ञात आकार।</string>
+    <string name="unknown_size_instr">शिक्षा का अज्ञात आकार।</string>
+    <string name="unknown_size_num">लुआ संख्या की अज्ञात आकार।</string>
+    <string name="expected_found">उम्मीद __s__ लेकिन __s__ पाया।</string>
+    <string name="or">या</string>
+    <string name="invalid_header_2">वैसे भी स्क्रिप्ट चलाने?</string>
+    <string name="invalid_header_3">"__app_name__ के भविष्य के संस्करणों में, इस स्क्रिप्ट को चलाने नहीं किया जा सकता।
+स्क्रिप्ट के लेखक को इस बारे में लिखें।"</string>
+    <string name="skip_system_libs">प्रणाली पुस्तकालयों जाएं</string>
+    <string name="try_reinstall_x86">"86 पुस्तकालयों के साथ खेल फिर से स्थापित करने का प्रयास करें?
+
+खेल है कि बाद काम करना बंद कर सकते हैं। यदि ऐसा होता है, __data_app__ में स्थित apk से खेल को पुनर्स्थापित करें।"</string>
+    <string name="reinstall_started">पुनर्स्थापना शुरू कर दिया ...</string>
+    <string name="reinstall_failed">पुनर्स्थापना विफल रहा है:</string>
+    <string name="reinstall_ended">पुनर्स्थापना पूरा किया।</string>
+    <string name="help_lasm_title">जुदा / इकट्ठा लिपियों</string>
+    <string name="help_lasm">"__app_name__ निर्मित एक disassembler / लुआ स्क्रिप्ट के लिए कोडांतरक है।
+
+आप \"__more__\" बटन पर क्लिक करने के बाद स्क्रिप्ट लांच विंडो में \"__debug_disassemble__\" विकल्प का चयन कर सकते हैं।
+
+जिसके परिणामस्वरूप __ext_lasm__ फ़ाइल संपादित और स्क्रिप्ट लांच विंडो में चुना जा सकता है। परिणाम में किए गए परिवर्तनों के साथ एक द्विआधारी __ext_lua__ फ़ाइल हो जाएगा।
+
+अधिक जानकारी के लिए स्क्रिप्ट API सहायता पढ़ें।
+"</string>
+    <string name="help_hide_gg_title">कैसे खेल से __app_name__ को छिपाने के लिए</string>
+    <string name="changed_as_search_result">खोज परिणाम के रूप में बदला गया</string>
+    <string name="changed_not_found">बदले गए आइटम नहीं मिला।</string>
+    <string name="too_far">ये मान एक समूह खोज के माध्यम से नहीं पाया जा सकता है, वे में अंतराल है: __d__ बाइट्स। अधिकतम दूरी __d__ बाइट्स है।</string>
+    <string name="new_address">नया पता:</string>
+    <string name="hide_1_warn">आप पहले आइटम का चयन किया। बर्फ़ीली मूल्यों खेल में गंभीर अंतराल हो सकता है।</string>
+    <string name="hide_4_warn">आप चौथे आइटम का चयन किया। कुछ विशेषताएँ काम न देगा: __speedhack__, __unrandomizer__, +__allocate_page__।</string>
+    <string name="asm_failed">__s__ opcode पहचान करने में विफल:</string>
+    <string name="asm_suggestion">आपका मतलब है: __s__?</string>
+    <string name="copy_opcode">कॉपी __s__ opcode:</string>
+    <string name="search_nearby">नजदीक मे खोजे</string>
+    <string name="before">इससे पहले</string>
+    <string name="after">उपरांत</string>
+    <string name="distance">दूरी:</string>
+    <string name="nearby">पास ही:</string>
+    <string name="need_fixer">"एक समस्या यह 64-बिट आभासी अंतरिक्ष के साथ पाया गया।
+
+ठीक करना:
+
+1. __fixer__ आवेदन को स्थापित करें। (इस संवाद से, या तो स्वयं मार्ग के किनारे:
+__s__
+)।
+
+2. आभासी अंतरिक्ष के लिए __fixer__ जोड़ें।
+
+3. आभासी अंतरिक्ष में चलाने __fixer__।
+
+4. __fixer__ निकालें।
+
+5. पुनः प्रारंभ आभासी अंतरिक्ष में +__app_name__।"</string>
+    <string name="limit">केवल पहले एन परिणाम:</string>
+</resources>

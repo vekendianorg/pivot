@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.fix.ScrollView
+    android:scrollbarSize="24.0dip"
+    android:scrollbarAlwaysDrawVerticalTrack="true"
+    android:scrollbarStyle="insideOverlay"
+    android:id="@id/logcat_page"
+    android:padding="6.0dip"
+    android:scrollbars="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="0.0dip"
+    android:layout_weight="1.0"
+    android:scrollbarFadeDuration="0"
+    android:fadeScrollbars="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.fix.TextView
+        android:id="@id/logcat_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</android.fix.ScrollView>
