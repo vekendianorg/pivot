@@ -60,6 +60,7 @@
         <item name="android:paddingBottom">@dimen/spacing_small</item>
     </style>
     <!-- Pivot Modern UI v2 styles -->
+    <style name="Modern" />
     <style name="Modern.Card">
         <item name="android:background">@drawable/bg_modern_card</item>
         <item name="android:paddingLeft">@dimen/spacing_medium</item>
