@@ -1,0 +1,18 @@
+# Build artifacts
+build/
+dist/
+*.apk
+*.apks
+*.xapk
+*.zip
+
+# Apktool
+src/build/
+
+# Local helper scripts & scratch files (not part of the mod source)
+temp/
+
+# OS / editor noise
+Thumbs.db
+.DS_Store
+*.log
