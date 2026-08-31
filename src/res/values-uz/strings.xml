@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~uz~~~</string>
     <string name="front_text">"__improve_translation_hint__
@@ -758,7 +758,7 @@ Bu __executable__ xotira, __writable__ yoki __read_only__ bo'lishi mumkin. Kam h
     <string name="writable">yoziladigan</string>
     <string name="read_only">"faqat o'qish"</string>
     <string name="writable_and_executable">yoziladigan va bajariladigan</string>
-    <string name="help_extract">Yordamni chiqaring</string>
+    <string name="help_extract">SAF ochish</string>
     <string name="help_extract_done">"Yordam __s__ raqamiga yo'naltiriladi"</string>
     <string name="help_extract_fail">Yordamni olib tashlashda xatolik yuz berdi:</string>
     <string name="try_arm_version">"Eski ARM protsessorlari uchun __app_name__ versiyasini ishlatib ko'ring:"</string>

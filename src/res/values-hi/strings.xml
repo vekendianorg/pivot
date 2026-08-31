@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~hi~~~</string>
     <string name="front_text">"__improve_translation_hint__
@@ -758,7 +758,7 @@ This can be __executable__ memory, __writable__ or __read_only__. In rare cases,
     <string name="writable">लिखने योग्य</string>
     <string name="read_only">सिफ़ पढ़िये</string>
     <string name="writable_and_executable">योग्य और निष्पादन योग्य</string>
-    <string name="help_extract">मदद निकालें</string>
+    <string name="help_extract">SAF खोलें</string>
     <string name="help_extract_done">मदद __s__ पर निकाली जाती है</string>
     <string name="help_extract_fail">मदद निकालते समय एक त्रुटि हुई:</string>
     <string name="try_arm_version">पुराने ARM प्रोसेसर के समर्थन के साथ __app_name__ के संस्करण का उपयोग करने का प्रयास करें:</string>

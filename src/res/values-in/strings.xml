@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~in~~~</string>
     <string name="front_text">Apabila ada pertanyaan tentang __app_name__ atau cara penggunaannya, silahkan kunjungi forum kami di __forum__</string>
@@ -750,7 +750,7 @@ Ini bisa berupa memori __executable__, __writable__ atau __read_only__. Dalam ka
     <string name="writable">dapat ditulis</string>
     <string name="read_only">hanya baca</string>
     <string name="writable_and_executable">dapat ditulis dan dieksekusi</string>
-    <string name="help_extract">Ekstrak bantuannya</string>
+    <string name="help_extract">Buka SAF</string>
     <string name="help_extract_done">Bantuan diekstraksi ke __s__</string>
     <string name="help_extract_fail">Terjadi kesalahan saat mengekstrak bantuan:</string>
     <string name="try_arm_version">Coba gunakan versi __app_name__ dengan dukungan untuk prosesor ARM yang lebih lama:</string>

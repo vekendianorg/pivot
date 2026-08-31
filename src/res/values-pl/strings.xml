@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~pl~~~</string>
     <string name="front_text">Jeśli masz jakiekolwiek pytania odnośnie __app_name__a, zachęcamy do odwiedzenia naszego forum - __forum__</string>
@@ -738,7 +738,7 @@ Może to być pamięcią __executable__, __writable__ lub __read_only__. W pewny
     <string name="writable">nagrywania</string>
     <string name="read_only">tylko do odczytu</string>
     <string name="writable_and_executable">zapisu i wykonywania</string>
-    <string name="help_extract">Ekstrakt odniesienie</string>
+    <string name="help_extract">Otwórz SAF</string>
     <string name="help_extract_done">Pomoc w ekstrakcji __s__</string>
     <string name="help_extract_fail">Wystąpił błąd podczas pobierania informacji:</string>
     <string name="try_arm_version">Spróbuj użyć wersji __app_name__ wspierania starszych procesorów ARM:</string>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~bs_BA~~~</string>
     <string name="front_text">"__improve_translation_hint__
@@ -751,7 +751,7 @@ Ovo moze biti __executable__ memorija, __writable__ ili __read_only__. U rijetki
     <string name="writable">pisati</string>
     <string name="read_only">samo za čitanje</string>
     <string name="writable_and_executable">pisani i izvršni</string>
-    <string name="help_extract">Izvucite pomoć</string>
+    <string name="help_extract">Otvori SAF</string>
     <string name="help_extract_done">Pomoć je ekstrahovana u __s__</string>
     <string name="help_extract_fail">Došlo je do pogreške prilikom vađenja pomoći:</string>
     <string name="try_arm_version">Pokušajte koristiti verziju __app_name__ sa podrškom za starije ARM procesore:</string>

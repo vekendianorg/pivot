@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~ur~~~</string>
     <string name="front_text">"__improve_translation_hint__
@@ -758,7 +758,7 @@ FlyMe کے لئے: __app_name__ کام کے چند منٹ کے بعد کسی ب�
     <string name="writable">لکھنا قابل</string>
     <string name="read_only">صرف پڑھو</string>
     <string name="writable_and_executable">قابل تحریر اور قابل عمل</string>
-    <string name="help_extract">مدد نکالیں</string>
+    <string name="help_extract">SAF کھولیں</string>
     <string name="help_extract_done">مدد __s__ تک نکال دی گئی ہے</string>
     <string name="help_extract_fail">مدد نکالنے کے دوران ایک خرابی واقع ہوئی:</string>
     <string name="try_arm_version">پرانے ARM پروسیسرز کی حمایت کے ساتھ __app_name__ کے ورژن کا استعمال کرنے کی کوشش کریں:</string>

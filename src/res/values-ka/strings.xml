@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~ka~~~</string>
     <string name="front_text">"__improve_translation_hint__
@@ -758,7 +758,7 @@ You can also try to enable \"__use_notification__\" in __app_name__ settings. So
     <string name="writable">ჩაწერადი</string>
     <string name="read_only">წაიკითხეთ მხოლოდ</string>
     <string name="writable_and_executable">ჩაწერადი და შესრულებადი</string>
-    <string name="help_extract">ამონაწერი დახმარება</string>
+    <string name="help_extract">SAF-ის გახსნა</string>
     <string name="help_extract_done">დახმარება ამოღებულია __s__</string>
     <string name="help_extract_fail">დახმარების მოპოვებისას წარმოიშვა შეცდომა:</string>
     <string name="try_arm_version">სცადეთ __app_name__ ვერსია ძველი ARM პროცესორების მხარდაჭერით:</string>

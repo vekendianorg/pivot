@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~my~~~</string>
     <string name="front_text">သင္​့မွာ __app_name__ နဲ႔ပက္​သက္​ၿပီး ​ေမးျမန္​စရာတခုခု႐ွိပါက(သို႔) အသံုးျပဳပံုကို သိ႐ွိလိုပါက ကြၽန္​ုပ္​တို႔ရဲ႕ __forum__ သို႔ဝင္​​ေရာက္​​ေလ့လာႏိုင္​ပါတယ္​</string>
@@ -756,7 +756,7 @@ FlyMe များအတွက်: မြေပေါ်သို့ချအလ
     <string name="writable">writable</string>
     <string name="read_only">ကိုဖတ်ရှုသာ</string>
     <string name="writable_and_executable">writable နှင့်ဟာ executable</string>
-    <string name="help_extract">အကူအညီ Extract</string>
+    <string name="help_extract">SAF ဖွင့်ရန်</string>
     <string name="help_extract_done">အဆိုပါအကူအညီကို __s__ မှထုတ်ယူနေသည်</string>
     <string name="help_extract_fail">အကူအညီဆွဲထုတ်နေစဉ်မှားယွင်းမှုတစ်ခုဖြစ်ပွားခဲ့သည်:</string>
     <string name="try_arm_version">အဟောင်းတွေကို ARM ပရိုဆက်ဆာအဘို့အထောက်ခံမှုနှင့်အတူ __app_name__ ၏ဗားရှင်းသုံးပြီးကြိုးစားပါ:</string>

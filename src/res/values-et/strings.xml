@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~et~~~</string>
     <string name="front_text">"__improve_translation_hint__
@@ -758,7 +758,7 @@ See võib olla mälu __executable__, __writable__ või __read_only__. Harvadel j
     <string name="writable">kirjutatav</string>
     <string name="read_only">Loe ainult</string>
     <string name="writable_and_executable">kirjutatav ja käivitatav</string>
-    <string name="help_extract">Eemaldage abi</string>
+    <string name="help_extract">Ava SAF</string>
     <string name="help_extract_done">Abi antakse välja __s__</string>
     <string name="help_extract_fail">Abi eraldamisel ilmnes viga:</string>
     <string name="try_arm_version">Proovige kasutada versiooni __app_name__ vanemate ARM-protsessorite toel:</string>

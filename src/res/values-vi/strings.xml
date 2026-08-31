@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~vi~~~</string>
     <string name="front_text">Nếu bạn có bất kỳ câu hỏi nào về __app_name__ hoặc cách sử dụng, hãy thăm diễn đàn của chúng tôi tại __forum__</string>
@@ -753,7 +753,7 @@ This can be __executable__ memory, __writable__ or __read_only__. In rare cases,
     <string name="writable">ghi</string>
     <string name="read_only">Chỉ đọc</string>
     <string name="writable_and_executable">ghi và thực thi</string>
-    <string name="help_extract">Giải nén sự giúp đỡ</string>
+    <string name="help_extract">Mở SAF</string>
     <string name="help_extract_done">Sự giúp đỡ được chiết xuất để __s__</string>
     <string name="help_extract_fail">Có lỗi xảy ra trong khi giải nén sự giúp đỡ:</string>
     <string name="try_arm_version">Hãy thử sử dụng các phiên bản của __app_name__ với sự hỗ trợ cho bộ vi xử lý ARM trở lên:</string>

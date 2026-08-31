@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~hr~~~</string>
     <string name="front_text">Ako imate bilo kakvih pitanja o __app_name__ ili upotrebi, posjetite nase forume na __forum__</string>
@@ -752,7 +752,7 @@ To može biti __executable__ memorija, __writable__ ili __read_only__. U rijetki
     <string name="writable">snimanje</string>
     <string name="read_only">samo za čitanje</string>
     <string name="writable_and_executable">mogućnost snimanja i izvršavanja</string>
-    <string name="help_extract">Izvadite pomoć</string>
+    <string name="help_extract">Otvori SAF</string>
     <string name="help_extract_done">Pomoć je ekstrahirana na __s__</string>
     <string name="help_extract_fail">Došlo je do pogreške prilikom dohvaćanja pomoći:</string>
     <string name="try_arm_version">Pokušajte koristiti verziju __app_name__ s podrškom za starije ARM procesore:</string>

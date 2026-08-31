@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~la~~~</string>
     <string name="front_text">"__improve_translation_hint__
@@ -758,7 +758,7 @@ Haec possunt esse memoriae __executable__, __writable__ vel __read_only__. In ra
     <string name="writable">writable</string>
     <string name="read_only">tantum legere</string>
     <string name="writable_and_executable">et writable exsecutabile</string>
-    <string name="help_extract">Eliciunt auxilium</string>
+    <string name="help_extract">Open SAF</string>
     <string name="help_extract_done">Auxilium telum extrahendum ad __s__</string>
     <string name="help_extract_fail">Error occurrit extractionem auxilium,</string>
     <string name="try_arm_version">Conare verbis per versionem ad subsidium __app_name__ senior BELLUM PARO processors,</string>

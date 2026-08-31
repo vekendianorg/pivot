@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~ca~~~</string>
     <string name="front_text">"__improve_translation_hint__
@@ -758,7 +758,7 @@ Això pot ser __executable__ memòria, __writable__ o __read_only__. En casos ra
     <string name="writable">escriptible</string>
     <string name="read_only">Llegeix només</string>
     <string name="writable_and_executable">escrit i executable</string>
-    <string name="help_extract">Extraieu l’ajuda</string>
+    <string name="help_extract">Obre el SAF</string>
     <string name="help_extract_done">L’ajuda s’extreu al __s__</string>
     <string name="help_extract_fail">"S'ha produït un error en extreure l’ajuda:"</string>
     <string name="try_arm_version">Proveu d’utilitzar la versió del __app_name__ amb el suport per a processadors ARM antics:</string>

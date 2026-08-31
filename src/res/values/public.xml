@@ -1152,6 +1152,7 @@
     <public type="color" name="modern_error" id="0x7f0a0035" />
     <public type="color" name="modern_ripple" id="0x7f0a0036" />
     <public type="color" name="modern_on_accent" id="0x7f0a0037" />
+    <public type="color" name="modern_overlay" id="0x7f0a0038" />
     <public type="id" name="read" id="0x7f0b0000" />
     <public type="id" name="write" id="0x7f0b0001" />
     <public type="id" name="exec" id="0x7f0b0002" />

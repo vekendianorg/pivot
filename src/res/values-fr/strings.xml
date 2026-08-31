@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~fr~~~</string>
     <string name="front_text">"Si vous avez des questions à propos de __app_name__ ou de son utilisation, veuillez visiter notre forum à l'adresse __forum__"</string>
@@ -746,7 +746,7 @@ La mémoire est la plupart du temps __executable__, __writable__ ou en __read_on
     <string name="writable">inscriptible</string>
     <string name="read_only">lecture seule</string>
     <string name="writable_and_executable">inscriptible et exécutable</string>
-    <string name="help_extract">"Extraire l'aide"</string>
+    <string name="help_extract">Ouvrir le SAF</string>
     <string name="help_extract_done">"L'aide a été extraite dans __s__"</string>
     <string name="help_extract_fail">"Une erreur s'est produite lors de l'extraction de l'aide:"</string>
     <string name="try_arm_version">"Essayez d'utiliser la version de __app_name__ prenant en charge les anciens processeurs ARM:"</string>

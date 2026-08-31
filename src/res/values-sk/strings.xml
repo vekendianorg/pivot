@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~sk~~~</string>
     <string name="front_text">Ak máte akékoľvek otázky týkajúce sa __app_name__ alebo jeho používania, prosím, navštívte naše fórum na __forum__</string>
@@ -738,7 +738,7 @@ Môže to byť __executable__ pamäte, __writable__ alebo __read_only__. V zried
     <string name="writable">zapisovateľný</string>
     <string name="read_only">len na čítanie</string>
     <string name="writable_and_executable">zapisovateľný a spustiteľný</string>
-    <string name="help_extract">Extrahovať Pomocník</string>
+    <string name="help_extract">Otvoriť SAF</string>
     <string name="help_extract_done">Pomoc bola extrahovaná na __s__</string>
     <string name="help_extract_fail">Pri načítavaní pomoci sa vyskytla chyba:</string>
     <string name="try_arm_version">Skúste použiť verziu __app_name__ s podporou starších procesorov ARM:</string>

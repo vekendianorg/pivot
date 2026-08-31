@@ -2,15 +2,19 @@
 <resources>
     <style name="LargeText" parent="@android:style/TextAppearance.Large">
         <item name="android:textColor">#ffffffff</item>
+        <item name="android:fontFamily">sans-serif</item>
     </style>
     <style name="MediumText" parent="@android:style/TextAppearance.Medium">
         <item name="android:textColor">#ffffffff</item>
+        <item name="android:fontFamily">sans-serif</item>
     </style>
     <style name="SmallText" parent="@android:style/TextAppearance.Small">
         <item name="android:textColor">#ffffffff</item>
+        <item name="android:fontFamily">sans-serif</item>
     </style>
     <style name="Separator" parent="@android:style/TextAppearance.Small">
         <item name="android:textColor">#ffaaaaaa</item>
+        <item name="android:fontFamily">sans-serif</item>
     </style>
     <style name="FixTheme" parent="@android:style/Theme.DeviceDefault">
         <item name="android:buttonStyle">@style/Modern.Button</item>
@@ -99,6 +103,7 @@
         <item name="android:textSize">18.0sp</item>
         <item name="android:textColor">@color/modern_text_primary</item>
         <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
     </style>
     <style name="Modern.ListText" parent="@style/SmallText">
         <item name="android:textColor">@color/modern_text_primary</item>

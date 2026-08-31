@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~fi~~~</string>
     <string name="front_text">"__improve_translation_hint__
@@ -758,7 +758,7 @@ Tämä voi olla __executable__ muisti, __writable__ tai __read_only__. Harvinais
     <string name="writable">kirjoitettavissa</string>
     <string name="read_only">Lue ainoastaan</string>
     <string name="writable_and_executable">kirjoitettava ja suoritettava</string>
-    <string name="help_extract">Pura apua</string>
+    <string name="help_extract">Avaa SAF</string>
     <string name="help_extract_done">Ohje uutetaan __s__: een</string>
     <string name="help_extract_fail">Ohjeen purkamisessa tapahtui virhe:</string>
     <string name="try_arm_version">Yritä käyttää versiota __app_name__ vanhempien ARM-prosessorien tuella:</string>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <android.fix.LinearLayout
-    android:background="@color/modern_surface"
+    android:background="@color/modern_overlay"
     android:paddingTop="8.0dip"
     android:paddingBottom="8.0dip"
     android:gravity="center_horizontal"

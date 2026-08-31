@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~ru~~~</string>
     <string name="front_text">"Тема на русском форуме: http://4pda.ru/forum/index.php?showtopic=259340
@@ -754,7 +754,7 @@ __app_name__ работает внутри эмулятора, поэтому с
     <string name="writable">записываемая</string>
     <string name="read_only">только для чтения</string>
     <string name="writable_and_executable">записываемая и исполняемая</string>
-    <string name="help_extract">Извлечение справки</string>
+    <string name="help_extract">Открыть SAF</string>
     <string name="help_extract_done">Справка извлечена в __s__</string>
     <string name="help_extract_fail">При извлечении справки произошла ошибка:</string>
     <string name="try_arm_version">Попробуйте использовать версию __app_name__ с поддержкой более старых процессоров ARM:</string>

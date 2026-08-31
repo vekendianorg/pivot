@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~ms~~~</string>
     <string name="front_text">"__improve_translation_hint__
@@ -758,7 +758,7 @@ Ini boleh menjadi memori __executable__, __writable__ atau __read_only__. Dalam 
     <string name="writable">boleh tulis</string>
     <string name="read_only">baca sahaja</string>
     <string name="writable_and_executable">boleh tulis dan boleh laku</string>
-    <string name="help_extract">Ekstrak bantuan</string>
+    <string name="help_extract">Buka SAF</string>
     <string name="help_extract_done">Bantuan ini diekstrak ke __s__</string>
     <string name="help_extract_fail">Ralat berlaku semasa mengekstrak bantuan:</string>
     <string name="try_arm_version">Cuba gunakan versi __app_name__ dengan sokongan untuk pemproses ARM yang lebih lama:</string>

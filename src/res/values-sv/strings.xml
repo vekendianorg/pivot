@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~sv~~~</string>
     <string name="front_text">Om du har några frågor om __app_name__eller dess användning, kolla in vårt forum på __forum__</string>
@@ -756,7 +756,7 @@ Detta kan vara __executable__ minne, __writable__ eller __read_only__. I sällsy
     <string name="writable">skrivbar</string>
     <string name="read_only">Skrivskyddad</string>
     <string name="writable_and_executable">skrivbar och körbar</string>
-    <string name="help_extract">Extrahera hjälpen</string>
+    <string name="help_extract">Öppna SAF</string>
     <string name="help_extract_done">Hjälpen extraheras till __s__</string>
     <string name="help_extract_fail">Ett fel uppstod när du extraherade hjälpen:</string>
     <string name="try_arm_version">Prova att använda versionen av __app_name__ med stöd för äldre ARM-processorer:</string>

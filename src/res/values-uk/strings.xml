@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~uk~~~</string>
     <string name="front_text">"Тема на російському форумі: http://4pda.ru/forum/index.php?showtopic=259340
@@ -754,7 +754,7 @@ __app_name__ працює всередині емулятора, тому шви
     <string name="writable">доступна для запису</string>
     <string name="read_only">лише для читання</string>
     <string name="writable_and_executable">доступна для запису та виконування</string>
-    <string name="help_extract">Скопіювати довідку</string>
+    <string name="help_extract">Відкрити SAF</string>
     <string name="help_extract_done">Довідка витягується до __s__</string>
     <string name="help_extract_fail">Під час витягнення довідки сталася помилка:</string>
     <string name="try_arm_version">Спробуйте використовувати версію __app_name__ з підтримкою застарілих процесорів ARM:</string>

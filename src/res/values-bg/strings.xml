@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~bg~~~</string>
     <string name="front_text">"__improve_translation_hint__
@@ -756,7 +756,7 @@ Killers са всички видове \"оптимизатори\" и \"под�
     <string name="writable">записващо</string>
     <string name="read_only">само за четене</string>
     <string name="writable_and_executable">записваем и изпълним</string>
-    <string name="help_extract">Извличане на помощ</string>
+    <string name="help_extract">Отваряне на SAF</string>
     <string name="help_extract_done">Помощта се екстрахира при __s__</string>
     <string name="help_extract_fail">Възникна грешка при извличането на помощта:</string>
     <string name="try_arm_version">Опитайте да използвате версия __app_name__ с поддръжка за по-стари ARM процесори:</string>

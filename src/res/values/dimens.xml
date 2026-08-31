@@ -12,8 +12,8 @@
     <!-- Pivot Modern UI v2 tokens -->
     <dimen name="corner_radius_large">16.0dip</dimen>
     <dimen name="corner_radius_xlarge">22.0dip</dimen>
-    <dimen name="list_item_height">52.0dip</dimen>
-    <dimen name="menu_row_height">48.0dip</dimen>
+    <dimen name="list_item_height">40.0dip</dimen>
+    <dimen name="menu_row_height">40.0dip</dimen>
     <dimen name="spacing_large">24.0dip</dimen>
     <dimen name="spacing_xlarge">32.0dip</dimen>
     <dimen name="dialog_padding">20.0dip</dimen>

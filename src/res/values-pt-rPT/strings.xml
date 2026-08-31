@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~pt_PT~~~</string>
     <string name="front_text">Se você tem dúvidas sobre o __app_name__ ou sobre o seu uso, por favor, visite nosso fórum em __forum__</string>
@@ -750,7 +750,7 @@ Isso pode ser __executable__ memória, __writable__ ou __read_only__. Em casos r
     <string name="writable">gravável</string>
     <string name="read_only">somente leitura</string>
     <string name="writable_and_executable">gravável e executável</string>
-    <string name="help_extract">Extraia a ajuda</string>
+    <string name="help_extract">Abrir SAF</string>
     <string name="help_extract_done">A ajuda é extraída para __s__</string>
     <string name="help_extract_fail">Ocorreu um erro ao extrair a ajuda:</string>
     <string name="try_arm_version">Tente usar a versão __app_name__ com suporte para processadores ARM mais antigos:</string>

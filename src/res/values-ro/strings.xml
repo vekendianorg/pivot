@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~ro~~~</string>
     <string name="front_text">Dacă ai vreo întrebare despre __app_name__ sau folosință ei, va rugăm vizitați forumul nostru la __forum__</string>
@@ -756,7 +756,7 @@ Acest lucru poate fi __executable__ de memorie, __writable__ sau __read_only__. 
     <string name="writable">inscriptibil</string>
     <string name="read_only">read-only</string>
     <string name="writable_and_executable">scris și executabil</string>
-    <string name="help_extract">Extrageți ajutorul</string>
+    <string name="help_extract">Deschide SAF</string>
     <string name="help_extract_done">Ajutorul este extras la __s__</string>
     <string name="help_extract_fail">A apărut o eroare la extragerea ajutorului:</string>
     <string name="try_arm_version">Încercați să utilizați versiunea de __app_name__ cu suport pentru procesoarele ARM mai vechi:</string>

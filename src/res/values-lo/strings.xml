@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~lo~~~</string>
     <string name="front_text">"__improve_translation_hint__
@@ -758,7 +758,7 @@ Killers ແມ່ນທັງຫມົດຂອງ \"optimizers\" ແລະ \"�
     <string name="writable">writable</string>
     <string name="read_only">ອ່ານ​ຢ່າງ​ດຽວ</string>
     <string name="writable_and_executable">writable ແລະ executable</string>
-    <string name="help_extract">ຖອນການຊ່ວຍເຫຼືອ</string>
+    <string name="help_extract">ເປີດ SAF</string>
     <string name="help_extract_done">ການຊ່ວຍເຫຼືອແມ່ນຖືກສະກັດອອກມາເປັນ __s__</string>
     <string name="help_extract_fail">ຂໍ້ຜິດພາດເກີດຂຶ້ນໃນຂະນະທີ່ສະກັດເອົາການຊ່ວຍເຫຼືອ:</string>
     <string name="try_arm_version">ລອງໃຊ້ຮຸ່ນ __app_name__ ດ້ວຍການສະຫນັບສະຫນູນສໍາລັບໂປແກຼມ ARM ທີ່ອາຍຸ:</string>

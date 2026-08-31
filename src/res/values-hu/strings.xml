@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~hu~~~</string>
     <string name="front_text">Ha bármi kérdésed van az __app_name__-ról vagy a használatáról, kérjük látogasd meg a fórumuainkat itt: __forum__.</string>
@@ -754,7 +754,7 @@ Ez __executable__ memória, __writable__ vagy __read_only__ lehet. Ritkán __wri
     <string name="writable">írható</string>
     <string name="read_only">csak olvasható</string>
     <string name="writable_and_executable">írható és végrehajtható</string>
-    <string name="help_extract">Kivonja a segítséget</string>
+    <string name="help_extract">SAF megnyitása</string>
     <string name="help_extract_done">A segítséget __s__-re emelik</string>
     <string name="help_extract_fail">Hiba történt a segítség kinyerésekor:</string>
     <string name="try_arm_version">Próbálkozzon a __app_name__-es verzió használatával az idősebb ARM-processzorok támogatásával:</string>

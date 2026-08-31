@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~jw~~~</string>
     <string name="front_text">"__improve_translation_hint__
@@ -758,7 +758,7 @@ Iki bisa dadi memori __executable__, __writable__ utawa __read_only__. Ing kasus
     <string name="writable">writable</string>
     <string name="read_only">namung diwaca</string>
     <string name="writable_and_executable">writable lan executable</string>
-    <string name="help_extract">Extract the help</string>
+    <string name="help_extract">Bukak SAF</string>
     <string name="help_extract_done">Bantuan iki diekstrak kanggo __s__</string>
     <string name="help_extract_fail">Kesalahan nalika nambani bantuan:</string>
     <string name="try_arm_version">Coba nggunakake versi __app_name__ kanthi dhukungan kanggo prosesor ARM lawas:</string>

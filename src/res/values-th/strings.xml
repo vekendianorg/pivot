@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~th~~~</string>
     <string name="front_text">หากคุณมีคำถามเกี่ยวกับ __app_name__ หรือการใช้งาน, กรุณาติดต่อที่ __forum__</string>
@@ -753,7 +753,7 @@ Killers นอกจากนี้ยังมีทุกประเภทข
     <string name="writable">เขียนได้</string>
     <string name="read_only">อ่านเท่านั้น</string>
     <string name="writable_and_executable">สามารถเขียนและปฏิบัติการ</string>
-    <string name="help_extract">สารสกัดจากความช่วยเหลือ</string>
+    <string name="help_extract">เปิด SAF</string>
     <string name="help_extract_done">ความช่วยเหลือถูกแยกไป __s__</string>
     <string name="help_extract_fail">เกิดข้อผิดพลาดในการคลายความช่วยเหลือ:</string>
     <string name="try_arm_version">ลองใช้รุ่น __app_name__ ด้วยการสนับสนุนสำหรับการประมวลผล ARM เก่า:</string>

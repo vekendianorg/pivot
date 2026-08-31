@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~es~~~</string>
     <string name="front_text">Si tienes alguna pregunta sobre __app_name__ o su uso, por favor, visite nuestros foros en __forum__</string>
@@ -741,7 +741,7 @@ Esto puede ser __executable__ memory, __writable__ o __read_only__. En casos rar
     <string name="writable">escribible</string>
     <string name="read_only">Solo lectura</string>
     <string name="writable_and_executable">Escribible y ejecutable</string>
-    <string name="help_extract">Extrae la ayuda</string>
+    <string name="help_extract">Abrir SAF</string>
     <string name="help_extract_done">La ayuda se extrae a __s__</string>
     <string name="help_extract_fail">Se ha producido un error al extraer la ayuda:</string>
     <string name="try_arm_version">Intente utilizar la versión de __app_name__ con soporte para procesadores ARM antiguos:</string>

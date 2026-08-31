@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~tl~~~</string>
     <string name="front_text">Kung meron kang nais na malaman tungkol sa __app_name__, bumisita lamang sa aming forums: __forum__</string>
@@ -756,7 +756,7 @@ Ito ay maaaring __executable__ memorya, __writable__ o __read_only__. Sa mga bih
     <string name="writable">nasusulatan</string>
     <string name="read_only">nababasa</string>
     <string name="writable_and_executable">nasusulatan at napapagana</string>
-    <string name="help_extract">I-extract ang tulong</string>
+    <string name="help_extract">Buksan ang SAF</string>
     <string name="help_extract_done">Ang tulong ay nakuha sa __s__</string>
     <string name="help_extract_fail">Naganap ang isang error habang kinukuha ang tulong:</string>
     <string name="try_arm_version">Subukang gamitin ang bersyon ng __app_name__ na may suporta para sa mas lumang mga processor ng ARM:</string>

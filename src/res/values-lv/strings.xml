@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~lv~~~</string>
     <string name="front_text">Ja rodas kādi jautājumi par __app_name__ vai tās lietošanu, tad apmeklē forumu __forum__ (forums nav latviski)</string>
@@ -746,7 +746,7 @@ Tas var būt __executable__ atmiņa, __writable__ vai __read_only__. Retos gadī
     <string name="writable">rakstāms</string>
     <string name="read_only">tikai lasīt</string>
     <string name="writable_and_executable">rakstāms un izpildāms</string>
-    <string name="help_extract">Izvilkiet palīdzību</string>
+    <string name="help_extract">Atvērt SAF</string>
     <string name="help_extract_done">Palīdzība tiek iegūta __s__</string>
     <string name="help_extract_fail">Iegūstot palīdzību, radās kļūda:</string>
     <string name="try_arm_version">Mēģiniet izmantot versiju __app_name__ ar vecāku ARM procesoru atbalstu:</string>

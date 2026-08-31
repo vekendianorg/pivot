@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~km~~~</string>
     <string name="front_text">បើអ្នកមានសំនួររឺចម្ងល់លើកម្មវិធីនេះ សូមចូលទៅកាន់គេហទំព័រ  __forum__</string>
@@ -753,7 +753,7 @@ __app_name__ រត់ខាងក្នុងវត្ថុត្រាប់�
     <string name="writable">អាចសរសេរបាន</string>
     <string name="read_only">អាច​បាន​តែ​អាន</string>
     <string name="writable_and_executable">អាចសរសេរបាននិងអាចប្រតិបត្តិបាន</string>
-    <string name="help_extract">ស្រង់ជំនួយ</string>
+    <string name="help_extract">បើក SAF</string>
     <string name="help_extract_done">ជំនួយត្រូវបានដកស្រង់ទៅ __s__</string>
     <string name="help_extract_fail">មានកំហុសមួយបានកើតឡើងពេលទាញយកជំនួយ:</string>
     <string name="try_arm_version">ព្យាយាមប្រើកំណែ __app_name__ ដោយមានការគាំទ្រដល់ខួរក្បាល ARM ចាស់:</string>

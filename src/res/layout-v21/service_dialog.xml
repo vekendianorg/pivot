@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <android.fix.TabHost
     android:orientation="vertical"
-    android:background="@color/modern_background"
+    android:background="@color/modern_overlay"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     xmlns:android="http://schemas.android.com/apk/res/android">
     <android.fix.LinearLayout
-        android:orientation="vertical"
+        android:orientation="horizontal"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent">
         <android.fix.LinearLayout
+            android:orientation="vertical"
+            android:background="@color/modern_background"
             android:id="@id/tabs"
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content">
+            android:layout_width="48.0dip"
+            android:layout_height="fill_parent">
             <android.fix.FrameLayout
-                android:layout_gravity="bottom"
+                android:layout_gravity="top"
                 android:layout_width="48.0dip"
                 android:layout_height="48.0dip"
                 android:layout_weight="0.0">
@@ -30,14 +32,16 @@
                     android:src="@drawable/ic_gg_48dp" />
             </android.fix.FrameLayout>
             <android.fix.TabWidget
-                android:layout_gravity="bottom"
+                android:orientation="vertical"
+                android:layout_gravity="top"
                 android:id="@android:id/tabs"
-                android:layout_width="0.0dip"
-                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:layout_height="0.0dip"
                 android:layout_weight="1.0" />
             <android.fix.LinearLayout
+                android:orientation="vertical"
                 android:visibility="gone"
-                android:layout_width="wrap_content"
+                android:layout_width="fill_parent"
                 android:layout_height="wrap_content">
                 <android.fix.FrameLayout
                     android:layout_gravity="center"
@@ -132,6 +136,11 @@
                 android:src="@drawable/ic_close_white_24dp"
                 android:layout_weight="0.0" />
         </android.fix.LinearLayout>
+        <android.fix.LinearLayout
+            android:orientation="vertical"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0">
         <android.fix.LinearLayout
             android:id="@id/info_row"
             android:layout_width="fill_parent"
@@ -358,5 +367,6 @@
             android:layout_marginRight="60.0dip"
             android:text="8.40.0  +  Ch,Jh,Ca,Cd,Cb,A,S,O"
             android:layout_weight="0.0" />
+    </android.fix.LinearLayout>
     </android.fix.LinearLayout>
 </android.fix.TabHost>

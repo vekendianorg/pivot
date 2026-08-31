@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~zh_CN~~~</string>
     <string name="front_text">若您有关于__app_name__的任何问题 请访问我们的论坛 __forum__</string>
@@ -737,7 +737,7 @@ __app_name__运行于模拟器中，所以其运行速度基于模拟器的速�
     <string name="writable">可写</string>
     <string name="read_only">只读</string>
     <string name="writable_and_executable">可写可执行</string>
-    <string name="help_extract">解压帮助</string>
+    <string name="help_extract">打开SAF</string>
     <string name="help_extract_done">帮助已解压到__s__</string>
     <string name="help_extract_fail">导出出错：</string>
     <string name="try_arm_version">尝试支持ARM处理器的__app_name__版本：</string>

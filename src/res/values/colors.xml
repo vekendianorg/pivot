@@ -37,24 +37,25 @@
     <color name="file_lasm">#ff005555</color>
     <color name="modern_surface">#ff121212</color>
     <color name="modern_surface_elevated">#ff1e1e1e</color>
-    <color name="modern_accent">#ff4dd0e1</color>
-    <color name="modern_accent_pressed">#ff26c6da</color>
+    <color name="modern_accent">#ffeeeeee</color>
+    <color name="modern_accent_pressed">#ffbdbdbd</color>
     <color name="modern_button_normal">#ff2c2c2e</color>
     <color name="modern_button_pressed">#ff1a1a1c</color>
     <color name="modern_divider">#33ffffff</color>
     <color name="modern_text_secondary">#b3ffffff</color>
-    <color name="modern_section_header">#ff3d2a52</color>
+    <color name="modern_section_header">#ff222222</color>
     <!-- Pivot Modern UI v2 tokens -->
-    <color name="modern_background">#ff0b0d10</color>
-    <color name="modern_card">#ff161a20</color>
-    <color name="modern_accent_dim">#ff1e3a40</color>
-    <color name="modern_accent_secondary">#ff7c4dff</color>
+    <color name="modern_background">#ff0a0a0a</color>
+    <color name="modern_card">#ff171717</color>
+    <color name="modern_accent_dim">#ff2a2a2a</color>
+    <color name="modern_accent_secondary">#ff9e9e9e</color>
     <color name="modern_text_primary">#ffe8eaed</color>
     <color name="modern_text_disabled">#ff5f6368</color>
-    <color name="modern_stroke">#ff26292f</color>
-    <color name="modern_success">#ff66bb6a</color>
-    <color name="modern_warning">#ffffca28</color>
+    <color name="modern_stroke">#ff262626</color>
+    <color name="modern_success">#ffbdbdbd</color>
+    <color name="modern_warning">#ff9e9e9e</color>
     <color name="modern_error">#ffef5350</color>
     <color name="modern_ripple">#22ffffff</color>
-    <color name="modern_on_accent">#ff0b0d10</color>
+    <color name="modern_on_accent">#ff111111</color>
+    <color name="modern_overlay">#cc0b0b0b</color>
 </resources>

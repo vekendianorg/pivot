@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~ar~~~</string>
     <string name="front_text">إذا كانت لديك أي أسئلة حول__app_name__أو إستخدامه ، من فضلك قم بزيارة مدونتنا في__forum__</string>
@@ -745,7 +745,7 @@ __app_name__ يعمل داخل المحاكي ، وبالتالي فإن سرع�
     <string name="writable">للكتابة</string>
     <string name="read_only">يقرأ فقط</string>
     <string name="writable_and_executable">للكتابة والتنفيذ</string>
-    <string name="help_extract">استخراج المساعدة</string>
+    <string name="help_extract">فتح SAF</string>
     <string name="help_extract_done">يتم استخراج المساعدة إلى __s__</string>
     <string name="help_extract_fail">حدث خطأ أثناء استخراج المساعدة:</string>
     <string name="try_arm_version">حاول استخدام إصدار __app_name__ مع دعم معالجات ARM الأقدم:</string>

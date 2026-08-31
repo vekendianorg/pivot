@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~el~~~</string>
     <string name="front_text">Εάν έχετε κάποια απορία σχετικά με το __app_name__ και την χρήση του, παρακαλώ επισκεφθείτε το φόρουμ μας εδώ: __forum__</string>
@@ -749,7 +749,7 @@ __mask_example__
     <string name="writable">εγγράψιμο</string>
     <string name="read_only">μόνο για ανάγνωση</string>
     <string name="writable_and_executable">εγγράψιμο και εκτελέσιμο</string>
-    <string name="help_extract">Εξαγάγετε τη βοήθεια</string>
+    <string name="help_extract">Άνοιγμα SAF</string>
     <string name="help_extract_done">Η βοήθεια εξάγεται στο __s__</string>
     <string name="help_extract_fail">Παρουσιάστηκε σφάλμα κατά την εξόρυξη της βοήθειας:</string>
     <string name="try_arm_version">Δοκιμάστε να χρησιμοποιήσετε την έκδοση __app_name__ με υποστήριξη για παλαιότερους επεξεργαστές ARM:</string>

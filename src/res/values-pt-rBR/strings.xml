@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~pt_BR~~~</string>
     <string name="front_text">Se você tiver alguma dúvida sobre o __app_name__ ou seu uso, por favor, visite nossos fóruns em __forum__</string>
@@ -729,7 +729,7 @@ Isso pode ser memória __executable__, __writable__ ou __read_only__. Em raros c
     <string name="writable">gravável</string>
     <string name="read_only">Legível apenas</string>
     <string name="writable_and_executable">Escrevível e executável</string>
-    <string name="help_extract">Extraia a ajuda</string>
+    <string name="help_extract">Abrir SAF</string>
     <string name="help_extract_done">A ajuda foi extraída para __s__</string>
     <string name="help_extract_fail">Um erro ocorreu enquanto extraíamos a ajuda:</string>
     <string name="try_arm_version">Tente usar a versão do __app_name__ com suporte para processadores ARM antigos:</string>

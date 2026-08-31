@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~lt~~~</string>
     <string name="front_text">Jei jūs turite kokių nors klausimų apie __app_name__ ar jos naudojimusi, prašome apsilankyti mūsų forumuose __forum__</string>
@@ -756,7 +756,7 @@ Tai gali būti __executable__ atmintis, __writable__ arba __read_only__. Retais 
     <string name="writable">rašomas</string>
     <string name="read_only">Tik skaitymui</string>
     <string name="writable_and_executable">rašoma ir vykdoma</string>
-    <string name="help_extract">Ištraukite pagalbą</string>
+    <string name="help_extract">Atidaryti SAF</string>
     <string name="help_extract_done">Pagalba išgaunama į __s__</string>
     <string name="help_extract_fail">Gavusi pagalbą, įvyko klaida:</string>
     <string name="try_arm_version">Pabandykite naudoti __app_name__ versiją naudodami senesnius ARM procesorius:</string>

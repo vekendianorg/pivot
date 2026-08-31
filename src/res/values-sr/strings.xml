@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~sr~~~</string>
     <string name="front_text">"__improve_translation_hint__
@@ -756,7 +756,7 @@ __app_name__ ради унутар емулатора, тако да његов�
     <string name="writable">снимљен</string>
     <string name="read_only">само за читање</string>
     <string name="writable_and_executable">могућност снимања и извршавања</string>
-    <string name="help_extract">Екстракт помоћи</string>
+    <string name="help_extract">Отвори SAF</string>
     <string name="help_extract_done">Помоћ је екстрахована на __s__</string>
     <string name="help_extract_fail">Дошло је до грешке приликом преузимања помоћи:</string>
     <string name="try_arm_version">Покушајте да користите верзију __app_name__ са подршком за старије АРМ процесоре:</string>

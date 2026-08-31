@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~sl~~~</string>
     <string name="front_text">"__improve_translation_hint__
@@ -756,7 +756,7 @@ To je lahko spomin __executable__, __writable__ ali __read_only__. V redkih prim
     <string name="writable">zabeleženo</string>
     <string name="read_only">samo za branje</string>
     <string name="writable_and_executable">zapisljiv in izvršljiv</string>
-    <string name="help_extract">Izvlecite pomoč</string>
+    <string name="help_extract">Odpri SAF</string>
     <string name="help_extract_done">Pomoč je bila ekstrahirana pri __s__</string>
     <string name="help_extract_fail">Pri pridobivanju pomoči je prišlo do napake:</string>
     <string name="try_arm_version">Poskusite uporabiti različico __app_name__ s podporo za starejše ARM procesorje:</string>

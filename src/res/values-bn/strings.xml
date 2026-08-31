@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~bn~~~</string>
     <string name="front_text">__app_name__ অথবা এর ব্যবহার সম্পর্কে কোনো প্রশ্ন থাকলে আমাদের __forum__ ফোরামে যোগাযোগ করুন</string>
@@ -756,7 +756,7 @@ FlyMe: __app_name__ কয়েক মিনিটের কাজের আন
     <string name="writable">লেখার উপযোগী</string>
     <string name="read_only">শুধুমাত্র-পড়া যাবে</string>
     <string name="writable_and_executable">লেখা এবং এক্সিকিউটেবল</string>
-    <string name="help_extract">সাহায্য নিষ্কাশন করুন</string>
+    <string name="help_extract">SAF খুলুন</string>
     <string name="help_extract_done">সাহায্য __s__ থেকে বের করা হয়</string>
     <string name="help_extract_fail">সাহায্যটি সরিয়ে দেওয়ার সময় একটি ত্রুটি ঘটেছে:</string>
     <string name="try_arm_version">পুরানো এআরএম প্রসেসরের সমর্থনে __app_name__ সংস্করণের ব্যবহার করে দেখুন:</string>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~da~~~</string>
     <string name="front_text">Hvis du har spørgsmål om __app_name__ eller dens brug, kan du besøge vores fora på __forum__</string>
@@ -746,7 +746,7 @@ Dette kan være __executable__ hukommelse, __writable__ eller __read_only__. I s
     <string name="writable">skrivbar</string>
     <string name="read_only">Læs kun</string>
     <string name="writable_and_executable">skrivbar og eksekverbar</string>
-    <string name="help_extract">Træk hjælp ud</string>
+    <string name="help_extract">Åbn SAF</string>
     <string name="help_extract_done">Hjælpen ekstraheres til __s__</string>
     <string name="help_extract_fail">Der opstod en fejl under udpakningen af ​​hjælpen:</string>
     <string name="try_arm_version">Prøv at bruge versionen af ​​__app_name__ med support til ældre ARM-processorer:</string>

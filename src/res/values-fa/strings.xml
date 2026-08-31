@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~fa~~~</string>
     <string name="front_text">"اگر در مورد __app_name__ یا استفاده از آن سوالی دارید لطفا انجمن ما به آدرس __forum__ را مشاهده کنید
@@ -758,7 +758,7 @@ __app_name__ در داخل شبیه ساز اجرا می شود، بنابرای
     <string name="writable">قابل نوشتن</string>
     <string name="read_only">فقط خواندنی</string>
     <string name="writable_and_executable">قابل خواندن و قابل اجرا است</string>
-    <string name="help_extract">کمک را استخراج کنید</string>
+    <string name="help_extract">باز کردن SAF</string>
     <string name="help_extract_done">کمک به __s__ استخراج شده است</string>
     <string name="help_extract_fail">هنگام استخراج کمک خطایی رخ داد:</string>
     <string name="try_arm_version">با استفاده از نسخه __app_name__ با پشتیبانی از پردازنده های ARM قدیمی تر سعی کنید:</string>

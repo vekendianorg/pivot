@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~tr~~~</string>
     <string name="front_text">__app_name__ veya uygulamanın kullanımı ile ilgili herhangi bir sorularınız varsa, lütfen forumumuzu ziyaret edin __forum__</string>
@@ -756,7 +756,7 @@ Bu nadir durumlarda __executable__ hafıza, __writable__ veya __read_only__. ola
     <string name="writable">yazılabilir</string>
     <string name="read_only">salt okunur</string>
     <string name="writable_and_executable">yazılabilir ve çalıştırılabilir</string>
-    <string name="help_extract">Yardım belgelerini çıkart</string>
+    <string name="help_extract">SAF aç</string>
     <string name="help_extract_done">Yardım belgeleri __s__ konumuna çıkartıldı</string>
     <string name="help_extract_fail">Yardım belgeleri çıkartılırken bir hata oluştu:</string>
     <string name="try_arm_version">Daha eski ARM işlemcilerini destekleyen __app_name__ sürümünü kullanmayı deneyin:</string>

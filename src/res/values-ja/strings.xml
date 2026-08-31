@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~ja~~~</string>
     <string name="front_text">__app_name__またはその使用について質問がある場合は、 私達のフォーラムを参照してください。 __forum__</string>
@@ -756,7 +756,7 @@ If the hex representation is not white, but color, then most likely in this valu
     <string name="writable">書き込み可能</string>
     <string name="read_only">読み取り専用</string>
     <string name="writable_and_executable">書き込み可能で実行可能</string>
-    <string name="help_extract">ヘルプを抽出する</string>
+    <string name="help_extract">SAFを開く</string>
     <string name="help_extract_done">ヘルプは__s__に抽出されます</string>
     <string name="help_extract_fail">ヘルプの抽出中にエラーが発生しました：</string>
     <string name="try_arm_version">古いARMプロセッサをサポートするバージョンの__app_name__を使用してみてください。</string>

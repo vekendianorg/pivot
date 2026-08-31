@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~ko~~~</string>
     <string name="front_text">__app_name__을 사용하는데 문제가 있거나 사용방법이 궁금하시면, 우리의 포럼 (__forum__)으로 접속하시길 바랍니다.</string>
@@ -756,7 +756,7 @@ If the hex representation is not white, but color, then most likely in this valu
     <string name="writable">쓰기 가능한</string>
     <string name="read_only">읽기 전용</string>
     <string name="writable_and_executable">쓰기 가능 및 실행 가능</string>
-    <string name="help_extract">도움말 추출</string>
+    <string name="help_extract">SAF 열기</string>
     <string name="help_extract_done">도움말이 __s__로 추출됩니다.</string>
     <string name="help_extract_fail">도움말 추출 중 오류가 발생했습니다.</string>
     <string name="try_arm_version">이전 ARM 프로세서를 지원하는 __app_name__ 버전을 사용해보십시오.</string>

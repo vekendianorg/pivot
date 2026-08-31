@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~nl~~~</string>
     <string name="front_text">Als je vragen hebt over __app_name__ of het gebruik ervan, bezoek dan onze forums op __forum__</string>
@@ -765,7 +765,7 @@ Dit kan __executable__-geheugen, __writable__ of __read_only__ zijn. In zeldzame
     <string name="writable">beschrijfbaar</string>
     <string name="read_only">alleen lezen</string>
     <string name="writable_and_executable">beschrijfbaar en uitvoerbaar</string>
-    <string name="help_extract">Pak de hulp uit</string>
+    <string name="help_extract">SAF openen</string>
     <string name="help_extract_done">De hulp wordt geëxtraheerd naar __s__</string>
     <string name="help_extract_fail">Er is een fout opgetreden bij het uitpakken van de hulp:</string>
     <string name="try_arm_version">Probeer de versie van __app_name__ te gebruiken met ondersteuning voor oudere ARM-processors:</string>

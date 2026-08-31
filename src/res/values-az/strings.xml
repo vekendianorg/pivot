@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~az~~~</string>
     <string name="front_text">"__improve_translation_hint__
@@ -758,7 +758,7 @@ Bu __executable__ yaddaş, __writable__ və ya __read_only__ ola bilər. Nadir h
     <string name="writable">yazılabilir</string>
     <string name="read_only">oxumaq yalnız</string>
     <string name="writable_and_executable">yazılabilir və yürütülebilir</string>
-    <string name="help_extract">Yardımı çıxarın</string>
+    <string name="help_extract">SAF aç</string>
     <string name="help_extract_done">Kömək __s__-a çıxarılır</string>
     <string name="help_extract_fail">Yardımı çıxararkən bir səhv baş verdi:</string>
     <string name="try_arm_version">Daha böyük ARM prosessorları dəstəkləyən __app_name__ versiyasını istifadə edin:</string>

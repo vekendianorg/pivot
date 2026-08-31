@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lang_code">~~~zh_TW~~~</string>
     <string name="front_text">如果你有關於 __app_name__ 或使用上的任何問題，請造訪我們的論壇 __forum__</string>
@@ -751,7 +751,7 @@ __app_name__ 是在模擬器中執行，所以它的執行速度基本上決定�
     <string name="writable">可寫入</string>
     <string name="read_only">唯讀</string>
     <string name="writable_and_executable">可寫入且可執行</string>
-    <string name="help_extract">解壓縮幫助文檔.</string>
+    <string name="help_extract">開啟SAF</string>
     <string name="help_extract_done">幫助文檔已解壓縮至 __s__</string>
     <string name="help_extract_fail">解壓縮幫助文檔時發生錯誤：</string>
     <string name="try_arm_version">嘗試使用支援較舊ARM處理器的 __app_name__ 版本：</string>
