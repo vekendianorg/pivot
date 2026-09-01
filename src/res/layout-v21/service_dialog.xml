@@ -263,13 +263,6 @@
                     android:layout_width="0.0dip"
                     android:layout_height="48.0dip"
                     android:layout_weight="1.0" />
-                <android.fix.WrapLayout
-                    android:layout_gravity="center_vertical"
-                    android:id="@id/memory_toolbar"
-                    android:visibility="gone"
-                    android:layout_width="0.0dip"
-                    android:layout_height="48.0dip"
-                    android:layout_weight="1.0" />
                 <android.fix.ImageButtonView
                     android:layout_gravity="center_vertical"
                     android:id="@id/more_btn"
@@ -313,14 +306,23 @@
                 </android.fix.ScrollView>
             </android.fix.LinearLayout>
             <android.fix.LinearLayout
-                android:orientation="vertical"
+                android:orientation="horizontal"
                 android:id="@id/memory_editor_page"
                 android:layout_width="fill_parent"
                 android:layout_height="fill_parent">
+                <android.fix.WrapLayout
+                    android:layout_gravity="top"
+                    android:id="@id/memory_toolbar"
+                    android:visibility="gone"
+                    android:background="@color/modern_overlay"
+                    android:layout_width="48.0dip"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.0" />
                 <android.fix.ListView
                     android:id="@id/mem_listview"
-                    android:layout_width="fill_parent"
+                    android:layout_width="0.0dip"
                     android:layout_height="fill_parent"
+                    android:layout_weight="1.0"
                     android:fastScrollEnabled="true" />
             </android.fix.LinearLayout>
             <android.fix.LinearLayout
