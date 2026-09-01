@@ -6,17 +6,17 @@
     android:layout_height="fill_parent"
     xmlns:android="http://schemas.android.com/apk/res/android">
     <android.fix.LinearLayout
-        android:orientation="vertical"
+        android:orientation="horizontal"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent">
         <android.fix.LinearLayout
-            android:orientation="horizontal"
-            android:background="@color/modern_overlay"
+            android:orientation="vertical"
+            android:background="@color/modern_card"
             android:id="@id/tabs"
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content">
+            android:layout_width="48.0dip"
+            android:layout_height="fill_parent">
             <android.fix.FrameLayout
-                android:layout_gravity="bottom"
+                android:layout_gravity="top"
                 android:layout_width="48.0dip"
                 android:layout_height="48.0dip"
                 android:layout_weight="0.0">
@@ -32,18 +32,18 @@
                     android:src="@drawable/ic_gg_48dp" />
             </android.fix.FrameLayout>
             <android.fix.TabWidget
-                android:layout_gravity="bottom"
+                android:orientation="vertical"
                 android:id="@android:id/tabs"
-                android:layout_width="0.0dip"
-                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:layout_height="0.0dip"
                 android:layout_weight="1.0" />
             <android.fix.LinearLayout
-                android:orientation="horizontal"
+                android:orientation="vertical"
                 android:visibility="gone"
-                android:layout_width="wrap_content"
+                android:layout_width="fill_parent"
                 android:layout_height="wrap_content">
                 <android.fix.FrameLayout
-                    android:layout_gravity="center"
+                    android:layout_gravity="center_horizontal"
                     android:id="@id/config_tab"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -57,7 +57,7 @@
                         android:src="@drawable/ic_tune_white_24dp" />
                 </android.fix.FrameLayout>
                 <android.fix.FrameLayout
-                    android:layout_gravity="center"
+                    android:layout_gravity="center_horizontal"
                     android:id="@id/search_tab"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -81,7 +81,7 @@
                         android:text="21" />
                 </android.fix.FrameLayout>
                 <android.fix.FrameLayout
-                    android:layout_gravity="center"
+                    android:layout_gravity="center_horizontal"
                     android:id="@id/saved_tab"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -105,7 +105,7 @@
                         android:text="74" />
                 </android.fix.FrameLayout>
                 <android.fix.FrameLayout
-                    android:layout_gravity="center"
+                    android:layout_gravity="center_horizontal"
                     android:id="@id/memory_tab"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content">
@@ -119,7 +119,7 @@
                 </android.fix.FrameLayout>
             </android.fix.LinearLayout>
             <android.fix.ImageButtonView
-                android:layout_gravity="center"
+                android:layout_gravity="center_horizontal"
                 android:id="@id/menu_btn_land"
                 android:padding="12.0dip"
                 android:layout_width="48.0dip"
@@ -127,7 +127,7 @@
                 android:src="@drawable/ic_menu_white_24dp"
                 android:layout_weight="0.0" />
             <android.fix.ImageButtonView
-                android:layout_gravity="center"
+                android:layout_gravity="center_horizontal"
                 android:id="@id/back_btn"
                 android:padding="12.0dip"
                 android:layout_width="48.0dip"
@@ -137,8 +137,9 @@
         </android.fix.LinearLayout>
         <android.fix.LinearLayout
             android:orientation="vertical"
-            android:layout_width="fill_parent"
-            android:layout_height="fill_parent">
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0">
         <android.fix.LinearLayout
             android:id="@id/info_row"
             android:layout_width="fill_parent"
@@ -239,33 +240,40 @@
                 android:minHeight="0.0dip"
                 android:layout_weight="0.0" />
         </android.fix.LinearLayout>
-        <View
-            android:background="@color/modern_divider"
-            android:layout_width="fill_parent"
-            android:layout_height="1.0dip" />
         <android.fix.LinearLayout
-            android:orientation="vertical"
+            android:orientation="horizontal"
             android:id="@id/toolbar_row"
             android:layout_width="fill_parent"
-            android:layout_height="wrap_content">
-            <android.fix.LinearLayout
-                android:gravity="right"
-                android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
-                android:baselineAligned="false">
-                <android.fix.ImageButtonView
-                    android:layout_gravity="center_vertical"
-                    android:id="@id/more_btn"
-                    android:padding="12.0dip"
-                    android:layout_width="45.0dip"
-                    android:layout_height="48.0dip"
-                    android:src="@drawable/ic_menu_white_24dp"
-                    android:layout_weight="0.0" />
-            </android.fix.LinearLayout>
-            <View
-                android:background="@color/modern_divider"
-                android:layout_width="fill_parent"
-                android:layout_height="1.0dip" />
+            android:layout_height="wrap_content"
+            android:baselineAligned="false">
+            <android.fix.WrapLayout
+                android:layout_gravity="center_vertical"
+                android:id="@id/search_toolbar"
+                android:layout_width="0.0dip"
+                android:layout_height="48.0dip"
+                android:layout_weight="1.0" />
+            <android.fix.WrapLayout
+                android:layout_gravity="center_vertical"
+                android:id="@id/saved_toolbar"
+                android:visibility="gone"
+                android:layout_width="0.0dip"
+                android:layout_height="48.0dip"
+                android:layout_weight="1.0" />
+            <android.fix.WrapLayout
+                android:layout_gravity="center_vertical"
+                android:id="@id/memory_toolbar"
+                android:visibility="gone"
+                android:layout_width="0.0dip"
+                android:layout_height="48.0dip"
+                android:layout_weight="1.0" />
+            <android.fix.ImageButtonView
+                android:layout_gravity="center_vertical"
+                android:id="@id/more_btn"
+                android:padding="12.0dip"
+                android:layout_width="45.0dip"
+                android:layout_height="48.0dip"
+                android:src="@drawable/ic_menu_white_24dp"
+                android:layout_weight="0.0" />
         </android.fix.LinearLayout>
         <android.fix.FrameLayout
             android:id="@android:id/tabcontent"
@@ -273,28 +281,10 @@
             android:layout_height="0.0dip"
             android:layout_weight="1.0">
             <android.fix.LinearLayout
-                android:orientation="horizontal"
+                android:orientation="vertical"
                 android:id="@id/search_page"
                 android:layout_width="fill_parent"
                 android:layout_height="fill_parent">
-                <android.fix.WrapLayout
-                    android:layout_gravity="top"
-                    android:id="@id/search_toolbar"
-                    android:visibility="gone"
-                    android:background="@color/modern_card"
-                    android:layout_width="45.0dip"
-                    android:layout_height="fill_parent"
-                    android:layout_weight="0.0" />
-                <View
-                    android:id="@id/search_toolbar_divider"
-                    android:background="@drawable/bg_modern_divider"
-                    android:layout_width="1.0dip"
-                    android:layout_height="fill_parent" />
-                <android.fix.LinearLayout
-                    android:orientation="vertical"
-                    android:layout_width="0.0dip"
-                    android:layout_height="fill_parent"
-                    android:layout_weight="1.0">
                 <android.fix.ListView
                     android:id="@id/addr_list"
                     android:visibility="gone"
@@ -312,32 +302,15 @@
                         android:layout_height="wrap_content"
                         android:text="@string/search_hint" />
                 </android.fix.ScrollView>
-                </android.fix.LinearLayout>
             </android.fix.LinearLayout>
             <android.fix.LinearLayout
-                android:orientation="horizontal"
-                android:clipChildren="false"
                 android:id="@id/memory_editor_page"
                 android:layout_width="fill_parent"
                 android:layout_height="fill_parent">
-                <android.fix.WrapLayout
-                    android:layout_gravity="top"
-                    android:id="@id/memory_toolbar"
-                    android:visibility="gone"
-                    android:background="@color/modern_card"
-                    android:layout_width="45.0dip"
-                    android:layout_height="fill_parent"
-                    android:layout_weight="0.0" />
-                <View
-                    android:id="@id/memory_toolbar_divider"
-                    android:background="@drawable/bg_modern_divider"
-                    android:layout_width="1.0dip"
-                    android:layout_height="fill_parent" />
                 <android.fix.ListView
                     android:id="@id/mem_listview"
-                    android:layout_width="0.0dip"
+                    android:layout_width="fill_parent"
                     android:layout_height="fill_parent"
-                    android:layout_weight="1.0"
                     android:fastScrollEnabled="true" />
             </android.fix.LinearLayout>
             <android.fix.LinearLayout
@@ -351,28 +324,10 @@
                     android:layout_height="wrap_content" />
             </android.fix.LinearLayout>
             <android.fix.LinearLayout
-                android:orientation="horizontal"
+                android:orientation="vertical"
                 android:id="@id/saved_page"
                 android:layout_width="fill_parent"
                 android:layout_height="fill_parent">
-                <android.fix.WrapLayout
-                    android:layout_gravity="top"
-                    android:id="@id/saved_toolbar"
-                    android:visibility="gone"
-                    android:background="@color/modern_card"
-                    android:layout_width="45.0dip"
-                    android:layout_height="fill_parent"
-                    android:layout_weight="0.0" />
-                <View
-                    android:id="@id/saved_toolbar_divider"
-                    android:background="@drawable/bg_modern_divider"
-                    android:layout_width="1.0dip"
-                    android:layout_height="fill_parent" />
-                <android.fix.LinearLayout
-                    android:orientation="vertical"
-                    android:layout_width="0.0dip"
-                    android:layout_height="fill_parent"
-                    android:layout_weight="1.0">
                 <android.fix.ListView
                     android:id="@id/saved_list"
                     android:layout_width="fill_parent"
@@ -389,7 +344,6 @@
                         android:layout_height="wrap_content"
                         android:text="@string/empty_list" />
                 </android.fix.ScrollView>
-                </android.fix.LinearLayout>
             </android.fix.LinearLayout>
         </android.fix.FrameLayout>
         <android.fix.TextButtonView

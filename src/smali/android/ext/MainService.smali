@@ -12417,26 +12417,6 @@
 
     aput-object v1, v3, v4
 
-    invoke-virtual {v1}, Landroid/fix/WrapLayout;->getLayoutParams()Landroid/view/ViewGroup$LayoutParams;
-
-    move-result-object v4
-
-    const/high16 v5, 0x42340000    # 45.0f
-
-    invoke-static {v5}, Landroid/ext/Tools;->a(F)F
-
-    move-result v5
-
-    float-to-int v5, v5
-
-    iput v5, v4, Landroid/view/ViewGroup$LayoutParams;->width:I
-
-    const/4 v5, -0x1
-
-    iput v5, v4, Landroid/view/ViewGroup$LayoutParams;->height:I
-
-    invoke-virtual {v1, v4}, Landroid/fix/WrapLayout;->setLayoutParams(Landroid/view/ViewGroup$LayoutParams;)V
-
     .line 1957
     iget-object v3, p0, Landroid/ext/MainService;->B:[Landroid/fix/WrapLayout;
 
@@ -12452,26 +12432,6 @@
 
     aput-object v1, v3, v4
 
-    invoke-virtual {v1}, Landroid/fix/WrapLayout;->getLayoutParams()Landroid/view/ViewGroup$LayoutParams;
-
-    move-result-object v4
-
-    const/high16 v5, 0x42340000    # 45.0f
-
-    invoke-static {v5}, Landroid/ext/Tools;->a(F)F
-
-    move-result v5
-
-    float-to-int v5, v5
-
-    iput v5, v4, Landroid/view/ViewGroup$LayoutParams;->width:I
-
-    const/4 v5, -0x1
-
-    iput v5, v4, Landroid/view/ViewGroup$LayoutParams;->height:I
-
-    invoke-virtual {v1, v4}, Landroid/fix/WrapLayout;->setLayoutParams(Landroid/view/ViewGroup$LayoutParams;)V
-
     .line 1958
     iget-object v3, p0, Landroid/ext/MainService;->B:[Landroid/fix/WrapLayout;
 
@@ -12486,26 +12446,6 @@
     check-cast v1, Landroid/fix/WrapLayout;
 
     aput-object v1, v3, v4
-
-    invoke-virtual {v1}, Landroid/fix/WrapLayout;->getLayoutParams()Landroid/view/ViewGroup$LayoutParams;
-
-    move-result-object v4
-
-    const/high16 v5, 0x42340000    # 45.0f
-
-    invoke-static {v5}, Landroid/ext/Tools;->a(F)F
-
-    move-result v5
-
-    float-to-int v5, v5
-
-    iput v5, v4, Landroid/view/ViewGroup$LayoutParams;->width:I
-
-    const/4 v5, -0x1
-
-    iput v5, v4, Landroid/view/ViewGroup$LayoutParams;->height:I
-
-    invoke-virtual {v1, v4}, Landroid/fix/WrapLayout;->setLayoutParams(Landroid/view/ViewGroup$LayoutParams;)V
 
     .line 1959
     const v1, 0x7f0b00de
@@ -12626,9 +12566,9 @@
     new-instance v4, Landroid/widget/LinearLayout$LayoutParams;
 
     .line 2033
-    const/4 v6, 0x0
+    const/4 v6, -0x1
 
-    const/4 v7, -0x2
+    const/4 v7, 0x0
 
     const/high16 v8, 0x3f800000    # 1.0f
 
