@@ -58,4 +58,7 @@
     <color name="modern_ripple">#22ffffff</color>
     <color name="modern_on_accent">#ff111111</color>
     <color name="modern_overlay">#cc0b0b0b</color>
+    <color name="modern_tab_selected">#3d3d3d</color>
+    <color name="modern_tab_pressed">#2a2a2a</color>
+    <color name="modern_transparent">#00000000</color>
 </resources>

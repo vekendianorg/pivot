@@ -676,48 +676,11 @@
 .end method
 
 .method public static c()Z
-    .registers 4
+    .registers 1
 
-    .prologue
     const/4 v0, 0x0
 
-    .line 458
-    const/4 v1, 0x1
-
-    .line 460
-    const v2, 0x7f040006
-
-    const/4 v3, 0x0
-
-    :try_start_0
-    invoke-static {v2, v3}, Landroid/fix/i;->a(ILandroid/view/ViewGroup;)Landroid/view/View;
-    :try_end_0
-    .catch Ljava/lang/Throwable; {:try_start_0 .. :try_end_0} :catch_0
-
-    move-result-object v2
-
-    .line 461
-    if-nez v2, :cond_0
-
-    .line 468
-    :goto_0
     return v0
-
-    .line 464
-    :catch_0
-    move-exception v1
-
-    .line 465
-    const-string v2, "Check internal keyboard fail"
-
-    invoke-static {v2, v1}, Landroid/ext/la;->c(Ljava/lang/String;Ljava/lang/Throwable;)I
-
-    goto :goto_0
-
-    :cond_0
-    move v0, v1
-
-    goto :goto_0
 .end method
 
 .method private d()V
