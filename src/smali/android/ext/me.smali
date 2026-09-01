@@ -68,13 +68,7 @@
 
     if-eqz v0, :cond_0
 
-    const/high16 v0, 0x41c00000    # 24.0f
-
-    invoke-static {v0}, Landroid/ext/Tools;->a(F)F
-
-    move-result v0
-
-    float-to-int v0, v0
+    const/4 v0, 0x0
 
     :goto_0
     invoke-virtual {v2, v1, v0, v1, v1}, Landroid/view/View;->setPadding(IIII)V
