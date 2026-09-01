@@ -161,6 +161,8 @@
                 android:layout_width="0.0dip"
                 android:layout_height="fill_parent"
                 android:layout_marginRight="6.0dip"
+                android:fontFamily="serif"
+                android:textStyle="bold"
                 android:text="@string/failed_run_daemon"
                 android:layout_weight="10.0" />
             <android.fix.LinearLayout
@@ -247,22 +249,10 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content">
             <android.fix.LinearLayout
+                android:gravity="right"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:baselineAligned="false">
-                <android.fix.WrapLayout
-                    android:layout_gravity="center_vertical"
-                    android:id="@id/search_toolbar"
-                    android:layout_width="0.0dip"
-                    android:layout_height="48.0dip"
-                    android:layout_weight="1.0" />
-                <android.fix.WrapLayout
-                    android:layout_gravity="center_vertical"
-                    android:id="@id/saved_toolbar"
-                    android:visibility="gone"
-                    android:layout_width="0.0dip"
-                    android:layout_height="48.0dip"
-                    android:layout_weight="1.0" />
                 <android.fix.ImageButtonView
                     android:layout_gravity="center_vertical"
                     android:id="@id/more_btn"
@@ -283,10 +273,28 @@
             android:layout_height="0.0dip"
             android:layout_weight="1.0">
             <android.fix.LinearLayout
-                android:orientation="vertical"
+                android:orientation="horizontal"
                 android:id="@id/search_page"
                 android:layout_width="fill_parent"
                 android:layout_height="fill_parent">
+                <android.fix.WrapLayout
+                    android:layout_gravity="top"
+                    android:id="@id/search_toolbar"
+                    android:visibility="gone"
+                    android:background="@color/modern_card"
+                    android:layout_width="45.0dip"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.0" />
+                <View
+                    android:id="@id/search_toolbar_divider"
+                    android:background="@drawable/bg_modern_divider"
+                    android:layout_width="1.0dip"
+                    android:layout_height="fill_parent" />
+                <android.fix.LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="0.0dip"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1.0">
                 <android.fix.ListView
                     android:id="@id/addr_list"
                     android:visibility="gone"
@@ -304,6 +312,7 @@
                         android:layout_height="wrap_content"
                         android:text="@string/search_hint" />
                 </android.fix.ScrollView>
+                </android.fix.LinearLayout>
             </android.fix.LinearLayout>
             <android.fix.LinearLayout
                 android:orientation="horizontal"
@@ -315,8 +324,8 @@
                     android:layout_gravity="top"
                     android:id="@id/memory_toolbar"
                     android:visibility="gone"
-                    android:background="@color/modern_overlay"
-                    android:layout_width="44.0dip"
+                    android:background="@color/modern_card"
+                    android:layout_width="45.0dip"
                     android:layout_height="fill_parent"
                     android:layout_weight="0.0" />
                 <View
@@ -342,10 +351,28 @@
                     android:layout_height="wrap_content" />
             </android.fix.LinearLayout>
             <android.fix.LinearLayout
-                android:orientation="vertical"
+                android:orientation="horizontal"
                 android:id="@id/saved_page"
                 android:layout_width="fill_parent"
                 android:layout_height="fill_parent">
+                <android.fix.WrapLayout
+                    android:layout_gravity="top"
+                    android:id="@id/saved_toolbar"
+                    android:visibility="gone"
+                    android:background="@color/modern_card"
+                    android:layout_width="45.0dip"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.0" />
+                <View
+                    android:id="@id/saved_toolbar_divider"
+                    android:background="@drawable/bg_modern_divider"
+                    android:layout_width="1.0dip"
+                    android:layout_height="fill_parent" />
+                <android.fix.LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="0.0dip"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1.0">
                 <android.fix.ListView
                     android:id="@id/saved_list"
                     android:layout_width="fill_parent"
@@ -362,6 +389,7 @@
                         android:layout_height="wrap_content"
                         android:text="@string/empty_list" />
                 </android.fix.ScrollView>
+                </android.fix.LinearLayout>
             </android.fix.LinearLayout>
         </android.fix.FrameLayout>
         <android.fix.TextButtonView

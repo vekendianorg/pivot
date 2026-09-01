@@ -227,6 +227,8 @@
     <item type="id" name="saved_toolbar" />
     <item type="id" name="memory_toolbar" />
     <item type="id" name="memory_toolbar_divider" />
+    <item type="id" name="search_toolbar_divider" />
+    <item type="id" name="saved_toolbar_divider" />
     <item type="id" name="more_btn" />
     <item type="id" name="search_page" />
     <item type="id" name="addr_list" />

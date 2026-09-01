@@ -1500,4 +1500,6 @@
     <public type="id" name="k_small" id="0x7f0b0158" />
     <public type="id" name="pivot_logo" id="0x7f0b0159" />
     <public type="id" name="memory_toolbar_divider" id="0x7f0b015a" />
+    <public type="id" name="search_toolbar_divider" id="0x7f0b015b" />
+    <public type="id" name="saved_toolbar_divider" id="0x7f0b015c" />
 </resources>

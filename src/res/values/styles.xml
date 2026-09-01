@@ -58,6 +58,8 @@
     </style>
     <style name="Modern.SectionHeader" parent="@style/Separator">
         <item name="android:textColor">@color/modern_text_secondary</item>
+        <item name="android:fontFamily">serif</item>
+        <item name="android:textStyle">bold</item>
         <item name="android:background">@drawable/bg_modern_section_header</item>
         <item name="android:paddingLeft">@dimen/spacing_medium</item>
         <item name="android:paddingTop">@dimen/spacing_small</item>
@@ -103,7 +105,7 @@
         <item name="android:textSize">18.0sp</item>
         <item name="android:textColor">@color/modern_text_primary</item>
         <item name="android:textStyle">bold</item>
-        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:fontFamily">serif</item>
     </style>
     <style name="Modern.ListText" parent="@style/SmallText">
         <item name="android:textColor">@color/modern_text_primary</item>
