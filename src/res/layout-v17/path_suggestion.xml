@@ -15,7 +15,6 @@
         android:paddingRight="16.0dip"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:minHeight="@dimen/list_item_height"
         android:paddingStart="16.0dip"
         android:paddingEnd="16.0dip" />
 </android.fix.LinearLayout>

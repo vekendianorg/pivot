@@ -4,7 +4,6 @@
     android:background="@drawable/bg_modern_menu_row"
     android:layout_width="fill_parent"
     android:layout_height="wrap_content"
-    android:minHeight="@dimen/list_item_height"
     xmlns:android="http://schemas.android.com/apk/res/android">
     <android.fix.CheckBox
         android:layout_gravity="center|left"

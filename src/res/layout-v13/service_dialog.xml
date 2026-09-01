@@ -307,6 +307,7 @@
             </android.fix.LinearLayout>
             <android.fix.LinearLayout
                 android:orientation="horizontal"
+                android:clipChildren="false"
                 android:id="@id/memory_editor_page"
                 android:layout_width="fill_parent"
                 android:layout_height="fill_parent">
@@ -315,9 +316,14 @@
                     android:id="@id/memory_toolbar"
                     android:visibility="gone"
                     android:background="@color/modern_overlay"
-                    android:layout_width="48.0dip"
+                    android:layout_width="44.0dip"
                     android:layout_height="fill_parent"
                     android:layout_weight="0.0" />
+                <View
+                    android:id="@id/memory_toolbar_divider"
+                    android:background="@drawable/bg_modern_divider"
+                    android:layout_width="1.0dip"
+                    android:layout_height="fill_parent" />
                 <android.fix.ListView
                     android:id="@id/mem_listview"
                     android:layout_width="0.0dip"

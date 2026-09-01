@@ -4,7 +4,6 @@
     android:background="@drawable/bg_modern_menu_row"
     android:layout_width="fill_parent"
     android:layout_height="wrap_content"
-    android:minHeight="@dimen/list_item_height"
     android:paddingLeft="4.0dip"
     android:paddingRight="8.0dip"
     android:layout_margin="0.0dip"

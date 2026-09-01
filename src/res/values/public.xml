@@ -1499,4 +1499,5 @@
     <public type="id" name="k_ext" id="0x7f0b0157" />
     <public type="id" name="k_small" id="0x7f0b0158" />
     <public type="id" name="pivot_logo" id="0x7f0b0159" />
+    <public type="id" name="memory_toolbar_divider" id="0x7f0b015a" />
 </resources>
