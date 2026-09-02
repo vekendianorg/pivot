@@ -133,22 +133,6 @@
             android:layout_marginBottom="@dimen/spacing_xlarge"
             android:src="@drawable/pivot"
             android:scaleType="fitCenter" />
-        <android.fix.TextView
-            android:textAppearance="@style/Modern.SectionHeader"
-            android:textColor="?android:attr/textColorSecondary"
-            android:gravity="center"
-            android:id="@id/theme_btn"
-            android:background="@drawable/bg_modern_chip"
-            android:paddingLeft="16.0dip"
-            android:paddingRight="16.0dip"
-            android:paddingTop="8.0dip"
-            android:paddingBottom="8.0dip"
-            android:clickable="true"
-            android:focusable="true"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="@dimen/spacing_medium"
-            android:text="THEME: DARK" />
         <android.fix.LinearLayout
             android:gravity="center"
             android:orientation="horizontal"

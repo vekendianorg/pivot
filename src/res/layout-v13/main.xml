@@ -73,7 +73,7 @@
             </android.fix.LinearLayout>
             <android.fix.TextView
                 android:textAppearance="@style/MediumText"
-                android:textColor="@color/modern_text_secondary"
+                android:textColor="?android:attr/textColorSecondary"
                 android:gravity="center"
                 android:id="@id/progress_bar_text"
                 android:layout_width="fill_parent"

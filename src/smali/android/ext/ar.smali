@@ -1,4 +1,4 @@
-.class public Landroid/ext/ar;
+﻿.class public Landroid/ext/ar;
 .super Landroid/fix/a;
 .source "src"
 
@@ -2299,7 +2299,7 @@
     .line 543
     const v0, 0x7f0b0033
 
-    invoke-virtual {v2, v0}, Landroid/view/View;->findViewById(I)Landroid/view/View;
+    invoke-virtual {p0, v0}, Landroid/ext/ar;->findViewById(I)Landroid/view/View;
 
     move-result-object v0
 
@@ -2319,7 +2319,7 @@
 
     const v1, 0x7f0b0024
 
-    invoke-virtual {v2, v1}, Landroid/view/View;->findViewById(I)Landroid/view/View;
+    invoke-virtual {p0, v1}, Landroid/ext/ar;->findViewById(I)Landroid/view/View;
 
     move-result-object v1
 
@@ -2334,7 +2334,7 @@
 
     const v1, 0x7f0b0023
 
-    invoke-virtual {v2, v1}, Landroid/view/View;->findViewById(I)Landroid/view/View;
+    invoke-virtual {p0, v1}, Landroid/ext/ar;->findViewById(I)Landroid/view/View;
 
     move-result-object v1
 
@@ -2356,7 +2356,7 @@
 
     const v0, 0x7f0b0034
 
-    invoke-virtual {v2, v0}, Landroid/view/View;->findViewById(I)Landroid/view/View;
+    invoke-virtual {p0, v0}, Landroid/ext/ar;->findViewById(I)Landroid/view/View;
 
     move-result-object v0
 
