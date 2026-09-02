@@ -170,6 +170,26 @@
     .line 152
     iput v2, v0, Landroid/view/WindowManager$LayoutParams;->dimAmount:F
 
+    .line 153
+    sget v4, Landroid/os/Build$VERSION;->SDK_INT:I
+
+    const/16 v5, 0x1c
+
+    if-lt v4, v5, :cutout_done
+
+    const/4 v4, 0x2
+
+    iput v4, v0, Landroid/view/WindowManager$LayoutParams;->layoutInDisplayCutoutMode:I
+
+    :cutout_done
+    iget v4, v0, Landroid/view/WindowManager$LayoutParams;->flags:I
+
+    const v5, 0x200
+
+    or-int/2addr v4, v5
+
+    iput v4, v0, Landroid/view/WindowManager$LayoutParams;->flags:I
+
     .line 154
     return-object v0
 .end method

@@ -12542,6 +12542,10 @@
     :cond_c
     check-cast v1, Landroid/view/ViewGroup;
 
+    const v4, 0x7f020076
+
+    invoke-virtual {v1, v4}, Landroid/view/View;->setBackgroundResource(I)V
+
     .line 2023
     const/4 v4, 0x0
 
