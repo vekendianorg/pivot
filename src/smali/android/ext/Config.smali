@@ -1099,7 +1099,7 @@
 
     const-string v5, "small-items"
 
-    const/4 v6, 0x0
+    const/4 v6, 0x1
 
     const v7, 0x7f070311
 

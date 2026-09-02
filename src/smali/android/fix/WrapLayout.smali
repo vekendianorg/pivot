@@ -845,6 +845,25 @@
 
     invoke-direct {p0, v0, v2, v3}, Landroid/fix/WrapLayout;->a(ZII)I
 
+    invoke-virtual {p0}, Landroid/fix/WrapLayout;->getId()I
+
+    move-result v4
+
+    const v5, 0x7f0b00df
+
+    if-eq v4, v5, :off_shift
+
+    const v5, 0x7f0b00e0
+
+    if-eq v4, v5, :off_shift
+
+    const v5, 0x7f0b00e1
+
+    if-eq v4, v5, :off_shift
+
+    goto :off_done
+
+    :off_shift
     invoke-direct {p0}, Landroid/fix/WrapLayout;->c()I
 
     move-result v4

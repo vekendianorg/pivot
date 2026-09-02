@@ -8470,9 +8470,7 @@
 
     aget-object v2, v2, v0
 
-    sget v3, Landroid/ext/Config;->g:I
-
-    add-int/lit8 v3, v3, -0x1
+    const/4 v3, 0x0
 
     invoke-virtual {v2, v3}, Landroid/fix/WrapLayout;->setFill(I)V
 
@@ -10990,9 +10988,7 @@
     aget-object v5, v1, v0
 
     .line 1803
-    sget v1, Landroid/ext/Config;->g:I
-
-    add-int/lit8 v1, v1, -0x1
+    const/4 v1, 0x0
 
     invoke-virtual {v5, v1}, Landroid/fix/WrapLayout;->setFill(I)V
 

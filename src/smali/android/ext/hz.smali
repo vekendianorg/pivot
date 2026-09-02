@@ -765,9 +765,7 @@
     move-result-object v1
 
     .line 167
-    invoke-static {v4, v2}, Landroid/ext/InternalKeyboard;->c(Landroid/view/View;Z)Landroid/view/View;
-
-    move-result-object v2
+    move-object v2, v4
 
     invoke-virtual {v1, v2}, Landroid/app/AlertDialog$Builder;->setView(Landroid/view/View;)Landroid/app/AlertDialog$Builder;
 
