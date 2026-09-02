@@ -845,7 +845,34 @@
 
     invoke-direct {p0, v0, v2, v3}, Landroid/fix/WrapLayout;->a(ZII)I
 
-    .line 211
+    invoke-direct {p0}, Landroid/fix/WrapLayout;->c()I
+
+    move-result v4
+
+    sub-int/2addr v2, v4
+
+    div-int/lit8 v4, v2, 0x2
+
+    if-lez v4, :off_done
+
+    iget-object v5, p0, Landroid/fix/WrapLayout;->a:[I
+
+    const/4 v6, 0x0
+
+    :off_loop
+    if-ge v6, v1, :off_done
+
+    aget v7, v5, v6
+
+    add-int/2addr v7, v4
+
+    aput v7, v5, v6
+
+    add-int/lit8 v6, v6, 0x1
+
+    goto :off_loop
+
+    :off_done
     iget-object v2, p0, Landroid/fix/WrapLayout;->a:[I
 
     .line 212
@@ -1006,22 +1033,6 @@
 
     .line 193
     :cond_0
-    invoke-static {p1}, Landroid/view/View$MeasureSpec;->getMode(I)I
-
-    move-result v3
-
-    const/high16 v4, -0x80000000
-
-    if-ne v3, v4, :goto_0
-
-    invoke-direct {p0}, Landroid/fix/WrapLayout;->c()I
-
-    move-result v3
-
-    if-le v3, v2, :goto_0
-
-    move v2, v3
-
     :goto_0
     invoke-virtual {p0, v2, v0}, Landroid/fix/WrapLayout;->setMeasuredDimension(II)V
 
