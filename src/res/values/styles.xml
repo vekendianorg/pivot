@@ -26,6 +26,14 @@
         <item name="android:windowNoTitle">true</item>
         <item name="android:editTextStyle">@style/Modern.EditText</item>
         <item name="android:textColor">#ffffffff</item>
+        <item name="android:fontFamily">serif</item>
+    </style>
+    <style name="FixThemeLight" parent="@style/FixTheme">
+        <item name="android:windowBackground">#fff6f5f2</item>
+        <item name="android:colorBackground">#fff6f5f2</item>
+        <item name="android:textColorPrimary">#ff1a1a1a</item>
+        <item name="android:textColorSecondary">#ff5f6368</item>
+        <item name="android:textColor">#ff1a1a1a</item>
     </style>
     <style name="DarkFixTheme" parent="@style/FixTheme">
         <item name="android:alertDialogStyle">@style/DarkAlertDialog</item>
@@ -50,6 +58,9 @@
         <item name="android:paddingLeft">@dimen/spacing_medium</item>
         <item name="android:paddingRight">@dimen/spacing_medium</item>
         <item name="android:minHeight">@dimen/modern_button_min_height</item>
+    </style>
+    <style name="Modern.ButtonLight" parent="@style/Modern.Button">
+        <item name="android:textColor">#ff1a1a1a</item>
     </style>
     <style name="Modern.EditText" parent="@android:style/Widget.EditText">
         <item name="android:textColor">#ffffffff</item>

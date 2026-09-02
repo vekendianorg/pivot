@@ -870,7 +870,7 @@
 
     sub-int/2addr v2, v4
 
-    div-int/lit8 v4, v2, 0x2
+    move v4, v2
 
     if-lez v4, :off_done
 

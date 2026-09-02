@@ -349,4 +349,5 @@
     <item type="id" name="k_ext" />
     <item type="id" name="k_small" />
     <item type="id" name="pivot_logo" />
+    <item type="id" name="theme_btn" />
 </resources>

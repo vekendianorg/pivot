@@ -3826,7 +3826,7 @@
     :cond_1
     if-eqz v1, :cond_2
 
-    const v1, -0x7f6b6bbe
+    const v1, -0xdde000
 
     invoke-virtual {v0, v1}, Landroid/widget/TextView;->setBackgroundColor(I)V
 

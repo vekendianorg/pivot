@@ -1502,6 +1502,8 @@
     <public type="id" name="memory_toolbar_divider" id="0x7f0b015a" />
     <public type="id" name="search_toolbar_divider" id="0x7f0b015b" />
     <public type="id" name="saved_toolbar_divider" id="0x7f0b015c" />
+<public type="id" name="theme_btn" id="0x7f0b015d" />
+<public type="style" name="FixThemeLight" id="0x7f09000b" />
     <public type="drawable" name="bg_modern_tab" id="0x7f020076" />
     <public type="color" name="modern_tab_selected" id="0x7f0a0039" />
     <public type="color" name="modern_tab_pressed" id="0x7f0a003a" />

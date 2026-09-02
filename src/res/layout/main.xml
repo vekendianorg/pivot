@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <android.fix.LinearLayout
     android:orientation="vertical"
     android:id="@id/root"
-    android:background="@color/modern_background"
+    android:background="?android:attr/colorBackground"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     xmlns:android="http://schemas.android.com/apk/res/android">
@@ -30,7 +30,7 @@
                 android:layout_marginRight="@dimen/spacing_medium" />
             <android.fix.TextView
                 android:textAppearance="@style/MediumText"
-                android:textColor="@color/modern_text_primary"
+                android:textColor="?android:attr/textColorPrimary"
                 android:layout_gravity="center_vertical"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -65,7 +65,7 @@
                     android:layout_marginRight="@dimen/spacing_medium" />
                 <android.fix.TextView
                     android:textAppearance="@style/MediumText"
-                    android:textColor="@color/modern_text_primary"
+                    android:textColor="?android:attr/textColorPrimary"
                     android:layout_gravity="center_vertical"
                     android:id="@id/installing"
                     android:layout_width="wrap_content"
@@ -73,7 +73,7 @@
             </android.fix.LinearLayout>
             <android.fix.TextView
                 android:textAppearance="@style/MediumText"
-                android:textColor="@color/modern_text_secondary"
+                android:textColor="?android:attr/textColorSecondary"
                 android:gravity="center"
                 android:id="@id/progress_bar_text"
                 android:layout_width="fill_parent"
@@ -107,7 +107,7 @@
         android:layout_height="fill_parent">
         <android.fix.TextView
             android:id="@id/front_text"
-            android:textColor="@color/modern_text_primary"
+            android:textColor="?android:attr/textColorPrimary"
             android:visibility="gone"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
@@ -133,6 +133,22 @@
             android:layout_marginBottom="@dimen/spacing_xlarge"
             android:src="@drawable/pivot"
             android:scaleType="fitCenter" />
+        <android.fix.TextView
+            android:textAppearance="@style/Modern.SectionHeader"
+            android:textColor="?android:attr/textColorSecondary"
+            android:gravity="center"
+            android:id="@id/theme_btn"
+            android:background="@drawable/bg_modern_chip"
+            android:paddingLeft="16.0dip"
+            android:paddingRight="16.0dip"
+            android:paddingTop="8.0dip"
+            android:paddingBottom="8.0dip"
+            android:clickable="true"
+            android:focusable="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/spacing_medium"
+            android:text="THEME: DARK" />
         <android.fix.LinearLayout
             android:gravity="center"
             android:orientation="horizontal"
@@ -180,5 +196,18 @@
                 android:text="START"
                 android:layout_weight="1.0" />
         </android.fix.LinearLayout>
+        <android.fix.Button
+            android:textSize="13.0sp"
+            android:textStyle="bold"
+            android:textAllCaps="true"
+            android:textColor="@color/modern_text_secondary"
+            android:id="@id/theme_btn"
+            android:background="@drawable/bg_modern_button"
+            android:layout_marginTop="@dimen/spacing_medium"
+            android:layout_width="wrap_content"
+            android:layout_height="44.0dip"
+            android:paddingLeft="@dimen/spacing_large"
+            android:paddingRight="@dimen/spacing_large"
+            android:text="THEME: DARK" />
     </android.fix.LinearLayout>
 </android.fix.LinearLayout>

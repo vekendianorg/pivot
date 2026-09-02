@@ -4322,6 +4322,8 @@
     const/4 v3, 0x1
 
     .line 850
+    invoke-static {p0}, Lorg/vekendian/pivot/Theme;->a(Landroid/app/Activity;)V
+
     invoke-super {p0, p1}, Landroid/fix/a;->onCreate(Landroid/os/Bundle;)V
 
     .line 851
@@ -4403,6 +4405,8 @@
 
     .line 872
     :goto_0
+    invoke-static {p0}, Lorg/vekendian/pivot/Theme;->b(Landroid/app/Activity;)V
+
     invoke-direct {p0}, Landroid/ext/ar;->q()V
 
     .line 876
