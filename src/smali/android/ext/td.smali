@@ -15,6 +15,31 @@
 
 
 # direct methods
+.method private static d(Landroid/view/WindowManager$LayoutParams;)V
+    .registers 3
+
+    sget v0, Landroid/os/Build$VERSION;->SDK_INT:I
+
+    const/16 v1, 0x1c
+
+    if-lt v0, v1, :cond_0
+
+    const/4 v0, 0x2
+
+    iput v0, p0, Landroid/view/WindowManager$LayoutParams;->layoutInDisplayCutoutMode:I
+
+    :cond_0
+    iget v0, p0, Landroid/view/WindowManager$LayoutParams;->flags:I
+
+    const v1, 0x200
+
+    or-int/2addr v0, v1
+
+    iput v0, p0, Landroid/view/WindowManager$LayoutParams;->flags:I
+
+    return-void
+.end method
+
 .method constructor <init>(ZLandroid/view/WindowManager$LayoutParams;Landroid/view/View;)V
     .registers 4
 
@@ -55,6 +80,8 @@
 
     iget-object v2, p0, Landroid/ext/td;->b:Landroid/view/WindowManager$LayoutParams;
 
+    invoke-static {v2}, Landroid/ext/td;->d(Landroid/view/WindowManager$LayoutParams;)V
+
     invoke-interface {v0, v1, v2}, Landroid/view/WindowManager;->addView(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V
     :try_end_0
     .catch Landroid/view/WindowManager$BadTokenException; {:try_start_0 .. :try_end_0} :catch_0
@@ -87,6 +114,8 @@
     iget-object v1, p0, Landroid/ext/td;->c:Landroid/view/View;
 
     iget-object v2, p0, Landroid/ext/td;->b:Landroid/view/WindowManager$LayoutParams;
+
+    invoke-static {v2}, Landroid/ext/td;->d(Landroid/view/WindowManager$LayoutParams;)V
 
     invoke-interface {v0, v1, v2}, Landroid/view/WindowManager;->updateViewLayout(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V
     :try_end_1
@@ -159,6 +188,8 @@
     iget-object v2, p0, Landroid/ext/td;->c:Landroid/view/View;
 
     iget-object v3, p0, Landroid/ext/td;->b:Landroid/view/WindowManager$LayoutParams;
+
+    invoke-static {v3}, Landroid/ext/td;->d(Landroid/view/WindowManager$LayoutParams;)V
 
     invoke-interface {v0, v2, v3}, Landroid/view/WindowManager;->addView(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V
     :try_end_2
