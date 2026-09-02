@@ -917,6 +917,65 @@
     goto :goto_1
 .end method
 
+# direct methods
+.method private c()I
+    .registers 8
+
+    const/4 v0, 0x0
+
+    invoke-virtual {p0}, Landroid/fix/WrapLayout;->getChildCount()I
+
+    move-result v1
+
+    iget-object v2, p0, Landroid/fix/WrapLayout;->a:[I
+
+    if-eqz v2, :cond_1
+
+    const/4 v3, 0x0
+
+    :goto_0
+    if-ge v3, v1, :cond_1
+
+    invoke-virtual {p0, v3}, Landroid/fix/WrapLayout;->getChildAt(I)Landroid/view/View;
+
+    move-result-object v4
+
+    if-eqz v4, :cond_0
+
+    invoke-virtual {v4}, Landroid/view/View;->getVisibility()I
+
+    move-result v5
+
+    const/16 v6, 0x8
+
+    if-ne v5, v6, :cond_2
+
+    :cond_0
+    add-int/lit8 v3, v3, 0x1
+
+    goto :goto_0
+
+    :cond_2
+    aget v5, v2, v3
+
+    invoke-virtual {v4}, Landroid/view/View;->getMeasuredWidth()I
+
+    move-result v6
+
+    add-int/2addr v5, v6
+
+    if-le v5, v0, :cond_0
+
+    move v0, v5
+
+    add-int/lit8 v3, v3, 0x1
+
+    goto :goto_0
+
+    :cond_1
+    return v0
+.end method
+
 .method protected onMeasure(II)V
     .registers 8
 
@@ -947,6 +1006,22 @@
 
     .line 193
     :cond_0
+    invoke-static {p1}, Landroid/view/View$MeasureSpec;->getMode(I)I
+
+    move-result v3
+
+    const/high16 v4, -0x80000000
+
+    if-ne v3, v4, :goto_0
+
+    invoke-direct {p0}, Landroid/fix/WrapLayout;->c()I
+
+    move-result v3
+
+    if-le v3, v2, :goto_0
+
+    move v2, v3
+
     :goto_0
     invoke-virtual {p0, v2, v0}, Landroid/fix/WrapLayout;->setMeasuredDimension(II)V
 
