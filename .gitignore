@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Build artifacts
 build/
 dist/
@@ -16,3 +17,18 @@ temp/
 Thumbs.db
 .DS_Store
 *.log
+=======
+# build outputs & local artifacts
+_build/
+_apk_inspect/
+_apk_inspect.zip
+_gg_apk/
+_gg_jadx/
+*.apk
+*.idsig
+*.jks
+
+# local-only assets
+crash.txt
+.DS_Store
+>>>>>>> a9370ed (Pivot source: GG mod with webview bridge, script tools, example scripts)
