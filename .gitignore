@@ -31,4 +31,8 @@ _gg_jadx/
 # local-only assets
 crash.txt
 .DS_Store
+<<<<<<< HEAD
 >>>>>>> a9370ed (Pivot source: GG mod with webview bridge, script tools, example scripts)
+=======
+src/build/
+>>>>>>> f82c4d6 (Add README)
