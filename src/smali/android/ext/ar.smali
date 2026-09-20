@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-﻿.class public Landroid/ext/ar;
-=======
 .class public Landroid/ext/ar;
->>>>>>> a9370ed (Pivot source: GG mod with webview bridge, script tools, example scripts)
 .super Landroid/fix/a;
 .source "src"
 

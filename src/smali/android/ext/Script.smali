@@ -3960,6 +3960,101 @@
     const-string v2, "gg"
 
     invoke-virtual {v1, v2, v3}, Lluaj/LuaValue;->a(Ljava/lang/String;Lluaj/LuaValue;)V
+    # ---- Pivot namespace: pivot/Pivot aliases -> same table as gg ----
+    const-string v1, "pivot"
+
+    invoke-virtual {p2, v1, v3}, Lluaj/LuaValue;->a(Ljava/lang/String;Lluaj/LuaValue;)V
+
+    const-string v1, "Pivot"
+
+    invoke-virtual {p2, v1, v3}, Lluaj/LuaValue;->a(Ljava/lang/String;Lluaj/LuaValue;)V
+
+    const-string v1, "package"
+
+    invoke-virtual {p2, v1}, Lluaj/LuaValue;->j(Ljava/lang/String;)Lluaj/LuaValue;
+
+    move-result-object v1
+
+    const-string v2, "loaded"
+
+    invoke-virtual {v1, v2}, Lluaj/LuaValue;->j(Ljava/lang/String;)Lluaj/LuaValue;
+
+    move-result-object v1
+
+    const-string v2, "pivot"
+
+    invoke-virtual {v1, v2, v3}, Lluaj/LuaValue;->a(Ljava/lang/String;Lluaj/LuaValue;)V
+
+    # ---- Pivot bootstrap (embedded Lua; failure must never break loading) ----
+    :try_start_pivotbs
+    new-instance v4, Ljava/lang/StringBuilder;
+
+    invoke-direct {v4}, Ljava/lang/StringBuilder;-><init>()V
+
+    const-string v1, "-- =====================================================================\n-- Pivot namespace bootstrap\n-- Auto-injected into every script's _G by Script.smali at gg-registration\n-- time. gg / pivot / Pivot are THE SAME table (aliased in smali), so\n-- everything defined here is reachable as pivot.*, Pivot.* and gg.*.\n-- Keep this file ASCII-only and Lua 5.1 compatible (LuaJ).\n-- =====================================================================\nlocal __ok, __err = pcall(function()\nlocal gg = _G.gg\nif not gg or gg.__pivot then return end\n\n-- ===== Pivot.types =====\nlocal types = {\n    auto = gg.TYPE_AUTO, byte = gg.TYPE_BYTE, word = gg.TYPE_WORD,\n    dword = gg.TYPE_DWORD, xor = gg.TYPE_XOR, float = gg.TYPE_FLOAT,\n    qword = gg.TYPE_QWORD, double = gg.TYPE_DOUBLE,\n}\ngg.types = types\n\nlocal tsize = { [types.byte]=1, [types.word]=2, [types.dword]=4,\n    [types.xor]=4, [types.float]=4, [types.qword]=8, [types.double]=8 }\nlocal tfuzzy = { [types.float]=true, [types.double]=true }\n\nlocal function num(v)\n    if type(v) == 'number' then return v end\n    if type(v) == 'string' then\n        local n = tonumber(v)\n        if n then return n end\n        return tonumber((v:gsub('^0[xX]', '')), 16)\n    end\n    return nil\nend\n\n-- accept {s=,e=} (internal) or {start=,end=} (getRangesList entries)\nlocal function norm(r)\n    local s = num(r.s or r.start)\n    local e = num(r.e or r['end'])\n    if s and e and e > s then return { s = s, e = e } end\n    return nil\nend\n\nlocal function regions()\n    local ok, list = pcall(gg.getRangesList)\n    local out = {}\n    if ok and type(list) == 'table' then\n        for _, r in ipairs(list) do\n            local n = norm(r)\n            if n then out[#out + 1] = n end\n        end\n    end\n    return out\nend\n\nlocal function equal(val, want, fuzzy)\n    if fuzzy then\n        local d = val - want\n        if d < 0 then d = -d end\n        local eps = want == 0 and 1e-6 or (want < 0 and -want or want) * 1e-4\n        return d <= eps\n    end\n    return val == want\nend\n\n-- one shared read pass: every query of this type-group is evaluated\n-- against the SAME values returned by gg.getValues\nlocal function evalChunk(g, qlist, buf)\n    local ok, got = pcall(gg.getValues, buf)\n    if not ok or type(got) ~= 'table' then return end\n    for _, r in ipairs(got) do\n        local val = num(r.value)"
+
+    invoke-virtual {v4, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v4
+
+    const-string v1, "\n        if val ~= nil then\n            for _, qi in ipairs(g.qi) do\n                local q = qlist[qi]\n                if equal(val, q.v, q.fuzzy) then\n                    q.out[#q.out + 1] = { address = r.address, value = r.value }\n                end\n            end\n        end\n    end\nend\n\n-- ===== Pivot.search.parallel =====\n-- queries: { { value=100, type=Pivot.types.dword }, ... }\n-- opts:    { maxAddresses=100000, chunkSize=2000, ranges=gg.getRangesList('lib.so') }\n-- returns: array aligned with queries; each item = array of {address=, value=}\n-- NOTE: one read pass is shared per type-group (not per query). Capped grid.\nlocal function searchParallel(queries, opts)\n    assert(type(queries) == 'table', 'queries table expected')\n    opts = opts or {}\n    local maxAddr = num(opts.maxAddresses) or 100000\n    local chunkN = num(opts.chunkSize) or 2000\n    local qlist, groups, order = {}, {}, {}\n    for i, q in ipairs(queries) do\n        local t = num(q.type) or types.dword\n        if tsize[t] == nil then t = types.dword end\n        local v = num(q.value)\n        assert(v ~= nil, 'query #' .. i .. ': numeric value required')\n        local g = groups[t]\n        if not g then\n            g = { qi = {}, size = tsize[t] }\n            groups[t] = g\n            order[#order + 1] = t\n        end\n        g.qi[#g.qi + 1] = i\n        qlist[i] = { v = v, fuzzy = tfuzzy[t] and true or false, out = {} }\n    end\n    local src = opts.ranges or regions()\n    local regs = {}\n    for _, r in ipairs(src) do\n        local n = norm(r)\n        if n then regs[#regs + 1] = n end\n    end\n    local total = 0\n    for _, t in ipairs(order) do\n        local g = groups[t]\n        local buf = {}\n        for _, rg in ipairs(regs) do\n            local s = rg.s\n            local m = s % g.size\n            if m ~= 0 then s = s + (g.size - m) end\n            for a = s, rg.e - g.size, g.size do\n                buf[#buf + 1] = { address = a, flags = t }\n                if #buf >= chunkN then\n                    evalChunk(g, qlist, buf)\n                    buf = {}\n                end\n                total = total + 1\n                if total >= maxAddr then break end\n            end\n            if total >= maxAddr then break end\n        end\n        if #buf > 0 then evalChunk(g, qlist, buf) end\n        if total >= maxAddr then break end"
+
+    invoke-virtual {v4, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v4
+
+    const-string v1, "\n    end\n    local res = {}\n    for i = 1, #qlist do res[i] = qlist[i].out end\n    return res\nend\n\n-- ===== Pivot.edit.parallel =====\n-- edits: { { address=0x1234, value=10, type=Pivot.types.dword }, ... }\n-- returns per-edit: { index=i, success=bool, actual=?, error=? }\n-- Semantics: validate all -> ONE coordinated setValues -> read-back verify.\n-- NOT atomic: if the process dies mid-batch, earlier writes may persist.\nlocal function editParallel(edits)\n    assert(type(edits) == 'table', 'edits table expected')\n    local batch, report = {}, {}\n    for i, e in ipairs(edits) do\n        local r = { index = i, success = false }\n        report[i] = r\n        local a = num(e.address)\n        local t = num(e.type) or types.dword\n        if tsize[t] == nil then\n            r.error = 'unsupported type'\n        elseif not a or a <= 0 then\n            r.error = 'invalid address'\n        elseif e.value == nil then\n            r.error = 'value missing'\n        else\n            r.queued = #batch + 1\n            batch[#batch + 1] = { address = a, value = e.value, flags = t, ri = i }\n        end\n    end\n    if #batch > 0 then\n        local ok, err = pcall(gg.setValues, batch)\n        if not ok then\n            for _, r in ipairs(report) do\n                if r.queued then r.error = 'setValues: ' .. tostring(err) end\n            end\n        else\n            local chk = {}\n            for _, b in ipairs(batch) do\n                chk[#chk + 1] = { address = b.address, flags = b.flags }\n            end\n            local ok2, got = pcall(gg.getValues, chk)\n            if ok2 and type(got) == 'table' then\n                for j, b in ipairs(batch) do\n                    local r = report[b.ri]\n                    local rv = got[j] and got[j].value\n                    local a1, a2 = num(rv), num(b.value)\n                    local same\n                    if a1 ~= nil and a2 ~= nil then\n                        same = equal(a1, a2, tfuzzy[b.flags] and true or false)\n                    else\n                        same = tostring(rv) == tostring(b.value)\n                    end\n                    r.success = same\n                    r.actual = rv\n                    if not same then r.error = 'verify mismatch' end\n                end\n            else\n                for _, r in ipairs(report) do\n                    if r.queued then r.error = 'verify read failed' end"
+
+    invoke-virtual {v4, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v4
+
+    const-string v1, "\n                end\n            end\n        end\n    end\n    return report\nend\n\ngg.search = gg.search or {}\ngg.edit = gg.edit or {}\ngg.search.parallel = searchParallel\ngg.edit.parallel = editParallel\ngg.__pivot = 1\nend)\nif not __ok and _G.gg then _G.gg.__pivot_error = tostring(__err) end\n"
+
+    invoke-virtual {v4, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v4
+
+    new-instance v5, Ljava/io/ByteArrayInputStream;
+
+    invoke-virtual {v4}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-virtual {v1}, Ljava/lang/String;->getBytes()[B
+
+    move-result-object v1
+
+    invoke-direct {v5, v1}, Ljava/io/ByteArrayInputStream;-><init>([B)V
+
+    iget-object v6, p0, Landroid/ext/Script;->a:Lluaj/Globals;
+
+    const-string v1, "@pivot_bootstrap"
+
+    const-string v2, "bt"
+
+    invoke-virtual {v6, v5, v1, v2, v6}, Lluaj/Globals;->a(Ljava/io/InputStream;Ljava/lang/String;Ljava/lang/String;Lluaj/LuaValue;)Lluaj/LuaValue;
+
+    move-result-object v1
+
+    instance-of v2, v1, Lluaj/LuaClosure;
+
+    if-eqz v2, :cond_pivotbs
+
+    invoke-virtual {v1}, Lluaj/LuaValue;->l()Lluaj/LuaValue;
+
+    :cond_pivotbs
+    :try_end_pivotbs
+    .catch Ljava/lang/Throwable; {:try_start_pivotbs .. :try_end_pivotbs} :catch_pivotbs
+
+    goto :goto_pivotbs
+
+    :catch_pivotbs
+    move-exception v1
+
+    invoke-virtual {v1}, Ljava/lang/Throwable;->printStackTrace()V
+
+    :goto_pivotbs
 
     .line 516
     const-string v1, "os"
