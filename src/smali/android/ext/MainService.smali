@@ -3982,25 +3982,12 @@
 
     move-result-object v6
 
+    .line 2433
+    if-eqz p1, :cond_2
+
     .line 2434
     invoke-virtual {v6, v0}, Landroid/app/Notification$Builder;->setSmallIcon(I)Landroid/app/Notification$Builder;
 
-    # ---- Pivot: notification channel for Android 8+ (startForeground) ----
-    sget v0, Landroid/os/Build$VERSION;->SDK_INT:I
-
-    const/16 v1, 0x1a
-
-    if-lt v0, v1, :cond_pchan
-
-    sget-object v0, Landroid/ext/MainService;->context:Landroid/content/Context;
-
-    invoke-static {v0}, Landroid/ext/Script$ChannelFix;->ensure(Landroid/content/Context;)V
-
-    const-string v0, "pivot_main"
-
-    invoke-virtual {v6, v0}, Landroid/app/Notification$Builder;->setChannelId(Ljava/lang/String;)Landroid/app/Notification$Builder;
-
-    :cond_pchan
     .line 2435
     sget v1, Landroid/os/Build$VERSION;->SDK_INT:I
 
@@ -4094,6 +4081,8 @@
     invoke-direct {v1}, Landroid/app/Notification;-><init>()V
 
     .line 2458
+    if-eqz p1, :cond_3
+
     :try_start_1
     iput v0, v1, Landroid/app/Notification;->icon:I
     :try_end_1
@@ -9486,6 +9475,11 @@
 
     :goto_4
     invoke-virtual {p0, v4, v7}, Landroid/ext/MainService;->a(ZZ)Landroid/app/Notification;
+
+    move-result-object v4
+
+    # ---- Pivot: ensure valid icon + notification channel (Android 8+) ----
+    invoke-static {v4}, Landroid/ext/Script$NotifFix;->fix(Landroid/app/Notification;)Landroid/app/Notification;
 
     move-result-object v4
 
