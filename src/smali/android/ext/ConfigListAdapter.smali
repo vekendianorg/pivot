@@ -4077,8 +4077,74 @@
 
     check-cast v1, Landroid/view/ViewGroup;
 
+    # ---- Pivot: wire "Accept all root commands" settings row ----
+    :try_start_pivotwire
+    invoke-static {}, Landroid/ext/Tools;->e()Landroid/content/Context;
+
+    move-result-object v5
+
+    if-eqz v5, :cond_pivotwire
+
+    invoke-virtual {v5}, Landroid/content/Context;->getResources()Landroid/content/res/Resources;
+
+    move-result-object v0
+
+    const-string v2, "pivot_auto_root"
+
+    const-string v7, "id"
+
+    invoke-virtual {v5}, Landroid/content/Context;->getPackageName()Ljava/lang/String;
+
+    move-result-object v8
+
+    invoke-virtual {v0, v2, v7, v8}, Landroid/content/res/Resources;->getIdentifier(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)I
+
+    move-result v0
+
+    if-eqz v0, :cond_pivotwire
+
+    invoke-virtual {v1, v0}, Landroid/view/ViewGroup;->findViewById(I)Landroid/view/View;
+
+    move-result-object v2
+
+    if-eqz v2, :cond_pivotwire
+
+    invoke-static {}, Landroid/ext/Script$rootAutoAccept;->isEnabled()Z
+
+    move-result v7
+
+    if-eqz v7, :cond_pw_off
+
+    const-string v7, "Accept all root commands: Yes"
+
+    goto :goto_pw_set
+
+    :cond_pw_off
+    const-string v7, "Accept all root commands: No"
+
+    :goto_pw_set
+    check-cast v2, Landroid/widget/TextView;
+
+    invoke-virtual {v2, v7}, Landroid/widget/TextView;->setText(Ljava/lang/CharSequence;)V
+
+    new-instance v9, Landroid/ext/Script$RootToggle;
+
+    invoke-direct {v9, v2}, Landroid/ext/Script$RootToggle;-><init>(Landroid/widget/TextView;)V
+
+    invoke-virtual {v2, v9}, Landroid/view/View;->setOnClickListener(Landroid/view/View$OnClickListener;)V
+    :try_end_pivotwire
+    .catch Ljava/lang/Throwable; {:try_start_pivotwire .. :try_end_pivotwire} :catch_pivotwire
+
+    goto :cond_pivotwire
+
+    :catch_pivotwire
+    move-exception v0
+
+    :cond_pivotwire
     .line 87
+
     new-instance v5, Ljava/lang/ref/WeakReference;
+
 
     const v2, 0x7f0b0080
 

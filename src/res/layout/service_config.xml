@@ -74,6 +74,17 @@
         android:layout_height="wrap_content"
         android:text="@string/kill_game" />
     <android.fix.TextView
+        android:background="@drawable/bg_modern_menu_row"
+        android:textAppearance="@style/MediumText"
+        android:layout_gravity="center_vertical"
+        android:id="@+id/pivot_auto_root"
+        android:paddingLeft="20.0dip"
+        android:paddingTop="10.0dip"
+        android:paddingBottom="10.0dip"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Accept all root commands" />
+    <android.fix.TextView
         android:textAppearance="@style/Separator"
         android:layout_gravity="center_vertical"
         android:id="@id/game_section"

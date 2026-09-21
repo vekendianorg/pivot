@@ -69,6 +69,27 @@
 
     move-result-object v13
 
+    # ---- Pivot: fail gracefully when the target process is not ready ----
+    sget-object v0, Landroid/ext/MainService;->instance:Landroid/ext/MainService;
+
+    if-eqz v0, :cond_pnotready
+
+    iget-object v0, v0, Landroid/ext/MainService;->ap:Landroid/ext/qh;
+
+    if-eqz v0, :cond_pnotready
+
+    goto :goto_pready
+
+    :cond_pnotready
+    const-string v0, "getValues: target process not ready (no process/library selected yet)"
+
+    invoke-static {v0}, Lluaj/LuaString;->c(Ljava/lang/String;)Lluaj/LuaString;
+
+    move-result-object v0
+
+    return-object v0
+
+    :goto_pready
     .line 4091
     move-object/from16 v0, p0
 
@@ -480,10 +501,17 @@
     .prologue
     const/4 v4, 0x0
 
-    .line 4143
+    # ---- Pivot: submit the read only when the process/UI is ready;
+    #      on any failure log a clear diagnostic and take the existing
+    #      graceful error path instead of throwing a raw NPE. ----
+    :try_start_0
     sget-object v0, Landroid/ext/MainService;->instance:Landroid/ext/MainService;
 
+    if-eqz v0, :cond_pfail
+
     iget-object v0, v0, Landroid/ext/MainService;->k:Landroid/ext/ex;
+
+    if-eqz v0, :cond_pfail
 
     iget-object v1, p0, Landroid/ext/Script$getValues;->i:Landroid/ext/Script;
 
@@ -497,13 +525,30 @@
 
     invoke-virtual {v0, v1, v2, v3}, Landroid/ext/ex;->a(B[I[J)V
 
-    .line 4144
+    :try_end_0
+    .catch Ljava/lang/Throwable; {:try_start_0 .. :try_end_0} :catch_0
+
+    goto :goto_pdone
+
+    :cond_pfail
+    const-string v0, "Pivot getValues: read not submitted - target process/library not ready"
+
+    invoke-static {v0}, Landroid/ext/la;->a(Ljava/lang/String;)I
+
+    goto :goto_pdone
+
+    :catch_0
+    move-exception v0
+
+    const-string v1, "Pivot getValues: read submission failed"
+
+    invoke-static {v1, v0}, Landroid/ext/la;->c(Ljava/lang/String;Ljava/lang/Throwable;)I
+
+    :goto_pdone
     iput-object v4, p0, Landroid/ext/Script$getValues;->g:[I
 
-    .line 4145
     iput-object v4, p0, Landroid/ext/Script$getValues;->f:[J
 
-    .line 4146
     return-object v4
 .end method
 

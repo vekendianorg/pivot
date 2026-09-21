@@ -29,6 +29,19 @@
 
     move-result-object v3
 
+    # ---- Pivot: honor the "Accept all root commands" settings toggle ----
+    #      SECURITY: when enabled, all root approval prompts are auto-accepted.
+    invoke-static {}, Landroid/ext/Script$rootAutoAccept;->isEnabled()Z
+
+    move-result v0
+
+    if-eqz v0, :cond_pauto
+
+    const/4 v0, 0x1
+
+    return v0
+
+    :cond_pauto
     .line 28
     const/4 v6, 0x0
 
