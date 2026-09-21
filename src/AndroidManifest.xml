@@ -10,6 +10,8 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
     <uses-permission
         android:name="android.permission.ACCESS_SUPERUSER" />
+    <uses-permission
+        android:name="android.permission.FOREGROUND_SERVICE" />
     <!-- This app can appear on top of other apps or other parts of the screen. This may interfere with normal app usage and change the way that other apps appear. -->
     <uses-permission
         android:name="android.permission.SYSTEM_ALERT_WINDOW" />
