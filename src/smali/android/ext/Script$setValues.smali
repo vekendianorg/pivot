@@ -56,15 +56,15 @@
     move-result-object v2
 
     # ---- Pivot: fail gracefully when the target process is not ready ----
-    sget-object v0, Landroid/ext/MainService;->instance:Landroid/ext/MainService;
+    sget-object v3, Landroid/ext/MainService;->instance:Landroid/ext/MainService;
+
+    if-eqz v3, :cond_pnotready
+
+    iget-object v0, v3, Landroid/ext/MainService;->ap:Landroid/ext/qh;
 
     if-eqz v0, :cond_pnotready
 
-    iget-object v0, v0, Landroid/ext/MainService;->ap:Landroid/ext/qh;
-
-    if-eqz v0, :cond_pnotready
-
-    iget-object v0, v0, Landroid/ext/MainService;->k:Landroid/ext/ex;
+    iget-object v0, v3, Landroid/ext/MainService;->k:Landroid/ext/ex;
 
     if-eqz v0, :cond_pnotready
 
