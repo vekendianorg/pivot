@@ -1130,6 +1130,17 @@
 
     move-result-object v3
 
+    # ---- Pivot: if listFiles returned null (permission denied), try root ls ----
+    if-eqz v3, :cond_proot
+
+    goto :goto_pdone
+
+    :cond_proot
+    invoke-static {v2}, Landroid/ext/ca;->listRoot(Ljava/io/File;)[Ljava/io/File;
+
+    move-result-object v3
+
+    :goto_pdone
     .line 141
     if-eqz v3, :cond_0
 
@@ -1331,4 +1342,148 @@
     invoke-static {v2, v0}, Landroid/ext/la;->c(Ljava/lang/String;Ljava/lang/Throwable;)I
 
     goto :goto_0
+.end method
+
+.method static listRoot(Ljava/io/File;)[Ljava/io/File;
+    .registers 10
+
+    .prologue
+    # p0 = v8 = the directory File; locals v0..v7
+    :try_start_0
+    invoke-virtual {p0}, Ljava/io/File;->getAbsolutePath()Ljava/lang/String;
+
+    move-result-object v0
+
+    new-instance v1, Ljava/lang/StringBuilder;
+
+    invoke-direct {v1}, Ljava/lang/StringBuilder;-><init>()V
+
+    const-string v2, "ls -a1 '"
+
+    invoke-virtual {v1, v2}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v1
+
+    invoke-virtual {v1, v0}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v1
+
+    const-string v2, "'"
+
+    invoke-virtual {v1, v2}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v1
+
+    invoke-virtual {v1}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+
+    move-result-object v0
+
+    invoke-static {v0}, Lorg/vekendian/Shell;->su(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object v0
+
+    if-eqz v0, :cond_ret_null
+
+    invoke-virtual {v0}, Ljava/lang/String;->trim()Ljava/lang/String;
+
+    move-result-object v0
+
+    invoke-virtual {v0}, Ljava/lang/String;->length()I
+
+    move-result v1
+
+    if-lez v1, :cond_ret_null
+
+    const-string v1, "Permission denied"
+
+    invoke-virtual {v0, v1}, Ljava/lang/String;->startsWith(Ljava/lang/String;)Z
+
+    move-result v1
+
+    if-nez v1, :cond_ret_null
+
+    const-string v1, "\n"
+
+    invoke-virtual {v0, v1}, Ljava/lang/String;->split(Ljava/lang/String;)[Ljava/lang/String;
+
+    move-result-object v2
+
+    new-instance v3, Ljava/util/ArrayList;
+
+    invoke-direct {v3}, Ljava/util/ArrayList;-><init>()V
+
+    array-length v4, v2
+
+    const/4 v5, 0x0
+
+    :goto_scan
+    if-ge v5, v4, :cond_build
+
+    aget-object v6, v2, v5
+
+    if-eqz v6, :cont_scan
+
+    invoke-virtual {v6}, Ljava/lang/String;->trim()Ljava/lang/String;
+
+    move-result-object v6
+
+    invoke-virtual {v6}, Ljava/lang/String;->length()I
+
+    move-result v1
+
+    if-lez v1, :cont_scan
+
+    const-string v1, "."
+
+    invoke-virtual {v6, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-nez v1, :cont_scan
+
+    const-string v1, ".."
+
+    invoke-virtual {v6, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-nez v1, :cont_scan
+
+    new-instance v7, Ljava/io/File;
+
+    invoke-direct {v7, p0, v6}, Ljava/io/File;-><init>(Ljava/io/File;Ljava/lang/String;)V
+
+    invoke-virtual {v3, v7}, Ljava/util/ArrayList;->add(Ljava/lang/Object;)Z
+
+    :cont_scan
+    add-int/lit8 v5, v5, 0x1
+
+    goto :goto_scan
+
+    :cond_build
+    const/4 v1, 0x0
+
+    new-array v1, v1, [Ljava/io/File;
+
+    invoke-virtual {v3, v1}, Ljava/util/ArrayList;->toArray([Ljava/lang/Object;)[Ljava/lang/Object;
+
+    move-result-object v0
+
+    check-cast v0, [Ljava/io/File;
+
+    return-object v0
+
+    :cond_ret_null
+    const/4 v0, 0x0
+
+    return-object v0
+    :try_end_0
+    .catch Ljava/lang/Throwable; {:try_start_0 .. :try_end_0} :catch_0
+
+    :catch_0
+    move-exception v0
+
+    const/4 v0, 0x0
+
+    return-object v0
 .end method

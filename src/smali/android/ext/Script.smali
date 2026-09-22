@@ -3123,6 +3123,50 @@
 
     invoke-virtual {v3, v1, v2}, Lluaj/LuaTable;->b(Ljava/lang/String;Lluaj/LuaValue;)V
 
+    # ---- Pivot: restored v1.5 API set (webview/decryptScript/inspection) ----
+
+    const-string v1, "webview"
+
+    new-instance v2, Landroid/ext/Script$webview;
+
+    invoke-direct {v2}, Landroid/ext/Script$webview;-><init>()V
+
+    invoke-virtual {v3, v1, v2}, Lluaj/LuaTable;->b(Ljava/lang/String;Lluaj/LuaValue;)V
+
+    const-string v1, "decryptScript"
+
+    new-instance v2, Landroid/ext/Script$decryptScript;
+
+    invoke-direct {v2}, Landroid/ext/Script$decryptScript;-><init>()V
+
+    invoke-virtual {v3, v1, v2}, Lluaj/LuaTable;->b(Ljava/lang/String;Lluaj/LuaValue;)V
+
+    const-string v1, "listFiles"
+
+    new-instance v2, Landroid/ext/Script$listFiles;
+
+    invoke-direct {v2}, Landroid/ext/Script$listFiles;-><init>()V
+
+    invoke-virtual {v3, v1, v2}, Lluaj/LuaTable;->b(Ljava/lang/String;Lluaj/LuaValue;)V
+
+    const-string v1, "dumpProto"
+
+    new-instance v2, Landroid/ext/Script$dumpProto;
+
+    invoke-direct {v2}, Landroid/ext/Script$dumpProto;-><init>()V
+
+    invoke-virtual {v3, v1, v2}, Lluaj/LuaTable;->b(Ljava/lang/String;Lluaj/LuaValue;)V
+
+    const-string v1, "dumpScriptStrings"
+
+    new-instance v2, Landroid/ext/Script$dumpScriptStrings;
+
+    invoke-direct {v2}, Landroid/ext/Script$dumpScriptStrings;-><init>()V
+
+    invoke-virtual {v3, v1, v2}, Lluaj/LuaTable;->b(Ljava/lang/String;Lluaj/LuaValue;)V
+
+    # ---- end Pivot restored API set ----
+
     .line 404
     const-string v5, "setProcessX"
 

@@ -19,8 +19,8 @@ usesFramework:
   tag: null
 version: 2.4.0-260728
 versionInfo:
-  versionCode: 260616
-  versionName: '1.5'
+  versionCode: 260617
+  versionName: '1.7'
 sdkInfo:
   minSdkVersion: 11
   targetSdkVersion: 30

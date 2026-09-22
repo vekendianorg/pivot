@@ -643,6 +643,9 @@
 
     invoke-virtual {v1, p0}, Landroid/view/View;->setOnClickListener(Landroid/view/View$OnClickListener;)V
 
+    # ---- Pivot: MultiScript button next to Open SAF ----
+    invoke-static {v1}, Landroid/ext/Script$MultiRun;->attachButton(Landroid/view/View;)V
+
     .line 143
     const v1, 0x7f0b0015
 
